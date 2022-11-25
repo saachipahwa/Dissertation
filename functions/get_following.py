@@ -33,7 +33,6 @@ def filter(description_string = nurse_description_string, df = None, csv_file = 
     df['years_online'] = current_year - df["created_at"][:-4]
     df['tweets_per_year'] = df['statuses_count']/df['ye ars_online']
 
-
     if csv_file:
         df.to_csv(csv_file)
     else:
@@ -54,11 +53,11 @@ def get_union_followers(user_id = "54506896", pagination = None):
 
     new_followers = pd.DataFrame(followers_data)
     followersdf = pd.concat([followersdf, new_followers], ignore_index=True)
+    followersdf = filter(description_string=nurse_description_string, df=followersdf)
     followersdf.to_csv(followers_file)
 
     #get next token
     next_token = tokens[-1]
-
     return next_token
 
 call_count = 0
