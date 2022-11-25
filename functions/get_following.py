@@ -12,6 +12,7 @@ current_year = today.year
 followers_file = "data/RCONfollowers.csv"
 nurse_description_string = "nurse|nursing"
 
+
 api = authpy('credentials.json')
 
 try:
@@ -31,7 +32,12 @@ def filter(description_string = nurse_description_string, df = None, csv_file = 
     #filter tweetcount
     df['years_online'] = current_year - df["created_at"][:-4]
     df['tweets_per_year'] = df['statuses_count']/df['ye ars_online']
-    df.to_csv(csv_file)
+
+
+    if csv_file:
+        df.to_csv(csv_file)
+    else:
+        return df
 
 def get_union_followers(user_id = "54506896", pagination = None):
     if pagination:
@@ -46,15 +52,23 @@ def get_union_followers(user_id = "54506896", pagination = None):
         # followersdf = pd.DataFrame()
         followersdf = pd.DataFrame({'id':[], 'id_str':[], 'name':[], 'screen_name':[], 'description':[], 'statuses_count':[],'location':[]})
 
-
     new_followers = pd.DataFrame(followers_data)
     followersdf = pd.concat([followersdf, new_followers], ignore_index=True)
     followersdf.to_csv(followers_file)
 
     #get next token
     next_token = tokens[-1]
+
     return next_token
 
+call_count = 0
+
 next_token = get_union_followers()
+call_count += 1
+
 while next_token:
     next_token = get_union_followers()
+    call_count += 1
+
+    print("Just finished call " + str(call_count))
+    print("Next token: " + str(next_token))
