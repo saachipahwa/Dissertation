@@ -21,22 +21,22 @@ try:
 except:
     print('Failed authentication')
 
-def filter(description_string = nurse_description_string, df = None, csv_file = None):
-    if csv_file:
-        df = pd.read_csv(csv_file)
-
+def filter(description_string = nurse_description_string, df = None):
     #filter description
     df["description"] = df["description"].fillna(value="None")
     df = df[df["description"].str.contains(description_string)]
 
-    #filter tweetcount
-    df['years_online'] = int(current_year - int(df["created_at"][:-4]))
-    df['tweets_per_year'] = int(df['statuses_count'])/df['years_online']
+    #filter by rate of tweeting
+    #get years since creation of account and total number of tweets
+    #to get tweet per year
+    df['year_created'] = df["created_at"].str[-4:]
+    df['year_created'] = df['year_created'].astype(int)
+    print(type(current_year))
+    print(type((df["year_created"][0])))
+    df['years_online'] = int(current_year) - df["year_created"]
+    df['tweets_per_year'] = df['statuses_count'] / df['years_online']
 
-    if csv_file:
-        df.to_csv(csv_file)
-    else:
-        return df
+    return df
 
 def get_union_followers(user_id = "54506896", pagination = None):
     if pagination:
@@ -49,7 +49,7 @@ def get_union_followers(user_id = "54506896", pagination = None):
         followersdf = pd.read_csv(followers_file, index_col=0)
     except pd.errors.EmptyDataError:
         # followersdf = pd.DataFrame()
-        followersdf = pd.DataFrame({'id':[], 'id_str':[], 'name':[], 'screen_name':[], 'description':[], 'statuses_count':[],'location':[]})
+        followersdf = pd.DataFrame({'id':[], 'id_str':[], 'name':[], 'screen_name':[], 'description':[], 'statuses_count':[], 'tweets_per_year':[], 'location':[]})
 
     new_followers = pd.DataFrame(followers_data)
     followersdf = pd.concat([followersdf, new_followers], ignore_index=True)
@@ -62,7 +62,7 @@ def get_union_followers(user_id = "54506896", pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers()
+next_token = get_union_followers(pagination="1750455016348240442")
 call_count += 1
 
 while next_token:
