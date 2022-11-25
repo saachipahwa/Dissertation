@@ -31,7 +31,7 @@ def filter(description_string = nurse_description_string, df = None, csv_file = 
 
     #filter tweetcount
     df['years_online'] = current_year - df["created_at"][:-4]
-    df['tweets_per_year'] = df['statuses_count']/df['ye ars_online']
+    df['tweets_per_year'] = df['statuses_count']/df['years_online']
 
     if csv_file:
         df.to_csv(csv_file)
