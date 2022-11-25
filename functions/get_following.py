@@ -31,8 +31,6 @@ def filter(description_string = nurse_description_string, df = None):
     #to get tweet per year
     df['year_created'] = df["created_at"].str[-4:]
     df['year_created'] = df['year_created'].astype(int)
-    print(type(current_year))
-    print(type((df["year_created"][0])))
     df['years_online'] = int(current_year) - df["year_created"]
     df['tweets_per_year'] = df['statuses_count'] / df['years_online']
 
@@ -62,12 +60,13 @@ def get_union_followers(user_id = "54506896", pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers(pagination="1750455016348240442")
+next_token = get_union_followers(pagination=1750455016348240442)
 call_count += 1
 
 while next_token:
-    next_token = get_union_followers()
+    next_token = get_union_followers(next_token)
     call_count += 1
 
     print("Just finished call " + str(call_count))
     print("Next token: " + str(next_token))
+
