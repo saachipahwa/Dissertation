@@ -41,7 +41,7 @@ call_count = 0
 next_token = get_union_followers()
 call_count += 1
 
-while call_count<2:
+while next_token:
     next_token = get_union_followers(next_token)
     call_count += 1
 
