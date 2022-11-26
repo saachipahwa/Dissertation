@@ -17,10 +17,11 @@ except:
 
 def get_union_followers(pagination = None):
     if pagination:
-        onehundredfollowers, tokens = api.get_followers(user_id=54506896, cursor=pagination, count=500, skip_status=True)
+        onehundredfollowers, tokens = api.get_followers(user_id=54506896, cursor=pagination, count=200, skip_status=True)
     else:
-        onehundredfollowers, tokens = api.get_followers(user_id=54506896, cursor="-1", count=500, skip_status=True)
+        onehundredfollowers, tokens = api.get_followers(user_id=54506896, cursor="-1", count=200, skip_status=True)
 
+    print("Got " + str(len(onehundredfollowers)) + " followers")
     followers_data = [r._json for r in onehundredfollowers]
 
     try:
@@ -38,10 +39,10 @@ def get_union_followers(pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers(1749115683455925824)
+next_token = get_union_followers(1748150546929161812)
 call_count += 1
 
-while next_token:
+while call_count<3:
     next_token = get_union_followers(next_token)
     call_count += 1
 
