@@ -4,7 +4,7 @@ import pandas as pd
 
 followers_file = "data/RCONfollowers.csv"
 nurse_description_string = "nurse|nursing"
-today = datetime.date.today()
+today = datetime.today()
 current_year = today.year
 
 def filter(description_string = nurse_description_string, df = None):
