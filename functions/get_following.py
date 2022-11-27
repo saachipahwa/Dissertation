@@ -5,23 +5,29 @@ import pandas as pd
 from authpy import authpy
 import datetime
 
-followers_file = "data/RCONfollowers.csv"
+followers_file = "data/NEUfollowers.csv"
 api = authpy('credentials.json')
+RCON_ID = 54506896
+NEU_ID = 884369177368199168
+
+def store_log(message):
+    print(message)
+    with open("store_log.txt", "a+") as file:
+        file.write(message)
 
 try:
     api.verify_credentials()
-    print('Successful Authentication')
+    store_log('Successful Authentication')
 except:
-    print('Failed authentication')
-
+    store_log('Failed authentication')
 
 def get_union_followers(pagination = None):
     if pagination:
-        onehundredfollowers, tokens = api.get_followers(user_id=54506896, cursor=pagination, count=200, skip_status=True)
+        onehundredfollowers, tokens = api.get_followers(user_id=NEU_ID, cursor=pagination, count=200, skip_status=True)
     else:
-        onehundredfollowers, tokens = api.get_followers(user_id=54506896, cursor="-1", count=200, skip_status=True)
+        onehundredfollowers, tokens = api.get_followers(user_id=NEU_ID, cursor="-1", count=200, skip_status=True)
 
-    print("Got " + str(len(onehundredfollowers)) + " followers")
+    store_log("Got " + str(len(onehundredfollowers)) + " followers")
     followers_data = [r._json for r in onehundredfollowers]
 
     try:
@@ -39,13 +45,13 @@ def get_union_followers(pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers(1662763456009933708)
+next_token = get_union_followers(1743413631759417237)
 call_count += 1
 
 while next_token:
     next_token = get_union_followers(next_token)
     call_count += 1
 
-    print("Just finished call " + str(call_count))
-    print("Next token: " + str(next_token))
+    store_log("Just finished call " + str(call_count))
+    store_log("Next token: " + str(next_token))
 
