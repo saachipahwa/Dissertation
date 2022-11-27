@@ -45,7 +45,7 @@ def get_union_followers(pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers(1743413631759417237)
+next_token = get_union_followers(1666336082022612503)
 call_count += 1
 
 while next_token:
