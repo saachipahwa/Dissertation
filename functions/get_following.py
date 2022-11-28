@@ -5,10 +5,12 @@ import pandas as pd
 from authpy import authpy
 import datetime
 
-followers_file = "data/NEUfollowers.csv"
+followers_file = "data/BMAfollowers.csv"
 api = authpy('credentials.json')
 RCON_ID = 54506896
 NEU_ID = 884369177368199168
+BMA_ID = 14243046
+UNION_ID = BMA_ID
 
 def store_log(message):
     print(message)
@@ -23,12 +25,12 @@ except:
 
 def get_union_followers(pagination = None):
     if pagination:
-        onehundredfollowers, tokens = api.get_followers(user_id=NEU_ID, cursor=pagination, count=200, skip_status=True)
+        twohundredfollowers, tokens = api.get_followers(user_id=UNION_ID, cursor=pagination, count=200, skip_status=True)
     else:
-        onehundredfollowers, tokens = api.get_followers(user_id=NEU_ID, cursor="-1", count=200, skip_status=True)
+        twohundredfollowers, tokens = api.get_followers(user_id=UNION_ID, cursor="-1", count=200, skip_status=True)
 
-    store_log("Got " + str(len(onehundredfollowers)) + " followers")
-    followers_data = [r._json for r in onehundredfollowers]
+    store_log("Got " + str(len(twohundredfollowers)) + " followers")
+    followers_data = [r._json for r in twohundredfollowers]
 
     try:
         followersdf = pd.read_csv(followers_file, index_col=0)
@@ -45,7 +47,7 @@ def get_union_followers(pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers(1666336082022612503)
+next_token = get_union_followers(1743481153708616526)
 call_count += 1
 
 while next_token:
