@@ -5,17 +5,17 @@ import pandas as pd
 from authpy import authpy
 import datetime
 
-followers_file = "data/BMAfollowers.csv"
+followers_file = "data/moreRCONfollowers.csv"
 api = authpy('credentials.json')
 RCON_ID = 54506896
 NEU_ID = 884369177368199168
-BMA_ID = 14243046
-UNION_ID = BMA_ID
+BMA_ID = 14243046 #BMA call 121: 1678465743253206942
+UNION_ID = RCON_ID
 
 def store_log(message):
     print(message)
     with open("store_log.txt", "a+") as file:
-        file.write(message)
+        file.write(message + "\n")
 
 try:
     api.verify_credentials()

@@ -2,15 +2,17 @@ from datetime import datetime
 
 import pandas as pd
 
-followers_file = "data/BMAfollowers.csv"
+followers_file = "data/RCONfollowers.csv"
 nurse_description_string = "nurse|nursing"
 teacher_description_string = "teacher"
-doctor_description_string = "doctor|surgeon|medical student"
-description_string = doctor_description_string
+doctor_description_string = "doctor|surgeon|general practicioner"
+description_string = nurse_description_string
 today = datetime.today()
 current_year = today.year
 
 def filter(df = None):
+    print("length before filtering: " + str(len(df)))
+
     #filter description
     df["description"] = df["description"].fillna(value="None")
     df = df[df["description"].str.contains(description_string)]
@@ -31,11 +33,14 @@ def filter(df = None):
     df = df[(df[['statuses_count']] != 0).all(axis=1)]
     df = df[(df[['years_online']] != 0).all(axis=1)]
     df["tweets_per_year"] = df["statuses_count"] / df["years_online"]
-    print(len(df))
+    df = df[(df[['tweets_per_year']] != 0).all(axis=1)]
+    df = df[df["tweets_per_year"]>float(2000)]
+
+    print("length after filtering " + str(len(df)))
     return df
 
 
 followersdf = pd.read_csv(followers_file, index_col=0)
 followersdf = filter(df=followersdf)
-followersdf.to_csv(followers_file)
+followersdf.to_csv("data/BMAfollowers.csv")
 
