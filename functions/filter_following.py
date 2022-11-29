@@ -44,5 +44,5 @@ def filter(df = None):
 
 followersdf = pd.read_csv(followers_file, index_col=0)
 followersdf = filter(df=followersdf)
-followersdf.to_csv("data/RCONfollowers.csv")
+followersdf.to_csv(followers_file)
 
