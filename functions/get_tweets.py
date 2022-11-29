@@ -9,7 +9,7 @@ from authpy import authpy
 def store_log(message):
     print(message)
     with open("gettweetsstorelog.txt", "a+") as file:
-        file.write(message + "\n")
+        file.write(str(message) + "\n")
 
 
 client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%2B21x1LrlCLfEwkK1w%3DknqlAAkiTjZBMul2hnhbKEvEasHTPLXMiv4o9LiXgzdei1a1c0',
