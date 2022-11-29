@@ -9,7 +9,7 @@ followers_file = "data/BMAfollowers.csv"
 api = authpy('credentials.json')
 RCON_ID = 54506896
 NEU_ID = 884369177368199168
-BMA_ID = 14243046 #BMA call 121: 1678465743253206942
+BMA_ID = 14243046 #BMA call 151: 1666778642245083191
 UNION_ID = BMA_ID
 
 def store_log(message):
@@ -47,7 +47,7 @@ def get_union_followers(pagination = None):
 
 call_count = 0
 
-next_token = get_union_followers(1678465743253206942)
+next_token = get_union_followers(1666778642245083191)
 call_count += 1
 
 while next_token:
