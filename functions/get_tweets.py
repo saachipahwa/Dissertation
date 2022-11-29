@@ -47,14 +47,17 @@ def get_tweets(id):
 
 followers_file = "data/filteredRCONfollowers.csv"
 followerdf = pd.read_csv(followers_file)
-
 for id in followerdf['id']:
+    count=0
     store_log(id)
+    store_log(count)
     next_token = get_tweets(int(id))
     store_log(next_token)
     while next_token:
+        count+=1
         next_token = get_tweets(int(id))
         store_log(next_token)
+        store_log(count)
 
 # def get_tweets(id):
 #     id_file = "tweets/{}.json".format(id)
