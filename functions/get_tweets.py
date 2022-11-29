@@ -8,7 +8,7 @@ from authpy import authpy
 
 def store_log(message):
     print(message)
-    with open("store_log.txt", "a+") as file:
+    with open("gettweetsstorelog.txt", "a+") as file:
         file.write(message + "\n")
 
 
@@ -49,10 +49,12 @@ followers_file = "data/filteredRCONfollowers.csv"
 followerdf = pd.read_csv(followers_file)
 
 for id in followerdf['id']:
+    store_log(id)
     next_token = get_tweets(int(id))
+    store_log(next_token)
     while next_token:
         next_token = get_tweets(int(id))
-
+        store_log(next_token)
 
 # def get_tweets(id):
 #     id_file = "tweets/{}.json".format(id)
