@@ -11,7 +11,6 @@ def store_log(message):
     with open("gettweetsstorelog.txt", "a+") as file:
         file.write(str(message) + "\n")
 
-
 client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%2B21x1LrlCLfEwkK1w%3DknqlAAkiTjZBMul2hnhbKEvEasHTPLXMiv4o9LiXgzdei1a1c0',
                        consumer_key='U2Qvj02fgz61HtzRJb92GRK6D',
                        consumer_secret='fUGXSZiChK3mKAjt3ascUEzfZa0y3bQJ6NdpbyktAenv6Wpwhw',
@@ -31,7 +30,7 @@ def get_tweets(id, pagination=None):
             except pd.errors.EmptyDataError:
                 currenttweetsdf = pd.DataFrame({'id':[], 'created_at':[]})
     if pagination:
-        call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'],pagination_token=pagination)
+        call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'], pagination_token=pagination)
     else:
         call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'])
 
@@ -50,15 +49,17 @@ def get_tweets(id, pagination=None):
 
 followers_file = "data/filteredRCONfollowers.csv"
 followerdf = pd.read_csv(followers_file)
+
+
 for id in followerdf['id']:
-    count=0
     store_log(id)
+    count=0
+    next_token = get_tweets(int(id))
     store_log(count)
-    next_token = get_tweets(int(id), pagination='7140dibdnow9c7btw4232rrbr4d405qrn5qs3p1d39ely')
     store_log(next_token)
     while next_token:
         count+=1
-        next_token = get_tweets(int(id))
+        next_token = get_tweets(int(id), pagination = next_token)
         store_log(next_token)
         store_log(count)
 
