@@ -16,7 +16,8 @@ client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%
                        consumer_key='U2Qvj02fgz61HtzRJb92GRK6D',
                        consumer_secret='fUGXSZiChK3mKAjt3ascUEzfZa0y3bQJ6NdpbyktAenv6Wpwhw',
                        access_token_secret='erQnd9fLb20TrodIQJztsZngI26K1EaYphXVc6Xf2Wigs',
-                       access_token='1582717564353904640-HhB6jWVTq1mWCOoNgX8IPYQ4uehW4C')
+                       access_token='1582717564353904640-HhB6jWVTq1mWCOoNgX8IPYQ4uehW4C',
+                       wait_on_rate_limit=True)
 
 startDate = utc.localize(datetime.datetime(2019, 2, 1, 0, 0, 0))
 endDate = utc.localize(datetime.datetime(2022, 9, 1, 0, 0, 0))
