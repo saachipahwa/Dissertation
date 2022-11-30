@@ -1,12 +1,12 @@
 from datetime import datetime
 import pandas as pd
 
-followers_file = "data/NEUfollowers.csv"
-filtered_file = "data/botNEUfollowers.csv"
+followers_file = "data/BMAfollowers.csv"
+filtered_file = "data/filteredBMAfollowers.csv"
 nurse_description_string = "nurse|nursing"
 teacher_description_string = "teacher"
 doctor_description_string = "doctor|surgeon|general practicioner"
-description_string = nurse_description_string
+description_string = doctor_description_string
 today = datetime.today()
 current_year = today.year
 
@@ -41,8 +41,8 @@ def filter(df = None):
 
     #remove bots
     df['friend_ratio'] = df['followers_count'] / df['friends_count'] #get follower to friend ratio
-    df = df.loc[(df["followers_count"]>1200) & (df["friend_ratio"]<1)]
-    # df = df.loc[(df["follower_count"] < 1200) or ((df["follower_count"] >= 1200) and (df["friends_ratio"]>=1))]
+    # df = df.loc[(df["followers_count"]>1200) & (df["friend_ratio"]<1)] #USE TO GET BOTS
+    df = df.loc[(df["followers_count"] < 4000) | ((df["followers_count"] >= 4000) & (df["friend_ratio"]>=1))] #USE TO REMOVE BOTS
 
     print("length after filtering " + str(len(df)))
     return df
