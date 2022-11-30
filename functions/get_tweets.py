@@ -22,7 +22,7 @@ client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%
 startDate = utc.localize(datetime.datetime(2019, 2, 1, 0, 0, 0))
 endDate = utc.localize(datetime.datetime(2022, 9, 1, 0, 0, 0))
 
-def get_tweets(id):
+def get_tweets(id, pagination=None):
     id_file = "tweets/{}.csv".format(id)
 
     with open(id_file, "a+") as f:
@@ -30,8 +30,10 @@ def get_tweets(id):
                 currenttweetsdf = pd.read_csv(id_file, index_col=0)
             except pd.errors.EmptyDataError:
                 currenttweetsdf = pd.DataFrame({'id':[], 'created_at':[]})
-
-    call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'])
+    if pagination:
+        call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'],pagination_token=pagination)
+    else:
+        call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'])
 
     data = call.data
     meta = call.meta
@@ -52,7 +54,7 @@ for id in followerdf['id']:
     count=0
     store_log(id)
     store_log(count)
-    next_token = get_tweets(int(id))
+    next_token = get_tweets(int(id), pagination='7140dibdnow9c7btw4232rrbr4d405qrn5qs3p1d39ely')
     store_log(next_token)
     while next_token:
         count+=1
