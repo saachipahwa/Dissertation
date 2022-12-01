@@ -31,6 +31,7 @@ def get_tweets(id, pagination=None):
                 currenttweetsdf = pd.read_csv(id_file, index_col=0)
             except pd.errors.EmptyDataError:
                 currenttweetsdf = pd.DataFrame({'id':[], 'created_at':[]})
+
     if pagination:
         call = client.get_users_tweets(id=id, start_time=startDate, end_time=endDate, tweet_fields=['created_at'], pagination_token=pagination)
     else:
