@@ -16,7 +16,7 @@ def filter(df = None):
     #filter description
     df["description"] = df["description"].fillna(value="None")
     df = df[df["description"].str.contains(description_string)]
-
+    df = df[~df["description"].str.contains("doctorate")]
     #Should've been online before 2019
     df["year_created"] = df["created_at"]
     df["year_created"] = df.year_created.str[-4:]
@@ -27,7 +27,7 @@ def filter(df = None):
     df = df[df["year_created"]<=float(2019)]
 
     #filter by rate of tweeting
-    #get years since creation of account and total number of tweets
+    #get years since creation of account and total number of nursetweets
     #to get tweet per year
     df["years_online"] = int(current_year) - df["year_created"]
     df['statuses_count']=df['statuses_count'].astype(str)
@@ -40,9 +40,9 @@ def filter(df = None):
     df = df[df["tweets_per_year"]>float(2000)]
 
     #remove bots
-    df['friend_ratio'] = df['followers_count'] / df['friends_count'] #get follower to friend ratio
-    # df = df.loc[(df["followers_count"]>1200) & (df["friend_ratio"]<1)] #USE TO GET BOTS
-    df = df.loc[(df["followers_count"] < 4000) | ((df["followers_count"] >= 4000) & (df["friend_ratio"]>=1))] #USE TO REMOVE BOTS
+    # df['friend_ratio'] = df['followers_count'] / df['friends_count'] #get follower to friend ratio
+    # # df = df.loc[(df["followers_count"]>4000) & (df["friend_ratio"]<1)] #USE TO GET BOTS
+    # df = df.loc[(df["followers_count"] < 4000) | ((df["followers_count"] >= 4000) & (df["friend_ratio"]>=1))] #USE TO REMOVE BOTS
 
     print("length after filtering " + str(len(df)))
     return df

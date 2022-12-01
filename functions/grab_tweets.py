@@ -34,7 +34,7 @@ for ht in desired_hashtags:
 
     tweets = tweets + list(rs.stream())
 
-# [print(tweet) for tweet in tweets[0:10]]
+# [print(tweet) for tweet in nursetweets[0:10]]
 
 big_df = pd.DataFrame()
 
@@ -44,7 +44,7 @@ for call in tweets:
     data = call.get("data")
     user_fields = call.get("includes").get("users")
 
-    #turn tweets into dataframe
+    #turn nursetweets into dataframe
     data = json.loads(json.dumps(data))
     text_df = pd.DataFrame(data)
 
@@ -66,7 +66,7 @@ big_df = separate_metrics(big_df)
 big_df = big_df.loc[big_df['following_count'] > 10]
 big_df = big_df.loc[big_df['followers_count'] > 10]
 
-#drops tweets that i've called more than once
+#drops nursetweets that i've called more than once
 big_df.drop_duplicates('id', ignore_index=True)
 big_df.drop_duplicates('text', ignore_index=True)
 

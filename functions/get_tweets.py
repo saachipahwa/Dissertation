@@ -6,7 +6,8 @@ import tweepy
 from pytz import utc
 from authpy import authpy
 
-directory = "nursetweets"
+directory = "doctortweets"
+
 def store_log(message):
     print(message)
     with open("gettweetsstorelog.txt", "a+") as file:
@@ -48,7 +49,7 @@ def get_tweets(id, pagination=None):
 
     return meta.get('next_token')
 
-followers_file = "data/filteredRCONfollowers.csv"
+followers_file = "data/filteredBMAfollowers.csv"
 followerdf = pd.read_csv(followers_file)
 
 for id in followerdf['id']:
