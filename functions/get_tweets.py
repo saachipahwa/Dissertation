@@ -6,6 +6,7 @@ import tweepy
 from pytz import utc
 from authpy import authpy
 
+directory = "nursetweets"
 def store_log(message):
     print(message)
     with open("gettweetsstorelog.txt", "a+") as file:
@@ -22,7 +23,7 @@ startDate = utc.localize(datetime.datetime(2019, 2, 1, 0, 0, 0))
 endDate = utc.localize(datetime.datetime(2022, 9, 1, 0, 0, 0))
 
 def get_tweets(id, pagination=None):
-    id_file = "tweets/{}.csv".format(id)
+    id_file = "{}/{}.csv".format(directory, id)
 
     with open(id_file, "a+") as f:
             try:
@@ -50,29 +51,31 @@ def get_tweets(id, pagination=None):
 followers_file = "data/filteredRCONfollowers.csv"
 followerdf = pd.read_csv(followers_file)
 
-
 for id in followerdf['id']:
-    store_log(id)
+    store_log("ID" + str(id))
     count=0
     next_token = get_tweets(int(id))
-    store_log(count)
-    store_log(next_token)
+    store_log("COUNT" + str(count))
+    store_log("NEXT_TOKEN" + str(next_token))
     while next_token:
         count+=1
         next_token = get_tweets(int(id), pagination = next_token)
-        store_log(next_token)
-        store_log(count)
+        store_log("NEXT_TOKEN" + str(next_token))
+        store_log("COUNT" + str(count))
+
+store_log("Finished - I got all the tweets!!")
 
 # def get_tweets(id):
-#     id_file = "tweets/{}.json".format(id)
+#     id_file = "nursetweets/{}.json".format(id)
 #
-#     tweets = []
+#     nursetweets = []
 #     tmpTweets = api.user_timeline(user_id=id, exclude_replies=False, include_rts=False)
-#     print(tmpTweets)
+#     print(tmp
+#     Tweets)
 #
 #     for tweet in tmpTweets:
 #         if endDate > tweet.created_at > startDate:
-#             tweets.append(tweet._json)
+#             nursetweets.append(tweet._json)
 #             print("1")
 #             print(tweet)
 #
@@ -82,7 +85,7 @@ for id in followerdf['id']:
 #         tmpTweets = api.user_timeline(user_id=id, max_id = tmpTweets[-1].id, exclude_replies=False,include_rts=False)
 #         for tweet in tmpTweets:
 #             if endDate > tweet.created_at > startDate:
-#                 tweets.append(tweet._json)
+#                 nursetweets.append(tweet._json)
 #                 print("2")
 #                 print(tweet)
 #
@@ -93,7 +96,7 @@ for id in followerdf['id']:
 #         except pd.errors.EmptyDataError:
 #             tweetdf = pd.DataFrame({'id':[], 'created_at':[]})
 #
-#         newtweetdf = pd.DataFrame(tweets)
+#         newtweetdf = pd.DataFrame(nursetweets)
 #         tweetdf = pd.concat([tweetdf, newtweetdf], ignore_index=True)
 #         tweetdf.to_csv(id_file)
 #
