@@ -4,12 +4,12 @@ import pandas as pd
 from authpy import authpy
 import datetime
 
-followers_file = "data/BMAfollowers.csv"
+followers_file = "data/NEUfollowers.csv"
 api = authpy('credentials.json')
 RCON_ID = 54506896
 NEU_ID = 884369177368199168
 BMA_ID = 14243046 #BMA call 361+186: 1520753044442708727
-UNION_ID = BMA_ID
+UNION_ID = NEU_ID
 
 def store_log(message):
     print(message)
