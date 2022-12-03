@@ -6,7 +6,7 @@ import tweepy
 from pytz import utc
 from authpy import authpy
 
-directory = "doctortweets"
+directory = "nursetweets"
 
 def store_log(message):
     print(message)
