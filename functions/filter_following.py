@@ -1,8 +1,8 @@
 from datetime import datetime
 import pandas as pd
 
-followers_file = "data/bmafollowers.csv"
-filtered_file = "data/filteredBMAfollowers.csv"
+followers_file = "data/NEUfollowers.csv"
+filtered_file = "data/filteredNEUfollowers.csv"
 nurse_description_string = "nurse|nursing"
 teacher_description_string = "teacher"
 doctor_description_string = "doctor|surgeon|general practicioner"
@@ -43,6 +43,10 @@ def filter(df = None):
     # df['friend_ratio'] = df['followers_count'] / df['friends_count'] #get follower to friend ratio
     # df = df.loc[(df["followers_count"]>4000) & (df["friend_ratio"]<1)] #USE TO GET BOTS
     # df = df.loc[(df["followers_count"] < 4000) | ((df["followers_count"] >= 4000) & (df["friend_ratio"]>=1))] #USE TO REMOVE BOTS
+
+    #remove private accounts
+    df['protected'] = df['protected'].astype(str)
+    df = df[~df["protected"].str.contains("True")]
 
     print("length after filtering " + str(len(df)))
     return df

@@ -7,6 +7,7 @@ from pytz import utc
 from authpy import authpy
 
 directory = "nursetweets"
+followers_file = "data/filteredRCONfollowers.csv"
 
 def store_log(message):
     print(message)
@@ -50,65 +51,31 @@ def get_tweets(id, pagination=None):
 
     return meta.get('next_token')
 
-followers_file = "data/filteredBMAfollowers.csv"
 followerdf = pd.read_csv(followers_file)
-
-for id in followerdf['id']:
-    store_log("ID" + str(id))
-    count=0
-    next_token = get_tweets(int(id))
-    store_log("COUNT" + str(count))
+id = 336785641
+store_log("ID " + str(id))
+count=0
+next_token = get_tweets(int(id))
+store_log("COUNT" + str(count))
+store_log("NEXT_TOKEN" + str(next_token))
+while next_token:
+    count+=1
+    next_token = get_tweets(int(id), pagination = next_token)
     store_log("NEXT_TOKEN" + str(next_token))
-    while next_token:
-        count+=1
-        next_token = get_tweets(int(id), pagination = next_token)
-        store_log("NEXT_TOKEN" + str(next_token))
-        store_log("COUNT" + str(count))
+    store_log("COUNT" + str(count))
 
 store_log("Finished - I got all the tweets!!")
-
-# def get_tweets(id):
-#     id_file = "nursetweets/{}.json".format(id)
 #
-#     nursetweets = []
-#     tmpTweets = api.user_timeline(user_id=id, exclude_replies=False, include_rts=False)
-#     print(tmp
-#     Tweets)
+# for id in followerdf['id']:
+#     store_log("ID" + str(id))
+#     count=0
+#     next_token = get_tweets(int(id))
+#     store_log("COUNT" + str(count))
+#     store_log("NEXT_TOKEN" + str(next_token))
+#     while next_token:
+#         count+=1
+#         next_token = get_tweets(int(id), pagination = next_token)
+#         store_log("NEXT_TOKEN" + str(next_token))
+#         store_log("COUNT" + str(count))
 #
-#     for tweet in tmpTweets:
-#         if endDate > tweet.created_at > startDate:
-#             nursetweets.append(tweet._json)
-#             print("1")
-#             print(tweet)
-#
-#     print("Last in list created at: " + str(tmpTweets[-1].created_at))
-#
-#     while tmpTweets[-1].created_at > startDate:
-#         tmpTweets = api.user_timeline(user_id=id, max_id = tmpTweets[-1].id, exclude_replies=False,include_rts=False)
-#         for tweet in tmpTweets:
-#             if endDate > tweet.created_at > startDate:
-#                 nursetweets.append(tweet._json)
-#                 print("2")
-#                 print(tweet)
-#
-#     #WRITE TO CSV
-#     with open(id_file, "a+") as f:
-#         try:
-#             tweetdf = pd.read_csv(id_file, index_col=0)
-#         except pd.errors.EmptyDataError:
-#             tweetdf = pd.DataFrame({'id':[], 'created_at':[]})
-#
-#         newtweetdf = pd.DataFrame(nursetweets)
-#         tweetdf = pd.concat([tweetdf, newtweetdf], ignore_index=True)
-#         tweetdf.to_csv(id_file)
-#
-#     #WRITING TO JSON
-#     # for t in tmpTweets:
-#     #     json_string = json.dumps(t._json)
-#     #     with open("{}.json".format(20465706), "a+") as f:
-#     #         f.write(json_string + "\n")
-#     #         print("wrote it")
-#
-#
-# get_tweets(20465706)
-
+# store_log("Finished - I got all the tweets!!")
