@@ -1,377 +1,344 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.564996894790656e+18,2022-08-31 15:21:50+00:00,['1564996894790656003'],@LumoTravel Are you offering refunds?
-1,1.5649942380053463e+18,2022-08-31 15:11:17+00:00,['1564994238005346305'],@LumoTravel Hello. Not able to get a LNER service? Avanti are poor and a much slower service
-2,1.5618103198271652e+18,2022-08-22 20:19:31+00:00,['1561810319827165185'],@RLH_TAG hello. FY2 in BHRUT trying to get in touch re taster week - Are you able to follow me back/open your DMs momentarily? Cheers in advance
-3,1.5546494090398802e+18,2022-08-03 02:04:37+00:00,['1554649409039880194'],That’s the party of the trade unionists there 👍🏻 https://t.co/UIMKdMt2ju
-4,1.5542139410347704e+18,2022-08-01 21:14:14+00:00,['1554213941034770435'],RT @CountBinface: Spice Up Your Reich. https://t.co/2Gc7orecqM
-5,1.5491512994211062e+18,2022-07-18 21:57:06+00:00,['1549151299421106178'],@tobes_cooper @HAIMtheband Did you sell this?
-6,1.539546658727506e+18,2022-06-22 09:51:41+00:00,['1539546658727505920'],RT @graceblakeley: Imagine if journalists grilled government ministers the way they do unionists.
-7,1.5343124128994304e+18,2022-06-07 23:12:40+00:00,['1534312412899430400'],You saw the whole of the moon 😍😍😍 https://t.co/5HTmrD6DWz
-8,1.53153137828574e+18,2022-05-31 07:01:49+00:00,['1531531378285740032'],RT @GeorgeMonbiot: Every breathless BBC commentary on her progress down the Mall is a small victory for hierarchy and conservatism.
-9,1.514886806533202e+18,2022-04-15 08:42:14+00:00,['1514886806533201920'],"It’s quite odd seeing all these tweets from journos, about how the Rwanda plan is  ‘unBritish…not what we stand for as a country’..etc. I would go as far to say that the whole thing is deeply British. Massive queen n country, empire bashing vibes 🇬🇧 🇬🇧"
-10,1.5141351862623478e+18,2022-04-13 06:55:34+00:00,['1514135186262347778'],A man who has tried to pass a wig off as real hair for the past 20 odd years unsurprisingly unfazed about chucking around some offensive lies about teachers and nurses during the pandemic https://t.co/VyqWXcmdNG
-11,1.4921190845149102e+18,2022-02-11 12:51:26+00:00,['1492119084514910213'],RT @Jenny_Pewsey: Every FY in the NHS can relate to Shruti  being shouted at for a bullshit specialty review they didn't want to request
-12,1.4898894111646843e+18,2022-02-05 09:11:31+00:00,['1489889411164684289'],Thought this was the Onion tbh https://t.co/eVT8loxxi4
-13,1.4886311159130808e+18,2022-02-01 21:51:30+00:00,['1488631115913080832'],So upset she’s giving up her peerage from the man himself! 🐊 https://t.co/fUI5bJJuDH
-14,1.4796281784360223e+18,2022-01-08 01:37:02+00:00,['1479628178436022273'],@ClaireDow1 @docofagesSophie Told my girlfriend this evening about it - may have opened a can of worms there! You’ve definitely got me intrigued to watch that Stacey Solomon programme though…
-15,1.4792388694092186e+18,2022-01-06 23:50:04+00:00,['1479238869409218562'],@MeganGardinerr Funny but painful x
-16,1.4790886404667638e+18,2022-01-06 13:53:06+00:00,['1479088640466763780'],May I add that I am naked for all of this. Fucking typical
-17,1.4790885213275628e+18,2022-01-06 13:52:38+00:00,['1479088521327562754'],"Was at mole mapping this morning. General chat ensues. ‘oh do you come from a long line of doctors?’
+,Unnamed: 0,id,created_at,edit_history_tweet_ids,text
+0,0,1.564996894790656e+18,2022-08-31 15:21:50+00:00,['1564996894790656003'],@LumoTravel Are you offering refunds?
+1,1,1.5649942380053463e+18,2022-08-31 15:11:17+00:00,['1564994238005346305'],@LumoTravel Hello. Not able to get a LNER service? Avanti are poor and a much slower service
+2,2,1.5618103198271652e+18,2022-08-22 20:19:31+00:00,['1561810319827165185'],@RLH_TAG hello. FY2 in BHRUT trying to get in touch re taster week - Are you able to follow me back/open your DMs momentarily? Cheers in advance
+3,3,1.5546494090398802e+18,2022-08-03 02:04:37+00:00,['1554649409039880194'],That’s the party of the trade unionists there 👍🏻 https://t.co/UIMKdMt2ju
+4,4,1.5542139410347704e+18,2022-08-01 21:14:14+00:00,['1554213941034770435'],
+5,5,1.5491512994211062e+18,2022-07-18 21:57:06+00:00,['1549151299421106178'],@tobes_cooper @HAIMtheband Did you sell this?
+6,6,1.539546658727506e+18,2022-06-22 09:51:41+00:00,['1539546658727505920'],
+7,7,1.5343124128994304e+18,2022-06-07 23:12:40+00:00,['1534312412899430400'],You saw the whole of the moon 😍😍😍 https://t.co/5HTmrD6DWz
+8,8,1.53153137828574e+18,2022-05-31 07:01:49+00:00,['1531531378285740032'],
+9,9,1.514886806533202e+18,2022-04-15 08:42:14+00:00,['1514886806533201920'],"It’s quite odd seeing all these tweets from journos, about how the Rwanda plan is  ‘unBritish…not what we stand for as a country’..etc. I would go as far to say that the whole thing is deeply British. Massive queen n country, empire bashing vibes 🇬🇧 🇬🇧"
+10,10,1.5141351862623478e+18,2022-04-13 06:55:34+00:00,['1514135186262347778'],A man who has tried to pass a wig off as real hair for the past 20 odd years unsurprisingly unfazed about chucking around some offensive lies about teachers and nurses during the pandemic https://t.co/VyqWXcmdNG
+11,11,1.4921190845149102e+18,2022-02-11 12:51:26+00:00,['1492119084514910213'],
+12,12,1.4898894111646843e+18,2022-02-05 09:11:31+00:00,['1489889411164684289'],Thought this was the Onion tbh https://t.co/eVT8loxxi4
+13,13,1.4886311159130808e+18,2022-02-01 21:51:30+00:00,['1488631115913080832'],So upset she’s giving up her peerage from the man himself! 🐊 https://t.co/fUI5bJJuDH
+14,14,1.4796281784360223e+18,2022-01-08 01:37:02+00:00,['1479628178436022273'],@ClaireDow1 @docofagesSophie Told my girlfriend this evening about it - may have opened a can of worms there! You’ve definitely got me intrigued to watch that Stacey Solomon programme though…
+15,15,1.4792388694092186e+18,2022-01-06 23:50:04+00:00,['1479238869409218562'],@MeganGardinerr Funny but painful x
+16,16,1.4790886404667638e+18,2022-01-06 13:53:06+00:00,['1479088640466763780'],May I add that I am naked for all of this. Fucking typical
+17,17,1.4790885213275628e+18,2022-01-06 13:52:38+00:00,['1479088521327562754'],"Was at mole mapping this morning. General chat ensues. ‘oh do you come from a long line of doctors?’
 I reply ‘no actually my dad’s a retired plumber…do you come from a long line of photographers?’ The man simply tutted and said that was a very rude question. 45 mins of silence."
-18,1.4770896959390597e+18,2022-01-01 01:30:01+00:00,['1477089695939059712'],RT @JasonReidUK: One of the top moments of 2021. A glimmer of hope in a terrible year. https://t.co/jh40ONlJQZ
-19,1.4758891402564485e+18,2021-12-28 17:59:26+00:00,['1475889140256448513'],It’s a sannie not a sarnie because you eat a sandwich not a sarndwich x
-20,1.473585649504686e+18,2021-12-22 09:26:11+00:00,['1473585649504686081'],https://t.co/bMxuMU1fK5 https://t.co/jdusH8yXMU
-21,1.4716286854301164e+18,2021-12-16 23:49:54+00:00,['1471628685430116361'],Nicci sturge said ‘this👏🏼👏🏼👏🏼👏🏼👏🏼’ https://t.co/FybAfbb1VS
-22,1.46867634969088e+18,2021-12-08 20:18:23+00:00,['1468676349690880011'],RT @salomewagaine: Why is she crying? That single mum she tried to villify and humiliate on Newsnight for having the temerity to not want t…
-23,1.4610382356903567e+18,2021-11-17 18:27:14+00:00,['1461038235690356739'],RT @RichardBurgon: Some MPs are briefing newspapers that they'd stand down if they couldn't have second jobs as they couldn't possibly live…
-24,1.458577344969552e+18,2021-11-10 23:28:32+00:00,['1458577344969551879'],https://t.co/3ZxQCraKQ3
-25,1.45668891091925e+18,2021-11-05 18:24:34+00:00,['1456688910919249920'],"RT @benphillips76: Once again Barbados PM Mia Mottley has been the one who has delivered the speech the world needed. May she be heard, may…"
-26,1.4515924028091064e+18,2021-10-22 16:52:52+00:00,['1451592402809106434'],One of my colleagues today said after coffee ‘right! best get back to the ward and get on with the jobbies’ and I couldn’t really bring myself to explain to them was wrong with that
-27,1.4515907419360215e+18,2021-10-22 16:46:16+00:00,['1451590741936021529'],And Timmy O’Flahery canny act https://t.co/z7JlQT9S8s
-28,1.451251477654147e+18,2021-10-21 18:18:09+00:00,['1451251477654147076'],Selling a ticket for Laura Marling at the Roundhouse tomorrow night. Seek within x
-29,1.4489706200505467e+18,2021-10-15 11:14:51+00:00,['1448970620050546721'],@jmccloskeey A niche tweet but I feel this x
-30,1.4410278046409892e+18,2021-09-23 13:12:56+00:00,['1441027804640989192'],I once met a wee boy on holiday in Spain when I was like 8 (also a wee boy) who thought the sticker on the end of a toilet roll in hotels to mark it as new was actually a tasty wee treat to enjoy at the start of your holiday. He eats them to this day. True story https://t.co/vZIFeHe6u0
-31,1.4252070300595732e+18,2021-08-10 21:26:49+00:00,['1425207030059573250'],My mum may have lost her mind but she’s cute af. She put down his DOB on the ECG and everything🥲🥲 https://t.co/XgOloM0Hfy
-32,1.425068958135296e+18,2021-08-10 12:18:10+00:00,['1425068958135296005'],Has to be said. One positive comment from senior colleague = one extra working hour where I’m not about to cry. V accurate linear relationship rn
-33,1.4192839734995067e+18,2021-07-25 13:10:42+00:00,['1419283973499506688'],Lol I’m very (very) new to this doctor thing but never thought I’d see the antivax/lockdown mob threatening the profession with murder. Warmest of welcomes after 6 years of med school 👌🏻 https://t.co/zhwThtuKiG
-34,1.407633711231873e+18,2021-06-23 09:36:43+00:00,['1407633711231873025'],RT @Coldwar_Steve: https://t.co/NMs6NPy0lG
-35,1.4076214382622024e+18,2021-06-23 08:47:57+00:00,['1407621438262202369'],My grandad there signing in to track and trace on our night out at the pub using his wee hand written note he keeps in his wallet with his full name and number🥺 https://t.co/16PS8I6jUQ
-36,1.4062640510181253e+18,2021-06-19 14:54:11+00:00,['1406264051018125312'],RT @Amy__Macdonald: 🤡 https://t.co/Jufi7INEi9
-37,1.4054554114787328e+18,2021-06-17 09:20:56+00:00,['1405455411478732802'],Patient this morning was a water treatment specialist so we spent the whole 40 mins chatting shit about English tap water. Felt good 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-38,1.4051289918251377e+18,2021-06-16 11:43:52+00:00,['1405128991825137664'],"Loose Women there discussing Shamima Begum and the complexity of rehabilitating British nationals being radicalised by ISIS with about as much insight as a wooden spoon. No professional opinion, just blanket accusations and bigoted opinions right there on day time telly. Wtf man"
-39,1.4000925663648645e+18,2021-06-02 14:10:54+00:00,['1400092566364864516'],RT @pussy_shirley: This is why British TV remains superior https://t.co/uz2JCMVpXD
-40,1.397518542002602e+18,2021-05-26 11:42:39+00:00,['1397518542002601984'],@RachaelReilly_x I agree wholeheartedly x
-41,1.3973260884984504e+18,2021-05-25 22:57:55+00:00,['1397326088498450436'],@RachaelReilly_x Omg hi Rachael found u on twitter through this hahahah hot take😉
-42,1.3956409558778716e+18,2021-05-21 07:21:48+00:00,['1395640955877871617'],"RT @LiangRhea: This is why I have an issue with the narrative that women have atypical cardiac symptoms.
-
-If half the population are 'atypi…"
-43,1.3953944408319017e+18,2021-05-20 15:02:14+00:00,['1395394440831901701'],@kirstypunton Ah don’t worry mate - twitter data never gonna be that accurate anyway👀 thanks for letting me know though!
-44,1.3953609192245617e+18,2021-05-20 12:49:02+00:00,['1395360919224561667'],"Those with Mirena coils and are under 40 - why did you get Mirena over another hormonal coil? 
+18,18,1.4770896959390597e+18,2022-01-01 01:30:01+00:00,['1477089695939059712'],
+19,19,1.4758891402564485e+18,2021-12-28 17:59:26+00:00,['1475889140256448513'],It’s a sannie not a sarnie because you eat a sandwich not a sarndwich x
+20,20,1.473585649504686e+18,2021-12-22 09:26:11+00:00,['1473585649504686081'],https://t.co/bMxuMU1fK5 https://t.co/jdusH8yXMU
+21,21,1.4716286854301164e+18,2021-12-16 23:49:54+00:00,['1471628685430116361'],Nicci sturge said ‘this👏🏼👏🏼👏🏼👏🏼👏🏼’ https://t.co/FybAfbb1VS
+22,22,1.46867634969088e+18,2021-12-08 20:18:23+00:00,['1468676349690880011'],
+23,23,1.4610382356903567e+18,2021-11-17 18:27:14+00:00,['1461038235690356739'],
+24,24,1.458577344969552e+18,2021-11-10 23:28:32+00:00,['1458577344969551879'],https://t.co/3ZxQCraKQ3
+25,25,1.45668891091925e+18,2021-11-05 18:24:34+00:00,['1456688910919249920'],
+26,26,1.4515924028091064e+18,2021-10-22 16:52:52+00:00,['1451592402809106434'],One of my colleagues today said after coffee ‘right! best get back to the ward and get on with the jobbies’ and I couldn’t really bring myself to explain to them was wrong with that
+27,27,1.4515907419360215e+18,2021-10-22 16:46:16+00:00,['1451590741936021529'],And Timmy O’Flahery canny act https://t.co/z7JlQT9S8s
+28,28,1.451251477654147e+18,2021-10-21 18:18:09+00:00,['1451251477654147076'],Selling a ticket for Laura Marling at the Roundhouse tomorrow night. Seek within x
+29,29,1.4489706200505467e+18,2021-10-15 11:14:51+00:00,['1448970620050546721'],@jmccloskeey A niche tweet but I feel this x
+30,30,1.4410278046409892e+18,2021-09-23 13:12:56+00:00,['1441027804640989192'],I once met a wee boy on holiday in Spain when I was like 8 (also a wee boy) who thought the sticker on the end of a toilet roll in hotels to mark it as new was actually a tasty wee treat to enjoy at the start of your holiday. He eats them to this day. True story https://t.co/vZIFeHe6u0
+31,31,1.4252070300595732e+18,2021-08-10 21:26:49+00:00,['1425207030059573250'],My mum may have lost her mind but she’s cute af. She put down his DOB on the ECG and everything🥲🥲 https://t.co/XgOloM0Hfy
+32,32,1.425068958135296e+18,2021-08-10 12:18:10+00:00,['1425068958135296005'],Has to be said. One positive comment from senior colleague = one extra working hour where I’m not about to cry. V accurate linear relationship rn
+33,33,1.4192839734995067e+18,2021-07-25 13:10:42+00:00,['1419283973499506688'],Lol I’m very (very) new to this doctor thing but never thought I’d see the antivax/lockdown mob threatening the profession with murder. Warmest of welcomes after 6 years of med school 👌🏻 https://t.co/zhwThtuKiG
+34,34,1.407633711231873e+18,2021-06-23 09:36:43+00:00,['1407633711231873025'],
+35,35,1.4076214382622024e+18,2021-06-23 08:47:57+00:00,['1407621438262202369'],My grandad there signing in to track and trace on our night out at the pub using his wee hand written note he keeps in his wallet with his full name and number🥺 https://t.co/16PS8I6jUQ
+36,36,1.4062640510181253e+18,2021-06-19 14:54:11+00:00,['1406264051018125312'],
+37,37,1.4054554114787328e+18,2021-06-17 09:20:56+00:00,['1405455411478732802'],Patient this morning was a water treatment specialist so we spent the whole 40 mins chatting shit about English tap water. Felt good 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+38,38,1.4051289918251377e+18,2021-06-16 11:43:52+00:00,['1405128991825137664'],"Loose Women there discussing Shamima Begum and the complexity of rehabilitating British nationals being radicalised by ISIS with about as much insight as a wooden spoon. No professional opinion, just blanket accusations and bigoted opinions right there on day time telly. Wtf man"
+39,39,1.4000925663648645e+18,2021-06-02 14:10:54+00:00,['1400092566364864516'],
+40,40,1.397518542002602e+18,2021-05-26 11:42:39+00:00,['1397518542002601984'],@RachaelReilly_x I agree wholeheartedly x
+41,41,1.3973260884984504e+18,2021-05-25 22:57:55+00:00,['1397326088498450436'],@RachaelReilly_x Omg hi Rachael found u on twitter through this hahahah hot take😉
+42,42,1.3956409558778716e+18,2021-05-21 07:21:48+00:00,['1395640955877871617'],
+43,43,1.3953944408319017e+18,2021-05-20 15:02:14+00:00,['1395394440831901701'],@kirstypunton Ah don’t worry mate - twitter data never gonna be that accurate anyway👀 thanks for letting me know though!
+44,44,1.3953609192245617e+18,2021-05-20 12:49:02+00:00,['1395360919224561667'],"Those with Mirena coils and are under 40 - why did you get Mirena over another hormonal coil? 
 
 Did you ask for it specifically? Did the clinician/doctor advise Mirena specifically with no discussion? Were you given all the options then decided that one?"
-45,1.3953562450292326e+18,2021-05-20 12:30:27+00:00,['1395356245029232644'],"People with coils for contraception/heavy menstrual bleeding etc : out of interest, based on some IUD/IUS research I’m doing at the moment at Chalmers Sexual Health Centre - what coil do you have? / do you know the name of it?"
-46,1.3933369338084762e+18,2021-05-14 22:46:26+00:00,['1393336933808476163'],You say Miley Cyrus’s cover of Heart of Glass and I raise you Miley Cyrus’s cover of Sweet Jane. I’m in awe thank you Chris Wood
-47,1.3929308080554516e+18,2021-05-13 19:52:38+00:00,['1392930808055451648'],RT @ReidEileen1: Never have I been prouder to live in this wonderful community. #kenmurestreet https://t.co/CPusTnyXlQ
-48,1.3928050059341742e+18,2021-05-13 11:32:45+00:00,['1392805005934174217'],Shoutout to all the lower-middle-income-countries struggling to vaccinate their vulnerable populations (due to vaccine inequality between the Global North and South) watching literally anyone get vaccinated anywhere in the West 🙃 https://t.co/mY7qcxL4Eg
-49,1.3895460042534953e+18,2021-05-04 11:42:38+00:00,['1389546004253495298'],Never fails to amaze me how much piss I have to wipe off the seats in a staff toilet before sitting down in a bloody HOSPITAL. disgustan. Cleanliness champions my arse smh
-50,1.3855871143398769e+18,2021-04-23 13:31:25+00:00,['1385587114339876865'],@amylamccallum This has been a nightmare! Having to have a guarantor for a flat because the letting agent doesn’t believe I’m going into full time employment😅
-51,1.3824556463276114e+18,2021-04-14 22:08:05+00:00,['1382455646327611395'],I mean imagine. ‘Aye Nassim the paint work is stunning we will take the flat’ 👏🏼👏🏼
-52,1.3824554775026278e+18,2021-04-14 22:07:25+00:00,['1382455477502627841'],Flat hunting in London continues... https://t.co/dAlWKl2ftn
-53,1.381995381622444e+18,2021-04-13 15:39:09+00:00,['1381995381622444032'],Every time I try to grow my hair into luscious  Leo-DiCaprio-in-the-90s  curtains x https://t.co/FBmM8Dijq2
-54,1.380811154126164e+18,2021-04-10 09:13:28+00:00,['1380811154126163970'],@mathena123 @rlh Aww thank you so much - I’ll defo take you up on that offer if anything springs to mind! Looking forward to joining the team😊
-55,1.3808104281886638e+18,2021-04-10 09:10:34+00:00,['1380810428188663810'],@paul_d_y Yup!
-56,1.38061094753502e+18,2021-04-09 19:57:55+00:00,['1380610947535020033'],Totally normal in our functioning democracy https://t.co/1235w0NHK6
-57,1.3806102399810314e+18,2021-04-09 19:55:06+00:00,['1380610239981031425'],@yasminnikookam Ohh lots of people saying Stratford so defo look into that! We can swap notes on jobs then😆
-58,1.380591810267988e+18,2021-04-09 18:41:52+00:00,['1380591810267987971'],@hipspecialist @christiplady @JonnyGucks for what it’s worth - I wanted a surgical job for a good spread of experience just didn’t get one! Programmes with no surgical jobs were surprisingly a plenty in my deanery this year.
-59,1.3805908554472817e+18,2021-04-09 18:38:04+00:00,['1380590855447281664'],@jm_pennington @RoyalLondonHosp @docrajesh21 @BHRUT_NHS Excited to get started - thanks for the well wishes!
-60,1.3805904492498944e+18,2021-04-09 18:36:27+00:00,['1380590449249894401'],@lorraine_hickey Bias understood 😆 I did in fact want a gen surg job in foundation!! Not fancying surgery as a career however thought it’d be great for gaining skills and experience as a junior. A fair few of the programmes in my deanery didn’t have surgical jobs
-61,1.3805565395142656e+18,2021-04-09 16:21:43+00:00,['1380556539514265600'],@polytroponpd Cheers!!
-62,1.380551302451708e+18,2021-04-09 16:00:54+00:00,['1380551302451707906'],@allan_xu No way!! I’ll defo fire over a few questions at some point if that’s ok. Good to hear someone made it out the other end unscathed😆
-63,1.3805510196214538e+18,2021-04-09 15:59:47+00:00,['1380551019621453829'],@Priyanka_Lak @histevedaly Applying for London defo a humbling experience😅😅
-64,1.3805500980657605e+18,2021-04-09 15:56:07+00:00,['1380550098065760262'],"@Joellambert Who’s to say! I ranked my choices mainly on location as I wasn’t too bothered about what rotations I got, so think I got lucky."
-65,1.3805496360086075e+18,2021-04-09 15:54:17+00:00,['1380549636008607750'],@ClaireDow1 @tb_doc @DrSelvarajah What a lovely message! Looking forward to it🙂
-66,1.3805492420125082e+18,2021-04-09 15:52:43+00:00,['1380549242012508160'],@BeckyGarrett01 As a medical student I’m extremely good at getting lost in new hospitals so I’m sure that’ll continue! Thanks for the heads up 😆
-67,1.3805486604302664e+18,2021-04-09 15:50:24+00:00,['1380548660430266377'],@histevedaly I know! Not interested in surgery but would have liked a gen surg post in foundation just to have a nice spread of jobs...worked out ok though👀
-68,1.380547557940691e+18,2021-04-09 15:46:01+00:00,['1380547557940690945'],@Tom_the_Knowles Very happy with the rotations themselves actually! A lot of ranking came down to blind pigeon holing of certain locations I didn’t want
-69,1.380547328285741e+18,2021-04-09 15:45:07+00:00,['1380547328285741060'],@BenStretch My ideal was Homerton or Whittington F1 then big tertiary centre F2...Romford and Barnet ranked as low as poss purely because of location and it seems to have just worked out the way it has! I’ll keep Stratford in mind😄
-70,1.3805466786048492e+18,2021-04-09 15:42:32+00:00,['1380546678604849157'],@naila_chohan Aww lovely! There are two other Edinburgh grads joining us. No doubt bump into you😊
-71,1.3805465009886945e+18,2021-04-09 15:41:49+00:00,['1380546500988694537'],"@tb_doc @DrSelvarajah @ClaireDow1 Better than being 270th! For what it’s worth, I ranked all jobs paired with Barking trust fairly low based on location alone...I’m feeling chuffed to have a resp job - especially with such a welcoming team."
-72,1.3805453724608348e+18,2021-04-09 15:37:20+00:00,['1380545372460834822'],@DrSelvarajah @ClaireDow1 @tb_doc What a lovely message! Coming from Scotland it will be much welcomed to work in a more ethnically diverse community - looking forward to it.
-73,1.3805444908307128e+18,2021-04-09 15:33:50+00:00,['1380544490830712840'],@heather_dinsey Ohh that’s so useful!! Hadn’t considered Stratford so will keep that  in mind 🙂
-74,1.3805442035166986e+18,2021-04-09 15:32:42+00:00,['1380544203516698633'],@freyawx Looking forward to hosting you and Tim in the big smoke 👋🏼👋🏼
-75,1.3805440467504005e+18,2021-04-09 15:32:04+00:00,['1380544046750400515'],@widlims Awww thanks Linda! Hopefully you were happy with yours 🥰
-76,1.3805432014597325e+18,2021-04-09 15:28:43+00:00,['1380543201459732485'],@griergemm I know! Would have been quite happy with one gen surgical job too but not complaining👀👀
-77,1.3805426217901875e+18,2021-04-09 15:26:24+00:00,['1380542621790187526'],@sanjgnair Cheers mate!
-78,1.380421135616127e+18,2021-04-09 07:23:40+00:00,['1380421135616126976'],@RamanishR Cheers Ram x
-79,1.380419807502291e+18,2021-04-09 07:18:23+00:00,['1380419807502290945'],Everyone on here saying how they got their first choice for job - got my 269th choice (out of 344) and somehow actually fine with it https://t.co/BN5bEnHEL5
-80,1.380277079405699e+18,2021-04-08 21:51:14+00:00,['1380277079405699072'],RT @vivafalastin: today we honor these queens https://t.co/nHfaXZuGk0
-81,1.376269126637871e+18,2021-03-28 20:25:04+00:00,['1376269126637871104'],"RT @_CaitLogan: It's interesting how many takes on the Alba Party don't make a mention of the role of reactionary ""anti-wokeness"" among its…"
-82,1.3762322909851238e+18,2021-03-28 17:58:41+00:00,['1376232290985123841'],Take me back to being locked in the toilet with Rihanna x https://t.co/2ITMKt7rn2
-83,1.3740410626631311e+18,2021-03-22 16:51:32+00:00,['1374041062663131143'],RT @RFBorthwick: https://t.co/b4v3abgJf7
-84,1.3728489849523077e+18,2021-03-19 09:54:38+00:00,['1372848984952307715'],"RT @TheOnion: ‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens https://t.co/ToWlsIGdQX https://t.co/X9GH0WAqC5"
-85,1.3715458800467354e+18,2021-03-15 19:36:34+00:00,['1371545880046735360'],RT @gray: Google’s street view camera taking photos of itself in mirrors. Scifi wonderfulness. https://t.co/dbEVaFsWUb https://t.co/TwEkOCh…
-86,1.369973981030318e+18,2021-03-11 11:30:24+00:00,['1369973981030318080'],RT @BaggyTrousers_: https://t.co/kyWSG4TnOI
-87,1.3690388209524408e+18,2021-03-08 21:34:25+00:00,['1369038820952440836'],RT @zei_squirrel: that time piers morgan had on someone he thought would be an easy target to berate live on air but instead hilariously go…
-88,1.3686028267132805e+18,2021-03-07 16:41:55+00:00,['1368602826713280512'],Barn door Trendelenburg if I’ve ever seen one 🚶🏼‍♂️👀 https://t.co/4q34oUCfBH
-89,1.3685850145066312e+18,2021-03-07 15:31:09+00:00,['1368585014506631172'],"Seven exams deep into Finals I’ve lost all motivation. Probably the wrong time to take the foot of the gas, but with one OSCE left to go I’m already done - there’s only so many times you can do a cranial nerve exam on your mum before going insane"
-90,1.368156667515396e+18,2021-03-06 11:09:03+00:00,['1368156667515396098'],"@RamanishR @gnwren Idk mate, sounds a bit too SJT-y to me"
-91,1.3678116298873938e+18,2021-03-05 12:17:59+00:00,['1367811629887393793'],Finally some left wing activism to really dig your teeth into 😍 https://t.co/tp8Ucm52y7
-92,1.3672640917614346e+18,2021-03-04 00:02:16+00:00,['1367264091761434625'],"RT @scottishgreens: ""The Scottish Government badly, badly let down the women involved, but they weren't the only ones."" #bbcdn https://t.co…"
-93,1.3671585031152108e+18,2021-03-03 17:02:42+00:00,['1367158503115210755'],The drama unfolding between Linda Fabiani and Margaret Mitchell has really made today’s long slog worth it
-94,1.36707229151599e+18,2021-03-03 11:20:07+00:00,['1367072291515990016'],RT @AccidentalP: #AccidentalPartridge https://t.co/1XSk4YR1S4
-95,1.366123194583814e+18,2021-02-28 20:28:45+00:00,['1366123194583814158'],Well this is *exactly* what unionism needs - an Oxbridge theologian who thinks a few Tory green policies and a sprinkling of memes  will save the UK https://t.co/5CSUfiwkzr
-96,1.3657873964161477e+18,2021-02-27 22:14:25+00:00,['1365787396416147462'],"Talks of banana republics, one party states, etc...it’s all hysterical front page fodder that tries to weaken the Indy movement one headline at a time. And the best part is...✨it won’t work ✨"
-97,1.3657873937988485e+18,2021-02-27 22:14:24+00:00,['1365787393798848518'],A bit eh SNP/Sturgeon bashing is always welcome - we do live in a healthy democracy after all - but the hounding by Andrew Neil and his media cronies of the ScotGov really shows the pure panic amongst unionists
-98,1.3657625335131914e+18,2021-02-27 20:35:37+00:00,['1365762533513191430'],"RT @noodles_nood: A close friend recently asked me if I really thought medicine was “too posh” for me.  I was a bit shocked they asked, OF…"
-99,1.3653014365909975e+18,2021-02-26 14:03:23+00:00,['1365301436590997504'],RT @campbellclaret: I hold no candle for the @theSNP and the Salmond-Sturgeon story is clearly important and newsworthy. But my God compare…
-100,1.3632811658772111e+18,2021-02-21 00:15:33+00:00,['1363281165877211137'],RT @AlbionJake: Inspired by #Quiz and due to having nothing better to do... here are some of my favourite ‘waves’ from hopeful contestants…
-101,1.3605839022434796e+18,2021-02-13 13:37:35+00:00,['1360583902243479553'],"RT @EdinUniMedicine: Here’s a message from Professor David Kluth (recorded earlier this week) to our Year 6 medical students, who start the…"
-102,1.3595577158031852e+18,2021-02-10 17:39:53+00:00,['1359557715803185159'],RT @SnotSurgeon: Spot the difference.... delighted to take part in an interview on BBC breakfast this morning with my colleague. We are bot…
-103,1.3574125741035028e+18,2021-02-04 19:35:51+00:00,['1357412574103502848'],@jasonleitch Hi Jason. Me and my family’s household are all vaccinated (Pfizer 1st dose - NHS/care employees) and my grandparents (separate household) are getting their first dose this weekend. If we’re all vaccinated can we mix safely? Can’t seem to find any guidance on this. Cheers.
-104,1.3571067559274783e+18,2021-02-03 23:20:39+00:00,['1357106755927478274'],RT @JustChefMack: This will ALWAYS live rent free in my head. https://t.co/lsawTHRzrz
-105,1.3570031524285932e+18,2021-02-03 16:28:58+00:00,['1357003152428593155'],Honey are you ok? You‘ve barely touched your Birdseye special release Captain Tom Moore fish fingers 😓
-106,1.356987069470507e+18,2021-02-03 15:25:03+00:00,['1356987069470507015'],RT @keewa: https://t.co/9E4IktC9Ar
-107,1.3566980900870636e+18,2021-02-02 20:16:45+00:00,['1356698090087063562'],Honestly inject this into my VEINS. it’s so *chef’s kiss* https://t.co/k41ogPap0e
-108,1.3566978102766715e+18,2021-02-02 20:15:38+00:00,['1356697810276671493'],"RT @jdportes: Another @juliahb1 tweet that has aged well, and which she will no doubt neither explain or apologise for. https://t.co/Bmztsf…"
-109,1.3559220935908516e+18,2021-01-31 16:53:13+00:00,['1355922093590851585'],@RamanishR I wish...defo still in the angry stage of grief for the PSA👀👀
-110,1.355920955021914e+18,2021-01-31 16:48:42+00:00,['1355920955021914118'],"It’s normal to sit with a cat in your lap with Bon Iver’s first album playing and just have a big overwhelming cry, right? Asking for a friend x"
-111,1.3522114598251643e+18,2021-01-21 11:08:29+00:00,['1352211459825164288'],@L_eClark This is class! Chuffed for you👏🏼👏🏼
-112,1.3507694387993682e+18,2021-01-17 11:38:24+00:00,['1350769438799368197'],RT @ScreamOfficial: https://t.co/SplAIBfZn9
-113,1.3498246873129288e+18,2021-01-14 21:04:18+00:00,['1349824687312928770'],@craiglisterx Craig I’m so embarrassed but it’s so ✨fun ✨
-114,1.3478623351641825e+18,2021-01-09 11:06:37+00:00,['1347862335164182528'],RT @Luiseach: my new jam is US domestic terrorists’ hangovers wearing off https://t.co/PWulhHiMwL
-115,1.3453230151108526e+18,2021-01-02 10:56:16+00:00,['1345323015110852611'],RT @NiamhCox: 53. 97 seconds of tom pestering Anne way that camera! Pure bliss https://t.co/jiRnHhBEZd
-116,1.3444370711554908e+18,2020-12-31 00:15:50+00:00,['1344437071155490818'],@craiglisterx Craig!!!
-117,1.34278718812425e+18,2020-12-26 10:59:48+00:00,['1342787188124250113'],‘Italian painter and decorator. Did the Sistine Chapel’ https://t.co/YUnIBl7ZVz
-118,1.338481364467921e+18,2020-12-14 13:49:59+00:00,['1338481364467920896'],@Gav_NorthRon Can’t stop thinking about his wee accent
-119,1.3384418644925727e+18,2020-12-14 11:13:02+00:00,['1338441864492572672'],"said yes no yes no, and they said come at Half Past Twelve, course I couldn't damn well find anywhere to park my car so  I was late. Anyway I'm Here Now"
-120,1.3384414552123105e+18,2020-12-14 11:11:24+00:00,['1338441455212310529'],"Well i rang up guy's hospital which i know very well, as I have lived in London most of my grown up life, and I said what's this thing you're doing, The Vaccination, they said say, and they spent various Times asking me questions about this and that, not very interesting and I"
-121,1.338439085631869e+18,2020-12-14 11:01:59+00:00,['1338439085631868931'],I am a slave for corporate emotional blackmail This Christmas 🤧 https://t.co/neQuGBkQJ1
-122,1.3378314689875354e+18,2020-12-12 18:47:32+00:00,['1337831468987535361'],Idk what it is about an embroidered baby scan that screams fiat 500 twitter but this is v emosh still greetin
-123,1.3378309449845514e+18,2020-12-12 18:45:27+00:00,['1337830944984551424'],This went from white-Christmas-tree/velour-sofa-and-cushion vibes to heartbreakingly adorable real quick https://t.co/oVXMaFO22h
-124,1.337780388429697e+18,2020-12-12 15:24:34+00:00,['1337780388429697028'],"Yer da’s steamin down the bookies, and the local alky’s telling him how much the National Lottery gives to local charities. home now with kebab stains down his shirt, the wife has to explain to him that his 3xweekly lotto doesn’t make him a ‘regular giver to charity’. Couch 2nite"
-125,1.336584679378604e+18,2020-12-09 08:13:14+00:00,['1336584679378604032'],RT @ladyhaja: all i can say is i’m glad this guy was one of the very first https://t.co/eHcONe6iz6
-126,1.3365845646517944e+18,2020-12-09 08:12:47+00:00,['1336584564651794432'],RT @katmcgoldrick: i am OBSESSED with this clip about the Glasgow Subway https://t.co/a8oXyajhjg
-127,1.336331339939758e+18,2020-12-08 15:26:33+00:00,['1336331339939758081'],@_GetTRAINED Went to the last one which was ace - will this one be different or the same content for different folk?
-128,1.3362920890894172e+18,2020-12-08 12:50:35+00:00,['1336292089089417217'],"RT @ConMend: I wonder how Bill Gates is going to spend his first day in control of Margaret Keenan, 90, from Coventry."
-129,1.3348487369467576e+18,2020-12-04 13:15:13+00:00,['1334848736946757637'],RT @ItsLumberzack: dudes will be like “nobody cares about your spotify wrapped” and then post a map of their running route
-130,1.328786551191593e+18,2020-11-17 19:46:16+00:00,['1328786551191592961'],"Chatting to FY1s over past few months of final year on wards gives a bit of perspective and realisation that it’ll be me in their position in less than a year’s time. Going from ‘oh shit, I am not ready’ to ‘I think I’ll be fine actually’ and nothing in between"
-131,1.3287268691983852e+18,2020-11-17 15:49:06+00:00,['1328726869198385158'],Delightful https://t.co/rNaydapYLF
-132,1.3272300639983493e+18,2020-11-13 12:41:20+00:00,['1327230063998349314'],RT @JakeMC_: ImSpeaking.avi https://t.co/spM741rzjm
-133,1.3270321711655772e+18,2020-11-12 23:34:59+00:00,['1327032171165577219'],RT @bobservant: I hereby offer all Scotland players free use of my static caravan in Pitlochry on any Monday in January (users take own gas…
-134,1.3270289013323162e+18,2020-11-12 23:21:59+00:00,['1327028901332316160'],"RT @ScotlandNT: 🎶 Oh, yes sir... 🎶
-
-#NoScotlandNoParty https://t.co/UNTLXIuHVH"
-135,1.32613624150775e+18,2020-11-10 12:14:53+00:00,['1326136241507749888'],"Anti-choice protesters surround sites, threatening the privacy of abortion service users and their right to access legal and essential medical services. 
+45,45,1.3953562450292326e+18,2021-05-20 12:30:27+00:00,['1395356245029232644'],"People with coils for contraception/heavy menstrual bleeding etc : out of interest, based on some IUD/IUS research I’m doing at the moment at Chalmers Sexual Health Centre - what coil do you have? / do you know the name of it?"
+46,46,1.3933369338084762e+18,2021-05-14 22:46:26+00:00,['1393336933808476163'],You say Miley Cyrus’s cover of Heart of Glass and I raise you Miley Cyrus’s cover of Sweet Jane. I’m in awe thank you Chris Wood
+47,47,1.3929308080554516e+18,2021-05-13 19:52:38+00:00,['1392930808055451648'],
+48,48,1.3928050059341742e+18,2021-05-13 11:32:45+00:00,['1392805005934174217'],Shoutout to all the lower-middle-income-countries struggling to vaccinate their vulnerable populations (due to vaccine inequality between the Global North and South) watching literally anyone get vaccinated anywhere in the West 🙃 https://t.co/mY7qcxL4Eg
+49,49,1.3895460042534953e+18,2021-05-04 11:42:38+00:00,['1389546004253495298'],Never fails to amaze me how much piss I have to wipe off the seats in a staff toilet before sitting down in a bloody HOSPITAL. disgustan. Cleanliness champions my arse smh
+50,50,1.3855871143398769e+18,2021-04-23 13:31:25+00:00,['1385587114339876865'],@amylamccallum This has been a nightmare! Having to have a guarantor for a flat because the letting agent doesn’t believe I’m going into full time employment😅
+51,51,1.3824556463276114e+18,2021-04-14 22:08:05+00:00,['1382455646327611395'],I mean imagine. ‘Aye Nassim the paint work is stunning we will take the flat’ 👏🏼👏🏼
+52,52,1.3824554775026278e+18,2021-04-14 22:07:25+00:00,['1382455477502627841'],Flat hunting in London continues... https://t.co/dAlWKl2ftn
+53,53,1.381995381622444e+18,2021-04-13 15:39:09+00:00,['1381995381622444032'],Every time I try to grow my hair into luscious  Leo-DiCaprio-in-the-90s  curtains x https://t.co/FBmM8Dijq2
+54,54,1.380811154126164e+18,2021-04-10 09:13:28+00:00,['1380811154126163970'],@mathena123 @rlh Aww thank you so much - I’ll defo take you up on that offer if anything springs to mind! Looking forward to joining the team😊
+55,55,1.3808104281886638e+18,2021-04-10 09:10:34+00:00,['1380810428188663810'],@paul_d_y Yup!
+56,56,1.38061094753502e+18,2021-04-09 19:57:55+00:00,['1380610947535020033'],Totally normal in our functioning democracy https://t.co/1235w0NHK6
+57,57,1.3806102399810314e+18,2021-04-09 19:55:06+00:00,['1380610239981031425'],@yasminnikookam Ohh lots of people saying Stratford so defo look into that! We can swap notes on jobs then😆
+58,58,1.380591810267988e+18,2021-04-09 18:41:52+00:00,['1380591810267987971'],@hipspecialist @christiplady @JonnyGucks for what it’s worth - I wanted a surgical job for a good spread of experience just didn’t get one! Programmes with no surgical jobs were surprisingly a plenty in my deanery this year.
+59,59,1.3805908554472817e+18,2021-04-09 18:38:04+00:00,['1380590855447281664'],@jm_pennington @RoyalLondonHosp @docrajesh21 @BHRUT_NHS Excited to get started - thanks for the well wishes!
+60,60,1.3805904492498944e+18,2021-04-09 18:36:27+00:00,['1380590449249894401'],@lorraine_hickey Bias understood 😆 I did in fact want a gen surg job in foundation!! Not fancying surgery as a career however thought it’d be great for gaining skills and experience as a junior. A fair few of the programmes in my deanery didn’t have surgical jobs
+61,61,1.3805565395142656e+18,2021-04-09 16:21:43+00:00,['1380556539514265600'],@polytroponpd Cheers!!
+62,62,1.380551302451708e+18,2021-04-09 16:00:54+00:00,['1380551302451707906'],@allan_xu No way!! I’ll defo fire over a few questions at some point if that’s ok. Good to hear someone made it out the other end unscathed😆
+63,63,1.3805510196214538e+18,2021-04-09 15:59:47+00:00,['1380551019621453829'],@Priyanka_Lak @histevedaly Applying for London defo a humbling experience😅😅
+64,64,1.3805500980657605e+18,2021-04-09 15:56:07+00:00,['1380550098065760262'],"@Joellambert Who’s to say! I ranked my choices mainly on location as I wasn’t too bothered about what rotations I got, so think I got lucky."
+65,65,1.3805496360086075e+18,2021-04-09 15:54:17+00:00,['1380549636008607750'],@ClaireDow1 @tb_doc @DrSelvarajah What a lovely message! Looking forward to it🙂
+66,66,1.3805492420125082e+18,2021-04-09 15:52:43+00:00,['1380549242012508160'],@BeckyGarrett01 As a medical student I’m extremely good at getting lost in new hospitals so I’m sure that’ll continue! Thanks for the heads up 😆
+67,67,1.3805486604302664e+18,2021-04-09 15:50:24+00:00,['1380548660430266377'],@histevedaly I know! Not interested in surgery but would have liked a gen surg post in foundation just to have a nice spread of jobs...worked out ok though👀
+68,68,1.380547557940691e+18,2021-04-09 15:46:01+00:00,['1380547557940690945'],@Tom_the_Knowles Very happy with the rotations themselves actually! A lot of ranking came down to blind pigeon holing of certain locations I didn’t want
+69,69,1.380547328285741e+18,2021-04-09 15:45:07+00:00,['1380547328285741060'],@BenStretch My ideal was Homerton or Whittington F1 then big tertiary centre F2...Romford and Barnet ranked as low as poss purely because of location and it seems to have just worked out the way it has! I’ll keep Stratford in mind😄
+70,70,1.3805466786048492e+18,2021-04-09 15:42:32+00:00,['1380546678604849157'],@naila_chohan Aww lovely! There are two other Edinburgh grads joining us. No doubt bump into you😊
+71,71,1.3805465009886945e+18,2021-04-09 15:41:49+00:00,['1380546500988694537'],"@tb_doc @DrSelvarajah @ClaireDow1 Better than being 270th! For what it’s worth, I ranked all jobs paired with Barking trust fairly low based on location alone...I’m feeling chuffed to have a resp job - especially with such a welcoming team."
+72,72,1.3805453724608348e+18,2021-04-09 15:37:20+00:00,['1380545372460834822'],@DrSelvarajah @ClaireDow1 @tb_doc What a lovely message! Coming from Scotland it will be much welcomed to work in a more ethnically diverse community - looking forward to it.
+73,73,1.3805444908307128e+18,2021-04-09 15:33:50+00:00,['1380544490830712840'],@heather_dinsey Ohh that’s so useful!! Hadn’t considered Stratford so will keep that  in mind 🙂
+74,74,1.3805442035166986e+18,2021-04-09 15:32:42+00:00,['1380544203516698633'],@freyawx Looking forward to hosting you and Tim in the big smoke 👋🏼👋🏼
+75,75,1.3805440467504005e+18,2021-04-09 15:32:04+00:00,['1380544046750400515'],@widlims Awww thanks Linda! Hopefully you were happy with yours 🥰
+76,76,1.3805432014597325e+18,2021-04-09 15:28:43+00:00,['1380543201459732485'],@griergemm I know! Would have been quite happy with one gen surgical job too but not complaining👀👀
+77,77,1.3805426217901875e+18,2021-04-09 15:26:24+00:00,['1380542621790187526'],@sanjgnair Cheers mate!
+78,78,1.380421135616127e+18,2021-04-09 07:23:40+00:00,['1380421135616126976'],@RamanishR Cheers Ram x
+79,79,1.380419807502291e+18,2021-04-09 07:18:23+00:00,['1380419807502290945'],Everyone on here saying how they got their first choice for job - got my 269th choice (out of 344) and somehow actually fine with it https://t.co/BN5bEnHEL5
+80,80,1.380277079405699e+18,2021-04-08 21:51:14+00:00,['1380277079405699072'],
+81,81,1.376269126637871e+18,2021-03-28 20:25:04+00:00,['1376269126637871104'],
+82,82,1.3762322909851238e+18,2021-03-28 17:58:41+00:00,['1376232290985123841'],Take me back to being locked in the toilet with Rihanna x https://t.co/2ITMKt7rn2
+83,83,1.3740410626631311e+18,2021-03-22 16:51:32+00:00,['1374041062663131143'],
+84,84,1.3728489849523077e+18,2021-03-19 09:54:38+00:00,['1372848984952307715'],
+85,85,1.3715458800467354e+18,2021-03-15 19:36:34+00:00,['1371545880046735360'],
+86,86,1.369973981030318e+18,2021-03-11 11:30:24+00:00,['1369973981030318080'],
+87,87,1.3690388209524408e+18,2021-03-08 21:34:25+00:00,['1369038820952440836'],
+88,88,1.3686028267132805e+18,2021-03-07 16:41:55+00:00,['1368602826713280512'],Barn door Trendelenburg if I’ve ever seen one 🚶🏼‍♂️👀 https://t.co/4q34oUCfBH
+89,89,1.3685850145066312e+18,2021-03-07 15:31:09+00:00,['1368585014506631172'],"Seven exams deep into Finals I’ve lost all motivation. Probably the wrong time to take the foot of the gas, but with one OSCE left to go I’m already done - there’s only so many times you can do a cranial nerve exam on your mum before going insane"
+90,90,1.368156667515396e+18,2021-03-06 11:09:03+00:00,['1368156667515396098'],"@RamanishR @gnwren Idk mate, sounds a bit too SJT-y to me"
+91,91,1.3678116298873938e+18,2021-03-05 12:17:59+00:00,['1367811629887393793'],Finally some left wing activism to really dig your teeth into 😍 https://t.co/tp8Ucm52y7
+92,92,1.3672640917614346e+18,2021-03-04 00:02:16+00:00,['1367264091761434625'],
+93,93,1.3671585031152108e+18,2021-03-03 17:02:42+00:00,['1367158503115210755'],The drama unfolding between Linda Fabiani and Margaret Mitchell has really made today’s long slog worth it
+94,94,1.36707229151599e+18,2021-03-03 11:20:07+00:00,['1367072291515990016'],
+95,95,1.366123194583814e+18,2021-02-28 20:28:45+00:00,['1366123194583814158'],Well this is *exactly* what unionism needs - an Oxbridge theologian who thinks a few Tory green policies and a sprinkling of memes  will save the UK https://t.co/5CSUfiwkzr
+96,96,1.3657873964161477e+18,2021-02-27 22:14:25+00:00,['1365787396416147462'],"Talks of banana republics, one party states, etc...it’s all hysterical front page fodder that tries to weaken the Indy movement one headline at a time. And the best part is...✨it won’t work ✨"
+97,97,1.3657873937988485e+18,2021-02-27 22:14:24+00:00,['1365787393798848518'],A bit eh SNP/Sturgeon bashing is always welcome - we do live in a healthy democracy after all - but the hounding by Andrew Neil and his media cronies of the ScotGov really shows the pure panic amongst unionists
+98,98,1.3657625335131914e+18,2021-02-27 20:35:37+00:00,['1365762533513191430'],
+99,99,1.3653014365909975e+18,2021-02-26 14:03:23+00:00,['1365301436590997504'],
+100,100,1.3632811658772111e+18,2021-02-21 00:15:33+00:00,['1363281165877211137'],
+101,101,1.3605839022434796e+18,2021-02-13 13:37:35+00:00,['1360583902243479553'],
+102,102,1.3595577158031852e+18,2021-02-10 17:39:53+00:00,['1359557715803185159'],
+103,103,1.3574125741035028e+18,2021-02-04 19:35:51+00:00,['1357412574103502848'],@jasonleitch Hi Jason. Me and my family’s household are all vaccinated (Pfizer 1st dose - NHS/care employees) and my grandparents (separate household) are getting their first dose this weekend. If we’re all vaccinated can we mix safely? Can’t seem to find any guidance on this. Cheers.
+104,104,1.3571067559274783e+18,2021-02-03 23:20:39+00:00,['1357106755927478274'],
+105,105,1.3570031524285932e+18,2021-02-03 16:28:58+00:00,['1357003152428593155'],Honey are you ok? You‘ve barely touched your Birdseye special release Captain Tom Moore fish fingers 😓
+106,106,1.356987069470507e+18,2021-02-03 15:25:03+00:00,['1356987069470507015'],
+107,107,1.3566980900870636e+18,2021-02-02 20:16:45+00:00,['1356698090087063562'],Honestly inject this into my VEINS. it’s so *chef’s kiss* https://t.co/k41ogPap0e
+108,108,1.3566978102766715e+18,2021-02-02 20:15:38+00:00,['1356697810276671493'],
+109,109,1.3559220935908516e+18,2021-01-31 16:53:13+00:00,['1355922093590851585'],@RamanishR I wish...defo still in the angry stage of grief for the PSA👀👀
+110,110,1.355920955021914e+18,2021-01-31 16:48:42+00:00,['1355920955021914118'],"It’s normal to sit with a cat in your lap with Bon Iver’s first album playing and just have a big overwhelming cry, right? Asking for a friend x"
+111,111,1.3522114598251643e+18,2021-01-21 11:08:29+00:00,['1352211459825164288'],@L_eClark This is class! Chuffed for you👏🏼👏🏼
+112,112,1.3507694387993682e+18,2021-01-17 11:38:24+00:00,['1350769438799368197'],
+113,113,1.3498246873129288e+18,2021-01-14 21:04:18+00:00,['1349824687312928770'],@craiglisterx Craig I’m so embarrassed but it’s so ✨fun ✨
+114,114,1.3478623351641825e+18,2021-01-09 11:06:37+00:00,['1347862335164182528'],
+115,115,1.3453230151108526e+18,2021-01-02 10:56:16+00:00,['1345323015110852611'],
+116,116,1.3444370711554908e+18,2020-12-31 00:15:50+00:00,['1344437071155490818'],@craiglisterx Craig!!!
+117,117,1.34278718812425e+18,2020-12-26 10:59:48+00:00,['1342787188124250113'],‘Italian painter and decorator. Did the Sistine Chapel’ https://t.co/YUnIBl7ZVz
+118,118,1.338481364467921e+18,2020-12-14 13:49:59+00:00,['1338481364467920896'],@Gav_NorthRon Can’t stop thinking about his wee accent
+119,119,1.3384418644925727e+18,2020-12-14 11:13:02+00:00,['1338441864492572672'],"said yes no yes no, and they said come at Half Past Twelve, course I couldn't damn well find anywhere to park my car so  I was late. Anyway I'm Here Now"
+120,120,1.3384414552123105e+18,2020-12-14 11:11:24+00:00,['1338441455212310529'],"Well i rang up guy's hospital which i know very well, as I have lived in London most of my grown up life, and I said what's this thing you're doing, The Vaccination, they said say, and they spent various Times asking me questions about this and that, not very interesting and I"
+121,121,1.338439085631869e+18,2020-12-14 11:01:59+00:00,['1338439085631868931'],I am a slave for corporate emotional blackmail This Christmas 🤧 https://t.co/neQuGBkQJ1
+122,122,1.3378314689875354e+18,2020-12-12 18:47:32+00:00,['1337831468987535361'],Idk what it is about an embroidered baby scan that screams fiat 500 twitter but this is v emosh still greetin
+123,123,1.3378309449845514e+18,2020-12-12 18:45:27+00:00,['1337830944984551424'],This went from white-Christmas-tree/velour-sofa-and-cushion vibes to heartbreakingly adorable real quick https://t.co/oVXMaFO22h
+124,124,1.337780388429697e+18,2020-12-12 15:24:34+00:00,['1337780388429697028'],"Yer da’s steamin down the bookies, and the local alky’s telling him how much the National Lottery gives to local charities. home now with kebab stains down his shirt, the wife has to explain to him that his 3xweekly lotto doesn’t make him a ‘regular giver to charity’. Couch 2nite"
+125,125,1.336584679378604e+18,2020-12-09 08:13:14+00:00,['1336584679378604032'],
+126,126,1.3365845646517944e+18,2020-12-09 08:12:47+00:00,['1336584564651794432'],
+127,127,1.336331339939758e+18,2020-12-08 15:26:33+00:00,['1336331339939758081'],@_GetTRAINED Went to the last one which was ace - will this one be different or the same content for different folk?
+128,128,1.3362920890894172e+18,2020-12-08 12:50:35+00:00,['1336292089089417217'],
+129,129,1.3348487369467576e+18,2020-12-04 13:15:13+00:00,['1334848736946757637'],
+130,130,1.328786551191593e+18,2020-11-17 19:46:16+00:00,['1328786551191592961'],"Chatting to FY1s over past few months of final year on wards gives a bit of perspective and realisation that it’ll be me in their position in less than a year’s time. Going from ‘oh shit, I am not ready’ to ‘I think I’ll be fine actually’ and nothing in between"
+131,131,1.3287268691983852e+18,2020-11-17 15:49:06+00:00,['1328726869198385158'],Delightful https://t.co/rNaydapYLF
+132,132,1.3272300639983493e+18,2020-11-13 12:41:20+00:00,['1327230063998349314'],
+133,133,1.3270321711655772e+18,2020-11-12 23:34:59+00:00,['1327032171165577219'],
+134,134,1.3270289013323162e+18,2020-11-12 23:21:59+00:00,['1327028901332316160'],
+135,135,1.32613624150775e+18,2020-11-10 12:14:53+00:00,['1326136241507749888'],"Anti-choice protesters surround sites, threatening the privacy of abortion service users and their right to access legal and essential medical services. 
 
 We must protect the right of individuals who access these services so that they can do so freely and without harassment."
-136,1.3261349603617874e+18,2020-11-10 12:09:47+00:00,['1326134960361787393'],"If you’re an Edinburgh resident pls take less than 5 minutes to sign this Edinburgh council petition to introduce 150m buffer zones around clinics that provide abortion services in the city. 
+136,136,1.3261349603617874e+18,2020-11-10 12:09:47+00:00,['1326134960361787393'],"If you’re an Edinburgh resident pls take less than 5 minutes to sign this Edinburgh council petition to introduce 150m buffer zones around clinics that provide abortion services in the city. 
 
 https://t.co/vyzx4i3gEY"
-137,1.3254545660879217e+18,2020-11-08 15:06:08+00:00,['1325454566087921665'],I hear they’re dating now 🥰🥺 https://t.co/hk4sSstc8d
-138,1.3247819544667832e+18,2020-11-06 18:33:25+00:00,['1324781954466783233'],State eh this hahahah https://t.co/uLhtKx9G1s
-139,1.3247577247904604e+18,2020-11-06 16:57:09+00:00,['1324757724790460423'],RT @vnbvrnt: biden won! but also biden won  https://t.co/oMB6O6m5CJ
-140,1.3247278481381335e+18,2020-11-06 14:58:25+00:00,['1324727848138133505'],"RT @yascaoimhin: My girl Greta has PATIENCE.
-
-Nearly a year later. https://t.co/V9ZVtZcDTj"
-141,1.3240107881479414e+18,2020-11-04 15:29:05+00:00,['1324010788147941378'],Some good news this Election Day : Got a phone call from the doc saying my sperm count is back up to #normal and the gf didn’t get pregnant over the last year or so which to me means male contraception is a success and coming to a patriarchy near you🥰✌🏻
-142,1.3239513509846958e+18,2020-11-04 11:32:54+00:00,['1323951350984695808'],RT @frankieboyle: So in a few years time we're supposed to just watch this exact same horror story recast with Keir Starmer and act surpris…
-143,1.3214584994869494e+18,2020-10-28 14:27:12+00:00,['1321458499486949376'],Where there is kindness there is hope❤️ https://t.co/Ar88sVFmFO
-144,1.3170540605797048e+18,2020-10-16 10:45:32+00:00,['1317054060579704832'],RT @ProjectLincoln: We fixed Don Jr.’s crazy ad. https://t.co/TE929T1f2x
-145,1.3144919631236055e+18,2020-10-09 09:04:40+00:00,['1314491963123605506'],@oiseaujaune_ It’s a SABA not an ICS but we’ll forgive her she’s trying 🥰
-146,1.314485416909828e+18,2020-10-09 08:38:40+00:00,['1314485416909828096'],"Imp
+137,137,1.3254545660879217e+18,2020-11-08 15:06:08+00:00,['1325454566087921665'],I hear they’re dating now 🥰🥺 https://t.co/hk4sSstc8d
+138,138,1.3247819544667832e+18,2020-11-06 18:33:25+00:00,['1324781954466783233'],State eh this hahahah https://t.co/uLhtKx9G1s
+139,139,1.3247577247904604e+18,2020-11-06 16:57:09+00:00,['1324757724790460423'],
+140,140,1.3247278481381335e+18,2020-11-06 14:58:25+00:00,['1324727848138133505'],
+141,141,1.3240107881479414e+18,2020-11-04 15:29:05+00:00,['1324010788147941378'],Some good news this Election Day : Got a phone call from the doc saying my sperm count is back up to #normal and the gf didn’t get pregnant over the last year or so which to me means male contraception is a success and coming to a patriarchy near you🥰✌🏻
+142,142,1.3239513509846958e+18,2020-11-04 11:32:54+00:00,['1323951350984695808'],
+143,143,1.3214584994869494e+18,2020-10-28 14:27:12+00:00,['1321458499486949376'],Where there is kindness there is hope❤️ https://t.co/Ar88sVFmFO
+144,144,1.3170540605797048e+18,2020-10-16 10:45:32+00:00,['1317054060579704832'],
+145,145,1.3144919631236055e+18,2020-10-09 09:04:40+00:00,['1314491963123605506'],@oiseaujaune_ It’s a SABA not an ICS but we’ll forgive her she’s trying 🥰
+146,146,1.314485416909828e+18,2020-10-09 08:38:40+00:00,['1314485416909828096'],"Imp
 Worsening symptoms, ?non-compliance
 
 Plan
 Encourage compliance
 GP to review 14/7
 Referral repeat lung function tests"
-147,1.3144849921609933e+18,2020-10-09 08:36:58+00:00,['1314484992160993280'],Just one wheezy boy asking his non-compliant wheezy gran to actually take her meds x https://t.co/pslJPiNc1c
-148,1.3141836696539423e+18,2020-10-08 12:39:37+00:00,['1314183669653942279'],RT @ginamartinuk: How it started:         How it ended: https://t.co/dM4EAxpFEl
-149,1.312668195074048e+18,2020-10-04 08:17:40+00:00,['1312668195074048001'],"RT @loveinheadscarf: Well, that’s what Muslims were told. And at 9pm the night before Eid when all the cooking was prepped and the gifts we…"
-150,1.3096025806082294e+18,2020-09-25 21:16:01+00:00,['1309602580608229376'],RT @gagasyuyi: i’m OBSESSED with miley cyrus covering heart of glass  https://t.co/YKHURI3MTQ
-151,1.309576948855853e+18,2020-09-25 19:34:10+00:00,['1309576948855853062'],RT @DrewFrogger: I don’t use this verbiage often but this is a whole vibe. simple as that https://t.co/NfdLsgLkxu
-152,1.3080777852782797e+18,2020-09-21 16:17:01+00:00,['1308077785278279682'],RT @EarthWindFire: Almost forgot 😅
-153,1.308004413110399e+18,2020-09-21 11:25:28+00:00,['1308004413110398977'],In my dreams I am a hot sexy Spanish triathlete who is also kind to my fellow competitors and also puts on a mask after I finish a race x https://t.co/7UIzrx7qd9
-154,1.3072293281203937e+18,2020-09-19 08:05:33+00:00,['1307229328120393728'],RT @TheatrePeas: Is Shia LaBeouf wasted or the greatest method actor of our generation? https://t.co/mRMkRu5h7i
-155,1.307204285525037e+18,2020-09-19 06:26:03+00:00,['1307204285525037057'],RT @ZackBornstein: That face when you just wanted a faster way to rank girls by looks and ended up installing a fascist government in the m…
-156,1.3062846660775444e+18,2020-09-16 17:31:48+00:00,['1306284666077544455'],Awwww you love to see it🥰🥰🥰 https://t.co/2FVEi3cv3X
-157,1.305953199682093e+18,2020-09-15 19:34:40+00:00,['1305953199682093056'],I can probably place the moment I fell in love with jazz music was when I first stepped in to this pizza restaurant https://t.co/iD0qRnIjNy
-158,1.3049352342244352e+18,2020-09-13 00:09:39+00:00,['1304935234224435200'],Zach Braff seemed like a comfortable challenge but not I’m not so sure x https://t.co/3oVXffyi76
-159,1.3046809507360072e+18,2020-09-12 07:19:13+00:00,['1304680950736007168'],I’ve been in a constant state of  cringe since around 6am this morning; waking up with Simon Neil saying ‘tiny wee garage’ in my head on repeat
-160,1.3036231799157146e+18,2020-09-09 09:16:00+00:00,['1303623179915714561'],"Hey it seems strange that my really close friend doesn’t post on their Instagram close fr- 
+147,147,1.3144849921609933e+18,2020-10-09 08:36:58+00:00,['1314484992160993280'],Just one wheezy boy asking his non-compliant wheezy gran to actually take her meds x https://t.co/pslJPiNc1c
+148,148,1.3141836696539423e+18,2020-10-08 12:39:37+00:00,['1314183669653942279'],
+149,149,1.312668195074048e+18,2020-10-04 08:17:40+00:00,['1312668195074048001'],
+150,150,1.3096025806082294e+18,2020-09-25 21:16:01+00:00,['1309602580608229376'],
+151,151,1.309576948855853e+18,2020-09-25 19:34:10+00:00,['1309576948855853062'],
+152,152,1.3080777852782797e+18,2020-09-21 16:17:01+00:00,['1308077785278279682'],
+153,153,1.308004413110399e+18,2020-09-21 11:25:28+00:00,['1308004413110398977'],In my dreams I am a hot sexy Spanish triathlete who is also kind to my fellow competitors and also puts on a mask after I finish a race x https://t.co/7UIzrx7qd9
+154,154,1.3072293281203937e+18,2020-09-19 08:05:33+00:00,['1307229328120393728'],
+155,155,1.307204285525037e+18,2020-09-19 06:26:03+00:00,['1307204285525037057'],
+156,156,1.3062846660775444e+18,2020-09-16 17:31:48+00:00,['1306284666077544455'],Awwww you love to see it🥰🥰🥰 https://t.co/2FVEi3cv3X
+157,157,1.305953199682093e+18,2020-09-15 19:34:40+00:00,['1305953199682093056'],I can probably place the moment I fell in love with jazz music was when I first stepped in to this pizza restaurant https://t.co/iD0qRnIjNy
+158,158,1.3049352342244352e+18,2020-09-13 00:09:39+00:00,['1304935234224435200'],Zach Braff seemed like a comfortable challenge but not I’m not so sure x https://t.co/3oVXffyi76
+159,159,1.3046809507360072e+18,2020-09-12 07:19:13+00:00,['1304680950736007168'],I’ve been in a constant state of  cringe since around 6am this morning; waking up with Simon Neil saying ‘tiny wee garage’ in my head on repeat
+160,160,1.3036231799157146e+18,2020-09-09 09:16:00+00:00,['1303623179915714561'],"Hey it seems strange that my really close friend doesn’t post on their Instagram close fr- 
 
 😞😞😞😞"
-161,1.3034662094558044e+18,2020-09-08 22:52:16+00:00,['1303466209455804417'],@oiseaujaune_ But to clarify...using they/them is still a good alternative when you’re not sure of someone’s pronouns yes?
-162,1.303076803217707e+18,2020-09-07 21:04:54+00:00,['1303076803217707008'],parents on holiday for the week and have to switch off Zodiac after the first murder cos I’m convinced he’ll be outside coming in to get me next. Will probably resume watching it in the morning bcos nobody gets murdered when it’s daytime x 23 years old man
-163,1.3012819614078523e+18,2020-09-02 22:12:50+00:00,['1301281961407852545'],RT @roland_slice: glasgow twitter the now https://t.co/qNu9ZIZIcL
-164,1.2993580286014505e+18,2020-08-28 14:47:49+00:00,['1299358028601450497'],Lots of important points made here https://t.co/tPdD0MKRdZ
-165,1.2993515796409672e+18,2020-08-28 14:22:12+00:00,['1299351579640967168'],"Jessica, only child, Illinois, Chicago. Classmate Kim Jin-mo, he's your cousin."
-166,1.2973723872944865e+18,2020-08-23 03:17:35+00:00,['1297372387294486529'],4am and thinking bout Florence Pugh looking at me the way she looked at Tim Chalomay from the carriage in Little Women™
-167,1.2973430546140897e+18,2020-08-23 01:21:02+00:00,['1297343054614089735'],Cyclist Who Isn’t Confident Taking His Hands off the Handlebars Ends up Doing a Nazi Salute When Turning Right
-168,1.2971843508371333e+18,2020-08-22 14:50:24+00:00,['1297184350837133312'],*trigger warning* but I have been forced to ferociously scrub my legs every day in the shower by you fucking people. What’s wrong with scrubbing them every couple of days ? They don’t sweat ? They don’t smell ? They don’t get dirty ? Why do I have to waste my time x
-169,1.295689329008943e+18,2020-08-18 11:49:43+00:00,['1295689329008943105'],Forgot it was my birthday next week so I've spent the morning trying to micromanage my family in terms of gift suggestions. Mum saying she's 'already sorted for wee pressies' - so that's a penguin classic and a pair of Calvin Klein pants then x
-170,1.2950674793504154e+18,2020-08-16 18:38:42+00:00,['1295067479350415360'],Ever since seeing Simon Amstel in a pair of baggy linen trousers (specifically with a drawstring) at the fringe in 2013 I have said to myself I would eventually own a pair. Today is that day. Huggie earring and ayuhausca ingestion to follow
-171,1.2917449553340908e+18,2020-08-07 14:36:11+00:00,['1291744955334090752'],Not falling for this shite again https://t.co/90WQArIF4u
-172,1.2909769993984287e+18,2020-08-05 11:44:36+00:00,['1290976999398428672'],"This is exactly the problem. There may be some reasoning in adjusting for schools that *generally* do worse/better than average, but when it has potential impact on an individual’s life choices, university chances etc then it’s not a system that should be relied upon https://t.co/TFMeXhiBvK"
-173,1.2909740198319636e+18,2020-08-05 11:32:46+00:00,['1290974019831963650'],RT @MrMcEnaney: More bad news for the SQA and ScotGov - Professor Guy Nason (Chair of Statistics at Imperial College London) has had a look…
-174,1.2900440052800348e+18,2020-08-02 21:57:13+00:00,['1290044005280034816'],RT @eviIbag: the avengers endgame crowd cheering video except it's little women when bob odenkirk shows up https://t.co/nJEnvgk3u4
-175,1.2896395668239278e+18,2020-08-01 19:10:07+00:00,['1289639566823927808'],All I want to do is sing some Talking Heads on karaoke and do a wee David Byrne dance. Is that too much to ask ?
-176,1.286044268159742e+18,2020-07-22 21:03:41+00:00,['1286044268159741955'],Remember that guy who wholly misunderstood the concept of birthday cake (and socialism) whilst suggesting Bernie Sanders should give away 90% of his? Wonder if he is still kicking about Ragin about Victoria sponge and basic human rights
-177,1.2858822327716127e+18,2020-07-22 10:19:49+00:00,['1285882232771612677'],https://t.co/10YH9WKQ2n https://t.co/vStrBUGsJZ
-178,1.2856850398842716e+18,2020-07-21 21:16:15+00:00,['1285685039884271623'],RT @PabloRochat: they've had enough https://t.co/qK3wngDJnB
-179,1.2848129819230863e+18,2020-07-19 11:31:00+00:00,['1284812981923086337'],Do fancy Harry Styles a wee bit. Watermelon Sugar is a bop
-180,1.2845584220678103e+18,2020-07-18 18:39:28+00:00,['1284558422067810307'],Thought because I wasn’t a goth I was safe from fiat 500 twitter. How wrong was I😓 https://t.co/gJl8RI8O3w
-181,1.2845573990309317e+18,2020-07-18 18:35:24+00:00,['1284557399030931462'],State military parade on Friday and every household shall be delivered a portrait of Oor Nicola to hang in their dining room for all eternity https://t.co/s112w2u82u
-182,1.284543262045483e+18,2020-07-18 17:39:13+00:00,['1284543262045483009'],Lianna La Havas Is Back and I couldn’t be more happy. Angel Olsen thank u for ur time but the original soothing voice has returned x
-183,1.28296633220864e+18,2020-07-14 09:13:04+00:00,['1282966332208640001'],RT @killola: remember when technology gave us the mummy’s voice  https://t.co/813GGG48ts
-184,1.2826601957521244e+18,2020-07-13 12:56:35+00:00,['1282660195752124418'],My work backs up on the zoo and a year ago today I found an exotic bird round the back that had escaped its enclosure. Still feel the guilt of calling the zoo to let them know rather than letting the bird (Chanel?) fly away from its wee depressing prison
-185,1.2824431593986867e+18,2020-07-12 22:34:10+00:00,['1282443159398686720'],Although I think the endless dread I would feel knowing I have ink permanently residing within my skin in the shape of three barcoded tomatoes will slowly get to me at about 2 years post-tattoo
-186,1.2824146065483776e+18,2020-07-12 20:40:42+00:00,['1282414606548377602'],Cate Blanchett as Phyllis Schlafly Getting a Pie to the Face (to the tune of Blitzkrieg Bop)
-187,1.2824082633724846e+18,2020-07-12 20:15:30+00:00,['1282408263372484609'],I’ve wanted to get these barcode tomatoes from this book I used a lot for my diss for about 3 years now so I think that means I should get a tattoo x https://t.co/4GbcEGddY7 https://t.co/Doc6jGlClE
-188,1.2823975586026332e+18,2020-07-12 19:32:58+00:00,['1282397558602633216'],@cat__col Agreed. Great to have some qualitative data as well thnx x
-189,1.2823712314514063e+18,2020-07-12 17:48:21+00:00,['1282371231451406338'],"Hello. Twitter wisdom required to settle a debate: Is it weird to fill your water bottle/glass up with water from a bathroom tap because it’s the bathroom, or is it completely normal because it’s a tap and it’s all the same water?"
-190,1.2816824850096906e+18,2020-07-10 20:11:31+00:00,['1281682485009690625'],‘places to go in europe on your own’ takes the bait for the saddest Google search this week😢
-191,1.28150243840358e+18,2020-07-10 08:16:05+00:00,['1281502438403579904'],RT @jmccloskeey: Asked the bf to open my BirchBox and this is what I got... https://t.co/2aLHaNmVEN
-192,1.2813689049343345e+18,2020-07-09 23:25:28+00:00,['1281368904934334464'],Looks like imma need to rewatch cos I’m still of the same opinion as my 14 year old self who is still heartbroken on behalf of Tom x https://t.co/gWJyT1ga46
-193,1.2813529115163034e+18,2020-07-09 22:21:55+00:00,['1281352911516303360'],@annaaahhh_ @jmccloskeey Can’t wait to try the paper exfoliator x
-194,1.2812950121107087e+18,2020-07-09 18:31:50+00:00,['1281295012110708736'],@IrvineWelsh https://t.co/Xe1KuAOYRQ
-195,1.2812917117974774e+18,2020-07-09 18:18:43+00:00,['1281291711797477388'],"I’ve got a big puffy red eye courtesy of hay fever and Loz is suggesting I rub it with a wooden spoon and a cold damp teabag???? 
+161,161,1.3034662094558044e+18,2020-09-08 22:52:16+00:00,['1303466209455804417'],@oiseaujaune_ But to clarify...using they/them is still a good alternative when you’re not sure of someone’s pronouns yes?
+162,162,1.303076803217707e+18,2020-09-07 21:04:54+00:00,['1303076803217707008'],parents on holiday for the week and have to switch off Zodiac after the first murder cos I’m convinced he’ll be outside coming in to get me next. Will probably resume watching it in the morning bcos nobody gets murdered when it’s daytime x 23 years old man
+163,163,1.3012819614078523e+18,2020-09-02 22:12:50+00:00,['1301281961407852545'],
+164,164,1.2993580286014505e+18,2020-08-28 14:47:49+00:00,['1299358028601450497'],Lots of important points made here https://t.co/tPdD0MKRdZ
+165,165,1.2993515796409672e+18,2020-08-28 14:22:12+00:00,['1299351579640967168'],"Jessica, only child, Illinois, Chicago. Classmate Kim Jin-mo, he's your cousin."
+166,166,1.2973723872944865e+18,2020-08-23 03:17:35+00:00,['1297372387294486529'],4am and thinking bout Florence Pugh looking at me the way she looked at Tim Chalomay from the carriage in Little Women™
+167,167,1.2973430546140897e+18,2020-08-23 01:21:02+00:00,['1297343054614089735'],Cyclist Who Isn’t Confident Taking His Hands off the Handlebars Ends up Doing a Nazi Salute When Turning Right
+168,168,1.2971843508371333e+18,2020-08-22 14:50:24+00:00,['1297184350837133312'],*trigger warning* but I have been forced to ferociously scrub my legs every day in the shower by you fucking people. What’s wrong with scrubbing them every couple of days ? They don’t sweat ? They don’t smell ? They don’t get dirty ? Why do I have to waste my time x
+169,169,1.295689329008943e+18,2020-08-18 11:49:43+00:00,['1295689329008943105'],Forgot it was my birthday next week so I've spent the morning trying to micromanage my family in terms of gift suggestions. Mum saying she's 'already sorted for wee pressies' - so that's a penguin classic and a pair of Calvin Klein pants then x
+170,170,1.2950674793504154e+18,2020-08-16 18:38:42+00:00,['1295067479350415360'],Ever since seeing Simon Amstel in a pair of baggy linen trousers (specifically with a drawstring) at the fringe in 2013 I have said to myself I would eventually own a pair. Today is that day. Huggie earring and ayuhausca ingestion to follow
+171,171,1.2917449553340908e+18,2020-08-07 14:36:11+00:00,['1291744955334090752'],Not falling for this shite again https://t.co/90WQArIF4u
+172,172,1.2909769993984287e+18,2020-08-05 11:44:36+00:00,['1290976999398428672'],"This is exactly the problem. There may be some reasoning in adjusting for schools that *generally* do worse/better than average, but when it has potential impact on an individual’s life choices, university chances etc then it’s not a system that should be relied upon https://t.co/TFMeXhiBvK"
+173,173,1.2909740198319636e+18,2020-08-05 11:32:46+00:00,['1290974019831963650'],
+174,174,1.2900440052800348e+18,2020-08-02 21:57:13+00:00,['1290044005280034816'],
+175,175,1.2896395668239278e+18,2020-08-01 19:10:07+00:00,['1289639566823927808'],All I want to do is sing some Talking Heads on karaoke and do a wee David Byrne dance. Is that too much to ask ?
+176,176,1.286044268159742e+18,2020-07-22 21:03:41+00:00,['1286044268159741955'],Remember that guy who wholly misunderstood the concept of birthday cake (and socialism) whilst suggesting Bernie Sanders should give away 90% of his? Wonder if he is still kicking about Ragin about Victoria sponge and basic human rights
+177,177,1.2858822327716127e+18,2020-07-22 10:19:49+00:00,['1285882232771612677'],https://t.co/10YH9WKQ2n https://t.co/vStrBUGsJZ
+178,178,1.2856850398842716e+18,2020-07-21 21:16:15+00:00,['1285685039884271623'],
+179,179,1.2848129819230863e+18,2020-07-19 11:31:00+00:00,['1284812981923086337'],Do fancy Harry Styles a wee bit. Watermelon Sugar is a bop
+180,180,1.2845584220678103e+18,2020-07-18 18:39:28+00:00,['1284558422067810307'],Thought because I wasn’t a goth I was safe from fiat 500 twitter. How wrong was I😓 https://t.co/gJl8RI8O3w
+181,181,1.2845573990309317e+18,2020-07-18 18:35:24+00:00,['1284557399030931462'],State military parade on Friday and every household shall be delivered a portrait of Oor Nicola to hang in their dining room for all eternity https://t.co/s112w2u82u
+182,182,1.284543262045483e+18,2020-07-18 17:39:13+00:00,['1284543262045483009'],Lianna La Havas Is Back and I couldn’t be more happy. Angel Olsen thank u for ur time but the original soothing voice has returned x
+183,183,1.28296633220864e+18,2020-07-14 09:13:04+00:00,['1282966332208640001'],
+184,184,1.2826601957521244e+18,2020-07-13 12:56:35+00:00,['1282660195752124418'],My work backs up on the zoo and a year ago today I found an exotic bird round the back that had escaped its enclosure. Still feel the guilt of calling the zoo to let them know rather than letting the bird (Chanel?) fly away from its wee depressing prison
+185,185,1.2824431593986867e+18,2020-07-12 22:34:10+00:00,['1282443159398686720'],Although I think the endless dread I would feel knowing I have ink permanently residing within my skin in the shape of three barcoded tomatoes will slowly get to me at about 2 years post-tattoo
+186,186,1.2824146065483776e+18,2020-07-12 20:40:42+00:00,['1282414606548377602'],Cate Blanchett as Phyllis Schlafly Getting a Pie to the Face (to the tune of Blitzkrieg Bop)
+187,187,1.2824082633724846e+18,2020-07-12 20:15:30+00:00,['1282408263372484609'],I’ve wanted to get these barcode tomatoes from this book I used a lot for my diss for about 3 years now so I think that means I should get a tattoo x https://t.co/4GbcEGddY7 https://t.co/Doc6jGlClE
+188,188,1.2823975586026332e+18,2020-07-12 19:32:58+00:00,['1282397558602633216'],@cat__col Agreed. Great to have some qualitative data as well thnx x
+189,189,1.2823712314514063e+18,2020-07-12 17:48:21+00:00,['1282371231451406338'],"Hello. Twitter wisdom required to settle a debate: Is it weird to fill your water bottle/glass up with water from a bathroom tap because it’s the bathroom, or is it completely normal because it’s a tap and it’s all the same water?"
+190,190,1.2816824850096906e+18,2020-07-10 20:11:31+00:00,['1281682485009690625'],‘places to go in europe on your own’ takes the bait for the saddest Google search this week😢
+191,191,1.28150243840358e+18,2020-07-10 08:16:05+00:00,['1281502438403579904'],
+192,192,1.2813689049343345e+18,2020-07-09 23:25:28+00:00,['1281368904934334464'],Looks like imma need to rewatch cos I’m still of the same opinion as my 14 year old self who is still heartbroken on behalf of Tom x https://t.co/gWJyT1ga46
+193,193,1.2813529115163034e+18,2020-07-09 22:21:55+00:00,['1281352911516303360'],@annaaahhh_ @jmccloskeey Can’t wait to try the paper exfoliator x
+194,194,1.2812950121107087e+18,2020-07-09 18:31:50+00:00,['1281295012110708736'],@IrvineWelsh https://t.co/Xe1KuAOYRQ
+195,195,1.2812917117974774e+18,2020-07-09 18:18:43+00:00,['1281291711797477388'],"I’ve got a big puffy red eye courtesy of hay fever and Loz is suggesting I rub it with a wooden spoon and a cold damp teabag???? 
 
 I think my mum ... is a witch ?"
-196,1.280875837361881e+18,2020-07-08 14:46:11+00:00,['1280875837361881091'],"RT @billybragg: The headline here should actually be ""Cultural arbiters bemoan the fact that the public can now hold them to account"". Free…"
-197,1.280621770765189e+18,2020-07-07 21:56:37+00:00,['1280621770765189120'],"A medical student wearing a stethoscope generally follows the same rules as taking a golf umbrella out with you - don’t take it and you’ll definitely need it, take it and it’ll be utterly useless and a burden the whole day https://t.co/dz06jKc1UU"
-198,1.2802674371460628e+18,2020-07-06 22:28:37+00:00,['1280267437146062850'],"Changed my bitmoji outfit today which was a new low but he (I) still had winter clothes on which just didn’t sit right with me (or him, I assume)"
-199,1.2798930766229258e+18,2020-07-05 21:41:03+00:00,['1279893076622925825'],@danieltayl0r I think I need to report this tweet sorry x
-200,1.2798601150222418e+18,2020-07-05 19:30:04+00:00,['1279860115022241792'],CAUGHT https://t.co/8IrsuTQUUA
-201,1.2787020057252987e+18,2020-07-02 14:48:09+00:00,['1278702005725298693'],"RT @ByDonkeys: Johnson and Cummings: A Timeline of Failure (Part One)
-Location: Barnard Castle
-(Sound on - thanks to @GavinEsler for narrat…"
-202,1.277199703709487e+18,2020-06-28 11:18:33+00:00,['1277199703709487104'],Sometimes I wish I was Paddington so that Florence Pugh would make marmalade sandwiches with me
-203,1.2768842103898358e+18,2020-06-27 14:24:53+00:00,['1276884210389835777'],"RT @richdavisphd: What does a mask do? Blocks respiratory droplets coming from your mouth and throat.
-
-Two simple demos:
-
-First, I sneezed,…"
-204,1.2759181665443308e+18,2020-06-24 22:26:10+00:00,['1275918166544330757'],https://t.co/X24QLpaaFC https://t.co/lLyg8jOrHC
-205,1.2757664941237002e+18,2020-06-24 12:23:29+00:00,['1275766494123700224'],The Tale of the Landscape Gardener with Refractory Hayfever
-206,1.2744312477843046e+18,2020-06-20 19:57:41+00:00,['1274431247784304643'],RT @ChrisGraaaay: What did he say ? Diagonally? https://t.co/pcZhhCU1Mb
-207,1.2744308870951404e+18,2020-06-20 19:56:15+00:00,['1274430887095140358'],The Saga continues https://t.co/U6TbAwB0hd
-208,1.2741052720978125e+18,2020-06-19 22:22:23+00:00,['1274105272097812483'],Thumb • a photo set https://t.co/vKCnpmcIsU
-209,1.274105090832556e+18,2020-06-19 22:21:40+00:00,['1274105090832556034'],"Took this photo of my thumb today, felt cute might delete later x https://t.co/LqZfsiu1wk"
-210,1.273913229379539e+18,2020-06-19 09:39:16+00:00,['1273913229379538944'],"RT @malone_mk: “But what will it look like on darker skin?”- A question I’ve often asked myself during my time at medical school
-
-This cons…"
-211,1.2735946333612442e+18,2020-06-18 12:33:17+00:00,['1273594633361244161'],@danieltayl0r So good. Was sent a similar one but on Mumford and Sons and was instantly reminded of it
-212,1.2735922063901655e+18,2020-06-18 12:23:38+00:00,['1273592206390165504'],"RT @DaftLimmy: RIP Vera
-https://t.co/OTY3jVEfge"
-213,1.2735884216054374e+18,2020-06-18 12:08:36+00:00,['1273588421605437440'],Lest we forget these dudes https://t.co/CzvXOPgqPU
-214,1.272107600159617e+18,2020-06-14 10:04:21+00:00,['1272107600159617024'],Looking for music recommendations - anything from Australian female singer songwriter to American female singer songwriter. Cheers x
-215,1.271124973135057e+18,2020-06-11 16:59:44+00:00,['1271124973135056896'],"Just realised (about 5 years too late) that I still had my tumblr link in my Twitter icon. All the amateur landscape photography, self-harm glorification and softcore porn rushing right back to me. What a # throwback"
-216,1.2711242797997466e+18,2020-06-11 16:56:59+00:00,['1271124279799746566'],"RT @Filmhouse: When two Black slaves escape into the wilds of 18th century Scotland, they must use courage to survive, unite &amp; stay free.…"
-217,1.2703720515520143e+18,2020-06-09 15:07:54+00:00,['1270372051552014339'],"RT @afuahirsch: In a former life, when I thought you cd politely persuade people not to be racist
-
-Their response? ""If you don't like it he…"
-218,1.2700858942095073e+18,2020-06-08 20:10:48+00:00,['1270085894209507341'],RT @greg_jenner: I’d argue this has more educational power than some workmen quietly removing it in the night
-219,1.2699669076644864e+18,2020-06-08 12:18:00+00:00,['1269966907664486401'],RT @AndyHa_: Tommy Robinson calling out Little Mix and Anthony Joshua vs Parklife https://t.co/EUjSqsM3Yv
-220,1.269558277274325e+18,2020-06-07 09:14:15+00:00,['1269558277274324997'],RT @phntmthread: white savior movies making up characters and plot points for the sole purpose of making themselves look better in hindsigh…
-221,1.2689555337315615e+18,2020-06-05 17:19:09+00:00,['1268955533731561475'],"RT @parcelorogues: Who benefited from slavery in Scotland? When it was abolished in British colonies in 1833, the equivalent of £2.5bn was…"
-222,1.268207573783765e+18,2020-06-03 15:47:02+00:00,['1268207573783764992'],RT @AamerAnwar: All those horrified at 🇺🇸scene of a black man #GeorgeFloyd dying as he struggled to breathe whilst being knelt on by police…
-223,1.2682004501946204e+18,2020-06-03 15:18:44+00:00,['1268200450194620418'],Thread: https://t.co/a90ZL6yGyw
-224,1.266713332972761e+18,2020-05-30 12:49:27+00:00,['1266713332972761089'],@cut_brick @DaftLimmy I must have been lucky then as never came back. Sorry to hear that
-225,1.2667061173060037e+18,2020-05-30 12:20:47+00:00,['1266706117306003458'],"RT @DaftLimmy: Defo, everybody. Defo.
-
-No trip to the doctor required.
-
-We have ourselves a Defo."
-226,1.2667058249336996e+18,2020-05-30 12:19:37+00:00,['1266705824933699584'],@DaftLimmy @ me when your dead pls❤️ massive fan
-227,1.266678960865325e+18,2020-05-30 10:32:52+00:00,['1266678960865325056'],@DaftLimmy Don’t think it’s labyrinthitis based on duration of dizziness. If it lasts a few seconds only after moving in bed or suddenly moving your head some points it’s defo Benign Paroxysmal Positional Vertigo (BPPV) - very common and treated with a simple head manoeuvre by GP
-228,1.2630392803410084e+18,2020-05-20 09:30:05+00:00,['1263039280341008385'],@jmccloskeey Wow. Does corporate greed make you feel good ? I’d hope not x
-229,1.262788641363034e+18,2020-05-19 16:54:08+00:00,['1262788641363034113'],Sometimes I try not to get too vain about my skin when Joanna spends loads of money on corporate anti-feminist skin care products and it doesn’t make a blind bit eh difference😘✌🏻
-230,1.2598090694660751e+18,2020-05-11 11:34:22+00:00,['1259809069466075139'],RT @deejaypb: Getting Coronavirus and dying because you hate Nicola Sturgeon would hit level 10 on the staunchometer
-231,1.2562532870174597e+18,2020-05-01 16:04:58+00:00,['1256253287017459719'],RT @rebugmp4: Important!! https://t.co/kwlmCXd0vO
-232,1.2555722251739791e+18,2020-04-29 18:58:40+00:00,['1255572225173979136'],RT @jowrotethis: I’d nominate this for an Oscar. https://t.co/s860OpnmtT
-233,1.250790943269294e+18,2020-04-16 14:19:34+00:00,['1250790943269294082'],RT @AlbionJake: Stop fucking about please John. https://t.co/JHFOxxZAKY
-234,1.2504844603001403e+18,2020-04-15 18:01:42+00:00,['1250484460300140544'],Loraine denying poor Oscar some sweet cheesy fingers 😢 🐶 https://t.co/lB5cKeN3CJ
-235,1.249781942150746e+18,2020-04-13 19:30:09+00:00,['1249781942150746115'],"Lots of fun doing a wee Zoom quiz for @itsgood2give with host @GrantStottOnAir 
+196,196,1.280875837361881e+18,2020-07-08 14:46:11+00:00,['1280875837361881091'],
+197,197,1.280621770765189e+18,2020-07-07 21:56:37+00:00,['1280621770765189120'],"A medical student wearing a stethoscope generally follows the same rules as taking a golf umbrella out with you - don’t take it and you’ll definitely need it, take it and it’ll be utterly useless and a burden the whole day https://t.co/dz06jKc1UU"
+198,198,1.2802674371460628e+18,2020-07-06 22:28:37+00:00,['1280267437146062850'],"Changed my bitmoji outfit today which was a new low but he (I) still had winter clothes on which just didn’t sit right with me (or him, I assume)"
+199,199,1.2798930766229258e+18,2020-07-05 21:41:03+00:00,['1279893076622925825'],@danieltayl0r I think I need to report this tweet sorry x
+200,200,1.2798601150222418e+18,2020-07-05 19:30:04+00:00,['1279860115022241792'],CAUGHT https://t.co/8IrsuTQUUA
+201,201,1.2787020057252987e+18,2020-07-02 14:48:09+00:00,['1278702005725298693'],
+202,202,1.277199703709487e+18,2020-06-28 11:18:33+00:00,['1277199703709487104'],Sometimes I wish I was Paddington so that Florence Pugh would make marmalade sandwiches with me
+203,203,1.2768842103898358e+18,2020-06-27 14:24:53+00:00,['1276884210389835777'],
+204,204,1.2759181665443308e+18,2020-06-24 22:26:10+00:00,['1275918166544330757'],https://t.co/X24QLpaaFC https://t.co/lLyg8jOrHC
+205,205,1.2757664941237002e+18,2020-06-24 12:23:29+00:00,['1275766494123700224'],The Tale of the Landscape Gardener with Refractory Hayfever
+206,206,1.2744312477843046e+18,2020-06-20 19:57:41+00:00,['1274431247784304643'],
+207,207,1.2744308870951404e+18,2020-06-20 19:56:15+00:00,['1274430887095140358'],The Saga continues https://t.co/U6TbAwB0hd
+208,208,1.2741052720978125e+18,2020-06-19 22:22:23+00:00,['1274105272097812483'],Thumb • a photo set https://t.co/vKCnpmcIsU
+209,209,1.274105090832556e+18,2020-06-19 22:21:40+00:00,['1274105090832556034'],"Took this photo of my thumb today, felt cute might delete later x https://t.co/LqZfsiu1wk"
+210,210,1.273913229379539e+18,2020-06-19 09:39:16+00:00,['1273913229379538944'],
+211,211,1.2735946333612442e+18,2020-06-18 12:33:17+00:00,['1273594633361244161'],@danieltayl0r So good. Was sent a similar one but on Mumford and Sons and was instantly reminded of it
+212,212,1.2735922063901655e+18,2020-06-18 12:23:38+00:00,['1273592206390165504'],
+213,213,1.2735884216054374e+18,2020-06-18 12:08:36+00:00,['1273588421605437440'],Lest we forget these dudes https://t.co/CzvXOPgqPU
+214,214,1.272107600159617e+18,2020-06-14 10:04:21+00:00,['1272107600159617024'],Looking for music recommendations - anything from Australian female singer songwriter to American female singer songwriter. Cheers x
+215,215,1.271124973135057e+18,2020-06-11 16:59:44+00:00,['1271124973135056896'],"Just realised (about 5 years too late) that I still had my tumblr link in my Twitter icon. All the amateur landscape photography, self-harm glorification and softcore porn rushing right back to me. What a # throwback"
+216,216,1.2711242797997466e+18,2020-06-11 16:56:59+00:00,['1271124279799746566'],
+217,217,1.2703720515520143e+18,2020-06-09 15:07:54+00:00,['1270372051552014339'],
+218,218,1.2700858942095073e+18,2020-06-08 20:10:48+00:00,['1270085894209507341'],
+219,219,1.2699669076644864e+18,2020-06-08 12:18:00+00:00,['1269966907664486401'],
+220,220,1.269558277274325e+18,2020-06-07 09:14:15+00:00,['1269558277274324997'],
+221,221,1.2689555337315615e+18,2020-06-05 17:19:09+00:00,['1268955533731561475'],
+222,222,1.268207573783765e+18,2020-06-03 15:47:02+00:00,['1268207573783764992'],
+223,223,1.2682004501946204e+18,2020-06-03 15:18:44+00:00,['1268200450194620418'],Thread: https://t.co/a90ZL6yGyw
+224,224,1.266713332972761e+18,2020-05-30 12:49:27+00:00,['1266713332972761089'],@cut_brick @DaftLimmy I must have been lucky then as never came back. Sorry to hear that
+225,225,1.2667061173060037e+18,2020-05-30 12:20:47+00:00,['1266706117306003458'],
+226,226,1.2667058249336996e+18,2020-05-30 12:19:37+00:00,['1266705824933699584'],@DaftLimmy @ me when your dead pls❤️ massive fan
+227,227,1.266678960865325e+18,2020-05-30 10:32:52+00:00,['1266678960865325056'],@DaftLimmy Don’t think it’s labyrinthitis based on duration of dizziness. If it lasts a few seconds only after moving in bed or suddenly moving your head some points it’s defo Benign Paroxysmal Positional Vertigo (BPPV) - very common and treated with a simple head manoeuvre by GP
+228,228,1.2630392803410084e+18,2020-05-20 09:30:05+00:00,['1263039280341008385'],@jmccloskeey Wow. Does corporate greed make you feel good ? I’d hope not x
+229,229,1.262788641363034e+18,2020-05-19 16:54:08+00:00,['1262788641363034113'],Sometimes I try not to get too vain about my skin when Joanna spends loads of money on corporate anti-feminist skin care products and it doesn’t make a blind bit eh difference😘✌🏻
+230,230,1.2598090694660751e+18,2020-05-11 11:34:22+00:00,['1259809069466075139'],
+231,231,1.2562532870174597e+18,2020-05-01 16:04:58+00:00,['1256253287017459719'],
+232,232,1.2555722251739791e+18,2020-04-29 18:58:40+00:00,['1255572225173979136'],
+233,233,1.250790943269294e+18,2020-04-16 14:19:34+00:00,['1250790943269294082'],
+234,234,1.2504844603001403e+18,2020-04-15 18:01:42+00:00,['1250484460300140544'],Loraine denying poor Oscar some sweet cheesy fingers 😢 🐶 https://t.co/lB5cKeN3CJ
+235,235,1.249781942150746e+18,2020-04-13 19:30:09+00:00,['1249781942150746115'],"Lots of fun doing a wee Zoom quiz for @itsgood2give with host @GrantStottOnAir 
 These are bad times for all, but charities who rely on fundraising are hit especially! So give It’s Good to Give a wee follow if you can"
-236,1.2454352610912748e+18,2020-04-01 19:37:59+00:00,['1245435261091274757'],You know when....😂😂😂 I actually cant😂😂😂😂you open the dishwasher and you just automatically say ‘sorry’😂😂😂😂 aw nut😂😂😂😂
-237,1.2449911256702362e+18,2020-03-31 14:13:09+00:00,['1244991125670236160'],When you’re in quarantine but your screen time has gone down 😘✌🏻
-238,1.2438421401842074e+18,2020-03-28 10:07:30+00:00,['1243842140184207361'],"RT @WebMD: When it comes to spotting symptoms, do you know how to tell the new coronavirus (also known as COVID-19) from seasonal allergies…"
-239,1.242893195970822e+18,2020-03-25 19:16:44+00:00,['1242893195970822145'],"Two favourites in one GIF! Please, if you will: @razscot @paterson_48 @danieltayl0r @FinlayAnd17 https://t.co/NkMxOw9XqG https://t.co/q77dEl5Xf7"
-240,1.2425455055378432e+18,2020-03-24 20:15:08+00:00,['1242545505537843200'],When You Sit Down on the Toilet and the First Noise That Comes From Your Bottom Sounds Like the First Chord on Joni Mitchell’s California
-241,1.2422013746638602e+18,2020-03-23 21:27:41+00:00,['1242201374663860225'],RT @AndyHa_: Me popping out to Tesco for some rice. https://t.co/mHAwwmafQN
-242,1.24219784713259e+18,2020-03-23 21:13:40+00:00,['1242197847132590080'],RT @seanbgoneill: leaving the house for a walk  https://t.co/u4TKJGKDHQ
-243,1.239607588452524e+18,2020-03-16 17:40:54+00:00,['1239607588452524033'],Love in the Time of COVID-19 is getting an email from my local florist to say they’re doing contactless delivery 🥰😍
-244,1.2392694610200863e+18,2020-03-15 19:17:18+00:00,['1239269461020086272'],"Goodbye to Rosie, the Queen of Corona😢 https://t.co/1IO8ZAYPkH"
-245,1.2385466300072346e+18,2020-03-13 19:25:02+00:00,['1238546630007234563'],Now is the right time to go up to ur twitter crush and cough in their face so that they have to isolate with you☺️🥰
-246,1.235186064136065e+18,2020-03-04 12:51:20+00:00,['1235186064136065026'],"RT @jmccloskeey: The trope that women should go through immense pain and suffering during childbirth is draconian, misogynistic, and inhuma…"
-247,1.2320023208436408e+18,2020-02-24 18:00:17+00:00,['1232002320843640834'],@paterson_48 My ability to compete with these puns is pithetic ☹️
-248,1.231969375718011e+18,2020-02-24 15:49:22+00:00,['1231969375718010880'],"@danieltayl0r It’s been 13 minutes and I can’t think of a good enough reply. But yes, chuffed to bits (bits as in orange juice with bits)"
-249,1.2319392371273605e+18,2020-02-24 13:49:37+00:00,['1231939237127360512'],"She looks up. ‘These things happen!!’, she says, trying to smile whilst tears stream from a ferociously blinking eyelid. You try give an agreeing nod as you chew on the orange but it’s a bit sour. You continue with your lunch"
-250,1.2319385244521513e+18,2020-02-24 13:46:47+00:00,['1231938524452151298'],"You are in Costa trying to wrestle with a not-so-easy-peel orange and, when trying to break it down the middle, a jet of juice flies across the table and into the eye of a wee old lady sipping tea. You both try to laugh but her eye is red and she’s clearly in pain"
-251,1.231220878085673e+18,2020-02-22 14:15:06+00:00,['1231220878085672960'],"Every time I get in to Glasgow Uni lib showing my Edinburgh student card I have to prepare to give the same fake laugh to the security guard as he says ‘ohhhhhh edinburgh, don’t know if I can let you in mate😂😂😂😂😂’ https://t.co/ICORLvlyop"
-252,1.2287992217231032e+18,2020-02-15 21:52:19+00:00,['1228799221723103233'],RT @JakeMC_: SorryNikki.avi https://t.co/j7YtblEVx5
-253,1.2271911922129756e+18,2020-02-11 11:22:34+00:00,['1227191192212975617'],@ChrisWood97 Cue some A&amp;E visits
-254,1.2270175042135654e+18,2020-02-10 23:52:24+00:00,['1227017504213565440'],So at my last counselling session my therapist said I was “rather existential” and that perhaps I would instead benefit from long-term psychotherapy. Which is...expensive ?
-255,1.2233191532615803e+18,2020-01-31 18:56:28+00:00,['1223319153261580290'],"RT @tomrosenthal: Fenn, my nearly 4 year old daughter, recorded her first ever solo song today. She came up with all the words herself and…"
-256,1.223001830139011e+18,2020-01-30 21:55:33+00:00,['1223001830139011072'],"“Maybe high up in the church, idk”
+236,236,1.2454352610912748e+18,2020-04-01 19:37:59+00:00,['1245435261091274757'],You know when....😂😂😂 I actually cant😂😂😂😂you open the dishwasher and you just automatically say ‘sorry’😂😂😂😂 aw nut😂😂😂😂
+237,237,1.2449911256702362e+18,2020-03-31 14:13:09+00:00,['1244991125670236160'],When you’re in quarantine but your screen time has gone down 😘✌🏻
+238,238,1.2438421401842074e+18,2020-03-28 10:07:30+00:00,['1243842140184207361'],
+239,239,1.242893195970822e+18,2020-03-25 19:16:44+00:00,['1242893195970822145'],"Two favourites in one GIF! Please, if you will: @razscot @paterson_48 @danieltayl0r @FinlayAnd17 https://t.co/NkMxOw9XqG https://t.co/q77dEl5Xf7"
+240,240,1.2425455055378432e+18,2020-03-24 20:15:08+00:00,['1242545505537843200'],When You Sit Down on the Toilet and the First Noise That Comes From Your Bottom Sounds Like the First Chord on Joni Mitchell’s California
+241,241,1.2422013746638602e+18,2020-03-23 21:27:41+00:00,['1242201374663860225'],
+242,242,1.24219784713259e+18,2020-03-23 21:13:40+00:00,['1242197847132590080'],
+243,243,1.239607588452524e+18,2020-03-16 17:40:54+00:00,['1239607588452524033'],Love in the Time of COVID-19 is getting an email from my local florist to say they’re doing contactless delivery 🥰😍
+244,244,1.2392694610200863e+18,2020-03-15 19:17:18+00:00,['1239269461020086272'],"Goodbye to Rosie, the Queen of Corona😢 https://t.co/1IO8ZAYPkH"
+245,245,1.2385466300072346e+18,2020-03-13 19:25:02+00:00,['1238546630007234563'],Now is the right time to go up to ur twitter crush and cough in their face so that they have to isolate with you☺️🥰
+246,246,1.235186064136065e+18,2020-03-04 12:51:20+00:00,['1235186064136065026'],
+247,247,1.2320023208436408e+18,2020-02-24 18:00:17+00:00,['1232002320843640834'],@paterson_48 My ability to compete with these puns is pithetic ☹️
+248,248,1.231969375718011e+18,2020-02-24 15:49:22+00:00,['1231969375718010880'],"@danieltayl0r It’s been 13 minutes and I can’t think of a good enough reply. But yes, chuffed to bits (bits as in orange juice with bits)"
+249,249,1.2319392371273605e+18,2020-02-24 13:49:37+00:00,['1231939237127360512'],"She looks up. ‘These things happen!!’, she says, trying to smile whilst tears stream from a ferociously blinking eyelid. You try give an agreeing nod as you chew on the orange but it’s a bit sour. You continue with your lunch"
+250,250,1.2319385244521513e+18,2020-02-24 13:46:47+00:00,['1231938524452151298'],"You are in Costa trying to wrestle with a not-so-easy-peel orange and, when trying to break it down the middle, a jet of juice flies across the table and into the eye of a wee old lady sipping tea. You both try to laugh but her eye is red and she’s clearly in pain"
+251,251,1.231220878085673e+18,2020-02-22 14:15:06+00:00,['1231220878085672960'],"Every time I get in to Glasgow Uni lib showing my Edinburgh student card I have to prepare to give the same fake laugh to the security guard as he says ‘ohhhhhh edinburgh, don’t know if I can let you in mate😂😂😂😂😂’ https://t.co/ICORLvlyop"
+252,252,1.2287992217231032e+18,2020-02-15 21:52:19+00:00,['1228799221723103233'],
+253,253,1.2271911922129756e+18,2020-02-11 11:22:34+00:00,['1227191192212975617'],@ChrisWood97 Cue some A&amp;E visits
+254,254,1.2270175042135654e+18,2020-02-10 23:52:24+00:00,['1227017504213565440'],So at my last counselling session my therapist said I was “rather existential” and that perhaps I would instead benefit from long-term psychotherapy. Which is...expensive ?
+255,255,1.2233191532615803e+18,2020-01-31 18:56:28+00:00,['1223319153261580290'],
+256,256,1.223001830139011e+18,2020-01-30 21:55:33+00:00,['1223001830139011072'],"“Maybe high up in the church, idk”
 
 Anonymous on Saint Patrick"
-257,1.2229929094919373e+18,2020-01-30 21:20:06+00:00,['1222992909491937281'],RT @quenblackwell: oh to be a frog descending in water
-258,1.221049160016769e+18,2020-01-25 12:36:20+00:00,['1221049160016769027'],Yes my sister has lost her mind but to be fair to this is good craic https://t.co/1jTDnrxOJQ
-259,1.2175299416439276e+18,2020-01-15 19:32:13+00:00,['1217529941643927555'],"Do you know *that* album that got you through a mental breakdown, but now whenever you listen to it you’re torn between being triggered by the memory of the breakdown but also feeling positive that you managed to get over it? Aye that"
-260,1.2157860242211471e+18,2020-01-11 00:02:31+00:00,['1215786024221147136'],@CaitsDonnelly It’s actually incredible. I’ve never  wanted to be a Little Woman more than I do now
-261,1.2157840590345708e+18,2020-01-10 23:54:42+00:00,['1215784059034570753'],Florence Pugh IS Little Women
-262,1.2099476467623895e+18,2019-12-25 21:22:53+00:00,['1209947646762389512'],"New record. Christmas Day, 21:20, and Del Boy has got the ‘Kirsty MacColl death’ Wikipedia page open 🚤 🙏🏼 
+257,257,1.2229929094919373e+18,2020-01-30 21:20:06+00:00,['1222992909491937281'],
+258,258,1.221049160016769e+18,2020-01-25 12:36:20+00:00,['1221049160016769027'],Yes my sister has lost her mind but to be fair to this is good craic https://t.co/1jTDnrxOJQ
+259,259,1.2175299416439276e+18,2020-01-15 19:32:13+00:00,['1217529941643927555'],"Do you know *that* album that got you through a mental breakdown, but now whenever you listen to it you’re torn between being triggered by the memory of the breakdown but also feeling positive that you managed to get over it? Aye that"
+260,260,1.2157860242211471e+18,2020-01-11 00:02:31+00:00,['1215786024221147136'],@CaitsDonnelly It’s actually incredible. I’ve never  wanted to be a Little Woman more than I do now
+261,261,1.2157840590345708e+18,2020-01-10 23:54:42+00:00,['1215784059034570753'],Florence Pugh IS Little Women
+262,262,1.2099476467623895e+18,2019-12-25 21:22:53+00:00,['1209947646762389512'],"New record. Christmas Day, 21:20, and Del Boy has got the ‘Kirsty MacColl death’ Wikipedia page open 🚤 🙏🏼 
 “She was killed instantly.” Aye very good Derek https://t.co/lgv194VsXk"
-263,1.2091418617235866e+18,2019-12-23 16:00:59+00:00,['1209141861723586567'],We Stan. Bet he wasn’t a Terf tho👀 https://t.co/UsoHSi1WpM
-264,1.2078331473642537e+18,2019-12-20 01:20:37+00:00,['1207833147364253696'],@ursavingrace It survived! Was wrapped like a tightly packed chocolate orange. Safe and sound xxxx
-265,1.207756009164415e+18,2019-12-19 20:14:06+00:00,['1207756009164414976'],I Have a Burrito in my Pocket and I'm Concerned it's Going to Leak
-266,1.2055305023562424e+18,2019-12-13 16:50:44+00:00,['1205530502356242433'],"Enjoying the English metropolitan centre-‘left’ attacking Corbyn and his comrades for what they have ‘done’ with Labour. Nobody liked Brown or Miliband; Labour has been dead since Blair, and his flag-flyers are essentially longing for the party to be a bit more Tory again"
-267,1.2054933826274468e+18,2019-12-13 14:23:14+00:00,['1205493382627446784'],"RT @theSNP: 🔥 Bernard Ponsonby eviscerates Scottish Tory's anti-democratic argument on Scottish independence.
-
-💻 Fact check: SNP have won a…"
-268,1.205468855738491e+18,2019-12-13 12:45:46+00:00,['1205468855738490882'],https://t.co/vkStzY3PdQ
-269,1.2054660527228764e+18,2019-12-13 12:34:38+00:00,['1205466052722876417'],https://t.co/vsesIInA6F
-270,1.2047053617789542e+18,2019-12-11 10:11:55+00:00,['1204705361778954240'],@urghitsdaniel We are not a proud race🤷🏼‍♀️
-271,1.2046982656121078e+18,2019-12-11 09:43:43+00:00,['1204698265612107781'],Killer whales killer whales 🐋 https://t.co/xRLHc1kgfk
-272,1.2022849004198052e+18,2019-12-04 17:53:52+00:00,['1202284900419805185'],@jmccloskeey Is that so aye
-273,1.1975715521847992e+18,2019-11-21 17:44:42+00:00,['1197571552184799233'],"RT @ToryFibs: Deleted.
-
-1 million views on a twitter video from BBC of Priti Patel blaming the poor for being poor has been deleted by BBC.…"
-274,1.196536859310076e+18,2019-11-18 21:13:12+00:00,['1196536859310075916'],I just donated a special premature nappy to a UK hospital by tweeting #PampersForPreemies - show your support and do the same! 👶
-275,1.1953917664569467e+18,2019-11-15 17:23:01+00:00,['1195391766456946690'],"RT @secretpublic1: If you’ve ever wanted to hear our debut single played in the style of @Weezer, with a bit of @wheatus’s 2000 hit Teenage…"
-276,1.194342914018726e+18,2019-11-12 19:55:15+00:00,['1194342914018725889'],"@urghitsdaniel Ah yes, ye olde Money-Baggs. 14th Earl of Wester Hails"
-277,1.1943385747470213e+18,2019-11-12 19:38:00+00:00,['1194338574747021313'],@MarcDNelson Yes! Goodbye First Love left me in a mess for a whole weekend
-278,1.1943281019976827e+18,2019-11-12 18:56:23+00:00,['1194328101997682688'],"The first name of the poshest person on your uni course/at work, and the last name of your favourite 17th century British nobleman is ur Telegraph columnist name x https://t.co/MzAdDwEHM6"
-279,1.192878706605351e+18,2019-11-08 18:57:00+00:00,['1192878706605350912'],@O2AcademyGgow @lizzo Set times?
-280,1.1914214114846884e+18,2019-11-04 18:26:14+00:00,['1191421411484688384'],SELLING a @BombayBicycle ticket for tomorrow night at Caird Hall in Dundee. Got 6 but only using 5. Selling for face value or perhaps a little lower. Rt to help a guy out😢
-281,1.1888859645439877e+18,2019-10-28 18:31:17+00:00,['1188885964543987713'],"This duck is not enjoying this, I work with ducks, etc, etc.. https://t.co/75eA7yC4JX"
-282,1.1888097197853655e+18,2019-10-28 13:28:18+00:00,['1188809719785365505'],@oiseaujaune_ Have to stan the endocrinologist here I’m sorry x
-283,1.1871232156861645e+18,2019-10-23 21:46:44+00:00,['1187123215686164481'],RT @Kinglrg_: Me happily listening to the same 5 songs https://t.co/1GrozXZFMm
-284,1.1849719067070218e+18,2019-10-17 23:18:12+00:00,['1184971906707021824'],RT @pooldad: crazy taxi more like crazy taxes
-285,1.1823859710750106e+18,2019-10-10 20:02:37+00:00,['1182385971075010560'],RT @ChrisGraaaay: BE there for those who are silent or just a bit lost. You can make a big difference and you won't even know it #worldment…
-286,1.1823464745223987e+18,2019-10-10 17:25:41+00:00,['1182346474522398720'],"RT @FeelingEuphoric: SCOOBY: raggy, I’m scared
-
-SHAGGY: how about... a Scooby snack?
-
-[the gang tears up as the vet proceeds with the eutha…"
-287,1.180038303275524e+18,2019-10-04 08:33:50+00:00,['1180038303275524096'],"RT @shailjapatel: Priti Patel's parents weren't immigrants. They were refugees, expelled from Uganda by Idi Amin, with over 50,000 other Ug…"
-288,1.1800355789618422e+18,2019-10-04 08:23:00+00:00,['1180035578961842176'],"You’re having a poo in a public toilet (not a good start). It’s a row of about 10 cubicles. You’re alone. Another man enters whistling 99 luftballoons (🎈) and takes the farthest away cubicle, still whistling. You expect it to be comforting. But its not. You are forced to leave."
-289,1.1798160230102876e+18,2019-10-03 17:50:34+00:00,['1179816023010287617'],@CaitsDonnelly @jmccloskeey RT
-290,1.1780812033768407e+18,2019-09-28 22:57:01+00:00,['1178081203376840706'],"All for a ‘radical’ left wing government, but honestly the stuff Labour are pulling out their arse is like they’re just saying anything that comes out of a wee origami fortune teller https://t.co/qqfz0huWYB"
-291,1.1780087697264886e+18,2019-09-28 18:09:11+00:00,['1178008769726488577'],@secretpublic1 @HenrysCellarBar I’m out and about! See you there guys!
-292,1.17790548926029e+18,2019-09-28 11:18:47+00:00,['1177905489260290051'],RT @began_7: A video you never thought you needed til now. Aristocats v Lizzo. 🙌🏻 https://t.co/mex06gDccN
-293,1.1772563998034207e+18,2019-09-26 16:19:32+00:00,['1177256399803420673'],"RT @PEspinosaC: Congratulations, Scotland, for demonstrating bold leadership on #ClimateAction passing a law to reduce emissions by 75% by…"
-294,1.1732706412582257e+18,2019-09-15 16:21:33+00:00,['1173270641258225665'],With hindsight I’ve realised the first time I watched this was actually when I stopped listening to alt-j. Icons https://t.co/fDoksUPjyz
-295,1.1707182659512934e+18,2019-09-08 15:19:20+00:00,['1170718265951293441'],@cake_casting Hi. DM me please re: FF in edinburgh
-296,1.1706929491072532e+18,2019-09-08 13:38:44+00:00,['1170692949107253249'],RT @jennyyangtv: we get to live in an era where every @lizzo performance is a pep rally for our self-esteem and most of us DO NOT EVEN DESE…
-297,1.1685482626866668e+18,2019-09-02 15:36:31+00:00,['1168548262686666752'],RT @Wiznyme1: The video of Piers Morgan repeatedly screaming at Nicola that how Scotland votes doesn't matter should be playing on a loop i…
-298,1.1662412952176353e+18,2019-08-27 06:49:27+00:00,['1166241295217635328'],@secretpublic1 @leithdepot Pickles
-299,1.1656449718457836e+18,2019-08-25 15:19:52+00:00,['1165644971845783552'],@jmccloskeey Ew ?
-300,1.1623178078345871e+18,2019-08-16 10:58:54+00:00,['1162317807834587136'],@c_trionacollie I’m still ragin tbh
-301,1.1418675718488636e+18,2019-06-21 00:36:58+00:00,['1141867571848863744'],RT @secretpublic1: Fuck the government and fuck Ed Sheeran
-302,1.1388431323160494e+18,2019-06-12 16:18:56+00:00,['1138843132316049408'],@Vhairi_Mcatear @RobBrydon Beautiful news
-303,1.1387915057060086e+18,2019-06-12 12:53:47+00:00,['1138791505706008576'],RT @STVNews: BREAKING: Scots will now have to opt-out of donating their organs. https://t.co/mZ0VyFTLEB
-304,1.1322163385277276e+18,2019-05-25 09:26:25+00:00,['1132216338527727617'],Boris Johnson hearing May greet when she walks back in to number 10 https://t.co/rsiUTO5lxV
-305,1.1260514242264884e+18,2019-05-08 09:09:15+00:00,['1126051424226488321'],"RT @AOC: “6 weeks pregnant” = 2 weeks late on your period.
-
-Most of the men writing these bills don’t know the first thing about a woman’s…"
-306,1.1257056323661906e+18,2019-05-07 10:15:12+00:00,['1125705632366190594'],RT @HamillHimself: Here is a perfect example of the bravery I see in young ones every time I visit a children's hospital. Think of her the…
-307,1.1250517777060209e+18,2019-05-05 14:57:00+00:00,['1125051777706020864'],@ChrisWood97 Omg I love Paris!
-308,1.1186291891193528e+18,2019-04-17 21:35:56+00:00,['1118629189119352832'],"@stelladonnelly Stella mate hope you’re well. Got a ticket for your Glasgow show next month, but looking for another one for my mate’s birthday as it appears to be sold out - if you could help by RT to see if anyone is selling xx"
-309,1.1170172432657204e+18,2019-04-13 10:50:38+00:00,['1117017243265720320'],@NayOhMai It’s awful! I really don’t get it. Dreadful to think how much ownership they feel they have over her body and her baby
-310,1.1170131628664136e+18,2019-04-13 10:34:25+00:00,['1117013162866413568'],#indyref2 https://t.co/TpRvqUcWgW
-311,1.1149838332108964e+18,2019-04-07 20:10:35+00:00,['1114983833210896385'],Can you imagine how many times she and her staffers had to rehearse that laugh at the start. Painful https://t.co/iykRXFqVGF
-312,1.1127524901460828e+18,2019-04-01 16:24:02+00:00,['1112752490146082817'],@SWG3glasgow good evening. What are the set times for Hot Chip?
-313,1.111223506195366e+18,2019-03-28 11:08:24+00:00,['1111223506195365889'],"@EmilyJenJackson I can’t stop watching this, Emily😅😅!! Elliot at the beginning makes me laugh so much hahaha"
-314,1.109179112915198e+18,2019-03-22 19:44:42+00:00,['1109179112915197953'],RT @TheUriGeller: An open letter to @theresa_may https://t.co/T9xK5B0Qrv https://t.co/vCwgQSoZzm
-315,1.1035727442670141e+18,2019-03-07 08:27:00+00:00,['1103572744267014144'],@diamondsnakes @TicketmasterUK I had the same issue where I was charged twice for tickets and not reimbursed for refund. Any chance of any assistance @TicketmasterCS ?
-316,1.1020260023168246e+18,2019-03-03 02:00:48+00:00,['1102026002316824576'],RT @archivetvmus71: The episode where Sweep's extended family paid him a visit is simply glorious. https://t.co/VLbe9daAXY
-317,1.1001749304009974e+18,2019-02-25 23:25:18+00:00,['1100174930400997377'],I can HEAR this https://t.co/ioSK4p2GH8
-318,1.1000820273013596e+18,2019-02-25 17:16:08+00:00,['1100082027301359617'],"RT @mxr_ly_: Interviewer: is there something about Green Book that offends you?
-
-Spike Lee: https://t.co/fXy2TLM7yc"
-319,1.0953925480828518e+18,2019-02-12 18:41:49+00:00,['1095392548082851840'],RT @mrnickharvey: I’m really loving the new Alan Partridge show this morning. https://t.co/INljflKt5x
-320,1.0941946797033103e+18,2019-02-09 11:21:55+00:00,['1094194679703310337'],"@scottaawilson They’re the type, though, that despite the ban they’ll just continue to do it but just on the sly. As exhibited y/day in Amsterdam’s Van Gogh museum. What will they do next."
-321,1.094185807974486e+18,2019-02-09 10:46:40+00:00,['1094185807974486016'],Folk in art galleries that walk round taking photos of ALL the art (and the info panel beside it ?) and don’t even look at it
+263,263,1.2091418617235866e+18,2019-12-23 16:00:59+00:00,['1209141861723586567'],We Stan. Bet he wasn’t a Terf tho👀 https://t.co/UsoHSi1WpM
+264,264,1.2078331473642537e+18,2019-12-20 01:20:37+00:00,['1207833147364253696'],@ursavingrace It survived! Was wrapped like a tightly packed chocolate orange. Safe and sound xxxx
+265,265,1.207756009164415e+18,2019-12-19 20:14:06+00:00,['1207756009164414976'],I Have a Burrito in my Pocket and I'm Concerned it's Going to Leak
+266,266,1.2055305023562424e+18,2019-12-13 16:50:44+00:00,['1205530502356242433'],"Enjoying the English metropolitan centre-‘left’ attacking Corbyn and his comrades for what they have ‘done’ with Labour. Nobody liked Brown or Miliband; Labour has been dead since Blair, and his flag-flyers are essentially longing for the party to be a bit more Tory again"
+267,267,1.2054933826274468e+18,2019-12-13 14:23:14+00:00,['1205493382627446784'],
+268,268,1.205468855738491e+18,2019-12-13 12:45:46+00:00,['1205468855738490882'],https://t.co/vkStzY3PdQ
+269,269,1.2054660527228764e+18,2019-12-13 12:34:38+00:00,['1205466052722876417'],https://t.co/vsesIInA6F
+270,270,1.2047053617789542e+18,2019-12-11 10:11:55+00:00,['1204705361778954240'],@urghitsdaniel We are not a proud race🤷🏼‍♀️
+271,271,1.2046982656121078e+18,2019-12-11 09:43:43+00:00,['1204698265612107781'],Killer whales killer whales 🐋 https://t.co/xRLHc1kgfk
+272,272,1.2022849004198052e+18,2019-12-04 17:53:52+00:00,['1202284900419805185'],@jmccloskeey Is that so aye
+273,273,1.1975715521847992e+18,2019-11-21 17:44:42+00:00,['1197571552184799233'],
+274,274,1.196536859310076e+18,2019-11-18 21:13:12+00:00,['1196536859310075916'],I just donated a special premature nappy to a UK hospital by tweeting #PampersForPreemies - show your support and do the same! 👶
+275,275,1.1953917664569467e+18,2019-11-15 17:23:01+00:00,['1195391766456946690'],
+276,276,1.194342914018726e+18,2019-11-12 19:55:15+00:00,['1194342914018725889'],"@urghitsdaniel Ah yes, ye olde Money-Baggs. 14th Earl of Wester Hails"
+277,277,1.1943385747470213e+18,2019-11-12 19:38:00+00:00,['1194338574747021313'],@MarcDNelson Yes! Goodbye First Love left me in a mess for a whole weekend
+278,278,1.1943281019976827e+18,2019-11-12 18:56:23+00:00,['1194328101997682688'],"The first name of the poshest person on your uni course/at work, and the last name of your favourite 17th century British nobleman is ur Telegraph columnist name x https://t.co/MzAdDwEHM6"
+279,279,1.192878706605351e+18,2019-11-08 18:57:00+00:00,['1192878706605350912'],@O2AcademyGgow @lizzo Set times?
+280,280,1.1914214114846884e+18,2019-11-04 18:26:14+00:00,['1191421411484688384'],SELLING a @BombayBicycle ticket for tomorrow night at Caird Hall in Dundee. Got 6 but only using 5. Selling for face value or perhaps a little lower. Rt to help a guy out😢
+281,281,1.1888859645439877e+18,2019-10-28 18:31:17+00:00,['1188885964543987713'],"This duck is not enjoying this, I work with ducks, etc, etc.. https://t.co/75eA7yC4JX"
+282,282,1.1888097197853655e+18,2019-10-28 13:28:18+00:00,['1188809719785365505'],@oiseaujaune_ Have to stan the endocrinologist here I’m sorry x
+283,283,1.1871232156861645e+18,2019-10-23 21:46:44+00:00,['1187123215686164481'],
+284,284,1.1849719067070218e+18,2019-10-17 23:18:12+00:00,['1184971906707021824'],
+285,285,1.1823859710750106e+18,2019-10-10 20:02:37+00:00,['1182385971075010560'],
+286,286,1.1823464745223987e+18,2019-10-10 17:25:41+00:00,['1182346474522398720'],
+287,287,1.180038303275524e+18,2019-10-04 08:33:50+00:00,['1180038303275524096'],
+288,288,1.1800355789618422e+18,2019-10-04 08:23:00+00:00,['1180035578961842176'],"You’re having a poo in a public toilet (not a good start). It’s a row of about 10 cubicles. You’re alone. Another man enters whistling 99 luftballoons (🎈) and takes the farthest away cubicle, still whistling. You expect it to be comforting. But its not. You are forced to leave."
+289,289,1.1798160230102876e+18,2019-10-03 17:50:34+00:00,['1179816023010287617'],@CaitsDonnelly @jmccloskeey RT
+290,290,1.1780812033768407e+18,2019-09-28 22:57:01+00:00,['1178081203376840706'],"All for a ‘radical’ left wing government, but honestly the stuff Labour are pulling out their arse is like they’re just saying anything that comes out of a wee origami fortune teller https://t.co/qqfz0huWYB"
+291,291,1.1780087697264886e+18,2019-09-28 18:09:11+00:00,['1178008769726488577'],@secretpublic1 @HenrysCellarBar I’m out and about! See you there guys!
+292,292,1.17790548926029e+18,2019-09-28 11:18:47+00:00,['1177905489260290051'],
+293,293,1.1772563998034207e+18,2019-09-26 16:19:32+00:00,['1177256399803420673'],
+294,294,1.1732706412582257e+18,2019-09-15 16:21:33+00:00,['1173270641258225665'],With hindsight I’ve realised the first time I watched this was actually when I stopped listening to alt-j. Icons https://t.co/fDoksUPjyz
+295,295,1.1707182659512934e+18,2019-09-08 15:19:20+00:00,['1170718265951293441'],@cake_casting Hi. DM me please re: FF in edinburgh
+296,296,1.1706929491072532e+18,2019-09-08 13:38:44+00:00,['1170692949107253249'],
+297,297,1.1685482626866668e+18,2019-09-02 15:36:31+00:00,['1168548262686666752'],
+298,298,1.1662412952176353e+18,2019-08-27 06:49:27+00:00,['1166241295217635328'],@secretpublic1 @leithdepot Pickles
+299,299,1.1656449718457836e+18,2019-08-25 15:19:52+00:00,['1165644971845783552'],@jmccloskeey Ew ?
+300,300,1.1623178078345871e+18,2019-08-16 10:58:54+00:00,['1162317807834587136'],@c_trionacollie I’m still ragin tbh
+301,301,1.1418675718488636e+18,2019-06-21 00:36:58+00:00,['1141867571848863744'],
+302,302,1.1388431323160494e+18,2019-06-12 16:18:56+00:00,['1138843132316049408'],@Vhairi_Mcatear @RobBrydon Beautiful news
+303,303,1.1387915057060086e+18,2019-06-12 12:53:47+00:00,['1138791505706008576'],
+304,304,1.1322163385277276e+18,2019-05-25 09:26:25+00:00,['1132216338527727617'],Boris Johnson hearing May greet when she walks back in to number 10 https://t.co/rsiUTO5lxV
+305,305,1.1260514242264884e+18,2019-05-08 09:09:15+00:00,['1126051424226488321'],
+306,306,1.1257056323661906e+18,2019-05-07 10:15:12+00:00,['1125705632366190594'],
+307,307,1.1250517777060209e+18,2019-05-05 14:57:00+00:00,['1125051777706020864'],@ChrisWood97 Omg I love Paris!
+308,308,1.1186291891193528e+18,2019-04-17 21:35:56+00:00,['1118629189119352832'],"@stelladonnelly Stella mate hope you’re well. Got a ticket for your Glasgow show next month, but looking for another one for my mate’s birthday as it appears to be sold out - if you could help by RT to see if anyone is selling xx"
+309,309,1.1170172432657204e+18,2019-04-13 10:50:38+00:00,['1117017243265720320'],@NayOhMai It’s awful! I really don’t get it. Dreadful to think how much ownership they feel they have over her body and her baby
+310,310,1.1170131628664136e+18,2019-04-13 10:34:25+00:00,['1117013162866413568'],#indyref2 https://t.co/TpRvqUcWgW
+311,311,1.1149838332108964e+18,2019-04-07 20:10:35+00:00,['1114983833210896385'],Can you imagine how many times she and her staffers had to rehearse that laugh at the start. Painful https://t.co/iykRXFqVGF
+312,312,1.1127524901460828e+18,2019-04-01 16:24:02+00:00,['1112752490146082817'],@SWG3glasgow good evening. What are the set times for Hot Chip?
+313,313,1.111223506195366e+18,2019-03-28 11:08:24+00:00,['1111223506195365889'],"@EmilyJenJackson I can’t stop watching this, Emily😅😅!! Elliot at the beginning makes me laugh so much hahaha"
+314,314,1.109179112915198e+18,2019-03-22 19:44:42+00:00,['1109179112915197953'],
+315,315,1.103572744267014e+18,2019-03-07 08:27:00+00:00,['1103572744267014144'],@diamondsnakes @TicketmasterUK I had the same issue where I was charged twice for tickets and not reimbursed for refund. Any chance of any assistance @TicketmasterCS ?
+316,316,1.1020260023168246e+18,2019-03-03 02:00:48+00:00,['1102026002316824576'],
+317,317,1.1001749304009974e+18,2019-02-25 23:25:18+00:00,['1100174930400997377'],I can HEAR this https://t.co/ioSK4p2GH8
+318,318,1.1000820273013596e+18,2019-02-25 17:16:08+00:00,['1100082027301359617'],
+319,319,1.0953925480828518e+18,2019-02-12 18:41:49+00:00,['1095392548082851840'],
+320,320,1.0941946797033103e+18,2019-02-09 11:21:55+00:00,['1094194679703310337'],"@scottaawilson They’re the type, though, that despite the ban they’ll just continue to do it but just on the sly. As exhibited y/day in Amsterdam’s Van Gogh museum. What will they do next."
+321,321,1.094185807974486e+18,2019-02-09 10:46:40+00:00,['1094185807974486016'],Folk in art galleries that walk round taking photos of ALL the art (and the info panel beside it ?) and don’t even look at it
