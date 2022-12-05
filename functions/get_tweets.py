@@ -6,8 +6,8 @@ import tweepy
 from pytz import utc
 from authpy import authpy
 
-directory = "nursetweets"
-followers_file = "data/filteredRCONfollowers.csv"
+directory = "teachertweets"
+followers_file = "data/filteredNEUfollowers.csv"
 
 def store_log(message):
     print(message)
@@ -52,30 +52,17 @@ def get_tweets(id, pagination=None):
     return meta.get('next_token')
 
 followerdf = pd.read_csv(followers_file)
-id = 336785641
-store_log("ID " + str(id))
-count=0
-next_token = get_tweets(int(id))
-store_log("COUNT" + str(count))
-store_log("NEXT_TOKEN" + str(next_token))
-while next_token:
-    count+=1
-    next_token = get_tweets(int(id), pagination = next_token)
-    store_log("NEXT_TOKEN" + str(next_token))
+
+for id in followerdf['id']:
+    store_log("ID" + str(id))
+    count=0
+    next_token = get_tweets(int(id))
     store_log("COUNT" + str(count))
+    store_log("NEXT_TOKEN" + str(next_token))
+    while next_token:
+        count+=1
+        next_token = get_tweets(int(id), pagination = next_token)
+        store_log("NEXT_TOKEN" + str(next_token))
+        store_log("COUNT" + str(count))
 
 store_log("Finished - I got all the tweets!!")
-
-# for id in followerdf['id']:
-#     store_log("ID" + str(id))
-#     count=0
-#     next_token = get_tweets(int(id))
-#     store_log("COUNT" + str(count))
-#     store_log("NEXT_TOKEN" + str(next_token))
-#     while next_token:
-#         count+=1
-#         next_token = get_tweets(int(id), pagination = next_token)
-#         store_log("NEXT_TOKEN" + str(next_token))
-#         store_log("COUNT" + str(count))
-#
-# store_log("Finished - I got all the tweets!!")
