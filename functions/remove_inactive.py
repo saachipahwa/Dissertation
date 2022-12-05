@@ -17,7 +17,7 @@ for filename in os.listdir(directory):
         print("year: " + year)
         print("month: " + month)
         print("day: " + day)
-        # if int(year) < 2022:
-        #     os.remove(f)
-        # if int(year) == 2022 and int(month)<8:
-        #     os.remove(f)
+        if int(year) < 2022:
+            os.remove(f)
+        if int(year) == 2022 and int(month)<4:
+            os.remove(f)
