@@ -1,310 +1,130 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.5610045734515548e+18,2022-08-20 14:57:47+00:00,['1561004573451554816'],"Terherne , Friesland # Netherlands https://t.co/2rq4wuwrGk"
-1,1.558553011768775e+18,2022-08-13 20:36:09+00:00,['1558553011768774659'],"RT @KarimS3D: Young Onset Dementia. 
-Keep shouting 📣
-@YoungDemNetwork"
-2,1.5532520315944673e+18,2022-07-30 05:31:57+00:00,['1553252031594467330'],"@KAFKA_Dev Nee, ik kan als nabestaande van een verkeersslachtoffer geen sympathie opbrengen voor idioten die moedwillig het verkeer in gevaar brengen.  #boerenprotesten #trekkerterroristen"
-3,1.5527625698316124e+18,2022-07-28 21:07:00+00:00,['1552762569831612423'],@Wgoorman Nee
-4,1.5523723093144863e+18,2022-07-27 19:16:14+00:00,['1552372309314486273'],@muntverzamelaar @Maddy100suns Daar zijn er veeeeel  meer van dan jij denkt of hoopt.
-5,1.5523623923481313e+18,2022-07-27 18:36:50+00:00,['1552362392348131332'],@Maddy100suns Ik heb geen goed woord over voor de terroristische acties van de boeren. Ze verliezen juist de sympathie op deze manier. #boerenprotesten.
-6,1.5485746442357965e+18,2022-07-17 07:45:40+00:00,['1548574644235796482'],@WanjauShareh Congratulations Shareh ! ❤️☀️
-7,1.5485736350481572e+18,2022-07-17 07:41:40+00:00,['1548573635048157184'],"@ChrisuwGilgien @KAFKA_Dev Dat zal wel meevallen. Ik vind de houding van de boeren antisociaal. Snelwegen blokkeren, bedreigingen. En dan van mij vragen op vrijdag een kwartier mee te staken? Bekijk het maar. Ik heb niet zoveel vrije tijd als de boeren. Ik werk in de gezondheidszorg."
-8,1.548425841167573e+18,2022-07-16 21:54:23+00:00,['1548425841167572992'],@KAFKA_Dev Ben het helemaal zat die acties van de boeren.
-9,1.5484252968141005e+18,2022-07-16 21:52:13+00:00,['1548425296814100481'],@rblommestijn @Nieuwsuur Flauwekul
-10,1.548205060785447e+18,2022-07-16 07:17:05+00:00,['1548205060785446913'],"@LMinghella Devastating news, Loretta, I’m so sorry for your loss 💔 Love to you and yours"
-11,1.5480693424403456e+18,2022-07-15 22:17:47+00:00,['1548069342440345601'],@DMinghella About 7 years ago she came to Stansted airport to await me with a “Welcome nurse_w_glasses” sign.Bought me a coffee. We only had 20 mins to talk till my train to a congress. She took the time and travelling for a heartwarming welcome to the UK. I will never forget that moment. ❤️
-12,1.5480668019084534e+18,2022-07-15 22:07:41+00:00,['1548066801908453379'],RT @DMinghella: The hardest news. My beautiful sister. Our hearts are broken.
-13,1.5480443091186524e+18,2022-07-15 20:38:19+00:00,['1548044309118652416'],@edanaming A terrible loss but the music of Edana will forever keep her close. One of my best tweeps has gone but I will never forget her kindness and spirit💔
-14,1.5480426719727493e+18,2022-07-15 20:31:48+00:00,['1548042671972749313'],"RT @edanaming: Edana’s partner, Heather, and all the family are so sorry to have to tell you that Edana died on Wednesday night in her belo…"
-15,1.5275166078404567e+18,2022-05-20 05:08:33+00:00,['1527516607840456707'],RT @sahilkapur: Former President George W. Bush: “The decision of one man to launch a wholly unjustified and brutal invasion of Iraq. I mea…
-16,1.5020308727065354e+18,2022-03-10 21:17:21+00:00,['1502030872706535424'],RT @edanaming: This is awful. Awful. But we can’t turn our faces away. We mustn’t.
-17,1.49136178167953e+18,2022-02-09 10:42:11+00:00,['1491361781679529984'],@edanaming Birre last xmas. #catsoftwitter https://t.co/PVH8fPI1Hf
-18,1.480678981728977e+18,2022-01-10 23:12:33+00:00,['1480678981728976904'],How I get myself through the current Dutch lockdown #makingminiatures https://t.co/4GYuyLrL1j
-19,1.4790074823998874e+18,2022-01-06 08:30:37+00:00,['1479007482399887362'],@edanaming Thinking of you and sending a hug. Beautiful picture🌹
-20,1.4671033242436485e+18,2021-12-04 12:07:44+00:00,['1467103324243648513'],@GGDGHORNL Ik ben 1 dag pw beschikbaar net zoals zoveel andere fulltimers. Heb me daarom weer afgemeld.
-21,1.463955850352071e+18,2021-11-25 19:40:48+00:00,['1463955850352070660'],RT @DrWaheedArian: You won't see faces of 31 asylum-seekers drowned yesterday but here's one who made it from Afghanistan years ago and is…
-22,1.4422652569657836e+18,2021-09-26 23:10:07+00:00,['1442265256965783561'],"RT @edanaming: Travelling to the U.K. shortly. Apart from food, blood vials, petrol and a couple of HGV drivers, what else should I pack? 😬"
-23,1.4072226148762132e+18,2021-06-22 06:23:10+00:00,['1407222614876213249'],"Me: “ The M&amp;M’s disappeared, the whole pack”
+,Unnamed: 0,Unnamed: 0.1,id,created_at,edit_history_tweet_ids,text
+0,0,0,1.5610045734515548e+18,2022-08-20 14:57:47+00:00,['1561004573451554816'],"Terherne , Friesland # Netherlands https://t.co/2rq4wuwrGk"
+2,2,2,1.5532520315944673e+18,2022-07-30 05:31:57+00:00,['1553252031594467330'],"@KAFKA_Dev Nee, ik kan als nabestaande van een verkeersslachtoffer geen sympathie opbrengen voor idioten die moedwillig het verkeer in gevaar brengen.  #boerenprotesten #trekkerterroristen"
+3,3,3,1.5527625698316124e+18,2022-07-28 21:07:00+00:00,['1552762569831612423'],@Wgoorman Nee
+4,4,4,1.5523723093144863e+18,2022-07-27 19:16:14+00:00,['1552372309314486273'],@muntverzamelaar @Maddy100suns Daar zijn er veeeeel  meer van dan jij denkt of hoopt.
+5,5,5,1.5523623923481313e+18,2022-07-27 18:36:50+00:00,['1552362392348131332'],@Maddy100suns Ik heb geen goed woord over voor de terroristische acties van de boeren. Ze verliezen juist de sympathie op deze manier. #boerenprotesten.
+6,6,6,1.5485746442357965e+18,2022-07-17 07:45:40+00:00,['1548574644235796482'],@WanjauShareh Congratulations Shareh ! ❤️☀️
+7,7,7,1.5485736350481572e+18,2022-07-17 07:41:40+00:00,['1548573635048157184'],"@ChrisuwGilgien @KAFKA_Dev Dat zal wel meevallen. Ik vind de houding van de boeren antisociaal. Snelwegen blokkeren, bedreigingen. En dan van mij vragen op vrijdag een kwartier mee te staken? Bekijk het maar. Ik heb niet zoveel vrije tijd als de boeren. Ik werk in de gezondheidszorg."
+8,8,8,1.548425841167573e+18,2022-07-16 21:54:23+00:00,['1548425841167572992'],@KAFKA_Dev Ben het helemaal zat die acties van de boeren.
+9,9,9,1.5484252968141005e+18,2022-07-16 21:52:13+00:00,['1548425296814100481'],@rblommestijn @Nieuwsuur Flauwekul
+10,10,10,1.548205060785447e+18,2022-07-16 07:17:05+00:00,['1548205060785446913'],"@LMinghella Devastating news, Loretta, I’m so sorry for your loss 💔 Love to you and yours"
+11,11,11,1.5480693424403456e+18,2022-07-15 22:17:47+00:00,['1548069342440345601'],@DMinghella About 7 years ago she came to Stansted airport to await me with a “Welcome nurse_w_glasses” sign.Bought me a coffee. We only had 20 mins to talk till my train to a congress. She took the time and travelling for a heartwarming welcome to the UK. I will never forget that moment. ❤️
+13,13,13,1.5480443091186524e+18,2022-07-15 20:38:19+00:00,['1548044309118652416'],@edanaming A terrible loss but the music of Edana will forever keep her close. One of my best tweeps has gone but I will never forget her kindness and spirit💔
+17,17,17,1.49136178167953e+18,2022-02-09 10:42:11+00:00,['1491361781679529984'],@edanaming Birre last xmas. #catsoftwitter https://t.co/PVH8fPI1Hf
+18,18,18,1.480678981728977e+18,2022-01-10 23:12:33+00:00,['1480678981728976904'],How I get myself through the current Dutch lockdown #makingminiatures https://t.co/4GYuyLrL1j
+19,19,19,1.4790074823998874e+18,2022-01-06 08:30:37+00:00,['1479007482399887362'],@edanaming Thinking of you and sending a hug. Beautiful picture🌹
+20,20,20,1.4671033242436485e+18,2021-12-04 12:07:44+00:00,['1467103324243648513'],@GGDGHORNL Ik ben 1 dag pw beschikbaar net zoals zoveel andere fulltimers. Heb me daarom weer afgemeld.
+23,23,23,1.4072226148762132e+18,2021-06-22 06:23:10+00:00,['1407222614876213249'],"Me: “ The M&amp;M’s disappeared, the whole pack”
 Son(17): “I only had a few“
 Me:” How much is a few”
 Son:  Just a handful; How do you think I got this devine body?” 💪🏻#teenagers"
-24,1.4037440448959447e+18,2021-06-12 16:00:35+00:00,['1403744044895944704'],@cdavandaag Niemand gelooft dit...
-25,1.4034748624385884e+18,2021-06-11 22:10:57+00:00,['1403474862438588423'],"@JTSilius I’m sorry, I don’t know 😐"
-26,1.400452092016304e+18,2021-06-03 13:59:32+00:00,['1400452092016304143'],@JTSilius Yup
-27,1.3947635186043494e+18,2021-05-18 21:15:10+00:00,['1394763518604349442'],@edanaming Beautiful scenery! Do I see a green UFO on the right ? 👽😃
-28,1.393084157018923e+18,2021-05-14 06:01:59+00:00,['1393084157018923008'],@edanaming 😀🌹❤️🍰 https://t.co/g5FHGOr6br
-29,1.3929295415642726e+18,2021-05-13 19:47:36+00:00,['1392929541564272643'],@edanaming Beautiful ! ❤️
-30,1.3920026510475674e+18,2021-05-11 06:24:28+00:00,['1392002651047567363'],RT @KarimS3D: Can you do more today to reduce your risk of dementia? Leisure activities in the age group 50 - 84 are shown yet again to hav…
-31,1.382426059002495e+18,2021-04-14 20:10:31+00:00,['1382426059002494976'],@edanaming The vaccin is far less risky than COVID-19. I was only tired the evening after (oh and a terrible mood says husband 🤬)
-32,1.3494657764582318e+18,2021-01-13 21:18:07+00:00,['1349465776458231808'],RT @KarimS3D: There is an urgent need for consistent unequivocal messaging on lockdown rules to restore collective trust and improve public…
-33,1.3494655968917217e+18,2021-01-13 21:17:24+00:00,['1349465596891721728'],"RT @edanaming: OMG this is absolutely awful. Please let us not become inured to these numbers. These are people, people who’ve died too soo…"
-34,1.3473056407174062e+18,2021-01-07 22:14:31+00:00,['1347305640717406208'],"RT @KarimS3D: Despite a thousand daily #covid deaths, some just won’t stop flouting the rules. The media can help disrupt this ‘psychic num…"
-35,1.332387848763437e+18,2020-11-27 18:16:32+00:00,['1332387848763437059'],RT @MDG1122: Please retweet dear Dr and Nurse friends. Can you help @Nurse_w_glasses @nurse_marcus
-36,1.3259946328121098e+18,2020-11-10 02:52:10+00:00,['1325994632812109831'],"RT @JoeBiden: Today, I have named a COVID-19 Transition Advisory Board, comprised of distinguished public health experts, to help our trans…"
-37,1.3251344228579615e+18,2020-11-07 17:54:00+00:00,['1325134422857961472'],"RT @RepsForBiden: We made America great again!
-🇺🇸 🇺🇸 🇺🇸 🇺🇸 🇺🇸 🇺🇸 🇺🇸"
-38,1.3251339928871158e+18,2020-11-07 17:52:18+00:00,['1325133992887115779'],"RT @JoeBiden: America, I’m honored that you have chosen me to lead our great country.
-
-The work ahead of us will be hard, but I promise you…"
-39,1.3151819880479744e+18,2020-10-11 06:46:35+00:00,['1315181988047974401'],@thecupcakegirl8 Carrie
-40,1.3135221861672182e+18,2020-10-06 16:51:07+00:00,['1313522186167218181'],"RT @eugenegu: @realDonaldTrump If you learned a lot about the coronavirus, then you would have compassion for your supporters and tell them…"
-41,1.3110074600570225e+18,2020-09-29 18:18:30+00:00,['1311007460057022465'],19.326 new #COVID-19 cases in the #Netherlands this week 😷
-42,1.3079024958182236e+18,2020-09-21 04:40:29+00:00,['1307902495818223618'],"RT @ianshawjazz: Our Health Secretary this morning:
-‘Everybody has to play by the rules...and this includes the rule of six’
-
-Where are you…"
-43,1.2873831653639455e+18,2020-07-26 13:43:59+00:00,['1287383165363945472'],"Ermelo, #Netherlands https://t.co/ycIqfe3D0q"
-44,1.2865404166581576e+18,2020-07-24 05:55:12+00:00,['1286540416658157568'],@AllisonAuthor In a classroom at high school 😄
-45,1.2852272527966003e+18,2020-07-20 14:57:10+00:00,['1285227252796600323'],RT @KarimS3D: This genetically engineered Oxford vaccine sounds hugely promising! #COVID19 #coronavirus #vaccine  https://t.co/F1UHPgNoDe
-46,1.284231463966331e+18,2020-07-17 21:00:15+00:00,['1284231463966330881'],RT @nytimes: President Trump’s team has increasingly sown doubts about Dr. Anthony Fauci. Many Republicans have turned against him. But nea…
-47,1.2835051940646502e+18,2020-07-15 20:54:19+00:00,['1283505194064650240'],"More than alarming. When you think it can’t get much worse it can: #Trump Administration Strips C.D.C. of Control of Coronavirus Data https://t.co/kQ9KX9oEqC
+24,24,24,1.4037440448959447e+18,2021-06-12 16:00:35+00:00,['1403744044895944704'],@cdavandaag Niemand gelooft dit...
+25,25,25,1.4034748624385884e+18,2021-06-11 22:10:57+00:00,['1403474862438588423'],"@JTSilius I’m sorry, I don’t know 😐"
+26,26,26,1.400452092016304e+18,2021-06-03 13:59:32+00:00,['1400452092016304143'],@JTSilius Yup
+27,27,27,1.3947635186043494e+18,2021-05-18 21:15:10+00:00,['1394763518604349442'],@edanaming Beautiful scenery! Do I see a green UFO on the right ? 👽😃
+28,28,28,1.393084157018923e+18,2021-05-14 06:01:59+00:00,['1393084157018923008'],@edanaming 😀🌹❤️🍰 https://t.co/g5FHGOr6br
+29,29,29,1.3929295415642726e+18,2021-05-13 19:47:36+00:00,['1392929541564272643'],@edanaming Beautiful ! ❤️
+31,31,31,1.382426059002495e+18,2021-04-14 20:10:31+00:00,['1382426059002494976'],@edanaming The vaccin is far less risky than COVID-19. I was only tired the evening after (oh and a terrible mood says husband 🤬)
+39,39,39,1.3151819880479744e+18,2020-10-11 06:46:35+00:00,['1315181988047974401'],@thecupcakegirl8 Carrie
+41,41,41,1.3110074600570225e+18,2020-09-29 18:18:30+00:00,['1311007460057022465'],19.326 new #COVID-19 cases in the #Netherlands this week 😷
+43,43,43,1.2873831653639455e+18,2020-07-26 13:43:59+00:00,['1287383165363945472'],"Ermelo, #Netherlands https://t.co/ycIqfe3D0q"
+44,44,44,1.2865404166581576e+18,2020-07-24 05:55:12+00:00,['1286540416658157568'],@AllisonAuthor In a classroom at high school 😄
+47,47,47,1.2835051940646502e+18,2020-07-15 20:54:19+00:00,['1283505194064650240'],"More than alarming. When you think it can’t get much worse it can: #Trump Administration Strips C.D.C. of Control of Coronavirus Data https://t.co/kQ9KX9oEqC
 #COVID19 #coronavirus"
-48,1.2815077888716677e+18,2020-07-10 08:37:20+00:00,['1281507788871667712'],"@edanaming Aww Edana, so sorry. ❤️ I’m glad I was able to meet her."
-49,1.276874880957526e+18,2020-06-27 13:47:49+00:00,['1276874880957526023'],RT @edanaming: Dear god. 😔
-50,1.2765744023066255e+18,2020-06-26 17:53:49+00:00,['1276574402306625539'],RT @TheTweetOfGod: Jesus died for your sins but you'll die for Trump's.
-51,1.2742376373149082e+18,2020-06-20 07:08:21+00:00,['1274237637314908160'],"RT @BernieSanders: Trump's rally in Tulsa is indoors, with no social distancing and no mask requirements—all in violation of CDC guidelines…"
-52,1.2737274480652042e+18,2020-06-18 21:21:02+00:00,['1273727448065204229'],"Non- medical #facemasks mandatory in #Dutch public traffic. Made some of Dutch traditional fabric 
+48,48,48,1.2815077888716677e+18,2020-07-10 08:37:20+00:00,['1281507788871667712'],"@edanaming Aww Edana, so sorry. ❤️ I’m glad I was able to meet her."
+52,52,52,1.2737274480652042e+18,2020-06-18 21:21:02+00:00,['1273727448065204229'],"Non- medical #facemasks mandatory in #Dutch public traffic. Made some of Dutch traditional fabric 
 #Covid_19 https://t.co/qdsgxV4BU0"
-53,1.2736492156173722e+18,2020-06-18 16:10:10+00:00,['1273649215617372166'],RT @KarimS3D: Déjà vu?
-54,1.2705841718162473e+18,2020-06-10 05:10:47+00:00,['1270584171816247296'],RT @TheTweetOfGod: Never in human history have I gotten so many prayers from atheists.
-55,1.266962970661335e+18,2020-05-31 05:21:25+00:00,['1266962970661335041'],"RT @TheTweetOfGod: America: where a black man can't take a knee on a football field for thirty seconds, but a white cop can take a knee on…"
-56,1.2669531474796585e+18,2020-05-31 04:42:23+00:00,['1266953147479658498'],"RT @edanaming: Under the watch of this man, the person in charge of the country’s health, there have been c60,000 excess deaths due to Covi…"
-57,1.2660818369015112e+18,2020-05-28 19:00:07+00:00,['1266081836901511169'],@now_resistance @JoeBiden Yup
-58,1.265514685694202e+18,2020-05-27 05:26:27+00:00,['1265514685694201864'],"RT @trishgreenhalgh: Lucky I grabbed the screenshot. Now deleted, but never a truer word spoken. https://t.co/bku1M9Zej8"
-59,1.2646545294773862e+18,2020-05-24 20:28:30+00:00,['1264654529477386241'],"107 people infected after attending a #church service in Frankfurt,#Germany. 
+57,57,57,1.2660818369015112e+18,2020-05-28 19:00:07+00:00,['1266081836901511169'],@now_resistance @JoeBiden Yup
+59,59,59,1.2646545294773862e+18,2020-05-24 20:28:30+00:00,['1264654529477386241'],"107 people infected after attending a #church service in Frankfurt,#Germany. 
 If you want to pray please do it at home instead of putting yourself and others at risk. 
 #COVID19"
-60,1.2645115766290227e+18,2020-05-24 11:00:28+00:00,['1264511576629022721'],"RT @KFILE: Trump is golfing today.
-
-In 2014 on Fox and Friends he criticized Obama for golfing when there were *two cases* of Ebola in the…"
-61,1.2645094997774336e+18,2020-05-24 10:52:12+00:00,['1264509499777433600'],"RT @TheTweetOfGod: Good to see so many people back at church service today. 
-
-Many of them will be back for another church service in two t…"
-62,1.2621100481401037e+18,2020-05-17 19:57:39+00:00,['1262110048140103680'],RT @BarackObama: Vote.
-63,1.2611541653063762e+18,2020-05-15 04:39:18+00:00,['1261154165306376192'],"RT @shossy2: WHY are Resisters 'liking' tRump's tweets??
-Even worse, following him?
-I don't get it, don't understand it, &amp; certainly don't…"
-64,1.261152863222448e+18,2020-05-15 04:34:08+00:00,['1261152863222448129'],"RT @BarackObama: Despite all the time that’s been lost, we can still make real progress against the virus, protect people from the economic…"
-65,1.2606761017199534e+18,2020-05-13 20:59:39+00:00,['1260676101719953410'],"RT @DMinghella: Those eleven days in March when we let down our guard were enough.
-
-Enough to seed almost all the deaths which ensued a few…"
-66,1.2602854443838136e+18,2020-05-12 19:07:19+00:00,['1260285444383813635'],"RT @HelenRSalisbury: As a GP, I still have no way of accessing testing for my patients who have possible Covid19 symptoms."
-67,1.2602465243128136e+18,2020-05-12 16:32:40+00:00,['1260246524312813570'],"Son(15) has bronchitis with a bad cough. I work in psychiatric outpatient care, husband is GP. We cannot get son tested until we get symptoms ourselves. Hoping this week will pass soon. Meanwhile son gets roomservice and spends his time playing 🎸 
+67,67,67,1.2602465243128136e+18,2020-05-12 16:32:40+00:00,['1260246524312813570'],"Son(15) has bronchitis with a bad cough. I work in psychiatric outpatient care, husband is GP. We cannot get son tested until we get symptoms ourselves. Hoping this week will pass soon. Meanwhile son gets roomservice and spends his time playing 🎸 
 #thisisHolland 
 #COVIDー19"
-68,1.2599164229201797e+18,2020-05-11 18:40:57+00:00,['1259916422920179719'],RT @edanaming: This has actually made me cry.
-69,1.2595643737455657e+18,2020-05-10 19:22:02+00:00,['1259564373745565698'],RT @DrKateLovett: Tone - “A quality in the voice that expresses the speakers thoughts or feelings”  What I hear is concern https://t.co/oz2…
-70,1.2577887262955725e+18,2020-05-05 21:46:15+00:00,['1257788726295572488'],RT @BasSchouwenberg: 👎#COVID19 https://t.co/SnF3UESIlH
-71,1.257762762211627e+18,2020-05-05 20:03:05+00:00,['1257762762211627010'],"@MeltdownWRIF Yes , 5 .. and one of them died."
-72,1.2576018907345388e+18,2020-05-05 09:23:50+00:00,['1257601890734538752'],RT @Dyke67ny: @RyanAFournier America's last great elected president. A time when the world once looked up to us instead of being laughed at…
-73,1.257087350510846e+18,2020-05-03 23:19:14+00:00,['1257087350510845954'],"Watching a Storks nest on an electricity pole from my cabin on the campside in the #Netherlands
+71,71,71,1.257762762211627e+18,2020-05-05 20:03:05+00:00,['1257762762211627010'],"@MeltdownWRIF Yes , 5 .. and one of them died."
+73,73,73,1.257087350510846e+18,2020-05-03 23:19:14+00:00,['1257087350510845954'],"Watching a Storks nest on an electricity pole from my cabin on the campside in the #Netherlands
 #birds #nature #NaturePhotography https://t.co/PSG35L0cZ6"
-74,1.254849693122736e+18,2020-04-27 19:07:35+00:00,['1254849693122736129'],RT @edanaming: This thread. Unbelievable- and distressing - shambles.
-75,1.2546901438664212e+18,2020-04-27 08:33:35+00:00,['1254690143866421248'],"RT @ChrisJZullo: @realDonaldTrump Donald Trump knew dangers of COVID19 beginning of January. He should have been pushing social distancing,…"
-76,1.254495559441924e+18,2020-04-26 19:40:23+00:00,['1254495559441924096'],RT @LeonoraOT: It breaks my heart to tell you that Michael @theremonstrator died last Wed morning. I was w him (-ve covid) Some of you were…
-77,1.254425342653141e+18,2020-04-26 15:01:22+00:00,['1254425342653140994'],RT @sarahcpr: How to medical https://t.co/0EDqJcy38p
-78,1.254208711679185e+18,2020-04-26 00:40:33+00:00,['1254208711679184898'],"RT @theremonstrator: @LeonoraOT here - it breaks my heart to tell you that Michael, our @theremonstrator , died this morning. I was by his…"
-79,1.2541835676320563e+18,2020-04-25 23:00:38+00:00,['1254183567632056330'],"RT @seemathewombat: I’m a Dr. 
-
-I’m about to separate from my family within my home for ?? months. 
-
-So that I can keeping treating you, wh…"
-80,1.2541825121228718e+18,2020-04-25 22:56:27+00:00,['1254182512122871809'],"RT @funder: @realDonaldTrump Almost a million Americans sick.
-
-Over 50,000 Americans dead.
-
-Do your job. Or resign."
-81,1.2539935327020237e+18,2020-04-25 10:25:30+00:00,['1253993532702023681'],"RT @edanaming: Tonight we were meant to be performing at one of my favourite venues, The Pheasantry, in the Kings Rd. Really missing this p…"
-82,1.2537579703343022e+18,2020-04-24 18:49:28+00:00,['1253757970334302210'],"RT @RBReich: Trump's briefings are actively endangering the public's health.
-
-Boycott the propaganda. Listen to the experts. And please don…"
-83,1.2503443630218568e+18,2020-04-15 08:45:01+00:00,['1250344363021856771'],@DawkinsReturns Why did you put this on Twitter? Kids do need to be corrected sometimes but it could have been done in a more respectful way and with more privacy.
-84,1.2501115573647442e+18,2020-04-14 17:19:55+00:00,['1250111557364744193'],"RT @cnnbrk: Former President Barack Obama says he is ""So proud to endorse Joe Biden for President of the United States"" in 11-minute video…"
-85,1.2501099098044826e+18,2020-04-14 17:13:23+00:00,['1250109909804482564'],RT @oliverdarcy: Here's video of @PaulaReidCBS grilling Trump on what his administration did in the month leading up to the coronavirus cri…
-86,1.2493117149921649e+18,2020-04-12 12:21:38+00:00,['1249311714992164870'],RT @LondonEconomic: The Royal College of Nursing has advised nurses they can decline to care for patients if adequate personal protection e…
-87,1.2492215380390707e+18,2020-04-12 06:23:18+00:00,['1249221538039070720'],RT @edanaming: Contemptible. Utterly contemptible.
-88,1.2490652808374682e+18,2020-04-11 20:02:24+00:00,['1249065280837468160'],RT @BarackObama: No one should be forced to choose between their right to vote and their right to stay healthy like the debacle in Wisconsi…
-89,1.2490629223549542e+18,2020-04-11 19:53:01+00:00,['1249062922354954240'],@seomilwaukee In The Netherlands it is 5 ft but I dont consider that a safe distance when someone sneezes especially not in a entrance tent like this. So I stayed outside till the other people were gone. Went on a quiet time
-90,1.2490003872034734e+18,2020-04-11 15:44:32+00:00,['1249000387203473408'],RT @nowthisnews: Pres. Trump: We don't need a nationwide COVID-19 testing system https://t.co/C49D0tblFY
-91,1.24898347843319e+18,2020-04-11 14:37:20+00:00,['1248983478433189897'],RT @DrWatson2017: First it was a hoax.  Then it was just going to disappear.  Then it was just like the flu.  Then anyone who wanted a test…
-92,1.2476372111195832e+18,2020-04-07 21:27:45+00:00,['1247637211119583232'],"Enjoyed a long distanced walk with a client on this beautiful quiet sunny morning ☀️
+83,83,83,1.2503443630218568e+18,2020-04-15 08:45:01+00:00,['1250344363021856771'],@DawkinsReturns Why did you put this on Twitter? Kids do need to be corrected sometimes but it could have been done in a more respectful way and with more privacy.
+89,89,89,1.2490629223549542e+18,2020-04-11 19:53:01+00:00,['1249062922354954240'],@seomilwaukee In The Netherlands it is 5 ft but I dont consider that a safe distance when someone sneezes especially not in a entrance tent like this. So I stayed outside till the other people were gone. Went on a quiet time
+92,92,92,1.2476372111195832e+18,2020-04-07 21:27:45+00:00,['1247637211119583232'],"Enjoyed a long distanced walk with a client on this beautiful quiet sunny morning ☀️
 #mentalhealth 
 #MentalhealthduringCovid19 
 #mhnursing https://t.co/khLxb0rrkc"
-93,1.2468465050860503e+18,2020-04-05 17:05:46+00:00,['1246846505086050306'],RT @CameronNBeach: My dad’s an ER doctor. He just got off of a conference call. His hospital is cutting his salary - and everyone else’s th…
-94,1.246836063294894e+18,2020-04-05 16:24:17+00:00,['1246836063294894080'],"Florida, other states allowing church services during coronavirus pandemic draw criticism https://t.co/C0fJh8tOXW"
-95,1.245019237653123e+18,2020-03-31 16:04:52+00:00,['1245019237653123072'],RT @KarimS3D: 'Stay Home...Stay Safe': Egypt lights up Great Pyramid with message of solidarity! via ⁦@EgyIndependent⁩ #coronavirus  https:…
-96,1.2446383296578355e+18,2020-03-30 14:51:16+00:00,['1244638329657835520'],"RT @StopTrump2020: You cannot believe anything @realDonaldTrump says
-
-#TrumpVirus #TrumpVirusCoverup https://t.co/dlFm4sbo6O"
-97,1.2443165094570025e+18,2020-03-29 17:32:28+00:00,['1244316509457002502'],"Community #mentalhealth care in #covid19 times. Last week I visited a patient in her garden, brought my own camping chair and coffee , we sat 10 ft apart in the sun and had an interesting conversation. Not about her worries but just casual things. Still it cheered her up."
-98,1.2442981629380403e+18,2020-03-29 16:19:34+00:00,['1244298162938040322'],"Although I am doing very well this #COVID19 selfquarantaine seems to affect me: last week I dreamed that I was in a swimmingpool with a 
+94,94,94,1.246836063294894e+18,2020-04-05 16:24:17+00:00,['1246836063294894080'],"Florida, other states allowing church services during coronavirus pandemic draw criticism https://t.co/C0fJh8tOXW"
+97,97,97,1.2443165094570025e+18,2020-03-29 17:32:28+00:00,['1244316509457002502'],"Community #mentalhealth care in #covid19 times. Last week I visited a patient in her garden, brought my own camping chair and coffee , we sat 10 ft apart in the sun and had an interesting conversation. Not about her worries but just casual things. Still it cheered her up."
+98,98,98,1.2442981629380403e+18,2020-03-29 16:19:34+00:00,['1244298162938040322'],"Although I am doing very well this #COVID19 selfquarantaine seems to affect me: last week I dreamed that I was in a swimmingpool with a 
 black/white shark, a couple of kangaroos and a beaver. Can anyone interpret this? 
 #corona
 #DreamNote"
-99,1.2438173242700308e+18,2020-03-28 08:28:53+00:00,['1243817324270030849'],"RT @umairh: My partner, the doctor, rolling her eyes: tell them I don’t want their claps and cheers during a pandemic, I want them to stop…"
-100,1.2432197792735803e+18,2020-03-26 16:54:27+00:00,['1243219779273580552'],RT @TheTweetOfGod: The President's re-election strategy is to have no one left alive to vote him out.
-101,1.2429248313703588e+18,2020-03-25 21:22:26+00:00,['1242924831370358789'],"@CaraLisette Outpatient #mentalhealth care here: I call patients a lot more and also do video calls. In some cases I meet them outside, in the garden or we meet up somewhere else outside with 20 ft in between.Hoping this will all be better soon though."
-102,1.2426617080507146e+18,2020-03-25 03:56:53+00:00,['1242661708050714635'],RT @KarimS3D: This is critical! #coronavirusuk #COVIDー19 #carehomes https://t.co/V5TM1YldFj
-103,1.241746662793646e+18,2020-03-22 15:20:49+00:00,['1241746662793646081'],"RT @DrThat_Survived: Went to a supermarket this morning.
-I saw an elderly couple in the checkout line &amp; politely asked why they weren't sta…"
-104,1.24174655970603e+18,2020-03-22 15:20:25+00:00,['1241746559706030080'],"RT @edanaming: My latest blog from #lockdown in Italy. It’s a sad one, my lovelies. 💔💔💔
-https://t.co/sZGibnCVUb"
-105,1.241732827965784e+18,2020-03-22 14:25:51+00:00,['1241732827965784064'],RT @ourMikeGeorge: #KeepYourDistance https://t.co/XDL0qmG0aY
-106,1.2417192490617938e+18,2020-03-22 13:31:53+00:00,['1241719249061793793'],"My favorite song for the coming weeks. Stay home and keep a safe distance when you really need to get out. 
+101,101,101,1.2429248313703588e+18,2020-03-25 21:22:26+00:00,['1242924831370358789'],"@CaraLisette Outpatient #mentalhealth care here: I call patients a lot more and also do video calls. In some cases I meet them outside, in the garden or we meet up somewhere else outside with 20 ft in between.Hoping this will all be better soon though."
+106,106,106,1.2417192490617938e+18,2020-03-22 13:31:53+00:00,['1241719249061793793'],"My favorite song for the coming weeks. Stay home and keep a safe distance when you really need to get out. 
 The Police - Don't Stand So Close To Me https://t.co/r935fX6gIj via @YouTube
 #coronavirus 
 #COVIDー19"
-107,1.2416840345620193e+18,2020-03-22 11:11:57+00:00,['1241684034562019330'],"Save others by staying inside  
+107,107,107,1.2416840345620193e+18,2020-03-22 11:11:57+00:00,['1241684034562019330'],"Save others by staying inside  
 #StayAtHome 
 #COVIDー19 
 #coronavirusNederland 
 #corona https://t.co/LDivZr0Yfb"
-108,1.2414638651472978e+18,2020-03-21 20:37:05+00:00,['1241463865147297792'],@Boobalander Have a good day Kim. Congrats on your 50th birthday 🎂
-109,1.2411096000672563e+18,2020-03-20 21:09:22+00:00,['1241109600067256323'],"My “little” brother ❤️ who is a construction supervisor brought me these #FFP2 masks to protect husband and me and our patients
+108,108,108,1.2414638651472978e+18,2020-03-21 20:37:05+00:00,['1241463865147297792'],@Boobalander Have a good day Kim. Congrats on your 50th birthday 🎂
+109,109,109,1.2411096000672563e+18,2020-03-20 21:09:22+00:00,['1241109600067256323'],"My “little” brother ❤️ who is a construction supervisor brought me these #FFP2 masks to protect husband and me and our patients
 👏🏻🩺🔬😷
 If you have any of these left call your doc or nurse, they may need them. 
 #Covid_19 #coronavirus #CoronaVirusChallenge #coronavirusNederland https://t.co/28UeQyUNag"
-110,1.240706905044947e+18,2020-03-19 18:29:12+00:00,['1240706905044946944'],"Stay home ! 
+110,110,110,1.240706905044947e+18,2020-03-19 18:29:12+00:00,['1240706905044946944'],"Stay home ! 
 #coronavirus 
 #COVID19
 #CoronaVirusChallenge https://t.co/EMqytM8Jse"
-111,1.2406313865093243e+18,2020-03-19 13:29:07+00:00,['1240631386509324291'],@edanaming ((((Hugs)))) 🌹thinking of you x
-112,1.2403018942134725e+18,2020-03-18 15:39:49+00:00,['1240301894213472257'],"Eldest son has a sore throat and is sneezing so he works from his appartment this week. Sends me a whatsapp message : 
+111,111,111,1.2406313865093243e+18,2020-03-19 13:29:07+00:00,['1240631386509324291'],@edanaming ((((Hugs)))) 🌹thinking of you x
+112,112,112,1.2403018942134725e+18,2020-03-18 15:39:49+00:00,['1240301894213472257'],"Eldest son has a sore throat and is sneezing so he works from his appartment this week. Sends me a whatsapp message : 
 “ I don’t understand how I got ill, 
 I have been hoarding tons of toiletpaper..!!??.” 🧻🧻 🧻🧻 
 😁
 #corona #onelaughadaykeepsthedocaway"
-113,1.2395848686417797e+18,2020-03-16 16:10:37+00:00,['1239584868641779712'],@albertheijn Deen supermarkten heeft een oproep gedaan om niet meer met de hele familie naar de supermarkt te komen maar alleen tenzij het niet anders kan. Ter bescherming van het personeel maar ook voor klanten zelf is er een groter risico als de winkel druk bevolkt is.Kan AH dat ook doen?
-114,1.2394223377091502e+18,2020-03-16 05:24:47+00:00,['1239422337709150214'],RT @edanaming: Would anyone be interested in a little blog about our current life in lockdown in a small seaside town in Italy? Was talking…
-115,1.2392237517802414e+18,2020-03-15 16:15:40+00:00,['1239223751780241409'],"All schools, café’s, restaurants and sportclubs closing in the Netherlands #COVIDー19"
-116,1.2391847332103782e+18,2020-03-15 13:40:37+00:00,['1239184733210378241'],RT @lincolnjackd: Just a reminder: it’s okay to blame the  president for how bad things get with COVID-19 because he fired the entire pande…
-117,1.2388882237802783e+18,2020-03-14 18:02:24+00:00,['1238888223780278280'],"Will be doing a lot of videocalls next 3 weeks, instead of home visits. Homevisits when necessary. Protecting vulnerable patients and keeping myself on the job.
+113,113,113,1.2395848686417797e+18,2020-03-16 16:10:37+00:00,['1239584868641779712'],@albertheijn Deen supermarkten heeft een oproep gedaan om niet meer met de hele familie naar de supermarkt te komen maar alleen tenzij het niet anders kan. Ter bescherming van het personeel maar ook voor klanten zelf is er een groter risico als de winkel druk bevolkt is.Kan AH dat ook doen?
+115,115,115,1.2392237517802414e+18,2020-03-15 16:15:40+00:00,['1239223751780241409'],"All schools, café’s, restaurants and sportclubs closing in the Netherlands #COVIDー19"
+117,117,117,1.2388882237802783e+18,2020-03-14 18:02:24+00:00,['1238888223780278280'],"Will be doing a lot of videocalls next 3 weeks, instead of home visits. Homevisits when necessary. Protecting vulnerable patients and keeping myself on the job.
 #ehealth #corona #mentalhealthnursing #nursing"
-118,1.238598310639911e+18,2020-03-13 22:50:23+00:00,['1238598310639910913'],"RT @KarimS3D: The Vision in Parkinson’s Dementia study reports promise in predicting risk of dementia, based on impaired visual performance…"
-119,1.2385933370299515e+18,2020-03-13 22:30:38+00:00,['1238593337029951488'],"RT @TheTweetOfGod: Funny, the virus said the same thing about him."
-120,1.2303889635564175e+18,2020-02-20 07:09:23+00:00,['1230388963556417536'],"RT @DrThat_Survived: Sitting in a coffee shop. 
-Remove jacket b/c it's warm &amp; overhear a kid ask his mum what my #selfharm scars are.
-Her r…"
-121,1.2301828563428844e+18,2020-02-19 17:30:23+00:00,['1230182856342884354'],"RT @edanaming: You know what, Twitter? The contemptible narrative around immigration hurts. It really hurts. #immigrants"
-122,1.2298660944139592e+18,2020-02-18 20:31:41+00:00,['1229866094413959179'],RT @KarimS3D: We make a living by what we get. We make a life by what we give ~ Sir Winston Churchill
-123,1.2277275083233403e+18,2020-02-12 22:53:42+00:00,['1227727508323340289'],"My dearest aunt , youngest sister of my late mother died last week. She was my life saver in hard times. Greatful #euthanasia is legal the Netherlands 
+123,123,123,1.2277275083233403e+18,2020-02-12 22:53:42+00:00,['1227727508323340289'],"My dearest aunt , youngest sister of my late mother died last week. She was my life saver in hard times. Greatful #euthanasia is legal the Netherlands 
 #cancer"
-124,1.2249294584377303e+18,2020-02-05 05:35:15+00:00,['1224929458437730307'],‘A shimmering spectrum of colour’ – the pain and beauty of retinal migraines https://t.co/wdeSFnOCbD
-125,1.2239249502533632e+18,2020-02-02 11:03:42+00:00,['1223924950253363200'],How we live together: the couple affected by short-term memory loss https://t.co/88Q02MZlh5
-126,1.223838869969363e+18,2020-02-02 05:21:39+00:00,['1223838869969362944'],RT @edanaming: I try not to swear on here but #FuckBrexit
-127,1.2235360230842286e+18,2020-02-01 09:18:14+00:00,['1223536023084228608'],RT @OxfordDiplomat: Don’t forget to set your clocks back 46 years tonight. #BrexitEve
-128,1.2226566713459794e+18,2020-01-29 23:04:00+00:00,['1222656671345979393'],@theremonstrator Thank you ! 😀
-129,1.2198415392471654e+18,2020-01-22 04:37:41+00:00,['1219841539247165441'],@edanaming Maybe Perry has manflu.. Hope you feel better soon 😘
-130,1.2147800372972544e+18,2020-01-08 05:25:05+00:00,['1214780037297254400'],"RT @edanaming: Trying to do essential travel planning but the advice about what happens in Europe (eg. Driving licences, healthcare) after…"
-131,1.214145210420269e+18,2020-01-06 11:22:30+00:00,['1214145210420269056'],@edanaming Thinking of you and family xx
-132,1.2134216639094866e+18,2020-01-04 11:27:23+00:00,['1213421663909486593'],RT @TheTweetOfGod: No. No. Negative. Untrue. False. Incorrect. In no way the case. No. https://t.co/GaQI0JVcbg
-133,1.2088951954561966e+18,2019-12-22 23:40:49+00:00,['1208895195456196608'],RT @edanaming: How is this ok? How? https://t.co/AjngwSRSiS
-134,1.202476511292461e+18,2019-12-05 06:35:15+00:00,['1202476511292461056'],"RT @undercover_dr: Before I was a #MedStudent &amp; finished my #PhD I was physically abused for 18yrs, lost 6 friends to #suicide, tired to ta…"
-135,1.2022364790759465e+18,2019-12-04 14:41:27+00:00,['1202236479075946497'],"RT @KarimS3D: In the UK, rates of alcohol related hospital admissions &amp; deaths are now higher in older versus younger adults, particularly…"
-136,1.1961132037066793e+18,2019-11-17 17:09:45+00:00,['1196113203706679296'],"RT @Public_Citizen: School shootings from 2009 to 2018:
-
-🇬🇧 0
-🇦🇷 0
-🇳🇱 0
-🇯🇵 0
-🇮🇹 0
-🇨🇭 0
-🇦🇺 0
-🇪🇸 0
-🇬🇷 1
-🇨🇳 1
-🇰🇪 1
-🇦🇿 1
-🇩🇪 1
-🇷🇺 1
-🇪🇪 1
-🇹🇷 1
-🇭🇺…"
-137,1.1943436690647818e+18,2019-11-12 19:58:15+00:00,['1194343669064781824'],"Up for a chat? 
+124,124,124,1.2249294584377303e+18,2020-02-05 05:35:15+00:00,['1224929458437730307'],‘A shimmering spectrum of colour’ – the pain and beauty of retinal migraines https://t.co/wdeSFnOCbD
+125,125,125,1.2239249502533632e+18,2020-02-02 11:03:42+00:00,['1223924950253363200'],How we live together: the couple affected by short-term memory loss https://t.co/88Q02MZlh5
+128,128,128,1.2226566713459794e+18,2020-01-29 23:04:00+00:00,['1222656671345979393'],@theremonstrator Thank you ! 😀
+129,129,129,1.2198415392471654e+18,2020-01-22 04:37:41+00:00,['1219841539247165441'],@edanaming Maybe Perry has manflu.. Hope you feel better soon 😘
+131,131,131,1.214145210420269e+18,2020-01-06 11:22:30+00:00,['1214145210420269056'],@edanaming Thinking of you and family xx
+137,137,137,1.1943436690647818e+18,2019-11-12 19:58:15+00:00,['1194343669064781824'],"Up for a chat? 
 https://t.co/yscQkKvPj4 
 Friendly and supportive #chatroom for people with #schizophrenia and other 
 #mentalhealth problems. 
 Plz RT? 
 #bpd #gad #adhd #depression #PTSD"
-138,1.1912249873336074e+18,2019-11-04 05:25:43+00:00,['1191224987333607424'],"RT @DMinghella: Since Brexit didn't happen at 11pm on Thursday night, three hundred and ninety thousand Brits have visited Europe without t…"
-139,1.190571205641814e+18,2019-11-02 10:07:49+00:00,['1190571205641814016'],RT @KarimS3D: Sleeping well could have a cleansing effect on the brain! #Alzheimers #risk #reduction https://t.co/LIx65LpBe2
-140,1.1883609967269435e+18,2019-10-27 07:45:14+00:00,['1188360996726943744'],"RT @undercover_dr: Walking home yesterday
-
-See a teenager shivering/curled up in a doorway
-
-I spoke to him, found out that b/c he is gay hi…"
-141,1.1876746905397084e+18,2019-10-25 10:18:06+00:00,['1187674690539708417'],RT @edanaming: I’m sick and tired of Brexit. I imagine you are sick and tired of Brexit. The answer? Get Brexit gone. We can all get on wit…
-142,1.183124822542508e+18,2019-10-12 20:58:33+00:00,['1183124822542508037'],RT @Jude_KD: Spent afternoon travelling with my toddler who slept in my arms. I’ve just watched a video on Twitter of a mother in northern…
-143,1.1831230868974838e+18,2019-10-12 20:51:39+00:00,['1183123086897483777'],RT @SenWarren: Happy National #ComingOutDay! I’ll never stop fighting for a country where everyone feels safe to be who they are and love w…
-144,1.18216526918101e+18,2019-10-10 05:25:38+00:00,['1182165269181009921'],"RT @undercover_dr: My med school advised I quit Medicine because of my past #abuse.
-
-They said I was 'damaged' &amp; wouldn't recover.
-
-3yrs la…"
-145,1.182016644366979e+18,2019-10-09 19:35:03+00:00,['1182016644366979073'],"Ordered free flujab at my MH hospital to protect myself against the flu and my team against understaffing. 
+145,145,145,1.182016644366979e+18,2019-10-09 19:35:03+00:00,['1182016644366979073'],"Ordered free flujab at my MH hospital to protect myself against the flu and my team against understaffing. 
 #influenza #flu #health"
-146,1.1817892921941238e+18,2019-10-09 04:31:38+00:00,['1181789292194123776'],RT @KarimS3D: Eloquent reflections from @FemiMind on #language and #psychiatry via @rcpsych #choosepsychiatry https://t.co/ThQ5ZcFGvF
-147,1.1809651192427725e+18,2019-10-06 21:56:40+00:00,['1180965119242772482'],Started my new job last week. First thing: a visit to an organic care farm https://t.co/WO6YOp9sbL
-148,1.1778168784477716e+18,2019-09-28 05:26:41+00:00,['1177816878447771651'],"RT @AmateyDoku: Hi, @Conservatives. 
-
-I did not give you permission to use my photo. 
-
-I do not want to get Brexit done, I want a People's…"
-149,1.1736730476786934e+18,2019-09-16 19:00:35+00:00,['1173673047678693381'],"RT @edanaming: I’m sharing this because I know I’m not the only one. 
-
-Dear primary care services please think about how you communicate wi…"
-150,1.170230476512084e+18,2019-09-07 07:01:02+00:00,['1170230476512083968'],RT @edanaming: Really powerful. Pls watch. #StopBrexit https://t.co/Oh0pyDIqc6
-151,1.1693492653716726e+18,2019-09-04 20:39:24+00:00,['1169349265371672576'],"RT @Doozy_45: ""I believe the British people have changed their minds. They now see #Brexit for what it is. This must go back to the ppl via…"
-152,1.169308759472124e+18,2019-09-04 17:58:27+00:00,['1169308759472123904'],RT @KarimS3D: Reflective practice is a great learning opportunity for doctors and students. Here’s some guidance from the @gmcuk #reflectio…
-153,1.1680768592649626e+18,2019-09-01 08:23:19+00:00,['1168076859264962560'],"RT @EmergMedDr: Why are prayers being offered?
-
-One of the biggest studies on intercessionary prayer showed no effects amongst the patients…"
-154,1.1680730248741888e+18,2019-09-01 08:08:05+00:00,['1168073024874188800'],RT @celebgreenroom: To my amazement my personal Facebook post about the DWP (Department for Withholding Payments) has been shared 25K times…
-155,1.1680689204790804e+18,2019-09-01 07:51:46+00:00,['1168068920479080448'],@EmergMedDr No because one day you might miss the crumbs.
-156,1.1680677613748142e+18,2019-09-01 07:47:10+00:00,['1168067761374814208'],@edanaming So sorry to hear this. So sad. Happened to me too once. I had no idea.
-157,1.1675347206678364e+18,2019-08-30 20:29:03+00:00,['1167534720667836416'],"RT @KarimS3D: Hospitals, Local Authorities, businesses &amp; communities must creatively incorporate wellbeing prompts like this! #heart #brain…"
-158,1.1675328188907233e+18,2019-08-30 20:21:30+00:00,['1167532818890723328'],"@LauraMcC1972 Turn the wifi off, works here ;)"
-159,1.1626372363090248e+18,2019-08-17 08:08:12+00:00,['1162637236309024768'],RT @edanaming: #Dementia Twitter: has anyone got experience /tips about local v general anaesthesia for someone with dementia who needs den…
-160,1.1606977814572485e+18,2019-08-11 23:41:30+00:00,['1160697781457248257'],"Dutch supermarket introduces a unique “chat checkout” to help fight loneliness
+147,147,147,1.1809651192427725e+18,2019-10-06 21:56:40+00:00,['1180965119242772482'],Started my new job last week. First thing: a visit to an organic care farm https://t.co/WO6YOp9sbL
+155,155,155,1.1680689204790804e+18,2019-09-01 07:51:46+00:00,['1168068920479080448'],@EmergMedDr No because one day you might miss the crumbs.
+156,156,156,1.1680677613748142e+18,2019-09-01 07:47:10+00:00,['1168067761374814208'],@edanaming So sorry to hear this. So sad. Happened to me too once. I had no idea.
+158,158,158,1.1675328188907233e+18,2019-08-30 20:21:30+00:00,['1167532818890723328'],"@LauraMcC1972 Turn the wifi off, works here ;)"
+160,160,160,1.1606977814572485e+18,2019-08-11 23:41:30+00:00,['1160697781457248257'],"Dutch supermarket introduces a unique “chat checkout” to help fight loneliness
 https://t.co/h2dmLIcvJc"
-161,1.159501818071847e+18,2019-08-08 16:29:10+00:00,['1159501818071846912'],@ge0kat My #cats 😻 https://t.co/A8Uc6hSvjk
-162,1.1560805058608333e+18,2019-07-30 05:54:06+00:00,['1156080505860833280'],RT @KarimS3D: Are you a caring medical student considering a rewarding and creative career practising holistic medicine?  Choose psychiatry…
-163,1.1560802424795136e+18,2019-07-30 05:53:03+00:00,['1156080242479513600'],"RT @KarimS3D: The NHS blame culture feeds on 2 myths: (1) that if we try hard, we will not make any errors, &amp; (2) if we punish people when…"
-164,1.1560801685507525e+18,2019-07-30 05:52:45+00:00,['1156080168550752257'],@KarimS3D @GregoryPorter Went to his concert in Amsterdam a few years ago which was awesome and got tickets again for march ‘20 🎤
-165,1.1557090011051377e+18,2019-07-29 05:17:52+00:00,['1155709001105137665'],"RT @ChrisMurphyCT: I’m unfollowing the President of the United States today on Twitter, because his feed is the most hate-filled, racist, a…"
-166,1.1517268131540704e+18,2019-07-18 05:34:04+00:00,['1151726813154070529'],@HeatherYemm @KLM People who drink alcohol should be covered in KLM planes instead of breastfeeding mothers.A lot have problems with alcohol and it might be difficult for them to see people drinking.Besides alcohol up in air gives extra side effects while breastmilk doesnt. Never seen a drunk baby
-167,1.1457974918137364e+18,2019-07-01 20:53:04+00:00,['1145797491813736448'],RT @KarimS3D: If we could acknowledge more often how difficult emotions in life can sit closely with more normal feelings that would be so…
-168,1.1415778613688608e+18,2019-06-20 05:25:46+00:00,['1141577861368860672'],RT @KarimS3D: Research affirms that Atrial Fibrillation (AF) is linked to an increased risk of #dementia. Taking oral anticoagulants to pre…
-169,1.1401589252764262e+18,2019-06-16 07:27:25+00:00,['1140158925276426240'],"RT @TheTweetOfGod: If gay people are a mistake, they're a mistake I've made hundreds of millions of times, which proves I'm incompetent and…"
-170,1.1401557359108996e+18,2019-06-16 07:14:45+00:00,['1140155735910899717'],RT @PsychToday: Sometimes passive aggression is so insidious that you actually start to believe you deserve punishment. You don't. Here's h…
-171,1.1400826223973908e+18,2019-06-16 02:24:13+00:00,['1140082622397390854'],RT @LEAD_Coalition: Let’s all help our friends at @AlzDisInt raise awareness and fight stigma regarding #Alzheimers disease and other forms…
-172,1.1389188914245386e+18,2019-06-12 21:19:58+00:00,['1138918891424538634'],"RT @KarimS3D: The @RCPsych publishes a helpful report on #depression and #antidepressants and makes a series of recommendations, including…"
-173,1.136018577700602e+18,2019-06-04 21:15:09+00:00,['1136018577700601858'],@charitybegin3 if you like see me in the chatroom sometime
-174,1.136017032460329e+18,2019-06-04 21:09:01+00:00,['1136017032460328960'],"@charitybegin3 hey Joanna, im doing fine, went back to college thatswhy I am not tweeting that much, how are you?"
-175,1.1354504150703514e+18,2019-06-03 07:37:29+00:00,['1135450415070351361'],RT @AlysColeKing: I’m a huge advocate of self-help and family and friends supporting those they care about but sometimes people need Mental…
-176,1.1352968870729318e+18,2019-06-02 21:27:25+00:00,['1135296887072931841'],@261menace Theres a direct link available https://t.co/HD6noXuqcA
-177,1.135285032677978e+18,2019-06-02 20:40:19+00:00,['1135285032677978113'],@261menace could try this one? When its quiet just stay logged in
-178,1.131050065987068e+18,2019-05-22 04:12:04+00:00,['1131050065987067911'],"@gemmaw1987 Back to uni myself. Post bachelor. One day uni, 3 days work. Studying 20 hrs a week🤯.
+161,161,161,1.159501818071847e+18,2019-08-08 16:29:10+00:00,['1159501818071846912'],@ge0kat My #cats 😻 https://t.co/A8Uc6hSvjk
+164,164,164,1.1560801685507525e+18,2019-07-30 05:52:45+00:00,['1156080168550752257'],@KarimS3D @GregoryPorter Went to his concert in Amsterdam a few years ago which was awesome and got tickets again for march ‘20 🎤
+166,166,166,1.1517268131540704e+18,2019-07-18 05:34:04+00:00,['1151726813154070529'],@HeatherYemm @KLM People who drink alcohol should be covered in KLM planes instead of breastfeeding mothers.A lot have problems with alcohol and it might be difficult for them to see people drinking.Besides alcohol up in air gives extra side effects while breastmilk doesnt. Never seen a drunk baby
+173,173,173,1.136018577700602e+18,2019-06-04 21:15:09+00:00,['1136018577700601858'],@charitybegin3 if you like see me in the chatroom sometime
+174,174,174,1.136017032460329e+18,2019-06-04 21:09:01+00:00,['1136017032460328960'],"@charitybegin3 hey Joanna, im doing fine, went back to college thatswhy I am not tweeting that much, how are you?"
+176,176,176,1.1352968870729318e+18,2019-06-02 21:27:25+00:00,['1135296887072931841'],@261menace Theres a direct link available https://t.co/HD6noXuqcA
+177,177,177,1.135285032677978e+18,2019-06-02 20:40:19+00:00,['1135285032677978113'],@261menace could try this one? When its quiet just stay logged in
+178,178,178,1.131050065987068e+18,2019-05-22 04:12:04+00:00,['1131050065987067911'],"@gemmaw1987 Back to uni myself. Post bachelor. One day uni, 3 days work. Studying 20 hrs a week🤯.
 Fit your Hb in. Ask family to watch the kids now and then. Explain your situation to family and friends.They’ll have to be patient. Plan relaxing activities. And ask for support !"
-179,1.1295096116299284e+18,2019-05-17 22:10:51+00:00,['1129509611629928450'],RT @KarimS3D: The @WHO launches a global action plan to help prevent cognitive decline and dementia. https://t.co/Gi1h2NNmMW #brain #health…
-180,1.1283610839185326e+18,2019-05-14 18:07:00+00:00,['1128361083918532608'],@edanaming Happy birthday xxx🌷
-181,1.1277382384232448e+18,2019-05-13 00:52:03+00:00,['1127738238423244801'],"RT @TheTweetOfGod: If there were a shot that cured stupid, anti-vaxxers still wouldn’t take it."
-182,1.1223643246207222e+18,2019-04-28 04:58:02+00:00,['1122364324620722178'],#Bonaire https://t.co/XDZVmyxd4W
-183,1.1219787753051628e+18,2019-04-27 03:26:00+00:00,['1121978775305162757'],"Salt production #Bonaire , Dutch carribean https://t.co/9BLzD33nyr"
-184,1.121246558811562e+18,2019-04-25 02:56:26+00:00,['1121246558811561984'],"I love birds. Watching an orange #Trupial (Icterus Icterus) having breakfast.  
+180,180,180,1.1283610839185326e+18,2019-05-14 18:07:00+00:00,['1128361083918532608'],@edanaming Happy birthday xxx🌷
+182,182,182,1.1223643246207222e+18,2019-04-28 04:58:02+00:00,['1122364324620722178'],#Bonaire https://t.co/XDZVmyxd4W
+183,183,183,1.1219787753051628e+18,2019-04-27 03:26:00+00:00,['1121978775305162757'],"Salt production #Bonaire , Dutch carribean https://t.co/9BLzD33nyr"
+184,184,184,1.121246558811562e+18,2019-04-25 02:56:26+00:00,['1121246558811561984'],"I love birds. Watching an orange #Trupial (Icterus Icterus) having breakfast.  
 #Bonaire, Dutch #Carribean 
 #nature #birds https://t.co/vYtYfABonz"
-185,1.1202681650475744e+18,2019-04-22 10:08:38+00:00,['1120268165047574533'],RT @KarimS3D: The relaxing #nightcap is a myth ... and other common #sleep #myths  https://t.co/n3eXUT0Prg
-186,1.1201429168973864e+18,2019-04-22 01:50:57+00:00,['1120142916897386498'],Bonaire https://t.co/K8z8DV2GeX
-187,1.1131805631821169e+18,2019-04-02 20:45:02+00:00,['1113180563182116867'],"RT @BBCWomansHour: At 58, @WendyPMitchell was diagnosed with young-onset dementia. She came on @bbcwomanshour recently to explain how she c…"
-188,1.1131793598237082e+18,2019-04-02 20:40:15+00:00,['1113179359823708163'],RT @JimvanOs1: Opinion | How Much Should You Know About Your Therapist’s Life? https://t.co/fYdD9hk1XE
-189,1.1098805091050988e+18,2019-03-24 18:11:48+00:00,['1109880509105098753'],"Gardening season has started. Planting potatoes today ☀️🌷
+186,186,186,1.1201429168973864e+18,2019-04-22 01:50:57+00:00,['1120142916897386498'],Bonaire https://t.co/K8z8DV2GeX
+189,189,189,1.1098805091050988e+18,2019-03-24 18:11:48+00:00,['1109880509105098753'],"Gardening season has started. Planting potatoes today ☀️🌷
 #allotment #growyourownfood #gardening #urbanfarming https://t.co/GtgFgf9cLc"
-190,1.1092459837020283e+18,2019-03-23 00:10:25+00:00,['1109245983702028288'],RT @KarimS3D: Saluting PM @jacindaardern who has more balls than many of her male counterparts! #NewZealandShooting https://t.co/tid4qw20qu
-191,1.1085136505522627e+18,2019-03-20 23:40:24+00:00,['1108513650552262656'],@mnrbaard 😂
-192,1.1024613779087401e+18,2019-03-04 06:50:49+00:00,['1102461377908740096'],RT @electroboyusa: Big Pharma is screwing Americans! My mom takes #Multaq for a heart arrhythmia. It's manufactured by @sanofi and WITH ins…
-193,1.1012875978407076e+18,2019-03-01 01:06:38+00:00,['1101287597840707585'],RT @KarimS3D: 1/3 of #dementia cases are thought to be influenced by factors within our control. Do you know what the #risk #factors are? #…
-194,1.1001102305690583e+18,2019-02-25 19:08:12+00:00,['1100110230569058306'],@pubmentalhealth see dm?
-195,1.0990648215412326e+18,2019-02-22 21:54:07+00:00,['1099064821541232641'],RT @AbbyReineckMD: Bravo!  20 Commandments for MentalHealth workers: 20 Commandments for Mental Health workers: @nurse_w_glasses https://t.…
-196,1.0979447945952461e+18,2019-02-19 19:43:32+00:00,['1097944794595246080'],@pubmentalhealth Could you follow me please ? I have a question about an article.
+191,191,191,1.1085136505522628e+18,2019-03-20 23:40:24+00:00,['1108513650552262656'],@mnrbaard 😂
+194,194,194,1.1001102305690584e+18,2019-02-25 19:08:12+00:00,['1100110230569058306'],@pubmentalhealth see dm?
+196,196,196,1.097944794595246e+18,2019-02-19 19:43:32+00:00,['1097944794595246080'],@pubmentalhealth Could you follow me please ? I have a question about an article.
