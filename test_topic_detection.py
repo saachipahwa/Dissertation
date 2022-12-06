@@ -39,7 +39,7 @@ print(freq)
 
 details_list = []
 for i in freq['Topic']:
-    if i>-1:
+    if i > -1:
         details_list.append(topic_model.get_topic(i))
     else:
         details_list.append([])
