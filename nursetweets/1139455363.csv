@@ -1,5 +1,5 @@
-,Unnamed: 0,Unnamed: 0.1,id,created_at,edit_history_tweet_ids,text
-0,0,0,1.5608984047372902e+18,2022-08-20 07:55:54+00:00,['1560898404737290242'],@SAPHNAsharonOBE @EmmaPUNC21 I second Sharon. A fabulous career choice.
+Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,id,created_at,edit_history_tweet_ids,text,clean_text,non_english,whitespace
+0,0,0,1.5608984047372902e+18,2022-08-20 07:55:54+00:00,['1560898404737290242'],@SAPHNAsharonOBE @EmmaPUNC21 I second Sharon. A fabulous career choice.,  i second sharon a fabulous career choice,True,False
 1,1,1,1.5540167636329144e+18,2022-08-01 08:10:43+00:00,['1554016763632914432'],"Hello August...
 ... AND the start of:
 
@@ -7,14 +7,27 @@ We Active Challenge, a month of awareness and support for ourselves and peers to
 
 Here's all you need to know https://t.co/xowyxre652
 
-Be more active, share a pic via #NursesActive, share the benefits, and support each other. https://t.co/l59LFBBlCc"
+Be more active, share a pic via #NursesActive, share the benefits, and support each other. https://t.co/l59LFBBlCc","hello august
+ and the start of
+
+we active challenge a month of awareness and support for ourselves and peers to be more active
+
+heres all you need to know 
+
+be more active share a pic via  share the benefits and support each other ",True,False
 2,2,2,1.5537527535660974e+18,2022-07-31 14:41:38+00:00,['1553752753566097410'],"Looks what's all ready and waiting for the start of tomorrow's 2022 WeActiveChallenge...
 
 A very empty WeActiveChallenge dashboard:
 
 https://t.co/ODYnLzOFYh
 
-Let's hope that #NursesActive gets off to a great start for this year's challenge :) https://t.co/GWW5JNB1fM"
+Let's hope that #NursesActive gets off to a great start for this year's challenge :) https://t.co/GWW5JNB1fM","looks whats all ready and waiting for the start of tomorrows 2022 weactivechallenge
+
+a very empty weactivechallenge dashboard
+
+
+
+lets hope that  gets off to a great start for this years challenge  ",True,False
 3,3,3,1.552719337928147e+18,2022-07-28 18:15:12+00:00,['1552719337928146946'],"Calling all #NursesActive .... 
 
 Who's your #NursesActive buddy?
@@ -23,12 +36,24 @@ Best check as WeActiveChallenge starts in 4 days time !
 
 When, what, how here &gt; https://t.co/qd1QBu1lbN
 
-How will you be a little more active a little more often this August? https://t.co/6RccnnfwxI"
+How will you be a little more active a little more often this August? https://t.co/6RccnnfwxI","calling all   
+
+whos your  buddy
+
+best check as weactivechallenge starts in 4 days time  
+
+when what how here gt 
+
+how will you be a little more active a little more often this august ",True,False
 4,4,4,1.5521908489383895e+18,2022-07-27 07:15:11+00:00,['1552190848938389505'],"Are you warmed up and ready to go ?? 
 
 #NursesActive in 5 days !!! 
 
-Everything you need to know is here https://t.co/YIdqS3tcKh https://t.co/TIcISBPFlo"
+Everything you need to know is here https://t.co/YIdqS3tcKh https://t.co/TIcISBPFlo","are you warmed up and ready to go  
+
+ in 5 days  
+
+everything you need to know is here  ",True,False
 6,6,6,1.5467432109695304e+18,2022-07-12 06:28:13+00:00,['1546743210969530368'],"Happy #WeNurses day :)
 
 Who is joining us from 8pm to chat about...
@@ -37,40 +62,64 @@ Who is joining us from 8pm to chat about...
 
 Full details here https://t.co/7Y5or0zGUA 
 
-We have lots to add to these HCSW chats :)"
-7,7,7,1.5450956937144812e+18,2022-07-07 17:21:34+00:00,['1545095693714481152'],@SAPHNAsharonOBE @CarolineLowton @HCRGCareGroup @KezRiley Caroline was everything a SN should be. I am sure the award in her name went to someone who embodies all @CarolineLowton stood for
+We have lots to add to these HCSW chats :)","happy  day 
+
+who is joining us from 8pm to chat about
+
+nurses supporting hcsws learning amp career development
+
+full details here  
+
+we have lots to add to these hcsw chats ",True,False
+7,7,7,1.5450956937144812e+18,2022-07-07 17:21:34+00:00,['1545095693714481152'],@SAPHNAsharonOBE @CarolineLowton @HCRGCareGroup @KezRiley Caroline was everything a SN should be. I am sure the award in her name went to someone who embodies all @CarolineLowton stood for,    caroline was everything a sn should be i am sure the award in her name went to someone who embodies all  stood for,True,False
 10,10,10,1.5424976688989962e+18,2022-06-30 13:17:57+00:00,['1542497668898996224'],"@SAPHNAsharonOBE Well deserved Safeguarding Stars.
-A very informative presentation and case study."
+A very informative presentation and case study."," well deserved safeguarding stars
+a very informative presentation and case study",True,False
 12,12,12,1.541406017883439e+18,2022-06-27 13:00:07+00:00,['1541406017883439106'],"This week there's lots going on with 4 tweetchats and an Advanced Practice takeover by @NorthBristolNHS 
 
 See the tweetchats here https://t.co/J2jfA2jIRv
 
 And the #WeNursesAP take over here https://t.co/fn8a6YaOoK 
 
-Bring our voices to as much as we can! https://t.co/6NWmR4x1zs"
-15,15,15,1.5367821636596572e+18,2022-06-14 18:46:34+00:00,['1536782163659657219'],@SAPHNAsharonOBE @AutismEducatio1 @ciarale01 @SwainITV @GMB Excellent
-16,16,16,1.5367820305618534e+18,2022-06-14 18:46:02+00:00,['1536782030561853442'],"@waluap @SAPHNAsharonOBE Wishing all of you nearing the end of your course the best of luck securing your new posts, you are entering a most fabulous career. #schoolnursebestjobever"
+Bring our voices to as much as we can! https://t.co/6NWmR4x1zs","this week theres lots going on with 4 tweetchats and an advanced practice takeover by  
+
+see the tweetchats here 
+
+and the  take over here  
+
+bring our voices to as much as we can ",True,False
+15,15,15,1.5367821636596572e+18,2022-06-14 18:46:34+00:00,['1536782163659657219'],@SAPHNAsharonOBE @AutismEducatio1 @ciarale01 @SwainITV @GMB Excellent,     excellent,True,False
+16,16,16,1.5367820305618534e+18,2022-06-14 18:46:02+00:00,['1536782030561853442'],"@waluap @SAPHNAsharonOBE Wishing all of you nearing the end of your course the best of luck securing your new posts, you are entering a most fabulous career. #schoolnursebestjobever",  wishing all of you nearing the end of your course the best of luck securing your new posts you are entering a most fabulous career ,True,False
 18,18,18,1.533817245545255e+18,2022-06-06 14:25:02+00:00,['1533817245545254914'],"Who's joining @WeNurses for #WeNurseAcademics tomorrow 8PM?
 Nurse Academics/Educators Tweetchat
 ""Looking after ourselves is important too, but do we?""+ impact on students
 Chat info here ➡️  https://t.co/BeptdK2Is5 , please RT :)
 Everyone Welcome
-⬇️Chat Questions⬇️ https://t.co/3mdQGa89k9"
-20,20,20,1.5291970386001715e+18,2022-05-24 20:25:59+00:00,['1529197038600171533'],@LeanneHPatrick @WeCommNurses @WeStudentNurse thank you for joining us Leanne :) #wecns
-23,23,23,1.5288143365625856e+18,2022-05-23 19:05:16+00:00,['1528814336562585601'],@waluap @Mersey_Care @NHSSSCCG @seftoncouncil @ChatHealthNHS
-25,25,25,1.5278928244438303e+18,2022-05-21 06:03:30+00:00,['1527892824443830272'],@PostDocHV @UniofHerts @WeGPNs @iHealthVisiting @ADNEuk @TheQNI @UKSCSCPHN Congratulations Michael
-29,29,29,1.5269755930357268e+18,2022-05-18 17:18:45+00:00,['1526975593035726849'],@HUHSchoolNurse @sarajan16181976 @NHSHomerton @KKessack @mcmanusb Must definitely be good if given an honorary SCPHNhood 😀
-30,30,30,1.5268182902108488e+18,2022-05-18 06:53:41+00:00,['1526818290210848770'],Now there is an offer to consider... https://t.co/6Q5KReD1FE
-31,31,31,1.526637136136618e+18,2022-05-17 18:53:51+00:00,['1526637136136617986'],"@SAPHNAsharonOBE @SAPHNAteam @UKSepsisTrust @SepsisUK @PictonZoe @WhatTheTrigMath So sorry to hear this Sharon, love and hugs all around x"
-32,32,32,1.526593980821123e+18,2022-05-17 16:02:22+00:00,['1526593980821123072'],"Academics, any sage advice? https://t.co/rTJXmdfqmR"
-33,33,33,1.526573002002948e+18,2022-05-17 14:39:00+00:00,['1526573002002948097'],@SAPHNAsharonOBE @Jake_Daniels11 Well done. A great role model. Your actions will help so many
+⬇️Chat Questions⬇️ https://t.co/3mdQGa89k9","whos joining  for  tomorrow 8pm
+nurse academicseducators tweetchat
+looking after ourselves is important too but do we impact on students
+chat info here     please rt 
+everyone welcome
+chat questions ",True,False
+20,20,20,1.5291970386001715e+18,2022-05-24 20:25:59+00:00,['1529197038600171533'],@LeanneHPatrick @WeCommNurses @WeStudentNurse thank you for joining us Leanne :) #wecns,   thank you for joining us leanne  ,True,False
+25,25,25,1.5278928244438303e+18,2022-05-21 06:03:30+00:00,['1527892824443830272'],@PostDocHV @UniofHerts @WeGPNs @iHealthVisiting @ADNEuk @TheQNI @UKSCSCPHN Congratulations Michael,       congratulations michael,True,False
+29,29,29,1.5269755930357268e+18,2022-05-18 17:18:45+00:00,['1526975593035726849'],@HUHSchoolNurse @sarajan16181976 @NHSHomerton @KKessack @mcmanusb Must definitely be good if given an honorary SCPHNhood 😀,     must definitely be good if given an honorary scphnhood ,True,False
+30,30,30,1.5268182902108488e+18,2022-05-18 06:53:41+00:00,['1526818290210848770'],Now there is an offer to consider... https://t.co/6Q5KReD1FE,now there is an offer to consider ,True,False
+31,31,31,1.526637136136618e+18,2022-05-17 18:53:51+00:00,['1526637136136617986'],"@SAPHNAsharonOBE @SAPHNAteam @UKSepsisTrust @SepsisUK @PictonZoe @WhatTheTrigMath So sorry to hear this Sharon, love and hugs all around x",      so sorry to hear this sharon love and hugs all around x,True,False
+32,32,32,1.526593980821123e+18,2022-05-17 16:02:22+00:00,['1526593980821123072'],"Academics, any sage advice? https://t.co/rTJXmdfqmR",academics any sage advice ,True,False
+33,33,33,1.526573002002948e+18,2022-05-17 14:39:00+00:00,['1526573002002948097'],@SAPHNAsharonOBE @Jake_Daniels11 Well done. A great role model. Your actions will help so many,  well done a great role model your actions will help so many,True,False
 35,35,35,1.526565710524207e+18,2022-05-17 14:10:02+00:00,['1526565710524207104'],"Are you ready for:
  @WeNurses tweetchat via #WeNurseAcademics TONIGHT 8PM
 ""Starting as a new Nursing Academic, where to begin!""
 Chat info here: https://t.co/sXumMoZ9hd 
 Come and join in to learn more about staring in nursing academia.
-All welcome!"
-38,38,38,1.526555846016176e+18,2022-05-17 13:30:50+00:00,['1526555846016176129'],"@Mersey_Care @AintreeRaces @NHSSSCCG School Nurses delivering safety and wellbeing  messages for Sefton Y6 pupils, working with partner agencies. What is your team up to this week?"
+All welcome!","are you ready for
+  tweetchat via  tonight 8pm
+starting as a new nursing academic where to begin
+chat info here  
+come and join in to learn more about staring in nursing academia
+all welcome",True,False
+38,38,38,1.526555846016176e+18,2022-05-17 13:30:50+00:00,['1526555846016176129'],"@Mersey_Care @AintreeRaces @NHSSSCCG School Nurses delivering safety and wellbeing  messages for Sefton Y6 pupils, working with partner agencies. What is your team up to this week?",   school nurses delivering safety and wellbeing  messages for sefton y6 pupils working with partner agencies what is your team up to this week,True,False
 39,39,39,1.526185837108527e+18,2022-05-16 13:00:33+00:00,['1526185837108527107'],"There's TWO great tweetchats this week with @WeNurses! 
  
 TUESDAY 8PM  ""nurse academia, where to begin?"" via#WeNurseAcademics
@@ -78,190 +127,261 @@ Thursday 8:30PM ""Nursing Unions""  via #WeNurses
  
 Chat infos here:
 https://t.co/7FAoItI0Al
-Are you joining? We hope so! https://t.co/8gM20s0TbB"
+Are you joining? We hope so! https://t.co/8gM20s0TbB","theres two great tweetchats this week with  
+ 
+tuesday 8pm  nurse academia where to begin via
+thursday 830pm nursing unions  via 
+ 
+chat infos here
+
+are you joining we hope so ",True,False
 41,41,41,1.5236877839272755e+18,2022-05-09 15:34:11+00:00,['1523687783927275526'],"Will you help us by creating a Twitter map showing where all our amazing international nurse peers came from, please?
  
 More info &amp; the #IND2022map here https://t.co/onkH0zzctn
 It just takes a tweet &amp; a little kindness :)
-⬇️Here's how⬇️ https://t.co/B5Y8MPUSFK"
+⬇️Here's how⬇️ https://t.co/B5Y8MPUSFK","will you help us by creating a twitter map showing where all our amazing international nurse peers came from please
+ 
+more info amp the  here 
+it just takes a tweet amp a little kindness 
+heres how ",True,False
 42,42,42,1.5199155805680845e+18,2022-04-29 05:44:47+00:00,['1519915580568084480'],"Very excited and proud to share our new look with you!
 Our new modern look better reflects your professionalism and unites us in our aims/diversity across the We’s too.
 Learn more about the update here https://t.co/8Eaz5zTfqG
-Here’s to another amazing #10yearsofWe with you. https://t.co/ur9vEwUekv"
+Here’s to another amazing #10yearsofWe with you. https://t.co/ur9vEwUekv","very excited and proud to share our new look with you
+our new modern look better reflects your professionalism and unites us in our aimsdiversity across the we’s too
+learn more about the update here 
+here’s to another amazing  with you ",True,False
 43,43,43,1.5065599880466964e+18,2022-03-23 09:14:26+00:00,['1506559988046696451'],"Well done all the School Nurses that add their voice to last nights #WeCNs 
  
-If you missed it, you can still answer the tweeted questions... https://t.co/ETjK7FS3Kt"
+If you missed it, you can still answer the tweeted questions... https://t.co/ETjK7FS3Kt","well done all the school nurses that add their voice to last nights  
+ 
+if you missed it you can still answer the tweeted questions ",True,False
 50,50,50,1.5063603075890422e+18,2022-03-22 20:00:58+00:00,['1506360307589042176'],"Who is joining #WeCNs this eve? 
 
-Super important Career Pathways https://t.co/GHDLipdNbr"
+Super important Career Pathways https://t.co/GHDLipdNbr","who is joining  this eve 
+
+super important career pathways ",True,False
 51,51,51,1.5059856043911578e+18,2022-03-21 19:12:02+00:00,['1505985604391157766'],"This time tomorrow we'll be warming up for #WeCNs with @PocoOcho @ogunso1
  on ""Delivering Diverse Community Nursing Career Pathways"" hosted by @WeCommNurses 
 Let's bring our voice to the feedback into the National Community Nursing Plan! 
-Chat info here https://t.co/6fGoMAGHka"
-54,54,54,1.5012860715518976e+18,2022-03-08 19:57:46+00:00,['1501286071551897602'],Who's joining #WeCNs this eve? https://t.co/bosFJGCvmV
-57,57,57,1.491874402044199e+18,2022-02-10 20:39:09+00:00,['1491874402044198919'],This is rather great news :) go team @WeCommNurses https://t.co/MrWtAjmD9h
-59,59,59,1.479186320559911e+18,2022-01-06 20:21:15+00:00,['1479186320559910919'],let's jump on #wenurses this eve! https://t.co/qNSBnQ8Xvw
-64,64,64,1.448244172176171e+18,2021-10-13 11:08:12+00:00,['1448244172176171012'],@SAPHNAsharonOBE What are your thoughts on this conversaton everyone?
-72,72,72,1.4360462043165532e+18,2021-09-09 19:17:50+00:00,['1436046204316553225'],@sharon_kempson @lynnewalsall us too :) #WeNurseAcademics
-81,81,81,1.4030735709772923e+18,2021-06-10 19:36:21+00:00,['1403073570977292299'],Great question #WeNurses https://t.co/rAWkE89IeB
-83,83,83,1.4030687164688138e+18,2021-06-10 19:17:04+00:00,['1403068716468813824'],Do you have a carers champion ? #WeNurses https://t.co/LihTHiteWs
-84,84,84,1.403066270564692e+18,2021-06-10 19:07:21+00:00,['1403066270564691972'],Question 1 #WeNurses https://t.co/67227tYoL3
-86,86,86,1.4030654024234025e+18,2021-06-10 19:03:54+00:00,['1403065402423402502'],Hello everyone #WeNurses https://t.co/znqXiYBtu2
+Chat info here https://t.co/6fGoMAGHka","this time tomorrow well be warming up for  with  
+ on delivering diverse community nursing career pathways hosted by  
+lets bring our voice to the feedback into the national community nursing plan 
+chat info here ",True,False
+54,54,54,1.5012860715518976e+18,2022-03-08 19:57:46+00:00,['1501286071551897602'],Who's joining #WeCNs this eve? https://t.co/bosFJGCvmV,whos joining  this eve ,True,False
+57,57,57,1.491874402044199e+18,2022-02-10 20:39:09+00:00,['1491874402044198919'],This is rather great news :) go team @WeCommNurses https://t.co/MrWtAjmD9h,this is rather great news  go team  ,True,False
+59,59,59,1.479186320559911e+18,2022-01-06 20:21:15+00:00,['1479186320559910919'],let's jump on #wenurses this eve! https://t.co/qNSBnQ8Xvw,lets jump on  this eve ,True,False
+64,64,64,1.448244172176171e+18,2021-10-13 11:08:12+00:00,['1448244172176171012'],@SAPHNAsharonOBE What are your thoughts on this conversaton everyone?, what are your thoughts on this conversaton everyone,True,False
+72,72,72,1.4360462043165532e+18,2021-09-09 19:17:50+00:00,['1436046204316553225'],@sharon_kempson @lynnewalsall us too :) #WeNurseAcademics,  us too  ,True,False
+81,81,81,1.4030735709772923e+18,2021-06-10 19:36:21+00:00,['1403073570977292299'],Great question #WeNurses https://t.co/rAWkE89IeB,great question  ,True,False
+83,83,83,1.4030687164688138e+18,2021-06-10 19:17:04+00:00,['1403068716468813824'],Do you have a carers champion ? #WeNurses https://t.co/LihTHiteWs,do you have a carers champion   ,True,False
+84,84,84,1.403066270564692e+18,2021-06-10 19:07:21+00:00,['1403066270564691972'],Question 1 #WeNurses https://t.co/67227tYoL3,question 1  ,True,False
+86,86,86,1.4030654024234025e+18,2021-06-10 19:03:54+00:00,['1403065402423402502'],Hello everyone #WeNurses https://t.co/znqXiYBtu2,hello everyone  ,True,False
 87,87,87,1.40306375719927e+18,2021-06-10 18:57:22+00:00,['1403063757199269893'],"Join in at 8pm folks &gt; 
 
-#WeNurses https://t.co/Q6D4AklJES"
-89,89,89,1.4028933141988393e+18,2021-06-10 07:40:05+00:00,['1402893314198839297'],@maureenhudd @HenSloman @SAPHNAteam So true
-92,92,92,1.40216239719705e+18,2021-06-08 07:15:41+00:00,['1402162397197049856'],"@DemiRoberts20 Hi Demi, School nurses have a Specialist Degree in community and public health nursing (SCPHN - School nursing)"
-95,95,95,1.395639143221375e+18,2021-05-21 07:14:36+00:00,['1395639143221374977'],@stnpaeds_Ellena Enjoy!
-97,97,97,1.3945498654227702e+18,2021-05-18 07:06:12+00:00,['1394549865422770177'],@SAPHNAsharonOBE @kennygibsonnhs @RandallCath @SarahCerioli @acserrao76 @suzannesmith28 @DavidLeanLeano @VivJBennett @NHSsafeguarding @PhilipWinterbo1 @joycefletcher18 @RavinderKondel @figrossick @CNOEngland @HilaryGarratt @BecsReynoldsNHS @MAAPPUK @MidwivesRCM @iHealthVisiting @Chelleefarnan @CathySheehan8 @SmithPennyNHSEI @EssParent @KNFMHBV @safelives_ @StopItNowUK @anneliese_ht @teamCNO_ @MSHelpline @NaeemFadiaNHS @LizzyEJRat @JoanneJJH @safeguardingGP @NNDHP @SANNnhs @CSPR_Panel @MmLawrence_ @ICON_COPE @nickrudling @ClaireSMason @rachelmarie78 @lukabaduka @PillingMichelle @Pers_Care @samaritans @NSPCC @Sch4Change @AllisonCannon14 @rcgp @ZoeALane Come on School Nurses lets get sharing there is so much good practice out there
-99,99,99,1.3929161715492045e+18,2021-05-13 18:54:29+00:00,['1392916171549204480'],let's be there tweeting school nurses :) jump on #wenurses and add our voice! https://t.co/qvUTXk58bU
-101,101,101,1.3924129525154693e+18,2021-05-12 09:34:52+00:00,['1392412952515469313'],"@WendyJNicholson @SAPHNAteam @SAPHNAsharonOBE @WeNurses Thank you Wendy for the huge part you play in supporting School Nurses, both here in the UK and internationally too... have a great #ind2021 you great nurse :)"
-104,104,104,1.392383044842107e+18,2021-05-12 07:36:01+00:00,['1392383044842106880'],Thank you for all you do today we celebrate each and every one of you x https://t.co/EsytNHVljN
-105,105,105,1.3898674698131538e+18,2021-05-05 09:00:01+00:00,['1389867469813153798'],Today is World Hand Hygiene Day let us know how school nurses are getting involved https://t.co/bMhw3ur6Ef
-106,106,106,1.3898411109026406e+18,2021-05-05 07:15:17+00:00,['1389841110902640641'],good morning https://t.co/jCd2ckjIvA
-113,113,113,1.3871072067352166e+18,2021-04-27 18:11:43+00:00,['1387107206735216642'],Question 2 #ExpOfCare https://t.co/rFXTEal4bR
-115,115,115,1.3852311629063946e+18,2021-04-22 13:57:00+00:00,['1385231162906394624'],Next Week lots going on via #ExpOfCare https://t.co/l8h6tFnAN7
-120,120,120,1.3844105120715653e+18,2021-04-20 07:36:01+00:00,['1384410512071565313'],"Good morning School Nursing world, what you up to today? https://t.co/UKZS7yUfk3"
-122,122,122,1.3844075127498383e+18,2021-04-20 07:24:06+00:00,['1384407512749838337'],@WeStudentNurse https://t.co/K2DtGdEkhj
-124,124,124,1.3840425451942912e+18,2021-04-19 07:13:51+00:00,['1384042545194291205'],Good Morning Happy Summer term!!! https://t.co/PWEMPmKIBW
+#WeNurses https://t.co/Q6D4AklJES","join in at 8pm folks gt 
+
+ ",True,False
+89,89,89,1.4028933141988393e+18,2021-06-10 07:40:05+00:00,['1402893314198839297'],@maureenhudd @HenSloman @SAPHNAteam So true,   so true,True,False
+92,92,92,1.40216239719705e+18,2021-06-08 07:15:41+00:00,['1402162397197049856'],"@DemiRoberts20 Hi Demi, School nurses have a Specialist Degree in community and public health nursing (SCPHN - School nursing)", hi demi school nurses have a specialist degree in community and public health nursing scphn  school nursing,True,False
+95,95,95,1.395639143221375e+18,2021-05-21 07:14:36+00:00,['1395639143221374977'],@stnpaeds_Ellena Enjoy!, enjoy,True,False
+97,97,97,1.3945498654227702e+18,2021-05-18 07:06:12+00:00,['1394549865422770177'],@SAPHNAsharonOBE @kennygibsonnhs @RandallCath @SarahCerioli @acserrao76 @suzannesmith28 @DavidLeanLeano @VivJBennett @NHSsafeguarding @PhilipWinterbo1 @joycefletcher18 @RavinderKondel @figrossick @CNOEngland @HilaryGarratt @BecsReynoldsNHS @MAAPPUK @MidwivesRCM @iHealthVisiting @Chelleefarnan @CathySheehan8 @SmithPennyNHSEI @EssParent @KNFMHBV @safelives_ @StopItNowUK @anneliese_ht @teamCNO_ @MSHelpline @NaeemFadiaNHS @LizzyEJRat @JoanneJJH @safeguardingGP @NNDHP @SANNnhs @CSPR_Panel @MmLawrence_ @ICON_COPE @nickrudling @ClaireSMason @rachelmarie78 @lukabaduka @PillingMichelle @Pers_Care @samaritans @NSPCC @Sch4Change @AllisonCannon14 @rcgp @ZoeALane Come on School Nurses lets get sharing there is so much good practice out there,                                                  come on school nurses lets get sharing there is so much good practice out there,True,False
+99,99,99,1.3929161715492045e+18,2021-05-13 18:54:29+00:00,['1392916171549204480'],let's be there tweeting school nurses :) jump on #wenurses and add our voice! https://t.co/qvUTXk58bU,lets be there tweeting school nurses  jump on  and add our voice ,True,False
+101,101,101,1.3924129525154693e+18,2021-05-12 09:34:52+00:00,['1392412952515469313'],"@WendyJNicholson @SAPHNAteam @SAPHNAsharonOBE @WeNurses Thank you Wendy for the huge part you play in supporting School Nurses, both here in the UK and internationally too... have a great #ind2021 you great nurse :)",    thank you wendy for the huge part you play in supporting school nurses both here in the uk and internationally too have a great  you great nurse ,True,False
+104,104,104,1.392383044842107e+18,2021-05-12 07:36:01+00:00,['1392383044842106880'],Thank you for all you do today we celebrate each and every one of you x https://t.co/EsytNHVljN,thank you for all you do today we celebrate each and every one of you x ,True,False
+105,105,105,1.3898674698131538e+18,2021-05-05 09:00:01+00:00,['1389867469813153798'],Today is World Hand Hygiene Day let us know how school nurses are getting involved https://t.co/bMhw3ur6Ef,today is world hand hygiene day let us know how school nurses are getting involved ,True,False
+106,106,106,1.3898411109026406e+18,2021-05-05 07:15:17+00:00,['1389841110902640641'],good morning https://t.co/jCd2ckjIvA,good morning ,True,False
+113,113,113,1.3871072067352166e+18,2021-04-27 18:11:43+00:00,['1387107206735216642'],Question 2 #ExpOfCare https://t.co/rFXTEal4bR,question 2  ,True,False
+115,115,115,1.3852311629063946e+18,2021-04-22 13:57:00+00:00,['1385231162906394624'],Next Week lots going on via #ExpOfCare https://t.co/l8h6tFnAN7,next week lots going on via  ,True,False
+120,120,120,1.3844105120715653e+18,2021-04-20 07:36:01+00:00,['1384410512071565313'],"Good morning School Nursing world, what you up to today? https://t.co/UKZS7yUfk3",good morning school nursing world what you up to today ,True,False
+124,124,124,1.3840425451942912e+18,2021-04-19 07:13:51+00:00,['1384042545194291205'],Good Morning Happy Summer term!!! https://t.co/PWEMPmKIBW,good morning happy summer term ,True,False
 125,125,125,1.3830185837568328e+18,2021-04-16 11:25:00+00:00,['1383018583756832768'],"Have you heard .... #ExpOfCare Week starts on 26th April ..... 
 
-Read all about this crucial week of short burst learning here &gt; https://t.co/dZkwIseshY"
-127,127,127,1.3822306656897106e+18,2021-04-14 07:14:05+00:00,['1382230665689710596'],Have a great day https://t.co/9l5MCpEGx1
-128,128,128,1.3804183607904215e+18,2021-04-09 07:12:38+00:00,['1380418360790421505'],Please take the time to read so important for us all https://t.co/tVaPJ9wcKr
-130,130,130,1.3750017514562068e+18,2021-03-25 08:28:58+00:00,['1375001751456206848'],https://t.co/ywPyYw08Dz
-132,132,132,1.374281995207938e+18,2021-03-23 08:48:55+00:00,['1374281995207938048'],"Have a great Tuesday, what are we all up to? https://t.co/1PvifJjxAm"
-134,134,134,1.37285639171985e+18,2021-03-19 10:24:04+00:00,['1372856391719849984'],"Fridays here, have a great day! https://t.co/N2H8jk2H6W"
-136,136,136,1.3724670021121477e+18,2021-03-18 08:36:47+00:00,['1372467002112147461'],@SN_StockportNHS Really interesting cant wait to hear how it goes
-139,139,139,1.3724667874224988e+18,2021-03-18 08:35:55+00:00,['1372466787422498816'],@craggs_dj Enjoy x
-141,141,141,1.3724662345418916e+18,2021-03-18 08:33:44+00:00,['1372466234541891586'],"@Nic_La_Nurse We are, wouldn't have it any other way x"
-145,145,145,1.3724654187330355e+18,2021-03-18 08:30:29+00:00,['1372465418733035526'],good morning! have a great day!! https://t.co/2bkQMgG63F
-146,146,146,1.3721884713690683e+18,2021-03-17 14:10:00+00:00,['1372188471369068551'],If you could have a moment with our countries decision makers to say one thing about school nursing what would it be?
-147,147,147,1.3721738750735442e+18,2021-03-17 13:12:00+00:00,['1372173875073544192'],Thought from the school nursing world? https://t.co/cs4GN2pnMA
+Read all about this crucial week of short burst learning here &gt; https://t.co/dZkwIseshY","have you heard   week starts on 26th april  
+
+read all about this crucial week of short burst learning here gt ",True,False
+127,127,127,1.3822306656897106e+18,2021-04-14 07:14:05+00:00,['1382230665689710596'],Have a great day https://t.co/9l5MCpEGx1,have a great day ,True,False
+128,128,128,1.3804183607904215e+18,2021-04-09 07:12:38+00:00,['1380418360790421505'],Please take the time to read so important for us all https://t.co/tVaPJ9wcKr,please take the time to read so important for us all ,True,False
+130,130,130,1.3750017514562068e+18,2021-03-25 08:28:58+00:00,['1375001751456206848'],https://t.co/ywPyYw08Dz,,True,False
+132,132,132,1.374281995207938e+18,2021-03-23 08:48:55+00:00,['1374281995207938048'],"Have a great Tuesday, what are we all up to? https://t.co/1PvifJjxAm",have a great tuesday what are we all up to ,True,False
+134,134,134,1.37285639171985e+18,2021-03-19 10:24:04+00:00,['1372856391719849984'],"Fridays here, have a great day! https://t.co/N2H8jk2H6W",fridays here have a great day ,True,False
+136,136,136,1.3724670021121477e+18,2021-03-18 08:36:47+00:00,['1372467002112147461'],@SN_StockportNHS Really interesting cant wait to hear how it goes, really interesting cant wait to hear how it goes,True,False
+139,139,139,1.3724667874224988e+18,2021-03-18 08:35:55+00:00,['1372466787422498816'],@craggs_dj Enjoy x, enjoy x,True,False
+141,141,141,1.3724662345418916e+18,2021-03-18 08:33:44+00:00,['1372466234541891586'],"@Nic_La_Nurse We are, wouldn't have it any other way x", we are wouldnt have it any other way x,True,False
+145,145,145,1.3724654187330355e+18,2021-03-18 08:30:29+00:00,['1372465418733035526'],good morning! have a great day!! https://t.co/2bkQMgG63F,good morning have a great day ,True,False
+146,146,146,1.3721884713690683e+18,2021-03-17 14:10:00+00:00,['1372188471369068551'],If you could have a moment with our countries decision makers to say one thing about school nursing what would it be?,if you could have a moment with our countries decision makers to say one thing about school nursing what would it be,True,False
+147,147,147,1.3721738750735442e+18,2021-03-17 13:12:00+00:00,['1372173875073544192'],Thought from the school nursing world? https://t.co/cs4GN2pnMA,thought from the school nursing world ,True,False
 148,148,148,1.372158020839297e+18,2021-03-17 12:09:00+00:00,['1372158020839297029'],"Loving this, lets help get CYP voices heard! @ChildrensComm 
 
-https://t.co/hIVbwW06BZ"
+https://t.co/hIVbwW06BZ","loving this lets help get cyp voices heard  
+
+",True,False
 149,149,149,1.3721273185340908e+18,2021-03-17 10:07:00+00:00,['1372127318534090753'],"If you haven't seen this already it is a must!
 
-https://t.co/fBV55aKi7g"
-154,154,154,1.3720966526857585e+18,2021-03-17 08:05:08+00:00,['1372096652685758465'],@MikeBellSN So busy but what an amazing day!  Love school nursing
-158,158,158,1.3720960654077133e+18,2021-03-17 08:02:48+00:00,['1372096065407713285'],@JamieWaterall @WendyJNicholson @lynrayz @VivJBennett @Alison_Morton2 @PHE_uk @HelenDon_RCN @SAPHNAsharonOBE @CatherineSwann_ @FNPNationalUnit Looking forward to hearing more
-160,160,160,1.372095901787902e+18,2021-03-17 08:02:09+00:00,['1372095901787901952'],Good Morning School Nursing World! https://t.co/PmpQyfdVAw
-164,164,164,1.3717467823765545e+18,2021-03-16 08:54:53+00:00,['1371746782376554499'],@dibooth143 @SAPHNAsharonOBE @NHSEngland @russellviner @jimmcmanusph @LGAWellbeing @MattHancock @vickyford Absolutely and we are already in place
-166,166,166,1.3717464585175368e+18,2021-03-16 08:53:36+00:00,['1371746458517536769'],@SandwellSN Fabulous come on School Nursing world I reckon we can all get dancing 😀😀
-168,168,168,1.3714274566708593e+18,2021-03-15 11:46:00+00:00,['1371427456670859265'],"As we embark on a new School Nursing week, let us know what you have planned?"
-169,169,169,1.3713671539123978e+18,2021-03-15 07:46:22+00:00,['1371367153912397824'],https://t.co/hL2ySdtsSL
-172,172,172,1.3703621421599334e+18,2021-03-12 13:12:49+00:00,['1370362142159933440'],@sweetpeateasda1 @kimwright741 Busy good? Hope everyone is remember to look after themselves x
-173,173,173,1.3703438206725325e+18,2021-03-12 12:00:01+00:00,['1370343820672532482'],So our first official week back has passed how has it been out there?
-174,174,174,1.370277630189187e+18,2021-03-12 07:37:00+00:00,['1370277630189187077'],Happy Friday! https://t.co/FkkmXtgUIG
-180,180,180,1.3700247268572774e+18,2021-03-11 14:52:03+00:00,['1370024726857277442'],@mumofdancingirl That's really good to hear we have all had to adapt but still achieving positive outcomes
-181,181,181,1.369990031138521e+18,2021-03-11 12:34:11+00:00,['1369990031138521088'],@mumofdancingirl Fab were they happy to do it?
-182,182,182,1.3699738795280343e+18,2021-03-11 11:30:00+00:00,['1369973879528034308'],We have seen some amazing examples over the past year of how SN teams have adapted during COVID what has been the biggest change for you in service delivery?
-183,183,183,1.3699663376495002e+18,2021-03-11 11:00:02+00:00,['1369966337649500162'],We will never forget you x https://t.co/QelcaxagwR
-184,184,184,1.3699638124811592e+18,2021-03-11 10:50:00+00:00,['1369963812481159171'],We will be joining the min silence today to recognise those nurses we have lost during this pandemic.  Our lost hero's we will never forget x
-185,185,185,1.3699225418805084e+18,2021-03-11 08:06:00+00:00,['1369922541880508417'],A minute’s silence for nurses to mark pandemic anniversary https://t.co/5bHU2kLQde
-187,187,187,1.3699134815547064e+18,2021-03-11 07:30:00+00:00,['1369913481554706434'],Have a great day! https://t.co/Sll8LcApN3
-189,189,189,1.369741187435946e+18,2021-03-10 20:05:22+00:00,['1369741187435945993'],@AshcroftBen @deniseclooney Every Child Leaving Care Matters #ECLCM
-197,197,197,1.3697223589116027e+18,2021-03-10 18:50:33+00:00,['1369722358911602692'],@SAPHNAsharonOBE Fabulous you are all amazing!
-200,200,200,1.369665745643258e+18,2021-03-10 15:05:35+00:00,['1369665745643257856'],@AliH2009 Enjoy!
-202,202,202,1.369665266037166e+18,2021-03-10 15:03:41+00:00,['1369665266037166085'],@sarafidelia FAB
-205,205,205,1.369665086411993e+18,2021-03-10 15:02:58+00:00,['1369665086411993093'],@NHFTSchoolNurse These are fantastic! thanks for sharing
-206,206,206,1.36964924069623e+18,2021-03-10 14:00:00+00:00,['1369649240696229889'],"Who's already completed their application, if you haven't why not?! You are all amazing, you all make a difference every day! Let shout about it! Do it......... you know you want to! https://t.co/m7chVwxQIT"
-207,207,207,1.3696190483805676e+18,2021-03-10 12:00:02+00:00,['1369619048380567552'],"Making a 'calming kit' a fab way to support CYP, what other ways are school nurses supporting CYP's emotional health and well being at this challenging time? https://t.co/zX2zsJrVO0"
-208,208,208,1.3695838088156324e+18,2021-03-10 09:40:00+00:00,['1369583808815632387'],What's going on in your School Nursing world today? let us know what your up too
-209,209,209,1.3695510931522929e+18,2021-03-10 07:30:00+00:00,['1369551093152292864'],Have a good one! https://t.co/e4CgXv2gDf
-210,210,210,1.3693904893052887e+18,2021-03-09 20:51:49+00:00,['1369390489305288707'],@AlderHey @TheForumAH Thank you Darcie some amazing advice x
-212,212,212,1.369389965344469e+18,2021-03-09 20:49:44+00:00,['1369389965344468995'],@SAPHNAsharonOBE @kennygibsonnhs @NHSsafeguarding Thanks for sharing this is really good will def be encouraging people to watch
-216,216,216,1.3693846314186834e+18,2021-03-09 20:28:32+00:00,['1369384631418683395'],School Nurses have done it before (2015)! Get sharing/nominating all that fantastic practice! https://t.co/m7chVwPs7t
-217,217,217,1.3693829080588902e+18,2021-03-09 20:21:41+00:00,['1369382908058890245'],@SAPHNAsharonOBE How fantastic lets get nominating!!!!!!!!!!
-218,218,218,1.369382665758122e+18,2021-03-09 20:20:44+00:00,['1369382665758121988'],@SchoolNurseG Fabulous
-220,220,220,1.369382570102841e+18,2021-03-09 20:20:21+00:00,['1369382570102841347'],@Nic_La_Nurse @SAPHNAsharonOBE Really interesting hope some one out there can help
-222,222,222,1.3693475054697267e+18,2021-03-09 18:01:01+00:00,['1369347505469726724'],"@schnurscot without a doubt, I love the being present, thank you!"
-224,224,224,1.3693473091721093e+18,2021-03-09 18:00:14+00:00,['1369347309172109314'],@carolinehodgkin Absolutely!!!
-228,228,228,1.36930149731029e+18,2021-03-09 14:58:12+00:00,['1369301497310289924'],@HenSloman Brilliant!
-230,230,230,1.3693007375330222e+18,2021-03-09 14:55:10+00:00,['1369300737533022213'],@HRGSN Love it!
-232,232,232,1.3693006279023045e+18,2021-03-09 14:54:44+00:00,['1369300627902304267'],@rachemarie78 Always!
-234,234,234,1.3692868553640223e+18,2021-03-09 14:00:01+00:00,['1369286855364022274'],"So I have had the privilege of spending the morning talking to parents who have concerns and anxieties about sending their children back to school, just one of the challenges we are supporting at this time, let us know the challenges you are picking up.."
-235,235,235,1.369264203283001e+18,2021-03-09 12:30:00+00:00,['1369264203283001348'],If you had to describe the impact you have on CYP as a school nurse in 3 words what would they be?
-236,236,236,1.3692116065722982e+18,2021-03-09 09:01:00+00:00,['1369211606572298240'],How did our CYP's 1st day back go? Let us know your experiences and challenges or your highlights of getting back into schools
-240,240,240,1.369188705798394e+18,2021-03-09 07:30:00+00:00,['1369188705798393856'],Morning school nursing world welcome to Tuesday https://t.co/edmOMe14HJ
-244,244,244,1.3688867151511265e+18,2021-03-08 11:30:00+00:00,['1368886715151126532'],Hows your day going are we truly ready for the surge in support needed that is coming our way?  Let us know what SNing servs. are putting into place in your area to support CYP transition back to school.
-246,246,246,1.3688489752567153e+18,2021-03-08 09:00:02+00:00,['1368848975256715265'],Good Morning School Nursing world!  Whilst School Nursing has def. NOT stopped during lockdown how wonderful to be able to finally welcome CYP back.  Let us know how your day goes
-252,252,252,1.3688187690495263e+18,2021-03-08 07:00:00+00:00,['1368818769049526280'],"Good Morning  wishing all Children, Young People returning to school / college today the best of luck!  School Nurses across the country are here to help!"
-253,253,253,1.3686796535908516e+18,2021-03-07 21:47:12+00:00,['1368679653590851588'],@DeanEggitt @SAPHNAsharonOBE @JayneAshby6 Lets let @DeanEggitt know our view as front line practicing SN's how do we highlight our role how do we attract the attention of the decision makers?
-260,260,260,1.368675111939752e+18,2021-03-07 21:29:10+00:00,['1368675111939751941'],@DeanEggitt @SAPHNAsharonOBE @JayneAshby6 Is now the time again for us to stand up and be counted and share the thousands and thousands of CYP being seen everyday by school nursing services.  Give us a platform and we will shout and share with CYP standing right at the front.
-261,261,261,1.368673700841722e+18,2021-03-07 21:23:33+00:00,['1368673700841721861'],@SAPHNAsharonOBE Really great resource for all to her the voice of young people
-264,264,264,1.3686702698968105e+18,2021-03-07 21:09:55+00:00,['1368670269896810497'],So its return to School Eve!!  How are we all feeling?
-279,279,279,1.3570360911199846e+18,2021-02-03 18:39:51+00:00,['1357036091119984641'],Question 1 - incase you missed it #WeNurses https://t.co/NYmPu2UETm
-280,280,280,1.3570341659344282e+18,2021-02-03 18:32:12+00:00,['1357034165934428169'],Hi everyone #WeNurses https://t.co/IHl3fqykwa
+https://t.co/fBV55aKi7g","if you havent seen this already it is a must
+
+",True,False
+154,154,154,1.3720966526857585e+18,2021-03-17 08:05:08+00:00,['1372096652685758465'],@MikeBellSN So busy but what an amazing day!  Love school nursing, so busy but what an amazing day  love school nursing,True,False
+158,158,158,1.3720960654077133e+18,2021-03-17 08:02:48+00:00,['1372096065407713285'],@JamieWaterall @WendyJNicholson @lynrayz @VivJBennett @Alison_Morton2 @PHE_uk @HelenDon_RCN @SAPHNAsharonOBE @CatherineSwann_ @FNPNationalUnit Looking forward to hearing more,          looking forward to hearing more,True,False
+160,160,160,1.372095901787902e+18,2021-03-17 08:02:09+00:00,['1372095901787901952'],Good Morning School Nursing World! https://t.co/PmpQyfdVAw,good morning school nursing world ,True,False
+164,164,164,1.3717467823765545e+18,2021-03-16 08:54:53+00:00,['1371746782376554499'],@dibooth143 @SAPHNAsharonOBE @NHSEngland @russellviner @jimmcmanusph @LGAWellbeing @MattHancock @vickyford Absolutely and we are already in place,        absolutely and we are already in place,True,False
+166,166,166,1.3717464585175368e+18,2021-03-16 08:53:36+00:00,['1371746458517536769'],@SandwellSN Fabulous come on School Nursing world I reckon we can all get dancing 😀😀, fabulous come on school nursing world i reckon we can all get dancing ,True,False
+168,168,168,1.3714274566708593e+18,2021-03-15 11:46:00+00:00,['1371427456670859265'],"As we embark on a new School Nursing week, let us know what you have planned?",as we embark on a new school nursing week let us know what you have planned,True,False
+169,169,169,1.3713671539123978e+18,2021-03-15 07:46:22+00:00,['1371367153912397824'],https://t.co/hL2ySdtsSL,,True,False
+172,172,172,1.3703621421599334e+18,2021-03-12 13:12:49+00:00,['1370362142159933440'],@sweetpeateasda1 @kimwright741 Busy good? Hope everyone is remember to look after themselves x,  busy good hope everyone is remember to look after themselves x,True,False
+173,173,173,1.3703438206725325e+18,2021-03-12 12:00:01+00:00,['1370343820672532482'],So our first official week back has passed how has it been out there?,so our first official week back has passed how has it been out there,True,False
+174,174,174,1.370277630189187e+18,2021-03-12 07:37:00+00:00,['1370277630189187077'],Happy Friday! https://t.co/FkkmXtgUIG,happy friday ,True,False
+180,180,180,1.3700247268572774e+18,2021-03-11 14:52:03+00:00,['1370024726857277442'],@mumofdancingirl That's really good to hear we have all had to adapt but still achieving positive outcomes, thats really good to hear we have all had to adapt but still achieving positive outcomes,True,False
+181,181,181,1.369990031138521e+18,2021-03-11 12:34:11+00:00,['1369990031138521088'],@mumofdancingirl Fab were they happy to do it?, fab were they happy to do it,True,False
+182,182,182,1.3699738795280343e+18,2021-03-11 11:30:00+00:00,['1369973879528034308'],We have seen some amazing examples over the past year of how SN teams have adapted during COVID what has been the biggest change for you in service delivery?,we have seen some amazing examples over the past year of how sn teams have adapted during covid what has been the biggest change for you in service delivery,True,False
+183,183,183,1.3699663376495002e+18,2021-03-11 11:00:02+00:00,['1369966337649500162'],We will never forget you x https://t.co/QelcaxagwR,we will never forget you x ,True,False
+184,184,184,1.3699638124811592e+18,2021-03-11 10:50:00+00:00,['1369963812481159171'],We will be joining the min silence today to recognise those nurses we have lost during this pandemic.  Our lost hero's we will never forget x,we will be joining the min silence today to recognise those nurses we have lost during this pandemic  our lost heros we will never forget x,True,False
+185,185,185,1.3699225418805084e+18,2021-03-11 08:06:00+00:00,['1369922541880508417'],A minute’s silence for nurses to mark pandemic anniversary https://t.co/5bHU2kLQde,a minute’s silence for nurses to mark pandemic anniversary ,True,False
+187,187,187,1.3699134815547064e+18,2021-03-11 07:30:00+00:00,['1369913481554706434'],Have a great day! https://t.co/Sll8LcApN3,have a great day ,True,False
+189,189,189,1.369741187435946e+18,2021-03-10 20:05:22+00:00,['1369741187435945993'],@AshcroftBen @deniseclooney Every Child Leaving Care Matters #ECLCM,  every child leaving care matters ,True,False
+197,197,197,1.3697223589116027e+18,2021-03-10 18:50:33+00:00,['1369722358911602692'],@SAPHNAsharonOBE Fabulous you are all amazing!, fabulous you are all amazing,True,False
+200,200,200,1.369665745643258e+18,2021-03-10 15:05:35+00:00,['1369665745643257856'],@AliH2009 Enjoy!, enjoy,True,False
+202,202,202,1.369665266037166e+18,2021-03-10 15:03:41+00:00,['1369665266037166085'],@sarafidelia FAB, fab,True,False
+205,205,205,1.369665086411993e+18,2021-03-10 15:02:58+00:00,['1369665086411993093'],@NHFTSchoolNurse These are fantastic! thanks for sharing, these are fantastic thanks for sharing,True,False
+206,206,206,1.36964924069623e+18,2021-03-10 14:00:00+00:00,['1369649240696229889'],"Who's already completed their application, if you haven't why not?! You are all amazing, you all make a difference every day! Let shout about it! Do it......... you know you want to! https://t.co/m7chVwxQIT",whos already completed their application if you havent why not you are all amazing you all make a difference every day let shout about it do it you know you want to ,True,False
+207,207,207,1.3696190483805676e+18,2021-03-10 12:00:02+00:00,['1369619048380567552'],"Making a 'calming kit' a fab way to support CYP, what other ways are school nurses supporting CYP's emotional health and well being at this challenging time? https://t.co/zX2zsJrVO0",making a calming kit a fab way to support cyp what other ways are school nurses supporting cyps emotional health and well being at this challenging time ,True,False
+208,208,208,1.3695838088156324e+18,2021-03-10 09:40:00+00:00,['1369583808815632387'],What's going on in your School Nursing world today? let us know what your up too,whats going on in your school nursing world today let us know what your up too,True,False
+209,209,209,1.3695510931522929e+18,2021-03-10 07:30:00+00:00,['1369551093152292864'],Have a good one! https://t.co/e4CgXv2gDf,have a good one ,True,False
+210,210,210,1.3693904893052887e+18,2021-03-09 20:51:49+00:00,['1369390489305288707'],@AlderHey @TheForumAH Thank you Darcie some amazing advice x,  thank you darcie some amazing advice x,True,False
+212,212,212,1.369389965344469e+18,2021-03-09 20:49:44+00:00,['1369389965344468995'],@SAPHNAsharonOBE @kennygibsonnhs @NHSsafeguarding Thanks for sharing this is really good will def be encouraging people to watch,   thanks for sharing this is really good will def be encouraging people to watch,True,False
+216,216,216,1.3693846314186834e+18,2021-03-09 20:28:32+00:00,['1369384631418683395'],School Nurses have done it before (2015)! Get sharing/nominating all that fantastic practice! https://t.co/m7chVwPs7t,school nurses have done it before 2015 get sharingnominating all that fantastic practice ,True,False
+217,217,217,1.3693829080588902e+18,2021-03-09 20:21:41+00:00,['1369382908058890245'],@SAPHNAsharonOBE How fantastic lets get nominating!!!!!!!!!!, how fantastic lets get nominating,True,False
+218,218,218,1.369382665758122e+18,2021-03-09 20:20:44+00:00,['1369382665758121988'],@SchoolNurseG Fabulous, fabulous,True,False
+220,220,220,1.369382570102841e+18,2021-03-09 20:20:21+00:00,['1369382570102841347'],@Nic_La_Nurse @SAPHNAsharonOBE Really interesting hope some one out there can help,  really interesting hope some one out there can help,True,False
+222,222,222,1.3693475054697267e+18,2021-03-09 18:01:01+00:00,['1369347505469726724'],"@schnurscot without a doubt, I love the being present, thank you!", without a doubt i love the being present thank you,True,False
+224,224,224,1.3693473091721093e+18,2021-03-09 18:00:14+00:00,['1369347309172109314'],@carolinehodgkin Absolutely!!!, absolutely,True,False
+228,228,228,1.36930149731029e+18,2021-03-09 14:58:12+00:00,['1369301497310289924'],@HenSloman Brilliant!, brilliant,True,False
+230,230,230,1.3693007375330222e+18,2021-03-09 14:55:10+00:00,['1369300737533022213'],@HRGSN Love it!, love it,True,False
+232,232,232,1.3693006279023045e+18,2021-03-09 14:54:44+00:00,['1369300627902304267'],@rachemarie78 Always!, always,True,False
+234,234,234,1.3692868553640223e+18,2021-03-09 14:00:01+00:00,['1369286855364022274'],"So I have had the privilege of spending the morning talking to parents who have concerns and anxieties about sending their children back to school, just one of the challenges we are supporting at this time, let us know the challenges you are picking up..",so i have had the privilege of spending the morning talking to parents who have concerns and anxieties about sending their children back to school just one of the challenges we are supporting at this time let us know the challenges you are picking up,True,False
+235,235,235,1.369264203283001e+18,2021-03-09 12:30:00+00:00,['1369264203283001348'],If you had to describe the impact you have on CYP as a school nurse in 3 words what would they be?,if you had to describe the impact you have on cyp as a school nurse in 3 words what would they be,True,False
+236,236,236,1.3692116065722982e+18,2021-03-09 09:01:00+00:00,['1369211606572298240'],How did our CYP's 1st day back go? Let us know your experiences and challenges or your highlights of getting back into schools,how did our cyps 1st day back go let us know your experiences and challenges or your highlights of getting back into schools,True,False
+240,240,240,1.369188705798394e+18,2021-03-09 07:30:00+00:00,['1369188705798393856'],Morning school nursing world welcome to Tuesday https://t.co/edmOMe14HJ,morning school nursing world welcome to tuesday ,True,False
+244,244,244,1.3688867151511265e+18,2021-03-08 11:30:00+00:00,['1368886715151126532'],Hows your day going are we truly ready for the surge in support needed that is coming our way?  Let us know what SNing servs. are putting into place in your area to support CYP transition back to school.,hows your day going are we truly ready for the surge in support needed that is coming our way  let us know what sning servs are putting into place in your area to support cyp transition back to school,True,False
+246,246,246,1.3688489752567153e+18,2021-03-08 09:00:02+00:00,['1368848975256715265'],Good Morning School Nursing world!  Whilst School Nursing has def. NOT stopped during lockdown how wonderful to be able to finally welcome CYP back.  Let us know how your day goes,good morning school nursing world  whilst school nursing has def not stopped during lockdown how wonderful to be able to finally welcome cyp back  let us know how your day goes,True,False
+252,252,252,1.3688187690495263e+18,2021-03-08 07:00:00+00:00,['1368818769049526280'],"Good Morning  wishing all Children, Young People returning to school / college today the best of luck!  School Nurses across the country are here to help!",good morning  wishing all children young people returning to school  college today the best of luck  school nurses across the country are here to help,True,False
+253,253,253,1.3686796535908516e+18,2021-03-07 21:47:12+00:00,['1368679653590851588'],@DeanEggitt @SAPHNAsharonOBE @JayneAshby6 Lets let @DeanEggitt know our view as front line practicing SN's how do we highlight our role how do we attract the attention of the decision makers?,   lets let  know our view as front line practicing sns how do we highlight our role how do we attract the attention of the decision makers,True,False
+260,260,260,1.368675111939752e+18,2021-03-07 21:29:10+00:00,['1368675111939751941'],@DeanEggitt @SAPHNAsharonOBE @JayneAshby6 Is now the time again for us to stand up and be counted and share the thousands and thousands of CYP being seen everyday by school nursing services.  Give us a platform and we will shout and share with CYP standing right at the front.,   is now the time again for us to stand up and be counted and share the thousands and thousands of cyp being seen everyday by school nursing services  give us a platform and we will shout and share with cyp standing right at the front,True,False
+261,261,261,1.368673700841722e+18,2021-03-07 21:23:33+00:00,['1368673700841721861'],@SAPHNAsharonOBE Really great resource for all to her the voice of young people, really great resource for all to her the voice of young people,True,False
+264,264,264,1.3686702698968105e+18,2021-03-07 21:09:55+00:00,['1368670269896810497'],So its return to School Eve!!  How are we all feeling?,so its return to school eve  how are we all feeling,True,False
+279,279,279,1.3570360911199846e+18,2021-02-03 18:39:51+00:00,['1357036091119984641'],Question 1 - incase you missed it #WeNurses https://t.co/NYmPu2UETm,question 1  incase you missed it  ,True,False
+280,280,280,1.3570341659344282e+18,2021-02-03 18:32:12+00:00,['1357034165934428169'],Hi everyone #WeNurses https://t.co/IHl3fqykwa,hi everyone  ,True,False
 282,282,282,1.3568711097114378e+18,2021-02-03 07:44:16+00:00,['1356871109711437824'],"Join in tonight from 6:30pm 
 
-#WeNurses https://t.co/eFOO58WoK9"
+#WeNurses https://t.co/eFOO58WoK9","join in tonight from 630pm 
+
+ ",True,False
 288,288,288,1.3486078425347604e+18,2021-01-11 12:29:00+00:00,['1348607842534760449'],"A quiet week for We this week with one tweetchat ... but what a topic! 
 
-Thursday 8:15pm #WeNurses ""Let's talk about sex"" &gt; https://t.co/vSYaOPaj1O https://t.co/6tJo031Tv3"
-290,290,290,1.3472781829284946e+18,2021-01-07 20:25:24+00:00,['1347278182928494594'],https://t.co/QKapgt4imU
+Thursday 8:15pm #WeNurses ""Let's talk about sex"" &gt; https://t.co/vSYaOPaj1O https://t.co/6tJo031Tv3","a quiet week for we this week with one tweetchat  but what a topic 
+
+thursday 815pm  lets talk about sex gt  ",True,False
+290,290,290,1.3472781829284946e+18,2021-01-07 20:25:24+00:00,['1347278182928494594'],https://t.co/QKapgt4imU,,True,False
 292,292,292,1.3460882401561928e+18,2021-01-04 13:37:00+00:00,['1346088240156192769'],"Just one Tweetchat coming up this week:
 
 Thurs 8pm #WeNurses &gt; Nurse leadership and social media  https://t.co/5GQtDVin2G
 
 And an upcoming virtual workshop:
 
-Thurs 28th Jan Supporting people who are D/deaf &gt; https://t.co/o5JHTwSegV https://t.co/hOZi8ufyL3"
+Thurs 28th Jan Supporting people who are D/deaf &gt; https://t.co/o5JHTwSegV https://t.co/hOZi8ufyL3","just one tweetchat coming up this week
+
+thurs 8pm  gt nurse leadership and social media  
+
+and an upcoming virtual workshop
+
+thurs 28th jan supporting people who are ddeaf gt  ",True,False
 295,295,295,1.3359204923651604e+18,2020-12-07 12:14:00+00:00,['1335920492365160449'],"Just one tweetchat on the ""We"" schedule this week: 
 
-Thurs 8pm #WeNurses on Delegation &gt; https://t.co/GIRZgYocab https://t.co/r1LFEEeHFq"
+Thurs 8pm #WeNurses on Delegation &gt; https://t.co/GIRZgYocab https://t.co/r1LFEEeHFq","just one tweetchat on the we schedule this week 
+
+thurs 8pm  on delegation gt  ",True,False
 302,302,302,1.3308469043396198e+18,2020-11-23 12:13:22+00:00,['1330846904339619841'],"This weeks ""We"" tweetchats:
 
 TOMORROW at 8pm #1ProfessionalVoice - The value of local accreditation programmes during COVID https://t.co/PV9SbgqjFH
 
-THURS 8pm #WeNurses - Nursing globally https://t.co/xxW1y4T57H https://t.co/oILZ4i8bkI"
-306,306,306,1.3291580139539743e+18,2020-11-18 20:22:19+00:00,['1329158013953974274'],"@Chef1Wayner Hi,  hope you are feeling stronger today"
-307,307,307,1.3291564890728284e+18,2020-11-18 20:16:16+00:00,['1329156489072828416'],question 2 folks #scwchat https://t.co/5oXEC7vpaa
-308,308,308,1.3291517749392955e+18,2020-11-18 19:57:32+00:00,['1329151774939295746'],"A #selfcareweek tweetchat ... starting in 5 ... search, follow and add #scwchat to take part https://t.co/f6sDsL23oz"
+THURS 8pm #WeNurses - Nursing globally https://t.co/xxW1y4T57H https://t.co/oILZ4i8bkI","this weeks we tweetchats
+
+tomorrow at 8pm   the value of local accreditation programmes during covid 
+
+thurs 8pm   nursing globally  ",True,False
+306,306,306,1.3291580139539743e+18,2020-11-18 20:22:19+00:00,['1329158013953974274'],"@Chef1Wayner Hi,  hope you are feeling stronger today", hi  hope you are feeling stronger today,True,False
+307,307,307,1.3291564890728284e+18,2020-11-18 20:16:16+00:00,['1329156489072828416'],question 2 folks #scwchat https://t.co/5oXEC7vpaa,question 2 folks  ,True,False
+308,308,308,1.3291517749392955e+18,2020-11-18 19:57:32+00:00,['1329151774939295746'],"A #selfcareweek tweetchat ... starting in 5 ... search, follow and add #scwchat to take part https://t.co/f6sDsL23oz",a  tweetchat  starting in 5  search follow and add  to take part ,True,False
 309,309,309,1.3283081636286996e+18,2020-11-16 12:05:19+00:00,['1328308163628699651'],"Here are the ""We"" tweetchats coming up this week:
 
 Tues 8:30pm #WeLDNs - Standing up for what's right https://t.co/XcxfFOrU9q
 
 Wed 8pm #SCchat Nurses - Self Care Week https://t.co/A6iGhmnPzb
 
-Fri 8pm #SCchat Pharmacists - Self Care Week https://t.co/Ob6uAtM8RS https://t.co/5ZlUekBGg2"
+Fri 8pm #SCchat Pharmacists - Self Care Week https://t.co/Ob6uAtM8RS https://t.co/5ZlUekBGg2","here are the we tweetchats coming up this week
+
+tues 830pm   standing up for whats right 
+
+wed 8pm  nurses  self care week 
+
+fri 8pm  pharmacists  self care week  ",True,False
 311,311,311,1.3265633358825513e+18,2020-11-11 16:32:00+00:00,['1326563335882551298'],"Tonight at 8pm 
 
-Join in via #WeNurses https://t.co/4cehCMwlo5"
+Join in via #WeNurses https://t.co/4cehCMwlo5","tonight at 8pm 
+
+join in via  ",True,False
 313,313,313,1.3257783611892818e+18,2020-11-09 12:32:47+00:00,['1325778361189281794'],"This weeks Tweetchats:
 
 WEDNESDAY 8PM #WeNurses   &gt; What role does popular culture play in healthcare? with @genomicsedu https://t.co/4N96ByHpqt
 
-THURSDAY 8PM #WeAHPs &gt; Health inequalities in the context of AHP practice with @HindleLinda https://t.co/6uACfwhVrE https://t.co/dpFlKtKCTP"
+THURSDAY 8PM #WeAHPs &gt; Health inequalities in the context of AHP practice with @HindleLinda https://t.co/6uACfwhVrE https://t.co/dpFlKtKCTP","this weeks tweetchats
+
+wednesday 8pm    gt what role does popular culture play in healthcare with  
+
+thursday 8pm  gt health inequalities in the context of ahp practice with   ",True,False
 316,316,316,1.324045661055103e+18,2020-11-04 17:47:39+00:00,['1324045661055102976'],"@CharleneCapers1 At worst...
-Think about the fluent campaign and our little super spreaders, if this is not delivered there is an increased risk for the vulnerable population, deaths are prevented by this campaign"
-317,317,317,1.324044959083864e+18,2020-11-04 17:44:52+00:00,['1324044959083864064'],"@claireozz @WeCYPnurses That is good news. SNs and HVs need to be there for our children, families and schools"
-318,318,318,1.3240446505969787e+18,2020-11-04 17:43:38+00:00,['1324044650596978688'],Great to see everyone pulling together to keep our children safe and well https://t.co/1bWz2T7m3R
-321,321,321,1.3197325529540076e+18,2020-10-23 20:08:54+00:00,['1319732552954007552'],"@BevTab @waluap @10DowningStreet @RishiSunak We all need to pull together, everyone needs to do what they can. Those with the least find the most, thank you"
-325,325,325,1.3193584609627668e+18,2020-10-22 19:22:24+00:00,['1319358460962766848'],Question 3 is right here &gt; #1professionalvoice https://t.co/H5N9Ycxvt4
+Think about the fluent campaign and our little super spreaders, if this is not delivered there is an increased risk for the vulnerable population, deaths are prevented by this campaign"," at worst
+think about the fluent campaign and our little super spreaders if this is not delivered there is an increased risk for the vulnerable population deaths are prevented by this campaign",True,False
+317,317,317,1.324044959083864e+18,2020-11-04 17:44:52+00:00,['1324044959083864064'],"@claireozz @WeCYPnurses That is good news. SNs and HVs need to be there for our children, families and schools",  that is good news sns and hvs need to be there for our children families and schools,True,False
+318,318,318,1.3240446505969787e+18,2020-11-04 17:43:38+00:00,['1324044650596978688'],Great to see everyone pulling together to keep our children safe and well https://t.co/1bWz2T7m3R,great to see everyone pulling together to keep our children safe and well ,True,False
+321,321,321,1.3197325529540076e+18,2020-10-23 20:08:54+00:00,['1319732552954007552'],"@BevTab @waluap @10DowningStreet @RishiSunak We all need to pull together, everyone needs to do what they can. Those with the least find the most, thank you",    we all need to pull together everyone needs to do what they can those with the least find the most thank you,True,False
+325,325,325,1.3193584609627668e+18,2020-10-22 19:22:24+00:00,['1319358460962766848'],Question 3 is right here &gt; #1professionalvoice https://t.co/H5N9Ycxvt4,question 3 is right here gt  ,True,False
 332,332,332,1.3185545643212268e+18,2020-10-20 14:08:00+00:00,['1318554564321226754'],"Shared professional decision making ... what is it? how does it work? what are the benefits ? 
 
 Join in on Thursday at 8pm to discuss 
 
-#1ProfessionalVoice https://t.co/VmxqWqocW2"
-337,337,337,1.3166401853005169e+18,2020-10-15 07:20:56+00:00,['1316640185300516865'],@NicoleNugentPhD This is why we need to ask the questions
-342,342,342,1.3120851856393953e+18,2020-10-02 17:41:00+00:00,['1312085185639395328'],A virtual workshop to get involved with next week &gt;&gt; https://t.co/qEtMra9Akd
-343,343,343,1.3116714595180585e+18,2020-10-01 14:17:00+00:00,['1311671459518058496'],Great #AllOurHealth resource here &gt; https://t.co/oTlEI0WWBv
-350,350,350,1.3106660174929388e+18,2020-09-28 19:41:44+00:00,['1310666017492938756'],Poll 3 #WeMDT https://t.co/pMbqUhlQIB
+#1ProfessionalVoice https://t.co/VmxqWqocW2","shared professional decision making  what is it how does it work what are the benefits  
+
+join in on thursday at 8pm to discuss 
+
+ ",True,False
+337,337,337,1.3166401853005169e+18,2020-10-15 07:20:56+00:00,['1316640185300516865'],@NicoleNugentPhD This is why we need to ask the questions, this is why we need to ask the questions,True,False
+342,342,342,1.3120851856393953e+18,2020-10-02 17:41:00+00:00,['1312085185639395328'],A virtual workshop to get involved with next week &gt;&gt; https://t.co/qEtMra9Akd,a virtual workshop to get involved with next week gtgt ,True,False
+343,343,343,1.3116714595180585e+18,2020-10-01 14:17:00+00:00,['1311671459518058496'],Great #AllOurHealth resource here &gt; https://t.co/oTlEI0WWBv,great  resource here gt ,True,False
+350,350,350,1.3106660174929388e+18,2020-09-28 19:41:44+00:00,['1310666017492938756'],Poll 3 #WeMDT https://t.co/pMbqUhlQIB,poll 3  ,True,False
 359,359,359,1.3105425207245947e+18,2020-09-28 11:31:00+00:00,['1310542520724594689'],"Don't forget this at 8pm this evening folks 
 
-#WeMDT https://t.co/ETvUFNoIwm"
+#WeMDT https://t.co/ETvUFNoIwm","dont forget this at 8pm this evening folks 
+
+ ",True,False
 360,360,360,1.3098154798889042e+18,2020-09-26 11:22:00+00:00,['1309815479888904192'],"Social media for CPD/Revalidation ... yes that's a thing ! 
 
-Check out @CarrotLearning / WeCommunities these courses delivered remotely via our bespoke platform &gt; https://t.co/0hJNR5L2Dw https://t.co/seMHKxzfBR"
+Check out @CarrotLearning / WeCommunities these courses delivered remotely via our bespoke platform &gt; https://t.co/0hJNR5L2Dw https://t.co/seMHKxzfBR","social media for cpdrevalidation  yes thats a thing  
+
+check out   wecommunities these courses delivered remotely via our bespoke platform gt  ",True,False
 363,363,363,1.3091662014995784e+18,2020-09-24 16:22:00+00:00,['1309166201499578368'],"⭐⭐MONDAY at 8pm ⭐⭐
 
 Supporting people when they are experiencing / recovering from Covid-19 - A #WeMDT tweetchat 
 
 Background read here  &gt; https://t.co/0MGpNsLbDo
 
-This tweetchat will be part of a research project https://t.co/mpJL8frmPZ"
+This tweetchat will be part of a research project https://t.co/mpJL8frmPZ","monday at 8pm 
+
+supporting people when they are experiencing  recovering from covid19  a  tweetchat 
+
+background read here  gt 
+
+this tweetchat will be part of a research project ",True,False
 364,364,364,1.3091656985607864e+18,2020-09-24 16:20:00+00:00,['1309165698560786432'],"The WeShop  - the place to get:
 
 ✅Tweeting nurse badges
@@ -272,22 +392,44 @@ AND NOW
 
 ✅#10kfornursesandmidwives prize draw tickets !!! 
 
-Shop here &gt; https://t.co/1xYMbkEtbF https://t.co/0D7W4ql5Fs"
+Shop here &gt; https://t.co/1xYMbkEtbF https://t.co/0D7W4ql5Fs","the weshop   the place to get
+
+tweeting nurse badges
+tweeting nurse hydration devices 
+mugs 
+
+and now 
+
+ prize draw tickets  
+
+shop here gt  ",True,False
 365,365,365,1.3091322276749517e+18,2020-09-24 14:07:00+00:00,['1309132227674951680'],"So much going on via twitter 
 
 Did you know you can  use it for CPD/Revalidation! 
 
-Check out these awesome We / @CarrotLearning courses &gt; https://t.co/0hJNR5treW https://t.co/cv7p6na9Ma"
+Check out these awesome We / @CarrotLearning courses &gt; https://t.co/0hJNR5treW https://t.co/cv7p6na9Ma","so much going on via twitter 
+
+did you know you can  use it for cpdrevalidation 
+
+check out these awesome we   courses gt  ",True,False
 367,367,367,1.308406697405358e+18,2020-09-22 14:04:00+00:00,['1308406697405358082'],"How can we enable digital professionalism in our own organisations? 
 
 A 1 day virtual workshop from WeCommunities &amp; @CarrotLearning
 
-Book your space here &gt; https://t.co/uelYNSCJ6W https://t.co/9vlrO1pyb8"
+Book your space here &gt; https://t.co/uelYNSCJ6W https://t.co/9vlrO1pyb8","how can we enable digital professionalism in our own organisations 
+
+a 1 day virtual workshop from wecommunities amp 
+
+book your space here gt  ",True,False
 368,368,368,1.3083576236499558e+18,2020-09-22 10:49:00+00:00,['1308357623649955842'],"Support after Covid &gt; https://t.co/0MGpNsLbDo
 
 A #WeMDT Monday at 8pm 
 
-This tweetchat will be part of a research project https://t.co/N0LT8bZHHv"
+This tweetchat will be part of a research project https://t.co/N0LT8bZHHv","support after covid gt 
+
+a  monday at 8pm 
+
+this tweetchat will be part of a research project ",True,False
 373,373,373,1.3037590727353713e+18,2020-09-09 18:16:00+00:00,['1303759072735371264'],"DON'T MISS THIS
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
@@ -296,23 +438,43 @@ Join the WeNurses Team for a fun filled evening to support @CavellTrust next Tue
 
 #10kfornursesandmidwives Quiz - Book you place here &gt; https://t.co/F7emGoX4Yb
 
-💜💜💜💜💜💜💜💜💜💜 https://t.co/L1VLlmswct"
+💜💜💜💜💜💜💜💜💜💜 https://t.co/L1VLlmswct","dont miss this
+
+
+
+join the wenurses team for a fun filled evening to support  next tuesday 15th september at 8pm
+
+ quiz  book you place here gt 
+
+ ",True,False
 375,375,375,1.3030554362041754e+18,2020-09-07 19:40:00+00:00,['1303055436204175362'],"QUIZ NIGHT !!! 
 
 Tuesday 15th September at 8pm 
 
-A fun filled evening to support @CavellTrust #10kfornursesandmidwives Quiz  - Book you place here &gt; https://t.co/F7emGpeGmL https://t.co/xUheI9dySR"
+A fun filled evening to support @CavellTrust #10kfornursesandmidwives Quiz  - Book you place here &gt; https://t.co/F7emGpeGmL https://t.co/xUheI9dySR","quiz night  
+
+tuesday 15th september at 8pm 
+
+a fun filled evening to support   quiz   book you place here gt  ",True,False
 376,376,376,1.3030410916130693e+18,2020-09-07 18:43:00+00:00,['1303041091613069314'],"💜💜#10kfornursesandmidwives Quiz  Night 💜💜
 
 Join the WeNurses Team for a fun filled evening to support @CavellTrust on Tuesday 15th September at 8pm 
 
-Book you place here &gt; https://t.co/F7emGoX4Yb https://t.co/jleP6lDGNG"
+Book you place here &gt; https://t.co/F7emGoX4Yb https://t.co/jleP6lDGNG"," quiz  night 
+
+join the wenurses team for a fun filled evening to support  on tuesday 15th september at 8pm 
+
+book you place here gt  ",True,False
 383,383,383,1.292779475168637e+18,2020-08-10 11:07:00+00:00,['1292779475168636929'],"Medals help to support the WeActiveChallenge and keep it running ... so thank you to everyone who has ordered one so far ... we are loving seeing your medal pics
 
 If you haven't ordered yours yet here is the link &gt; &gt; https://t.co/7AsQHbvgqE
 
-#NursesActive https://t.co/ccOhm3Mgcg"
-384,384,384,1.2911177698791055e+18,2020-08-05 21:03:58+00:00,['1291117769879105537'],@waluap @NWBH_childrens @SbarberNWBH Great video. Love how School Nurses are finding new ways to engage children and families
+#NursesActive https://t.co/ccOhm3Mgcg","medals help to support the weactivechallenge and keep it running  so thank you to everyone who has ordered one so far  we are loving seeing your medal pics
+
+if you havent ordered yours yet here is the link gt gt 
+
+ ",True,False
+384,384,384,1.2911177698791055e+18,2020-08-05 21:03:58+00:00,['1291117769879105537'],@waluap @NWBH_childrens @SbarberNWBH Great video. Love how School Nurses are finding new ways to engage children and families,   great video love how school nurses are finding new ways to engage children and families,True,False
 385,385,385,1.291073735592616e+18,2020-08-05 18:09:00+00:00,['1291073735592615936'],"WeActiveChallenge 2020 Links
 
 WeActiveChallenge Leaderboard is here &gt; https://t.co/po8RHIUSAq
@@ -323,62 +485,110 @@ Order a medal here &gt; https://t.co/g0gVA93JIH
 
 How to take part instructions in pic &gt;&gt;&gt; 
 
-#NursesActive https://t.co/rlGgdOAnLq"
+#NursesActive https://t.co/rlGgdOAnLq","weactivechallenge 2020 links
+
+weactivechallenge leaderboard is here gt 
+
+weactivechallenge wedidit board gt 
+
+order a medal here gt 
+
+how to take part instructions in pic gtgtgt 
+
+ ",True,False
 386,386,386,1.2903628014672282e+18,2020-08-03 19:04:00+00:00,['1290362801467228160'],"Have you ordered your #NursesActive Medal ? 
 
 WeActiveChallenge 2020 Medals can be ordered here &gt;  &gt; https://t.co/7AsQHbdF24
 
-Medals help to support the challenge and keep it running ... THANK YOU to everyone who has supported the challenge so far :D https://t.co/2TAEHUVgDc"
-388,388,388,1.2893098745018204e+18,2020-07-31 21:20:02+00:00,['1289309874501820416'],Fantastic #NursesActive https://t.co/P7v3IXB68v
+Medals help to support the challenge and keep it running ... THANK YOU to everyone who has supported the challenge so far :D https://t.co/2TAEHUVgDc","have you ordered your  medal  
+
+weactivechallenge 2020 medals can be ordered here gt  gt 
+
+medals help to support the challenge and keep it running  thank you to everyone who has supported the challenge so far d ",True,False
+388,388,388,1.2893098745018204e+18,2020-07-31 21:20:02+00:00,['1289309874501820416'],Fantastic #NursesActive https://t.co/P7v3IXB68v,fantastic  ,True,False
 389,389,389,1.289258776416129e+18,2020-07-31 17:57:00+00:00,['1289258776416129029'],"Are you ready to be more active in August ?
 
-#NursesActive https://t.co/ZqACtGb1lT"
+#NursesActive https://t.co/ZqACtGb1lT","are you ready to be more active in august 
+
+ ",True,False
 391,391,391,1.288762284685308e+18,2020-07-30 09:04:07+00:00,['1288762284685307910'],"Starts on Saturday ! 
 
-#NursesActive https://t.co/cDTJbD8UxL"
+#NursesActive https://t.co/cDTJbD8UxL","starts on saturday  
+
+ ",True,False
 392,392,392,1.2863858460110602e+18,2020-07-23 19:41:00+00:00,['1286385846011060224'],"WeActiveChallenge 2020  - It's time to warm up #NursesActive !
 
 More info here &gt; https://t.co/TkpgQFVV46
 
-MEDALS here &gt; https://t.co/7AsQHbdF24 https://t.co/blFdH0T09k"
-395,395,395,1.285825998555054e+18,2020-07-22 06:36:22+00:00,['1285825998555054081'],Are you expecting students to attend the work place? https://t.co/MMd0CdTofy
-397,397,397,1.285564279454929e+18,2020-07-21 13:16:23+00:00,['1285564279454928896'],"Afternoon everyone. As we return to delivering more of our services and  the ""new normal"".  How are you supporting pre reg students to meet their outcomes?"
+MEDALS here &gt; https://t.co/7AsQHbdF24 https://t.co/blFdH0T09k","weactivechallenge 2020   its time to warm up  
+
+more info here gt 
+
+medals here gt  ",True,False
+395,395,395,1.285825998555054e+18,2020-07-22 06:36:22+00:00,['1285825998555054081'],Are you expecting students to attend the work place? https://t.co/MMd0CdTofy,are you expecting students to attend the work place ,True,False
+397,397,397,1.285564279454929e+18,2020-07-21 13:16:23+00:00,['1285564279454928896'],"Afternoon everyone. As we return to delivering more of our services and  the ""new normal"".  How are you supporting pre reg students to meet their outcomes?",afternoon everyone as we return to delivering more of our services and  the new normal  how are you supporting pre reg students to meet their outcomes,True,False
 398,398,398,1.285277794847482e+18,2020-07-20 18:18:00+00:00,['1285277794847481856'],"Need some extra WeActiveChallenge 2020 motivation this year? 
 
 We have a limited number of real life actual medals to help get you moving &gt; https://t.co/7AsQHbdF24
 
-#NursesActive https://t.co/CqLvxL2pMK"
+#NursesActive https://t.co/CqLvxL2pMK","need some extra weactivechallenge 2020 motivation this year 
+
+we have a limited number of real life actual medals to help get you moving gt 
+
+ ",True,False
 399,399,399,1.2838549192803492e+18,2020-07-16 20:04:00+00:00,['1283854919280349186'],"WeActiveChallenge 2020 starts soon ... it would be great to have lots of school nurses involved this year, getting #NursesActive !
 
 Read more here &gt; https://t.co/TkpgQFEkcy
 
-AND order your medal here &gt; https://t.co/7AsQHbvgqE https://t.co/VmaUK4F7h1"
+AND order your medal here &gt; https://t.co/7AsQHbvgqE https://t.co/VmaUK4F7h1","weactivechallenge 2020 starts soon  it would be great to have lots of school nurses involved this year getting  
+
+read more here gt 
+
+and order your medal here gt  ",True,False
 400,400,400,1.2827503911474668e+18,2020-07-13 18:55:00+00:00,['1282750391147466756'],"WeActive Challenge starts on August 1st 
 
 If you are new to the challenge then there is lots of info here &gt; https://t.co/TkpgQFEkcy
 
 AND this year you can order a medal too &gt; https://t.co/7AsQHbvgqE
 
-#NursesActive https://t.co/kNcxTDiCKt"
+#NursesActive https://t.co/kNcxTDiCKt","weactive challenge starts on august 1st 
+
+if you are new to the challenge then there is lots of info here gt 
+
+and this year you can order a medal too gt 
+
+ ",True,False
 401,401,401,1.2820296418516992e+18,2020-07-11 19:11:00+00:00,['1282029641851699200'],"It's just 3 weeks until WeActive Challenge 2020 starts  &gt; https://t.co/47xJAiO72k
 
 We would love to see lots of school nurses being #NursesActive this year 
 
-Collect virtual badges for posting your active pics AND this year order a real life medal too &gt; https://t.co/7AsQHbvgqE https://t.co/cad1LVDUix"
-402,402,402,1.281471399748604e+18,2020-07-10 06:12:44+00:00,['1281471399748603905'],Thank you Sharon x https://t.co/SkMMKwN5EO
-404,404,404,1.2812603313528955e+18,2020-07-09 16:14:02+00:00,['1281260331352895488'],"@SAPHNAsharonOBE Caroline:a School Nurse with drive&amp;determination to do the best for https://t.co/UrNqbtmmc7 Nursing has lost a shining light.Those who knew her professionally have lost a friend,colleague&amp;cheerleader for School Nursing.Those that knew her personally, so much more. RIP Carolinexxx"
+Collect virtual badges for posting your active pics AND this year order a real life medal too &gt; https://t.co/7AsQHbvgqE https://t.co/cad1LVDUix","its just 3 weeks until weactive challenge 2020 starts  gt 
+
+we would love to see lots of school nurses being  this year 
+
+collect virtual badges for posting your active pics and this year order a real life medal too gt  ",True,False
+402,402,402,1.281471399748604e+18,2020-07-10 06:12:44+00:00,['1281471399748603905'],Thank you Sharon x https://t.co/SkMMKwN5EO,thank you sharon x ,True,False
+404,404,404,1.2812603313528955e+18,2020-07-09 16:14:02+00:00,['1281260331352895488'],"@SAPHNAsharonOBE Caroline:a School Nurse with drive&amp;determination to do the best for https://t.co/UrNqbtmmc7 Nursing has lost a shining light.Those who knew her professionally have lost a friend,colleague&amp;cheerleader for School Nursing.Those that knew her personally, so much more. RIP Carolinexxx", carolinea school nurse with driveampdetermination to do the best for  nursing has lost a shining lightthose who knew her professionally have lost a friendcolleagueampcheerleader for school nursingthose that knew her personally so much more rip carolinexxx,True,False
 405,405,405,1.2808923983783322e+18,2020-07-08 15:52:00+00:00,['1280892398378332165'],"Need some extra WeActiveChallenge 2020 motivation this year? 
 
 We have a limited number of real life actual medals to help get you moving &gt; https://t.co/7AsQHbvgqE
 
-#NursesActive https://t.co/RIL9PQdkq4"
-406,406,406,1.2786086646817628e+18,2020-07-02 08:37:15+00:00,['1278608664681762816'],Calling all school nurses &gt;&gt;&gt;&gt;&gt; https://t.co/jffeU9lGDn
-412,412,412,1.260344932692353e+18,2020-05-12 23:03:42+00:00,['1260344932692353024'],@SAPHNAsharonOBE @SchoolNWalsall @phwalsall @TheQNI Think it may be 😀
+#NursesActive https://t.co/RIL9PQdkq4","need some extra weactivechallenge 2020 motivation this year 
+
+we have a limited number of real life actual medals to help get you moving gt 
+
+ ",True,False
+406,406,406,1.2786086646817628e+18,2020-07-02 08:37:15+00:00,['1278608664681762816'],Calling all school nurses &gt;&gt;&gt;&gt;&gt; https://t.co/jffeU9lGDn,calling all school nurses gtgtgtgtgt ,True,False
+412,412,412,1.260344932692353e+18,2020-05-12 23:03:42+00:00,['1260344932692353024'],@SAPHNAsharonOBE @SchoolNWalsall @phwalsall @TheQNI Think it may be 😀,    think it may be ,True,False
 415,415,415,1.2601268184321393e+18,2020-05-12 08:37:00+00:00,['1260126818432139264'],"Happy International Nurses Day – don’t forget to share your “Yellow Selfie” today.
 
 Let’s unite school nurses  &amp; demonstrate how we are thinking of each other &amp; how proud we are to be school nurses 
 
-#IND2020 #YearOfTheNurseAndMidwife https://t.co/gHkBcwEpfn"
+#IND2020 #YearOfTheNurseAndMidwife https://t.co/gHkBcwEpfn","happy international nurses day – don’t forget to share your “yellow selfie” today
+
+let’s unite school nurses  amp demonstrate how we are thinking of each other amp how proud we are to be school nurses 
+
+  ",True,False
 417,417,417,1.25983867001976e+18,2020-05-11 13:32:00+00:00,['1259838670019760133'],"Join us Tomorrow to unite and thank all nurses &amp; student nurses by sharing your Yellow Selfie 
 
 💛Find something yellow
@@ -389,66 +599,112 @@ Don't forget the hashtags
 
 ⬇️⬇️⬇️⬇️⬇️⬇️
 
-#IND2020 #YearOfTheNurseAndMidwife https://t.co/wsv8fI5qCy"
-418,418,418,1.2595646155806884e+18,2020-05-10 19:23:00+00:00,['1259564615580688384'],https://t.co/TVP4WXVrvj
+#IND2020 #YearOfTheNurseAndMidwife https://t.co/wsv8fI5qCy","join us tomorrow to unite and thank all nurses amp student nurses by sharing your yellow selfie 
+
+find something yellow
+snap a pic
+share it across social media 
+
+dont forget the hashtags 
+
+
+
+  ",True,False
+418,418,418,1.2595646155806884e+18,2020-05-10 19:23:00+00:00,['1259564615580688384'],https://t.co/TVP4WXVrvj,,True,False
 419,419,419,1.2595475013186888e+18,2020-05-10 18:15:00+00:00,['1259547501318688768'],"International Nurses Day is on Tuesday ...
 
 Join us in sharing Yellow Selfies to show how now, more than ever, we are thinking of each other 
 
-#IND2020 #yearofthenurseandmidwife https://t.co/gDU8dcmMDT"
-420,420,420,1.2586534055114056e+18,2020-05-08 07:02:11+00:00,['1258653405511405569'],Have you signed up to share? https://t.co/gAYuqkiZb5
-421,421,421,1.2586524448771525e+18,2020-05-08 06:58:22+00:00,['1258652444877152258'],Children's explanations are always a joy https://t.co/QBcJRoPcdK
-422,422,422,1.2579163226772275e+18,2020-05-06 06:13:16+00:00,['1257916322677227520'],https://t.co/oQPaXjopfV
-423,423,423,1.257916069110522e+18,2020-05-06 06:12:16+00:00,['1257916069110521856'],The place to be seen 🙂 https://t.co/4fBBPURbnN
-425,425,425,1.2575766975803924e+18,2020-05-05 07:43:44+00:00,['1257576697580392448'],"Just realised not everyone will be able to open the attachment, hope this helps https://t.co/keCNgV1PKj"
-426,426,426,1.2575753056125297e+18,2020-05-05 07:38:12+00:00,['1257575305612529664'],https://t.co/tZ6CLI3EAT
+#IND2020 #yearofthenurseandmidwife https://t.co/gDU8dcmMDT","international nurses day is on tuesday 
+
+join us in sharing yellow selfies to show how now more than ever we are thinking of each other 
+
+  ",True,False
+420,420,420,1.2586534055114056e+18,2020-05-08 07:02:11+00:00,['1258653405511405569'],Have you signed up to share? https://t.co/gAYuqkiZb5,have you signed up to share ,True,False
+421,421,421,1.2586524448771525e+18,2020-05-08 06:58:22+00:00,['1258652444877152258'],Children's explanations are always a joy https://t.co/QBcJRoPcdK,childrens explanations are always a joy ,True,False
+422,422,422,1.2579163226772275e+18,2020-05-06 06:13:16+00:00,['1257916322677227520'],https://t.co/oQPaXjopfV,,True,False
+423,423,423,1.257916069110522e+18,2020-05-06 06:12:16+00:00,['1257916069110521856'],The place to be seen 🙂 https://t.co/4fBBPURbnN,the place to be seen  ,True,False
+425,425,425,1.2575766975803924e+18,2020-05-05 07:43:44+00:00,['1257576697580392448'],"Just realised not everyone will be able to open the attachment, hope this helps https://t.co/keCNgV1PKj",just realised not everyone will be able to open the attachment hope this helps ,True,False
+426,426,426,1.2575753056125297e+18,2020-05-05 07:38:12+00:00,['1257575305612529664'],https://t.co/tZ6CLI3EAT,,True,False
 427,427,427,1.2575752917839708e+18,2020-05-05 07:38:08+00:00,['1257575291783970816'],"!SUPPORT NEEDED! 
 MSc dissertation research in relation to professionals and children of offenders.
 Please contact Nikki to take part in this innovative research
 
-https://t.co/tZ6CLI3EAT"
-439,439,439,1.2573319416883814e+18,2020-05-04 15:31:09+00:00,['1257331941688381440'],Who’s joining??? https://t.co/MvmxB30SB1
-440,440,440,1.2559824560644137e+18,2020-04-30 22:08:47+00:00,['1255982456064413696'],@CarolineLowton @SAPHNAsharonOBE @ChildrensComm Great story and great work. Thank you for sharing
+https://t.co/tZ6CLI3EAT","support needed 
+msc dissertation research in relation to professionals and children of offenders
+please contact nikki to take part in this innovative research
+
+",True,False
+439,439,439,1.2573319416883814e+18,2020-05-04 15:31:09+00:00,['1257331941688381440'],Who’s joining??? https://t.co/MvmxB30SB1,who’s joining ,True,False
+440,440,440,1.2559824560644137e+18,2020-04-30 22:08:47+00:00,['1255982456064413696'],@CarolineLowton @SAPHNAsharonOBE @ChildrensComm Great story and great work. Thank you for sharing,   great story and great work thank you for sharing,True,False
 444,444,444,1.2486871908524114e+18,2020-04-10 19:00:00+00:00,['1248687190852411398'],"And our final CYP &amp; Covid19 question of the week....
 
 Do you think there is a gap in  advice for CYP around Covid19?
 
-#CovidSupportForNurses https://t.co/mJLNvzVsZJ"
+#CovidSupportForNurses https://t.co/mJLNvzVsZJ","and our final cyp amp covid19 question of the week
+
+do you think there is a gap in  advice for cyp around covid19
+
+ ",True,False
 448,448,448,1.2483293389211077e+18,2020-04-09 19:18:01+00:00,['1248329338921107456'],"Before tonights #CovdSupportForNurses tweetchat starts we wanted to ask our 4th question of the week 
 
-What questions are CYP asking about Covid19 ?? https://t.co/MmbXmR6FNX"
+What questions are CYP asking about Covid19 ?? https://t.co/MmbXmR6FNX","before tonights  tweetchat starts we wanted to ask our 4th question of the week 
+
+what questions are cyp asking about covid19  ",True,False
 449,449,449,1.2479624143410668e+18,2020-04-08 19:00:00+00:00,['1247962414341066763'],"Following on from our questions for the last two evenings....
 
 What areas of Covid19 are CYP concerned about – physical health, mental health, school, isolation – or all of these?
 
-#CovidSupportForNurses https://t.co/AhwNuYKciA"
+#CovidSupportForNurses https://t.co/AhwNuYKciA","following on from our questions for the last two evenings
+
+what areas of covid19 are cyp concerned about – physical health mental health school isolation – or all of these
+
+ ",True,False
 450,450,450,1.2476000284005458e+18,2020-04-07 19:00:00+00:00,['1247600028400545792'],"Here is the second of this weeks questions around Covid19 and CYP 
 
 Are you seeing an increase in contacts from CYP asking questions around Covid19?
 
-#CovidSupportForNurses https://t.co/0RwPDUarBJ"
-454,454,454,1.2472633515389338e+18,2020-04-06 20:42:10+00:00,['1247263351538933760'],@StaceyO1503 Thanks for sharing :)
+#CovidSupportForNurses https://t.co/0RwPDUarBJ","here is the second of this weeks questions around covid19 and cyp 
+
+are you seeing an increase in contacts from cyp asking questions around covid19
+
+ ",True,False
+454,454,454,1.2472633515389338e+18,2020-04-06 20:42:10+00:00,['1247263351538933760'],@StaceyO1503 Thanks for sharing :), thanks for sharing ,True,False
 462,462,462,1.2472363802138132e+18,2020-04-06 18:55:00+00:00,['1247236380213813257'],"Tonights CYP Covid19 question ....
 
 Where are CYP getting their info about Covid19?
 
-#CovidSupportForNurses https://t.co/4CMbVQR97p"
+#CovidSupportForNurses https://t.co/4CMbVQR97p","tonights cyp covid19 question 
+
+where are cyp getting their info about covid19
+
+ ",True,False
 472,472,472,1.2432827021005087e+18,2020-03-26 21:04:29+00:00,['1243282702100508672'],"Tonights question 4 
 
-#CovidSupportForNurses https://t.co/BypEcIOMFS"
+#CovidSupportForNurses https://t.co/BypEcIOMFS","tonights question 4 
+
+ ",True,False
 473,473,473,1.24327487532791e+18,2020-03-26 20:33:23+00:00,['1243274875327909894'],"Are you following tonights #CovidSupportForNurses Tweetchat ?
 
-here is Q2 https://t.co/iMmLovp2ca"
+here is Q2 https://t.co/iMmLovp2ca","are you following tonights  tweetchat 
+
+here is q2 ",True,False
 482,482,482,1.2410561570340987e+18,2020-03-20 17:37:00+00:00,['1241056157034098688'],"Starts on Monday:
 
 Entirely online, supported by a hashtag, so you get to chat to other humans, counts towards participatory CPD 
 
-#AllOurHealth https://t.co/1OGU5LjJSg"
+#AllOurHealth https://t.co/1OGU5LjJSg","starts on monday
+
+entirely online supported by a hashtag so you get to chat to other humans counts towards participatory cpd 
+
+ ",True,False
 487,487,487,1.2396055993877463e+18,2020-03-16 17:33:00+00:00,['1239605599387746305'],"How does air pollution impact on the people we care for ?
 
-Sign up to WeLearn #AllOurHealth Air Pollution Week next week to find out &gt; https://t.co/EbV9nVhs01 https://t.co/HYQhkDTFJH"
-495,495,495,1.238194198937043e+18,2020-03-12 20:04:36+00:00,['1238194198937042944'],Hello everyone #WeMDT https://t.co/5hOH9U4QRX
-496,496,496,1.2381910488260155e+18,2020-03-12 19:52:05+00:00,['1238191048826015746'],Just 10 mins until #WeMDT on Social Prescribing starts https://t.co/YqUs2cxkfE
+Sign up to WeLearn #AllOurHealth Air Pollution Week next week to find out &gt; https://t.co/EbV9nVhs01 https://t.co/HYQhkDTFJH","how does air pollution impact on the people we care for 
+
+sign up to welearn  air pollution week next week to find out gt  ",True,False
+495,495,495,1.238194198937043e+18,2020-03-12 20:04:36+00:00,['1238194198937042944'],Hello everyone #WeMDT https://t.co/5hOH9U4QRX,hello everyone  ,True,False
+496,496,496,1.2381910488260155e+18,2020-03-12 19:52:05+00:00,['1238191048826015746'],Just 10 mins until #WeMDT on Social Prescribing starts https://t.co/YqUs2cxkfE,just 10 mins until  on social prescribing starts ,True,False
 501,501,501,1.235950766956974e+18,2020-03-06 15:30:00+00:00,['1235950766956974087'],"WeLearn #AllOurHealth .. Freeeeeee and open to all health &amp; care professionals &amp; students 
 
 CVD Prevention Week &gt; https://t.co/O2nYkCDDnC
@@ -457,8 +713,16 @@ Air Pollution Week &gt; https://t.co/EbV9nVhs01
 
 Best Start on Life Week &gt; https://t.co/Njr1HcDlOL
 
-Be part of something amazing ! https://t.co/Ppduc3VJvm"
-502,502,502,1.2359122628855603e+18,2020-03-06 12:57:00+00:00,['1235912262885560326'],Lots more great (and free) WeLearn #AllOurHealth stuff to come &gt;&gt; https://t.co/DIaQPFR9Ju
+Be part of something amazing ! https://t.co/Ppduc3VJvm","welearn   freeeeeee and open to all health amp care professionals amp students 
+
+cvd prevention week gt 
+
+air pollution week gt 
+
+best start on life week gt 
+
+be part of something amazing  ",True,False
+502,502,502,1.2359122628855603e+18,2020-03-06 12:57:00+00:00,['1235912262885560326'],Lots more great (and free) WeLearn #AllOurHealth stuff to come &gt;&gt; https://t.co/DIaQPFR9Ju,lots more great and free welearn  stuff to come gtgt ,True,False
 504,504,504,1.2352521631458632e+18,2020-03-04 17:14:00+00:00,['1235252163145863168'],"If you have so far missed this years WeLearn #AllOurHealth don't panic ... there's still lots to get involved with:
 
 CVD Week https://t.co/O2nYkCDDnC
@@ -467,7 +731,15 @@ Air Pollution Week https://t.co/EbV9nVhs01
 
 Best Start In Life Week https://t.co/Njr1HcDlOL
 
-All free &amp; social media based https://t.co/TXTfQA8tCW"
+All free &amp; social media based https://t.co/TXTfQA8tCW","if you have so far missed this years welearn  dont panic  theres still lots to get involved with
+
+cvd week 
+
+air pollution week 
+
+best start in life week 
+
+all free amp social media based ",True,False
 505,505,505,1.234916199323947e+18,2020-03-03 18:59:00+00:00,['1234916199323947009'],"If you have so far missed this years WeLearn #AllOurHealth don't panic ... there's still lots to get involved with:
 
 CVD Week &gt; https://t.co/O2nYkCVefa
@@ -476,42 +748,76 @@ Air Pollution Week &gt; https://t.co/EbV9nVz2Rz
 
 Best Start In Life Week &gt; https://t.co/Njr1HcUWGj
 
-All free &amp; social media based https://t.co/sHWb2fojiA"
+All free &amp; social media based https://t.co/sHWb2fojiA","if you have so far missed this years welearn  dont panic  theres still lots to get involved with
+
+cvd week gt 
+
+air pollution week gt 
+
+best start in life week gt 
+
+all free amp social media based ",True,False
 506,506,506,1.234546261639848e+18,2020-03-02 18:29:00+00:00,['1234546261639847937'],"Digital Suicide Prevention: Can technology save lives?  https://t.co/UT8gzYv60P
 
-Tonight at 8pm via #WeMDT https://t.co/1q6AqJkup6"
+Tonight at 8pm via #WeMDT https://t.co/1q6AqJkup6","digital suicide prevention can technology save lives  
+
+tonight at 8pm via  ",True,False
 523,523,523,1.2326062310947553e+18,2020-02-26 10:00:00+00:00,['1232606231094755328'],"TONIGHT at 7.30pm
 
 #AllOurHealth on Smoking &amp; Tobacco 
 
-More details here &gt; https://t.co/szEDiuLKTU https://t.co/PM4rvQddgx"
+More details here &gt; https://t.co/szEDiuLKTU https://t.co/PM4rvQddgx","tonight at 730pm
+
+ on smoking amp tobacco 
+
+more details here gt  ",True,False
 525,525,525,1.232362120097878e+18,2020-02-25 17:50:00+00:00,['1232362120097878021'],"Have you seen this - the deadline is soon ... would be great to have school nurses highlighted 
 
-#YearoftheNurseandMidwife https://t.co/oaPv28e1EZ"
+#YearoftheNurseandMidwife https://t.co/oaPv28e1EZ","have you seen this  the deadline is soon  would be great to have school nurses highlighted 
+
+ ",True,False
 526,526,526,1.232345007136346e+18,2020-02-25 16:42:00+00:00,['1232345007136346112'],"TOMORROW at 7.30pm an #AllOurHealth Tweetchat
 
 Smoking &amp; Tobacco 
 
-Pre chat read here &gt; https://t.co/szEDiuLKTU https://t.co/ZkLF7twlGp"
+Pre chat read here &gt; https://t.co/szEDiuLKTU https://t.co/ZkLF7twlGp","tomorrow at 730pm an  tweetchat
+
+smoking amp tobacco 
+
+pre chat read here gt  ",True,False
 534,534,534,1.2309367275455324e+18,2020-02-21 19:26:00+00:00,['1230936727545532416'],"WeLearn #AllOurHealth Smoking &amp; Tobacco Week 
 
 This free course starts in just 3 days time ! 
 
-Be part of something amazing and sign up here  &gt; https://t.co/AMm7aldip2 https://t.co/eYLFdrCbXL"
-538,538,538,1.2302280115150234e+18,2020-02-19 20:29:49+00:00,['1230228011515023361'],Think you should@definitely have an @actionforhappiness calendar! https://t.co/eLFwwYf9G8
+Be part of something amazing and sign up here  &gt; https://t.co/AMm7aldip2 https://t.co/eYLFdrCbXL","welearn  smoking amp tobacco week 
+
+this free course starts in just 3 days time  
+
+be part of something amazing and sign up here  gt  ",True,False
+538,538,538,1.2302280115150234e+18,2020-02-19 20:29:49+00:00,['1230228011515023361'],Think you should@definitely have an @actionforhappiness calendar! https://t.co/eLFwwYf9G8,think you should have an  calendar ,True,False
 560,560,560,1.2291215168953754e+18,2020-02-16 19:13:00+00:00,['1229121516895375362'],"8 Days until this starts...
 
 WeLearn #AllOurhealth Smoking &amp; Tobacco Week 
 
-Be part of something amazing and sign up here  &gt; https://t.co/AMm7aluTNC https://t.co/mGiu73p2V3"
+Be part of something amazing and sign up here  &gt; https://t.co/AMm7aluTNC https://t.co/mGiu73p2V3","8 days until this starts
+
+welearn  smoking amp tobacco week 
+
+be part of something amazing and sign up here  gt  ",True,False
 566,566,566,1.2283260252909732e+18,2020-02-14 14:32:00+00:00,['1228326025290973187'],"Calling all school nurses ... what do you love most about your role ??
 
-#YearoftheNurseandMidwife https://t.co/A3ID17VdsQ"
+#YearoftheNurseandMidwife https://t.co/A3ID17VdsQ","calling all school nurses  what do you love most about your role 
+
+ ",True,False
 567,567,567,1.2279319283989463e+18,2020-02-13 12:26:00+00:00,['1227931928398946304'],"What do you love most about school nursing folks ??
 
 We would love to hear 
 
-#YearOfTheNurseAndMidwife https://t.co/A3ID17DC4g"
+#YearOfTheNurseAndMidwife https://t.co/A3ID17DC4g","what do you love most about school nursing folks 
+
+we would love to hear 
+
+ ",True,False
 568,568,568,1.227930418353062e+18,2020-02-13 12:20:00+00:00,['1227930418353061888'],"WeLearn #AllOurHealth 2020 topics still to come for 2020 &gt; 
 
 🌎Smoking &amp; tobacco 
@@ -522,11 +828,21 @@ We would love to hear
 
 🌎Best start in life
 
-Free and open to all health &amp; care professionals .. sign up here &gt; https://t.co/0EWJxyPSYp"
-569,569,569,1.2276637854287053e+18,2020-02-12 18:40:29+00:00,['1227663785428705280'],Hello https://t.co/LclCEgAXhg
-570,570,570,1.227663365847298e+18,2020-02-12 18:38:49+00:00,['1227663365847298048'],Hello #WeScNs
-575,575,575,1.226900758756561e+18,2020-02-10 16:08:30+00:00,['1226900758756560896'],What are everyones thoughts ?? #AllOurHealth https://t.co/yBeo190PcR
-588,588,588,1.2257168722655068e+18,2020-02-07 09:44:09+00:00,['1225716872265506816'],Some fab #YearoftheNurseandMidwife numbers here - we would add 2️⃣1️⃣0️⃣0️⃣ which is the estimated number of school nurses in the UK https://t.co/AT4KzRReOF
+Free and open to all health &amp; care professionals .. sign up here &gt; https://t.co/0EWJxyPSYp","welearn  2020 topics still to come for 2020 gt 
+
+smoking amp tobacco 
+
+cvd prevention 
+
+air pollution 
+
+best start in life
+
+free and open to all health amp care professionals  sign up here gt ",True,False
+569,569,569,1.2276637854287053e+18,2020-02-12 18:40:29+00:00,['1227663785428705280'],Hello https://t.co/LclCEgAXhg,hello ,True,False
+570,570,570,1.227663365847298e+18,2020-02-12 18:38:49+00:00,['1227663365847298048'],Hello #WeScNs,hello ,True,False
+575,575,575,1.226900758756561e+18,2020-02-10 16:08:30+00:00,['1226900758756560896'],What are everyones thoughts ?? #AllOurHealth https://t.co/yBeo190PcR,what are everyones thoughts   ,True,False
+588,588,588,1.2257168722655068e+18,2020-02-07 09:44:09+00:00,['1225716872265506816'],Some fab #YearoftheNurseandMidwife numbers here - we would add 2️⃣1️⃣0️⃣0️⃣ which is the estimated number of school nurses in the UK https://t.co/AT4KzRReOF,some fab  numbers here  we would add 2⃣1⃣0⃣0⃣ which is the estimated number of school nurses in the uk ,True,False
 589,589,589,1.2257072693895987e+18,2020-02-07 09:06:00+00:00,['1225707269389598720'],"Be part of something amazing ... Be part of WeLearn #AllOurHealth 2020 &gt; https://t.co/0EWJxyPSYp 
 
 Upcoming topics include:
@@ -539,25 +855,42 @@ Upcoming topics include:
 
 🌎Best start in life
 
-Free and open to all health &amp; care professionals https://t.co/qanpOHmebD"
-592,592,592,1.2253756092930212e+18,2020-02-06 11:08:06+00:00,['1225375609293021184'],yes indeed - sobering statistics #AllOurHealth https://t.co/B4v9N49RJO
-593,593,593,1.2251024877844275e+18,2020-02-05 17:02:49+00:00,['1225102487784427520'],Some more great shares around #TheYearOfTheNurseAndMidwife here &gt; https://t.co/XLmlfF5wuC
-595,595,595,1.2243832954688553e+18,2020-02-03 17:25:00+00:00,['1224383295468855296'],2020 is the #YearoftheNurseandMidwife .... want to know more ?? Read this thread &gt;&gt; https://t.co/6MWDlzZFs3
-596,596,596,1.224369866746073e+18,2020-02-03 16:31:38+00:00,['1224369866746073088'],Good luck on your school nursing placement ... what a great way to get started before you get there #AllOurHealth https://t.co/ws9UvyOxIG
+Free and open to all health &amp; care professionals https://t.co/qanpOHmebD","be part of something amazing  be part of welearn  2020 gt  
+
+upcoming topics include
+
+smoking amp tobacco 
+
+cvd prevention 
+
+air pollution 
+
+best start in life
+
+free and open to all health amp care professionals ",True,False
+592,592,592,1.2253756092930212e+18,2020-02-06 11:08:06+00:00,['1225375609293021184'],yes indeed - sobering statistics #AllOurHealth https://t.co/B4v9N49RJO,yes indeed  sobering statistics  ,True,False
+593,593,593,1.2251024877844275e+18,2020-02-05 17:02:49+00:00,['1225102487784427520'],Some more great shares around #TheYearOfTheNurseAndMidwife here &gt; https://t.co/XLmlfF5wuC,some more great shares around  here gt ,True,False
+595,595,595,1.2243832954688553e+18,2020-02-03 17:25:00+00:00,['1224383295468855296'],2020 is the #YearoftheNurseandMidwife .... want to know more ?? Read this thread &gt;&gt; https://t.co/6MWDlzZFs3,2020 is the   want to know more  read this thread gtgt ,True,False
+596,596,596,1.224369866746073e+18,2020-02-03 16:31:38+00:00,['1224369866746073088'],Good luck on your school nursing placement ... what a great way to get started before you get there #AllOurHealth https://t.co/ws9UvyOxIG,good luck on your school nursing placement  what a great way to get started before you get there  ,True,False
 598,598,598,1.2243676010040238e+18,2020-02-03 16:22:38+00:00,['1224367601004023808'],"Have you all seen this ??
 
-#YearoftheNurseandMidwife https://t.co/daJIOY4XAh"
-604,604,604,1.2239433225590456e+18,2020-02-02 12:16:42+00:00,['1223943322559045632'],Review and research required https://t.co/TtpXdxFvnq
-609,609,609,1.2235517796962345e+18,2020-02-01 10:20:51+00:00,['1223551779696234496'],@ChildSocInclude Conversations and awareness are good but we must also do something. What do you do School Nurses to support Young Carers in your area?
-610,610,610,1.2235509940024689e+18,2020-02-01 10:17:44+00:00,['1223550994002468864'],@sallyann8 Thanks Sallyann
-612,612,612,1.2235035548345876e+18,2020-02-01 07:09:13+00:00,['1223503554834587648'],https://t.co/RWuLIBc5Y7 https://t.co/BFdRWjA73G
-613,613,613,1.2233965280578765e+18,2020-02-01 00:03:56+00:00,['1223396528057876480'],Can you retweet the link please? this is not working https://t.co/ybKevXHmKp
+#YearoftheNurseandMidwife https://t.co/daJIOY4XAh","have you all seen this 
+
+ ",True,False
+604,604,604,1.2239433225590456e+18,2020-02-02 12:16:42+00:00,['1223943322559045632'],Review and research required https://t.co/TtpXdxFvnq,review and research required ,True,False
+609,609,609,1.2235517796962345e+18,2020-02-01 10:20:51+00:00,['1223551779696234496'],@ChildSocInclude Conversations and awareness are good but we must also do something. What do you do School Nurses to support Young Carers in your area?, conversations and awareness are good but we must also do something what do you do school nurses to support young carers in your area,True,False
+610,610,610,1.2235509940024689e+18,2020-02-01 10:17:44+00:00,['1223550994002468864'],@sallyann8 Thanks Sallyann, thanks sallyann,True,False
+613,613,613,1.2233965280578765e+18,2020-02-01 00:03:56+00:00,['1223396528057876480'],Can you retweet the link please? this is not working https://t.co/ybKevXHmKp,can you retweet the link please this is not working ,True,False
 614,614,614,1.2233162645564006e+18,2020-01-31 18:45:00+00:00,['1223316264556400646'],"#AllOurHealth Mental Health &amp; Wellbeing Week starts on MONDAY
 
 Register here &gt; https://t.co/xbPCYErcpK
 
-We are really looking forward to a fab week focussed on prevention and mental health &amp; wellbeing https://t.co/whWz38hNQn"
-617,617,617,1.223306301956153e+18,2020-01-31 18:05:24+00:00,['1223306301956153345'],I am sure there are lots of ideas out there Denise. School Nurses are very resourceful https://t.co/tq92bBwd98
+We are really looking forward to a fab week focussed on prevention and mental health &amp; wellbeing https://t.co/whWz38hNQn"," mental health amp wellbeing week starts on monday
+
+register here gt 
+
+we are really looking forward to a fab week focussed on prevention and mental health amp wellbeing ",True,False
+617,617,617,1.223306301956153e+18,2020-01-31 18:05:24+00:00,['1223306301956153345'],I am sure there are lots of ideas out there Denise. School Nurses are very resourceful https://t.co/tq92bBwd98,i am sure there are lots of ideas out there denise school nurses are very resourceful ,True,False
 623,623,623,1.2229060617677496e+18,2020-01-30 15:35:00+00:00,['1222906061767749632'],"Have you signed up to be part of #AllOurHealth Mental Health &amp; Wellbeing Week yet ?
 
 ✅Starts on Monday
@@ -566,108 +899,173 @@ We are really looking forward to a fab week focussed on prevention and mental he
 ✅10 - 15 mins a day 
 ✅Certificate at the end
 
-Register here &gt; https://t.co/xbPCYErcpK https://t.co/D1oo5ovkif"
-625,625,625,1.2224627730257592e+18,2020-01-29 10:13:32+00:00,['1222462773025759232'],What a fantastic resource! https://t.co/G4HehKJMoG
-628,628,628,1.2224389239196672e+18,2020-01-29 08:38:45+00:00,['1222438923919667200'],Excellent resource and support for School Nurses and those with an interest in the health and wellbeing of children. Have a look and join if you agree #bettertogether https://t.co/4VvCOZJJKR
-629,629,629,1.2222572750600847e+18,2020-01-28 20:36:57+00:00,['1222257275060084736'],Congratulations!!! 🥳 https://t.co/2Q11cZUaZ5
+Register here &gt; https://t.co/xbPCYErcpK https://t.co/D1oo5ovkif","have you signed up to be part of  mental health amp wellbeing week yet 
+
+starts on monday
+free 
+social media based
+10  15 mins a day 
+certificate at the end
+
+register here gt  ",True,False
+625,625,625,1.2224627730257592e+18,2020-01-29 10:13:32+00:00,['1222462773025759232'],What a fantastic resource! https://t.co/G4HehKJMoG,what a fantastic resource ,True,False
+628,628,628,1.2224389239196672e+18,2020-01-29 08:38:45+00:00,['1222438923919667200'],Excellent resource and support for School Nurses and those with an interest in the health and wellbeing of children. Have a look and join if you agree #bettertogether https://t.co/4VvCOZJJKR,excellent resource and support for school nurses and those with an interest in the health and wellbeing of children have a look and join if you agree  ,True,False
+629,629,629,1.2222572750600847e+18,2020-01-28 20:36:57+00:00,['1222257275060084736'],Congratulations!!! 🥳 https://t.co/2Q11cZUaZ5,congratulations  ,True,False
 633,633,633,1.221798010407002e+18,2020-01-27 14:12:00+00:00,['1221798010407002114'],"NEXT WEEK is WeLearn #AllOurHealth Mental Health &amp; Wellbeing Week 
 
 Free social media learning event and open to all health &amp; care professionals and students 
 
-Join in via Twitter or register on the WeLearn platform to get a certificate at the end  &gt; https://t.co/xbPCYErcpK https://t.co/jXNQQR5WGZ"
-644,644,644,1.220695653275312e+18,2020-01-24 13:11:37+00:00,['1220695653275312129'],Not an uncommon story sadly! https://t.co/GzdyBoViKz
-653,653,653,1.2204397985250673e+18,2020-01-23 20:14:57+00:00,['1220439798525067265'],Absolutely and we can all make a difference #AllOurHealth https://t.co/MR7bvyZya3
+Join in via Twitter or register on the WeLearn platform to get a certificate at the end  &gt; https://t.co/xbPCYErcpK https://t.co/jXNQQR5WGZ","next week is welearn  mental health amp wellbeing week 
+
+free social media learning event and open to all health amp care professionals and students 
+
+join in via twitter or register on the welearn platform to get a certificate at the end  gt  ",True,False
+644,644,644,1.220695653275312e+18,2020-01-24 13:11:37+00:00,['1220695653275312129'],Not an uncommon story sadly! https://t.co/GzdyBoViKz,not an uncommon story sadly ,True,False
+653,653,653,1.2204397985250673e+18,2020-01-23 20:14:57+00:00,['1220439798525067265'],Absolutely and we can all make a difference #AllOurHealth https://t.co/MR7bvyZya3,absolutely and we can all make a difference  ,True,False
 658,658,658,1.2204214399556895e+18,2020-01-23 19:02:00+00:00,['1220421439955689472'],"The next WeLearn #AllOurHealth week starts on Feb 3rd and is around Mental Health &amp; Wellbeing 
 
 It's free and open to all health &amp; care professionals and students 
 
-Get involved here &gt; https://t.co/xbPCYEINhi https://t.co/kWyzQWAY9I"
+Get involved here &gt; https://t.co/xbPCYEINhi https://t.co/kWyzQWAY9I","the next welearn  week starts on feb 3rd and is around mental health amp wellbeing 
+
+its free and open to all health amp care professionals and students 
+
+get involved here gt  ",True,False
 659,659,659,1.2203837084583854e+18,2020-01-23 16:32:04+00:00,['1220383708458385422'],"A question for school nurses maybe ?? 
 
-#AllOurHealth https://t.co/GEQXxJMZxS"
+#AllOurHealth https://t.co/GEQXxJMZxS","a question for school nurses maybe  
+
+ ",True,False
 660,660,660,1.2202715698067988e+18,2020-01-23 09:06:28+00:00,['1220271569806798848'],"TONIGHT at 8pm an #AllOurHealth tweetchat 
 
 Getting serious about #AllOurHealth  &gt; https://t.co/9IfFpJAAh9
 
-Everyone welcome https://t.co/NWPT8Gd1ca"
+Everyone welcome https://t.co/NWPT8Gd1ca","tonight at 8pm an  tweetchat 
+
+getting serious about   gt 
+
+everyone welcome ",True,False
 662,662,662,1.2199240241862984e+18,2020-01-22 10:05:27+00:00,['1219924024186298368'],"COMING SOON 
 
 WeLearn #AllOurHealth Mental Health &amp; Wellbeing Week from Feb 3rd - 7th 
 
 Freeeeeeeee social media learning event from WeCommunities and @PHE_uk and open to all health &amp; care professionals and students 
 
-Register here &gt; https://t.co/xbPCYErcpK https://t.co/9W5dEl8w1p"
+Register here &gt; https://t.co/xbPCYErcpK https://t.co/9W5dEl8w1p","coming soon 
+
+welearn  mental health amp wellbeing week from feb 3rd  7th 
+
+freeeeeeeee social media learning event from wecommunities and  and open to all health amp care professionals and students 
+
+register here gt  ",True,False
 664,664,664,1.219325719781634e+18,2020-01-20 18:28:00+00:00,['1219325719781634048'],"Have you heard about WeLearn #AllOurHealth Mental Health &amp; Wellbeing Week ? 
 
 It runs from Feb 3rd - 7th 
 
 Free social media learning event and  open to all health &amp; care professionals and students 
 
-Register here &gt; https://t.co/xbPCYEINhi https://t.co/VqJ4FtqEy8"
+Register here &gt; https://t.co/xbPCYEINhi https://t.co/VqJ4FtqEy8","have you heard about welearn  mental health amp wellbeing week  
+
+it runs from feb 3rd  7th 
+
+free social media learning event and  open to all health amp care professionals and students 
+
+register here gt  ",True,False
 666,666,666,1.2188828012876923e+18,2020-01-19 13:08:00+00:00,['1218882801287692290'],"The WeLearn #AllOurHealth Virtual Student Event starts TOMORROW and runs throughout next week 
 
-Click here to get started &gt; https://t.co/OZ6RDMHAhH https://t.co/HiyMpyorwH"
-667,667,667,1.2188199535011348e+18,2020-01-19 08:58:16+00:00,['1218819953501134853'],Brilliant news! https://t.co/exSEEqwaDZ
-669,669,669,1.218819765654954e+18,2020-01-19 08:57:31+00:00,['1218819765654953990'],Worth a read this time of year is tough! https://t.co/LWVo0GSa5r
-672,672,672,1.2174675684301783e+18,2020-01-15 15:24:22+00:00,['1217467568430178307'],Health assessments are such an important part of the school nurse role https://t.co/rAvhJK53kL
+Click here to get started &gt; https://t.co/OZ6RDMHAhH https://t.co/HiyMpyorwH","the welearn  virtual student event starts tomorrow and runs throughout next week 
+
+click here to get started gt  ",True,False
+667,667,667,1.2188199535011348e+18,2020-01-19 08:58:16+00:00,['1218819953501134853'],Brilliant news! https://t.co/exSEEqwaDZ,brilliant news ,True,False
+669,669,669,1.218819765654954e+18,2020-01-19 08:57:31+00:00,['1218819765654953990'],Worth a read this time of year is tough! https://t.co/LWVo0GSa5r,worth a read this time of year is tough ,True,False
+672,672,672,1.2174675684301783e+18,2020-01-15 15:24:22+00:00,['1217467568430178307'],Health assessments are such an important part of the school nurse role https://t.co/rAvhJK53kL,health assessments are such an important part of the school nurse role ,True,False
 674,674,674,1.2170670871153705e+18,2020-01-14 12:53:00+00:00,['1217067087115370499'],"Following on from last nights #WeNurses ... Here is a great opportunity ....
 
 PHE are looking for WHO Technical Advisors &gt; 
-https://t.co/mmJLOdQddh https://t.co/8MqPd4pPxy"
+https://t.co/mmJLOdQddh https://t.co/8MqPd4pPxy","following on from last nights   here is a great opportunity 
+
+phe are looking for who technical advisors gt 
+ ",True,False
 675,675,675,1.217004675741995e+18,2020-01-14 08:45:00+00:00,['1217004675741995009'],"Morning .... 
 
 6 days to go ... pass it on !
 
-https://t.co/OZ6RDMHAhH https://t.co/3Rozzltyqv"
-678,678,678,1.2167974631195853e+18,2020-01-13 19:01:36+00:00,['1216797463119585288'],Great opportunity #WeNurses https://t.co/gMc61wYv5y
-682,682,682,1.2167957524769546e+18,2020-01-13 18:54:49+00:00,['1216795752476954625'],#wenurses https://t.co/NuXsrMfsPD
-684,684,684,1.216795386804949e+18,2020-01-13 18:53:21+00:00,['1216795386804948995'],Really important point #WeNurses https://t.co/u17yHMJMbA
+https://t.co/OZ6RDMHAhH https://t.co/3Rozzltyqv","morning  
+
+6 days to go  pass it on 
+
+ ",True,False
+678,678,678,1.2167974631195853e+18,2020-01-13 19:01:36+00:00,['1216797463119585288'],Great opportunity #WeNurses https://t.co/gMc61wYv5y,great opportunity  ,True,False
+684,684,684,1.216795386804949e+18,2020-01-13 18:53:21+00:00,['1216795386804948995'],Really important point #WeNurses https://t.co/u17yHMJMbA,really important point  ,True,False
 689,689,689,1.2167936050561434e+18,2020-01-13 18:46:17+00:00,['1216793605056143360'],"eek question 5 .... how did we get to question 5 so soon !!! 
 
-#WeNurses https://t.co/7CWIXjuRWK"
+#WeNurses https://t.co/7CWIXjuRWK","eek question 5  how did we get to question 5 so soon  
+
+ ",True,False
 695,695,695,1.2167913166522696e+18,2020-01-13 18:37:11+00:00,['1216791316652269569'],"Question 4 .... 
 
-#WeNurses https://t.co/wCAUlTNBLf"
-698,698,698,1.216789171320316e+18,2020-01-13 18:28:39+00:00,['1216789171320315904'],Brilliant work #WeNurses https://t.co/DpbOlThNJV
+#WeNurses https://t.co/wCAUlTNBLf","question 4  
+
+ ",True,False
+698,698,698,1.216789171320316e+18,2020-01-13 18:28:39+00:00,['1216789171320315904'],Brilliant work #WeNurses https://t.co/DpbOlThNJV,brilliant work  ,True,False
 701,701,701,1.2167884962723062e+18,2020-01-13 18:25:59+00:00,['1216788496272306178'],"QUESTION 3 ... is right here &gt;&gt;&gt; 
 
-#Wenurses https://t.co/7Y6muh44qS"
-704,704,704,1.2167879211954545e+18,2020-01-13 18:23:41+00:00,['1216787921195454466'],Absolutely #WeNurses https://t.co/2sGWuI96Aj
-706,706,706,1.2167875079390208e+18,2020-01-13 18:22:03+00:00,['1216787507939020800'],#WeNurses https://t.co/1Amt0c2yb2
+#Wenurses https://t.co/7Y6muh44qS","question 3  is right here gtgtgt 
+
+ ",True,False
+704,704,704,1.2167879211954545e+18,2020-01-13 18:23:41+00:00,['1216787921195454466'],Absolutely #WeNurses https://t.co/2sGWuI96Aj,absolutely  ,True,False
 709,709,709,1.2167866531986063e+18,2020-01-13 18:18:39+00:00,['1216786653198606337'],"Any good examples out there ? we would love to hear 
 
-#WeNurses https://t.co/RqYtKXIZYR"
-710,710,710,1.216786387703423e+18,2020-01-13 18:17:36+00:00,['1216786387703422977'],It is indeed #WeNurses https://t.co/nHFJNPp8Vy
-711,711,711,1.2167862922536468e+18,2020-01-13 18:17:13+00:00,['1216786292253646850'],Well said #WeNurses https://t.co/Ec5uh0XMQv
-712,712,712,1.2167862303120425e+18,2020-01-13 18:16:58+00:00,['1216786230312042498'],#WeNurses https://t.co/0f4Prl3o7d
-714,714,714,1.2167858962400092e+18,2020-01-13 18:15:39+00:00,['1216785896240009216'],QUESTION 2 everyone #WeNurses https://t.co/M9Hp7xbiDQ
-717,717,717,1.216785156180267e+18,2020-01-13 18:12:42+00:00,['1216785156180267009'],Oooh interesting #WeNurses ... thoughts ?? https://t.co/CN3YrMHF9m
-720,720,720,1.2167839426925036e+18,2020-01-13 18:07:53+00:00,['1216783942692503557'],#WeNurses Question 1 https://t.co/XcynHDSFGM
-721,721,721,1.2167827550586593e+18,2020-01-13 18:03:10+00:00,['1216782755058659330'],@waluap @WeNurses @Greenwoodpj @WendyJNicholson #wenurses :)
-723,723,723,1.2167796966183322e+18,2020-01-13 17:51:01+00:00,['1216779696618332162'],Starting in 10 mins #WeNurses https://t.co/saIT2Xxnip
+#WeNurses https://t.co/RqYtKXIZYR","any good examples out there  we would love to hear 
+
+ ",True,False
+710,710,710,1.216786387703423e+18,2020-01-13 18:17:36+00:00,['1216786387703422977'],It is indeed #WeNurses https://t.co/nHFJNPp8Vy,it is indeed  ,True,False
+711,711,711,1.2167862922536468e+18,2020-01-13 18:17:13+00:00,['1216786292253646850'],Well said #WeNurses https://t.co/Ec5uh0XMQv,well said  ,True,False
+714,714,714,1.2167858962400092e+18,2020-01-13 18:15:39+00:00,['1216785896240009216'],QUESTION 2 everyone #WeNurses https://t.co/M9Hp7xbiDQ,question 2 everyone  ,True,False
+717,717,717,1.216785156180267e+18,2020-01-13 18:12:42+00:00,['1216785156180267009'],Oooh interesting #WeNurses ... thoughts ?? https://t.co/CN3YrMHF9m,oooh interesting   thoughts  ,True,False
+720,720,720,1.2167839426925036e+18,2020-01-13 18:07:53+00:00,['1216783942692503557'],#WeNurses Question 1 https://t.co/XcynHDSFGM, question 1 ,True,False
+723,723,723,1.2167796966183322e+18,2020-01-13 17:51:01+00:00,['1216779696618332162'],Starting in 10 mins #WeNurses https://t.co/saIT2Xxnip,starting in 10 mins  ,True,False
 725,725,725,1.216753269600637e+18,2020-01-13 16:06:00+00:00,['1216753269600636931'],"Something that may interest you all .... starts on Jan 20th 
 
-#AllOurhealth https://t.co/5H65S5E4Jt"
+#AllOurhealth https://t.co/5H65S5E4Jt","something that may interest you all  starts on jan 20th 
+
+ ",True,False
 726,726,726,1.2167248319007744e+18,2020-01-13 14:13:00+00:00,['1216724831900774400'],"What examples in practice are there to support the need to modernise the Healthy Childs Programme ?   &gt; https://t.co/TcZ6zuAern
 
-#WeNurses Tonight at 6pm https://t.co/PgbJMmpqzW"
+#WeNurses Tonight at 6pm https://t.co/PgbJMmpqzW","what examples in practice are there to support the need to modernise the healthy childs programme    gt 
+
+ tonight at 6pm ",True,False
 727,727,727,1.2166684602578903e+18,2020-01-13 10:29:00+00:00,['1216668460257890305'],"NEXT MONDAY at 6pm: 
 
 #WeNurses on The Modernising Healthy Child Programme with @WendyJNicholson &amp; @Greenwoodpj 
 
-Background read here &gt; https://t.co/TcZ6zuAern https://t.co/SPKiq3201d"
+Background read here &gt; https://t.co/TcZ6zuAern https://t.co/SPKiq3201d","next monday at 6pm 
+
+ on the modernising healthy child programme with  amp  
+
+background read here gt  ",True,False
 728,728,728,1.215941923225031e+18,2020-01-11 10:22:00+00:00,['1215941923225030656'],"9 DAYS TO GO 
 
 STUDENTS ....Want to know more about prevention, promotion &amp; protection ?
 
 Join the WeLearn #AllOurHealth Virtual Student Event 
 
-Sign up here &gt; https://t.co/OZ6RDMpYT7 https://t.co/W4TKOdkhMa"
+Sign up here &gt; https://t.co/OZ6RDMpYT7 https://t.co/W4TKOdkhMa","9 days to go 
+
+students want to know more about prevention promotion amp protection 
+
+join the welearn  virtual student event 
+
+sign up here gt  ",True,False
 729,729,729,1.2156418041100247e+18,2020-01-10 14:29:26+00:00,['1215641804110024704'],"Don't forget this on  Monday at 6pm: 
 
 #WeNurses on The Modernising Healthy Child Programme with @WendyJNicholson &amp; @Greenwoodpj 
 
-Background read here &gt; https://t.co/TcZ6zuAern https://t.co/D2XjgAecQX"
+Background read here &gt; https://t.co/TcZ6zuAern https://t.co/D2XjgAecQX","dont forget this on  monday at 6pm 
+
+ on the modernising healthy child programme with  amp  
+
+background read here gt  ",True,False
 730,730,730,1.2146526779649843e+18,2020-01-07 20:59:00+00:00,['1214652677964984320'],"WeLearn #AllOurHealth 2020 starts this month ! 
 
 ✅Open to all HCPs &amp; Students 
@@ -677,12 +1075,25 @@ Background read here &gt; https://t.co/TcZ6zuAern https://t.co/D2XjgAecQX"
 
 Find out more and register here &gt;&gt; https://t.co/OZ6RDMpYT7
 
-Please RT and share far and wide https://t.co/rEsPKhgSdu"
+Please RT and share far and wide https://t.co/rEsPKhgSdu","welearn  2020 starts this month  
+
+open to all hcps amp students 
+apply prevention promotion amp protection 
+discuss learning with peers
+make lots of connections
+
+find out more and register here gtgt 
+
+please rt and share far and wide ",True,False
 731,731,731,1.2145910217047204e+18,2020-01-07 16:54:00+00:00,['1214591021704720385'],"NEXT MONDAY at 6pm: 
 
 #WeNurses on The Modernising Healthy Child Programme with @WendyJNicholson &amp; @Greenwoodpj 
 
-Background read here &gt; https://t.co/TcZ6zuAern https://t.co/CHUzlQ1Atb"
+Background read here &gt; https://t.co/TcZ6zuAern https://t.co/CHUzlQ1Atb","next monday at 6pm 
+
+ on the modernising healthy child programme with  amp  
+
+background read here gt  ",True,False
 732,732,732,1.2142173091971932e+18,2020-01-06 16:09:00+00:00,['1214217309197193216'],"**WeLearn #AllOurHealth 2020**
 
 ✅Open to all HCPs &amp; Students 
@@ -692,351 +1103,544 @@ Background read here &gt; https://t.co/TcZ6zuAern https://t.co/CHUzlQ1Atb"
 
 Find out more and register here &gt;&gt; https://t.co/OZ6RDMpYT7
 
-Please RT &amp; pass it on :D https://t.co/OGewUFHfSE"
+Please RT &amp; pass it on :D https://t.co/OGewUFHfSE","welearn  2020
+
+open to all hcps amp students 
+apply prevention promotion amp protection 
+discuss learning with peers
+make lots of connections
+
+find out more and register here gtgt 
+
+please rt amp pass it on d ",True,False
 733,733,733,1.2142027130067272e+18,2020-01-06 15:11:00+00:00,['1214202713006727173'],"NEXT WEEK - Monday January 13th at 6pm: 
 
 #WeNurses on The Modernising Healthy Child Programme with @WendyJNicholson &amp; @Greenwoodpj 
 
-Background read here &gt; https://t.co/TcZ6zuRPiV https://t.co/L6UHeH4Ibh"
+Background read here &gt; https://t.co/TcZ6zuRPiV https://t.co/L6UHeH4Ibh","next week  monday january 13th at 6pm 
+
+ on the modernising healthy child programme with  amp  
+
+background read here gt  ",True,False
 735,735,735,1.2127772026406666e+18,2020-01-02 16:46:32+00:00,['1212777202640666624'],"One for the diaries &gt;&gt;
 
-#WeNurses https://t.co/3OVlX1kx4P"
-736,736,736,1.2072700953089065e+18,2019-12-18 12:03:15+00:00,['1207270095308906497'],Christmas can be really hard for some families and these tips will certainly help to unpick some common difficulties! https://t.co/RbBq0d0JQ0
-737,737,737,1.206656664591573e+18,2019-12-16 19:25:42+00:00,['1206656664591572993'],Why wouldn't you? https://t.co/6JKgv6gbh5
-749,749,749,1.2050516591409152e+18,2019-12-12 09:07:58+00:00,['1205051659140915200'],@om_hwc https://t.co/WlDye31pyC
-753,753,753,1.2044751154734408e+18,2019-12-10 18:57:00+00:00,['1204475115473440768'],Join in in just over an hours time #WeMDT https://t.co/R2zsVvJWoG
-762,762,762,1.2041197741182075e+18,2019-12-09 19:25:00+00:00,['1204119774118207488'],Tuesday at 8pm #WeMDT https://t.co/rggDcbeTyP
+#WeNurses https://t.co/3OVlX1kx4P","one for the diaries gtgt
+
+ ",True,False
+736,736,736,1.2072700953089065e+18,2019-12-18 12:03:15+00:00,['1207270095308906497'],Christmas can be really hard for some families and these tips will certainly help to unpick some common difficulties! https://t.co/RbBq0d0JQ0,christmas can be really hard for some families and these tips will certainly help to unpick some common difficulties ,True,False
+737,737,737,1.206656664591573e+18,2019-12-16 19:25:42+00:00,['1206656664591572993'],Why wouldn't you? https://t.co/6JKgv6gbh5,why wouldnt you ,True,False
+753,753,753,1.2044751154734408e+18,2019-12-10 18:57:00+00:00,['1204475115473440768'],Join in in just over an hours time #WeMDT https://t.co/R2zsVvJWoG,join in in just over an hours time  ,True,False
+762,762,762,1.2041197741182075e+18,2019-12-09 19:25:00+00:00,['1204119774118207488'],Tuesday at 8pm #WeMDT https://t.co/rggDcbeTyP,tuesday at 8pm  ,True,False
 764,764,764,1.20264077846127e+18,2019-12-05 17:28:00+00:00,['1202640778461270016'],"On Monday at 8pm there is a #WeMDT Twitter Chat with  @Zer0Suicide 
 
-Please join us to talk about assessment and safety planning in suicide prevention. https://t.co/pGBUK3exBx"
+Please join us to talk about assessment and safety planning in suicide prevention. https://t.co/pGBUK3exBx","on monday at 8pm there is a  twitter chat with   
+
+please join us to talk about assessment and safety planning in suicide prevention ",True,False
 765,765,765,1.202574592763519e+18,2019-12-05 13:05:00+00:00,['1202574592763518976'],"Tonight at 8pm there is a #WeMDT Twitter Chat with  @Zer0Suicide 
 
-Please join us to talk about assessment and safety planning in suicide prevention. https://t.co/Ot6uHjwnNM"
+Please join us to talk about assessment and safety planning in suicide prevention. https://t.co/Ot6uHjwnNM","tonight at 8pm there is a  twitter chat with   
+
+please join us to talk about assessment and safety planning in suicide prevention ",True,False
 769,769,769,1.1993591550871347e+18,2019-11-26 16:08:00+00:00,['1199359155087134720'],"Come on School Nurses ..... something for us to lead the way in ... 
 
-#AllOurHealth https://t.co/nY4cKr6Fj4"
+#AllOurHealth https://t.co/nY4cKr6Fj4","come on school nurses  something for us to lead the way in  
+
+ ",True,False
 770,770,770,1.1988701830345073e+18,2019-11-25 07:45:00+00:00,['1198870183034507265'],"CALLING ALL STUDENTS  .... your mission this week (should you chose to accept it) is to inspire your university to lead the way in health promotion, disease prevention &amp; health protection  &gt; https://t.co/VJU85Rclkt
 
 WeLearn #AllOurHealth
 
-*This Tweet will not self destruct* #phew https://t.co/LWeXN8AWQ5"
-771,771,771,1.198718267927466e+18,2019-11-24 21:41:20+00:00,['1198718267927465984'],@om_hwc https://t.co/HEh59TlTk8
-772,772,772,1.1986234807298007e+18,2019-11-24 15:24:41+00:00,['1198623480729800705'],Really interesting read! Great insight into living with anxiety #anxiety #stress https://t.co/ep05Cg6klz
-792,792,792,1.1982287907675054e+18,2019-11-23 13:16:20+00:00,['1198228790767505409'],Always so busy for School Nurses!! https://t.co/NXvF7CF56G
+*This Tweet will not self destruct* #phew https://t.co/LWeXN8AWQ5","calling all students   your mission this week should you chose to accept it is to inspire your university to lead the way in health promotion disease prevention amp health protection  gt 
+
+welearn 
+
+this tweet will not self destruct  ",True,False
+772,772,772,1.1986234807298007e+18,2019-11-24 15:24:41+00:00,['1198623480729800705'],Really interesting read! Great insight into living with anxiety #anxiety #stress https://t.co/ep05Cg6klz,really interesting read great insight into living with anxiety   ,True,False
+792,792,792,1.1982287907675054e+18,2019-11-23 13:16:20+00:00,['1198228790767505409'],Always so busy for School Nurses!! https://t.co/NXvF7CF56G,always so busy for school nurses ,True,False
 796,796,796,1.1971264432028262e+18,2019-11-20 12:16:00+00:00,['1197126443202826240'],"Is your organisation enthusiastic about health promotion, disease prevention &amp; health protection? 
 
 Do you want to access freeee CPD!
 
 WeCommunities &amp; PHE are looking for 12 organisations to be part of WeLearn #AllOurHealth 2020 
 
-Click here to sign up https://t.co/ayKKtOiIIL https://t.co/12fmB5xe1E"
+Click here to sign up https://t.co/ayKKtOiIIL https://t.co/12fmB5xe1E","is your organisation enthusiastic about health promotion disease prevention amp health protection 
+
+do you want to access freeee cpd
+
+wecommunities amp phe are looking for 12 organisations to be part of welearn  2020 
+
+click here to sign up  ",True,False
 798,798,798,1.1965242250723738e+18,2019-11-18 20:23:00+00:00,['1196524225072373762'],"Is your organisation enthusiastic about health promotion, disease prevention &amp; health protection? 
 
 WeCommunities &amp; PHE are looking for 12 amazing organisations o be part of WeLearn #AllOurHealth 2020 
 
-Find out more &amp; sign up here &gt; https://t.co/VJU85RtWJ3 https://t.co/fdoYYCPQmb"
+Find out more &amp; sign up here &gt; https://t.co/VJU85RtWJ3 https://t.co/fdoYYCPQmb","is your organisation enthusiastic about health promotion disease prevention amp health protection 
+
+wecommunities amp phe are looking for 12 amazing organisations o be part of welearn  2020 
+
+find out more amp sign up here gt  ",True,False
 799,799,799,1.1950243420499476e+18,2019-11-14 17:03:00+00:00,['1195024342049947648'],"Is your organisation enthusiastic about health promotion, disease prevention &amp; health protection ? 
 
 If so sign up to be part of WeLearn #AllOurHealth 2020 &gt; https://t.co/VJU85Rclkt
 
-Be part of something amazing !! https://t.co/Urr0wwRsXd"
-801,801,801,1.1946785635695903e+18,2019-11-13 18:09:00+00:00,['1194678563569590272'],WeLearn #AllOurHealth is back for 2020 ... here's how your organisation can get involved: https://t.co/Sd37Haulvw
+Be part of something amazing !! https://t.co/Urr0wwRsXd","is your organisation enthusiastic about health promotion disease prevention amp health protection  
+
+if so sign up to be part of welearn  2020 gt 
+
+be part of something amazing  ",True,False
+801,801,801,1.1946785635695903e+18,2019-11-13 18:09:00+00:00,['1194678563569590272'],WeLearn #AllOurHealth is back for 2020 ... here's how your organisation can get involved: https://t.co/Sd37Haulvw,welearn  is back for 2020  heres how your organisation can get involved ,True,False
 808,808,808,1.1914496332366316e+18,2019-11-04 20:18:23+00:00,['1191449633236631552'],"Here is tonights first question &gt; 
 
-#WeMDT https://t.co/Whca44Yrg3"
-839,839,839,1.185995700972204e+18,2019-10-20 19:06:24+00:00,['1185995700972204032'],Well done! 👍 https://t.co/P14AKfdp7I
-847,847,847,1.1859953438650122e+18,2019-10-20 19:04:59+00:00,['1185995343865012239'],Our favourite colour!!!! https://t.co/KgjF1f0LAR
-858,858,858,1.184518606882771e+18,2019-10-16 17:16:57+00:00,['1184518606882770946'],This is great! https://t.co/LGiOzEHry6
-861,861,861,1.1834795139986022e+18,2019-10-13 20:27:58+00:00,['1183479513998602240'],Well done https://t.co/leeMaNgfK2
-862,862,862,1.1834792572694528e+18,2019-10-13 20:26:57+00:00,['1183479257269452808'],Worth a listen https://t.co/gv5vmCT9xH
-864,864,864,1.1827492521513697e+18,2019-10-11 20:06:10+00:00,['1182749252151369728'],@JennerRita 😪
-866,866,866,1.1827414376344904e+18,2019-10-11 19:35:07+00:00,['1182741437634490369'],Just goes to show what school nurses can do when they are able to work to their full potential! Really making a difference and showing how early intervention works! https://t.co/DfevFG9BSz
+#WeMDT https://t.co/Whca44Yrg3","here is tonights first question gt 
+
+ ",True,False
+839,839,839,1.185995700972204e+18,2019-10-20 19:06:24+00:00,['1185995700972204032'],Well done! 👍 https://t.co/P14AKfdp7I,well done  ,True,False
+847,847,847,1.1859953438650122e+18,2019-10-20 19:04:59+00:00,['1185995343865012239'],Our favourite colour!!!! https://t.co/KgjF1f0LAR,our favourite colour ,True,False
+858,858,858,1.184518606882771e+18,2019-10-16 17:16:57+00:00,['1184518606882770946'],This is great! https://t.co/LGiOzEHry6,this is great ,True,False
+861,861,861,1.1834795139986022e+18,2019-10-13 20:27:58+00:00,['1183479513998602240'],Well done https://t.co/leeMaNgfK2,well done ,True,False
+862,862,862,1.1834792572694528e+18,2019-10-13 20:26:57+00:00,['1183479257269452808'],Worth a listen https://t.co/gv5vmCT9xH,worth a listen ,True,False
+866,866,866,1.1827414376344904e+18,2019-10-11 19:35:07+00:00,['1182741437634490369'],Just goes to show what school nurses can do when they are able to work to their full potential! Really making a difference and showing how early intervention works! https://t.co/DfevFG9BSz,just goes to show what school nurses can do when they are able to work to their full potential really making a difference and showing how early intervention works ,True,False
 882,882,882,1.1798475094113362e+18,2019-10-03 19:55:41+00:00,['1179847509411336199'],"Final points folks ?
 
-#WeMDT https://t.co/vtLpMJVrge"
-887,887,887,1.1798426360117084e+18,2019-10-03 19:36:19+00:00,['1179842636011708416'],Question 4 everyone #WeMDT https://t.co/XXGBAL0b7k
-889,889,889,1.179840200186454e+18,2019-10-03 19:26:38+00:00,['1179840200186454016'],Great advice #WeMDT https://t.co/56IFzO9QFC
-893,893,893,1.179838639066534e+18,2019-10-03 19:20:26+00:00,['1179838639066533889'],Question 2 #WeMDT https://t.co/oX7Ad3ZmTs
-896,896,896,1.1798351116904407e+18,2019-10-03 19:06:25+00:00,['1179835111690440705'],Question 1 #WeMDT https://t.co/3YX8bX0NoC
-897,897,897,1.1798348471095665e+18,2019-10-03 19:05:22+00:00,['1179834847109566469'],Hi all #WeMDT https://t.co/BxAjOL0wWJ
+#WeMDT https://t.co/vtLpMJVrge","final points folks 
+
+ ",True,False
+887,887,887,1.1798426360117084e+18,2019-10-03 19:36:19+00:00,['1179842636011708416'],Question 4 everyone #WeMDT https://t.co/XXGBAL0b7k,question 4 everyone  ,True,False
+889,889,889,1.179840200186454e+18,2019-10-03 19:26:38+00:00,['1179840200186454016'],Great advice #WeMDT https://t.co/56IFzO9QFC,great advice  ,True,False
+893,893,893,1.179838639066534e+18,2019-10-03 19:20:26+00:00,['1179838639066533889'],Question 2 #WeMDT https://t.co/oX7Ad3ZmTs,question 2  ,True,False
+896,896,896,1.1798351116904407e+18,2019-10-03 19:06:25+00:00,['1179835111690440705'],Question 1 #WeMDT https://t.co/3YX8bX0NoC,question 1  ,True,False
+897,897,897,1.1798348471095665e+18,2019-10-03 19:05:22+00:00,['1179834847109566469'],Hi all #WeMDT https://t.co/BxAjOL0wWJ,hi all  ,True,False
 898,898,898,1.1798323212199895e+18,2019-10-03 18:55:20+00:00,['1179832321219989504'],"Post Bercow report HCP support for CYP - what do you know
 This couldn't be more right for us to join from 8pm via #WeMDT
-Nothing like a Multi Disciplinary Team chat to share and learn together! https://t.co/kGUpEGfQPV"
-899,899,899,1.1798316754690785e+18,2019-10-03 18:52:46+00:00,['1179831675469078528'],Starting in 10 #WeMDT https://t.co/kGUpEGfQPV
+Nothing like a Multi Disciplinary Team chat to share and learn together! https://t.co/kGUpEGfQPV","post bercow report hcp support for cyp  what do you know
+this couldnt be more right for us to join from 8pm via 
+nothing like a multi disciplinary team chat to share and learn together ",True,False
+899,899,899,1.1798316754690785e+18,2019-10-03 18:52:46+00:00,['1179831675469078528'],Starting in 10 #WeMDT https://t.co/kGUpEGfQPV,starting in 10  ,True,False
 902,902,902,1.1797315739329905e+18,2019-10-03 12:15:00+00:00,['1179731573932990464'],"Join us at 8pm to discuss ""Speech, language &amp; communication""
 
-Details here &gt; https://t.co/Qd2pxrWq2N https://t.co/yBSfLAMWoX"
-905,905,905,1.1794751342536049e+18,2019-10-02 19:16:00+00:00,['1179475134253604866'],Here are the details of tomorrow nights #WeMDT tweetchat &gt;&gt; https://t.co/jjV8SRV6ct
+Details here &gt; https://t.co/Qd2pxrWq2N https://t.co/yBSfLAMWoX","join us at 8pm to discuss speech language amp communication
+
+details here gt  ",True,False
+905,905,905,1.1794751342536049e+18,2019-10-02 19:16:00+00:00,['1179475134253604866'],Here are the details of tomorrow nights #WeMDT tweetchat &gt;&gt; https://t.co/jjV8SRV6ct,here are the details of tomorrow nights  tweetchat gtgt ,True,False
 907,907,907,1.179276710556119e+18,2019-10-02 06:07:32+00:00,['1179276710556119041'],"""Speech, language &amp; communication"" &gt; https://t.co/Qd2pxrWq2N
 
-#WeMDT Tomorrow at 8pm https://t.co/65NDdd7KxD"
-908,908,908,1.1790344809814794e+18,2019-10-01 14:05:00+00:00,['1179034480981479424'],"Pop along to #WeMDT on Thursday at 8pm to discuss and explore speech, language and communication &gt; https://t.co/NRYlJDwu61"
-909,909,909,1.1786985169122017e+18,2019-09-30 15:50:00+00:00,['1178698516912201729'],#WeMDT Thursday at 8pm is well worth joining in &gt;&gt; https://t.co/MIcc4fEvuD
-923,923,923,1.1750971667901235e+18,2019-09-20 17:19:31+00:00,['1175097166790123520'],This is shocking! Not your usual back to school video!!! https://t.co/cZVxHsoDhv
-926,926,926,1.1750956458347643e+18,2019-09-20 17:13:28+00:00,['1175095645834764290'],Great tips for parents about listening to their children especially teenagers!! https://t.co/Ks6AnToFbL
-928,928,928,1.1750952201507062e+18,2019-09-20 17:11:47+00:00,['1175095220150706177'],Come on school nurses let’s get involved! https://t.co/mqXyTghWWW
-958,958,958,1.1595548769737523e+18,2019-08-08 20:00:00+00:00,['1159554876973752320'],#WeNurses &gt;&gt;&gt; https://t.co/BVRzXtX7Hf
-959,959,959,1.159552115875963e+18,2019-08-08 19:49:02+00:00,['1159552115875962880'],Thoughts ?? #WeNurses https://t.co/Ic6TAp1q5p
-960,960,960,1.1594562883943588e+18,2019-08-08 13:28:15+00:00,['1159456288394358784'],Tonights #WeNurses Tweetchat https://t.co/qaKGhXbIy6
+#WeMDT Tomorrow at 8pm https://t.co/65NDdd7KxD","speech language amp communication gt 
+
+ tomorrow at 8pm ",True,False
+908,908,908,1.1790344809814794e+18,2019-10-01 14:05:00+00:00,['1179034480981479424'],"Pop along to #WeMDT on Thursday at 8pm to discuss and explore speech, language and communication &gt; https://t.co/NRYlJDwu61",pop along to  on thursday at 8pm to discuss and explore speech language and communication gt ,True,False
+909,909,909,1.1786985169122017e+18,2019-09-30 15:50:00+00:00,['1178698516912201729'],#WeMDT Thursday at 8pm is well worth joining in &gt;&gt; https://t.co/MIcc4fEvuD, thursday at 8pm is well worth joining in gtgt ,True,False
+923,923,923,1.1750971667901235e+18,2019-09-20 17:19:31+00:00,['1175097166790123520'],This is shocking! Not your usual back to school video!!! https://t.co/cZVxHsoDhv,this is shocking not your usual back to school video ,True,False
+926,926,926,1.1750956458347643e+18,2019-09-20 17:13:28+00:00,['1175095645834764290'],Great tips for parents about listening to their children especially teenagers!! https://t.co/Ks6AnToFbL,great tips for parents about listening to their children especially teenagers ,True,False
+928,928,928,1.1750952201507062e+18,2019-09-20 17:11:47+00:00,['1175095220150706177'],Come on school nurses let’s get involved! https://t.co/mqXyTghWWW,come on school nurses let’s get involved ,True,False
+958,958,958,1.1595548769737523e+18,2019-08-08 20:00:00+00:00,['1159554876973752320'],#WeNurses &gt;&gt;&gt; https://t.co/BVRzXtX7Hf, gtgtgt ,True,False
+959,959,959,1.159552115875963e+18,2019-08-08 19:49:02+00:00,['1159552115875962880'],Thoughts ?? #WeNurses https://t.co/Ic6TAp1q5p,thoughts   ,True,False
+960,960,960,1.1594562883943588e+18,2019-08-08 13:28:15+00:00,['1159456288394358784'],Tonights #WeNurses Tweetchat https://t.co/qaKGhXbIy6,tonights  tweetchat ,True,False
 976,976,976,1.1570097392780943e+18,2019-08-01 19:26:32+00:00,['1157009739278094337'],"oooh question 3 ... thoughts ??
 
-#Wenurses https://t.co/6sXSLu3YXn"
-980,980,980,1.1570048378019308e+18,2019-08-01 19:07:04+00:00,['1157004837801930752'],#WeNurses tonights first question &gt; https://t.co/KzZwSceFBK
-982,982,982,1.1570009171594895e+18,2019-08-01 18:51:29+00:00,['1157000917159489536'],10 minutes until #WeNurses https://t.co/fOT0MG4Lcq
+#Wenurses https://t.co/6sXSLu3YXn","oooh question 3  thoughts 
+
+ ",True,False
+980,980,980,1.1570048378019308e+18,2019-08-01 19:07:04+00:00,['1157004837801930752'],#WeNurses tonights first question &gt; https://t.co/KzZwSceFBK, tonights first question gt ,True,False
+982,982,982,1.1570009171594895e+18,2019-08-01 18:51:29+00:00,['1157000917159489536'],10 minutes until #WeNurses https://t.co/fOT0MG4Lcq,10 minutes until  ,True,False
 985,985,985,1.156988713467089e+18,2019-08-01 18:02:59+00:00,['1156988713467088899'],"An interesting #WeNurses this evening 
 
-Join in from 8pm https://t.co/We9HF5BtqU"
-989,989,989,1.1565159558009774e+18,2019-07-31 10:44:25+00:00,['1156515955800977408'],One for School Nurses to join &gt;&gt; https://t.co/KUDuLqbJ1B
+Join in from 8pm https://t.co/We9HF5BtqU","an interesting  this evening 
+
+join in from 8pm ",True,False
+989,989,989,1.1565159558009774e+18,2019-07-31 10:44:25+00:00,['1156515955800977408'],One for School Nurses to join &gt;&gt; https://t.co/KUDuLqbJ1B,one for school nurses to join gtgt ,True,False
 991,991,991,1.1544853991101112e+18,2019-07-25 20:15:43+00:00,['1154485399110111234'],"Another great tweetchat next week &gt;&gt;
 
-#WeNurses https://t.co/bnsw3QwKSI"
+#WeNurses https://t.co/bnsw3QwKSI","another great tweetchat next week gtgt
+
+ ",True,False
 993,993,993,1.1544807126841713e+18,2019-07-25 19:57:05+00:00,['1154480712684171264'],"Final thoughts ?
 
-#WeNurses https://t.co/6kSH3c4gan"
+#WeNurses https://t.co/6kSH3c4gan","final thoughts 
+
+ ",True,False
 994,994,994,1.1544783038032568e+18,2019-07-25 19:47:31+00:00,['1154478303803256833'],"What 3 tips would you give to schools ?
 
-#WeNurses https://t.co/6zxcMgFOBb"
-997,997,997,1.154476313236738e+18,2019-07-25 19:39:36+00:00,['1154476313236738048'],Great question #WeNurses https://t.co/6XRoryFVLq
+#WeNurses https://t.co/6zxcMgFOBb","what 3 tips would you give to schools 
+
+ ",True,False
+997,997,997,1.154476313236738e+18,2019-07-25 19:39:36+00:00,['1154476313236738048'],Great question #WeNurses https://t.co/6XRoryFVLq,great question  ,True,False
 998,998,998,1.154473962065158e+18,2019-07-25 19:30:16+00:00,['1154473962065158146'],"Question 3 
 
-#WeNurses https://t.co/JdJuDJtJDd"
-999,999,999,1.1544735465985556e+18,2019-07-25 19:28:37+00:00,['1154473546598555649'],A really excellent point ... and an argument for not abandoning tech all together #WeNurses https://t.co/MZ9D1wpltz
+#WeNurses https://t.co/JdJuDJtJDd","question 3 
+
+ ",True,False
+999,999,999,1.1544735465985556e+18,2019-07-25 19:28:37+00:00,['1154473546598555649'],A really excellent point ... and an argument for not abandoning tech all together #WeNurses https://t.co/MZ9D1wpltz,a really excellent point  and an argument for not abandoning tech all together  ,True,False
 1002,1002,1002,1.1544703080631706e+18,2019-07-25 19:15:45+00:00,['1154470308063170560'],"Oooh interesting question ... thoughts ?
 
-#WeNurses https://t.co/xwSqtyf5B0"
-1004,1004,1004,1.1544690367738593e+18,2019-07-25 19:10:42+00:00,['1154469036773859336'],Question 1 #WeNurses https://t.co/Xkkd0dbUNz
-1005,1005,1005,1.1544670082153103e+18,2019-07-25 19:02:38+00:00,['1154467008215310337'],Hello #WeNurses https://t.co/hh2hNN7zPT
-1007,1007,1007,1.1544626981486428e+18,2019-07-25 18:45:30+00:00,['1154462698148642817'],Starting in 15 minutes ... #WeNurses on Resilience https://t.co/b9JLRdck5e
+#WeNurses https://t.co/xwSqtyf5B0","oooh interesting question  thoughts 
+
+ ",True,False
+1004,1004,1004,1.1544690367738593e+18,2019-07-25 19:10:42+00:00,['1154469036773859336'],Question 1 #WeNurses https://t.co/Xkkd0dbUNz,question 1  ,True,False
+1005,1005,1005,1.1544670082153103e+18,2019-07-25 19:02:38+00:00,['1154467008215310337'],Hello #WeNurses https://t.co/hh2hNN7zPT,hello  ,True,False
+1007,1007,1007,1.1544626981486428e+18,2019-07-25 18:45:30+00:00,['1154462698148642817'],Starting in 15 minutes ... #WeNurses on Resilience https://t.co/b9JLRdck5e,starting in 15 minutes   on resilience ,True,False
 1008,1008,1008,1.1544484398639268e+18,2019-07-25 17:48:51+00:00,['1154448439863926789'],"This evening at 8pm 
 
-Join in via #WeNurses (bring an ice cream!) https://t.co/sALd58RFYH"
-1010,1010,1010,1.1543359453297172e+18,2019-07-25 10:21:50+00:00,['1154335945329717248'],Join #WeNurses tonight at 8pm for a discussion on resilience in children and young people: https://t.co/5aSkkDfBaB
+Join in via #WeNurses (bring an ice cream!) https://t.co/sALd58RFYH","this evening at 8pm 
+
+join in via  bring an ice cream ",True,False
+1010,1010,1010,1.1543359453297172e+18,2019-07-25 10:21:50+00:00,['1154335945329717248'],Join #WeNurses tonight at 8pm for a discussion on resilience in children and young people: https://t.co/5aSkkDfBaB,join  tonight at 8pm for a discussion on resilience in children and young people ,True,False
 1033,1033,1033,1.144329176364794e+18,2019-06-27 19:38:30+00:00,['1144329176364793856'],"Question 5 ... incase you missed it
 
-#Wenurses https://t.co/WB45ETaVLB"
+#Wenurses https://t.co/WB45ETaVLB","question 5  incase you missed it
+
+ ",True,False
 1034,1034,1034,1.144320387855147e+18,2019-06-27 19:03:35+00:00,['1144320387855147013'],"Tonights question 1
 
-#WeNurses https://t.co/wb1pZ5vNL7"
-1035,1035,1035,1.1443178502131098e+18,2019-06-27 18:53:30+00:00,['1144317850213109761'],7 minutes until #WeNurses &gt;&gt; https://t.co/jbOH4xGh4D
+#WeNurses https://t.co/wb1pZ5vNL7","tonights question 1
+
+ ",True,False
+1035,1035,1035,1.1443178502131098e+18,2019-06-27 18:53:30+00:00,['1144317850213109761'],7 minutes until #WeNurses &gt;&gt; https://t.co/jbOH4xGh4D,7 minutes until  gtgt ,True,False
 1036,1036,1036,1.1443082771714294e+18,2019-06-27 18:15:28+00:00,['1144308277171429376'],"Join in from 8pm 
 
-#WeNurses https://t.co/LaHfNrwY84"
-1037,1037,1037,1.1442266931141386e+18,2019-06-27 12:51:16+00:00,['1144226693114138624'],Tonight’s #WeNurses looks very interesting &gt; https://t.co/efkQUkjHpW
-1038,1038,1038,1.1439352026761871e+18,2019-06-26 17:33:00+00:00,['1143935202676187137'],Tomorrow evenings #WeNurses is on Values Based Practice .. here are the details &gt;&gt; https://t.co/py7mGpSewu
-1040,1040,1040,1.1438757982874748e+18,2019-06-26 13:36:57+00:00,['1143875798287474691'],"Admirable qualities to have. Well done Dawn and well done to your Trust for recognising your ""off duty"" caring and compassion. https://t.co/t9uBB16GPV"
+#WeNurses https://t.co/LaHfNrwY84","join in from 8pm 
+
+ ",True,False
+1037,1037,1037,1.1442266931141386e+18,2019-06-27 12:51:16+00:00,['1144226693114138624'],Tonight’s #WeNurses looks very interesting &gt; https://t.co/efkQUkjHpW,tonight’s  looks very interesting gt ,True,False
+1038,1038,1038,1.1439352026761871e+18,2019-06-26 17:33:00+00:00,['1143935202676187137'],Tomorrow evenings #WeNurses is on Values Based Practice .. here are the details &gt;&gt; https://t.co/py7mGpSewu,tomorrow evenings  is on values based practice  here are the details gtgt ,True,False
+1040,1040,1040,1.1438757982874748e+18,2019-06-26 13:36:57+00:00,['1143875798287474691'],"Admirable qualities to have. Well done Dawn and well done to your Trust for recognising your ""off duty"" caring and compassion. https://t.co/t9uBB16GPV",admirable qualities to have well done dawn and well done to your trust for recognising your off duty caring and compassion ,True,False
 1060,1060,1060,1.1417839382450586e+18,2019-06-20 19:04:38+00:00,['1141783938245058560'],"what 3 words would you use that sum up nursings stereotypes ?
 
-#WeNurses https://t.co/TaPINGmJjC"
-1067,1067,1067,1.140982496571605e+18,2019-06-18 14:00:00+00:00,['1140982496571604992'],#NursesToo - come and join us for a real life event on July 3rd https://t.co/6HkzDN8wvD
-1068,1068,1068,1.1409432943708938e+18,2019-06-18 11:24:13+00:00,['1140943294370893824'],Would mandation in SN services be  a good thing?  #SAPHNA19  love to hear people's views
-1076,1076,1076,1.1409331692496936e+18,2019-06-18 10:43:59+00:00,['1140933169249693696'],@ourtimecharity cyp living with a parent with mental illness often feel if they were better carers they could prevent a parents hospital admission.  How can we support? #SAPHNA19
-1086,1086,1086,1.1409147230907844e+18,2019-06-18 09:30:41+00:00,['1140914723090784256'],#SAPHNA19 https://t.co/bhO7L0xDat
-1087,1087,1087,1.1409146140053052e+18,2019-06-18 09:30:15+00:00,['1140914614005305346'],#SAPHNA19 https://t.co/YpRbBEnNyY
-1088,1088,1088,1.1409145492788264e+18,2019-06-18 09:30:00+00:00,['1140914549278826496'],#SAPHNA19 https://t.co/g9CwIUVsbP
-1098,1098,1098,1.139262613831979e+18,2019-06-13 20:05:48+00:00,['1139262613831979008'],More information available via @HEE_TEL MindEd e-learning platform #WeMDT https://t.co/Xc6xGQL4f1
-1103,1103,1103,1.1392562290989056e+18,2019-06-13 19:40:26+00:00,['1139256229098905605'],Question 5 folks #WeMDT https://t.co/7UR9UVvjyc
-1105,1105,1105,1.1392528608252888e+18,2019-06-13 19:27:02+00:00,['1139252860825288709'],This is incredibly sad to hear #WeMDT https://t.co/OvOxQBzH9s
-1107,1107,1107,1.139248086142935e+18,2019-06-13 19:08:04+00:00,['1139248086142935040'],Really important points #WeMDT https://t.co/GRMDNM3abL
-1108,1108,1108,1.139246741251924e+18,2019-06-13 19:02:43+00:00,['1139246741251923969'],Question 1 #WeMDT https://t.co/qGzJMQx5aJ
+#WeNurses https://t.co/TaPINGmJjC","what 3 words would you use that sum up nursings stereotypes 
+
+ ",True,False
+1067,1067,1067,1.140982496571605e+18,2019-06-18 14:00:00+00:00,['1140982496571604992'],#NursesToo - come and join us for a real life event on July 3rd https://t.co/6HkzDN8wvD,  come and join us for a real life event on july 3rd ,True,False
+1068,1068,1068,1.1409432943708938e+18,2019-06-18 11:24:13+00:00,['1140943294370893824'],Would mandation in SN services be  a good thing?  #SAPHNA19  love to hear people's views,would mandation in sn services be  a good thing    love to hear peoples views,True,False
+1076,1076,1076,1.1409331692496936e+18,2019-06-18 10:43:59+00:00,['1140933169249693696'],@ourtimecharity cyp living with a parent with mental illness often feel if they were better carers they could prevent a parents hospital admission.  How can we support? #SAPHNA19, cyp living with a parent with mental illness often feel if they were better carers they could prevent a parents hospital admission  how can we support ,True,False
+1098,1098,1098,1.139262613831979e+18,2019-06-13 20:05:48+00:00,['1139262613831979008'],More information available via @HEE_TEL MindEd e-learning platform #WeMDT https://t.co/Xc6xGQL4f1,more information available via  minded elearning platform  ,True,False
+1103,1103,1103,1.1392562290989056e+18,2019-06-13 19:40:26+00:00,['1139256229098905605'],Question 5 folks #WeMDT https://t.co/7UR9UVvjyc,question 5 folks  ,True,False
+1105,1105,1105,1.1392528608252888e+18,2019-06-13 19:27:02+00:00,['1139252860825288709'],This is incredibly sad to hear #WeMDT https://t.co/OvOxQBzH9s,this is incredibly sad to hear  ,True,False
+1107,1107,1107,1.139248086142935e+18,2019-06-13 19:08:04+00:00,['1139248086142935040'],Really important points #WeMDT https://t.co/GRMDNM3abL,really important points  ,True,False
+1108,1108,1108,1.139246741251924e+18,2019-06-13 19:02:43+00:00,['1139246741251923969'],Question 1 #WeMDT https://t.co/qGzJMQx5aJ,question 1  ,True,False
 1109,1109,1109,1.1392438796712468e+18,2019-06-13 18:51:21+00:00,['1139243879671246848'],"10 minutes .....
 
-#WeMDT https://t.co/I3oPp6j2E6"
-1111,1111,1111,1.1392319565945487e+18,2019-06-13 18:03:59+00:00,['1139231956594548736'],Starting at 8pm #WeMDT https://t.co/L7fagud9lj
+#WeMDT https://t.co/I3oPp6j2E6","10 minutes 
+
+ ",True,False
+1111,1111,1111,1.1392319565945487e+18,2019-06-13 18:03:59+00:00,['1139231956594548736'],Starting at 8pm #WeMDT https://t.co/L7fagud9lj,starting at 8pm  ,True,False
 1112,1112,1112,1.1391652723114436e+18,2019-06-13 13:39:00+00:00,['1139165272311443457'],"TONIGHT at 8pm for a very sensitive and emotive #WeMDT tweetchat:
 
 Prevention of suicide and self harm in young people 
 
 Background read here &gt; https://t.co/MQr9WXdnUq
 
-Everyone welcome to lurk, listen or chat https://t.co/lBMzb4Yn0M"
+Everyone welcome to lurk, listen or chat https://t.co/lBMzb4Yn0M","tonight at 8pm for a very sensitive and emotive  tweetchat
+
+prevention of suicide and self harm in young people 
+
+background read here gt 
+
+everyone welcome to lurk listen or chat ",True,False
 1115,1115,1115,1.1387789208227268e+18,2019-06-12 12:03:46+00:00,['1138778920822726657'],"Join in tomorrow from 8pm 
 
-#WeMDT https://t.co/hMqe8YRANf"
-1117,1117,1117,1.1384164815558902e+18,2019-06-11 12:03:34+00:00,['1138416481555890176'],Who will be joining in? Self harm; something that we are always talking to YP about! Sure you will have lots to say?? https://t.co/tzp0doUBmg
+#WeMDT https://t.co/hMqe8YRANf","join in tomorrow from 8pm 
+
+ ",True,False
+1117,1117,1117,1.1384164815558902e+18,2019-06-11 12:03:34+00:00,['1138416481555890176'],Who will be joining in? Self harm; something that we are always talking to YP about! Sure you will have lots to say?? https://t.co/tzp0doUBmg,who will be joining in self harm something that we are always talking to yp about sure you will have lots to say ,True,False
 1123,1123,1123,1.1383868935345192e+18,2019-06-11 10:06:00+00:00,['1138386893534519296'],"Join us on Thursday at 8pm for a #WeMDT tweetchat
 
-Prevention of self harm &amp; suicide in young people &gt; https://t.co/MQr9WXdnUq https://t.co/xiSGbgE6qT"
+Prevention of self harm &amp; suicide in young people &gt; https://t.co/MQr9WXdnUq https://t.co/xiSGbgE6qT","join us on thursday at 8pm for a  tweetchat
+
+prevention of self harm amp suicide in young people gt  ",True,False
 1124,1124,1124,1.1381364939171348e+18,2019-06-10 17:31:00+00:00,['1138136493917134849'],"On Thursday at 8pm a #WeMDT tweetchat with @HEE_TEL 
 
-Prevention of self harm &amp; suicide in young people &gt; https://t.co/MQr9WXuZj0"
+Prevention of self harm &amp; suicide in young people &gt; https://t.co/MQr9WXuZj0","on thursday at 8pm a  tweetchat with  
+
+prevention of self harm amp suicide in young people gt ",True,False
 1125,1125,1125,1.1380139362284708e+18,2019-06-10 09:24:00+00:00,['1138013936228470785'],"On Thursday at 8pm a #WeMDT tweetchat
 
 Prevention of self harm &amp; suicide in young people &gt; https://t.co/MQr9WXuZj0
 
-This tweetchat is linked to the MindEd (free open access online learning from health Education England) &gt; https://t.co/SoRT6ti9BF https://t.co/aiZ57dbkkh"
-1127,1127,1127,1.137996769885864e+18,2019-06-10 08:15:47+00:00,['1137996769885863938'],School Nurses are well placed to support emotional #Wellbeing https://t.co/N438XJvetX
-1135,1135,1135,1.137675554931585e+18,2019-06-09 10:59:23+00:00,['1137675554931585024'],#SAPHNA19 some of the @WeSchoolNurses volunteers will be going! https://t.co/TolaVhSazb
-1136,1136,1136,1.1376746801423892e+18,2019-06-09 10:55:55+00:00,['1137674680142389248'],Use #SAPHNA19 and tweet us if you are going? https://t.co/QdvYGm6qOj
+This tweetchat is linked to the MindEd (free open access online learning from health Education England) &gt; https://t.co/SoRT6ti9BF https://t.co/aiZ57dbkkh","on thursday at 8pm a  tweetchat
+
+prevention of self harm amp suicide in young people gt 
+
+this tweetchat is linked to the minded free open access online learning from health education england gt  ",True,False
+1127,1127,1127,1.137996769885864e+18,2019-06-10 08:15:47+00:00,['1137996769885863938'],School Nurses are well placed to support emotional #Wellbeing https://t.co/N438XJvetX,school nurses are well placed to support emotional  ,True,False
+1135,1135,1135,1.137675554931585e+18,2019-06-09 10:59:23+00:00,['1137675554931585024'],#SAPHNA19 some of the @WeSchoolNurses volunteers will be going! https://t.co/TolaVhSazb, some of the  volunteers will be going ,True,False
+1136,1136,1136,1.1376746801423892e+18,2019-06-09 10:55:55+00:00,['1137674680142389248'],Use #SAPHNA19 and tweet us if you are going? https://t.co/QdvYGm6qOj,use  and tweet us if you are going ,True,False
 1140,1140,1140,1.1369172128355164e+18,2019-06-07 08:46:01+00:00,['1136917212835516416'],"Next Thursday a #WeMDT tweetchat is taking place on the very important topic of: 
 
 Prevention of suicide and self-harm in young people with @HEE_TEL https://t.co/MQr9WXuZj0
 
-Please do join in and also take time to explore the e-learning around this topic &gt; https://t.co/SoRT6ti9BF https://t.co/wYayuLp4bY"
-1158,1158,1158,1.132953611691004e+18,2019-05-27 10:16:04+00:00,['1132953611691003905'],Great free resource https://t.co/LJOszLHup3
-1162,1162,1162,1.1329533818431652e+18,2019-05-27 10:15:10+00:00,['1132953381843165184'],Nurse get mandatory supervision! Are any school nurses offering this to teachers? https://t.co/tUUVpKP63A
-1169,1169,1169,1.1308100867571588e+18,2019-05-21 12:18:28+00:00,['1130810086757158913'],Who’s going??? Excitement is building https://t.co/Ve6I1DFGeZ
-1173,1173,1173,1.1293537529416172e+18,2019-05-17 11:51:31+00:00,['1129353752941617153'],@MrJonnyBenjamin So brave and necessary you are not alone in having this worry!
-1179,1179,1179,1.1290331770147104e+18,2019-05-16 14:37:40+00:00,['1129033177014710277'],Great for YP! https://t.co/jqzaDN0H7B
-1188,1188,1188,1.1282277824446382e+18,2019-05-14 09:17:19+00:00,['1128227782444638208'],Looks good! https://t.co/ytevi2eIpp
-1191,1191,1191,1.1282275808328786e+18,2019-05-14 09:16:31+00:00,['1128227580832878592'],Some great advice for young people https://t.co/GQQtXTUYja
-1192,1192,1192,1.126562486659031e+18,2019-05-09 19:00:01+00:00,['1126562486659031041'],Important to celebrate being who we are and to shout about our achievements https://t.co/fxRXV5VLRj
-1193,1193,1193,1.126562240948314e+18,2019-05-09 18:59:03+00:00,['1126562240948314113'],"@waluap @NWBoroughsNHS @NWBH_childrens @WeHealthVisitor Always good to be recognised for your achievements, well done"
-1194,1194,1194,1.126562039026135e+18,2019-05-09 18:58:15+00:00,['1126562039026135042'],@Dawn120806 @waluap @NWBoroughsNHS @NWBH_childrens @WeHealthVisitor Congrats Dawn
+Please do join in and also take time to explore the e-learning around this topic &gt; https://t.co/SoRT6ti9BF https://t.co/wYayuLp4bY","next thursday a  tweetchat is taking place on the very important topic of 
+
+prevention of suicide and selfharm in young people with  
+
+please do join in and also take time to explore the elearning around this topic gt  ",True,False
+1158,1158,1158,1.132953611691004e+18,2019-05-27 10:16:04+00:00,['1132953611691003905'],Great free resource https://t.co/LJOszLHup3,great free resource ,True,False
+1162,1162,1162,1.1329533818431652e+18,2019-05-27 10:15:10+00:00,['1132953381843165184'],Nurse get mandatory supervision! Are any school nurses offering this to teachers? https://t.co/tUUVpKP63A,nurse get mandatory supervision are any school nurses offering this to teachers ,True,False
+1169,1169,1169,1.1308100867571588e+18,2019-05-21 12:18:28+00:00,['1130810086757158913'],Who’s going??? Excitement is building https://t.co/Ve6I1DFGeZ,who’s going excitement is building ,True,False
+1173,1173,1173,1.1293537529416172e+18,2019-05-17 11:51:31+00:00,['1129353752941617153'],@MrJonnyBenjamin So brave and necessary you are not alone in having this worry!, so brave and necessary you are not alone in having this worry,True,False
+1179,1179,1179,1.1290331770147104e+18,2019-05-16 14:37:40+00:00,['1129033177014710277'],Great for YP! https://t.co/jqzaDN0H7B,great for yp ,True,False
+1188,1188,1188,1.1282277824446382e+18,2019-05-14 09:17:19+00:00,['1128227782444638208'],Looks good! https://t.co/ytevi2eIpp,looks good ,True,False
+1191,1191,1191,1.1282275808328786e+18,2019-05-14 09:16:31+00:00,['1128227580832878592'],Some great advice for young people https://t.co/GQQtXTUYja,some great advice for young people ,True,False
+1192,1192,1192,1.126562486659031e+18,2019-05-09 19:00:01+00:00,['1126562486659031041'],Important to celebrate being who we are and to shout about our achievements https://t.co/fxRXV5VLRj,important to celebrate being who we are and to shout about our achievements ,True,False
+1193,1193,1193,1.126562240948314e+18,2019-05-09 18:59:03+00:00,['1126562240948314113'],"@waluap @NWBoroughsNHS @NWBH_childrens @WeHealthVisitor Always good to be recognised for your achievements, well done",    always good to be recognised for your achievements well done,True,False
+1194,1194,1194,1.126562039026135e+18,2019-05-09 18:58:15+00:00,['1126562039026135042'],@Dawn120806 @waluap @NWBoroughsNHS @NWBH_childrens @WeHealthVisitor Congrats Dawn,     congrats dawn,True,False
 1197,1197,1197,1.125798445044732e+18,2019-05-07 16:24:00+00:00,['1125798445044731904'],"THIS SUNDAY - It's International Nurses Day ... share your ""I am a nurse"" picture 
 
-#IND2019 https://t.co/vslLQvh1Zl"
+#IND2019 https://t.co/vslLQvh1Zl","this sunday  its international nurses day  share your i am a nurse picture 
+
+ ",True,False
 1211,1211,1211,1.121487119082578e+18,2019-04-25 18:52:20+00:00,['1121487119082577924'],"Join in at 8pm 
 
-#expofcare https://t.co/WZBJvI7nPJ"
+#expofcare https://t.co/WZBJvI7nPJ","join in at 8pm 
+
+ ",True,False
 1212,1212,1212,1.1214263866511606e+18,2019-04-25 14:51:00+00:00,['1121426386651160582'],"This evening at 8pm you are invited to join us in a tweetchat for #ExpOfCare Week 2019: 
 
 Coproduction - What are the real challenges? 
 
-Pre chat read here &gt; https://t.co/BRNqaM93Dj"
+Pre chat read here &gt; https://t.co/BRNqaM93Dj","this evening at 8pm you are invited to join us in a tweetchat for  week 2019 
+
+coproduction  what are the real challenges 
+
+pre chat read here gt ",True,False
 1214,1214,1214,1.1210838796355296e+18,2019-04-24 16:10:00+00:00,['1121083879635529729'],"An #ExpOfCare Tweetchat on Coproduction is taking place tomorrow at 8pm .. everyone welcome ! 
 
-Details here &gt; https://t.co/BRNqaM93Dj https://t.co/Z6udQJKHgb"
+Details here &gt; https://t.co/BRNqaM93Dj https://t.co/Z6udQJKHgb","an  tweetchat on coproduction is taking place tomorrow at 8pm  everyone welcome  
+
+details here gt  ",True,False
 1221,1221,1221,1.1207619778177148e+18,2019-04-23 18:50:52+00:00,['1120761977817714688'],"Starting in 10 mins
 
-#ExpOfCare https://t.co/yMDyUPY01Q"
+#ExpOfCare https://t.co/yMDyUPY01Q","starting in 10 mins
+
+ ",True,False
 1223,1223,1223,1.1207325648624394e+18,2019-04-23 16:54:00+00:00,['1120732564862439424'],"We all have a chance to make someones day 
 
-Fab #ExpOfCare blog post by @RMayNurseDir https://t.co/pIONOPkX7y"
+Fab #ExpOfCare blog post by @RMayNurseDir https://t.co/pIONOPkX7y","we all have a chance to make someones day 
+
+fab  blog post by  ",True,False
 1224,1224,1224,1.1207275319954556e+18,2019-04-23 16:34:00+00:00,['1120727531995455489'],"How often do we take time to examine the evidence behind experiences of care ?
 
-Tonight at 8pm share #ExpOfCare links and evidence during the #ExpOfCare Twitter Storm &gt; https://t.co/zLMD8kBr4s"
+Tonight at 8pm share #ExpOfCare links and evidence during the #ExpOfCare Twitter Storm &gt; https://t.co/zLMD8kBr4s","how often do we take time to examine the evidence behind experiences of care 
+
+tonight at 8pm share  links and evidence during the  twitter storm gt ",True,False
 1228,1228,1228,1.1203988661830696e+18,2019-04-22 18:48:00+00:00,['1120398866183069696'],"Why doesn’t coproduction happen more often?
 
 #ExpOfCare Tweetchat on Coproduction &gt;
 https://t.co/BRNqaM93Dj 
 
-Thursday at 8pm"
+Thursday at 8pm","why doesn’t coproduction happen more often
+
+ tweetchat on coproduction gt
+ 
+
+thursday at 8pm",True,False
 1229,1229,1229,1.1202357949192438e+18,2019-04-22 08:00:01+00:00,['1120235794919243777'],"It's #ExpOfCare Week and we are  committed to improving experiences of care! 
 
-Find out more here  https://t.co/CeXt12i2Ax https://t.co/vnKmoDNIsE"
+Find out more here  https://t.co/CeXt12i2Ax https://t.co/vnKmoDNIsE","its  week and we are  committed to improving experiences of care 
+
+find out more here   ",True,False
 1230,1230,1230,1.120052332627206e+18,2019-04-21 19:51:00+00:00,['1120052332627206152'],"Experience of Care Week starts TOMORROW !!! 
 
-Don't forget to send your #ExpOfCare selfie &gt; https://t.co/CeXt12i2Ax https://t.co/Apn7r6OWgb"
-1231,1231,1231,1.1192570921398396e+18,2019-04-19 15:11:00+00:00,['1119257092139839489'],Join in next weeks #ExpOfCare Coproduction Tweetchat .. details here &gt; https://t.co/PzK7xZlsgj
+Don't forget to send your #ExpOfCare selfie &gt; https://t.co/CeXt12i2Ax https://t.co/Apn7r6OWgb","experience of care week starts tomorrow  
+
+dont forget to send your  selfie gt  ",True,False
+1231,1231,1231,1.1192570921398396e+18,2019-04-19 15:11:00+00:00,['1119257092139839489'],Join in next weeks #ExpOfCare Coproduction Tweetchat .. details here &gt; https://t.co/PzK7xZlsgj,join in next weeks  coproduction tweetchat  details here gt ,True,False
 1233,1233,1233,1.1178402567856374e+18,2019-04-15 17:21:00+00:00,['1117840256785637379'],"After the Easter break .... NEXT TUESDAY 
 
 #ExpOfCare Twitter Storm &gt; https://t.co/zLMD8kBr4s 
 
-Share your Experience of Care evidence, research and links to create a storm of information https://t.co/yr41jAd7fi"
-1247,1247,1247,1.1166986795016232e+18,2019-04-12 13:44:47+00:00,['1116698679501623296'],@juliejhooper @Southern_NHSFT Tell us more!
-1258,1258,1258,1.1166301234811168e+18,2019-04-12 09:12:22+00:00,['1116630123481116672'],@Sandraw1992 @BCCareEvents @macmillancancer Wow!
-1264,1264,1264,1.1157010651089224e+18,2019-04-09 19:40:37+00:00,['1115701065108922369'],What are your thoughts?  #WeMDT https://t.co/Q0qlry5vIS
+Share your Experience of Care evidence, research and links to create a storm of information https://t.co/yr41jAd7fi","after the easter break  next tuesday 
+
+ twitter storm gt  
+
+share your experience of care evidence research and links to create a storm of information ",True,False
+1247,1247,1247,1.1166986795016232e+18,2019-04-12 13:44:47+00:00,['1116698679501623296'],@juliejhooper @Southern_NHSFT Tell us more!,  tell us more,True,False
+1258,1258,1258,1.1166301234811168e+18,2019-04-12 09:12:22+00:00,['1116630123481116672'],@Sandraw1992 @BCCareEvents @macmillancancer Wow!,   wow,True,False
+1264,1264,1264,1.1157010651089224e+18,2019-04-09 19:40:37+00:00,['1115701065108922369'],What are your thoughts?  #WeMDT https://t.co/Q0qlry5vIS,what are your thoughts   ,True,False
 1271,1271,1271,1.1130267894193766e+18,2019-04-02 10:34:00+00:00,['1113026789419376641'],"#WeMDT TONIGHT at 8.30pm
 
 How should LD &amp; Autism training for all be  mandated, monitored and evaluated? 
 
-Background read here &gt; https://t.co/ueCaPCkfog"
-1273,1273,1273,1.1087793024500244e+18,2019-03-21 17:16:00+00:00,['1108779302450024450'],#ExpOfCare Week 2019 .... read all about it &gt;&gt; https://t.co/HwUOKu2C1R
-1275,1275,1275,1.1063401028743004e+18,2019-03-14 23:43:29+00:00,['1106340102874300417'],@CrystalOldman @MattHancock @TheQNI @VivJBennett @WendyJNicholson @MrsBosanquet @WeHealthVisitor @WeDistrictNurse @WeGPNs Succinct and so accurate
-1276,1276,1276,1.1063228222537604e+18,2019-03-14 22:34:49+00:00,['1106322822253760513'],10 year!!! https://t.co/Ix0NWgr6rz
-1277,1277,1277,1.1063226978674812e+18,2019-03-14 22:34:20+00:00,['1106322697867481089'],"""It takes a village to bring up a child...."" We need to keep the focus in the right place and use the resources we have https://t.co/MCKN3iAFEB"
+Background read here &gt; https://t.co/ueCaPCkfog"," tonight at 830pm
+
+how should ld amp autism training for all be  mandated monitored and evaluated 
+
+background read here gt ",True,False
+1273,1273,1273,1.1087793024500244e+18,2019-03-21 17:16:00+00:00,['1108779302450024450'],#ExpOfCare Week 2019 .... read all about it &gt;&gt; https://t.co/HwUOKu2C1R, week 2019  read all about it gtgt ,True,False
+1275,1275,1275,1.1063401028743004e+18,2019-03-14 23:43:29+00:00,['1106340102874300417'],@CrystalOldman @MattHancock @TheQNI @VivJBennett @WendyJNicholson @MrsBosanquet @WeHealthVisitor @WeDistrictNurse @WeGPNs Succinct and so accurate,         succinct and so accurate,True,False
+1276,1276,1276,1.1063228222537604e+18,2019-03-14 22:34:49+00:00,['1106322822253760513'],10 year!!! https://t.co/Ix0NWgr6rz,10 year ,True,False
+1277,1277,1277,1.1063226978674812e+18,2019-03-14 22:34:20+00:00,['1106322697867481089'],"""It takes a village to bring up a child...."" We need to keep the focus in the right place and use the resources we have https://t.co/MCKN3iAFEB",it takes a village to bring up a child we need to keep the focus in the right place and use the resources we have ,True,False
 1279,1279,1279,1.1063220486226944e+18,2019-03-14 22:31:45+00:00,['1106322048622694403'],"Important to keep the focus where it matters 
 
-our children ! https://t.co/Ey8NkNOY4k"
-1284,1284,1284,1.1037486491153736e+18,2019-03-07 20:05:59+00:00,['1103748649115373568'],Yes indeed and we have a huge opportunity in school nursing to identify problems early on #AllOurhealth https://t.co/p9rlW2GybM
+our children ! https://t.co/Ey8NkNOY4k","important to keep the focus where it matters 
+
+our children  ",True,False
+1284,1284,1284,1.1037486491153736e+18,2019-03-07 20:05:59+00:00,['1103748649115373568'],Yes indeed and we have a huge opportunity in school nursing to identify problems early on #AllOurhealth https://t.co/p9rlW2GybM,yes indeed and we have a huge opportunity in school nursing to identify problems early on  ,True,False
 1287,1287,1287,1.103678692809683e+18,2019-03-07 15:28:00+00:00,['1103678692809682945'],"TONIGHT at 8pm
 
 The final WeLearn #AllOurHealth Tweetchat...
 
-Mental health &amp; wellbeing &gt; https://t.co/PtQ6PLyyDy"
+Mental health &amp; wellbeing &gt; https://t.co/PtQ6PLyyDy","tonight at 8pm
+
+the final welearn  tweetchat
+
+mental health amp wellbeing gt ",True,False
 1293,1293,1293,1.1012236808378614e+18,2019-02-28 20:52:39+00:00,['1101223680837861376'],"Question 3 
 
-#AllOurHealth https://t.co/D5hlqcBfv0"
+#AllOurHealth https://t.co/D5hlqcBfv0","question 3 
+
+ ",True,False
 1296,1296,1296,1.1010981893048566e+18,2019-02-28 12:34:00+00:00,['1101098189304856577'],"Join us at 8pm 
 
 What are you currently doing to support England’s ambitions to reduce premature CVD death and ill health?
 
 8pm - Live Twitter Video: Watch &amp; listen to @JamieWaterall &amp; @DrMattKearney discuss CVD prevention 
 
-8.30pm - join in the tweetchat via #AllOurHealth https://t.co/Pz5QIhCXU8"
-1300,1300,1300,1.1001645427248252e+18,2019-02-25 22:44:01+00:00,['1100164542724825089'],"We were and then it stopped in many areas - maybe this is why there is an issue and a ""big deal"" is now being made of it. Let's hope tbey use the experts to teach this https://t.co/WviMvXFPMw"
-1304,1304,1304,1.0986760579039764e+18,2019-02-21 20:09:19+00:00,['1098676057903976455'],Great stuff #AllOurHealth https://t.co/Fa0xhZ5sTB
-1305,1305,1305,1.0986741684202906e+18,2019-02-21 20:01:48+00:00,['1098674168420290560'],Hi everyone #AllOurHealth https://t.co/XIZ6yqyajp
+8.30pm - join in the tweetchat via #AllOurHealth https://t.co/Pz5QIhCXU8","join us at 8pm 
+
+what are you currently doing to support england’s ambitions to reduce premature cvd death and ill health
+
+8pm  live twitter video watch amp listen to  amp  discuss cvd prevention 
+
+830pm  join in the tweetchat via  ",True,False
+1300,1300,1300,1.1001645427248252e+18,2019-02-25 22:44:01+00:00,['1100164542724825089'],"We were and then it stopped in many areas - maybe this is why there is an issue and a ""big deal"" is now being made of it. Let's hope tbey use the experts to teach this https://t.co/WviMvXFPMw",we were and then it stopped in many areas  maybe this is why there is an issue and a big deal is now being made of it lets hope tbey use the experts to teach this ,True,False
+1304,1304,1304,1.0986760579039764e+18,2019-02-21 20:09:19+00:00,['1098676057903976455'],Great stuff #AllOurHealth https://t.co/Fa0xhZ5sTB,great stuff  ,True,False
+1305,1305,1305,1.0986741684202906e+18,2019-02-21 20:01:48+00:00,['1098674168420290560'],Hi everyone #AllOurHealth https://t.co/XIZ6yqyajp,hi everyone  ,True,False
 1308,1308,1308,1.098659298459218e+18,2019-02-21 19:02:43+00:00,['1098659298459217920'],"Tonight at 8pm 
 
-#AllOurHealth https://t.co/QniMQ7h33N"
+#AllOurHealth https://t.co/QniMQ7h33N","tonight at 8pm 
+
+ ",True,False
 1309,1309,1309,1.098611805889446e+18,2019-02-21 15:54:00+00:00,['1098611805889445888'],"Don't miss ..... Tonight at 8pm 
 
-#AllOurHealth tweetchat on ""Physical Inactivity"" &gt; https://t.co/ibzt0BlyaB"
+#AllOurHealth tweetchat on ""Physical Inactivity"" &gt; https://t.co/ibzt0BlyaB","dont miss  tonight at 8pm 
+
+ tweetchat on physical inactivity gt ",True,False
 1312,1312,1312,1.0983047826267464e+18,2019-02-20 19:34:00+00:00,['1098304782626746368'],"What are the key public health challenges in engaging those people who are most inactive?
 
 Join the #AllOurHealth tweetchat tomorrow at 8pm to discuss
 
-Pre chat read here &gt; https://t.co/ibzt0B3WM1"
+Pre chat read here &gt; https://t.co/ibzt0B3WM1","what are the key public health challenges in engaging those people who are most inactive
+
+join the  tweetchat tomorrow at 8pm to discuss
+
+pre chat read here gt ",True,False
 1314,1314,1314,1.0978744473005876e+18,2019-02-19 15:04:00+00:00,['1097874447300587521'],"Thursday at 8pm an #AllOurHealth tweetchat 
 
 ""Physical Inactivity""
 
-Pre chat read here &gt; https://t.co/ibzt0B3WM1 https://t.co/9DamI58oa6"
-1329,1329,1329,1.0966771033979494e+18,2019-02-16 07:46:11+00:00,['1096677103397949440'],Useful stuff #AllOurHealth https://t.co/bA6TAp6bwq
+Pre chat read here &gt; https://t.co/ibzt0B3WM1 https://t.co/9DamI58oa6","thursday at 8pm an  tweetchat 
+
+physical inactivity
+
+pre chat read here gt  ",True,False
+1329,1329,1329,1.0966771033979494e+18,2019-02-16 07:46:11+00:00,['1096677103397949440'],Useful stuff #AllOurHealth https://t.co/bA6TAp6bwq,useful stuff  ,True,False
 1332,1332,1332,1.0954197045823036e+18,2019-02-12 20:29:44+00:00,['1095419704582303747'],"What do you think ?? time to move with the times ??
 
-#AllOurHealth https://t.co/ND4hBxQ07N"
-1333,1333,1333,1.0954187919311136e+18,2019-02-12 20:26:06+00:00,['1095418791931113474'],#allourhealth https://t.co/kT5UcpioPF
-1334,1334,1334,1.095418052680786e+18,2019-02-12 20:23:10+00:00,['1095418052680785920'],Question 3 #allourhealth https://t.co/og2i5465Ml
-1337,1337,1337,1.0954134087096524e+18,2019-02-12 20:04:43+00:00,['1095413408709652481'],Great to hear #AllOurHealth https://t.co/xZlSSYzMBY
+#AllOurHealth https://t.co/ND4hBxQ07N","what do you think  time to move with the times 
+
+ ",True,False
+1334,1334,1334,1.095418052680786e+18,2019-02-12 20:23:10+00:00,['1095418052680785920'],Question 3 #allourhealth https://t.co/og2i5465Ml,question 3  ,True,False
+1337,1337,1337,1.0954134087096524e+18,2019-02-12 20:04:43+00:00,['1095413408709652481'],Great to hear #AllOurHealth https://t.co/xZlSSYzMBY,great to hear  ,True,False
 1339,1339,1339,1.0954131188329103e+18,2019-02-12 20:03:33+00:00,['1095413118832910336'],"Quick off the mark with Question 1 
 
-#AllOurHealth https://t.co/GMw4yRSEHB"
-1340,1340,1340,1.0954126474099752e+18,2019-02-12 20:01:41+00:00,['1095412647409975297'],Hello there #AllOurHealth https://t.co/phjGVLw4GR
+#AllOurHealth https://t.co/GMw4yRSEHB","quick off the mark with question 1 
+
+ ",True,False
+1340,1340,1340,1.0954126474099752e+18,2019-02-12 20:01:41+00:00,['1095412647409975297'],Hello there #AllOurHealth https://t.co/phjGVLw4GR,hello there  ,True,False
 1342,1342,1342,1.0954012635907196e+18,2019-02-12 19:16:27+00:00,['1095401263590719488'],"Starting in 45 mins time 
 
-Really relevant to school nurses #AllOurHealth https://t.co/3HXU7b3GlQ"
+Really relevant to school nurses #AllOurHealth https://t.co/3HXU7b3GlQ","starting in 45 mins time 
+
+really relevant to school nurses  ",True,False
 1344,1344,1344,1.0952161809634222e+18,2019-02-12 07:01:00+00:00,['1095216180963422208'],"What strategies can we employ to work with children, families and communities to improve health literacy? 
 
 Tonight at 8pm #AllOurHealth Tweetchat 
 
-Pre chat read here &gt; https://t.co/NMPahAOPlg https://t.co/6GUTftrICE"
+Pre chat read here &gt; https://t.co/NMPahAOPlg https://t.co/6GUTftrICE","what strategies can we employ to work with children families and communities to improve health literacy 
+
+tonight at 8pm  tweetchat 
+
+pre chat read here gt  ",True,False
 1346,1346,1346,1.0950375043177308e+18,2019-02-11 19:11:00+00:00,['1095037504317730821'],"Have you missed any of todays WeLearn #AllOurHealth steps exploring healthy beginnings?
 
 Here they are:
 
 ⚡️ “Day 5 - WeLearn #AllOurHealth Mon 11th Feb 2019”
 
-https://t.co/oTye6AWj3O"
-1347,1347,1347,1.094973596085248e+18,2019-02-11 14:57:03+00:00,['1094973596085248001'],Wow brilliant and thanks for sharing onwards too #AllOurHealth https://t.co/9bh2Kn3FDR
-1348,1348,1348,1.0949687601365444e+18,2019-02-11 14:37:50+00:00,['1094968760136544256'],Brilliant work - congratulations #AllOurHealth https://t.co/IvzIvH6PPU
+https://t.co/oTye6AWj3O","have you missed any of todays welearn  steps exploring healthy beginnings
+
+here they are
+
+ “day 5  welearn  mon 11th feb 2019”
+
+",True,False
+1347,1347,1347,1.094973596085248e+18,2019-02-11 14:57:03+00:00,['1094973596085248001'],Wow brilliant and thanks for sharing onwards too #AllOurHealth https://t.co/9bh2Kn3FDR,wow brilliant and thanks for sharing onwards too  ,True,False
+1348,1348,1348,1.0949687601365444e+18,2019-02-11 14:37:50+00:00,['1094968760136544256'],Brilliant work - congratulations #AllOurHealth https://t.co/IvzIvH6PPU,brilliant work  congratulations  ,True,False
 1349,1349,1349,1.0948873845866414e+18,2019-02-11 09:14:29+00:00,['1094887384586641409'],"What can we do to set the foundations for health and wellbeing in the early years and childhood, including adolescence?
 
 Healthy beginnings &gt; https://t.co/NMPahAxetI 
 
 #AllOurHealth tweetchat 
 
-Tomorrow at 8pm"
+Tomorrow at 8pm","what can we do to set the foundations for health and wellbeing in the early years and childhood including adolescence
+
+healthy beginnings gt  
+
+ tweetchat 
+
+tomorrow at 8pm",True,False
 1350,1350,1350,1.0948844022477128e+18,2019-02-11 09:02:38+00:00,['1094884402247712769'],"This weeks WeLearn #AllOurHealth is focussing on healthy beginnings 
 
 Not signed up yet ?
 
 It's free ! 
 
-Click here &gt; https://t.co/OfiRGG7CaK https://t.co/0mXsSnsD2d"
+Click here &gt; https://t.co/OfiRGG7CaK https://t.co/0mXsSnsD2d","this weeks welearn  is focussing on healthy beginnings 
+
+not signed up yet 
+
+its free  
+
+click here gt  ",True,False
 1356,1356,1356,1.0938016028577423e+18,2019-02-08 09:19:58+00:00,['1093801602857742336'],"If you missed last nights #AllOurHealth tweetchat ""Getting serious about #AllOurHealth"" you can read the summary and transcript here &gt; https://t.co/LTZem33OIJ …
 
 Or you can catch up with the questions here &gt; 
 
-⚡️ “WeLearn #AllOurHealth Tweetchat 1” &gt;"
+⚡️ “WeLearn #AllOurHealth Tweetchat 1” &gt;","if you missed last nights  tweetchat getting serious about  you can read the summary and transcript here gt  …
+
+or you can catch up with the questions here gt 
+
+ “welearn  tweetchat 1” gt",True,False
 1364,1364,1364,1.0935436609001676e+18,2019-02-07 16:15:00+00:00,['1093543660900167680'],"Calling all school nurses - tonight at 8pm 
 
-#AllOurHealth https://t.co/4bpUNzjjzr"
+#AllOurHealth https://t.co/4bpUNzjjzr","calling all school nurses  tonight at 8pm 
+
+ ",True,False
 1366,1366,1366,1.0932222713789972e+18,2019-02-06 18:57:55+00:00,['1093222271378997256'],"Have you been wondering what #allourhealth ??
 
 It is a @PHE_uk &amp; WeCommunities collaboration - learning about the #allourhealth framework through social media 
 
-There are 3 ways to join but if you want to register (&amp; get a CPD cert) the link is here https://t.co/OfiRGG7CaK https://t.co/JLAx1Z5NIm"
+There are 3 ways to join but if you want to register (&amp; get a CPD cert) the link is here https://t.co/OfiRGG7CaK https://t.co/JLAx1Z5NIm","have you been wondering what  
+
+it is a  amp wecommunities collaboration  learning about the  framework through social media 
+
+there are 3 ways to join but if you want to register amp get a cpd cert the link is here  ",True,False
 1369,1369,1369,1.0930930059076896e+18,2019-02-06 10:24:15+00:00,['1093093005907689473'],"All excellent points #AllOurHealth
 
-It might be worth you connecting with @WendyJNicholson and @Greenwoodpj :) https://t.co/JfP41H8UGQ"
+It might be worth you connecting with @WendyJNicholson and @Greenwoodpj :) https://t.co/JfP41H8UGQ","all excellent points 
+
+it might be worth you connecting with  and   ",True,False
 1372,1372,1372,1.0924408939640054e+18,2019-02-04 15:13:00+00:00,['1092440893964005376'],"Catch up with todays WeLearn #AllOurHealth Steps here &gt;&gt;
 
-(Don't forget if you want a certificate at the end you need to participate through the WeLearn platform &gt; https://t.co/OfiRGFQ0Ma) https://t.co/sZ0v8g0Mhg"
+(Don't forget if you want a certificate at the end you need to participate through the WeLearn platform &gt; https://t.co/OfiRGFQ0Ma) https://t.co/sZ0v8g0Mhg","catch up with todays welearn  steps here gtgt
+
+dont forget if you want a certificate at the end you need to participate through the welearn platform gt  ",True,False
 1373,1373,1373,1.0921196323774956e+18,2019-02-03 17:56:25+00:00,['1092119632377495554'],"Keep your eyes peeled as from tomorrow @WeLearnOutLoud will be sharing the WeLearn #AllOurHealth course on Twitter .... follow the hashtag for the daily steps 
 
-(If you would like a CPD certificate though make sure you sign up to the WeLearn platform) https://t.co/aIaG4m8s92"
+(If you would like a CPD certificate though make sure you sign up to the WeLearn platform) https://t.co/aIaG4m8s92","keep your eyes peeled as from tomorrow  will be sharing the welearn  course on twitter  follow the hashtag for the daily steps 
+
+if you would like a cpd certificate though make sure you sign up to the welearn platform ",True,False
 1376,1376,1376,1.0913308293667758e+18,2019-02-01 13:42:00+00:00,['1091330829366775808'],"The countdown to the start of WeLearn #AllOurHealth is on ..... how will join in on learning about preventing illness, protecting health and promoting wellbeing?
 
-@JamieWaterall &amp; @AgencyNurse outline the ways to get involved here &gt;  https://t.co/C699sctdt9 https://t.co/thyO6QRiTx"
+@JamieWaterall &amp; @AgencyNurse outline the ways to get involved here &gt;  https://t.co/C699sctdt9 https://t.co/thyO6QRiTx","the countdown to the start of welearn  is on  how will join in on learning about preventing illness protecting health and promoting wellbeing
+
+ amp  outline the ways to get involved here gt   ",True,False

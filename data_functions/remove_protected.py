@@ -5,8 +5,8 @@ import pandas as pd
 
 #To remove tweet files of bots or private users
 
-directory = "doctortweets"
-df = pd.read_csv("data/bots/botBMAfollowers.csv")
+directory = "teachertweets"
+df = pd.read_csv("data/bots/privateNEUfollowers.csv")
 private_IDs = list(df['id'].astype(int).astype(str))
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)

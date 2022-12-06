@@ -1,833 +1,269 @@
-,id,created_at,edit_history_tweet_ids,text,withheld
-0,1.562013629595193e+18,2022-08-23 09:47:24+00:00,['1562013629595193344'],"RT @Trickyjabs: This is an MP, Keir Starmer, he's against nationalising water to keep it safe and affordable for the public, he'd rather ke…",
-1,1.5620133862248366e+18,2022-08-23 09:46:26+00:00,['1562013386224836608'],"RT @savanQadir: If you leave a dog poo, you will be fined £80 pounds, but if you do this to our beaches, you will get a tax cut.  https://t…",
-2,1.5620129364612465e+18,2022-08-23 09:44:39+00:00,['1562012936461246467'],RT @MirrorPolitics: Footage of polluted sea water has reignited the row over 256 Tory MPs voting against stronger sanctions for sewage dump…,
-3,1.5606689795466977e+18,2022-08-19 16:44:15+00:00,['1560668979546697728'],"@Tesco I'm still waiting for my delivery due today between 3 to 4 pm. I got a text this morning confirming my delivery. I haven't heard anything since, is it cancelled?!",
-4,1.4660240599725588e+18,2021-12-01 12:39:07+00:00,['1466024059972558859'],RT @GandapurPAT: Very true. Please do watch &amp; comment. https://t.co/2HbXL03OZL,
-5,1.4383957104630047e+18,2021-09-16 06:53:56+00:00,['1438395710463004677'],#GavinWilliamson https://t.co/bE1h5wSCYM,
-6,1.4143717489345577e+18,2021-07-11 23:51:17+00:00,['1414371748934557697'],"RT @FromSteveHowell: So, so sorry for Saka. How did the youngest player end up with the greatest responsibility?
-
-Southgate's got almost ev…",
-7,1.4143699019140383e+18,2021-07-11 23:43:56+00:00,['1414369901914038272'],RT @chriswoakes: If it comes home or not…. I’ll still love this man! #SouthgateYoureTheOne 😍,
-8,1.4143698161908572e+18,2021-07-11 23:43:36+00:00,['1414369816190857217'],RT @Parker_stace: Phonomenal achievement lads! You’ve given us all exactly what we needed when we needed it most and united us all at the t…,
-9,1.414369779851436e+18,2021-07-11 23:43:27+00:00,['1414369779851436034'],"RT @SteveJ2403: This cannot be emphasised enough. Everything a leader should be. 👏🏼
-
-#SouthgateYoureTheOne #ENG https://t.co/pKNK1KW55a",
-10,1.4143690162867814e+18,2021-07-11 23:40:25+00:00,['1414369016286781441'],"RT @chief_afc: Southgate is a very nice man. But don’t be fooled, he’s just trying to take the heat off the players who refused to take a p…",
-11,1.414368411514282e+18,2021-07-11 23:38:01+00:00,['1414368411514281988'],"RT @pipsjukebox: This is what England were up against on the pitch tonight, and also what Southgate’s team will be up against in the coming…",
-12,1.4143679344498606e+18,2021-07-11 23:36:07+00:00,['1414367934449860613'],RT @BethRigby: Southgate on Saka: It’s on me. I pick who does the penalties… 😭😭,
-13,1.4143676741053194e+18,2021-07-11 23:35:05+00:00,['1414367674105319424'],"RT @Memeulous: i rate southgate highly but fucking hell why put saka, a relatively inexperienced 19 year old, as the deciding penalty taker…",
+Unnamed: 0,id,created_at,edit_history_tweet_ids,text,withheld,clean_text,non_english,whitespace
+3,1.5606689795466977e+18,2022-08-19 16:44:15+00:00,['1560668979546697728'],"@Tesco I'm still waiting for my delivery due today between 3 to 4 pm. I got a text this morning confirming my delivery. I haven't heard anything since, is it cancelled?!",, im still waiting for my delivery due today between 3 to 4 pm i got a text this morning confirming my delivery i havent heard anything since is it cancelled,True,False
 14,1.414367159115989e+18,2021-07-11 23:33:03+00:00,['1414367159115988997'],"We love you Southgate, pure class.
 You did us proud boss, chin up and move forward. 
-#SouthgateYoureTheOne https://t.co/xzTasadOIW",
-15,1.414366121776517e+18,2021-07-11 23:28:55+00:00,['1414366121776517126'],RT @piersmorgan: I admire every player who steps up &amp; shows the balls to take a penalty in a game that important. Especially when they’re j…,
-16,1.4143660191797166e+18,2021-07-11 23:28:31+00:00,['1414366019179716612'],RT @GaryLineker: I think going forward @England have to find a way of being more attack minded. Braver in possession and throwing more peop…,
-17,1.4055372602131948e+18,2021-06-17 14:46:11+00:00,['1405537260213194775'],RT @NazShahBfd: Each year on the anniversary of the #ModelTownMassacre I remember the victims murdered &amp; injured in this horrific incident.…,
-18,1.3972092812132147e+18,2021-05-25 15:13:46+00:00,['1397209281213214736'],RT @AngelaRayner: Tonight the @Conservatives voted against our amendment on the global minimum corporate tax on big multinational companies…,
-19,1.397209017152426e+18,2021-05-25 15:12:43+00:00,['1397209017152425993'],"RT @johnmcdonnellMP: If even a wealthy billionaire is backing my call for a windfall tax on those who made excessive profits during Covid,…",
-20,1.3972087948458762e+18,2021-05-25 15:11:50+00:00,['1397208794845876230'],"RT @anthonyzenkus: I have reflected, and unlike Mark Ruffalo, I'd like to reiterate that yes, Israel is committing genocide against the Pal…",
-21,1.3972084711127572e+18,2021-05-25 15:10:33+00:00,['1397208471112757256'],RT @nicktolhurst: I suspect this is the reason why the govt tried to limit data disclosure in the very week children returned to schools. h…,
-22,1.3972084522509312e+18,2021-05-25 15:10:28+00:00,['1397208452250931201'],RT @mcm_home: Infection rates in Bolton schools in May.,
-23,1.3972083254402785e+18,2021-05-25 15:09:58+00:00,['1397208325440278532'],"RT @WarmongerHodges: Must watch video.
-
-In order to maintain their violent oppression of Palestinians, Israel relies on corrupt politicians…",
-24,1.3953883515538678e+18,2021-05-20 14:38:02+00:00,['1395388351553867778'],RT @JMPSimor: Is this real?  I cannot actually believe it.  I thought I had reached the limits of my incredulity.,
-25,1.393701718748287e+18,2021-05-15 22:55:58+00:00,['1393701718748286978'],"RT @AJEnglish: From Israeli occupation to a 14-year blockade, here is all you need to know about ‘the world’s largest open-air prison’ - th…",
-26,1.3937013522793513e+18,2021-05-15 22:54:30+00:00,['1393701352279351296'],RT @MarkRuffalo: Over 30 children killed. Mothers dead. Hundreds injured. We are on the brink of a full-scale war. Sanctions on South Afric…,
-27,1.393701255420199e+18,2021-05-15 22:54:07+00:00,['1393701255420198914'],"RT @MarkRuffalo: Bravo, Uncle Bernie!",
-28,1.3932683844024852e+18,2021-05-14 18:14:03+00:00,['1393268384402485260'],"RT @MarkRuffalo: To all my teacher friends, we appreciate you!",
-29,1.393268086355153e+18,2021-05-14 18:12:52+00:00,['1393268086355152897'],"RT @UNICEF: Over the past two days, 37 Palestinian children have been injured and arrested in East Jerusalem.
-
-All children should be prote…",
-30,1.3932674771660554e+18,2021-05-14 18:10:26+00:00,['1393267477166055431'],RT @MarkRuffalo: 😭,
-31,1.393267444458967e+18,2021-05-14 18:10:19+00:00,['1393267444458967040'],"RT @mehdirhasan: The great evangelical Christian, Mike Pence, has nothing to say, not a word, about standing with, or even caring about, or…",
-32,1.3841829718050363e+18,2021-04-19 16:31:52+00:00,['1384182971805036553'],RT @GNev2: 👇🏻👇🏻👇🏻👇🏻 https://t.co/FhS9jMZAf2,
-33,1.370001336612356e+18,2021-03-11 13:19:06+00:00,['1370001336612356099'],RT @Dr2NisreenAlwan: Our piece on safer school reopening recommendations has just been published in @TheLancet @dgurdasani1 @trishgreenhalg…,
-34,1.3620407257398764e+18,2021-02-17 14:06:29+00:00,['1362040725739876355'],I agree with the @neunion and their education recovery plan. Schools must open #onlywhenitssafe,
-35,1.3578466421589524e+18,2021-02-06 00:20:41+00:00,['1357846642158952453'],@JohnCleese What's ofted?,
-36,1.357845659416744e+18,2021-02-06 00:16:47+00:00,['1357845659416743936'],"RT @JohnCleese: In the UK, the British government is appointing a major
-Tory party donor to a top position at the BBC, and the ex-editor of…",
-37,1.3573766618980966e+18,2021-02-04 17:13:09+00:00,['1357376661898096646'],"RT @ElectionMapsUK: As a % of the adult population:
-
-Fully Vaccinated: 0.9% (=)
-Partially Vaccinated: 18.1% (+0.7)
-Unvaccinated: 81.0% (-0.…",
-38,1.356756788411007e+18,2021-02-03 00:10:00+00:00,['1356756788411006976'],RT @JamilahLemieux: Most meetings could be calls. Most calls could be emails. Most of us could work effectively with limited human interact…,
-39,1.3548587575079813e+18,2021-01-28 18:27:54+00:00,['1354858757507981321'],"RT @Reiscm: @williamnyy23 @tedcruz Wrong, it's a trading platform directly manipulating the market.  They will let me sell, but not buy?  H…",
-40,1.3548573896280228e+18,2021-01-28 18:22:28+00:00,['1354857389628022794'],RT @tedcruz: Fully agree. 👇,
-41,1.3548571942489498e+18,2021-01-28 18:21:41+00:00,['1354857194248949762'],"RT @AOC: This is unacceptable.
-
-We now need to know more about @RobinhoodApp’s decision to block retail investors from purchasing stock whi…",
-42,1.3529747676708946e+18,2021-01-23 13:41:36+00:00,['1352974767670894592'],"RT @mshafiquk: BritishMuslimTV Questions Weds 8.30pm
-
-Exclusive Interview with Shaykh Dr @TahirulQadri on the vaccine, Islam, legacy. 
-
-@MI…",
-43,1.3480652559776113e+18,2021-01-10 00:32:57+00:00,['1348065255977611264'],"RT @piersmorgan: The countries that went quick, big &amp; hard at covid-19 successfully suppressed the virus &amp; are seeing their economies &amp; fre…",
-44,1.3480652124323144e+18,2021-01-10 00:32:47+00:00,['1348065212432314371'],"@LBC but smoking is a choice, death from covid is not a result of a lifestyle choice as death from smoking is.",
-45,1.3461492078333665e+18,2021-01-04 17:39:16+00:00,['1346149207833366529'],"RT @LeftWingKim: I’m tier 4, just as London is. Yet I am currently still facing 35 people in one room on Monday while London is not. 
-
-Why?…",
-46,1.346149158856622e+18,2021-01-04 17:39:04+00:00,['1346149158856622081'],"RT @KerMesSir: I’ve taken the difficult decision to not send my kids back to school, the risk is too high, I’m a single mum and have had ca…",
-47,1.3461491191994737e+18,2021-01-04 17:38:54+00:00,['1346149119199473664'],"RT @extrameth: im in year 11...in my high school, the year groups are meant to be separated, yet here is a video i took of year 7 crossing…",
-48,1.3461490354560328e+18,2021-01-04 17:38:34+00:00,['1346149035456032775'],"RT @lola_hodgson: I am so fucking sick of people talking for us. As a Year 13 student, I promise you, that so many of us are terrified of c…",
-49,1.3461489767861043e+18,2021-01-04 17:38:20+00:00,['1346148976786104325'],"RT @hewitson10: On the 23rd of march the tories imposed a national lockdown with immediate effect when 76 people died.
-
-In 3 days we’ve los…",
-50,1.3461470188556247e+18,2021-01-04 17:30:34+00:00,['1346147018855624704'],#CloseTheSchoolsNow to stop our NHS from being overwhelmed or only prayers can save if God forbid you need the #NHS.,
+#SouthgateYoureTheOne https://t.co/xzTasadOIW",,"we love you southgate pure class
+you did us proud boss chin up and move forward 
+ ",True,False
+34,1.3620407257398764e+18,2021-02-17 14:06:29+00:00,['1362040725739876355'],I agree with the @neunion and their education recovery plan. Schools must open #onlywhenitssafe,,i agree with the  and their education recovery plan schools must open ,True,False
+35,1.3578466421589524e+18,2021-02-06 00:20:41+00:00,['1357846642158952453'],@JohnCleese What's ofted?,, whats ofted,True,False
+44,1.3480652124323144e+18,2021-01-10 00:32:47+00:00,['1348065212432314371'],"@LBC but smoking is a choice, death from covid is not a result of a lifestyle choice as death from smoking is.",, but smoking is a choice death from covid is not a result of a lifestyle choice as death from smoking is,True,False
+50,1.3461470188556247e+18,2021-01-04 17:30:34+00:00,['1346147018855624704'],#CloseTheSchoolsNow to stop our NHS from being overwhelmed or only prayers can save if God forbid you need the #NHS.,, to stop our nhs from being overwhelmed or only prayers can save if god forbid you need the ,True,False
 51,1.3454719334088172e+18,2021-01-02 20:48:01+00:00,['1345471933408817158'],"I just signed this petition from @NEUnion &amp; @unisontheunion to keep families and schools safe. We must #MakeSchoolsSafe to #ProtectCommunities 
 
-https://t.co/BwsyNSaOrt",
-52,1.344452200031023e+18,2020-12-31 01:15:57+00:00,['1344452200031023106'],Test caught just 3 per cent of students with covid-19 at UK university https://t.co/3fbujZTsVf,
-53,1.3444222484683735e+18,2020-12-30 23:16:56+00:00,['1344422248468373510'],RT @labourlewis: This has my full support. The predicted infection rates for Jan and Feb with the new Covid strain are a complete game chan…,
-54,1.3425760950156616e+18,2020-12-25 21:00:59+00:00,['1342576095015661569'],"RT @CraigCons: If I greet you w/ “Ramadan Mubarak,” it does not mean I am losing my religion.
+https://t.co/BwsyNSaOrt",,"i just signed this petition from  amp  to keep families and schools safe we must  to  
 
-I am simply showing you that I respect your…",
-55,1.3425760452879442e+18,2020-12-25 21:00:47+00:00,['1342576045287944192'],RT @JohnSimpsonNews: One of the worst incidents which followed the 2003 invasion of Iraq was the slaughter of 14 Iraqi civilians in Nisour…,
-56,1.3413465358381998e+18,2020-12-22 11:35:09+00:00,['1341346535838199810'],‘Naked and starving’: letters tell how English paupers fought for rights 200 years ago https://t.co/EsCHgGIuQL,
+",True,False
+52,1.344452200031023e+18,2020-12-31 01:15:57+00:00,['1344452200031023106'],Test caught just 3 per cent of students with covid-19 at UK university https://t.co/3fbujZTsVf,,test caught just 3 per cent of students with covid19 at uk university ,True,False
+56,1.3413465358381998e+18,2020-12-22 11:35:09+00:00,['1341346535838199810'],‘Naked and starving’: letters tell how English paupers fought for rights 200 years ago https://t.co/EsCHgGIuQL,,‘naked and starving’ letters tell how english paupers fought for rights 200 years ago ,True,False
 57,1.3413356002307072e+18,2020-12-22 10:51:42+00:00,['1341335600230707200'],"The test they plan to use on millions in schools misses morev than half of all cases, you couldn't make this up!
-#SchoolsScandal https://t.co/gKry6wstjc",
-58,1.3413337994021274e+18,2020-12-22 10:44:33+00:00,['1341333799402127360'],Covid-19: Safety of lateral flow tests questioned after they are found to miss half of cases https://t.co/Ks6jAS34Fj,
-59,1.3401194315786117e+18,2020-12-19 02:19:05+00:00,['1340119431578611716'],"RT @NEUnion: 🚨#COVID19UK infection among school age children rises sharply again🚨
-
-More than 1 in 40 secondary pupils and 1 in 50 primary c…",
-60,1.3396385370424074e+18,2020-12-17 18:28:11+00:00,['1339638537042407426'],RT @DeborahMeaden: We are in a lot of trouble. Meanwhile the Govt spending Watchdog is concerned that Public Health England are being exclu…,
-61,1.3396384192118702e+18,2020-12-17 18:27:43+00:00,['1339638419211870213'],"RT @DeborahMeaden: Anyone on my timeline using the phrases ""virtue signalling"" ""woke"" or any other phrase meant to cancel out someone think…",
-62,1.3396376806872105e+18,2020-12-17 18:24:46+00:00,['1339637680687210498'],RT @NEUnion: .@NEUnion calls for education staff to be included on the priority list for vaccination alongside their NHS and social care co…,
-63,1.3396376279899791e+18,2020-12-17 18:24:34+00:00,['1339637627989979138'],RT @piersmorgan: 😡😡😡 I loathe covid-deniers with an increasing rage. What the f*ck is wrong with them?? https://t.co/Jumk8FcV4V,
-64,1.3316936874458565e+18,2020-11-25 20:18:11+00:00,['1331693687445856264'],"RT @ggreenwald: Free speech restrictions are sometimes aimed at the Right, but they're also often aimed at the left, particularly critics o…",
-65,1.3302188962642289e+18,2020-11-21 18:37:53+00:00,['1330218896264228866'],RT @piersmorgan: Lots of very cosy interviews with Barack Obama popping up to promote his book. Not seeing much scrutiny of his shocking re…,
-66,1.3302188493173842e+18,2020-11-21 18:37:42+00:00,['1330218849317384201'],RT @richardosman: If you can't do your job without bullying people then you can't do your job.,
-67,1.3302187697682145e+18,2020-11-21 18:37:23+00:00,['1330218769768214533'],https://t.co/m7MZ4G0W8z,
-68,1.328088790271996e+18,2020-11-15 21:33:36+00:00,['1328088790271995904'],RT @realDonaldTrump: He only won in the eyes of the FAKE NEWS MEDIA. I concede NOTHING! We have a long way to go. This was a RIGGED ELECTIO…,
+#SchoolsScandal https://t.co/gKry6wstjc",,"the test they plan to use on millions in schools misses morev than half of all cases you couldnt make this up
+ ",True,False
+58,1.3413337994021274e+18,2020-12-22 10:44:33+00:00,['1341333799402127360'],Covid-19: Safety of lateral flow tests questioned after they are found to miss half of cases https://t.co/Ks6jAS34Fj,,covid19 safety of lateral flow tests questioned after they are found to miss half of cases ,True,False
+67,1.3302187697682145e+18,2020-11-21 18:37:23+00:00,['1330218769768214533'],https://t.co/m7MZ4G0W8z,,,True,False
 69,1.3280883553478533e+18,2020-11-15 21:31:53+00:00,['1328088355347853312'],"Fireworks at midnight or late evenings before a working day in residential areas is selfish, and inconsiderate. Many of us have young children and many pets are terrified. Please stop the #Fireworks, and stop being selfish moronic twats.
-#Diwali",
-70,1.3258539889280205e+18,2020-11-09 17:33:18+00:00,['1325853988928020483'],Scientists urged government to close secondary schools - but were blocked by ministers https://t.co/TIFm9MpDOu,
-71,1.3255608161717084e+18,2020-11-08 22:08:20+00:00,['1325560816171708418'],"RT @BernieSanders: I want to congratulate all those who worked so hard to make this historic day possible. Now, through our continued grass…",
-72,1.3254569933316628e+18,2020-11-08 15:15:47+00:00,['1325456993331662848'],"RT @JoeBiden: We can’t allow the Good Friday Agreement that brought peace to Northern Ireland to become a casualty of Brexit.
-
-Any trade de…",
-73,1.3250652285734134e+18,2020-11-07 13:19:03+00:00,['1325065228573413378'],RT @TheNigelAdkins: Top of the ⁦@premierleague⁩ Enjoy the moment everyone connected with ⁦@SouthamptonFC⁩ #SaintsFC https://t.co/bEOEJnbkR9,
-74,1.3233893424092488e+18,2020-11-02 22:19:41+00:00,['1323389342409248775'],RT @NEUnion: The scientists said that schools must be included in the lockdown for it to work and the Government said no. This political de…,
-75,1.3233889332842043e+18,2020-11-02 22:18:03+00:00,['1323388933284204544'],"RT @NEUnion: Can you let us know the basis for your statement that we are anti education? 
-
-Our members want to teach, they love to teach,…",
-76,1.3233882358134538e+18,2020-11-02 22:15:17+00:00,['1323388235813453824'],RT @Dr2NisreenAlwan: Why is it so hard to understand the simple concept that if the NHS is overloaded with covid it can’t cope with other n…,
-77,1.3233876111976735e+18,2020-11-02 22:12:48+00:00,['1323387611197673474'],@BurchNermana @MetroMayorSteve @AngelaRayner @MayorofGM And lose my job.....,
-78,1.323127556661371e+18,2020-11-02 04:59:26+00:00,['1323127556661370880'],RT @LoreleiLiBan: Starmer's tack seems to be 'appear' to challenge the government but not so much you actually stand for anything apart fro…,
-79,1.3230446246766428e+18,2020-11-01 23:29:54+00:00,['1323044624676642816'],"RT @NEUnion: Channel 4 News today: 
-Infections rising most steeply among 11-16 year olds. 
-Lockdown that doesn't include schools and colleg…",
-80,1.3230444551637688e+18,2020-11-01 23:29:13+00:00,['1323044455163768836'],"RT @SteveChalke: It has to be a national plan. It is irresponsible to do it on our own. It would cause chaos. For instance, it would rob so…",
-81,1.3230440214685655e+18,2020-11-01 23:27:30+00:00,['1323044021468565507'],RT @LauraPidcock: Very well said @AndyBurnhamGM. We will be repeatedly in a lock and unlock cycle unless we do this properly. https://t.co/…,
+#Diwali",,"fireworks at midnight or late evenings before a working day in residential areas is selfish and inconsiderate many of us have young children and many pets are terrified please stop the  and stop being selfish moronic twats
+",True,False
+70,1.3258539889280205e+18,2020-11-09 17:33:18+00:00,['1325853988928020483'],Scientists urged government to close secondary schools - but were blocked by ministers https://t.co/TIFm9MpDOu,,scientists urged government to close secondary schools  but were blocked by ministers ,True,False
+77,1.3233876111976735e+18,2020-11-02 22:12:48+00:00,['1323387611197673474'],@BurchNermana @MetroMayorSteve @AngelaRayner @MayorofGM And lose my job.....,,    and lose my job,True,False
 82,1.3230429983939502e+18,2020-11-01 23:23:26+00:00,['1323042998393950208'],"@MetroMayorSteve @AngelaRayner Would Keir Starmer back calls of @MayorofGM to #CloseSchoolsNOW?
 Keir wants schools forced open, ignoring the lives of clinically vulnerable teachers like me.
-Will you back calls from Northern leaders to #CloseTheSchools?",
-83,1.3230413466770227e+18,2020-11-01 23:16:52+00:00,['1323041346677022728'],"RT @DaveWardGS: Schools don’t have mass testing in place. 
-
-The test and trace app is a joke. 
-
-Transmission amongst young adults is rising…",
-84,1.3230411683980616e+18,2020-11-01 23:16:10+00:00,['1323041168398061568'],"@OwenJones84 #Labour are more interested in calling for the popular thing, rather than the right thing. @Keir_Starmer is stubborn and only too happy to put lives of clinically vulnerable teachers like me at risk.",
-85,1.3230405841567826e+18,2020-11-01 23:13:50+00:00,['1323040584156782593'],"RT @OwenJones84: Keeping schools open undermines the chances of a lockdown bringing infections down to a manageable level. 
-
-Labour need to…",
-86,1.3230402694329876e+18,2020-11-01 23:12:35+00:00,['1323040269432987649'],@The666Monty @LauraSmithCrewe @Keir_Starmer @AnnelieseDodds Seriously https://t.co/aS1hfTFvY3,
+Will you back calls from Northern leaders to #CloseTheSchools?",,"  would keir starmer back calls of  to 
+keir wants schools forced open ignoring the lives of clinically vulnerable teachers like me
+will you back calls from northern leaders to ",True,False
+84,1.3230411683980616e+18,2020-11-01 23:16:10+00:00,['1323041168398061568'],"@OwenJones84 #Labour are more interested in calling for the popular thing, rather than the right thing. @Keir_Starmer is stubborn and only too happy to put lives of clinically vulnerable teachers like me at risk.",,  are more interested in calling for the popular thing rather than the right thing  is stubborn and only too happy to put lives of clinically vulnerable teachers like me at risk,True,False
+86,1.3230402694329876e+18,2020-11-01 23:12:35+00:00,['1323040269432987649'],@The666Monty @LauraSmithCrewe @Keir_Starmer @AnnelieseDodds Seriously https://t.co/aS1hfTFvY3,,    seriously ,True,False
 87,1.3230388284588564e+18,2020-11-01 23:06:52+00:00,['1323038828458856449'],"@LauraSmithCrewe Keir Starmer is being stubborn in the face of reason by calling for schools to stay open.
 @Keir_Starmer would happily put lives of clinically vulnerable teachers like me at risk because it's popular to want schools to stay open.
 @AnnelieseDodds
-#CloseSchoolsNOW #Labour",
-88,1.3230371982880645e+18,2020-11-01 23:00:23+00:00,['1323037198288064513'],RT @LauraSmithCrewe: Keeping the schools open is ridiculous in a national lockdown situation. Either lockdown properly or don’t bother beca…,
-89,1.3230346955510374e+18,2020-11-01 22:50:26+00:00,['1323034695551037440'],Covid: keeping England's schools open 'will lead to another #lockdownUK' https://t.co/4t8gtNPdi8,
-90,1.3229991202992374e+18,2020-11-01 20:29:05+00:00,['1322999120299237379'],RT @David__Osland: I'll say it. Iain Duncan Smith's 'we can't give in to science' comment this morning is the dumbest shit I have ever hear…,
-91,1.3229989998849638e+18,2020-11-01 20:28:36+00:00,['1322998999884963841'],RT @piersmorgan: You cannot look at the latest incredibly worrying UK covid charts &amp; not conclude a new national lockdown is the only cours…,
-92,1.3229987154355937e+18,2020-11-01 20:27:28+00:00,['1322998715435593728'],RT @NEUnion: If someone tells you that the science shows that schools shouldn't close they are simply wrong. What's the point of having a n…,
-93,1.322998623756497e+18,2020-11-01 20:27:06+00:00,['1322998623756496897'],RT @piersmorgan: 2nd UPDATE: We asked the Govt if they’d put any minister up for interview about the public health emergency on tomorrow’s…,
-94,1.322998362904404e+18,2020-11-01 20:26:04+00:00,['1322998362904403969'],I just wrote a @neunion letter to my MP calling on them to support an amendment in Parliament to close schools. #PutSchoolsInTheLockdown https://t.co/I7gMljRpFr,
+#CloseSchoolsNOW #Labour",," keir starmer is being stubborn in the face of reason by calling for schools to stay open
+ would happily put lives of clinically vulnerable teachers like me at risk because its popular to want schools to stay open
+
+ ",True,False
+89,1.3230346955510374e+18,2020-11-01 22:50:26+00:00,['1323034695551037440'],Covid: keeping England's schools open 'will lead to another #lockdownUK' https://t.co/4t8gtNPdi8,,covid keeping englands schools open will lead to another  ,True,False
+94,1.322998362904404e+18,2020-11-01 20:26:04+00:00,['1322998362904403969'],I just wrote a @neunion letter to my MP calling on them to support an amendment in Parliament to close schools. #PutSchoolsInTheLockdown https://t.co/I7gMljRpFr,,i just wrote a  letter to my mp calling on them to support an amendment in parliament to close schools  ,True,False
 95,1.3229350378814505e+18,2020-11-01 16:14:26+00:00,['1322935037881450498'],"I have written to @margarethodge  calling on them to support an @NEUnion amendment in Parliament to close schools and colleges #PutSchoolsInTheLockdown.
 
-Please write to your MP https://t.co/3eaHmgq2ye",
-96,1.3142395537844716e+18,2020-10-08 16:21:41+00:00,['1314239553784471552'],"@BabushkaThe @SheepSkate911 @K_Niemietz I'm talking about the British socialist tradition of the levellers, the chartists, and the trade unions. The socialism that embeds democracy and workers representation. Democratic socialist don't advocate total state control of everything.",
-97,1.314238945543291e+18,2020-10-08 16:19:16+00:00,['1314238945543290880'],"@Northernbred1 @K_Niemietz By just saying ""it isn't, you're clueless etc."" just means you have no argument.",
-98,1.313159087023161e+18,2020-10-05 16:48:18+00:00,['1313159087023161346'],"RT @TahirulQadri: Islam makes peace the first priority for the promotion of global brotherhood. In the Islamic social system ""Fasad fil Ard…",
-99,1.313158939324883e+18,2020-10-05 16:47:43+00:00,['1313158939324882944'],"RT @EwartDanny: @HassenIqbal @K_Niemietz Yes, I agree with that. The interpretation of Socialism is broad, from communism, agricultural soc…",
-100,1.313158754687431e+18,2020-10-05 16:46:59+00:00,['1313158754687430656'],"RT @HassenIqbal: @EwartDanny @K_Niemietz It's just a different interpretation of a word, I believe that state owning everything and no priv…",
+Please write to your MP https://t.co/3eaHmgq2ye",,"i have written to   calling on them to support an  amendment in parliament to close schools and colleges 
+
+please write to your mp ",True,False
+96,1.3142395537844716e+18,2020-10-08 16:21:41+00:00,['1314239553784471552'],"@BabushkaThe @SheepSkate911 @K_Niemietz I'm talking about the British socialist tradition of the levellers, the chartists, and the trade unions. The socialism that embeds democracy and workers representation. Democratic socialist don't advocate total state control of everything.",,   im talking about the british socialist tradition of the levellers the chartists and the trade unions the socialism that embeds democracy and workers representation democratic socialist dont advocate total state control of everything,True,False
+97,1.314238945543291e+18,2020-10-08 16:19:16+00:00,['1314238945543290880'],"@Northernbred1 @K_Niemietz By just saying ""it isn't, you're clueless etc."" just means you have no argument.",,  by just saying it isnt youre clueless etc just means you have no argument,True,False
 101,1.313158644318511e+18,2020-10-05 16:46:32+00:00,['1313158644318511104'],"@Northernbred1 @K_Niemietz Yeah I agree, but they have democratic socialist policies.
-Also social democracy and democratic socialism are interchangeable terms for the same thing.",
-102,1.3131581553088512e+18,2020-10-05 16:44:36+00:00,['1313158155308851205'],@SheepSkate911 @BabushkaThe @K_Niemietz I'm talking about democratic socialism not communism.,
-103,1.303431293955453e+18,2020-09-08 20:33:31+00:00,['1303431293955452934'],RT @_Awake_Soul_: @ChiOnwurah @HassenIqbal https://t.co/7zbGeR2DcU,
-104,1.3034310087679345e+18,2020-09-08 20:32:23+00:00,['1303431008767934466'],"RT @ChrisGiles_: Third consecutive week, the number of deaths is above the five-year average...
-
-... no sign this is Covid-related...
-
-...…",
-105,1.3034308614639985e+18,2020-09-08 20:31:48+00:00,['1303430861463998466'],"RT @piersmorgan: BREAKING: UK just announced highest increase in daily reported Covid deaths (30) for six weeks. 
-Please take this worrying…",
-106,1.303430766643286e+18,2020-09-08 20:31:25+00:00,['1303430766643286017'],"RT @OwenJones84: All those people who said ""it doesn't matter if cases are going up, it's hospital admissions that matter"" need to look at…",
-107,1.3034307040223273e+18,2020-09-08 20:31:11+00:00,['1303430704022327296'],"RT @piersmorgan: UPDATE: As UK coronavirus cases &amp; deaths spike again, we asked No10 if they would put any ministers up for interview on @G…",
-108,1.3034306938553915e+18,2020-09-08 20:31:08+00:00,['1303430693855391753'],RT @piersmorgan: This is appalling. What the hell is going on with your ‘world class testing’ @BorisJohnson @MattHancock?,
-109,1.3034306644701143e+18,2020-09-08 20:31:01+00:00,['1303430664470114305'],"RT @piersmorgan: Small but significant piece of sporting history tonight. 
-Congrats to Moeen Ali on becoming the first Muslim to captain En…",
-110,1.3034302978081792e+18,2020-09-08 20:29:34+00:00,['1303430297808179200'],@SanjayFBPEUK @K_Niemietz It isn't,
-111,1.3034302610283889e+18,2020-09-08 20:29:25+00:00,['1303430261028388875'],@BabushkaThe @K_Niemietz They're communist not democratic socialist,
-112,1.3034301676505006e+18,2020-09-08 20:29:03+00:00,['1303430167650500609'],"@EwartDanny @K_Niemietz It's just a different interpretation of a word, I believe that state owning everything and no private property is not democratic socialism but communism. I believe in democracy and freedom, hence I call myself a democratic socialist or social democrat.",
-113,1.29796865134216e+18,2020-08-24 18:46:56+00:00,['1297968651342159872'],I’ve just signed a petition calling on @pritipatel to #LiftTheBan on people seeking asylum being able to work. Everyone should have the right to provide for themselves and their families. Join me and #StandUpForAsylum! https://t.co/7qlsosMRVo,
-114,1.2956974135089357e+18,2020-08-18 12:21:50+00:00,['1295697413508935685'],"RT @MuhbeenH: Footage of an Asian man being held down by a @WestYorksPolice officer has emerged, where it can be seen that he is struggling…",
-115,1.2943865226538926e+18,2020-08-14 21:32:50+00:00,['1294386522653892610'],"RT @sdouglas80: That Ronnie ultimately won the final frame by getting out of a snooker with a delicate two-cushion escape, after all those…",
-116,1.2900387041494958e+18,2020-08-02 21:36:09+00:00,['1290038704149495810'],"RT @spencerforhire: @K_Niemietz @HassenIqbal Yeah, large parts of Norway’s economy are publicly owned - including the oil sector.",
-117,1.286802614584324e+18,2020-07-24 23:17:05+00:00,['1286802614584324101'],I've donated to Jeremy's Legal Fund. You can show your solidarity too. https://t.co/do6CHPM0Ag,
-118,1.2862497829027512e+18,2020-07-23 10:40:20+00:00,['1286249782902751233'],RT @LenMcCluskey: Today’s settlement is a misuse of Labour Party funds to settle a case it was advised we would win in court. The leaked re…,
-119,1.286249499527086e+18,2020-07-23 10:39:12+00:00,['1286249499527086082'],RT @andrewfeinstein: Here is real antisemitism. But because it’s a right winger there is no no outrage. The world is so f*cked up!,
-120,1.2862494342512312e+18,2020-07-23 10:38:57+00:00,['1286249434251231234'],RT @andrewfeinstein: Jeremy Corbyn apologised for Labour's role in the Iraq War. Keir Starmer apologises to wreckers who made racist commen…,
-121,1.2845487209405194e+18,2020-07-18 18:00:55+00:00,['1284548720940519425'],Petition: Impose sanctions on China over its treatment of Uyghur Muslims https://t.co/u3csASamSu,
-122,1.2844906960119767e+18,2020-07-18 14:10:21+00:00,['1284490696011976704'],13 tonnes of hair taken from China’s Uyghur Muslims has ‘Nazi resonance’ https://t.co/Wh73Q7dcUJ via @JewishNewsUK,
-123,1.2831201026746614e+18,2020-07-14 19:24:06+00:00,['1283120102674661377'],RT @ChiOnwurah: Try me. As a Chartered Electrical Engineer who spent seventeen years building out the networks which form the backbone of o…,
-124,1.283119835325567e+18,2020-07-14 19:23:02+00:00,['1283119835325566976'],"RT @mrjamesob: I suspect the Venn diagram of climate science deniers, anti-vaxxers &amp; anti-mask muppets is vanishingly close to a circle.",
-125,1.2790413318688604e+18,2020-07-03 13:16:31+00:00,['1279041331868860418'],40+ renowned Jewish groups worldwide oppose equating antisemitism with criticism of #Israel. https://t.co/XjH3wPS570,
-126,1.2779302125886505e+18,2020-06-30 11:41:20+00:00,['1277930212588650497'],"RT @ShrutiPatelMD: A reminder that #TamirRice was killed for having a toy gun, while #PatriciaMcCloskey pointed a gun at peaceful protester…",
-127,1.2779296930234778e+18,2020-06-30 11:39:16+00:00,['1277929693023477766'],RT @Ed_Miliband: If we want to emulate Franklin Roosevelt we need a zero carbon army to get people back into work as part of a Green New De…,
-128,1.2779293011454607e+18,2020-06-30 11:37:42+00:00,['1277929301145460744'],RT @andrewfeinstein: @Keir_Starmer @AngelaRayner @UKLabour I retweeted w praise Maxine Peake’s interview. Am I antisemitic? Ive lectured at…,
-129,1.277928218134274e+18,2020-06-30 11:33:24+00:00,['1277928218134274048'],"RT @TomLondon6: I have left Labour in protest at Starmer's immoral and intellectually bankrupt approach to ""tackling antisemitism""
-
-I am a…",
-130,1.277926589943239e+18,2020-06-30 11:26:56+00:00,['1277926589943238659'],RT @andrewfeinstein: Whose interests is the Labour Party serving? The UK working class/left or the Israeli Military Industrial Complex whic…,
-131,1.2779265056250716e+18,2020-06-30 11:26:36+00:00,['1277926505625071616'],"RT @leninology: And if your point is, ""why single out Israel"", the answer is that Israel is a settler-colonial state with advanced methods…",
-132,1.2779263092267827e+18,2020-06-30 11:25:49+00:00,['1277926309226782726'],RT @davidjrosenberg: Very flimsy pretext to sack RLB. Their clash is over school return. RLB v. close to NEU. US cops tactic on Floyd goes…,
-133,1.2779260060457615e+18,2020-06-30 11:24:37+00:00,['1277926006045761537'],"RT @TomLondon6: If I say @BoardofDeputies has too much power over politics in the UK, is that antisemitic?
-
-If I say Israel has a system of…",
-134,1.2779259573918433e+18,2020-06-30 11:24:25+00:00,['1277925957391843329'],"RT @RealSueKelly: Genuinely confused.. interview with Keir Starmer, @piersmorgan said @RLong_Bailey sacking was because she attacked the je…",
-135,1.2779258713121628e+18,2020-06-30 11:24:05+00:00,['1277925871312162816'],RT @StevenW69808657: @buddy_hell Nia Griffith was one of those Labour MP's (along with ~60% of her Friends of Israel colleagues) who did no…,
-136,1.2779256086060974e+18,2020-06-30 11:23:02+00:00,['1277925608606097409'],"RT @mirabarhillel: My Uncle was on Schindler's List. 
-I served in the Israeli Army.
-@MPeakeOfficial was 100% right about Israeli torture me…",
-137,1.2779252855943086e+18,2020-06-30 11:21:45+00:00,['1277925285594308610'],RT @jrschlosberg: This strikes me as a defining moment. If @UKlabour backs down on these proposals it will make a mockery of @Keir_Starmer…,
-138,1.2779251860047954e+18,2020-06-30 11:21:21+00:00,['1277925186004795397'],RT @jon_trickett: A decision of this scale and impact needs to go to full conference. Congrats to rank and file members bringing the case a…,
-139,1.2779249227870167e+18,2020-06-30 11:20:18+00:00,['1277924922787016710'],RT @andrewfeinstein: @Keir_Starmer is bending so far to the right he is getting the endorsement of Fascists. He is destroying the Labour Pa…,
-140,1.277924865920639e+18,2020-06-30 11:20:05+00:00,['1277924865920638976'],"RT @andrewfeinstein: Yehuda Shaul, an Israeli Jew and Co-founder of the extraordinary anti-occupation group, Breaking the Silence, notes ‘t…",
-141,1.277924765244719e+18,2020-06-30 11:19:41+00:00,['1277924765244719106'],"RT @andrewfeinstein: As a constituency MP Starmer has been incredibly divisive, actively encouraging   moderates to take over branches. The…",
-142,1.2779246695140352e+18,2020-06-30 11:19:18+00:00,['1277924669514035201'],"RT @andrewfeinstein: Does this make Mandela’s ANC antisemitic @Keir_Starmer? Of course it doesn’t? U r either on the side of justice, equal…",
-143,1.2777788632596357e+18,2020-06-30 01:39:55+00:00,['1277778863259635712'],"RT @ukblm: As Israel moves forward with the annexation of the West Bank, and mainstream British politics is gagged of the right to critique…",
-144,1.2777784890730742e+18,2020-06-30 01:38:26+00:00,['1277778489073074180'],"RT @RachaelMaskell: In answer to my question the Minister has confirmed that each glove is counted as a separate piece of PPE, so when they…",
-145,1.277380991900881e+18,2020-06-28 23:18:55+00:00,['1277380991900880896'],RT @mrjamesob: People will be checking the date on this front page for years to come while refusing to believe that the man doing the press…,
-146,1.276481031978324e+18,2020-06-26 11:42:48+00:00,['1276481031978323968'],"RT @jonlansman: First they sacked her, then they briefed against her. Divided parties do not win elections! Please focus on building trust,…",
-147,1.2764809361300972e+18,2020-06-26 11:42:25+00:00,['1276480936130097152'],"RT @mrjamesob: The first caller this morning, Jonny in Sydney, was on day 13 of compulsory, state-funded quarantine in Australia, where the…",
-148,1.2764808539552932e+18,2020-06-26 11:42:06+00:00,['1276480853955293184'],"RT @ClaudiaWebbe: Dear Keir,
-
-It is the sacking of Robert Jenrick MP that Labour should be calling for",
-149,1.276480583863079e+18,2020-06-26 11:41:01+00:00,['1276480583863078912'],"RT @IanLaveryMP: Stay and fight ⁦@UKLabour⁩ 👊. It’s not called the struggle for nothing. 
-#Organise
-#Educate 
-#Agitate https://t.co/FTWOldf…",
-150,1.2764804185277522e+18,2020-06-26 11:40:22+00:00,['1276480418527752193'],"RT @rachshabi: Sacking Rebecca Long Bailey isn’t an example of “zero tolerance” on antisemitism. It’s a sign of getting it wrong, over-reac…",
-151,1.2764797649461944e+18,2020-06-26 11:37:46+00:00,['1276479764946194432'],"RT @OwenJones84: If you're on the left and you quit the Labour party, you're doing nothing but delighting the right and disenfranchising yo…",
-152,1.2764795503026954e+18,2020-06-26 11:36:55+00:00,['1276479550302695431'],RT @NIAbbot: Is it possible that people gave up on following public health advice when Gollum went to Durham?,
-153,1.2764795052516557e+18,2020-06-26 11:36:44+00:00,['1276479505251655680'],"RT @SalmaYaqoob: Dear @Keir_Starmer, betraying loyal Labour supporters who oppose  oppression of Palestinians, Kashmiris, Black people, &amp; l…",
-154,1.276479082587394e+18,2020-06-26 11:35:03+00:00,['1276479082587394051'],RT @LauraPidcock: Solidarity with @RLong_Bailey. And solidarity with every member feeling unsure about their future in the party. A strong…,
-155,1.2741897069815194e+18,2020-06-20 03:57:54+00:00,['1274189706981519360'],RT @SalmaYaqoob: These people are targeting 3 Labour BAME women who have all been subjected to vile racist abuse - &amp; who are all active in…,
-156,1.2733782032105226e+18,2020-06-17 22:13:16+00:00,['1273378203210522629'],"RT @SamTarry: On the 6th Anniversary of the Model Town Massacre in Pakistan, I too remember the lives lost in this tragedy. Victims should…",
-157,1.2732545469453967e+18,2020-06-17 14:01:54+00:00,['1273254546945396736'],#Pakistan https://t.co/NOb8jVIaxn,
-158,1.272824836520321e+18,2020-06-16 09:34:23+00:00,['1272824836520321024'],I just signed onto @friends_earth’s open letter asking @TrussLiz to rule out any talks on a toxic trade deal with Donald Trump until this pandemic is over – will you add your name? https://t.co/LjP5H0z9lC,
-159,1.2726034235910554e+18,2020-06-15 18:54:34+00:00,['1272603423591055360'],RT @Anna_Soubry: Calvin Robinson @Channel4News is billed as a Conservative.  In Dec 2019 he was the Brexit party candidate in Broxtowe. The…,
-160,1.2726033696523346e+18,2020-06-15 18:54:21+00:00,['1272603369652334598'],"RT @DavidLammy: There are 35 recommendations in the Lammy Review. Implement them. 
-
-110 recommendations in the Angiolini Review. Implement…",
-161,1.2726033265768202e+18,2020-06-15 18:54:11+00:00,['1272603326576820225'],RT @solma_ahmed: Yesterday my leader @Keir_Starmer couldn’t even bring himself to say the right wing protesters were racists. Today I feel…,
-162,1.272603138114171e+18,2020-06-15 18:53:26+00:00,['1272603138114170882'],RT @DavidLammy: Labour isn’t talking about Churchill’s statue. The Lib Dems aren’t taking about it. The Greens aren’t talking about it. The…,
-163,1.272503912252289e+18,2020-06-15 12:19:09+00:00,['1272503912252289024'],RT @Eleri_Morgan: I’d like to offer this up as an suggestion. With the option of a hard border. https://t.co/0kdrygrD5Q,
-164,1.2719530340636017e+18,2020-06-13 23:50:09+00:00,['1271953034063601664'],RT @Anna_Soubry: Last time I encountered these thugs was in September 2019. They were chanting their support for #BorisJohnson He had the o…,
-165,1.2719518426757366e+18,2020-06-13 23:45:25+00:00,['1271951842675736582'],"RT @fifisyms: There he is. The fat thug who spat at a woman in Hyde Park mid-pandemic and kicked their picnic or them, I can’t see. Easily…",
-166,1.2719508654573855e+18,2020-06-13 23:41:32+00:00,['1271950865457385474'],RT @GaryLineker: Last week there was no mention of ‘a small minority’ when it was a very small minority. This week it’s ‘a small minority’…,
-167,1.2719504728705925e+18,2020-06-13 23:39:59+00:00,['1271950472870592516'],"RT @Keir_Starmer: Any violence against our police is completely unacceptable. No ifs, no buts. 
-
-Today’s protests in London were led by tho…",
-168,1.271857545687249e+18,2020-06-13 17:30:43+00:00,['1271857545687248901'],"RT @Baddiel: They know they’re the ones who are meant to be pro the police, right?",
-169,1.2718054155593974e+18,2020-06-13 14:03:34+00:00,['1271805415559397377'],RT @VinnieoDowd: Violence against police this afternoon at Parliament square. https://t.co/e9HZJHzbAK,
-170,1.271805268968575e+18,2020-06-13 14:02:59+00:00,['1271805268968574976'],RT @piersmorgan: Disgusting scenes in Westminster. Police &amp; journalists being attacked by right-wing thugs. Shameful. 👇,
-171,1.2718047168723272e+18,2020-06-13 14:00:48+00:00,['1271804716872327170'],RT @GaryLineker: Appears to be a few Nazi salutes by those apparently in town to defend Churchill’s statue. I’m confused.,
-172,1.2718043026051236e+18,2020-06-13 13:59:09+00:00,['1271804302605123585'],RT @mattuthompson: Things already escalating here on Parliament Square. Bottles and smoke bombs thrown at police. And you can see as a prot…,
-173,1.27168373861589e+18,2020-06-13 06:00:04+00:00,['1271683738615889920'],RT @WillBlackWriter: This is the Rory Stewart clip from early March that Boris Johnson and Dominic Cummings don't want you to see. On no ac…,
-174,1.271682617897898e+18,2020-06-13 05:55:37+00:00,['1271682617897897985'],"RT @ljkbennett: Wow, that was a wild few minutes where the actual President of the USA was following me on Twitter and even sent me a messa…",
-175,1.2711717070852178e+18,2020-06-11 20:05:26+00:00,['1271171707085217794'],"RT @piersmorgan: I posted this on March 11 &amp; was accused of 'pathetic scare-mongering.'
-Now Govt's top adviser says if we had locked down t…",
-176,1.2708679461146132e+18,2020-06-10 23:58:24+00:00,['1270867946114613249'],RT @jk_rowling: ‘People who menstruate.’ I’m sure there used to be a word for those people. Someone help me out. Wumben? Wimpund? Woomud?…,
-177,1.2708678729029386e+18,2020-06-10 23:58:07+00:00,['1270867872902938624'],"RT @jk_rowling: I’ve spent much of the last three years reading books, blogs and scientific papers by trans people, medics and gender speci…",
-178,1.270295448062919e+18,2020-06-09 10:03:30+00:00,['1270295448062918658'],"RT @PGtips: @bonmarche946 @YorkshireTea @thisislaurat Yeah it does suck, Pamela. If you are boycotting teas that stand against racism, you'…",
-179,1.27029540667784e+18,2020-06-09 10:03:20+00:00,['1270295406677839872'],RT @PGtips: @sharskee @MaraWilson @YorkshireTea No need. #BlackLivesMatter,
-180,1.2702948860724224e+18,2020-06-09 10:01:16+00:00,['1270294886072422400'],"RT @YorkshireTea: @thisislaurat Please don't buy our tea again. 
-
-We're taking some time to educate ourselves and plan proper action before…",
-181,1.2689361441395507e+18,2020-06-05 16:02:07+00:00,['1268936144139550723'],"RT @TahirulQadri: If a Muslim plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, it is regarded as a char…",
-182,1.2656110307864535e+18,2020-05-27 11:49:18+00:00,['1265611030786453504'],@JadeFrancesAzim What plant is that?,
-183,1.264960306821968e+18,2020-05-25 16:43:33+00:00,['1264960306821967876'],RT @willguyatt: Haven’t been able to get an eyetest due to lockdown. Going to drive to Scotland tomorrow instead.,
-184,1.2649602271427543e+18,2020-05-25 16:43:14+00:00,['1264960227142754304'],"RT @mrjamesob: ""Just testing my eyesight, Officer.""
-""Right you are, sir. Carry on driving.""",
-185,1.2649601607469302e+18,2020-05-25 16:42:58+00:00,['1264960160746930176'],"RT @JuliaHB1: My other half is poorly, I may get the virus too. What do I do? First, I’ve sat in on SAGE meetings so I know most people onl…",
-186,1.264959936284504e+18,2020-05-25 16:42:05+00:00,['1264959936284504068'],"RT @caoilfhionnanna: This morning I find myself agreeing with the Daily Mail front page, enthusiastically liking most of @piersmorgan’s twi…",
-187,1.2649598877858324e+18,2020-05-25 16:41:53+00:00,['1264959887785832448'],RT @mrjamesob: He could have sat there and read 50 Shades of Grey &amp; all these pliant MPs would still be tweeting about how impressive he wa…,
-188,1.264959784668795e+18,2020-05-25 16:41:29+00:00,['1264959784668794881'],"RT @mikeysmith: The chief whip there, giving Tory MPs their get out of jail free lines.
-
-We’ll see if this holds when MPs see thier inboxes.",
-189,1.2649597090664284e+18,2020-05-25 16:41:11+00:00,['1264959709066428417'],RT @stephenodonnell: Cummings just admitted to a motoring offence on live TV https://t.co/Ww5INuy2Tb,
-190,1.2649596457157796e+18,2020-05-25 16:40:56+00:00,['1264959645715779584'],RT @doctor_oxford: Polite public health announcement. If you're thinking of testing your dodgy eyesight by taking your spouse and small chi…,
-191,1.2649596221856522e+18,2020-05-25 16:40:50+00:00,['1264959622185652228'],RT @paulmasonnews: Barnard castle trip is confirmed... what was denied yesterday by Johnson is actually true.,
-192,1.2649595452411904e+18,2020-05-25 16:40:32+00:00,['1264959545241190401'],RT @John_Cooper_QC: Did his doctor know about eye sight issue before he signed him fit? #cummings,
-193,1.2649593625834004e+18,2020-05-25 16:39:48+00:00,['1264959362583400450'],RT @campbellclaret: He seriously seems to think this has helped him ... talk about not being in touch with real people. This is what happen…,
-194,1.2649593094961398e+18,2020-05-25 16:39:35+00:00,['1264959309496139776'],"RT @vivamjm: Is Barnard Castle en route to London from Durham for his test drive...with all the family...while having ""dodgy eyesight""? F*c…",
-195,1.2649591593693755e+18,2020-05-25 16:39:00+00:00,['1264959159369375745'],RT @PickardJE: so unless I’ve misunderstood this the child ended up briefly in a Durham hospital where - if he had had COVID - he could hav…,
-196,1.264959032059736e+18,2020-05-25 16:38:29+00:00,['1264959032059736065'],RT @ACunninghamMP: Why did No10 claim Cummings trip to Barnard Castle was a lie - he just admitted it?,
-197,1.2649587859798508e+18,2020-05-25 16:37:31+00:00,['1264958785979850752'],RT @alan_ha11: Only open schools when it is safe to do so - more:  https://t.co/xzzay3oX77  https://t.co/AlOO7dzJuj,
-198,1.264958607583568e+18,2020-05-25 16:36:48+00:00,['1264958607583567872'],RT @JohnStapletonTV: Am I right in thinking that the Mirror and the Guardian who broke this story have not yet been invited to pose a quest…,
-199,1.26495854268092e+18,2020-05-25 16:36:33+00:00,['1264958542680920064'],RT @feedthedrummer: Keir Starmer's office producing a list of questions responding to inconsistencies and unanswered questions in Dominic C…,
-200,1.2649576989505208e+18,2020-05-25 16:33:11+00:00,['1264957698950520837'],"RT @michaeljswalker: That question needs a follow up..
-
-- Were they mistaken to think they weren’t allowed to travel to extended family?
--…",
+Also social democracy and democratic socialism are interchangeable terms for the same thing.",,"  yeah i agree but they have democratic socialist policies
+also social democracy and democratic socialism are interchangeable terms for the same thing",True,False
+102,1.3131581553088512e+18,2020-10-05 16:44:36+00:00,['1313158155308851205'],@SheepSkate911 @BabushkaThe @K_Niemietz I'm talking about democratic socialism not communism.,,   im talking about democratic socialism not communism,True,False
+110,1.3034302978081792e+18,2020-09-08 20:29:34+00:00,['1303430297808179200'],@SanjayFBPEUK @K_Niemietz It isn't,,  it isnt,True,False
+111,1.3034302610283889e+18,2020-09-08 20:29:25+00:00,['1303430261028388875'],@BabushkaThe @K_Niemietz They're communist not democratic socialist,,  theyre communist not democratic socialist,True,False
+112,1.3034301676505006e+18,2020-09-08 20:29:03+00:00,['1303430167650500609'],"@EwartDanny @K_Niemietz It's just a different interpretation of a word, I believe that state owning everything and no private property is not democratic socialism but communism. I believe in democracy and freedom, hence I call myself a democratic socialist or social democrat.",,  its just a different interpretation of a word i believe that state owning everything and no private property is not democratic socialism but communism i believe in democracy and freedom hence i call myself a democratic socialist or social democrat,True,False
+113,1.29796865134216e+18,2020-08-24 18:46:56+00:00,['1297968651342159872'],I’ve just signed a petition calling on @pritipatel to #LiftTheBan on people seeking asylum being able to work. Everyone should have the right to provide for themselves and their families. Join me and #StandUpForAsylum! https://t.co/7qlsosMRVo,,i’ve just signed a petition calling on  to  on people seeking asylum being able to work everyone should have the right to provide for themselves and their families join me and  ,True,False
+117,1.286802614584324e+18,2020-07-24 23:17:05+00:00,['1286802614584324101'],I've donated to Jeremy's Legal Fund. You can show your solidarity too. https://t.co/do6CHPM0Ag,,ive donated to jeremys legal fund you can show your solidarity too ,True,False
+121,1.2845487209405194e+18,2020-07-18 18:00:55+00:00,['1284548720940519425'],Petition: Impose sanctions on China over its treatment of Uyghur Muslims https://t.co/u3csASamSu,,petition impose sanctions on china over its treatment of uyghur muslims ,True,False
+122,1.2844906960119767e+18,2020-07-18 14:10:21+00:00,['1284490696011976704'],13 tonnes of hair taken from China’s Uyghur Muslims has ‘Nazi resonance’ https://t.co/Wh73Q7dcUJ via @JewishNewsUK,,13 tonnes of hair taken from china’s uyghur muslims has ‘nazi resonance’  via ,True,False
+125,1.2790413318688604e+18,2020-07-03 13:16:31+00:00,['1279041331868860418'],40+ renowned Jewish groups worldwide oppose equating antisemitism with criticism of #Israel. https://t.co/XjH3wPS570,,40 renowned jewish groups worldwide oppose equating antisemitism with criticism of  ,True,False
+158,1.272824836520321e+18,2020-06-16 09:34:23+00:00,['1272824836520321024'],I just signed onto @friends_earth’s open letter asking @TrussLiz to rule out any talks on a toxic trade deal with Donald Trump until this pandemic is over – will you add your name? https://t.co/LjP5H0z9lC,,i just signed onto ’s open letter asking  to rule out any talks on a toxic trade deal with donald trump until this pandemic is over – will you add your name ,True,False
+182,1.2656110307864535e+18,2020-05-27 11:49:18+00:00,['1265611030786453504'],@JadeFrancesAzim What plant is that?,, what plant is that,True,False
 201,1.264957652641223e+18,2020-05-25 16:33:00+00:00,['1264957652641222657'],"Some great questions....
-#Cummingate https://t.co/Rh1OD3qa2V",
-202,1.2649569123213353e+18,2020-05-25 16:30:04+00:00,['1264956912321335298'],RT @mrjamesob: The most important question every single one of us has asked ourselves when contemplating anything during this lockdown is t…,
-203,1.2649565887182725e+18,2020-05-25 16:28:47+00:00,['1264956588718272512'],RT @OwenJones84: Driving 30-40 minutes each way to a beauty spot to test your eyesight is not in the rules and it is absolute joke to prete…,
-204,1.2649565522738995e+18,2020-05-25 16:28:38+00:00,['1264956552273899521'],"RT @piersmorgan: If you were ‘testing your eyesight’, why would you put your 4yr-old child in the car for an hour when by then it was OK fo…",
-205,1.2649561862538035e+18,2020-05-25 16:27:11+00:00,['1264956186253803526'],"RT @adamboultonSKY: Just a reminder. Dominic Cummings is unelected, he is not a member of the Conservative Party, he passed no civil servic…",
-206,1.2649557872748503e+18,2020-05-25 16:25:36+00:00,['1264955787274850305'],RT @OwenJones84: Can a journalist at least ask whether Dominic Cummings' wife Mary Wakefield can drive? If she can't it doesn't change the…,
-207,1.2649554912660357e+18,2020-05-25 16:24:25+00:00,['1264955491266035715'],RT @jessgreenpoet: I’m glad Cummings is raising awareness of the distinct lack of private childcare available to a rich man in central Lond…,
-208,1.2649554679540408e+18,2020-05-25 16:24:19+00:00,['1264955467954040834'],RT @mrjamesob: He should probably mention that the day of the wholly unjustified trip to Barnard Castle was his wife's birthday.,
-209,1.264923725222359e+18,2020-05-25 14:18:11+00:00,['1264923725222359041'],RT @tug: Wrote to my MP https://t.co/y5xfH3wu8c,
-210,1.2649234636026348e+18,2020-05-25 14:17:09+00:00,['1264923463602634752'],RT @robmcgibbon: The hysterical TV news about Dominic Cummings last night prompted my son to ask for an explanation. After quickly outlinin…,
-211,1.2649233634006548e+18,2020-05-25 14:16:45+00:00,['1264923363400654849'],#cumgate https://t.co/RAppAf5W73,
-212,1.264922517199872e+18,2020-05-25 14:13:23+00:00,['1264922517199872000'],RT @EmilyThornberry: The people of Islington South &amp; Finsbury can always be relied on to say it as it is.,
-213,1.2649223135116943e+18,2020-05-25 14:12:35+00:00,['1264922313511694337'],"RT @mrjamesob: Vote to get rid of 'unelected bureaucrats', end up giving them televised press conferences.",
-214,1.2649216170393477e+18,2020-05-25 14:09:49+00:00,['1264921617039347713'],RT @OwenJones84: One of the most powerful things you will ever read.,
-215,1.264920702542545e+18,2020-05-25 14:06:11+00:00,['1264920702542544906'],RT @JackDunc1: Just a reminder that prior to #CumGate the Government used this as an awareness poster... https://t.co/1SRrsfSDtw,
-216,1.2649206699403387e+18,2020-05-25 14:06:03+00:00,['1264920669940338688'],"RT @thisgirlblue: I think, bearing in mind this holy time of #Eid, we should hold a minute’s silence in memory of 13 year old Ismail, who d…",
-217,1.2649202542805893e+18,2020-05-25 14:04:24+00:00,['1264920254280589312'],RT @Calderbank: @Andrew_Adonis Said Durham was only 45 minutes away?,
-218,1.2649201739973632e+18,2020-05-25 14:04:05+00:00,['1264920173997363200'],RT @AaronBastani: @Andrew_Adonis But there would be no need to falsify evidence in this instance Andrew.,
-219,1.2648586634135634e+18,2020-05-25 09:59:39+00:00,['1264858663413563397'],"RT @bateswalsall1: Forget Cummings, this is the national disgrace. Queue for the foodbank at the Elephant and Castle yesterday https://t.co…",
-220,1.2646220424537702e+18,2020-05-24 18:19:25+00:00,['1264622042453770248'],"RT @doctor_oxford: If Dominic Cummings isn't gone by the end of today, @BorisJohnson is insulting every grieving relative I have had to cal…",
-221,1.2646166666940703e+18,2020-05-24 17:58:03+00:00,['1264616666694070283'],"RT @richardosman: We're being taken for absolute mugs. Our parents, our kids, our carers, our health workers, every one of us. It's such a…",
-222,1.264616625904509e+18,2020-05-24 17:57:53+00:00,['1264616625904508931'],"RT @piersmorgan: Never seen Twitter so united - journalists, pundits, politicians, celebrities &amp; the public all ENRAGED by what they just h…",
-223,1.2646165187651994e+18,2020-05-24 17:57:28+00:00,['1264616518765199362'],Legend https://t.co/uL2WpNK1Fl,
-224,1.2645491644673434e+18,2020-05-24 13:29:49+00:00,['1264549164467343360'],"@BBCPolitics @SteveBakerHW Steve always been of principle standing up for what's proper. It's a shame to see all the remarks from all the furlock tucking partisan loyalists. I've been following Steve since I met him at Warwick uni in 2012, despite not agreeing a lot politically, I respect his integrity.",
-225,1.263784341844394e+18,2020-05-22 10:50:41+00:00,['1263784341844393984'],"RT @SianGriffiths6: BREAKING: Independent SAGE committee of scientists says that June 1st is TOO SOON for schools to re-open safely,",
-226,1.263783765274493e+18,2020-05-22 10:48:24+00:00,['1263783765274492929'],"RT @AOC: Really great system we got here.
-
-Can’t imagine why anyone would question how beneficial or sustainable it is for the working class",
-227,1.2637831570207334e+18,2020-05-22 10:45:59+00:00,['1263783157020733442'],"RT @Keir_Starmer: Key workers, NHS staff and care workers have kept our country going when we’ve needed them most.
-
-It’s right we clap for…",
-228,1.2637830752401818e+18,2020-05-22 10:45:39+00:00,['1263783075240181765'],"RT @JamesMelville: During Phase 1 of unlocking the lockdown, sunbathing will be allowed in Scotland. https://t.co/a7XKw7vJF4",
-229,1.2559635394345042e+18,2020-04-30 20:53:37+00:00,['1255963539434504207'],RT @jeremycorbyn: We are not the party of the billionaires. We are not the party of the corporate elite. We are the party of the people. #F…,
-230,1.255963522380464e+18,2020-04-30 20:53:33+00:00,['1255963522380464137'],I miss him https://t.co/dS3rZolN73,
-231,1.255525714511696e+18,2020-04-29 15:53:51+00:00,['1255525714511695872'],RT @chessmartinez: Jacinda Arden's brilliant handling of Covid shows what happens when your politics are based on compassion &amp; human need.…,
-232,1.2555254419323126e+18,2020-04-29 15:52:46+00:00,['1255525441932312582'],"RT @TfL: Making non-essential journeys risks lives
-
-Stay home, don’t travel, save lives
-
-#coronavirus #covid19 #londontogether https://t.co…",
-233,1.2543670896468664e+18,2020-04-26 11:09:53+00:00,['1254367089646866432'],Petition: Provide COVID19 financial assistance only to companies paying UK corporation tax https://t.co/cLqgEHNTx1,
-234,1.2526429318628434e+18,2020-04-21 16:58:42+00:00,['1252642931862843392'],"RT @EdConwaySky: Breaking: @ONS announces 18,516 deaths of ALL causes in week ending Apr 10. Biggest total in that week in modern history.…",
-235,1.2526419085911368e+18,2020-04-21 16:54:38+00:00,['1252641908591136768'],"RT @PeterStefanovi2: UK's failure to join EU ventilator scheme was 'political decision', not communication error, says senior civil servant…",
-236,1.2526418774777285e+18,2020-04-21 16:54:31+00:00,['1252641877477728260'],"RT @HackneyAbbott: Branson has not paid tax in this country for 14 years. On no account should he get a taxpayer bailout, loan or otherwise…",
-237,1.252641614289351e+18,2020-04-21 16:53:28+00:00,['1252641614289350656'],RT @johnpilger: The new Labour Party leader Keir Starmer knows that Britain's prisons are infested with COVID-19. Julian #Assange is not am…,
-238,1.25264112694904e+18,2020-04-21 16:51:32+00:00,['1252641126949040129'],"RT @johnpilger: When Jeremy Hunt was UK Health Secretary the stockpile of PPE was cut by 40 per cent. In 2016, he oversaw Exercise Cygnus t…",
-239,1.251630010806534e+18,2020-04-18 21:53:43+00:00,['1251630010806534145'],RT @StefSimanowitz: @peterjukes @BorisJohnson @Schofe @hollywills @mvdct @CereinynOrd @afneil @JeremyVineOn5 @FullFact @Peston @JIMrichards…,
-240,1.251629888366424e+18,2020-04-18 21:53:14+00:00,['1251629888366424065'],RT @OwenJones84: Here's the smoking gun. It shows that the government was determined early on to be an international outlier on coronavirus…,
-241,1.251629715703558e+18,2020-04-18 21:52:33+00:00,['1251629715703558145'],RT @ethan32433: Mad to think there’s 54 UK billionaires and if each of those donated just 1% of their worth to the NHS they’d be funded wit…,
-242,1.251629671025967e+18,2020-04-18 21:52:22+00:00,['1251629671025967105'],"RT @LenMcCluskey: We've told our 100,000 health worker members that they can legitimately, lawfully, decline to put themselves in danger. T…",
-243,1.2508433838048993e+18,2020-04-16 17:47:56+00:00,['1250843383804899328'],"RT @XR_Oxford: How can the Government continue to justify the astronomical sums being spent on #HS2. COVID19 is changing the world, by the…",
+#Cummingate https://t.co/Rh1OD3qa2V",,"some great questions
+ ",True,False
+223,1.2646165187651994e+18,2020-05-24 17:57:28+00:00,['1264616518765199362'],Legend https://t.co/uL2WpNK1Fl,,legend ,True,False
+224,1.2645491644673434e+18,2020-05-24 13:29:49+00:00,['1264549164467343360'],"@BBCPolitics @SteveBakerHW Steve always been of principle standing up for what's proper. It's a shame to see all the remarks from all the furlock tucking partisan loyalists. I've been following Steve since I met him at Warwick uni in 2012, despite not agreeing a lot politically, I respect his integrity.",,  steve always been of principle standing up for whats proper its a shame to see all the remarks from all the furlock tucking partisan loyalists ive been following steve since i met him at warwick uni in 2012 despite not agreeing a lot politically i respect his integrity,True,False
+230,1.255963522380464e+18,2020-04-30 20:53:33+00:00,['1255963522380464137'],I miss him https://t.co/dS3rZolN73,,i miss him ,True,False
+233,1.2543670896468664e+18,2020-04-26 11:09:53+00:00,['1254367089646866432'],Petition: Provide COVID19 financial assistance only to companies paying UK corporation tax https://t.co/cLqgEHNTx1,,petition provide covid19 financial assistance only to companies paying uk corporation tax ,True,False
 244,1.2507136747398267e+18,2020-04-16 09:12:31+00:00,['1250713674739826688'],"Petition: Make it mandatory to wear a face mask in public during Covid-19 Pandemic.
-#WearMasksSaveLives https://t.co/vMegmAYeEH",
+#WearMasksSaveLives https://t.co/vMegmAYeEH",,"petition make it mandatory to wear a face mask in public during covid19 pandemic
+ ",True,False
 245,1.2507132375759462e+18,2020-04-16 09:10:47+00:00,['1250713237575946246'],"Petition: Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.
-#StopHS2 #ScrapTrident  https://t.co/dbLBlze7oA",
-246,1.2507113679774433e+18,2020-04-16 09:03:21+00:00,['1250711367977443328'],Petition: Make COVID19 testing available to teaching staff caring for pupils. https://t.co/uM4Jwo1V9J,
+#StopHS2 #ScrapTrident  https://t.co/dbLBlze7oA",,"petition repeal the 2013 and 2017 hs2 hybrid bills halting all hs2 works immediately
+   ",True,False
+246,1.2507113679774433e+18,2020-04-16 09:03:21+00:00,['1250711367977443328'],Petition: Make COVID19 testing available to teaching staff caring for pupils. https://t.co/uM4Jwo1V9J,,petition make covid19 testing available to teaching staff caring for pupils ,True,False
 247,1.2507106226245345e+18,2020-04-16 09:00:24+00:00,['1250710622624534528'],"I just signed the @NEUnion petition: Open schools when it is safe. 
 
 It opposes any re-opening of schools before it is safe to do so.
 
-Please sign too: https://t.co/1ta7AryfKE",
-248,1.250048441092313e+18,2020-04-14 13:09:07+00:00,['1250048441092313096'],"RT @YoungLabourUK: Our statement on the leaked reports about the Governance and Legal Unit of the Labour Party is below. 
+Please sign too: https://t.co/1ta7AryfKE",,"i just signed the  petition open schools when it is safe 
 
-Complainants and…",
-249,1.2498520169412037e+18,2020-04-14 00:08:36+00:00,['1249852016941203457'],"RT @IanLaveryMP: I don’t know which way to turn. I can’t sleep.
+it opposes any reopening of schools before it is safe to do so
 
-#Labourleaks",
-250,1.2498519601126195e+18,2020-04-14 00:08:23+00:00,['1249851960112619522'],"Really impressed at the way @piersmorgan has been holding the government to account. Precisely what journalists must do. Never thought I'd ever be praising Piers, but there's always a first time.",
-251,1.2498510171072553e+18,2020-04-14 00:04:38+00:00,['1249851017107255298'],"RT @alexwickham: Patrick Vallance, ITV tonight: ""no question... testing is an incredibly important part of how we need to manage this going…",
-252,1.2498508626562048e+18,2020-04-14 00:04:01+00:00,['1249850862656204806'],"RT @piersmorgan: Great leaders - Churchill etc - don’t blindly follow experts, they listen to advice then make their own decisions. 
-Our sc…",
-253,1.249850356626002e+18,2020-04-14 00:02:00+00:00,['1249850356626001921'],RT @Haggis_UK: Piers Morgan - I can only draw one conclusion from our airports being open &amp; for non essential workers being told to go to w…,
-254,1.24984984925363e+18,2020-04-13 23:59:59+00:00,['1249849849253629953'],"RT @Jen4TruroAndFal: It really shouldn’t matter where your politics within the Labour Party sits, everyone should be calling out staff memb…",
-255,1.2498494793075917e+18,2020-04-13 23:58:31+00:00,['1249849479307591688'],RT @ta_mills: How has @Keir_Starmer made no statement - even a brief holding statement - on the leaked document? This is a major scandal an…,
-256,1.249849407924777e+18,2020-04-13 23:58:14+00:00,['1249849407924776961'],"RT @jsternweiner: Don't want to rush to conclusions here, but, it seems 'antisemitism' was weaponised for factional purposes.",
-257,1.2498492966079857e+18,2020-04-13 23:57:48+00:00,['1249849296607985665'],RT @HackneyAbbott: So is Emily Oldknow seriously going to be @Keir_Starmer pick for @UKLabour General Secretary? Surely she should never be…,
-258,1.2498491371782554e+18,2020-04-13 23:57:10+00:00,['1249849137178255360'],RT @LauraSmithCrewe: Yes the timing of this isn’t great and yes we all have plenty of other things on our minds but @Keir_Starmer we need t…,
-259,1.249849061592662e+18,2020-04-13 23:56:52+00:00,['1249849061592662018'],RT @DaveWardGS: As the leader of an affiliated union I know that many of our activists worked tirelessly for a Labour government. It is inc…,
-260,1.249848826044842e+18,2020-04-13 23:55:55+00:00,['1249848826044841985'],RT @KimJohnsonMP: Absolutely reprehensible behaviour from senior staff @LabourUK - supposed to be helping us into government. This report s…,
-261,1.249476750972801e+18,2020-04-12 23:17:26+00:00,['1249476750972801024'],"RT @SadiqKhan: It’s a scandal our Government has failed to ensure there’s enough PPE reaching frontline health and social care workers, let…",
-262,1.2494763944149402e+18,2020-04-12 23:16:01+00:00,['1249476394414940160'],RT @mrjamesob: There’s a horribly inappropriate &amp; clearly orchestrated trolling campaign being directed at Keir Starmer by Conservative MPs…,
-263,1.2494760978231173e+18,2020-04-12 23:14:50+00:00,['1249476097823117312'],"RT @blunted_james: I think we could all see why Priti Patel has been kept away from the media these last weeks.
-
-Politicians need two basic…",
-264,1.24947578015078e+18,2020-04-12 23:13:34+00:00,['1249475780150779906'],"RT @AaronBastani: Quite. Labour members, activists and MPs past and present should seek justice, not the exit door.",
-265,1.2494755172223918e+18,2020-04-12 23:12:32+00:00,['1249475517222391814'],Jeremy Corbyn claims he would be PM if not for 2016 leadership challenge https://t.co/NVVpxbdoOP,
-266,1.2494742643125494e+18,2020-04-12 23:07:33+00:00,['1249474264312549377'],"'Hostility to Corbyn' curbed Labour efforts to tackle antisemitism, says leaked report https://t.co/Fgaorgltjh",
-267,1.249474038528979e+18,2020-04-12 23:06:39+00:00,['1249474038528978945'],"RT @IanLaveryMP: Astonishing Astounding yet Unsurprising @UKLabour.
-
-Please take a deep breath, dust yourself down. 
-
-Membership retention…",
-268,1.2494739731774546e+18,2020-04-12 23:06:23+00:00,['1249473973177454592'],"RT @RichardBurgon: We would have won in 2017 without all the sabotage. 
-
-Imagine how different our country could have been. 
-
-Labour member…",
-269,1.2494739308191826e+18,2020-04-12 23:06:13+00:00,['1249473930819182592'],"RT @SeemaChandwani: Reading that report was emotionally bumpy. 
-
-You went from thinking ‘these people are jokers’ to ‘these people are inco…",
-270,1.2494738150186926e+18,2020-04-12 23:05:46+00:00,['1249473815018692609'],RT @OwenJones84: The way Labour staffers responded to their own party - which pays them wages to advance its interests - responded to the 2…,
-271,1.2494737399700111e+18,2020-04-12 23:05:28+00:00,['1249473739970011137'],"RT @OwenJones84: ""We will have to suck this up. The people have spoken. Bastards."" This was how a senior Labour official greeted the Tories…",
-272,1.249385653567185e+18,2020-04-12 17:15:26+00:00,['1249385653567184897'],"RT @LauraPidcock: Dying because you have to go to work is political.
-Dying because you are not protected at work is political.
-Being poor b…",
-273,1.2490981953988444e+18,2020-04-11 22:13:11+00:00,['1249098195398844419'],"RT @IanLaveryMP: Tonight’s headlines should reflect the frightening death rate in the UK Nothing more!!!
-
-Ffs give the front line staff the…",
-274,1.2490981896107377e+18,2020-04-11 22:13:10+00:00,['1249098189610737667'],"RT @AaronBastani: Turkey, a country 1/4 as wealthy as a britain on a per head basis, is sending us 250,000 pieces of personal protective eq…",
-275,1.249097740782633e+18,2020-04-11 22:11:23+00:00,['1249097740782632960'],"RT @Hayley_Barlow: Channel 4 News: Will you apologise for the lack of PPE for frontline NHS staff &amp; resultant deaths?
-
-Priti Patel: ""I’m so…",
+please sign too ",True,False
+250,1.2498519601126195e+18,2020-04-14 00:08:23+00:00,['1249851960112619522'],"Really impressed at the way @piersmorgan has been holding the government to account. Precisely what journalists must do. Never thought I'd ever be praising Piers, but there's always a first time.",,really impressed at the way  has been holding the government to account precisely what journalists must do never thought id ever be praising piers but theres always a first time,True,False
+265,1.2494755172223918e+18,2020-04-12 23:12:32+00:00,['1249475517222391814'],Jeremy Corbyn claims he would be PM if not for 2016 leadership challenge https://t.co/NVVpxbdoOP,,jeremy corbyn claims he would be pm if not for 2016 leadership challenge ,True,False
+266,1.2494742643125494e+18,2020-04-12 23:07:33+00:00,['1249474264312549377'],"'Hostility to Corbyn' curbed Labour efforts to tackle antisemitism, says leaked report https://t.co/Fgaorgltjh",,hostility to corbyn curbed labour efforts to tackle antisemitism says leaked report ,True,False
 276,1.2489715615640248e+18,2020-04-11 13:49:59+00:00,['1248971561564024832'],"@siennamarla The government's totally wasted the month of February sitting idly.
-How can Germany contact trace and have so many tests compared to us, they have a competent government's, ours was useless even with the headstart.",
-277,1.2489711903764644e+18,2020-04-11 13:48:31+00:00,['1248971190376464384'],"RT @siennamarla: I’m so overwhelmingly angry about the UK response to coronavirus, and I just don’t understand how it is possible for other…",
-278,1.2489709445609718e+18,2020-04-11 13:47:32+00:00,['1248970944560971777'],RT @martynware: Where are the opposition? Anyone???,
-279,1.2489707665505157e+18,2020-04-11 13:46:50+00:00,['1248970766550515715'],"RT @JimfromOldham: Heartbreaking the scale of those lost, beyond the numbers families and friends will be hurting.",
-280,1.2489705578881147e+18,2020-04-11 13:46:00+00:00,['1248970557888114695'],RT @GlennWool: “Don’t make this political” is the cowards way of apologising for electing a fucking idiot,
-281,1.248024427087962e+18,2020-04-08 23:06:25+00:00,['1248024427087962116'],Coronavirus: Police hunt pair who 'licked hands and wiped them on supermarket food' | UK News | Sky News https://t.co/6dN6CHpk5N,
-282,1.2472985614920745e+18,2020-04-06 23:02:05+00:00,['1247298561492074496'],"RT @EmilyThornberry: It’s been a pleasure to work with @BarryGardiner these past four years: a true team-player, and the epitome of loyalty…",
-283,1.2472806051859374e+18,2020-04-06 21:50:44+00:00,['1247280605185937412'],"With the UK in lockdown, why are flights still arriving at Heathrow? @patel4witham https://t.co/QLEtYoQH7P",
-284,1.2472774228710195e+18,2020-04-06 21:38:05+00:00,['1247277422871019520'],"As a staunch Labourite, I #PrayForBoris and hope that Boris recovers swiftly. What happened is incredibly sad, this virus doesn't discriminate: rich, poor, immigrant, native. All are effected, and we must all unite to defeat it. #StayHomeSaveLives",
-285,1.247276374764794e+18,2020-04-06 21:33:55+00:00,['1247276374764793856'],RT @Ed_Miliband: Deeply concerned to hear about Boris Johnson’s condition. Tonight I am thinking of him and sending all best wishes to his…,
-286,1.246832134859432e+18,2020-04-05 16:08:40+00:00,['1246832134859431938'],RT @Iromg: You’re a fucking liar. The story was reported. The assailant was a woman. Why do you stir the shit you total scumbag?,
-287,1.24683181981687e+18,2020-04-05 16:07:25+00:00,['1246831819816869888'],RT @johnmcdonnellMP: Congratulations to @AnnelieseDodds on her appointment as Shadow Chancellor. Anneliese was a superb member of my Treasu…,
-288,1.2468225248953426e+18,2020-04-05 15:30:29+00:00,['1246822524895342592'],"Can't believe Keir Starmer demoted Barry Gardiner from the shadow cabinet, Barry is one of the most gifted, intelligent, and best educated MPs in the Labour party",
-289,1.2468176263298785e+18,2020-04-05 15:11:01+00:00,['1246817626329878528'],"RT @karl_trotsky: Shocking news. Starmer has dropped Barry Gardiner from his Shadow Cabinet. 
-Dropping arguably the most talented presenter…",
-290,1.2456084299404288e+18,2020-04-02 07:06:06+00:00,['1245608429940428800'],"RT @benyt: How to ensure you don't get follow-up questions on Fox, apparently. https://t.co/nOUqw4ZVhO",
-291,1.244594141620732e+18,2020-03-30 11:55:41+00:00,['1244594141620731904'],"RT @jk_rowling: RIP. May we NEVER forget what immigrants, and their children and grandchildren, have given this country, especially our hea…",
-292,1.243608667880067e+18,2020-03-27 18:39:46+00:00,['1243608667880067075'],"RT @RichardBurgon: Germany is reportedly now doing 500,000 Coronavirus tests per week. 
-
-The UK has tested just 40,000 people over the past…",
-293,1.243607948166824e+18,2020-03-27 18:36:54+00:00,['1243607948166823936'],https://t.co/0jBF63mNPE,
-294,1.242804906928595e+18,2020-03-25 13:25:54+00:00,['1242804906928594945'],"Coronavirus: Briton, 21, with no pre-existing health conditions dies after contracting COVID-19 https://t.co/qn54Kxfl6j",
-295,1.2425519301462303e+18,2020-03-24 20:40:40+00:00,['1242551930146230273'],"RT @TfL: 🏠✔️ Stay at home - do not travel unless essential
-⁠
-🧑‍⚕️ Key workers, if your journey is absolutely essential, the busiest times a…",
-296,1.242551811740971e+18,2020-03-24 20:40:12+00:00,['1242551811740971011'],"RT @TfL: ⚠️ Stay at home
-
-❌ Do not travel unless your journey is absolutely essential
-
-ℹ️ If you’re a key worker and your journey is absolu…",
-297,1.2425517517834609e+18,2020-03-24 20:39:57+00:00,['1242551751783460869'],RT @TahirulQadri: Symptoms of Corona Virus become visible in 14 to 28 days normally and an affected person unintentionally becomes a source…,
-298,1.2425517255774577e+18,2020-03-24 20:39:51+00:00,['1242551725577457670'],RT @TahirulQadri: The only effective treatment for Corona Virus is to take precautionary measures. It is our social and religious responsib…,
-299,1.2425517000508457e+18,2020-03-24 20:39:45+00:00,['1242551700050845697'],"RT @TahirulQadri: A strict #lockdown, similar in nature with Curfew, is a must and if not imposed, the situation may deteriorate our econom…",
-300,1.2420383918369833e+18,2020-03-23 10:40:03+00:00,['1242038391836983298'],RT @bradshaaaw: Yesterday I knocked on my Tennant's door and told him he can stay in the property rent free for 5 months. He is self employ…,
-301,1.2420378245112463e+18,2020-03-23 10:37:47+00:00,['1242037824511246336'],"RT @paulmasonnews: Johnson's failure to enact a lockdown, in defiance of calls from epidemiologists, is bordering on criminal negligence -…",
-302,1.2418739850564895e+18,2020-03-22 23:46:45+00:00,['1241873985056489473'],Cuban doctors head to Italy battle coronavirus | Reuters https://t.co/BMbPrv7nCE,
-303,1.241734486120903e+18,2020-03-22 14:32:26+00:00,['1241734486120902658'],"RT @ToryFibs: Mind blowing. 
-
-Listen to this man - no country has had a worse leader through the Coronavirus Pandemic that this buffoon. ht…",
-304,1.2417343905285202e+18,2020-03-22 14:32:03+00:00,['1241734390528520193'],@ClarkeMicah @MailOnline Yeah it is,
-305,1.2417340402957435e+18,2020-03-22 14:30:40+00:00,['1241734040295743498'],"RT @BendyBen999: Attended a patient at home. Strong COVID -19 symptoms. Full assessment. Left her at home. Lengthy advice re isolation, the…",
-306,1.2417340115983852e+18,2020-03-22 14:30:33+00:00,['1241734011598385154'],RT @CathPowles: How is this actually allowed to happen @BBCNews @itvnews worth highlighting the treatment of our #NHS staff https://t.co/hb…,
-307,1.2417335460557414e+18,2020-03-22 14:28:42+00:00,['1241733546055741441'],"@chunkymark Chunky I can't find any of your old videos online, will you be able to put some from the last couple of years back up....",
-308,1.2417328534754875e+18,2020-03-22 14:25:57+00:00,['1241732853475487749'],"RT @GavinWilliamson: You should only send your child to school on Monday if you have to, because your work is critical to our COVID-19 resp…",
-309,1.241618190440022e+18,2020-03-22 06:50:19+00:00,['1241618190440022016'],"10 Days That Changed Britain: ""Heated"" Debate Between Scientists Forced Boris Johnson To Act On Coronavirus https://t.co/YBeSsvS4zH via @alexwickham",
-310,1.2415167790311916e+18,2020-03-22 00:07:21+00:00,['1241516779031191554'],RT @susannareid100: Testing: why isn’t it happening at the scale the Prime Minister promised? It is identified as a key factor in South Kor…,
-311,1.241516688950145e+18,2020-03-22 00:06:59+00:00,['1241516688950145031'],RT @CJMoon_: Why is nobody talking about the fact that herd immunity and letting the virus ‘move through the population’ was our official p…,
-312,1.2415161138355487e+18,2020-03-22 00:04:42+00:00,['1241516113835548673'],RT @paulmasonnews: Senior epidemiologists say UNLESS THE UK LOCKS DOWN ENTIRELY ON MONDAY WE WILL GO THE SAME WAY AS ITALY. Is @BorisJohnso…,
-313,1.2415160113938186e+18,2020-03-22 00:04:18+00:00,['1241516011393818625'],"RT @ToryFibs: Heartbreaking 
-
-793 Italian deaths in the last day from Coronavirus. That’s 33 dying per hour, or one dying every 109 seconds…",
-314,1.241514444422865e+18,2020-03-21 23:58:04+00:00,['1241514444422864901'],#CoronaCrisisuk #Covid_19 #CoronavirusPandemic https://t.co/w8Exb8NBF1,
+How can Germany contact trace and have so many tests compared to us, they have a competent government's, ours was useless even with the headstart.",," the governments totally wasted the month of february sitting idly
+how can germany contact trace and have so many tests compared to us they have a competent governments ours was useless even with the headstart",True,False
+281,1.248024427087962e+18,2020-04-08 23:06:25+00:00,['1248024427087962116'],Coronavirus: Police hunt pair who 'licked hands and wiped them on supermarket food' | UK News | Sky News https://t.co/6dN6CHpk5N,,coronavirus police hunt pair who licked hands and wiped them on supermarket food  uk news  sky news ,True,False
+283,1.2472806051859374e+18,2020-04-06 21:50:44+00:00,['1247280605185937412'],"With the UK in lockdown, why are flights still arriving at Heathrow? @patel4witham https://t.co/QLEtYoQH7P",,with the uk in lockdown why are flights still arriving at heathrow  ,True,False
+284,1.2472774228710195e+18,2020-04-06 21:38:05+00:00,['1247277422871019520'],"As a staunch Labourite, I #PrayForBoris and hope that Boris recovers swiftly. What happened is incredibly sad, this virus doesn't discriminate: rich, poor, immigrant, native. All are effected, and we must all unite to defeat it. #StayHomeSaveLives",,as a staunch labourite i  and hope that boris recovers swiftly what happened is incredibly sad this virus doesnt discriminate rich poor immigrant native all are effected and we must all unite to defeat it ,True,False
+288,1.2468225248953426e+18,2020-04-05 15:30:29+00:00,['1246822524895342592'],"Can't believe Keir Starmer demoted Barry Gardiner from the shadow cabinet, Barry is one of the most gifted, intelligent, and best educated MPs in the Labour party",,cant believe keir starmer demoted barry gardiner from the shadow cabinet barry is one of the most gifted intelligent and best educated mps in the labour party,True,False
+293,1.243607948166824e+18,2020-03-27 18:36:54+00:00,['1243607948166823936'],https://t.co/0jBF63mNPE,,,True,False
+294,1.242804906928595e+18,2020-03-25 13:25:54+00:00,['1242804906928594945'],"Coronavirus: Briton, 21, with no pre-existing health conditions dies after contracting COVID-19 https://t.co/qn54Kxfl6j",,coronavirus briton 21 with no preexisting health conditions dies after contracting covid19 ,True,False
+302,1.2418739850564895e+18,2020-03-22 23:46:45+00:00,['1241873985056489473'],Cuban doctors head to Italy battle coronavirus | Reuters https://t.co/BMbPrv7nCE,,cuban doctors head to italy battle coronavirus  reuters ,True,False
+304,1.2417343905285202e+18,2020-03-22 14:32:03+00:00,['1241734390528520193'],@ClarkeMicah @MailOnline Yeah it is,,  yeah it is,True,False
+307,1.2417335460557414e+18,2020-03-22 14:28:42+00:00,['1241733546055741441'],"@chunkymark Chunky I can't find any of your old videos online, will you be able to put some from the last couple of years back up....",, chunky i cant find any of your old videos online will you be able to put some from the last couple of years back up,True,False
+309,1.241618190440022e+18,2020-03-22 06:50:19+00:00,['1241618190440022016'],"10 Days That Changed Britain: ""Heated"" Debate Between Scientists Forced Boris Johnson To Act On Coronavirus https://t.co/YBeSsvS4zH via @alexwickham",,10 days that changed britain heated debate between scientists forced boris johnson to act on coronavirus  via ,True,False
 315,1.241479478804656e+18,2020-03-21 21:39:07+00:00,['1241479478804656130'],"""The UK has just 6.6 intensive care beds per 100,000 people – half the number in Italy and about a fifth of the total in Germany.""
-https://t.co/uw2fEatNto",
-316,1.2414746499234245e+18,2020-03-21 21:19:56+00:00,['1241474649923424256'],RT @AngelaRayner: Easyjet still plans to go ahead with a £174m dividend payout to shareholders despite asking for govt support. It plans on…,
-317,1.2414325296656916e+18,2020-03-21 18:32:34+00:00,['1241432529665691648'],"RT @BeffernieBlack: The science never changed, they just started listening to conservative professional scientists, not professional conser…",
-318,1.240403290749383e+18,2020-03-18 22:22:44+00:00,['1240403290749382662'],"RT @ToryFibs: Germany speed building a 1,000 bespoke Corona-Hospital using their army. Just like China managed in 5 days. 
-
-Why? Because th…",
-319,1.2404028408976876e+18,2020-03-18 22:20:57+00:00,['1240402840897687556'],"RT @ToryFibs: UK Coronavirus Response 
-
-• We will not close schools
-• We will not test
-• We will not suppress
-• We will not go into lockdow…",
-320,1.2404026784606208e+18,2020-03-18 22:20:18+00:00,['1240402678460620803'],RT @jeremycorbyn: Generations to come will look back on this moment and judge us on the actions we take now. https://t.co/Pds2XfTwKg,
+https://t.co/uw2fEatNto",,"the uk has just 66 intensive care beds per 100000 people – half the number in italy and about a fifth of the total in germany
+",True,False
 321,1.2404024827209032e+18,2020-03-18 22:19:32+00:00,['1240402482720903168'],"This stupid idea of ""herd immunity"" has lead to this.
 Common sense alone dictates that it was always a terrible idea, this has simply made things worse.
 I don't necessarily blame Boris, but I do blame those advising dismissing the opposed vast scientific opinion.
-#londonlockdown",
-322,1.2400278846323958e+18,2020-03-17 21:31:00+00:00,['1240027884632395783'],"RT @faizashaheen: 3 wks ago we were told those working in supermarkets, social care &amp; cleaners were “low skilled”- now these are the people…",
-323,1.2393239943540408e+18,2020-03-15 22:54:00+00:00,['1239323994354040834'],"I’m an epidemiologist. When I heard about Britain’s ‘herd immunity’ coronavirus plan, I thought it was satire | William Hanage https://t.co/94OpZzKrbn",
-324,1.2381842008487813e+18,2020-03-12 19:24:52+00:00,['1238184200848781313'],Johnson&amp;#039;s herd-immunity plan would mean letting 90% of UK catch COVID-19 - and a million or more die https://t.co/HKSytsn6E6 via @skwawkbox,
-325,1.2381829921887724e+18,2020-03-12 19:20:04+00:00,['1238182992188772352'],Health expert brands UK's coronavirus response 'pathetic' https://t.co/OmzlCjgI2C,
-326,1.2361239214994596e+18,2020-03-07 02:58:03+00:00,['1236123921499459585'],RT @TahirulQadri: The masterminds and perpetrators of #ModelTownMassacre were afraid of being caught during the past government but now the…,
-327,1.236123880328237e+18,2020-03-07 02:57:53+00:00,['1236123880328237063'],RT @TahirulQadri: The victims of #ModelTownMassacre have been demanding for an impartial trial of this case and are still awaiting for this…,
-328,1.2361238295687864e+18,2020-03-07 02:57:41+00:00,['1236123829568786432'],RT @TahirulQadri: I am short of words to express deepest congratulations to Prime Minister Imran Khan on appointing the criminals and main…,
-329,1.2359953251035914e+18,2020-03-06 18:27:03+00:00,['1235995325103591424'],"Agreed. School where pupils walk to class in silence should be 'replicated across UK', education secretary says https://t.co/iHVPMmgBXg",
-330,1.2334929840349307e+18,2020-02-28 20:43:39+00:00,['1233492984034930689'],"RT @jeremycorbyn: I welcome today’s decision of the High Court to support our local hospital, the Whittington, against the ludicrous claim…",
-331,1.2334929642420838e+18,2020-02-28 20:43:34+00:00,['1233492964242083840'],RT @AndyMcDonaldMP: Very disappointed that I've been stood down from tonight’s Any Questions on Radio 4 because they said they couldn’t get…,
-332,1.2333821232534446e+18,2020-02-28 13:23:07+00:00,['1233382123253444608'],@pphltm @K_Niemietz Well I don't agree with Marx's ideology at all.,
-333,1.2315038712871404e+18,2020-02-23 08:59:37+00:00,['1231503871287140352'],RT @Micah_Not_Micha: We can’t talk about RANGE and not mention Andy Serkis! 🔥 https://t.co/nHr4ixnPNi,
-334,1.2315021928357317e+18,2020-02-23 08:52:57+00:00,['1231502192835731462'],RT @LauraSmithCrewe: Today I went on a knife sweep with others in the community. One less knife off the streets. Found it in Westminster Pa…,
-335,1.2315004370246287e+18,2020-02-23 08:45:59+00:00,['1231500437024628737'],RT @SanaKassem: Malek Issa an 8 year old Palestinian. He was shot today by an Israeli soldier straight in the eye with a bullet from a shor…,
-336,1.2314991709654876e+18,2020-02-23 08:40:57+00:00,['1231499170965487622'],RT @BernieSanders: “He never has changed his attack because of pressure from the outside or when he felt the wind was blowing another way.…,
-337,1.2314065864233656e+18,2020-02-23 02:33:03+00:00,['1231406586423365632'],RT @LolOverruled: 1/ I am FURIOUS right now. @MikeBloomberg needs to take down this ad IMMEDIATELY. Read the thread I'm about to make. He i…,
-338,1.2314015725523804e+18,2020-02-23 02:13:07+00:00,['1231401572552380418'],@edeysal @K_Niemietz https://t.co/O8TDaBJ0r8,
-339,1.231401458475643e+18,2020-02-23 02:12:40+00:00,['1231401458475642882'],@FeloniusTony https://t.co/1XMl9rvjyw,
+#londonlockdown",,"this stupid idea of herd immunity has lead to this
+common sense alone dictates that it was always a terrible idea this has simply made things worse
+i dont necessarily blame boris but i do blame those advising dismissing the opposed vast scientific opinion
+",True,False
+323,1.2393239943540408e+18,2020-03-15 22:54:00+00:00,['1239323994354040834'],"I’m an epidemiologist. When I heard about Britain’s ‘herd immunity’ coronavirus plan, I thought it was satire | William Hanage https://t.co/94OpZzKrbn",,i’m an epidemiologist when i heard about britain’s ‘herd immunity’ coronavirus plan i thought it was satire  william hanage ,True,False
+324,1.2381842008487813e+18,2020-03-12 19:24:52+00:00,['1238184200848781313'],Johnson&amp;#039;s herd-immunity plan would mean letting 90% of UK catch COVID-19 - and a million or more die https://t.co/HKSytsn6E6 via @skwawkbox,,johnsonamps herdimmunity plan would mean letting 90 of uk catch covid19  and a million or more die  via ,True,False
+325,1.2381829921887724e+18,2020-03-12 19:20:04+00:00,['1238182992188772352'],Health expert brands UK's coronavirus response 'pathetic' https://t.co/OmzlCjgI2C,,health expert brands uks coronavirus response pathetic ,True,False
+329,1.2359953251035914e+18,2020-03-06 18:27:03+00:00,['1235995325103591424'],"Agreed. School where pupils walk to class in silence should be 'replicated across UK', education secretary says https://t.co/iHVPMmgBXg",,agreed school where pupils walk to class in silence should be replicated across uk education secretary says ,True,False
+332,1.2333821232534446e+18,2020-02-28 13:23:07+00:00,['1233382123253444608'],@pphltm @K_Niemietz Well I don't agree with Marx's ideology at all.,,  well i dont agree with marxs ideology at all,True,False
 340,1.2314006785448264e+18,2020-02-23 02:09:34+00:00,['1231400678544826369'],"@edeysal @K_Niemietz Is social democracy not a category of democratic Socialism?
-Socialism has a broad range of definitions and is a mixture of ideas, social democracy is also one of them.",
-341,1.2313998405480858e+18,2020-02-23 02:06:14+00:00,['1231399840548085760'],"RT @AvaSantina: Heard some old boys down the pub in Bethnal Green talking about the new, blue British passports &amp; broke the news they’re ma…",
-342,1.2313995409363968e+18,2020-02-23 02:05:03+00:00,['1231399540936396802'],"RT @GrumpyOldDoc: @JamesMelville HS2 and Trident are big spends
-No industry to generate that income
-At least we can just print more
-Can't w…",
-343,1.231399345666347e+18,2020-02-23 02:04:16+00:00,['1231399345666347009'],RT @jeremycorbyn: Where's Boris Johnson? https://t.co/sfp1i5ws9y,
-344,1.2313991693000745e+18,2020-02-23 02:03:34+00:00,['1231399169300074498'],"RT @cjwerleman: A total of like 12 people have voted for Tulsi Gabbard. 
-
-So nice to know there are so few Muslim hating, Hindutva loving,…","{'copyright': False, 'country_codes': ['IN']}"
-345,1.2313989841256817e+18,2020-02-23 02:02:50+00:00,['1231398984125681665'],RT @OurRevolution: Billionaires and corporations are SCARED they may have to pay their fair share under a Bernie Sanders presidency. #OurRe…,
-346,1.2313989314788516e+18,2020-02-23 02:02:38+00:00,['1231398931478851584'],RT @proustmalone: My dearest centrists: Bernie Sanders isn’t “forcing you to vote for Trump.” He is simply forcing you to be honest with yo…,
-347,1.231398590192464e+18,2020-02-23 02:01:16+00:00,['1231398590192463872'],"RT @MarkRuffalo: Centrist Democrat brothers and sisters, all we are saying is give Bernie (us) a chance. It’s time for another approach. We…",
-348,1.2313963708771574e+18,2020-02-23 01:52:27+00:00,['1231396370877157379'],"RT @BilldeBlasio: I’m a New Yorker, I’m a mayor and I know I’ve been cleaning up Michael Bloomberg’s mess for six years. We ended the era o…",
-349,1.2313961702048768e+18,2020-02-23 01:51:39+00:00,['1231396170204876801'],"RT @BilldeBlasio: THE moment from tonight:
-
-“You know, Mr. Bloomberg, maybe it wasn’t you who made all that money. Maybe your workers playe…",
-350,1.23139610084787e+18,2020-02-23 01:51:23+00:00,['1231396100847869952'],"RT @BilldeBlasio: .@PeteButtigieg, you clearly don’t understand the movement @BernieSanders has built. It reflects the true values + hope o…",
-351,1.231395934451503e+18,2020-02-23 01:50:43+00:00,['1231395934451503104'],"RT @BilldeBlasio: And hey @PeteButtigieg, try to not be so smug when you just got your ass kicked. You know how we form a winning coalition…",
-352,1.231395690997338e+18,2020-02-23 01:49:45+00:00,['1231395690997338112'],RT @BernieSanders: In America you should not suffer financial ruin because you got sick.,
-353,1.231395380778193e+18,2020-02-23 01:48:31+00:00,['1231395380778192896'],"RT @justicedems: Chris Matthews just compared Bernie's victory in Nevada to the Nazis taking control of France.
-
-Incredibly offensive thing…",
-354,1.231393888360903e+18,2020-02-23 01:42:35+00:00,['1231393888360902656'],"@FeloniusTony Socialism encompasses a range of economic systems, in my eyes social democracy is a branch of democratic socialism..... https://t.co/MgSRiKhOFC",
-355,1.2313897400978514e+18,2020-02-23 01:26:06+00:00,['1231389740097851394'],"“Rather than allowing people to travel to the UK and contribute to our economy by working, Priti Patel would rather drag people out of education, out of retirement and out of hospital beds and set them to work"" https://t.co/5FKMucF3Qh",
-356,1.2313876689631027e+18,2020-02-23 01:17:53+00:00,['1231387668963102720'],"@pphltm @K_Niemietz True, you may call it social democracy or democratic socialism. But that's my ideology. There's no single definition of socialism and I see social democracy as a category of socialist ideology.",
+Socialism has a broad range of definitions and is a mixture of ideas, social democracy is also one of them.",,"  is social democracy not a category of democratic socialism
+socialism has a broad range of definitions and is a mixture of ideas social democracy is also one of them",True,False
+354,1.231393888360903e+18,2020-02-23 01:42:35+00:00,['1231393888360902656'],"@FeloniusTony Socialism encompasses a range of economic systems, in my eyes social democracy is a branch of democratic socialism..... https://t.co/MgSRiKhOFC",, socialism encompasses a range of economic systems in my eyes social democracy is a branch of democratic socialism ,True,False
+355,1.2313897400978514e+18,2020-02-23 01:26:06+00:00,['1231389740097851394'],"“Rather than allowing people to travel to the UK and contribute to our economy by working, Priti Patel would rather drag people out of education, out of retirement and out of hospital beds and set them to work"" https://t.co/5FKMucF3Qh",,“rather than allowing people to travel to the uk and contribute to our economy by working priti patel would rather drag people out of education out of retirement and out of hospital beds and set them to work ,True,False
+356,1.2313876689631027e+18,2020-02-23 01:17:53+00:00,['1231387668963102720'],"@pphltm @K_Niemietz True, you may call it social democracy or democratic socialism. But that's my ideology. There's no single definition of socialism and I see social democracy as a category of socialist ideology.",,  true you may call it social democracy or democratic socialism but thats my ideology theres no single definition of socialism and i see social democracy as a category of socialist ideology,True,False
 357,1.2313869542578954e+18,2020-02-23 01:15:02+00:00,['1231386954257895427'],"@edeysal @K_Niemietz Sorry, but you're over-simplifying what socialism is. Democratic Socialism has a range of definitions, I see Venezuela and Cuba as communist or Marxist economies.
-I'm a social democrat that believes in strong public services and state regulation. https://t.co/I9nyVIvIBJ",
-358,1.2313855798935265e+18,2020-02-23 01:09:34+00:00,['1231385579893526534'],"@AlanFreestone @K_Niemietz No single definition, many varieties, and a range of economic systems. https://t.co/Zbmmz1oQno",
-359,1.2313845774758502e+18,2020-02-23 01:05:35+00:00,['1231384577475850240'],"@morvjn @K_Niemietz No it doesn't, there's no single definition of socialism. We believe in state regulation of the economy, not state ownership of the whole economy. https://t.co/pBHnsGhvCk",
-360,1.2313837568644465e+18,2020-02-23 01:02:20+00:00,['1231383756864446465'],"@K_Niemietz Socialism encompasses a range of social systems and there is no single definitions, just read some of the key references in the footnotes of Wikipedia, very easy to do. https://t.co/LNbjZPKxh7",
-361,1.2313819734212198e+18,2020-02-23 00:55:15+00:00,['1231381973421219840'],@K_Niemietz @drsantos755 Exactly we're a free market economy with socialist principles such as the NHS and the welfare state. But I want better public services with higher taxation.,
+I'm a social democrat that believes in strong public services and state regulation. https://t.co/I9nyVIvIBJ",,"  sorry but youre oversimplifying what socialism is democratic socialism has a range of definitions i see venezuela and cuba as communist or marxist economies
+im a social democrat that believes in strong public services and state regulation ",True,False
+358,1.2313855798935265e+18,2020-02-23 01:09:34+00:00,['1231385579893526534'],"@AlanFreestone @K_Niemietz No single definition, many varieties, and a range of economic systems. https://t.co/Zbmmz1oQno",,  no single definition many varieties and a range of economic systems ,True,False
+359,1.2313845774758502e+18,2020-02-23 01:05:35+00:00,['1231384577475850240'],"@morvjn @K_Niemietz No it doesn't, there's no single definition of socialism. We believe in state regulation of the economy, not state ownership of the whole economy. https://t.co/pBHnsGhvCk",,  no it doesnt theres no single definition of socialism we believe in state regulation of the economy not state ownership of the whole economy ,True,False
+360,1.2313837568644465e+18,2020-02-23 01:02:20+00:00,['1231383756864446465'],"@K_Niemietz Socialism encompasses a range of social systems and there is no single definitions, just read some of the key references in the footnotes of Wikipedia, very easy to do. https://t.co/LNbjZPKxh7",, socialism encompasses a range of social systems and there is no single definitions just read some of the key references in the footnotes of wikipedia very easy to do ,True,False
+361,1.2313819734212198e+18,2020-02-23 00:55:15+00:00,['1231381973421219840'],@K_Niemietz @drsantos755 Exactly we're a free market economy with socialist principles such as the NHS and the welfare state. But I want better public services with higher taxation.,,  exactly were a free market economy with socialist principles such as the nhs and the welfare state but i want better public services with higher taxation,True,False
 362,1.2313812952064778e+18,2020-02-23 00:52:33+00:00,['1231381295206477824'],"@K_Niemietz Socialism without capitalism is fascism and communism 
 Capitalism without socialism is feudalism and peasantry.
-I am a DEMOCRATIC socialist that believes in private property and the free market but with regulation.",
-363,1.2313806094545306e+18,2020-02-23 00:49:49+00:00,['1231380609454530560'],"Agreed, and that is the vision I have for Britain. My version of socialism is the NHS, and strong public services with publicly owned key industries such as energy, water, and transport. https://t.co/L0T31lrf8y",
+I am a DEMOCRATIC socialist that believes in private property and the free market but with regulation.",," socialism without capitalism is fascism and communism 
+capitalism without socialism is feudalism and peasantry
+i am a democratic socialist that believes in private property and the free market but with regulation",True,False
+363,1.2313806094545306e+18,2020-02-23 00:49:49+00:00,['1231380609454530560'],"Agreed, and that is the vision I have for Britain. My version of socialism is the NHS, and strong public services with publicly owned key industries such as energy, water, and transport. https://t.co/L0T31lrf8y",,agreed and that is the vision i have for britain my version of socialism is the nhs and strong public services with publicly owned key industries such as energy water and transport ,True,False
 364,1.2313322876456714e+18,2020-02-22 21:37:49+00:00,['1231332287645671425'],"This is serious!
 How Jewish American pedophiles hide from justice in Israel
-https://t.co/6XaF6a85q0",
-365,1.229178877509063e+18,2020-02-16 23:00:56+00:00,['1229178877509062657'],"@K_Niemietz Norway is socialist, Iceland is socialist, socialism means strong public services funded by taxation. Nothing more in my eyes.",
-366,1.22887648674202e+18,2020-02-16 02:59:20+00:00,['1228876486742020096'],RT @zsl11913: @frank_loman @JimDavisOnAir Here's the petition I wrote... Please forgive me for any grammar errors... And share if you can.…,
-367,1.228876406937047e+18,2020-02-16 02:59:01+00:00,['1228876406937047040'],BBC Radio London: Keep BBC Radio London's Overnight Programmes https://t.co/UiuXDCAOvY via @UKChange,
-368,1.228875673835577e+18,2020-02-16 02:56:06+00:00,['1228875673835577344'],@DuncanBarkes I'm going to miss your show so much! I hope to hear you on live radio at weeknights some place else soon.,
-369,1.228875248398934e+18,2020-02-16 02:54:25+00:00,['1228875248398934017'],"Noooo. So sad, the Tories are destroying our cultural capital that is irreplaceable. https://t.co/IyqbbOmAGC",
-370,1.2288748901047255e+18,2020-02-16 02:52:59+00:00,['1228874890104725504'],So so so sad. This is just one of the many casualties to come from the Tory scum's war on the BBC. https://t.co/vrET7MhVln,
-371,1.2261375643499766e+18,2020-02-08 13:35:50+00:00,['1226137564349976576'],RT @OborneTweets: Boris Johnson is not just leading a campaign against British media. He's declared war on the institutions of liberal demo…,
-372,1.2261366964687135e+18,2020-02-08 13:32:23+00:00,['1226136696468713477'],RT @willjoduncs: seeing #JohnWilliams this morning and seeing it is his birthday a sigh of relief took over me https://t.co/6653boRHr7,
-373,1.226136574611665e+18,2020-02-08 13:31:54+00:00,['1226136574611664896'],@DuncanBannatyne have you and James Caan made up and talked to eachother since 2011? Or are you still both hostile?,
-374,1.2259256450474025e+18,2020-02-07 23:33:45+00:00,['1225925645047402496'],@StCleres1 Are you still looking for a science teacher?,
-375,1.2247522001964237e+18,2020-02-04 17:50:53+00:00,['1224752200196423680'],RT @jeremycorbyn: I've written to Boris Johnson demanding urgent clarification of his government's position on Trump's 'peace plan' for Isr…,
-376,1.2247520903896635e+18,2020-02-04 17:50:27+00:00,['1224752090389663746'],RT @leninology: The British Left complaining about comedians (ffs) who didn't back Corbyn is a stage of mourning that we need to get throug…,
-377,1.2247520431449457e+18,2020-02-04 17:50:16+00:00,['1224752043144945664'],The rage I feel against scum who take their shoes off and put their feet on seats in public transport is difficult to put into words. #trains,
+https://t.co/6XaF6a85q0",,"this is serious
+how jewish american pedophiles hide from justice in israel
+",True,False
+365,1.229178877509063e+18,2020-02-16 23:00:56+00:00,['1229178877509062657'],"@K_Niemietz Norway is socialist, Iceland is socialist, socialism means strong public services funded by taxation. Nothing more in my eyes.",, norway is socialist iceland is socialist socialism means strong public services funded by taxation nothing more in my eyes,True,False
+367,1.228876406937047e+18,2020-02-16 02:59:01+00:00,['1228876406937047040'],BBC Radio London: Keep BBC Radio London's Overnight Programmes https://t.co/UiuXDCAOvY via @UKChange,,bbc radio london keep bbc radio londons overnight programmes  via ,True,False
+368,1.228875673835577e+18,2020-02-16 02:56:06+00:00,['1228875673835577344'],@DuncanBarkes I'm going to miss your show so much! I hope to hear you on live radio at weeknights some place else soon.,, im going to miss your show so much i hope to hear you on live radio at weeknights some place else soon,True,False
+369,1.228875248398934e+18,2020-02-16 02:54:25+00:00,['1228875248398934017'],"Noooo. So sad, the Tories are destroying our cultural capital that is irreplaceable. https://t.co/IyqbbOmAGC",,noooo so sad the tories are destroying our cultural capital that is irreplaceable ,True,False
+370,1.2288748901047255e+18,2020-02-16 02:52:59+00:00,['1228874890104725504'],So so so sad. This is just one of the many casualties to come from the Tory scum's war on the BBC. https://t.co/vrET7MhVln,,so so so sad this is just one of the many casualties to come from the tory scums war on the bbc ,True,False
+373,1.226136574611665e+18,2020-02-08 13:31:54+00:00,['1226136574611664896'],@DuncanBannatyne have you and James Caan made up and talked to eachother since 2011? Or are you still both hostile?,, have you and james caan made up and talked to eachother since 2011 or are you still both hostile,True,False
+374,1.2259256450474025e+18,2020-02-07 23:33:45+00:00,['1225925645047402496'],@StCleres1 Are you still looking for a science teacher?,, are you still looking for a science teacher,True,False
+377,1.2247520431449457e+18,2020-02-04 17:50:16+00:00,['1224752043144945664'],The rage I feel against scum who take their shoes off and put their feet on seats in public transport is difficult to put into words. #trains,,the rage i feel against scum who take their shoes off and put their feet on seats in public transport is difficult to put into words ,True,False
 378,1.2172007077172716e+18,2020-01-14 21:43:57+00:00,['1217200707717271555'],"Capitalism without socialism is feudalism and serfdom.
 Socialism without capitalism is communism and dictatorship.
-That's why I see the #Labour party as democratic socialist, we believe in a social democracy with aspects of both socialism and capitalism.",
-379,1.216337852897923e+18,2020-01-12 12:35:17+00:00,['1216337852897923072'],"@stoketastic @JackHind @KenNapzok Down to 589,000 now, never seen a working YouTube channel lose followers like @Collider has right now.",
-380,1.2157482756990566e+18,2020-01-10 21:32:31+00:00,['1215748275699056645'],'Thirty-five bruises found' on teenager convicted of lying about gang rape https://t.co/bwDzTmEKRm via @MetroUK,
-381,1.2149513763311985e+18,2020-01-08 16:45:55+00:00,['1214951376331198467'],RT @MichaelAvenatti: Iran is NOT Iraq. Or Kuwait or Syria or Somalia. It is a country of proud people with a rich heritage. They will not b…,
-382,1.2149512642677514e+18,2020-01-08 16:45:28+00:00,['1214951264267751424'],"RT @ShimonPro: In its Telegram channel The Islamic Revolutionary Guard Corps says that in the event that Iranian soil is bombed, Iran will…",
-383,1.2149511137174036e+18,2020-01-08 16:44:52+00:00,['1214951113717403648'],RT @MichaelAvenatti: Just think - All of this could have been avoided if Trump had just built a hotel in Tehran or borrowed money from the…,
-384,1.2142785416024146e+18,2020-01-06 20:12:19+00:00,['1214278541602414592'],"RT @DaveWardGS: Support for the re-nationalisation of:
-
-✉️ Royal Mail - 69%
-🚂 Railways - 64%
-💧 Water companies - 63%
-🚌 Bus companies - 55%…",
-385,1.213947909810643e+18,2020-01-05 22:18:30+00:00,['1213947909810642949'],@johncampea @KristianHarloff Where is this video?! Has it been made yet? would love to see you both together discussing star wars like the old days.,
-386,1.2139467853638984e+18,2020-01-05 22:14:02+00:00,['1213946785363898368'],"RT @aldridge96_afc: Anyone disappointed over Collider, particularly Jedi Council fans, follow and listen to @ForceCenterPod. @KenNapzok, @J…",
-387,1.2139465500759532e+18,2020-01-05 22:13:06+00:00,['1213946550075953153'],"RT @KenNapzok: Nah. You deleted it, @jackhind but you can't run. I've been an ""industry professional"" longer than you've been alive. Jobs c…",
-388,1.213256813359063e+18,2020-01-04 00:32:20+00:00,['1213256813359063040'],"RT @Decker6: A lot of good talented people lost there jobs today. For what? Deep fake videos? Who, but a complete asshole, fires everyone t…",
-389,1.2132548112122225e+18,2020-01-04 00:24:22+00:00,['1213254811212222464'],Brilliant https://t.co/iQFU1sscpB,
-390,1.213254023215747e+18,2020-01-04 00:21:14+00:00,['1213254023215747073'],RT @AaronBastani: Just insane and incorrect. Prior to US invading Afghanistan *they* had supported Taliban in early 1990s while Iran’s alli…,
-391,1.2132536987108884e+18,2020-01-04 00:19:57+00:00,['1213253698710888449'],RT @KyleKulinski: How the fuck do you even begin to sell the idea of assassinating the front line leaders against ISIS to the American publ…,
-392,1.2132536127024497e+18,2020-01-04 00:19:37+00:00,['1213253612702449664'],"RT @MaxBlumenthal: And here we are, in an election year, and look at what you've done https://t.co/yL3tP910Ma",
-393,1.2132535812745912e+18,2020-01-04 00:19:29+00:00,['1213253581274591232'],"RT @AaronBastani: This is Suleimani in Tikrit in 2015. Then the Iranians and US worked together, alongside Iraqis, France and U.K., to dest…",
-394,1.2129171618549514e+18,2020-01-03 02:02:40+00:00,['1212917161854951430'],"RT @StarWarsExplain: Collider is getting rid of Jedi Council and other shows with actual discussion and insight in favor of cheap, meaningl…",
-395,1.2129159340605153e+18,2020-01-03 01:57:48+00:00,['1212915934060515328'],"Terrible decision by #Collider. Getting rid of quality content and replacing it with hammy, cringy ""'deepfake"" stuff is really not helping themselves in the long-term. https://t.co/xLNhcmPP1o",
-396,1.2129151846978273e+18,2020-01-03 01:54:49+00:00,['1212915184697827328'],RT @MollieDamon: Wow...getting rid of shows like Jedi Council and Movie talk to promote...The DEEPFAKE SAGA? This is such sad news. I have…,
-397,1.2128210094448108e+18,2020-01-02 19:40:36+00:00,['1212821009444810752'],"RT @TahirulQadri: Imran Khan deserves appreciation for providing equal justice to all in his ""New Pakistan"" where the convicted criminals a…",
-398,1.212820998019539e+18,2020-01-02 19:40:33+00:00,['1212820998019538944'],"RT @TahirulQadri: I am extremely grieved to see the inhumane treatment of arrested PAT workers, two among which have died in jail and despi…",
-399,1.2128209689530655e+18,2020-01-02 19:40:26+00:00,['1212820968953065479'],"RT @TahirulQadri: Convicted criminals who looted national exchequer are free to leave the country, but innocent victims of Model Town incid…",
-400,1.2128186488275968e+18,2020-01-02 19:31:13+00:00,['1212818648827596800'],RT @chelleryn99: Supporting another referendum with Remain on the ballot was politically and morally indefensible. When you do things like…,
-401,1.212487023279444e+18,2020-01-01 21:33:27+00:00,['1212487023279443968'],"RT @XRBerlin: A vision of Hell as Australia burns.
-
-People are dying and livelihoods being destroyed, as governments around the world do no…",
+That's why I see the #Labour party as democratic socialist, we believe in a social democracy with aspects of both socialism and capitalism.",,"capitalism without socialism is feudalism and serfdom
+socialism without capitalism is communism and dictatorship
+thats why i see the  party as democratic socialist we believe in a social democracy with aspects of both socialism and capitalism",True,False
+379,1.216337852897923e+18,2020-01-12 12:35:17+00:00,['1216337852897923072'],"@stoketastic @JackHind @KenNapzok Down to 589,000 now, never seen a working YouTube channel lose followers like @Collider has right now.",,   down to 589000 now never seen a working youtube channel lose followers like  has right now,True,False
+380,1.2157482756990566e+18,2020-01-10 21:32:31+00:00,['1215748275699056645'],'Thirty-five bruises found' on teenager convicted of lying about gang rape https://t.co/bwDzTmEKRm via @MetroUK,,thirtyfive bruises found on teenager convicted of lying about gang rape  via ,True,False
+385,1.213947909810643e+18,2020-01-05 22:18:30+00:00,['1213947909810642949'],@johncampea @KristianHarloff Where is this video?! Has it been made yet? would love to see you both together discussing star wars like the old days.,,  where is this video has it been made yet would love to see you both together discussing star wars like the old days,True,False
+389,1.2132548112122225e+18,2020-01-04 00:24:22+00:00,['1213254811212222464'],Brilliant https://t.co/iQFU1sscpB,,brilliant ,True,False
+395,1.2129159340605153e+18,2020-01-03 01:57:48+00:00,['1212915934060515328'],"Terrible decision by #Collider. Getting rid of quality content and replacing it with hammy, cringy ""'deepfake"" stuff is really not helping themselves in the long-term. https://t.co/xLNhcmPP1o",,terrible decision by  getting rid of quality content and replacing it with hammy cringy deepfake stuff is really not helping themselves in the longterm ,True,False
 402,1.2123934642787697e+18,2020-01-01 15:21:41+00:00,['1212393464278769664'],"GOAL by Danny Ings - Southampton 1-0 Tottenham.
 Ings has got to be one our best signings for a striker.
-#SaintsFC #SOUTOT",
-403,1.2121360207345582e+18,2019-12-31 22:18:42+00:00,['1212136020734558214'],Prime Minister Of Iceland Calls For Prioritizing “Well-Being” Of Citizens Over GDP - https://t.co/PBu7DEIWbH,
-404,1.2121312950164972e+18,2019-12-31 21:59:55+00:00,['1212131295016497152'],Good job! Wise decision. https://t.co/SISLj8MSLu,
-405,1.212130607008043e+18,2019-12-31 21:57:11+00:00,['1212130607008043012'],"Good step to take, just hope he keeps his promise on raising spending on the NHS. https://t.co/EsHTFZiC0N",
-406,1.2121302758551593e+18,2019-12-31 21:55:52+00:00,['1212130275855159302'],RT @SarahLudford: It is utterly shameful to call any person ‘low-value’. https://t.co/bmzijNK6Lk,
-407,1.2121292741463122e+18,2019-12-31 21:51:53+00:00,['1212129274146312202'],"@helensclegel Iain Lavery is more experienced, and an excellent debater. I'm not taking anything away from Rebecca Long-Bailey, but I just don't think she's electable as a PM.",
-408,1.2121271372993372e+18,2019-12-31 21:43:24+00:00,['1212127137299337217'],"RT @LabourList: WATCH: Jeremy Corbyn issues defiant New Year message – ""We are the resistance"": https://t.co/PJh9X02UoD",
-409,1.211763413833134e+18,2019-12-30 21:38:05+00:00,['1211763413833134086'],"RT @nataliesedacca: This looks disturbing - a 19 year old who reported being gang raped on holiday, had injuries consistent with rape accor…",
-410,1.211763302671569e+18,2019-12-30 21:37:39+00:00,['1211763302671568896'],"RT @CANZUK: Join CANZUK International in campaigning for free movement, free trade &amp; foreign policy between #Canada, #Australia, #NewZealan…",
-411,1.2109123359860818e+18,2019-12-28 13:16:13+00:00,['1210912335986081792'],RT @mrjamesob: Nothing sticks it to those ‘elites’ like holidaying on a private Caribbean  island after putting a couple of cronies in the…,
-412,1.2109115957669847e+18,2019-12-28 13:13:16+00:00,['1210911595766984704'],"RT @mrjamesob: A lot of unattractive snark has greeted Iain Duncan Smith’s knighthood. In a country currently fetishising mediocrity, ignor…",
+#SaintsFC #SOUTOT",,"goal by danny ings  southampton 10 tottenham
+ings has got to be one our best signings for a striker
+ ",True,False
+403,1.2121360207345582e+18,2019-12-31 22:18:42+00:00,['1212136020734558214'],Prime Minister Of Iceland Calls For Prioritizing “Well-Being” Of Citizens Over GDP - https://t.co/PBu7DEIWbH,,prime minister of iceland calls for prioritizing “wellbeing” of citizens over gdp  ,True,False
+404,1.2121312950164972e+18,2019-12-31 21:59:55+00:00,['1212131295016497152'],Good job! Wise decision. https://t.co/SISLj8MSLu,,good job wise decision ,True,False
+405,1.212130607008043e+18,2019-12-31 21:57:11+00:00,['1212130607008043012'],"Good step to take, just hope he keeps his promise on raising spending on the NHS. https://t.co/EsHTFZiC0N",,good step to take just hope he keeps his promise on raising spending on the nhs ,True,False
+407,1.2121292741463122e+18,2019-12-31 21:51:53+00:00,['1212129274146312202'],"@helensclegel Iain Lavery is more experienced, and an excellent debater. I'm not taking anything away from Rebecca Long-Bailey, but I just don't think she's electable as a PM.",, iain lavery is more experienced and an excellent debater im not taking anything away from rebecca longbailey but i just dont think shes electable as a pm,True,False
 413,1.2107052402548283e+18,2019-12-27 23:33:17+00:00,['1210705240254828545'],"Another future is possible. Join us in taking the fight to the Tories. #AnotherFutureIsPossible
-https://t.co/y2zTiHuAfx",
-414,1.2107049105950351e+18,2019-12-27 23:31:59+00:00,['1210704910595035137'],"RT @Keir_Starmer: The moral fight against injustice, poverty and homelessness must continue.
-
-Join me and we’ll take the fight to the Torie…",
-415,1.2107019093692088e+18,2019-12-27 23:20:03+00:00,['1210701909369208832'],RT @ChrisGPackham: If there is anyone in the U.K. left with any ambiguous ideas about whether we should end Foxhunting immediately then wat…,
-416,1.2105648688033137e+18,2019-12-27 14:15:30+00:00,['1210564868803313665'],We kicked out Zac Goldsmith in Richmond Park –  yet he's still in Boris Johnson's Eton cabinet https://t.co/5xim65B7RW,
-417,1.210564054781182e+18,2019-12-27 14:12:16+00:00,['1210564054781181952'],Saudi crown prince defends China's right to put Uighur Muslims in concentration camps https://t.co/C17YkXs5sf,
-418,1.2103098908513976e+18,2019-12-26 21:22:19+00:00,['1210309890851397632'],RT @BenjaminNorton: Terrifying video of India's fascist Hindutva paramilitary group the RSS holding a massive march in the southern state o…,
-419,1.2103094499419996e+18,2019-12-26 21:20:33+00:00,['1210309449941999632'],"RT @SocialistVoice: Security guards pin homeless man too cold to move against wall as he shouts in pain
-
-Horrified shoppers at Lakeside Sho…",
-420,1.2103089078785065e+18,2019-12-26 21:18:24+00:00,['1210308907878506496'],RT @PaulEmbery: ‘Animal welfare’... https://t.co/oxMuk0UcPP,
-421,1.210308833454809e+18,2019-12-26 21:18:07+00:00,['1210308833454809090'],"RT @cjwerleman: “I cried and begged for mercy but they were very brutal. They told me Muslims have only two places, Pakistan or Kabristan.""…","{'copyright': False, 'country_codes': ['IN']}"
-422,1.2103086034265948e+18,2019-12-26 21:17:12+00:00,['1210308603426594834'],RT @imajsaclaimant: Footage of shopping centre security staff shows a homeless man pinned against a wall while he shouts out they've broken…,
+https://t.co/y2zTiHuAfx",,"another future is possible join us in taking the fight to the tories 
+",True,False
+416,1.2105648688033137e+18,2019-12-27 14:15:30+00:00,['1210564868803313665'],We kicked out Zac Goldsmith in Richmond Park –  yet he's still in Boris Johnson's Eton cabinet https://t.co/5xim65B7RW,,we kicked out zac goldsmith in richmond park –  yet hes still in boris johnsons eton cabinet ,True,False
+417,1.210564054781182e+18,2019-12-27 14:12:16+00:00,['1210564054781181952'],Saudi crown prince defends China's right to put Uighur Muslims in concentration camps https://t.co/C17YkXs5sf,,saudi crown prince defends chinas right to put uighur muslims in concentration camps ,True,False
 423,1.210307793363886e+18,2019-12-26 21:13:59+00:00,['1210307793363886085'],"@ToryFibs J Phillips 4
 D Lammy 0
 K Starmer 8
 RL Bailey 5
 D Jarvis 7
 E Thornberry 4
-C Lewis 4",
-424,1.2103062340139336e+18,2019-12-26 21:07:47+00:00,['1210306234013933582'],RT @MarkRuffalo: Merry Christmas and Happy Holidays to all! Thinking about these words from @JohnFugelsang tonight. https://t.co/0T51McreL7,
-425,1.210299598788551e+18,2019-12-26 20:41:25+00:00,['1210299598788550656'],https://t.co/rzB1pPXTUx,
-426,1.2102109674534216e+18,2019-12-26 14:49:13+00:00,['1210210967453421574'],https://t.co/ulrdEjpwu2,
-427,1.2099991342304952e+18,2019-12-26 00:47:28+00:00,['1209999134230495233'],"'This is mass rape': China slammed over programme that 'appoints' men to sleep with Uighur women, via @nzherald https://t.co/lipz3yPXVF",
-428,1.209995135414608e+18,2019-12-26 00:31:35+00:00,['1209995135414607872'],https://t.co/3rF7DX3Rav,
-429,1.209811459083002e+18,2019-12-25 12:21:43+00:00,['1209811459083001856'],Johnson visit to Russia Lebedev party after victory odd move for 'people's PM' https://t.co/0QIJFSk6rF,
-430,1.209809578109612e+18,2019-12-25 12:14:15+00:00,['1209809578109612032'],"Muslim Labour activist, 16, sent picture of himself burning on cross https://t.co/kDWMmwhuIo",
-431,1.2084745782274744e+18,2019-12-21 19:49:26+00:00,['1208474578227474432'],"RT @madeleinekearns: Sex is binary. Females produce eggs and bear offspring, while males produce sperm and impregnate females. The existenc…",
-432,1.2073432377253478e+18,2019-12-18 16:53:53+00:00,['1207343237725347840'],"In China, they’re closing churches, jailing pastors – and even rewriting scripture https://t.co/syXtEoz326",
-433,1.2063389846343967e+18,2019-12-15 22:23:21+00:00,['1206338984634396673'],"RT @OneTenTwelve: This video should be played to everyone who thinks #Corbyn was to blame, @OborneTweets hits the nail firmly on the head d…",
-434,1.2063380724949524e+18,2019-12-15 22:19:43+00:00,['1206338072494952448'],"RT @RidgeOnSunday: .@CarolineFlintMP has pointed the finger at Labour's 'ardent Remainers' Keir Starmer, Emily Thornberry, Hilary Benn and…",
-435,1.2063374567711416e+18,2019-12-15 22:17:17+00:00,['1206337456771141637'],"RT @johnpilger: Before the election, publicity for the ITV broadcast of my film, The Dirty War on the NHS, was subject to an embargo at the…",
-436,1.2063297862824468e+18,2019-12-15 21:46:48+00:00,['1206329786282446853'],https://t.co/rMkw0R7mhY,
-437,1.206272414797181e+18,2019-12-15 17:58:49+00:00,['1206272414797180928'],RT @NeilHarding: I got it wrong. I thought Corbyn could win. I still think his policies were great. And I still think we could have won if…,
-438,1.206236932180775e+18,2019-12-15 15:37:50+00:00,['1206236932180774912'],Foodbank app run by newly elected Tory MP charges charities to use it https://t.co/rZH6aHsSix,
-439,1.2062349181514998e+18,2019-12-15 15:29:49+00:00,['1206234918151499776'],RT @MesutOzil1088: #HayırlıCumalarDoğuTürkistan 🙏🏼 https://t.co/dJgeK4KSIk,
-440,1.206234555935531e+18,2019-12-15 15:28:23+00:00,['1206234555935531008'],"RT @cjwerleman: The number of human beings being held and abused in China's Muslim concentration camps.
-
-via DOAM. https://t.co/lSyUQRZLqZ","{'copyright': False, 'country_codes': ['IN']}"
-441,1.2062345101841244e+18,2019-12-15 15:28:12+00:00,['1206234510184124417'],"RT @cjwerleman: Please enjoy this footage of the Butcher of Gujarat tripping face forward into the cement.
-
-via DOAM. https://t.co/xWjiCKe1…","{'copyright': False, 'country_codes': ['IN']}"
-442,1.205850325862822e+18,2019-12-14 14:01:35+00:00,['1205850325862821889'],#JeremyCorbyn https://t.co/J5eaKFjQue,
-443,1.205809369306284e+18,2019-12-14 11:18:51+00:00,['1205809369306284033'],"RT @BobSmithWalker: Bit of perspective for Blairites/Centrists to chew on:
-10,231,098 voted for Corbyn's Labour 2019
-12,878,460 voted for C…",
-444,1.205809309176742e+18,2019-12-14 11:18:36+00:00,['1205809309176741891'],"RT @JillGore8: As soon as Corbyn steps down from Labour, the antisemitism accusations will disappeare - as if by magic. Wait &amp; see.",
-445,1.2058089403716526e+18,2019-12-14 11:17:08+00:00,['1205808940371652608'],"RT @daisychain241: Just had a teacher laughing about Corbyn’s loss.  If she’s a teacher, I earn more than her and I’ve been fighting her co…",
-446,1.2058085270313288e+18,2019-12-14 11:15:30+00:00,['1205808527031328768'],"RT @ijr1970: Managed to offend someone in pub who called @jeremycorbyn a fascist. As they left, landlady told me I'm abusive and they'd rat…",
+C Lewis 4",," j phillips 4
+d lammy 0
+k starmer 8
+rl bailey 5
+d jarvis 7
+e thornberry 4
+c lewis 4",True,False
+425,1.210299598788551e+18,2019-12-26 20:41:25+00:00,['1210299598788550656'],https://t.co/rzB1pPXTUx,,,True,False
+426,1.2102109674534216e+18,2019-12-26 14:49:13+00:00,['1210210967453421574'],https://t.co/ulrdEjpwu2,,,True,False
+427,1.2099991342304952e+18,2019-12-26 00:47:28+00:00,['1209999134230495233'],"'This is mass rape': China slammed over programme that 'appoints' men to sleep with Uighur women, via @nzherald https://t.co/lipz3yPXVF",,this is mass rape china slammed over programme that appoints men to sleep with uighur women via  ,True,False
+428,1.209995135414608e+18,2019-12-26 00:31:35+00:00,['1209995135414607872'],https://t.co/3rF7DX3Rav,,,True,False
+429,1.209811459083002e+18,2019-12-25 12:21:43+00:00,['1209811459083001856'],Johnson visit to Russia Lebedev party after victory odd move for 'people's PM' https://t.co/0QIJFSk6rF,,johnson visit to russia lebedev party after victory odd move for peoples pm ,True,False
+430,1.209809578109612e+18,2019-12-25 12:14:15+00:00,['1209809578109612032'],"Muslim Labour activist, 16, sent picture of himself burning on cross https://t.co/kDWMmwhuIo",,muslim labour activist 16 sent picture of himself burning on cross ,True,False
+432,1.2073432377253478e+18,2019-12-18 16:53:53+00:00,['1207343237725347840'],"In China, they’re closing churches, jailing pastors – and even rewriting scripture https://t.co/syXtEoz326",,in china they’re closing churches jailing pastors – and even rewriting scripture ,True,False
+436,1.2063297862824468e+18,2019-12-15 21:46:48+00:00,['1206329786282446853'],https://t.co/rMkw0R7mhY,,,True,False
+438,1.206236932180775e+18,2019-12-15 15:37:50+00:00,['1206236932180774912'],Foodbank app run by newly elected Tory MP charges charities to use it https://t.co/rZH6aHsSix,,foodbank app run by newly elected tory mp charges charities to use it ,True,False
 447,1.205808264954499e+18,2019-12-14 11:14:27+00:00,['1205808264954499074'],"By the way, Corbyn won more votes than:
 • Miliband in 2015
 • Brown in 2010
 • Kinnock in 87
 • and only 3% less than Blair in 2005. 
-That ""worst result for Labour since 1935"" comes from our bizarre seats system where in 1950 Churchill won with 2nd most votes.",
-448,1.205277483395883e+18,2019-12-13 00:05:19+00:00,['1205277483395883008'],@stellacreasy Stand for leader please,
-449,1.2052764122251756e+18,2019-12-13 00:01:04+00:00,['1205276412225175558'],RT @stellacreasy: I joined labour in doldrums of early 1990s in a city where no one else was a socialist. The values which brought me in en…,
-450,1.2052755934090158e+18,2019-12-12 23:57:49+00:00,['1205275593409015808'],"Labour lost their heartlands due to their London-centric, Pro-Remain disastrous Brexit policy.",
-451,1.2052494672696852e+18,2019-12-12 22:14:00+00:00,['1205249467269685249'],"RT @JolyonMaugham: Blaming Corbyn's backers, sneering at the optimism of his supporters, the crowing ""I told you so""s: these won't help bui…",
-452,1.2052485529911542e+18,2019-12-12 22:10:22+00:00,['1205248552991154182'],"RT @SocialistVoice: If tonight’s exit poll is correct, we can thank the hardcore Remain Campaign for Labour’s annihilation
-
-It argued Labou…",
-453,1.205241224409604e+18,2019-12-12 21:41:14+00:00,['1205241224409604096'],"RT @richardhine: Argali sheep are a national treasure in Mongolia.
-
-They are rare and endangered.
-
-Under cover of darkness, @DonaldJTrumpJr…",
-454,1.20523791420194e+18,2019-12-12 21:28:05+00:00,['1205237914201939968'],RT @alis79: I’m one of the ‘lucky’(?) ones who lives in #UxbridgeAndSouthRuislip - and can vote directly against Johnson. Managed to get ou…,
-455,1.2052377880750694e+18,2019-12-12 21:27:35+00:00,['1205237788075069440'],@MomentumCV No source. No believe.,
-456,1.2052344221377208e+18,2019-12-12 21:14:13+00:00,['1205234422137720833'],"RT @NHSMillion: Health secretary Matt Hancock received £32,000 in donations from the chair of a think tank that wants the NHS abolished.
-
-T…",
-457,1.2052342045539492e+18,2019-12-12 21:13:21+00:00,['1205234204553949186'],"RT @chelleryn99: Urgent! 
-
-Hearing Crewe and Nantwich is far too close for comfort. Could end up with only a few votes making a decision. P…",
-458,1.205233865213776e+18,2019-12-12 21:12:00+00:00,['1205233865213775880'],"RT @DaveWardGS: If you are sat at home thinking it’s too much hassle to go and vote in the rain remember there are 300,000 people sleeping…",
-459,1.2052330683757158e+18,2019-12-12 21:08:50+00:00,['1205233068375715857'],"RT @FreddieBailey96: People who do not get a vote this GE:
-
-•135,000 homeless children
-•4,300 homeless who died this last 6 years
-•4m Child…",
-460,1.20523216787123e+18,2019-12-12 21:05:15+00:00,['1205232167871229964'],"RT @alidogan_uk: Public Announcement.
-Hearing that Crewe and Nantwich is soo close. Could end up with only a few votes making a decision. P…",
-461,1.2052317929549783e+18,2019-12-12 21:03:46+00:00,['1205231792954978321'],"RT @imajsaclaimant: ""We can't survive another five years..."" @EllenClifford1 from @Dis_PPL_Protest talks about the impact of Tory policies…",
-462,1.2052224010401587e+18,2019-12-12 20:26:27+00:00,['1205222401040158721'],"RT @johnmcdonnellMP: As a Liverpool supporter I don't retweet Gary Neville often. But, solidarity.
-
-#VoteLabourToday https://t.co/YOR8WlyZzI",
-463,1.2052218349936763e+18,2019-12-12 20:24:12+00:00,['1205221834993676288'],"RT @sarfrazmanzoor: My worry/prediction, based on decades of disappointment, is that things are not as close we hope. The young won't have…",
-464,1.2052108029633044e+18,2019-12-12 19:40:21+00:00,['1205210802963304450'],https://t.co/RGipE7jEMQ,
-465,1.2052107717198848e+18,2019-12-12 19:40:14+00:00,['1205210771719884800'],RT @MirrorAlison: In 1945 the ⁦@DailyMirror⁩ asked readers to vote for their children and our future. Tomorrow we do it again.. https://t.c…,
-466,1.205210140540113e+18,2019-12-12 19:37:43+00:00,['1205210140540112896'],RT @exhausterco: When I see #youthquake and #UxbridgeAndSouthRuislip trending... https://t.co/A3mz8nrHZR,
+That ""worst result for Labour since 1935"" comes from our bizarre seats system where in 1950 Churchill won with 2nd most votes.",,"by the way corbyn won more votes than
+• miliband in 2015
+• brown in 2010
+• kinnock in 87
+• and only 3 less than blair in 2005 
+that worst result for labour since 1935 comes from our bizarre seats system where in 1950 churchill won with 2nd most votes",True,False
+448,1.205277483395883e+18,2019-12-13 00:05:19+00:00,['1205277483395883008'],@stellacreasy Stand for leader please,, stand for leader please,True,False
+450,1.2052755934090158e+18,2019-12-12 23:57:49+00:00,['1205275593409015808'],"Labour lost their heartlands due to their London-centric, Pro-Remain disastrous Brexit policy.",,labour lost their heartlands due to their londoncentric proremain disastrous brexit policy,True,False
+455,1.2052377880750694e+18,2019-12-12 21:27:35+00:00,['1205237788075069440'],@MomentumCV No source. No believe.,, no source no believe,True,False
+464,1.2052108029633044e+18,2019-12-12 19:40:21+00:00,['1205210802963304450'],https://t.co/RGipE7jEMQ,,,True,False
 467,1.2052065862114058e+18,2019-12-12 19:23:36+00:00,['1205206586211405825'],"I voted Labour to save our NHS. #VoteLabour  
-https://t.co/Ir3UF6pwIx https://t.co/ijJSxOmMGH",
-468,1.204895272087806e+18,2019-12-11 22:46:33+00:00,['1204895272087805953'],RT @ladbible: Go and vote tomorrow - your vote is important. https://t.co/6mE9nqZOwf,
-469,1.2048949001578578e+18,2019-12-11 22:45:04+00:00,['1204894900157857792'],"RT @KevKeith: Cable knows what's at stake this election
-
-That it will take collective effort to block @Conservatives
-
-He understands why @D…",
-470,1.2048948494654917e+18,2019-12-11 22:44:52+00:00,['1204894849465491456'],"RT @peterkyle: Vince Cable endorsing @VotePhilWilson for Sedgefield is generous and smart, putting jobs and the economy ahead of party.
-
-Ph…",
-471,1.2048936028890317e+18,2019-12-11 22:39:55+00:00,['1204893602889031681'],RT @PeacePleb: Lib Dem candidate endorses Labour rival in his own seat out of 'human dignity and concern for our country' Brendan Devlin ur…,
-472,1.2048935142717727e+18,2019-12-11 22:39:34+00:00,['1204893514271772672'],"RT @jeremycorbyn: It's time for:
-
-🌹Proper social care for our elderly
-🌹Free education and childcare
-🌹Justice for the 1950s women
-🌹A well-fu…",
-473,1.2048934569397862e+18,2019-12-11 22:39:20+00:00,['1204893456939786249'],"RT @Padster86: This is our prime minister ladies and gentleman. Hiding in a fridge, his aides swearing at reporters. How can this man remai…",
-474,1.2048932781953352e+18,2019-12-11 22:38:38+00:00,['1204893278195335174'],"RT @mikegalsworthy: I am Labour ✊ 🌹
-
-I am from WIMBLEDON.
-
-And in Wimbledon we must vote LIB DEM.
-
-I will be voting LIB DEM.
-
-Tactical voti…",
-475,1.204892808240345e+18,2019-12-11 22:36:45+00:00,['1204892808240345088'],"RT @Article2TEU: @mikegalsworthy @PaulKohlerSW19 I am Lib Dem.
-
-I am from CROYDON CENTRAL.
-
-I will be voting LABOUR.
-
-Tactical voting sites…",
-476,1.204892607203156e+18,2019-12-11 22:35:58+00:00,['1204892607203155975'],RT @thetwerkinggirl: Here’s a video @jeremycorbyn made with me to help Dominica. His PR team wouldn’t let me use it and told him not to mak…,
-477,1.2048888676624507e+18,2019-12-11 22:21:06+00:00,['1204888867662450688'],Tomorrow's General Election is about the future of education. See what the party manifestos mean for education. #ValueEducation #VoteEducation #GE2019 https://t.co/VtqvwMicUW,
-478,1.2048884983162348e+18,2019-12-11 22:19:38+00:00,['1204888498316234760'],Investigation finds 88% of Tory ads misleading compared to 0% for Labour https://t.co/tUZd4RjLSQ,
-479,1.204820648918487e+18,2019-12-11 17:50:01+00:00,['1204820648918487040'],Boris Johnson 'hides in a fridge' to avoid Piers Morgan interview https://t.co/R1rNsTqsQy,
-480,1.204812589689127e+18,2019-12-11 17:18:00+00:00,['1204812589689126914'],RT @BrendanDevlin50: Polling shows that Stockton South is a Lab/Cons battle. I cannot and do not endorse either Party or their leadership.…,
-481,1.2048125066713047e+18,2019-12-11 17:17:40+00:00,['1204812506671304706'],RT @BrendanDevlin50: To be crystal clear: vote tactically for someone who cares about the NHS and social care. Those are important in Stock…,
-482,1.2045304063448105e+18,2019-12-10 22:36:42+00:00,['1204530406344810499'],"RT @jonnycoatesy: I'm a doctor in the 6th richest country in the world. 
-
-Today I had to prescribe FOOD to a patient in a desperate situati…",
-483,1.204530134956548e+18,2019-12-10 22:35:37+00:00,['1204530134956548099'],"RT @jeremycorbyn: ""We try not to eat a lot in one day, even though most of us are really hungry.""
-
-This sentence should never be uttered by…",
-484,1.204510821419823e+18,2019-12-10 21:18:53+00:00,['1204510821419823105'],"RT @davidschneider: Faiza is so close to beating Iain Duncan Smith in Chingford &amp; Woodford Green. If you’re a LibDem voter there, please le…",
-485,1.2045107124475494e+18,2019-12-10 21:18:27+00:00,['1204510712447549445'],"RT @virgosam70: In case you've not seen it...
-
-The Sun is not a working-class newspaper but an anti-working-class, trade union bashing, sco…",
-486,1.2045102578227528e+18,2019-12-10 21:16:38+00:00,['1204510257822752769'],"RT @jbrittaingeorge: And if you REALLY don’t want to vote Labour please at least consider a vote swap, or voting tactically. If the #tories…",
-487,1.2045099439126364e+18,2019-12-10 21:15:23+00:00,['1204509943912636416'],"RT @bassmadman: I’m a teacher handing out DIY leaflets against the Tories. And it’s working
-
-https://t.co/HDrca9Ds6A",
-488,1.2045096252042568e+18,2019-12-10 21:14:08+00:00,['1204509625204256769'],"RT @DoubleDownNews: ""The media caricature of Jeremy Corbyn is mythology. It's there to fool you into voting against your own interests""
-
--…",
-489,1.2045095402402324e+18,2019-12-10 21:13:47+00:00,['1204509540240232450'],RT @MayaGoodfellow: Liverpool fans singing “Oh Jeremy Corbyn” in Salzburg  https://t.co/e80fSROhtD,
-490,1.2045089396368712e+18,2019-12-10 21:11:24+00:00,['1204508939636871169'],"This is madness. Use your vote wisely, and do what is necessary to stop the Tories. #tacticalNOTtribal #TacticalVoting https://t.co/zXTtYzhPdH",
-491,1.204508311065903e+18,2019-12-10 21:08:54+00:00,['1204508311065903113'],"Time to finally get rid of the Tories. Nine years have been long enough, we can't cope with another five more years of this. Don't #VoteConservative2019. Vote anyone but Tory. https://t.co/AhiM86FTxE",
+https://t.co/Ir3UF6pwIx https://t.co/ijJSxOmMGH",,"i voted labour to save our nhs   
+ ",True,False
+477,1.2048888676624507e+18,2019-12-11 22:21:06+00:00,['1204888867662450688'],Tomorrow's General Election is about the future of education. See what the party manifestos mean for education. #ValueEducation #VoteEducation #GE2019 https://t.co/VtqvwMicUW,,tomorrows general election is about the future of education see what the party manifestos mean for education    ,True,False
+478,1.2048884983162348e+18,2019-12-11 22:19:38+00:00,['1204888498316234760'],Investigation finds 88% of Tory ads misleading compared to 0% for Labour https://t.co/tUZd4RjLSQ,,investigation finds 88 of tory ads misleading compared to 0 for labour ,True,False
+479,1.204820648918487e+18,2019-12-11 17:50:01+00:00,['1204820648918487040'],Boris Johnson 'hides in a fridge' to avoid Piers Morgan interview https://t.co/R1rNsTqsQy,,boris johnson hides in a fridge to avoid piers morgan interview ,True,False
+490,1.2045089396368712e+18,2019-12-10 21:11:24+00:00,['1204508939636871169'],"This is madness. Use your vote wisely, and do what is necessary to stop the Tories. #tacticalNOTtribal #TacticalVoting https://t.co/zXTtYzhPdH",,this is madness use your vote wisely and do what is necessary to stop the tories   ,True,False
+491,1.204508311065903e+18,2019-12-10 21:08:54+00:00,['1204508311065903113'],"Time to finally get rid of the Tories. Nine years have been long enough, we can't cope with another five more years of this. Don't #VoteConservative2019. Vote anyone but Tory. https://t.co/AhiM86FTxE",,time to finally get rid of the tories nine years have been long enough we cant cope with another five more years of this dont  vote anyone but tory ,True,False
 492,1.204507042909753e+18,2019-12-10 21:03:52+00:00,['1204507042909753344'],"Thousands of patients die waiting for beds in hospitals – study 
 #SaveLives #VoteLabourActually #VoteNotTory 
-https://t.co/AhiM86FTxE",
-493,1.204485294390727e+18,2019-12-10 19:37:27+00:00,['1204485294390726656'],https://t.co/b2mQTGCitF,
-494,1.2044757835169546e+18,2019-12-10 18:59:39+00:00,['1204475783516954626'],Why do I have to break an embargo in order to expose press lies about Labour? | George Monbiot https://t.co/br5nN7sMTC,
-495,1.2040860657385062e+18,2019-12-09 17:11:03+00:00,['1204086065738506241'],Find out what a Labour Government will do on the issues you care about the most. Get a manifesto tailored to you because Labour is #OnYourSide. https://t.co/KBFBMrOnwj,
-496,1.2020048190425416e+18,2019-12-03 23:20:55+00:00,['1202004819042541569'],Tories buy fake website bearing Labour MP's name as party intensifies 'dirty tricks' campaign https://t.co/EEZZO3NpGx,
-497,1.200564151678128e+18,2019-11-29 23:56:13+00:00,['1200564151678128128'],Tory's final tweets as she kills herself and accuses party members of sex attack https://t.co/5X3oeFvrYJ via @MetroUK,
-498,1.200561548701393e+18,2019-11-29 23:45:53+00:00,['1200561548701392901'],RT @OborneTweets: This Guardian article appears to be of exceptional importance because it seems to prove there is nothing accidental about…,
-499,1.2005612315239834e+18,2019-11-29 23:44:37+00:00,['1200561231523983361'],RT @OborneTweets: Did the BBC really do this? So shocking if true. https://t.co/NlxMfNE30Z,
-500,1.200556845292802e+18,2019-11-29 23:27:11+00:00,['1200556845292802048'],Revealed: Tory candidates issued with attack manuals on how to smear rivals https://t.co/wAZTo2x9Ux,
-501,1.200447359039234e+18,2019-11-29 16:12:08+00:00,['1200447359039234048'],Economists and academics back Labour spending plans https://t.co/ghLVbQUdsN via @financialtimes,
-502,1.1997767931898675e+18,2019-11-27 19:47:32+00:00,['1199776793189867521'],Just made a donation to Momentum https://t.co/Qsz2Xl8QYP,
-503,1.199774551552467e+18,2019-11-27 19:38:38+00:00,['1199774551552466944'],https://t.co/8SjAX6LWx0,
-504,1.199771899066237e+18,2019-11-27 19:28:06+00:00,['1199771899066236930'],https://t.co/XR9m8u4xKF,
-505,1.1997708338975662e+18,2019-11-27 19:23:52+00:00,['1199770833897566209'],https://t.co/GUoP1EKVIk,
+https://t.co/AhiM86FTxE",,"thousands of patients die waiting for beds in hospitals – study 
+   
+",True,False
+493,1.204485294390727e+18,2019-12-10 19:37:27+00:00,['1204485294390726656'],https://t.co/b2mQTGCitF,,,True,False
+494,1.2044757835169546e+18,2019-12-10 18:59:39+00:00,['1204475783516954626'],Why do I have to break an embargo in order to expose press lies about Labour? | George Monbiot https://t.co/br5nN7sMTC,,why do i have to break an embargo in order to expose press lies about labour  george monbiot ,True,False
+495,1.2040860657385062e+18,2019-12-09 17:11:03+00:00,['1204086065738506241'],Find out what a Labour Government will do on the issues you care about the most. Get a manifesto tailored to you because Labour is #OnYourSide. https://t.co/KBFBMrOnwj,,find out what a labour government will do on the issues you care about the most get a manifesto tailored to you because labour is  ,True,False
+496,1.2020048190425416e+18,2019-12-03 23:20:55+00:00,['1202004819042541569'],Tories buy fake website bearing Labour MP's name as party intensifies 'dirty tricks' campaign https://t.co/EEZZO3NpGx,,tories buy fake website bearing labour mps name as party intensifies dirty tricks campaign ,True,False
+497,1.200564151678128e+18,2019-11-29 23:56:13+00:00,['1200564151678128128'],Tory's final tweets as she kills herself and accuses party members of sex attack https://t.co/5X3oeFvrYJ via @MetroUK,,torys final tweets as she kills herself and accuses party members of sex attack  via ,True,False
+500,1.200556845292802e+18,2019-11-29 23:27:11+00:00,['1200556845292802048'],Revealed: Tory candidates issued with attack manuals on how to smear rivals https://t.co/wAZTo2x9Ux,,revealed tory candidates issued with attack manuals on how to smear rivals ,True,False
+501,1.200447359039234e+18,2019-11-29 16:12:08+00:00,['1200447359039234048'],Economists and academics back Labour spending plans https://t.co/ghLVbQUdsN via @financialtimes,,economists and academics back labour spending plans  via ,True,False
+502,1.1997767931898675e+18,2019-11-27 19:47:32+00:00,['1199776793189867521'],Just made a donation to Momentum https://t.co/Qsz2Xl8QYP,,just made a donation to momentum ,True,False
+503,1.199774551552467e+18,2019-11-27 19:38:38+00:00,['1199774551552466944'],https://t.co/8SjAX6LWx0,,,True,False
+504,1.199771899066237e+18,2019-11-27 19:28:06+00:00,['1199771899066236930'],https://t.co/XR9m8u4xKF,,,True,False
+505,1.1997708338975662e+18,2019-11-27 19:23:52+00:00,['1199770833897566209'],https://t.co/GUoP1EKVIk,,,True,False
 506,1.1997342355124265e+18,2019-11-27 16:58:26+00:00,['1199734235512426496'],"Corbyn reveals secret documents that 'confirm Tory plot to sell off NHS in US trade talks with Trump'.
-This will cost our healthcare a fortune and lower standards. https://t.co/mrHu3sVMvo",
-507,1.199383974247879e+18,2019-11-26 17:46:37+00:00,['1199383974247878658'],China Cables: ‘The largest incarceration of a minority since the Holocaust’ https://t.co/DMNPVoV4Gi,
-508,1.1993831068783493e+18,2019-11-26 17:43:10+00:00,['1199383106878349312'],"Seven senior Tories, including the PM, at risk of losing seat in tactical voting switch #GetTheToriesOut https://t.co/xGylgBY5J7",
-509,1.1990669539540132e+18,2019-11-25 20:46:54+00:00,['1199066953954013184'],https://t.co/wEaTnAvemu,
-510,1.197119105842778e+18,2019-11-20 11:46:50+00:00,['1197119105842778112'],Former Indian general calls for mass rape of women in occupied Kashmir on live television https://t.co/wihFCWiKJT,
-511,1.1920534146052628e+18,2019-11-06 12:17:35+00:00,['1192053414605262851'],"China is harvesting thousands of human organs from its Uighur Muslim minority, UN human-rights body hears https://t.co/E7mD3yGzvI via @businessinsider",
-512,1.1920533155148431e+18,2019-11-06 12:17:12+00:00,['1192053315514843142'],China is reportedly sending men to sleep in the same beds as Uighur Muslim women while their husbands are in prison camps https://t.co/rIC8I6w9Cj via @businessinsider,
+This will cost our healthcare a fortune and lower standards. https://t.co/mrHu3sVMvo",,"corbyn reveals secret documents that confirm tory plot to sell off nhs in us trade talks with trump
+this will cost our healthcare a fortune and lower standards ",True,False
+507,1.199383974247879e+18,2019-11-26 17:46:37+00:00,['1199383974247878658'],China Cables: ‘The largest incarceration of a minority since the Holocaust’ https://t.co/DMNPVoV4Gi,,china cables ‘the largest incarceration of a minority since the holocaust’ ,True,False
+508,1.1993831068783493e+18,2019-11-26 17:43:10+00:00,['1199383106878349312'],"Seven senior Tories, including the PM, at risk of losing seat in tactical voting switch #GetTheToriesOut https://t.co/xGylgBY5J7",,seven senior tories including the pm at risk of losing seat in tactical voting switch  ,True,False
+509,1.1990669539540132e+18,2019-11-25 20:46:54+00:00,['1199066953954013184'],https://t.co/wEaTnAvemu,,,True,False
+510,1.197119105842778e+18,2019-11-20 11:46:50+00:00,['1197119105842778112'],Former Indian general calls for mass rape of women in occupied Kashmir on live television https://t.co/wihFCWiKJT,,former indian general calls for mass rape of women in occupied kashmir on live television ,True,False
+511,1.1920534146052628e+18,2019-11-06 12:17:35+00:00,['1192053414605262851'],"China is harvesting thousands of human organs from its Uighur Muslim minority, UN human-rights body hears https://t.co/E7mD3yGzvI via @businessinsider",,china is harvesting thousands of human organs from its uighur muslim minority un humanrights body hears  via ,True,False
+512,1.1920533155148431e+18,2019-11-06 12:17:12+00:00,['1192053315514843142'],China is reportedly sending men to sleep in the same beds as Uighur Muslim women while their husbands are in prison camps https://t.co/rIC8I6w9Cj via @businessinsider,,china is reportedly sending men to sleep in the same beds as uighur muslim women while their husbands are in prison camps  via ,True,False
 513,1.191098506905297e+18,2019-11-03 21:03:08+00:00,['1191098506905296897'],"Sooo many unreasonable expectations nowadays......
-https://t.co/BbtujrSN1P",
-514,1.190560562486358e+18,2019-11-02 09:25:32+00:00,['1190560562486358016'],RT @SandyMcG66: @bbcquestiontime Audience member ? 😂 #ToryPlant 🌱 https://t.co/ON0MeNwJDM,
-515,1.1808257658621542e+18,2019-10-06 12:42:55+00:00,['1180825765862154240'],Hundreds of authors defend novelist who was stripped of award over Israel boycott https://t.co/nmc7nYJTi0 via @fatimamanji,
-516,1.178510168180568e+18,2019-09-30 03:21:34+00:00,['1178510168180568064'],BBC News - Wakefield woman laughed at in coffee shop for stuttering https://t.co/Cli6VgfCs6,
+https://t.co/BbtujrSN1P",,"sooo many unreasonable expectations nowadays
+",True,False
+515,1.1808257658621542e+18,2019-10-06 12:42:55+00:00,['1180825765862154240'],Hundreds of authors defend novelist who was stripped of award over Israel boycott https://t.co/nmc7nYJTi0 via @fatimamanji,,hundreds of authors defend novelist who was stripped of award over israel boycott  via ,True,False
+516,1.178510168180568e+18,2019-09-30 03:21:34+00:00,['1178510168180568064'],BBC News - Wakefield woman laughed at in coffee shop for stuttering https://t.co/Cli6VgfCs6,,bbc news  wakefield woman laughed at in coffee shop for stuttering ,True,False
 517,1.1765715573443994e+18,2019-09-24 18:58:13+00:00,['1176571557344399363'],"This is ridiculous. Parents should be allowed to judge when teaching about these matters is appropriate:
-Children as young as SIX are to be given self-touching lessons  https://t.co/mMgoToVior via @MailOnline",
-518,1.1758354417502577e+18,2019-09-22 18:13:09+00:00,['1175835441750257665'],"RT @LOTRonPrime: ""If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.” #LOTRonPrime #HobbitDay",
-519,1.1758269710513316e+18,2019-09-22 17:39:30+00:00,['1175826971051331584'],Inside the Kashmir That India Doesn’t Want the World to See | The Dispatch https://t.co/yv78LWVLCp via @YouTube,
-520,1.1757753862334628e+18,2019-09-22 14:14:31+00:00,['1175775386233462784'],"RT @NancyDurrant: And obviously you have to read this too, because it's @Alan_Measles by @RichmoMusic
-https://t.co/ssEcasIBf8",
-521,1.1757743883581932e+18,2019-09-22 14:10:33+00:00,['1175774388358193156'],"RT @nedsimons: Stephen Kinnock tells #Lab19 reception ‘when they go low we go high - as Hilary Clinton famously said’
-
-It was famously Mich…",
-522,1.1691415642176676e+18,2019-09-04 06:54:05+00:00,['1169141564217667586'],"RT @annaturley: The physical embodiment of arrogance, entitlement, disrespect and contempt for our parliament. https://t.co/XdnFQmkfCS",
-523,1.168066170169299e+18,2019-09-01 07:40:51+00:00,['1168066170169298944'],You forgot to also mention the subsidised booze that they get half drunk on. https://t.co/nFeFjbG9aK,
-524,1.1680656831644754e+18,2019-09-01 07:38:55+00:00,['1168065683164475392'],"RT @Apollon101: A Conservative PM called the referendum
-
-A Conservative PM lost the referendum
-
-A Conservative PM botched the negotiations…",
-525,1.1680655970301952e+18,2019-09-01 07:38:34+00:00,['1168065597030195200'],RT @mrjamesob: If you voted for Brexit because you're against 'unelected bureaucrats' &amp; in favour of 'restoring power' to the UK parliament…,
-526,1.168065486162137e+18,2019-09-01 07:38:08+00:00,['1168065486162137088'],RT @rickygervais: I was born the fourth child of an immigrant Labour. My mum was a homemaker &amp; could do anything except give me money. I le…,
-527,1.1674660210888745e+18,2019-08-30 15:56:04+00:00,['1167466021088874496'],RT @DustinGiebel: the image at the end of the video Trump tweeted earlier was popular amongst the fascists of Lion Guard and the white supr…,
-528,1.1673377204626186e+18,2019-08-30 07:26:15+00:00,['1167337720462618624'],Three Muslim boys who insulted Virgin Mary ordered to memorise Quranic verses that honour Jesus https://t.co/FCnsAPQhic,
-529,1.167161847474217e+18,2019-08-29 19:47:23+00:00,['1167161847474216960'],"Inside Kashmir, Cut Off From the World: ‘A Living Hell’ of Anger and Fear https://t.co/lwRHzhJFEA",
-530,1.1662853780195697e+18,2019-08-27 09:44:37+00:00,['1166285378019569664'],"RT @matt_cam: ""I can't go back,"" my client told me as soon as he sat down at the table in ICE detention.
-
-""They will kill me.""
-
-I believed…",
-531,1.166285112054571e+18,2019-08-27 09:43:33+00:00,['1166285112054571009'],"RT @davidschneider: ▪️Fined £150 for missing work for hospital appointment
-▪️Missed 3 more appointments &amp; kept working while ill to avoid m…",
-532,1.1662850045544366e+18,2019-08-27 09:43:08+00:00,['1166285004554436609'],"RT @CraigCons: A Christian messages me, “Muhammad never respected Christians!”
-
-If this is true, why did Prophet Muhammad allow the Christi…",
-533,1.1662849083791483e+18,2019-08-27 09:42:45+00:00,['1166284908379148288'],"Cut benefits? Yes, let’s start with our £85bn corporate welfare handout | Aditya Chakrabortty https://t.co/q5VWuskOBZ",
-534,1.163455384830521e+18,2019-08-19 14:19:14+00:00,['1163455384830521347'],https://t.co/SsZH2CMm2A,
-535,1.1591029388176712e+18,2019-08-07 14:04:10+00:00,['1159102938817671170'],RT @willreyner: #CommunityShield https://t.co/wM9wxo5jdO,
-536,1.1590989749822792e+18,2019-08-07 13:48:25+00:00,['1159098974982279168'],@Peter_Bridgman @NancyDurrant https://t.co/vshvUbRlSy,
-537,1.1587176002617098e+18,2019-08-06 12:32:58+00:00,['1158717600261709824'],"RT @NancyDurrant: Every public library should be given one (at the expense of the council not the publisher, it's not even 70 quid)
-https:/…",
-538,1.1511635080017796e+18,2019-07-16 16:15:42+00:00,['1151163508001779712'],https://t.co/V3tgpFDabi,
-539,1.143615408064336e+18,2019-06-25 20:22:15+00:00,['1143615408064335879'],Rabbi bans girls over five from riding bikes because it's 'provocative' https://t.co/le1MBmkSTY,
-540,1.1348086729814385e+18,2019-06-01 13:07:26+00:00,['1134808672981438466'],RT @TulsiGabbard: The recent arrest of a grandmother at the Dallas Fort Worth airport for possession of CBD oil—a resin from the cannabis p…,
-541,1.1348076741960212e+18,2019-06-01 13:03:27+00:00,['1134807674196021249'],RT @RobertLindsay: With respect to @JohnCleese I kind of understand where he’s coming from with his criticised tweet.Being of a similar age…,
-542,1.134807026633257e+18,2019-06-01 13:00:53+00:00,['1134807026633256960'],"RT @JohnnyVedmore: Criticism of Israel = Antisemitism 
-
-That is a dystopian equation. Anyone who thinks outside of the preset parameters ar…",
-543,1.134806844692734e+18,2019-06-01 13:00:10+00:00,['1134806844692733952'],Potentially our next prime minister 🤦‍♂️ https://t.co/lFGKvMAnDZ,
-544,1.1348062570581444e+18,2019-06-01 12:57:50+00:00,['1134806257058144257'],RT @CraigCons: Prophet Muhammad's masjid (mosque) in Medina was the epitome of humanity. Did you know that he invited the Christians of Naj…,
-545,1.1334437532204852e+18,2019-05-28 18:43:43+00:00,['1133443753220485120'],https://t.co/HVvOFgzZcJ,
-546,1.1302186351197798e+18,2019-05-19 21:08:15+00:00,['1130218635119779845'],"RT @LukeOsmanRS: I've got no issue with signing a player of Lallana's quality. I don't really care that he left, or how he left - the past…",
-547,1.1302179714046936e+18,2019-05-19 21:05:37+00:00,['1130217971404693508'],Saudi crown prince defends China's right to put Uighur Muslims in concentration camps https://t.co/C17YkXs5sf via @telegraphnews,
+Children as young as SIX are to be given self-touching lessons  https://t.co/mMgoToVior via @MailOnline",,"this is ridiculous parents should be allowed to judge when teaching about these matters is appropriate
+children as young as six are to be given selftouching lessons   via ",True,False
+519,1.1758269710513316e+18,2019-09-22 17:39:30+00:00,['1175826971051331584'],Inside the Kashmir That India Doesn’t Want the World to See | The Dispatch https://t.co/yv78LWVLCp via @YouTube,,inside the kashmir that india doesn’t want the world to see  the dispatch  via ,True,False
+523,1.168066170169299e+18,2019-09-01 07:40:51+00:00,['1168066170169298944'],You forgot to also mention the subsidised booze that they get half drunk on. https://t.co/nFeFjbG9aK,,you forgot to also mention the subsidised booze that they get half drunk on ,True,False
+528,1.1673377204626186e+18,2019-08-30 07:26:15+00:00,['1167337720462618624'],Three Muslim boys who insulted Virgin Mary ordered to memorise Quranic verses that honour Jesus https://t.co/FCnsAPQhic,,three muslim boys who insulted virgin mary ordered to memorise quranic verses that honour jesus ,True,False
+529,1.167161847474217e+18,2019-08-29 19:47:23+00:00,['1167161847474216960'],"Inside Kashmir, Cut Off From the World: ‘A Living Hell’ of Anger and Fear https://t.co/lwRHzhJFEA",,inside kashmir cut off from the world ‘a living hell’ of anger and fear ,True,False
+533,1.1662849083791483e+18,2019-08-27 09:42:45+00:00,['1166284908379148288'],"Cut benefits? Yes, let’s start with our £85bn corporate welfare handout | Aditya Chakrabortty https://t.co/q5VWuskOBZ",,cut benefits yes let’s start with our £85bn corporate welfare handout  aditya chakrabortty ,True,False
+534,1.163455384830521e+18,2019-08-19 14:19:14+00:00,['1163455384830521347'],https://t.co/SsZH2CMm2A,,,True,False
+538,1.1511635080017796e+18,2019-07-16 16:15:42+00:00,['1151163508001779712'],https://t.co/V3tgpFDabi,,,True,False
+539,1.143615408064336e+18,2019-06-25 20:22:15+00:00,['1143615408064335879'],Rabbi bans girls over five from riding bikes because it's 'provocative' https://t.co/le1MBmkSTY,,rabbi bans girls over five from riding bikes because its provocative ,True,False
+543,1.134806844692734e+18,2019-06-01 13:00:10+00:00,['1134806844692733952'],Potentially our next prime minister 🤦‍♂️ https://t.co/lFGKvMAnDZ,,potentially our next prime minister  ,True,False
+545,1.1334437532204852e+18,2019-05-28 18:43:43+00:00,['1133443753220485120'],https://t.co/HVvOFgzZcJ,,,True,False
+547,1.1302179714046936e+18,2019-05-19 21:05:37+00:00,['1130217971404693508'],Saudi crown prince defends China's right to put Uighur Muslims in concentration camps https://t.co/C17YkXs5sf via @telegraphnews,,saudi crown prince defends chinas right to put uighur muslims in concentration camps  via ,True,False
 548,1.128380773608956e+18,2019-05-14 19:25:15+00:00,['1128380773608955906'],"Online Harassment Of Jews Is Getting Worse - From Other Jews
-#antisemitism https://t.co/TcDvrzc9ks",
-549,1.1268851182017496e+18,2019-05-10 16:22:03+00:00,['1126885118201749504'],RT @blunted_james: I’ve no idea why the thought of a socialist govt terrifies some people. You will still be able to get your latte on your…,
-550,1.1175809687123764e+18,2019-04-15 00:10:41+00:00,['1117580968712376320'],"RT @DerbyChrisW: I was pleased to join a vigil outside Belmarsh Prison today where the world's most important journalist, #JulianAssange, i…",
-551,1.11758090482056e+18,2019-04-15 00:10:26+00:00,['1117580904820559873'],RT @Lisamboo: Well done @ukhomeoffice my 14 year old has just been denied settled status. He was born here.,
-552,1.1148870606184694e+18,2019-04-07 13:46:03+00:00,['1114887060618469376'],RT @PeoplesMomentum: This is really concerning...👇🏽 https://t.co/TmKHN3JP4F,
-553,1.1148870241363968e+18,2019-04-07 13:45:54+00:00,['1114887024136396800'],"RT @GeorgeAylett: Calling Jeremy Corbyn a ‘terrorist sympathiser’, ‘traitor’ and a ‘Britain hater’ is wrong and dangerous.
-
-There are conse…",
-554,1.1148848642082447e+18,2019-04-07 13:37:19+00:00,['1114884864208244736'],"RT @DerbyChrisW: Be in no doubt, the war on Yemen is not just a Saudi war, it's also a British war. The UK govt is facilitating the atrocit…",
-555,1.1148841421336535e+18,2019-04-07 13:34:27+00:00,['1114884142133653505'],"RT @DerbyChrisW: Some say horse-racing is ""the sport of kings"". But with three more needless equine deaths at this year's Grand National, i…",
-556,1.11385722494908e+18,2019-04-04 17:33:51+00:00,['1113857224949080064'],https://t.co/OIc9YkNsMA,
-557,1.1091638727857848e+18,2019-03-22 18:44:09+00:00,['1109163872785784832'],"RT @mickyv: Am I allowed to be disgusted &amp; outraged by this, or does that make me ""antisemitic"" ? https://t.co/QccYChOCO1",
-558,1.1069661323748106e+18,2019-03-16 17:11:07+00:00,['1106966132374810631'],RT @TahirulQadri: The act of terrorism that took place inside a mosque in #NewZealand is indeed deplorable and highly condemnable. #Terrori…,
-559,1.0929022821050982e+18,2019-02-05 21:46:23+00:00,['1092902282105098241'],Dutch former anti-Muslim politician converts to Islam https://t.co/lN6a6RTMGR,
+#antisemitism https://t.co/TcDvrzc9ks",,"online harassment of jews is getting worse  from other jews
+ ",True,False
+556,1.11385722494908e+18,2019-04-04 17:33:51+00:00,['1113857224949080064'],https://t.co/OIc9YkNsMA,,,True,False
+559,1.0929022821050982e+18,2019-02-05 21:46:23+00:00,['1092902282105098241'],Dutch former anti-Muslim politician converts to Islam https://t.co/lN6a6RTMGR,,dutch former antimuslim politician converts to islam ,True,False
