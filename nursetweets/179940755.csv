@@ -1,3 +1,3 @@
-id,created_at,edit_history_tweet_ids,text,clean_text,non_english
-1.1271363716243046e+18,2019-05-11 09:00:26+00:00,['1127136371624304640'],@bethany_roses Hah PLEB ALERT 🚨,hah pleb alert,False
-1.1238747562337608e+18,2019-05-02 08:59:57+00:00,['1123874756233760769'],@super__han @OfficialPLT_CS Shit man,shit man,False
+id,created_at,edit_history_tweet_ids,text,clean_text
+1.1271363716243046e+18,2019-05-11 09:00:26+00:00,['1127136371624304640'],@bethany_roses Hah PLEB ALERT 🚨,hah pleb alert
+1.1238747562337608e+18,2019-05-02 08:59:57+00:00,['1123874756233760769'],@super__han @OfficialPLT_CS Shit man,shit man

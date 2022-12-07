@@ -3,7 +3,7 @@
 import os
 import pandas as pd
 
-directory = "teachertweets"
+directory = "doctortweets"
 
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)

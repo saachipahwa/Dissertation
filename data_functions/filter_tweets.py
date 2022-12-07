@@ -106,7 +106,7 @@ def delete_whitespace_tweets(df):
     df = df.drop('whitespace', axis=1)
     return df
 
-def text_preprocessing(directory = "nursetweets"):
+def text_preprocessing(directory = "teachertweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -149,7 +149,7 @@ def text_preprocessing(directory = "nursetweets"):
             df['clean_text'].replace('', np.nan, inplace=True)
             df = delete_whitespace_tweets(df)
             print(len(df))
-            df.drop([ 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1,  inplace=True,  errors='ignore')
+            df.drop(['non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1,  inplace=True,  errors='ignore')
             df.to_csv(f, index=False)
 
 #run remove_empty before this
