@@ -1,44 +1,30 @@
-Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,id,created_at,edit_history_tweet_ids,text,withheld,clean_text,non_english
-57,57,57,1.5055107804306063e+18,2022-03-20 11:45:15+00:00,['1505510780430606339'],"@TheAtlantic: @ArnoldSchwarzenegger: A Message for My Russian Friends.
-https://t.co/OuzlLjwp82",,"  a message for my russian friends
-",False
-79,79,79,1.504112026813178e+18,2022-03-16 15:07:06+00:00,['1504112026813177859'],https://t.co/umveCapm4H,,,False
-115,115,115,1.5032412748827238e+18,2022-03-14 05:27:03+00:00,['1503241274882723843'],"Work with @moas_eu to help save life in #UkraineWar - We seek experienced paramedics + doctors to provide point of injury care and damage control resuscitation (DCR). Send your CV/resume and supporting certifications to info@moas.eu. Deployment imminent. 
-https://t.co/ka7UIjzbAR",,"work with  to help save life in   we seek experienced paramedics  doctors to provide point of injury care and damage control resuscitation dcr send your cvresume and supporting certifications to infoeu deployment imminent 
-",False
-175,175,175,1.5023712264755077e+18,2022-03-11 19:49:47+00:00,['1502371226475507714'],@EmergMedDr It's more like 34. And you know many medical staff dead or targeted.,, it's more like  and you know many medical staff dead or targeted,False
-285,285,285,1.4963598222871142e+18,2022-02-23 05:42:37+00:00,['1496359822287114246'],"Escalation of sanctions against Russia, what comes next?
-https://t.co/t2vjh8H3Ib",,"escalation of sanctions against russia what comes next
-",False
-286,286,286,1.496354597874684e+18,2022-02-23 05:21:51+00:00,['1496354597874683911'],"@usosce @OSCE 
+id,created_at,edit_history_tweet_ids,text,withheld,clean_text,non_english
+1.5055107804306063e+18,2022-03-20 11:45:15+00:00,['1505510780430606339'],"@TheAtlantic: @ArnoldSchwarzenegger: A Message for My Russian Friends.
+https://t.co/OuzlLjwp82",,message russian friend,False
+1.504112026813178e+18,2022-03-16 15:07:06+00:00,['1504112026813177859'],https://t.co/umveCapm4H,,,False
+1.5032412748827238e+18,2022-03-14 05:27:03+00:00,['1503241274882723843'],"Work with @moas_eu to help save life in #UkraineWar - We seek experienced paramedics + doctors to provide point of injury care and damage control resuscitation (DCR). Send your CV/resume and supporting certifications to info@moas.eu. Deployment imminent. 
+https://t.co/ka7UIjzbAR",,work help save life seek experienced paramedic doctor provide point injury care damage control resuscitation dcr send cvresume supporting certification infoeu deployment imminent,False
+1.5023712264755077e+18,2022-03-11 19:49:47+00:00,['1502371226475507714'],@EmergMedDr It's more like 34. And you know many medical staff dead or targeted.,,like know many medical staff dead targeted,False
+1.4963598222871142e+18,2022-02-23 05:42:37+00:00,['1496359822287114246'],"Escalation of sanctions against Russia, what comes next?
+https://t.co/t2vjh8H3Ib",,escalation sanction russia come next,False
+1.496354597874684e+18,2022-02-23 05:21:51+00:00,['1496354597874683911'],"@usosce @OSCE 
 
 Donetsk region: 703 ceasefire violations.
 Luhansk region: 1,224 ceasefire violations.
 
-https://t.co/DrRCkfph4b",,"  
-
-donetsk region  ceasefire violations
-luhansk region  ceasefire violations
-
-",False
-331,331,331,1.4960430979475784e+18,2022-02-22 08:44:04+00:00,['1496043097947578373'],https://t.co/7SoV9xtD3M,,,False
-410,410,410,1.4954469459004744e+18,2022-02-20 17:15:10+00:00,['1495446945900474373'],NATO’s approach to Russia is defence and dialogue https://t.co/5YVZxICuLh,,natos approach to russia is defence and dialogue ,False
-419,419,419,1.4953278913111818e+18,2022-02-20 09:22:05+00:00,['1495327891311181830'],"@AtlanticCouncil @NATO_ACT @NATO @USNATO @EUCOM
+https://t.co/DrRCkfph4b",,donetsk region ceasefire violation luhansk region ceasefire violation,False
+1.4960430979475784e+18,2022-02-22 08:44:04+00:00,['1496043097947578373'],https://t.co/7SoV9xtD3M,,,False
+1.4954469459004744e+18,2022-02-20 17:15:10+00:00,['1495446945900474373'],NATO’s approach to Russia is defence and dialogue https://t.co/5YVZxICuLh,,nato approach russia defence dialogue,False
+1.4953278913111818e+18,2022-02-20 09:22:05+00:00,['1495327891311181830'],"@AtlanticCouncil @NATO_ACT @NATO @USNATO @EUCOM
 
 Preparation for war is now response to invasion and #MultiDomainBattle. Morbidity and mortality will increase rapidly. #GHE to @DefenceU point of injury care to Role 3 must be expanded, NOW. 
 
-https://t.co/FRgJipQJ5r",,"    
+https://t.co/FRgJipQJ5r",,preparation war response invasion morbidity mortality increase rapidly point injury care role must expanded,False
+1.494913395522515e+18,2022-02-19 05:55:02+00:00,['1494913395522514946'],"@NATO Secretary General @jensstoltenberg said that NATO Defence Ministers “met to address Russia’s continued military build-up in and around Ukraine,” on the first day of @NATO Defence Ministers’ meetings in #Brussels. https://t.co/QpKNL46Gxq",,secretary general said nato defence minister met address russia continued military buildup around ukraine first day defence minister meeting,False
+1.4949037626408673e+18,2022-02-19 05:16:45+00:00,['1494903762640867333'],"@OSCE_SMM observed increase in kinetic activity along the contact line in the #JFO.
 
-preparation for war is now response to invasion and  morbidity and mortality will increase rapidly  to  point of injury care to role  must be expanded now 
-
-",False
-478,478,478,1.494913395522515e+18,2022-02-19 05:55:02+00:00,['1494913395522514946'],"@NATO Secretary General @jensstoltenberg said that NATO Defence Ministers “met to address Russia’s continued military build-up in and around Ukraine,” on the first day of @NATO Defence Ministers’ meetings in #Brussels. https://t.co/QpKNL46Gxq",, secretary general  said that nato defence ministers met to address russias continued military buildup in and around ukraine on the first day of  defence ministers meetings in  ,False
-481,481,481,1.4949037626408673e+18,2022-02-19 05:16:45+00:00,['1494903762640867333'],"@OSCE_SMM observed increase in kinetic activity along the contact line in the #JFO.
-
-https://t.co/einahwF2F8",," observed increase in kinetic activity along the contact line in the 
-
-",False
-482,482,482,1.4949027071943188e+18,2022-02-19 05:12:34+00:00,['1494902707194318851'],"@OSCE_SMM 
+https://t.co/einahwF2F8",,observed increase kinetic activity along contact line,False
+1.4949027071943188e+18,2022-02-19 05:12:34+00:00,['1494902707194318851'],"@OSCE_SMM 
 
 #Donetsk 222 ceasefire violations
 #Luhansk 648 ceasefire violations
@@ -46,65 +32,38 @@ https://t.co/einahwF2F8",," observed increase in kinetic activity along the cont
 Reports of damage to a kindergarten in government-controlled Stanytsia Luhanska, Luhansk region.
 
 #Kherson + #Kharkiv of interest for 19FEB2022
-https://t.co/ZCghwZHyyV",," 
+https://t.co/ZCghwZHyyV",,ceasefire violation ceasefire violation report damage kindergarten governmentcontrolled stanytsia luhanska luhansk region interest feb,False
+1.4949011680190218e+18,2022-02-19 05:06:27+00:00,['1494901168019021824'],"""Preventing Europe’s next big war.""
 
-  ceasefire violations
-  ceasefire violations
-
-reports of damage to a kindergarten in governmentcontrolled stanytsia luhanska luhansk region
-
-   of interest for feb
-",False
-483,483,483,1.4949011680190218e+18,2022-02-19 05:06:27+00:00,['1494901168019021824'],"""Preventing Europe’s next big war.""
-
-@AtlanticCouncil @JohnEdHerbst offer some great insight on prevention of war w harsh realities. The #RussiaUkraineCrisis  began in 2014. #Ukraine as @NATO partner supports collective defense, deterrence and democracy. https://t.co/kCTgq2kP58",,"preventing europes next big war
-
-  offer some great insight on prevention of war w harsh realities the   began in   as  partner supports collective defense deterrence and democracy ",False
-512,512,512,1.4948906778047035e+18,2022-02-19 04:24:45+00:00,['1494890677804703751'],"#MSC2022
+@AtlanticCouncil @JohnEdHerbst offer some great insight on prevention of war w harsh realities. The #RussiaUkraineCrisis  began in 2014. #Ukraine as @NATO partner supports collective defense, deterrence and democracy. https://t.co/kCTgq2kP58",,preventing europe next big war offer great insight prevention war w harsh reality began partner support collective defense deterrence democracy,False
+1.4948906778047035e+18,2022-02-19 04:24:45+00:00,['1494890677804703751'],"#MSC2022
 
 Global Security Challenges abound. As #russian troops prepare to invade sovereign #Ukraine, how will this @NATO partner and allies respond? 
 
-https://t.co/rqpJ6Dg7tu",,"
-
-global security challenges abound as  troops prepare to invade sovereign  how will this  partner and allies respond 
-
-",False
-513,513,513,1.494889260381573e+18,2022-02-19 04:19:08+00:00,['1494889260381573120'],"US, Britain accuse Russia of cyberattacks targeting Ukraine.
-https://t.co/7BCwzbW7fw",,"us britain accuse russia of cyberattacks targeting ukraine
-",False
-514,514,514,1.4948884455080346e+18,2022-02-19 04:15:53+00:00,['1494888445508034567'],"#Georgia says joining @NATO only way to preserve country's integrity - report. NATO partner nations offer significant support of core values and promotion of democracy, deterrence and collective defense. 
-https://t.co/SnPSVCFDHS",," says joining  only way to preserve country's integrity  report nato partner nations offer significant support of core values and promotion of democracy deterrence and collective defense 
-",False
-526,526,526,1.494811118384124e+18,2022-02-18 23:08:37+00:00,['1494811118384123904'],"Associated Press: Satellite photos give a bird's-eye view of Ukraine crisis.
-https://t.co/AOBDGiNW5s",,"associated press satellite photos give a bird'seye view of ukraine crisis
-",False
-527,527,527,1.494809808683344e+18,2022-02-18 23:03:25+00:00,['1494809808683343878'],"'What Mr. Putin did not want': U.S. approves $6B tank deal with Poland.
-https://t.co/169tEtOrDx",,"'what mr putin did not want' us approves b tank deal with poland
-",False
-572,572,572,1.4944084028014182e+18,2022-02-17 20:28:22+00:00,['1494408402801418243'],https://t.co/qxK7GD3w6c,,,False
-876,876,876,1.4874763444180992e+18,2022-01-29 17:22:51+00:00,['1487476344418099209'],@DShadowgazer This is HILARIOUS,, this is hilarious,False
-937,937,937,1.4856159675730985e+18,2022-01-24 14:10:22+00:00,['1485615967573098496'],"It's Kyiv. Kyiv, Ukraine. 
+https://t.co/rqpJ6Dg7tu",,global security challenge abound troop prepare invade sovereign partner ally respond,False
+1.494889260381573e+18,2022-02-19 04:19:08+00:00,['1494889260381573120'],"US, Britain accuse Russia of cyberattacks targeting Ukraine.
+https://t.co/7BCwzbW7fw",,u britain accuse russia cyberattacks targeting ukraine,False
+1.4948884455080346e+18,2022-02-19 04:15:53+00:00,['1494888445508034567'],"#Georgia says joining @NATO only way to preserve country's integrity - report. NATO partner nations offer significant support of core values and promotion of democracy, deterrence and collective defense. 
+https://t.co/SnPSVCFDHS",,say joining way preserve country's integrity report nato partner nation offer significant support core value promotion democracy deterrence collective defense,False
+1.494811118384124e+18,2022-02-18 23:08:37+00:00,['1494811118384123904'],"Associated Press: Satellite photos give a bird's-eye view of Ukraine crisis.
+https://t.co/AOBDGiNW5s",,associated press satellite photo give bird'seye view ukraine crisis,False
+1.494809808683344e+18,2022-02-18 23:03:25+00:00,['1494809808683343878'],"'What Mr. Putin did not want': U.S. approves $6B tank deal with Poland.
+https://t.co/169tEtOrDx",,'what mr putin want' u approves b tank deal poland,False
+1.4944084028014182e+18,2022-02-17 20:28:22+00:00,['1494408402801418243'],https://t.co/qxK7GD3w6c,,,False
+1.4874763444180992e+18,2022-01-29 17:22:51+00:00,['1487476344418099209'],@DShadowgazer This is HILARIOUS,,hilarious,False
+1.4856159675730985e+18,2022-01-24 14:10:22+00:00,['1485615967573098496'],"It's Kyiv. Kyiv, Ukraine. 
 
 And Kyiv leadership MUST be in the room and their voice heard for all versions related to Kyiv.
 
 Russian activities lead to increased morbidity and mortality of Ukrainians, totally preventable death. 
 
-Act now. Protect Ukraine. Protect Europe",,"it's kyiv kyiv ukraine 
-
-and kyiv leadership must be in the room and their voice heard for all versions related to kyiv
-
-russian activities lead to increased morbidity and mortality of ukrainians totally preventable death 
-
-act now protect ukraine protect europe",False
-1186,1186,1186,1.4755629694340506e+18,2021-12-27 20:23:21+00:00,['1475562969434050569'],"#CollectiveDefense 
+Act now. Protect Ukraine. Protect Europe",,kyiv kyiv ukraine kyiv leadership must room voice heard version related kyiv russian activity lead increased morbidity mortality ukrainian totally preventable death act protect ukraine protect europe,False
+1.4755629694340506e+18,2021-12-27 20:23:21+00:00,['1475562969434050569'],"#CollectiveDefense 
 State sovereignty and the core definition of #deterrence are freedom of decision making and protection of allies. 
 
-#Russia doesn't get a vote at #NATO, Putin doesn't get a vote for NATO partners, NATO members or aspirant states. https://t.co/ZBS8teftAN",," 
-state sovereignty and the core definition of  are freedom of decision making and protection of allies 
-
- doesn't get a vote at  putin doesn't get a vote for nato partners nato members or aspirant states ",False
-1318,1318,1318,1.466342276393808e+18,2021-12-02 09:43:36+00:00,['1466342276393807872'],@JamesMarsh79 #WeAreNATO + YOU are NATO man :-),,   you are nato man ,False
-1747,1747,1747,1.4313477525298094e+18,2021-08-27 20:07:52+00:00,['1431347752529809409'],"Please explain to me why all of my 9 acute #COVID patients today:
+#Russia doesn't get a vote at #NATO, Putin doesn't get a vote for NATO partners, NATO members or aspirant states. https://t.co/ZBS8teftAN",,state sovereignty core definition freedom decision making protection ally get vote putin get vote nato partner nato member aspirant state,False
+1.466342276393808e+18,2021-12-02 09:43:36+00:00,['1466342276393807872'],@JamesMarsh79 #WeAreNATO + YOU are NATO man :-),,nato man,False
+1.4313477525298094e+18,2021-08-27 20:07:52+00:00,['1431347752529809409'],"Please explain to me why all of my 9 acute #COVID patients today:
 
 - were not vaccinated
 - had marked type II respiratory failure
@@ -113,28 +72,15 @@ state sovereignty and the core definition of  are freedom of decision making and
 
 PLEASE
 
-@TangiersCovid19 @ACEPDisaster @emcrit @BMJ_EBM @PAHOemergencies @NHSEnglandLDN",,"please explain to me why all of my  acute  patients today
+@TangiersCovid19 @ACEPDisaster @emcrit @BMJ_EBM @PAHOemergencies @NHSEnglandLDN",,please explain acute patient today vaccinated marked type ii respiratory failure either required highflow cpap please,False
+1.412444310784594e+18,2021-07-06 16:12:20+00:00,['1412444310784593937'],@thisisadamdell Green? Blue? He is purple/pink right?,,green blue purplepink right,False
+1.4088388253176463e+18,2021-06-26 17:25:25+00:00,['1408838825317646337'],"#HealthSecurity absolute amazing opportunity at #CMSCE21 @KaiptcGh  @KaiptcWpsi to engage with best practices, learn and support international doctrine of #M2M #C2M in #Disaster, #War and #Conflict. @ghanaredcross @theCGHE @USEmbassyGhana @UN_Command https://t.co/JYWnUzHsOZ",,absolute amazing opportunity engage best practice learn support international doctrine,False
+1.390500529000833e+18,2021-05-07 02:55:35+00:00,['1390500529000833026'],"@PeterHotez Be strong, stay tough, we all support you and your hard work in following evidence based science, clinical medicine and policy. Be safe and sending prayers. We are with you!",,strong stay tough support hard work following evidence based science clinical medicine policy safe sending prayer,False
+1.3893080103848264e+18,2021-05-03 19:56:56+00:00,['1389308010384826369'],"@VOANews: US Secretary of State to Hold Talks in Ukraine About Russian Aggression.
 
- were not vaccinated
- had marked type ii respiratory failure
- a  
- either required highflow o or cpap
+https://t.co/W3hbqBbIES",,u secretary state hold talk ukraine russian aggression,False
+1.38129953487002e+18,2021-04-11 17:34:07+00:00,['1381299534870020096'],"Escalation+violence leads to preventable morbidity+mortality. #Ukraine will be a @NATO state, but not yet.  @DefenceU warfighters' experience in combating Russia holds value, what can we do now to support interoperability?  
 
-please
-
-     ",False
-1989,1989,1989,1.412444310784594e+18,2021-07-06 16:12:20+00:00,['1412444310784593937'],@thisisadamdell Green? Blue? He is purple/pink right?,, green blue he is purplepink right,False
-2115,2115,2115,1.4088388253176463e+18,2021-06-26 17:25:25+00:00,['1408838825317646337'],"#HealthSecurity absolute amazing opportunity at #CMSCE21 @KaiptcGh  @KaiptcWpsi to engage with best practices, learn and support international doctrine of #M2M #C2M in #Disaster, #War and #Conflict. @ghanaredcross @theCGHE @USEmbassyGhana @UN_Command https://t.co/JYWnUzHsOZ",, absolute amazing opportunity at     to engage with best practices learn and support international doctrine of   in   and      ,False
-2455,2455,2455,1.390500529000833e+18,2021-05-07 02:55:35+00:00,['1390500529000833026'],"@PeterHotez Be strong, stay tough, we all support you and your hard work in following evidence based science, clinical medicine and policy. Be safe and sending prayers. We are with you!",, be strong stay tough we all support you and your hard work in following evidence based science clinical medicine and policy be safe and sending prayers we are with you,False
-2516,2516,2516,1.3893080103848264e+18,2021-05-03 19:56:56+00:00,['1389308010384826369'],"@VOANews: US Secretary of State to Hold Talks in Ukraine About Russian Aggression.
-
-https://t.co/W3hbqBbIES",," us secretary of state to hold talks in ukraine about russian aggression
-
-",False
-2741,2741,2741,1.38129953487002e+18,2021-04-11 17:34:07+00:00,['1381299534870020096'],"Escalation+violence leads to preventable morbidity+mortality. #Ukraine will be a @NATO state, but not yet.  @DefenceU warfighters' experience in combating Russia holds value, what can we do now to support interoperability?  
-
-@Hybrid_Defense @hwag_ucmc @NATOinUkraine  @NATOpress https://t.co/k9N2LMb0bY",,"escalationviolence leads to preventable morbiditymortality  will be a  state but not yet   warfighters' experience in combating russia holds value what can we do now to support interoperability  
-
-     ",False
-2749,2749,2749,1.38093345471241e+18,2021-04-10 17:19:26+00:00,['1380933454712410120'],@lawfarepodcast @lawfareblog Excellent review and unpacking of the Ukraine Crisis in Ukraine with Col. Vindman in the weeks podcast - well done all! How can we be in touch with Col. Vindemen about a research paper re Ukraine and NATO membership relating to policy and Global Health Engagement? Thank you.,,  excellent review and unpacking of the ukraine crisis in ukraine with col vindman in the weeks podcast  well done all how can we be in touch with col vindemen about a research paper re ukraine and nato membership relating to policy and global health engagement thank you,False
-2883,2883,2883,1.377727209004208e+18,2021-04-01 20:58:58+00:00,['1377727209004208138'],"@KayleeStory7 Guys, guys .... ""Gestalt."" Please. There is no equal.",, guys guys  gestalt please there is no equal,False
+@Hybrid_Defense @hwag_ucmc @NATOinUkraine  @NATOpress https://t.co/k9N2LMb0bY",,escalationviolence lead preventable morbiditymortality state yet warfighters' experience combating russia hold value support interoperability,False
+1.38093345471241e+18,2021-04-10 17:19:26+00:00,['1380933454712410120'],@lawfarepodcast @lawfareblog Excellent review and unpacking of the Ukraine Crisis in Ukraine with Col. Vindman in the weeks podcast - well done all! How can we be in touch with Col. Vindemen about a research paper re Ukraine and NATO membership relating to policy and Global Health Engagement? Thank you.,,excellent review unpacking ukraine crisis ukraine col vindman week podcast well done touch col vindemen research paper ukraine nato membership relating policy global health engagement thank,False
+1.377727209004208e+18,2021-04-01 20:58:58+00:00,['1377727209004208138'],"@KayleeStory7 Guys, guys .... ""Gestalt."" Please. There is no equal.",,guy guy gestalt please equal,False

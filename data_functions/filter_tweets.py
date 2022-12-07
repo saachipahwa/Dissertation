@@ -67,8 +67,9 @@ def remove_nonalphabet(text):
 # Removing Stop words
 stopwords = nltk.corpus.stopwords.words('english')
 def remove_stopwords(text):
-    output= [i for i in text if i not in stopwords]
-    return output
+    wordslist = text.split()
+    output= [i for i in wordslist if i not in stopwords]
+    return ' '.join(output)
 
 # Stemming
 # porter_stemmer = PorterStemmer()
@@ -79,9 +80,9 @@ def remove_stopwords(text):
 # Lemmatization
 wordnet_lemmatizer = WordNetLemmatizer()
 def lemmatizer(text):
-    tokens = str(text).split()
+    tokens = text.split()
     lemm_text = [wordnet_lemmatizer.lemmatize(word) for word in tokens]
-    return ' '.join(lemm_text)
+    return(' '.join(lemm_text))
 
 #Remove words not in english
 words = set(nltk.corpus.words.words())
@@ -105,7 +106,7 @@ def delete_whitespace_tweets(df):
     df = df.drop('whitespace', axis=1)
     return df
 
-def text_preprocessing(directory = "doctortweets"):
+def text_preprocessing(directory = "nursetweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -131,41 +132,30 @@ def text_preprocessing(directory = "doctortweets"):
             #remove non alphabet chars
             df['clean_text'] = df['clean_text'].apply(lambda x:remove_nonalphabet(x))
 
-            #remove non english
+            #remove non english tweets
             df['non_english'] = nonenglish(df['text'])
             df = df[df['non_english'].str.contains('False') == True]
 
             #lower case
             df['clean_text'] = df['clean_text'].apply(lambda x: x.lower())
 
+            #lemmatizing
+            df['clean_text'] = df['clean_text'].apply(lambda x:lemmatizer(str(x)))
+
+            # #remove stopwords
+            df['clean_text'] = df['clean_text'].apply(lambda x:remove_stopwords(str(x)))
+
             #remove now empty tweets
             df['clean_text'].replace('', np.nan, inplace=True)
             df = delete_whitespace_tweets(df)
             print(len(df))
-            df.drop(['Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1,  errors='ignore')
-
+            df.drop([ 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1,  inplace=True,  errors='ignore')
             df.to_csv(f, index=False)
 
 #run remove_empty before this
-# text_preprocessing()
+text_preprocessing()
 #run remove_empty after this
 
-def text_preprocessing_2(directory = "teachertweets"):
-    for filename in os.listdir(directory):
-        f = os.path.join(directory, filename)
-        # checking if it is a file
-        if os.path.isfile(f):
-            print(f)
-            df = pd.read_csv(f)
-            #lemmatizing
-            df['clean_text_2'] = df['clean_text'].apply(lambda x:lemmatizer(x))
-
-            # #remove stopwords
-            df['clean_text_2'] = df['clean_text'].apply(lambda x:remove_stopwords(x))
-
-            df.to_csv(f, index=False)
-
-text_preprocessing()
 
 def remove_empty_tweets(directory = "doctortweets"):
     for filename in os.listdir(directory):

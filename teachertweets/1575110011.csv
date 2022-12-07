@@ -1,129 +1,112 @@
-Unnamed: 0,id,created_at,edit_history_tweet_ids,text,clean_text,non_english
-47,1.5645201361487462e+18,2022-08-30 07:47:22+00:00,['1564520136148746240'],@sunnyandme Love them. It's the language and the empathy that does it for me., love them it's the language and the empathy that does it for me,False
-62,1.5641715618752143e+18,2022-08-29 08:42:15+00:00,['1564171561875214340'],@KevinWa35381605 Soon. Brilliant photo btw., soon brilliant photo btw,False
-67,1.56416997017464e+18,2022-08-29 08:35:56+00:00,['1564169970174640128'],@CarlaHankinson2 Wow! And breathe. You'll be fabulous and they're lucky to get you. Enjoy., wow and breathe you'll be fabulous and they're lucky to get you enjoy,False
-73,1.5641687187914465e+18,2022-08-29 08:30:58+00:00,['1564168718791446528'],@shrimpzoo Don't use @amazon, don't use ,False
-81,1.5641668139189248e+18,2022-08-29 08:23:23+00:00,['1564166813918924800'],Blimey! https://t.co/2cyJSIU3ie,blimey ,False
-88,1.5641626209612923e+18,2022-08-29 08:06:44+00:00,['1564162620961292290'],@secretHT1 And 'Have you got a minute?', and 'have you got a minute',False
-89,1.5641612556440453e+18,2022-08-29 08:01:18+00:00,['1564161255644045312'],@MichaelRosenYes Just beautiful. Thank you both., just beautiful thank you both,False
-106,1.5638895822776402e+18,2022-08-28 14:01:46+00:00,['1563889582277640193'],@LesaPamplin Horrible. I hope she has the support she needs and that the team coaches are suitably ashamed., horrible i hope she has the support she needs and that the team coaches are suitably ashamed,False
-146,1.563438276152742e+18,2022-08-27 08:08:26+00:00,['1563438276152741889'],@HopeShiloh2 Sorry this is being done to you. Hope you have the support you need. Sending love., sorry this is being done to you hope you have the support you need sending love,False
-149,1.5634376714938245e+18,2022-08-27 08:06:02+00:00,['1563437671493824514'],@ruth_wishart Exactly! Thanks for saying it. I'm too caught up being apoplectic to tweet coherently., exactly thanks for saying it i'm too caught up being apoplectic to tweet coherently,False
-179,1.563247071024464e+18,2022-08-26 19:28:40+00:00,['1563247071024463875'],@MartinSLewis Rest and recover. Thank you., rest and recover thank you,False
-204,1.563060119973204e+18,2022-08-26 07:05:47+00:00,['1563060119973203968'],"According to the Times, ""Finland's PM must see serious times need serious behaviour"" Obviously an irony by-pass #Partygate",according to the times finland's pm must see serious times need serious behaviour obviously an irony bypass ,False
-230,1.5626999340798075e+18,2022-08-25 07:14:32+00:00,['1562699934079807489'],@RoachSN @threadreaderapp please do your thing. Thanks.,  please do your thing thanks,False
-232,1.562695235913671e+18,2022-08-25 06:55:52+00:00,['1562695235913670656'],Completely missed this at the time. https://t.co/8m7hfRwYBd,completely missed this at the time ,False
-233,1.562678950366937e+18,2022-08-25 05:51:09+00:00,['1562678950366937088'],"Wtaf?
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english
+1.5645201361487462e+18,2022-08-30 07:47:22+00:00,['1564520136148746240'],@sunnyandme Love them. It's the language and the empathy that does it for me.,love language empathy doe,False
+1.5641715618752143e+18,2022-08-29 08:42:15+00:00,['1564171561875214340'],@KevinWa35381605 Soon. Brilliant photo btw.,soon brilliant photo btw,False
+1.56416997017464e+18,2022-08-29 08:35:56+00:00,['1564169970174640128'],@CarlaHankinson2 Wow! And breathe. You'll be fabulous and they're lucky to get you. Enjoy.,wow breathe fabulous they're lucky get enjoy,False
+1.5641687187914465e+18,2022-08-29 08:30:58+00:00,['1564168718791446528'],@shrimpzoo Don't use @amazon,use,False
+1.5641668139189248e+18,2022-08-29 08:23:23+00:00,['1564166813918924800'],Blimey! https://t.co/2cyJSIU3ie,blimey,False
+1.5641626209612923e+18,2022-08-29 08:06:44+00:00,['1564162620961292290'],@secretHT1 And 'Have you got a minute?','have got minute',False
+1.5641612556440453e+18,2022-08-29 08:01:18+00:00,['1564161255644045312'],@MichaelRosenYes Just beautiful. Thank you both.,beautiful thank,False
+1.5638895822776402e+18,2022-08-28 14:01:46+00:00,['1563889582277640193'],@LesaPamplin Horrible. I hope she has the support she needs and that the team coaches are suitably ashamed.,horrible hope ha support need team coach suitably ashamed,False
+1.563438276152742e+18,2022-08-27 08:08:26+00:00,['1563438276152741889'],@HopeShiloh2 Sorry this is being done to you. Hope you have the support you need. Sending love.,sorry done hope support need sending love,False
+1.5634376714938245e+18,2022-08-27 08:06:02+00:00,['1563437671493824514'],@ruth_wishart Exactly! Thanks for saying it. I'm too caught up being apoplectic to tweet coherently.,exactly thanks saying i'm caught apoplectic tweet coherently,False
+1.563247071024464e+18,2022-08-26 19:28:40+00:00,['1563247071024463875'],@MartinSLewis Rest and recover. Thank you.,rest recover thank,False
+1.563060119973204e+18,2022-08-26 07:05:47+00:00,['1563060119973203968'],"According to the Times, ""Finland's PM must see serious times need serious behaviour"" Obviously an irony by-pass #Partygate",according time finland's pm must see serious time need serious behaviour obviously irony bypass,False
+1.5626999340798075e+18,2022-08-25 07:14:32+00:00,['1562699934079807489'],@RoachSN @threadreaderapp please do your thing. Thanks.,please thing thanks,False
+1.562695235913671e+18,2022-08-25 06:55:52+00:00,['1562695235913670656'],Completely missed this at the time. https://t.co/8m7hfRwYBd,completely missed time,False
+1.562678950366937e+18,2022-08-25 05:51:09+00:00,['1562678950366937088'],"Wtaf?
 
 Routine Covid tests in English hospitals to be scrapped next week
 
-https://t.co/Y3CDRgs8yn","wtaf
+https://t.co/Y3CDRgs8yn",wtaf routine covid test english hospital scrapped next week,False
+1.5624787950297457e+18,2022-08-24 16:35:48+00:00,['1562478795029745665'],"@mickeyB121 @BrokenTwitty Dreadful! Hope he, and you, are ok.",dreadful hope ok,False
+1.562477895356154e+18,2022-08-24 16:32:14+00:00,['1562477895356153857'],@Joannechocolat Congratulations x,congratulation x,False
+1.562477764099199e+18,2022-08-24 16:31:43+00:00,['1562477764099198976'],@Petrooka_ Sending love.,sending love,False
+1.5623452475895194e+18,2022-08-24 07:45:08+00:00,['1562345247589519360'],@BaytAlFann Thank you for this .,thank,False
+1.562341873716527e+18,2022-08-24 07:31:44+00:00,['1562341873716527104'],@Aafss13 I absolutely agree.,absolutely agree,False
+1.5623412924531098e+18,2022-08-24 07:29:25+00:00,['1562341292453109760'],@lucyburkeMcr Brilliant. Thanks for sharing,brilliant thanks sharing,False
+1.562122053041488e+18,2022-08-23 16:58:14+00:00,['1562122053041487872'],Funny. Not funny. Marina Hyde goes for it. https://t.co/8SRotFlqJ6,funny funny marina hyde go,False
+1.562104771829551e+18,2022-08-23 15:49:34+00:00,['1562104771829551109'],"Excellent news!
 
-routine covid tests in english hospitals to be scrapped next week
-
-",False
-234,1.5624787950297457e+18,2022-08-24 16:35:48+00:00,['1562478795029745665'],"@mickeyB121 @BrokenTwitty Dreadful! Hope he, and you, are ok.",  dreadful hope he and you are ok,False
-236,1.562477895356154e+18,2022-08-24 16:32:14+00:00,['1562477895356153857'],@Joannechocolat Congratulations x, congratulations x,False
-237,1.562477764099199e+18,2022-08-24 16:31:43+00:00,['1562477764099198976'],@Petrooka_ Sending love., sending love,False
-242,1.5623452475895194e+18,2022-08-24 07:45:08+00:00,['1562345247589519360'],@BaytAlFann Thank you for this ., thank you for this ,False
-250,1.562341873716527e+18,2022-08-24 07:31:44+00:00,['1562341873716527104'],@Aafss13 I absolutely agree., i absolutely agree,False
-251,1.5623412924531098e+18,2022-08-24 07:29:25+00:00,['1562341292453109760'],@lucyburkeMcr Brilliant. Thanks for sharing, brilliant thanks for sharing,False
-255,1.562122053041488e+18,2022-08-23 16:58:14+00:00,['1562122053041487872'],Funny. Not funny. Marina Hyde goes for it. https://t.co/8SRotFlqJ6,funny not funny marina hyde goes for it ,False
-256,1.562104771829551e+18,2022-08-23 15:49:34+00:00,['1562104771829551109'],"Excellent news!
-
-https://t.co/7QqyW3h701","excellent news
-
-",False
-280,1.5617227466101105e+18,2022-08-22 14:31:32+00:00,['1561722746610110464'],@MikScarlet Sending love., sending love,False
-287,1.5617213536020111e+18,2022-08-22 14:26:00+00:00,['1561721353602011139'],@organicsi Even when they don't have to., even when they don't have to,False
-291,1.5616341779168338e+18,2022-08-22 08:39:36+00:00,['1561634177916833793'],@KathyCo55115034 Terrifying., terrifying,False
-313,1.5614069932141773e+18,2022-08-21 17:36:51+00:00,['1561406993214177282'],@electra_rhodes Beautiful. Thanks for sharing., beautiful thanks for sharing,False
-346,1.5605136039245496e+18,2022-08-19 06:26:50+00:00,['1560513603924549634'],@cymrawes Brilliant., brilliant,False
-362,1.5599927278105764e+18,2022-08-17 19:57:04+00:00,['1559992727810576384'],"@HelenMort This may be a little blunt, but there's a saying in our family :Tell him to fuck off.", this may be a little blunt but there's a saying in our family tell him to fuck off,False
-366,1.5599898281747866e+18,2022-08-17 19:45:32+00:00,['1559989828174786562'],@Joannechocolat Take care., take care,False
-373,1.5598472985191547e+18,2022-08-17 10:19:11+00:00,['1559847298519154693'],@Dahabaalihussen @BBCPanorama Excellent! Congratulations.,  excellent congratulations,False
-381,1.5598040420706918e+18,2022-08-17 07:27:18+00:00,['1559804042070691841'],"@cea_forster Thank you, for the difference you make and for raising awareness.", thank you for the difference you make and for raising awareness,False
-395,1.5597880065712292e+18,2022-08-17 06:23:34+00:00,['1559788006571229186'],"We need to wake up to this.
+https://t.co/7QqyW3h701",excellent news,False
+1.5617227466101105e+18,2022-08-22 14:31:32+00:00,['1561722746610110464'],@MikScarlet Sending love.,sending love,False
+1.5617213536020111e+18,2022-08-22 14:26:00+00:00,['1561721353602011139'],@organicsi Even when they don't have to.,even,False
+1.5616341779168338e+18,2022-08-22 08:39:36+00:00,['1561634177916833793'],@KathyCo55115034 Terrifying.,terrifying,False
+1.5614069932141773e+18,2022-08-21 17:36:51+00:00,['1561406993214177282'],@electra_rhodes Beautiful. Thanks for sharing.,beautiful thanks sharing,False
+1.5605136039245496e+18,2022-08-19 06:26:50+00:00,['1560513603924549634'],@cymrawes Brilliant.,brilliant,False
+1.5599927278105764e+18,2022-08-17 19:57:04+00:00,['1559992727810576384'],"@HelenMort This may be a little blunt, but there's a saying in our family :Tell him to fuck off.",may little blunt there's saying family tell fuck,False
+1.5599898281747866e+18,2022-08-17 19:45:32+00:00,['1559989828174786562'],@Joannechocolat Take care.,take care,False
+1.5598472985191547e+18,2022-08-17 10:19:11+00:00,['1559847298519154693'],@Dahabaalihussen @BBCPanorama Excellent! Congratulations.,excellent congratulation,False
+1.5598040420706918e+18,2022-08-17 07:27:18+00:00,['1559804042070691841'],"@cea_forster Thank you, for the difference you make and for raising awareness.",thank difference make raising awareness,False
+1.5597880065712292e+18,2022-08-17 06:23:34+00:00,['1559788006571229186'],"We need to wake up to this.
 
 Welcome to the freeport, where turbocapitalism tramples over British democracy
 
-https://t.co/Eq40iN3crY","we need to wake up to this
-
-welcome to the freeport where turbocapitalism tramples over british democracy
-
-",False
-396,1.559594216380154e+18,2022-08-16 17:33:31+00:00,['1559594216380153867'],@Joannechocolat Hope you're both ok., hope you're both ok,False
-419,1.5594389029764465e+18,2022-08-16 07:16:22+00:00,['1559438902976446464'],@Joannechocolat @Soc_of_Authors @threadreaderapp please unroll. Thanks,   please unroll thanks,False
-420,1.5594386679235256e+18,2022-08-16 07:15:26+00:00,['1559438667923525635'],@Joannechocolat @Soc_of_Authors Solidarity,  solidarity,False
-421,1.559437623751594e+18,2022-08-16 07:11:17+00:00,['1559437623751593989'],@crushtheracists Hi from London x, hi from london x,False
-449,1.559098736449577e+18,2022-08-15 08:44:40+00:00,['1559098736449576961'],I just supported this case! https://t.co/SPtwxTglti via @CrowdJustice,i just supported this case  via ,False
-463,1.5589138764476088e+18,2022-08-14 20:30:06+00:00,['1558913876447608832'],"Shocling, but hardly surprising.
+https://t.co/Eq40iN3crY",need wake welcome freeport turbocapitalism trample british democracy,False
+1.559594216380154e+18,2022-08-16 17:33:31+00:00,['1559594216380153867'],@Joannechocolat Hope you're both ok.,hope ok,False
+1.5594389029764465e+18,2022-08-16 07:16:22+00:00,['1559438902976446464'],@Joannechocolat @Soc_of_Authors @threadreaderapp please unroll. Thanks,please unroll thanks,False
+1.5594386679235256e+18,2022-08-16 07:15:26+00:00,['1559438667923525635'],@Joannechocolat @Soc_of_Authors Solidarity,solidarity,False
+1.559437623751594e+18,2022-08-16 07:11:17+00:00,['1559437623751593989'],@crushtheracists Hi from London x,hi london x,False
+1.559098736449577e+18,2022-08-15 08:44:40+00:00,['1559098736449576961'],I just supported this case! https://t.co/SPtwxTglti via @CrowdJustice,supported case via,False
+1.5589138764476088e+18,2022-08-14 20:30:06+00:00,['1558913876447608832'],"Shocling, but hardly surprising.
 
  Offshore firm links BBC chair to sanction-hit Russian ‘Nickel King’
 
-https://t.co/Q7a0fKPXyB","shocling but hardly surprising
-
- offshore firm links bbc chair to sanctionhit russian nickel king
-
-",False
-473,1.5588005740317243e+18,2022-08-14 12:59:52+00:00,['1558800574031724544'],"Hey @bookingcom Trying to leave a review, as invited by you, about a woeful property we stayed in last week. Oddly, the link in the email keeps freezing. We really think you should know about the dirt, broken furniture and malfunctioning cooker. And that's just for starters.",hey  trying to leave a review as invited by you about a woeful property we stayed in last week oddly the link in the email keeps freezing we really think you should know about the dirt broken furniture and malfunctioning cooker and that's just for starters,False
-478,1.5587977400411832e+18,2022-08-14 12:48:36+00:00,['1558797740041183234'],"@nazneen372 Appalling! So sorry this happened to you and your son. I hope he's ok. Wrong response @mayflower Why did the woman feel ok to assault a child in your theatre? You have questions to answer,", appalling so sorry this happened to you and your son i hope he's ok wrong response  why did the woman feel ok to assault a child in your theatre you have questions to answer,False
-494,1.5587165397585838e+18,2022-08-14 07:25:57+00:00,['1558716539758583809'],@80_mcswan Yes, yes,False
-509,1.5585810116209705e+18,2022-08-13 22:27:24+00:00,['1558581011620970498'],Join me and @GordonBrown and sign this petition via @38degrees calling on the UK government to hold an Emergency Budget to act on poverty and boost Universal Credit immediately!  https://t.co/vbI8xBa3wW,join me and  and sign this petition via  calling on the uk government to hold an emergency budget to act on poverty and boost universal credit immediately  ,False
-510,1.5582399611278295e+18,2022-08-12 23:52:12+00:00,['1558239961127829505'],https://t.co/m7ZcFyfg2b,,False
-528,1.5574890181950423e+18,2022-08-10 22:08:13+00:00,['1557489018195042304'],@serenceinwyn @MichaelRosenYes John Agard?,  john agard,False
-529,1.557420008539652e+18,2022-08-10 17:34:00+00:00,['1557420008539652097'],Join me and @GordonBrown and sign this petition via @38degrees calling on the UK government to hold an Emergency Budget to act on poverty and boost Universal Credit immediately!  https://t.co/vbI8xBa3wW,join me and  and sign this petition via  calling on the uk government to hold an emergency budget to act on poverty and boost universal credit immediately  ,False
-550,1.5573608232695767e+18,2022-08-10 13:38:49+00:00,['1557360823269576704'],@isda1979 Sending love x, sending love x,False
-552,1.557359929513722e+18,2022-08-10 13:35:16+00:00,['1557359929513721859'],"@jacksonsprhero Happy birthday, Jackson x", happy birthday jackson x,False
-558,1.5573018386214134e+18,2022-08-10 09:44:26+00:00,['1557301838621413388'],@hettiewagtail Happy birthday x, happy birthday x,False
-562,1.5572827103344108e+18,2022-08-10 08:28:25+00:00,['1557282710334410752'],@emmabo Bloody hell! Really sorry you were subjected to this. Hope you have the energy to make a complaint., bloody hell really sorry you were subjected to this hope you have the energy to make a complaint,False
-567,1.5572730941710172e+18,2022-08-10 07:50:13+00:00,['1557273094171017217'],"RIP Raymond Briggs. Thank you for the wonderful books, telling the sometimes bitter truth with gentleness and humour #Bloomingsoot #Bloomingchimneys",rip raymond briggs thank you for the wonderful books telling the sometimes bitter truth with gentleness and humour  ,False
-605,1.556161179373953e+18,2022-08-07 06:11:51+00:00,['1556161179373953024'],Solidarity with inspirational @BootstrapCook,solidarity with inspirational ,False
-617,1.555108792576131e+18,2022-08-04 08:30:03+00:00,['1555108792576131072'],@justicefordeji @metpoliceuk So sorry for your loss. Sending love and solidarity.,  so sorry for your loss sending love and solidarity,False
-625,1.5548733794628116e+18,2022-08-03 16:54:36+00:00,['1554873379462811651'],@RichardJMurphy Terrifying., terrifying,False
-631,1.5547153058842378e+18,2022-08-03 06:26:28+00:00,['1554715305884237825'],@The_TUC Really good news., really good news,False
-637,1.5545121147814953e+18,2022-08-02 16:59:04+00:00,['1554512114781495297'],@crushtheracists Excellent news!, excellent news,False
-643,1.5544565629110354e+18,2022-08-02 13:18:19+00:00,['1554456562911035393'],"Still happening.
+https://t.co/Q7a0fKPXyB",shocling hardly surprising offshore firm link bbc chair sanctionhit russian nickel king,False
+1.5588005740317243e+18,2022-08-14 12:59:52+00:00,['1558800574031724544'],"Hey @bookingcom Trying to leave a review, as invited by you, about a woeful property we stayed in last week. Oddly, the link in the email keeps freezing. We really think you should know about the dirt, broken furniture and malfunctioning cooker. And that's just for starters.",hey trying leave review invited woeful property stayed last week oddly link email keep freezing really think know dirt broken furniture malfunctioning cooker that's starter,False
+1.5587977400411832e+18,2022-08-14 12:48:36+00:00,['1558797740041183234'],"@nazneen372 Appalling! So sorry this happened to you and your son. I hope he's ok. Wrong response @mayflower Why did the woman feel ok to assault a child in your theatre? You have questions to answer,",appalling sorry happened son hope he's ok wrong response woman feel ok assault child theatre question answer,False
+1.5587165397585838e+18,2022-08-14 07:25:57+00:00,['1558716539758583809'],@80_mcswan Yes,yes,False
+1.5585810116209705e+18,2022-08-13 22:27:24+00:00,['1558581011620970498'],Join me and @GordonBrown and sign this petition via @38degrees calling on the UK government to hold an Emergency Budget to act on poverty and boost Universal Credit immediately!  https://t.co/vbI8xBa3wW,join sign petition via calling uk government hold emergency budget act poverty boost universal credit immediately,False
+1.5582399611278295e+18,2022-08-12 23:52:12+00:00,['1558239961127829505'],https://t.co/m7ZcFyfg2b,,False
+1.5574890181950423e+18,2022-08-10 22:08:13+00:00,['1557489018195042304'],@serenceinwyn @MichaelRosenYes John Agard?,john agard,False
+1.557420008539652e+18,2022-08-10 17:34:00+00:00,['1557420008539652097'],Join me and @GordonBrown and sign this petition via @38degrees calling on the UK government to hold an Emergency Budget to act on poverty and boost Universal Credit immediately!  https://t.co/vbI8xBa3wW,join sign petition via calling uk government hold emergency budget act poverty boost universal credit immediately,False
+1.5573608232695767e+18,2022-08-10 13:38:49+00:00,['1557360823269576704'],@isda1979 Sending love x,sending love x,False
+1.557359929513722e+18,2022-08-10 13:35:16+00:00,['1557359929513721859'],"@jacksonsprhero Happy birthday, Jackson x",happy birthday jackson x,False
+1.5573018386214134e+18,2022-08-10 09:44:26+00:00,['1557301838621413388'],@hettiewagtail Happy birthday x,happy birthday x,False
+1.5572827103344108e+18,2022-08-10 08:28:25+00:00,['1557282710334410752'],@emmabo Bloody hell! Really sorry you were subjected to this. Hope you have the energy to make a complaint.,bloody hell really sorry subjected hope energy make complaint,False
+1.5572730941710172e+18,2022-08-10 07:50:13+00:00,['1557273094171017217'],"RIP Raymond Briggs. Thank you for the wonderful books, telling the sometimes bitter truth with gentleness and humour #Bloomingsoot #Bloomingchimneys",rip raymond briggs thank wonderful book telling sometimes bitter truth gentleness humour,False
+1.556161179373953e+18,2022-08-07 06:11:51+00:00,['1556161179373953024'],Solidarity with inspirational @BootstrapCook,solidarity inspirational,False
+1.555108792576131e+18,2022-08-04 08:30:03+00:00,['1555108792576131072'],@justicefordeji @metpoliceuk So sorry for your loss. Sending love and solidarity.,sorry loss sending love solidarity,False
+1.5548733794628116e+18,2022-08-03 16:54:36+00:00,['1554873379462811651'],@RichardJMurphy Terrifying.,terrifying,False
+1.5547153058842378e+18,2022-08-03 06:26:28+00:00,['1554715305884237825'],@The_TUC Really good news.,really good news,False
+1.5545121147814953e+18,2022-08-02 16:59:04+00:00,['1554512114781495297'],@crushtheracists Excellent news!,excellent news,False
+1.5544565629110354e+18,2022-08-02 13:18:19+00:00,['1554456562911035393'],"Still happening.
 ‘I have to plan for if I am stranded, if I am dropped, if my chair is damaged’: the perils of travelling while disabled
 
-https://t.co/YszDsC6XJx","still happening
-i have to plan for if i am stranded if i am dropped if my chair is damaged the perils of travelling while disabled
-
-",False
-666,1.553871090384003e+18,2022-07-31 22:31:52+00:00,['1553871090384003072'],Woo hoo! They did it.,woo hoo they did it,False
-687,1.553313318626009e+18,2022-07-30 09:35:28+00:00,['1553313318626009088'],@DrJaninaRamirez Never doubted, never doubted,False
-691,1.553292773683503e+18,2022-07-30 08:13:50+00:00,['1553292773683503104'],@jennybrooks62 Congratulations and thank you x, congratulations and thank you x,False
-707,1.552692407451394e+18,2022-07-28 16:28:12+00:00,['1552692407451394049'],@PippaCrerar @MirrorPolitics Thank you.,  thank you,False
-711,1.552690315995259e+18,2022-07-28 16:19:53+00:00,['1552690315995258884'],Bring back covid sick pay for NHS professionals - Sign the Petition! https://t.co/mquhZPItfM via @UKChange,bring back covid sick pay for nhs professionals  sign the petition  via ,False
-713,1.5525752150703186e+18,2022-07-28 08:42:31+00:00,['1552575215070318592'],RIP Bernard Cribbens. One of the good guys. Thank you.,rip bernard cribbens one of the good guys thank you,False
-760,1.551965513957376e+18,2022-07-26 16:19:47+00:00,['1551965513957376004'],@dr_shibley Condolences. Sending love., condolences sending love,False
-763,1.5519646219086234e+18,2022-07-26 16:16:14+00:00,['1551964621908623360'],@ElysiumFields10 @CareQualityComm So distressing. Went through this with both my parents. Hope you manage to get it sorted.,  so distressing went through this with both my parents hope you manage to get it sorted,False
-771,1.55182487579435e+18,2022-07-26 07:00:56+00:00,['1551824875794350083'],@mobo40 @mini_lebowski Congratulations to you and your school. Now rest and recover.,  congratulations to you and your school now rest and recover,False
-774,1.5516255744766157e+18,2022-07-25 17:48:59+00:00,['1551625574476615682'],@Mardyoldgal Happy birthday!, happy birthday,False
-777,1.551611177901478e+18,2022-07-25 16:51:47+00:00,['1551611177901477893'],@fbunational Wish you better @MattWrack, wish you better ,False
-793,1.5515208417243013e+18,2022-07-25 10:52:49+00:00,['1551520841724301312'],@AdamPagett3 Congratulations., congratulations,False
-812,1.5509408619193797e+18,2022-07-23 20:28:11+00:00,['1550940861919379457'],"Congratulations, Rachel! https://t.co/p0YGe5NXf2",congratulations rachel ,False
-813,1.550940861860651e+18,2022-07-23 20:28:11+00:00,['1550940861860651011'],https://t.co/NDcqqI3TZD,,False
-839,1.5505218778981704e+18,2022-07-22 16:43:17+00:00,['1550521877898170370'],@LeighanRenaud Sorry that happened to you and your beautiful baby., sorry that happened to you and your beautiful baby,False
-847,1.5505204115274465e+18,2022-07-22 16:37:28+00:00,['1550520411527446531'],@BlakesWheels Sending love x, sending love x,False
-848,1.5504131474540134e+18,2022-07-22 09:31:14+00:00,['1550413147454013440'],@BarristerSecret @Joanna__Hardy Took my breath away.,  took my breath away,False
-854,1.5504005405925458e+18,2022-07-22 08:41:08+00:00,['1550400540592545792'],@Bluesandwhites7 Congratulations and thank you. Enjoy the day and your retirement., congratulations and thank you enjoy the day and your retirement,False
-869,1.5501039006650286e+18,2022-07-21 13:02:24+00:00,['1550103900665028608'],@zarahsultana Thank you. Wish it wasn't necessary., thank you wish it wasn't necessary,False
-894,1.5500265933132145e+18,2022-07-21 07:55:12+00:00,['1550026593313214465'],@PosenIzzy Wtaf?, wtaf,False
-899,1.5500132927557878e+18,2022-07-21 07:02:21+00:00,['1550013292755787776'],@louiseatkinso14 @NEUnion Very best of luck.,  very best of luck,False
-921,1.5498540524098191e+18,2022-07-20 20:29:35+00:00,['1549854052409819137'],"@ChrisMoyse Congratulations,  Melanie. Enjoy your retirement.", congratulations  melanie enjoy your retirement,False
-933,1.549782723228729e+18,2022-07-20 15:46:09+00:00,['1549782723228729344'],@tricyclemayor Congratulations!, congratulations,False
-947,1.5496907192160502e+18,2022-07-20 09:40:33+00:00,['1549690719216050177'],@burch67 Your efforts meant he wasn't alone and his family will know good people did their best. Thank you. I hope you have the support you need., your efforts meant he wasn't alone and his family will know good people did their best thank you i hope you have the support you need,False
-980,1.5482447474241864e+18,2022-07-16 09:54:47+00:00,['1548244747424186368'],@GreenpeaceUK Yes, yes,False
-981,1.548244746346193e+18,2022-07-16 09:54:47+00:00,['1548244746346192900'],@MichaelRosenYes @DrJoGrady Thank you. I hope they are.,  thank you i hope they are,False
-985,1.54824062151245e+18,2022-07-16 09:38:23+00:00,['1548240621512450050'],@ronanburtenshaw @RMTunion Excellent! Thank you.,  excellent thank you,False
-988,1.5482011635472425e+18,2022-07-16 07:01:36+00:00,['1548201163547242499'],@paullewismoney Wish you better soon., wish you better soon,False
-1002,1.5481886082463457e+18,2022-07-16 06:11:42+00:00,['1548188608246345729'],@MsPTeach1 Please do!, please do,False
-1059,1.5469025521591788e+18,2022-07-12 17:01:23+00:00,['1546902552159178752'],"@MichaelRosenYes That's rotten, Michael. I don't use Uber either. @chunkymark can you shed any light on this? Hard to understand.", that's rotten michael i don't use uber either  can you shed any light on this hard to understand,False
-1087,1.546760548183937e+18,2022-07-12 07:37:06+00:00,['1546760548183937024'],"@ellen__jones It's comfy and you like it, so it's definitely ok. Plus, as it happens, it looks great.", it's comfy and you like it so it's definitely ok plus as it happens it looks great,False
-1097,1.5464741089127956e+18,2022-07-11 12:38:54+00:00,['1546474108912795648'],@GeorgeMonbiot @VodafoneUK Sorry for your loss. Hope this gets sorted.,  sorry for your loss hope this gets sorted,False
-1102,1.5464127780675625e+18,2022-07-11 08:35:11+00:00,['1546412778067562497'],@danielgoyal Sorry to hear this. Sending love., sorry to hear this sending love,False
-1113,1.5461839632653517e+18,2022-07-10 17:25:58+00:00,['1546183963265351680'],@Nurseborisbash @TwitterSafety Hope you get the support you need.,  hope you get the support you need,False
-1116,1.5461811209281905e+18,2022-07-10 17:14:40+00:00,['1546181120928190465'],@rclarkie Excellent!, excellent,False
-1120,1.5461714844728074e+18,2022-07-10 16:36:23+00:00,['1546171484472807427'],"@AngelaRayner @lia_nici Solidarity, @AngelaRayner",  solidarity ,False
-1167,1.5457558170261422e+18,2022-07-09 13:04:40+00:00,['1545755817026142209'],@MahlapeThabiso Beautiful girl ❤, beautiful girl ,False
+https://t.co/YszDsC6XJx",still happening plan stranded dropped chair damaged peril travelling disabled,False
+1.553871090384003e+18,2022-07-31 22:31:52+00:00,['1553871090384003072'],Woo hoo! They did it.,woo hoo,False
+1.553313318626009e+18,2022-07-30 09:35:28+00:00,['1553313318626009088'],@DrJaninaRamirez Never doubted,never doubted,False
+1.553292773683503e+18,2022-07-30 08:13:50+00:00,['1553292773683503104'],@jennybrooks62 Congratulations and thank you x,congratulation thank x,False
+1.552692407451394e+18,2022-07-28 16:28:12+00:00,['1552692407451394049'],@PippaCrerar @MirrorPolitics Thank you.,thank,False
+1.552690315995259e+18,2022-07-28 16:19:53+00:00,['1552690315995258884'],Bring back covid sick pay for NHS professionals - Sign the Petition! https://t.co/mquhZPItfM via @UKChange,bring back covid sick pay nh professional sign petition via,False
+1.5525752150703186e+18,2022-07-28 08:42:31+00:00,['1552575215070318592'],RIP Bernard Cribbens. One of the good guys. Thank you.,rip bernard cribbens one good guy thank,False
+1.551965513957376e+18,2022-07-26 16:19:47+00:00,['1551965513957376004'],@dr_shibley Condolences. Sending love.,condolence sending love,False
+1.5519646219086234e+18,2022-07-26 16:16:14+00:00,['1551964621908623360'],@ElysiumFields10 @CareQualityComm So distressing. Went through this with both my parents. Hope you manage to get it sorted.,distressing went parent hope manage get sorted,False
+1.55182487579435e+18,2022-07-26 07:00:56+00:00,['1551824875794350083'],@mobo40 @mini_lebowski Congratulations to you and your school. Now rest and recover.,congratulation school rest recover,False
+1.5516255744766157e+18,2022-07-25 17:48:59+00:00,['1551625574476615682'],@Mardyoldgal Happy birthday!,happy birthday,False
+1.551611177901478e+18,2022-07-25 16:51:47+00:00,['1551611177901477893'],@fbunational Wish you better @MattWrack,wish better,False
+1.5515208417243013e+18,2022-07-25 10:52:49+00:00,['1551520841724301312'],@AdamPagett3 Congratulations.,congratulation,False
+1.5509408619193797e+18,2022-07-23 20:28:11+00:00,['1550940861919379457'],"Congratulations, Rachel! https://t.co/p0YGe5NXf2",congratulation rachel,False
+1.550940861860651e+18,2022-07-23 20:28:11+00:00,['1550940861860651011'],https://t.co/NDcqqI3TZD,,False
+1.5505218778981704e+18,2022-07-22 16:43:17+00:00,['1550521877898170370'],@LeighanRenaud Sorry that happened to you and your beautiful baby.,sorry happened beautiful baby,False
+1.5505204115274465e+18,2022-07-22 16:37:28+00:00,['1550520411527446531'],@BlakesWheels Sending love x,sending love x,False
+1.5504131474540134e+18,2022-07-22 09:31:14+00:00,['1550413147454013440'],@BarristerSecret @Joanna__Hardy Took my breath away.,took breath away,False
+1.5504005405925458e+18,2022-07-22 08:41:08+00:00,['1550400540592545792'],@Bluesandwhites7 Congratulations and thank you. Enjoy the day and your retirement.,congratulation thank enjoy day retirement,False
+1.5501039006650286e+18,2022-07-21 13:02:24+00:00,['1550103900665028608'],@zarahsultana Thank you. Wish it wasn't necessary.,thank wish necessary,False
+1.5500265933132145e+18,2022-07-21 07:55:12+00:00,['1550026593313214465'],@PosenIzzy Wtaf?,wtaf,False
+1.5500132927557878e+18,2022-07-21 07:02:21+00:00,['1550013292755787776'],@louiseatkinso14 @NEUnion Very best of luck.,best luck,False
+1.5498540524098191e+18,2022-07-20 20:29:35+00:00,['1549854052409819137'],"@ChrisMoyse Congratulations,  Melanie. Enjoy your retirement.",congratulation melanie enjoy retirement,False
+1.549782723228729e+18,2022-07-20 15:46:09+00:00,['1549782723228729344'],@tricyclemayor Congratulations!,congratulation,False
+1.5496907192160502e+18,2022-07-20 09:40:33+00:00,['1549690719216050177'],@burch67 Your efforts meant he wasn't alone and his family will know good people did their best. Thank you. I hope you have the support you need.,effort meant alone family know good people best thank hope support need,False
+1.5482447474241864e+18,2022-07-16 09:54:47+00:00,['1548244747424186368'],@GreenpeaceUK Yes,yes,False
+1.548244746346193e+18,2022-07-16 09:54:47+00:00,['1548244746346192900'],@MichaelRosenYes @DrJoGrady Thank you. I hope they are.,thank hope,False
+1.54824062151245e+18,2022-07-16 09:38:23+00:00,['1548240621512450050'],@ronanburtenshaw @RMTunion Excellent! Thank you.,excellent thank,False
+1.5482011635472425e+18,2022-07-16 07:01:36+00:00,['1548201163547242499'],@paullewismoney Wish you better soon.,wish better soon,False
+1.5481886082463457e+18,2022-07-16 06:11:42+00:00,['1548188608246345729'],@MsPTeach1 Please do!,please,False
+1.5469025521591788e+18,2022-07-12 17:01:23+00:00,['1546902552159178752'],"@MichaelRosenYes That's rotten, Michael. I don't use Uber either. @chunkymark can you shed any light on this? Hard to understand.",that's rotten michael use uber either shed light hard understand,False
+1.546760548183937e+18,2022-07-12 07:37:06+00:00,['1546760548183937024'],"@ellen__jones It's comfy and you like it, so it's definitely ok. Plus, as it happens, it looks great.",comfy like definitely ok plus happens look great,False
+1.5464741089127956e+18,2022-07-11 12:38:54+00:00,['1546474108912795648'],@GeorgeMonbiot @VodafoneUK Sorry for your loss. Hope this gets sorted.,sorry loss hope get sorted,False
+1.5464127780675625e+18,2022-07-11 08:35:11+00:00,['1546412778067562497'],@danielgoyal Sorry to hear this. Sending love.,sorry hear sending love,False
+1.5461839632653517e+18,2022-07-10 17:25:58+00:00,['1546183963265351680'],@Nurseborisbash @TwitterSafety Hope you get the support you need.,hope get support need,False
+1.5461811209281905e+18,2022-07-10 17:14:40+00:00,['1546181120928190465'],@rclarkie Excellent!,excellent,False
+1.5461714844728074e+18,2022-07-10 16:36:23+00:00,['1546171484472807427'],"@AngelaRayner @lia_nici Solidarity, @AngelaRayner",solidarity,False
+1.5457558170261422e+18,2022-07-09 13:04:40+00:00,['1545755817026142209'],@MahlapeThabiso Beautiful girl ❤,beautiful girl,False
