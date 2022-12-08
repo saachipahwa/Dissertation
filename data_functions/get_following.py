@@ -15,7 +15,6 @@ BMA_ID = 14243046
 NUJ_ID = 335177549
 MU_ID = 116720443
 RMT_ID = 26020906
-UNION_ID = NEU_ID
 
 def store_log(message):
     print(message)
