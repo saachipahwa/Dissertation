@@ -7,6 +7,9 @@ import datetime
 NUJ_followers_file = "data/NUJfollowers.csv"
 MU_followers_file =  "data/MUfollowers.csv"
 RMT_followers_file = "data/RMTfollowers.csv"
+f = open(NUJ_followers_file, "w+")
+f = open(MU_followers_file, "w+")
+f = open(RMT_followers_file, "w+")
 
 api = authpy('credentials.json')
 RCON_ID = 54506896
