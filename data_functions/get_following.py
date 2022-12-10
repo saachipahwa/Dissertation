@@ -56,7 +56,7 @@ def get_union_followers(pagination = None, UNION_ID = None, followers_file = Non
 def call_get_following(UNION_ID = None, followers_file = None):
     call_count = 0
 
-    next_token = get_union_followers(UNION_ID = UNION_ID, followers_file = followers_file)
+    next_token = get_union_followers(pagination=1751537323359809504, UNION_ID = UNION_ID, followers_file = followers_file)
     call_count += 1
 
     while next_token:
@@ -66,6 +66,5 @@ def call_get_following(UNION_ID = None, followers_file = None):
         store_log("Just finished call " + str(call_count))
         store_log("Next token: " + str(next_token))
 
-call_get_following(UNION_ID=NUJ_ID, followers_file=NUJ_followers_file)
-call_get_following(UNION_ID=MU_ID, followers_file=MU_followers_file)
+
 call_get_following(UNION_ID=RMT_ID, followers_file=RMT_followers_file)
