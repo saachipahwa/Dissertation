@@ -66,6 +66,3 @@ def call_get_following(UNION_ID = None, followers_file = None):
         store_log("Just finished call " + str(call_count))
         store_log("Next token: " + str(next_token))
 
-call_get_following(UNION_ID=NUJ_ID, followers_file=NUJ_followers_file)
-call_get_following(UNION_ID=MU_ID, followers_file=MU_followers_file)
-call_get_following(UNION_ID=RMT_ID, followers_file=RMT_followers_file)
