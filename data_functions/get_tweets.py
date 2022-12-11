@@ -8,7 +8,7 @@ from authpy import authpy
 
 journalist_directory = "journalisttweets"
 journalist_followers_file = "data/filteredNUJfollowers.csv"
-rail_directory = "railworkertweets"
+rail_directory = "railtweets"
 rail_followers_file = "data/filteredRMTfollowers.csv"
 musicians_directory = "musiciantweets"
 musicians_followers_file = "data/filteredMUfollowers.csv"
