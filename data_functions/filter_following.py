@@ -1,12 +1,15 @@
 from datetime import datetime
 import pandas as pd
 
-followers_file = "data/NEUfollowers.csv"
-filtered_file = "data/filteredNEUfollowers.csv"
+followers_file = "data/RMTfollowers.csv"
+filtered_file = "data/filteredRMTfollowers.csv"
 nurse_description_string = "nurse|nursing"
 teacher_description_string = "teacher"
 doctor_description_string = "doctor|surgeon|general practicioner"
-description_string = teacher_description_string
+journalist_description_string = "journalist"
+railworker_description_string = "rail|train |maritime"
+musician_description_string = "music|musician"
+description_string = railworker_description_string
 today = datetime.today()
 current_year = today.year
 
@@ -42,7 +45,13 @@ def filter(df = None):
     #remove bots
     df['friend_ratio'] = df['followers_count'] / df['friends_count'] #get follower to friend ratio
     # df = df.loc[(df["followers_count"]>4000) & (df["friend_ratio"]<1)] #USE TO GET BOTS
-    df = df.loc[(df["followers_count"] < 4000) | ((df["followers_count"] >= 4000) & (df["friend_ratio"]>=1))] #USE TO REMOVE BOTS
+    df = df.loc[(df["followers_count"] < 4000) | ((df["followers_count"] >= 4000) & (df["friend_ratio"]>=1))] #USE TO REMOVE BOTS #FOR MU i replaced 1 with 0.6
+
+    #remove famous accounts for musicians union followers
+    # df = df.loc[~(df["friend_ratio"]>2)] #MU
+    # df = df.loc[~(df["followers_count"]>50000)] #MU
+
+    df = df.loc[~(df["followers_count"]>10000)] #for trains
 
     #remove private accounts
     df['protected'] = df['protected'].astype(str)
