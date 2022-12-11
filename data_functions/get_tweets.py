@@ -6,8 +6,15 @@ import tweepy
 from pytz import utc
 from authpy import authpy
 
-directory = "teachertweets"
-followers_file = "data/filteredNEUfollowers.csv"
+journalist_directory = "journalisttweets"
+journalist_followers_file = "data/filteredNUJfollowers.csv"
+rail_directory = "railworkertweets"
+rail_followers_file = "data/filteredRMTfollowers.csv"
+musicians_directory = "musiciantweets"
+musicians_followers_file = "data/filteredMUfollowers.csv"
+musiciansfollowerdf = pd.read_csv(musicians_followers_file)
+journalistsfollowerdf = pd.read_csv(musicians_followers_file)
+railworkersfollowerdf = pd.read_csv(rail_followers_file)
 
 def store_log(message):
     print(message)
@@ -24,7 +31,7 @@ client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%
 startDate = utc.localize(datetime.datetime(2019, 2, 1, 0, 0, 0))
 endDate = utc.localize(datetime.datetime(2022, 9, 1, 0, 0, 0))
 
-def get_tweets(id, pagination=None):
+def get_tweets(id, directory = None, pagination=None):
     id_file = "{}/{}.csv".format(directory, id)
 
     with open(id_file, "a+") as f:
@@ -51,18 +58,22 @@ def get_tweets(id, pagination=None):
 
     return meta.get('next_token')
 
-followerdf = pd.read_csv(followers_file)
 
-for id in followerdf['id']:
-    store_log("ID" + str(id))
-    count=0
-    next_token = get_tweets(int(id))
-    store_log("COUNT" + str(count))
-    store_log("NEXT_TOKEN" + str(next_token))
-    while next_token:
-        count+=1
-        next_token = get_tweets(int(id), pagination = next_token)
-        store_log("NEXT_TOKEN" + str(next_token))
+def call_get_tweets(followerdf = None, directory = None):
+    for id in followerdf['id']:
+        store_log("ID" + str(id))
+        count=0
+        next_token = get_tweets(int(id), directory)
         store_log("COUNT" + str(count))
+        store_log("NEXT_TOKEN" + str(next_token))
+        while next_token:
+            count+=1
+            next_token = get_tweets(int(id), directory, pagination = next_token)
+            store_log("NEXT_TOKEN" + str(next_token))
+            store_log("COUNT" + str(count))
 
-store_log("Finished - I got all the tweets!!")
+    store_log("Finished - I got all the tweets!!")
+
+call_get_tweets(musiciansfollowerdf, musicians_directory)
+call_get_tweets(railworkersfollowerdf, rail_directory)
+call_get_tweets(journalistsfollowerdf, journalist_directory)
