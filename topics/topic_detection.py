@@ -24,8 +24,8 @@ def get_topics_from():
     topic_model = BERTopic(language="english",
                            calculate_probabilities=True,
                            verbose=True,
-                           top_n_words=20,
-                           n_gram_range=(1, 2)
+                           # top_n_words=10,
+                           # n_gram_range=(1, 2)
                            # nr_topics = 20,
                            )
 
