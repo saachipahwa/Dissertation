@@ -12,13 +12,13 @@ def get_all_tweets(directories = None):
             print(f)
             user_df = pd.read_csv(f, index_col=0)
             df = pd.concat([df, user_df], ignore_index=True)
-    df.to_csv("data/all_tweets.csv")
+    return df
 
-directories =  ["nursetweets", "doctortweets", "teachertweets"]
+directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 # get_all_tweets(directories)
 
-def get_topics_from(filename = "data/all_tweets.csv"):
-    df = pd.read_csv(filename)
+def get_topics_from():
+    df = get_all_tweets(directories)
     tweet_text = df['text'].astype(str).tolist()
 
     topic_model = BERTopic(language="english",
