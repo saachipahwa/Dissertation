@@ -4,21 +4,16 @@ import pandas as pd
 from bertopic import BERTopic
 from sklearn.datasets import fetch_20newsgroups
 
-def get_all_tweets(directories = None):
+def get_all_tweets(directory = None):
     df = pd.DataFrame()
-    for directory in directories:
-        for filename in os.listdir(directory):
-            f = os.path.join(directory, filename)
-            print(f)
-            user_df = pd.read_csv(f, index_col=0)
-            df = pd.concat([df, user_df], ignore_index=True)
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        print(f)
+        user_df = pd.read_csv(f, index_col=0)
+        df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
-# get_all_tweets(directories)
-
-def get_topics_from():
-    df = get_all_tweets(directories)
+def get_topics_from(df=None):
     tweet_text = df['text'].astype(str).tolist()
 
     topic_model = BERTopic(language="english",
@@ -43,6 +38,10 @@ def get_topics_from():
             details_list.append([])
     freq['details'] = details_list
 
-    freq.to_csv('topics/tweets_topics.csv')
+    freq.to_csv('topics/{}_topics.csv'.format(directory))
 
-get_topics_from()
+directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
+
+for directory in directories:
+    df = get_all_tweets(directory)
+    get_topics_from(df)
