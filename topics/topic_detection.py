@@ -19,6 +19,7 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
     topic_model = BERTopic(language="english",
                            calculate_probabilities=True,
                            verbose=True,
+                           low_memory=True
                            # top_n_words=10,
                            # n_gram_range=(1, 2)
                            # nr_topics = 20,
