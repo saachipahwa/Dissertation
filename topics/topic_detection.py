@@ -25,6 +25,7 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
                            )
     print("set up topic model. about to fit model")
     topics, probabilities = topic_model.fit_transform(tweet_text)
+    topic_model.save("{}_model".format(directory_name))
     print("fit model")
     freq = topic_model.get_topic_info()
     print(type(freq))
@@ -46,4 +47,8 @@ directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "j
 # for directory in directories:
 df = get_all_tweets("nursetweets")
 print("got all tweets")
-get_topics_from(df, "nursetweets")
+
+try:
+    get_topics_from(df, "nursetweets")
+except Exception as e:
+    print(str(e))
