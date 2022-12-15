@@ -6,7 +6,7 @@ from sklearn.datasets import fetch_20newsgroups
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
-    for filename in os.listdir(directory)[:50]:
+    for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
@@ -19,8 +19,8 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
     topic_model = BERTopic(language="english",
                            calculate_probabilities=True,
                            verbose=True,
-                           low_memory=True
-                           # top_n_words=10,
+                           low_memory=True,
+                           min_topic_size=20
                            # n_gram_range=(1, 2)
                            # nr_topics = 20,
                            )
@@ -51,7 +51,6 @@ print("got all tweets")
 print(len(df))
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-
 
 try:
     get_topics_from(df, "nursetweets")
