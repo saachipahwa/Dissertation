@@ -6,7 +6,7 @@ from sklearn.datasets import fetch_20newsgroups
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
-    for filename in os.listdir(directory):
+    for filename in os.listdir(directory)[:50]:
         f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
@@ -48,6 +48,10 @@ directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "j
 # for directory in directories:
 df = get_all_tweets("nursetweets")
 print("got all tweets")
+print(len(df))
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 
 try:
     get_topics_from(df, "nursetweets")
