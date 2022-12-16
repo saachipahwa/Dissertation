@@ -17,7 +17,7 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
     tweet_text = df['text'].astype(str).tolist()
     print("got df")
     topic_model = BERTopic(language="english",
-                           calculate_probabilities=True,
+                           calculate_probabilities=False,
                            verbose=True,
                            low_memory=True,
                            min_topic_size=20
