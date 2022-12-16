@@ -6,7 +6,7 @@ from sklearn.datasets import fetch_20newsgroups
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
-    for filename in os.listdir(directory):
+    for filename in os.listdir(directory)[:5]:
         f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
