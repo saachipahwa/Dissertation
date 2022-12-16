@@ -71,6 +71,11 @@ def remove_stopwords(text):
     output= [i for i in wordslist if i not in stopwords]
     return ' '.join(output)
 
+def remove_2char_words(text):
+    wordslist = text.split()
+    output= [i for i in wordslist if not len(i)<3]
+    return ' '.join(output)
+
 # Stemming
 # porter_stemmer = PorterStemmer()
 # def stemming(text):
@@ -106,7 +111,8 @@ def delete_whitespace_tweets(df):
     df = df.drop('whitespace', axis=1)
     return df
 
-def text_preprocessing(directory = "teachertweets"):
+
+def text_preprocessing(directory = "journalisttweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -114,7 +120,6 @@ def text_preprocessing(directory = "teachertweets"):
         if os.path.isfile(f):
             print(f)
             df = pd.read_csv(f)
-
             #make RT's empty
             df['text'] = df['text'].loc[~df['text'].str.startswith('RT ', na=False)] #remove RT's
             #remove empty tweets
@@ -144,6 +149,9 @@ def text_preprocessing(directory = "teachertweets"):
 
             # #remove stopwords
             df['clean_text'] = df['clean_text'].apply(lambda x:remove_stopwords(str(x)))
+
+            # #remove 2 char words
+            df['clean_text'] = df['clean_text'].apply(lambda x:remove_2char_words(str(x)))
 
             #remove now empty tweets
             df['clean_text'].replace('', np.nan, inplace=True)
