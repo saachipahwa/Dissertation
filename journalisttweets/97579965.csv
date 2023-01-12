@@ -1,636 +1,636 @@
-id,created_at,edit_history_tweet_ids,text,clean_text
-1.56454804566392e+18,2022-08-30 09:38:16+00:00,['1564548045663920129'],@woodmally1979 @DaveBaxley Clever.,clever
-1.5635856652367585e+18,2022-08-27 17:54:07+00:00,['1563585665236758531'],@DaveBaxley Have to say I watched the movie not expecting much but actually really enjoyed it. Decent way to consume some popcorn on a Friday night for sure.,say watched movie expecting much actually really enjoyed decent way consume popcorn friday night sure
-1.563298547855872e+18,2022-08-26 22:53:13+00:00,['1563298547855872001'],@DanielSmithwic4 @DaveBaxley Did he order the 'Cheesy Mind Melt' or the 'Prawn Farr'?,order 'cheesy mind melt' 'prawn farr'
-1.5624421889773486e+18,2022-08-24 14:10:21+00:00,['1562442188977348608'],This is fantastic. Top playing and real fun. https://t.co/G8UKKy6N4l,fantastic top playing real fun
-1.5624380372081992e+18,2022-08-24 13:53:51+00:00,['1562438037208199169'],@DMcGconcal CHOOOOOOOOON!!,chooooooooon
-1.5623930619254702e+18,2022-08-24 10:55:08+00:00,['1562393061925470210'],"@TheCriticalDri2 Ach, it'll be fine!!",ach it'll fine
-1.5596265923469025e+18,2022-08-16 19:42:10+00:00,['1559626592346902528'],This is all kinds of awesome. https://t.co/2US8cbdj2A,kind awesome
-1.5592726770257428e+18,2022-08-15 20:15:50+00:00,['1559272677025742852'],"Mind you, Britain undermines itself quite a lot. https://t.co/xEvcmOFN4b",mind britain undermines quite lot
-1.559268502644613e+18,2022-08-15 19:59:15+00:00,['1559268502644613121'],@LinusTech That's fantastic!,that's fantastic
-1.5570632243773686e+18,2022-08-09 17:56:16+00:00,['1557063224377368582'],@DaveBaxley @AgathaChocolats Avoiding Miss Daisy.,avoiding miss daisy
+id,created_at,edit_history_tweet_ids,text,clean_text,nouns
+1.56454804566392e+18,2022-08-30 09:38:16+00:00,['1564548045663920129'],@woodmally1979 @DaveBaxley Clever.,clever,clever 
+1.5635856652367585e+18,2022-08-27 17:54:07+00:00,['1563585665236758531'],@DaveBaxley Have to say I watched the movie not expecting much but actually really enjoyed it. Decent way to consume some popcorn on a Friday night for sure.,say watched movie expecting much actually really enjoyed decent way consume popcorn friday night sure,movie way friday night sure 
+1.563298547855872e+18,2022-08-26 22:53:13+00:00,['1563298547855872001'],@DanielSmithwic4 @DaveBaxley Did he order the 'Cheesy Mind Melt' or the 'Prawn Farr'?,order 'cheesy mind melt' 'prawn farr',order mind melt farr 
+1.5624421889773486e+18,2022-08-24 14:10:21+00:00,['1562442188977348608'],This is fantastic. Top playing and real fun. https://t.co/G8UKKy6N4l,fantastic top playing real fun,playing fun 
+1.5624380372081992e+18,2022-08-24 13:53:51+00:00,['1562438037208199169'],@DMcGconcal CHOOOOOOOOON!!,chooooooooon,chooooooooon 
+1.5623930619254702e+18,2022-08-24 10:55:08+00:00,['1562393061925470210'],"@TheCriticalDri2 Ach, it'll be fine!!",ach it'll fine,ach 
+1.5596265923469025e+18,2022-08-16 19:42:10+00:00,['1559626592346902528'],This is all kinds of awesome. https://t.co/2US8cbdj2A,kind awesome,kind awesome 
+1.5592726770257428e+18,2022-08-15 20:15:50+00:00,['1559272677025742852'],"Mind you, Britain undermines itself quite a lot. https://t.co/xEvcmOFN4b",mind britain undermines quite lot,mind britain lot 
+1.559268502644613e+18,2022-08-15 19:59:15+00:00,['1559268502644613121'],@LinusTech That's fantastic!,that's fantastic,
+1.5570632243773686e+18,2022-08-09 17:56:16+00:00,['1557063224377368582'],@DaveBaxley @AgathaChocolats Avoiding Miss Daisy.,avoiding miss daisy,daisy 
 1.5566643597362954e+18,2022-08-08 15:31:19+00:00,['1556664359736295426'],"@DaveBaxley Dark Matter was great. It just got better and better. However! It's really a reworking of a previous TV series called 'Deepwater Black' (AKA 'Mission Genesis')
 The crew of the Deepwater wake up from cryosleep having lost their memories etc etc...
 
-Worth a watch if you can find it",dark matter great got better better however really reworking previous series called 'deepwater black' aka 'mission genesis' crew deepwater wake cryosleep lost memory etc etc worth watch find
-1.5545994276287447e+18,2022-08-02 22:46:01+00:00,['1554599427628744704'],"@NicholasPegg Glad you like it. It's one of my faves. Love the Paris stuff and the theme is brill. Walken, of course, is fantastic.",glad like one faves love paris stuff theme brill walken course fantastic
-1.5544975150342226e+18,2022-08-02 16:01:03+00:00,['1554497515034222595'],"So, finally, reality pricks his personal bubble of guff. Wonderful. https://t.co/hsBsIketlU",finally reality prick personal bubble guff wonderful
-1.5540752472336056e+18,2022-08-01 12:03:06+00:00,['1554075247233605632'],@kelly_ques 2001,
+Worth a watch if you can find it",dark matter great got better better however really reworking previous series called 'deepwater black' aka 'mission genesis' crew deepwater wake cryosleep lost memory etc etc worth watch find,matter series 'mission genesis deepwater cryosleep memory etc watch find 
+1.5545994276287447e+18,2022-08-02 22:46:01+00:00,['1554599427628744704'],"@NicholasPegg Glad you like it. It's one of my faves. Love the Paris stuff and the theme is brill. Walken, of course, is fantastic.",glad like one faves love paris stuff theme brill walken course fantastic,paris stuff theme brill course 
+1.5544975150342226e+18,2022-08-02 16:01:03+00:00,['1554497515034222595'],"So, finally, reality pricks his personal bubble of guff. Wonderful. https://t.co/hsBsIketlU",finally reality prick personal bubble guff wonderful,reality guff wonderful 
+1.5540752472336056e+18,2022-08-01 12:03:06+00:00,['1554075247233605632'],@kelly_ques 2001,,nan 
 1.5530151090560778e+18,2022-07-29 13:50:30+00:00,['1553015109056077824'],"Funniest thing I've seen in ages.
 
-https://t.co/bHIvYyfnic",funniest thing i've seen age
-1.5526524526539858e+18,2022-07-28 13:49:26+00:00,['1552652452653985795'],@Mistywoman1 FFS,ffs
-1.552646889811587e+18,2022-07-28 13:27:19+00:00,['1552646889811587074'],@DaveBaxley @SciRocker -&gt; @PedroStephano,
-1.551614005126566e+18,2022-07-25 17:03:01+00:00,['1551614005126565888'],"@xtaldave So, like Noel Edmunds, then. :-)",like noel edmunds
-1.5508888542191045e+18,2022-07-23 17:01:31+00:00,['1550888854219104258'],Sometimes it's just that kinda day. https://t.co/j9HidU98bj,sometimes kinda day
-1.549710724263551e+18,2022-07-20 11:00:03+00:00,['1549710724263550976'],"@DMcGconcal @Karenmca @superteadrinker Amazing. Yes, I do recognise these, especially the one in the Baillie's Reading Room. It has a massive scale to it that you only really appreciate when up close. Total blast from the past for me.",amazing yes recognise especially one baillie's reading room massive scale really appreciate close total blast past
-1.548044859008643e+18,2022-07-15 20:40:30+00:00,['1548044859008643072'],@MrJohnNicolson You expected better? :-),expected better
-1.548044146824188e+18,2022-07-15 20:37:40+00:00,['1548044146824187904'],This is appalling. FFS. https://t.co/ov1275di7O,appalling ffs
-1.5480243544741435e+18,2022-07-15 19:19:01+00:00,['1548024354474143744'],@VintiquesMark Quite.,quite
+https://t.co/bHIvYyfnic",funniest thing i've seen age,thing i age 
+1.5526524526539858e+18,2022-07-28 13:49:26+00:00,['1552652452653985795'],@Mistywoman1 FFS,ffs,
+1.552646889811587e+18,2022-07-28 13:27:19+00:00,['1552646889811587074'],@DaveBaxley @SciRocker -&gt; @PedroStephano,,nan 
+1.551614005126566e+18,2022-07-25 17:03:01+00:00,['1551614005126565888'],"@xtaldave So, like Noel Edmunds, then. :-)",like noel edmunds,
+1.5508888542191045e+18,2022-07-23 17:01:31+00:00,['1550888854219104258'],Sometimes it's just that kinda day. https://t.co/j9HidU98bj,sometimes kinda day,day 
+1.549710724263551e+18,2022-07-20 11:00:03+00:00,['1549710724263550976'],"@DMcGconcal @Karenmca @superteadrinker Amazing. Yes, I do recognise these, especially the one in the Baillie's Reading Room. It has a massive scale to it that you only really appreciate when up close. Total blast from the past for me.",amazing yes recognise especially one baillie's reading room massive scale really appreciate close total blast past,baillie reading room scale blast 
+1.548044859008643e+18,2022-07-15 20:40:30+00:00,['1548044859008643072'],@MrJohnNicolson You expected better? :-),expected better,
+1.548044146824188e+18,2022-07-15 20:37:40+00:00,['1548044146824187904'],This is appalling. FFS. https://t.co/ov1275di7O,appalling ffs,
+1.5480243544741435e+18,2022-07-15 19:19:01+00:00,['1548024354474143744'],@VintiquesMark Quite.,quite,
 1.548024005109502e+18,2022-07-15 19:17:38+00:00,['1548024005109501955'],"Is there no shame in politics these days?
 
-#rhetorical https://t.co/3KSSkjawAv",shame politics day
-1.5469848254536827e+18,2022-07-12 22:28:18+00:00,['1546984825453682689'],@causticbob I'd suggest some light jogging instead.,i'd suggest light jogging instead
-1.5460757760004465e+18,2022-07-10 10:16:04+00:00,['1546075776000446465'],@DaveBaxley @PopeAwesomeXIII Leia Organic? :-),leia organic
-1.5444131663519089e+18,2022-07-05 20:09:27+00:00,['1544413166351908867'],"@DaveBaxley Unlucky. However, you'll be glad of the extra image quality when you finally get things going.",unlucky however glad extra image quality finally get thing going
-1.5443918647527877e+18,2022-07-05 18:44:48+00:00,['1544391864752787457'],"Trouble is, there's another rotten lot ready to take over when this lot of skid marks leaves. https://t.co/uVPT61Zh9W",trouble there's another rotten lot ready take lot skid mark leaf
-1.544391260408103e+18,2022-07-05 18:42:24+00:00,['1544391260408102914'],Christ. https://t.co/tU1bic2o9J,christ
-1.544390938788774e+18,2022-07-05 18:41:07+00:00,['1544390938788773888'],Don't let the door hit you in the arse on your way out. https://t.co/mX7zInYJDr,let door hit arse way
-1.5443868340290232e+18,2022-07-05 18:24:49+00:00,['1544386834029023234'],@DaveBaxley Fantastic. My Dad had a similar model and used to bring it out so we could watch Fireball XL5 8mm show reels. Until we knackered the projector bulb one time whilst using it when we were alone! That was a trip to a camera shop to get a replacement before we were discovered!,fantastic dad similar model used bring could watch fireball show reel knackered projector bulb one time whilst using alone trip camera shop get replacement discovered
-1.5432760707780526e+18,2022-07-02 16:51:02+00:00,['1543276070778052609'],"Not sure I buy this, but it's a scary thought especially given the way the SCOTUS seems to be leaning these days. https://t.co/cc36Cqhf0u",sure buy scary thought especially given way scotus seems leaning day
-1.5411227252673413e+18,2022-06-26 18:14:25+00:00,['1541122725267341316'],@DaveBaxley @StobiesGalaxy LLAP Of The Gods,llap god
-1.536175132225454e+18,2022-06-13 02:34:26+00:00,['1536175132225454080'],@akkingon @DaveBaxley Looks like fireweed. Seeds somehow managed to find a perch on the side of that hill. Usually it's found in massive spreads.,look like fireweed seed somehow managed find perch side hill usually found massive spread
-1.5360816552654766e+18,2022-06-12 20:23:00+00:00,['1536081655265476611'],@gowronsbatleth @DaveBaxley That's superb.,that's superb
-1.5327779226159923e+18,2022-06-03 17:35:09+00:00,['1532777922615992320'],@DMcGconcal Wow. That's fantastic. This is what it's like when people speak before engaging grey matter (such as it is).,wow that's fantastic like people speak engaging grey matter
+#rhetorical https://t.co/3KSSkjawAv",shame politics day,day 
+1.5469848254536827e+18,2022-07-12 22:28:18+00:00,['1546984825453682689'],@causticbob I'd suggest some light jogging instead.,i'd suggest light jogging instead,i 
+1.5460757760004465e+18,2022-07-10 10:16:04+00:00,['1546075776000446465'],@DaveBaxley @PopeAwesomeXIII Leia Organic? :-),leia organic,leia organic 
+1.5444131663519089e+18,2022-07-05 20:09:27+00:00,['1544413166351908867'],"@DaveBaxley Unlucky. However, you'll be glad of the extra image quality when you finally get things going.",unlucky however glad extra image quality finally get thing going,image quality thing 
+1.5443918647527877e+18,2022-07-05 18:44:48+00:00,['1544391864752787457'],"Trouble is, there's another rotten lot ready to take over when this lot of skid marks leaves. https://t.co/uVPT61Zh9W",trouble there's another rotten lot ready take lot skid mark leaf,trouble rotten lot lot leaf 
+1.544391260408103e+18,2022-07-05 18:42:24+00:00,['1544391260408102914'],Christ. https://t.co/tU1bic2o9J,christ,christ 
+1.544390938788774e+18,2022-07-05 18:41:07+00:00,['1544390938788773888'],Don't let the door hit you in the arse on your way out. https://t.co/mX7zInYJDr,let door hit arse way,door way 
+1.5443868340290232e+18,2022-07-05 18:24:49+00:00,['1544386834029023234'],@DaveBaxley Fantastic. My Dad had a similar model and used to bring it out so we could watch Fireball XL5 8mm show reels. Until we knackered the projector bulb one time whilst using it when we were alone! That was a trip to a camera shop to get a replacement before we were discovered!,fantastic dad similar model used bring could watch fireball show reel knackered projector bulb one time whilst using alone trip camera shop get replacement discovered,dad model bring show reel projector time whilst trip camera shop replacement 
+1.5432760707780526e+18,2022-07-02 16:51:02+00:00,['1543276070778052609'],"Not sure I buy this, but it's a scary thought especially given the way the SCOTUS seems to be leaning these days. https://t.co/cc36Cqhf0u",sure buy scary thought especially given way scotus seems leaning day,thought way scotus day 
+1.5411227252673413e+18,2022-06-26 18:14:25+00:00,['1541122725267341316'],@DaveBaxley @StobiesGalaxy LLAP Of The Gods,llap god,llap god 
+1.536175132225454e+18,2022-06-13 02:34:26+00:00,['1536175132225454080'],@akkingon @DaveBaxley Looks like fireweed. Seeds somehow managed to find a perch on the side of that hill. Usually it's found in massive spreads.,look like fireweed seed somehow managed find perch side hill usually found massive spread,look fireweed seed side hill spread 
+1.5360816552654766e+18,2022-06-12 20:23:00+00:00,['1536081655265476611'],@gowronsbatleth @DaveBaxley That's superb.,that's superb,superb 
+1.5327779226159923e+18,2022-06-03 17:35:09+00:00,['1532777922615992320'],@DMcGconcal Wow. That's fantastic. This is what it's like when people speak before engaging grey matter (such as it is).,wow that's fantastic like people speak engaging grey matter,wow matter 
 1.5327685985231053e+18,2022-06-03 16:58:06+00:00,['1532768598523105287'],"Platinum #Jubilee - The Great #British distraction 
 
 https://t.co/LiLy6yyULM
 
-#PlatinumJubilee #Monarchy #BritishMonarchy #Britain #GreatBritain #UK  #Poverty #Class",platinum great distraction
+#PlatinumJubilee #Monarchy #BritishMonarchy #Britain #GreatBritain #UK  #Poverty #Class",platinum great distraction,platinum distraction 
 1.532310657055568e+18,2022-06-02 10:38:24+00:00,['1532310657055567872'],"#SexPistols - 'God Save The Queen'
 
 Still a cracking tune.
 
 https://t.co/8yTm5c13t0
 
-#Punk #PunkRock #Music #RockMusic #MusicHistory #RockHistory #Jubilee",'god save queen' still cracking tune
+#Punk #PunkRock #Music #RockMusic #MusicHistory #RockHistory #Jubilee",'god save queen' still cracking tune,queen tune 
 1.532307628537299e+18,2022-06-02 10:26:22+00:00,['1532307628537298945'],"Come on, America. You CAN do better than this, even if you keep your precious Second Amendment. Nobody is 'taking your guns away'. The proposal is simply to make it harder for unbalanced lunatics to get their hands on assault rifles.
 
-There's NO NEED FOR THIS TO CONTINUE. https://t.co/EoV8xypHR3",come america better even keep precious second amendment nobody 'taking gun away' proposal simply make harder unbalanced lunatic get hand assault rifle there's need continue
-1.5316249178962043e+18,2022-05-31 13:13:31+00:00,['1531624917896204289'],@DMcGconcal Isn't it also called a 'munter' or something like that? (brilliant word),also called 'munter' something like brilliant word
-1.5309402597851832e+18,2022-05-29 15:52:56+00:00,['1530940259785183232'],@Shortbloke @MrBoffly African or European?,african european
-1.529190403303428e+18,2022-05-24 19:59:37+00:00,['1529190403303428097'],@DaveBaxley Nice. Not heard that track before. I remember really liking 'Poor Leno' and 'Eple'. Great band. Always inventive and interesting.,nice heard track remember really liking 'poor leno' 'eple' great band always inventive interesting
-1.528420192660996e+18,2022-05-22 16:59:05+00:00,['1528420192660996100'],. Many thanks to Chris at @ToguAudioLine TAL Software for helping me out with a drum samples problem I was having yesterday. One e-mail to their support team and I was up and running straight away. Excellent customer support much appreciated.,many thanks chris tal software helping drum sample problem yesterday one email support team running straight away excellent customer support much appreciated
+There's NO NEED FOR THIS TO CONTINUE. https://t.co/EoV8xypHR3",come america better even keep precious second amendment nobody 'taking gun away' proposal simply make harder unbalanced lunatic get hand assault rifle there's need continue,come amendment nobody proposal harder get hand assault need continue 
+1.5316249178962043e+18,2022-05-31 13:13:31+00:00,['1531624917896204289'],@DMcGconcal Isn't it also called a 'munter' or something like that? (brilliant word),also called 'munter' something like brilliant word,something word 
+1.5309402597851832e+18,2022-05-29 15:52:56+00:00,['1530940259785183232'],@Shortbloke @MrBoffly African or European?,african european,
+1.529190403303428e+18,2022-05-24 19:59:37+00:00,['1529190403303428097'],@DaveBaxley Nice. Not heard that track before. I remember really liking 'Poor Leno' and 'Eple'. Great band. Always inventive and interesting.,nice heard track remember really liking 'poor leno' 'eple' great band always inventive interesting,remember band interesting 
+1.528420192660996e+18,2022-05-22 16:59:05+00:00,['1528420192660996100'],. Many thanks to Chris at @ToguAudioLine TAL Software for helping me out with a drum samples problem I was having yesterday. One e-mail to their support team and I was up and running straight away. Excellent customer support much appreciated.,many thanks chris tal software helping drum sample problem yesterday one email support team running straight away excellent customer support much appreciated,software sample problem yesterday email support team customer support 
 1.5276634568743813e+18,2022-05-20 14:52:05+00:00,['1527663456874381313'],"#Jazz #Bagpipes #FTW
 
 https://t.co/Hce2Q4Iya2
 
-#GunhildCarling #Swing",
-1.5265319108386652e+18,2022-05-17 11:55:43+00:00,['1526531910838665218'],@PedroStephano They certainly seem to have considerable contempt for Northern Ireland. And international law.,certainly seem considerable contempt northern ireland international law
-1.5261580266459505e+18,2022-05-16 11:10:02+00:00,['1526158026645950466'],@theurigeller Riiiiiiiiiiiight..........,riiiiiiiiiiiight
-1.526157616594002e+18,2022-05-16 11:08:25+00:00,['1526157616594001920'],LOL https://t.co/RGeGkcU9VJ,lol
+#GunhildCarling #Swing",,nan 
+1.5265319108386652e+18,2022-05-17 11:55:43+00:00,['1526531910838665218'],@PedroStephano They certainly seem to have considerable contempt for Northern Ireland. And international law.,certainly seem considerable contempt northern ireland international law,law 
+1.5261580266459505e+18,2022-05-16 11:10:02+00:00,['1526158026645950466'],@theurigeller Riiiiiiiiiiiight..........,riiiiiiiiiiiight,riiiiiiiiiiiight 
+1.526157616594002e+18,2022-05-16 11:08:25+00:00,['1526157616594001920'],LOL https://t.co/RGeGkcU9VJ,lol,lol 
 1.5256179131510743e+18,2022-05-14 23:23:49+00:00,['1525617913151074304'],"Well, if #Ukraine can't host next year...
 
-#Eurovision #Eurovision23 https://t.co/W8dxhQv1qB",well can't host next year
-1.5255631923610665e+18,2022-05-14 19:46:23+00:00,['1525563192361066497'],"Wait - he has an 'in' tray? That'll be for the Brexit opportunities pile, no doubt. https://t.co/Q9DA8PR85u",wait 'in' tray brexit opportunity pile doubt
-1.5245564094378353e+18,2022-05-12 01:05:47+00:00,['1524556409437835264'],@BrentSpiner @OfurAlex @UnvirtuousAbbey You're asking to be buttered up.,asking buttered
+#Eurovision #Eurovision23 https://t.co/W8dxhQv1qB",well can't host next year,year 
+1.5255631923610665e+18,2022-05-14 19:46:23+00:00,['1525563192361066497'],"Wait - he has an 'in' tray? That'll be for the Brexit opportunities pile, no doubt. https://t.co/Q9DA8PR85u",wait 'in' tray brexit opportunity pile doubt,wait tray brexit opportunity doubt 
+1.5245564094378353e+18,2022-05-12 01:05:47+00:00,['1524556409437835264'],@BrentSpiner @OfurAlex @UnvirtuousAbbey You're asking to be buttered up.,asking buttered,
 1.5236491446063636e+18,2022-05-09 13:00:38+00:00,['1523649144606363651'],"#Scottish #Politics be like...
 
 https://t.co/5nDtrU79pb
 
-#ScottishPolitics",like
-1.5208708293111194e+18,2022-05-01 21:00:36+00:00,['1520870829311119363'],Works for me. https://t.co/uphrBoxVWn,work
+#ScottishPolitics",like,
+1.5208708293111194e+18,2022-05-01 21:00:36+00:00,['1520870829311119363'],Works for me. https://t.co/uphrBoxVWn,work,work 
 1.5203837607972495e+18,2022-04-30 12:45:10+00:00,['1520383760797249537'],"The #ConservativeParty in 2022
 
 https://t.co/RmkNlI5xVg
 
-#Conservative #Conservatives #Tories #Partygate #PartygateFines",
-1.5203714293757215e+18,2022-04-30 11:56:10+00:00,['1520371429375721473'],@DMcGconcal @Karenmca Wait - that's the Batman theme!,wait that's batman theme
-1.5203528950524396e+18,2022-04-30 10:42:31+00:00,['1520352895052439552'],"@DMcGconcal @Karenmca Yup, bang on. Proper Scots word from the Germanic group and still in everyday use in Germany and parts of Holland with variant spellings.",yup bang proper scot word germanic group still everyday use germany part holland variant spelling
+#Conservative #Conservatives #Tories #Partygate #PartygateFines",,nan 
+1.5203714293757215e+18,2022-04-30 11:56:10+00:00,['1520371429375721473'],@DMcGconcal @Karenmca Wait - that's the Batman theme!,wait that's batman theme,wait theme 
+1.5203528950524396e+18,2022-04-30 10:42:31+00:00,['1520352895052439552'],"@DMcGconcal @Karenmca Yup, bang on. Proper Scots word from the Germanic group and still in everyday use in Germany and parts of Holland with variant spellings.",yup bang proper scot word germanic group still everyday use germany part holland variant spelling,yup bang scot word germanic group part holland variant 
 1.520108098215682e+18,2022-04-29 18:29:47+00:00,['1520108098215682048'],"#StarTrek : #StrangeNewWorlds (FIXED #INTRO) 
 
 https://t.co/i9LtP4oTJH
 
-#Trek #STSNW #StarTrekSNW #StarTrekStrangeNewWorlds #LOL",fixed
-1.5194596479875932e+18,2022-04-27 23:33:04+00:00,['1519459647987593219'],It’s alive! https://t.co/B0mfQDclPo,alive
-1.5164657762738094e+18,2022-04-19 17:16:30+00:00,['1516465776273809409'],@DaveBaxley Yup. Fantastic. This was the first 'prog' album where I could say I liked every track. Another was 'The Pentateuch Of The Cosmogony' by Dave Greenslade (keyboard player from Colosseum). Weird how these things stick with you.,yup fantastic first 'prog' album could say liked every track another 'the pentateuch cosmogony' dave greenslade keyboard player colosseum weird thing stick
-1.5150350875192402e+18,2022-04-15 18:31:27+00:00,['1515035087519240200'],@DMcGconcal @simonthoumire Thank you for the music.,thank music
-1.5150119463067566e+18,2022-04-15 16:59:30+00:00,['1515011946306756610'],"@CortesSteve ""Out of the door, line on the left, one cross each.""",door line left one cross
+#Trek #STSNW #StarTrekSNW #StarTrekStrangeNewWorlds #LOL",fixed,
+1.5194596479875932e+18,2022-04-27 23:33:04+00:00,['1519459647987593219'],It’s alive! https://t.co/B0mfQDclPo,alive,
+1.5164657762738094e+18,2022-04-19 17:16:30+00:00,['1516465776273809409'],@DaveBaxley Yup. Fantastic. This was the first 'prog' album where I could say I liked every track. Another was 'The Pentateuch Of The Cosmogony' by Dave Greenslade (keyboard player from Colosseum). Weird how these things stick with you.,yup fantastic first 'prog' album could say liked every track another 'the pentateuch cosmogony' dave greenslade keyboard player colosseum weird thing stick,album track cosmogony dave greenslade keyboard player colosseum thing stick 
+1.5150350875192402e+18,2022-04-15 18:31:27+00:00,['1515035087519240200'],@DMcGconcal @simonthoumire Thank you for the music.,thank music,thank music 
+1.5150119463067566e+18,2022-04-15 16:59:30+00:00,['1515011946306756610'],"@CortesSteve ""Out of the door, line on the left, one cross each.""",door line left one cross,door line cross 
 1.5149434820073718e+18,2022-04-15 12:27:27+00:00,['1514943482007371778'],"#OpenAI ’s New #AI Thinks That #Birds Aren’t Real! 
 
 https://t.co/7TbxqQZsFj 
 
-#ArtificialIntelligence #DeepLearning #Language #Philosophy #PhilosophyOfLanguage #InstructGPT #GPT #GPT3",new think arent real
+#ArtificialIntelligence #DeepLearning #Language #Philosophy #PhilosophyOfLanguage #InstructGPT #GPT #GPT3",new think arent real,
 1.514707281371607e+18,2022-04-14 20:48:52+00:00,['1514707281371607040'],"@DaveBaxley @GeorgeTakei Class. Also check out 'World Enough And Time' from Star Trek: New Voyages (S04E03) which features Sulu a lot. They also have some very good Chekov stories.
 
-https://t.co/tLuABLTVf0",class also check 'world enough time' star trek new voyage feature sulu lot also good chekov story
-1.5147052768337756e+18,2022-04-14 20:40:54+00:00,['1514705276833775622'],@DaveBaxley @ThatEricAlper 'Heavy Horses' by Jethro Tull. Plenty of flute throughout their music but that one is an absolute favourite.,'heavy horses' jethro tull plenty flute throughout music one absolute favourite
-1.5140117929843958e+18,2022-04-12 22:45:15+00:00,['1514011792984395780'],@DaveBaxley @filmmusicholt Loved it. Loads of unexpected twists. Marvel really know how to tell these stories.,loved load unexpected twist marvel really know tell story
-1.5118552879169782e+18,2022-04-06 23:56:04+00:00,['1511855287916978176'],@DaveBaxley Totally agree. I got to see him play live once in the 90s. Fantastic stuff. The whole ensemble touring with him was amazing.,totally agree got see play live fantastic stuff whole ensemble touring amazing
-1.510029413395706e+18,2022-04-01 23:00:41+00:00,['1510029413395705859'],"Yeah, funny, if it weren't so insulting to so many. https://t.co/m1Bod2xV5M",yeah funny insulting many
-1.5098619481539092e+18,2022-04-01 11:55:14+00:00,['1509861948153909264'],@chunkymark Class.,class
-1.509618607604609e+18,2022-03-31 19:48:18+00:00,['1509618607604609031'],@DaveBaxley @StobiesGalaxy Disc Cover Ease.,disc cover ease
+https://t.co/tLuABLTVf0",class also check 'world enough time' star trek new voyage feature sulu lot also good chekov story,class time star voyage feature sulu lot story 
+1.5147052768337756e+18,2022-04-14 20:40:54+00:00,['1514705276833775622'],@DaveBaxley @ThatEricAlper 'Heavy Horses' by Jethro Tull. Plenty of flute throughout their music but that one is an absolute favourite.,'heavy horses' jethro tull plenty flute throughout music one absolute favourite,jethro tull plenty flute music absolute favourite 
+1.5140117929843958e+18,2022-04-12 22:45:15+00:00,['1514011792984395780'],@DaveBaxley @filmmusicholt Loved it. Loads of unexpected twists. Marvel really know how to tell these stories.,loved load unexpected twist marvel really know tell story,load twist marvel tell story 
+1.5118552879169782e+18,2022-04-06 23:56:04+00:00,['1511855287916978176'],@DaveBaxley Totally agree. I got to see him play live once in the 90s. Fantastic stuff. The whole ensemble touring with him was amazing.,totally agree got see play live fantastic stuff whole ensemble touring amazing,play stuff amazing 
+1.510029413395706e+18,2022-04-01 23:00:41+00:00,['1510029413395705859'],"Yeah, funny, if it weren't so insulting to so many. https://t.co/m1Bod2xV5M",yeah funny insulting many,
+1.5098619481539092e+18,2022-04-01 11:55:14+00:00,['1509861948153909264'],@chunkymark Class.,class,class 
+1.509618607604609e+18,2022-03-31 19:48:18+00:00,['1509618607604609031'],@DaveBaxley @StobiesGalaxy Disc Cover Ease.,disc cover ease,disc cover ease 
 1.5088415270024233e+18,2022-03-29 16:20:27+00:00,['1508841527002423306'],"First person skooshemup.
 
-https://t.co/vkEutzPRVv",first person skooshemup
-1.5085838820687913e+18,2022-03-28 23:16:40+00:00,['1508583882068791303'],Bollocks. What a clown Peterson is now. https://t.co/co0SJKkDdT,bollock clown peterson
-1.5085012223487918e+18,2022-03-28 17:48:12+00:00,['1508501222348791821'],@DaveBaxley Absolutely brilliant. Loved that. Some damn fine playing too.,absolutely brilliant loved damn fine playing
+https://t.co/vkEutzPRVv",first person skooshemup,person skooshemup 
+1.5085838820687913e+18,2022-03-28 23:16:40+00:00,['1508583882068791303'],Bollocks. What a clown Peterson is now. https://t.co/co0SJKkDdT,bollock clown peterson,bollock clown peterson 
+1.5085012223487918e+18,2022-03-28 17:48:12+00:00,['1508501222348791821'],@DaveBaxley Absolutely brilliant. Loved that. Some damn fine playing too.,absolutely brilliant loved damn fine playing,playing 
 1.5074583822694031e+18,2022-03-25 20:44:20+00:00,['1507458382269403136'],"Totally. Flippin. Awesome.
 
 https://t.co/AtgAqCcSSE
 
-#StarTrek",totally flippin awesome
-1.504237918465966e+18,2022-03-16 23:27:21+00:00,['1504237918465966087'],"@DMcGconcal Potato, portato...",potato portato
-1.5012029401656074e+18,2022-03-08 14:27:26+00:00,['1501202940165607433'],Thread. https://t.co/aRT6RKoB8Y,thread
-1.4953685086701568e+18,2022-02-20 12:03:29+00:00,['1495368508670156803'],@PedroStephano Thanks! You're sounding like Bob...,thanks sounding like bob
-1.4947079300709786e+18,2022-02-18 16:18:35+00:00,['1494707930070978564'],@alexhern Just a tad.,tad
+#StarTrek",totally flippin awesome,awesome 
+1.504237918465966e+18,2022-03-16 23:27:21+00:00,['1504237918465966087'],"@DMcGconcal Potato, portato...",potato portato,potato portato 
+1.5012029401656074e+18,2022-03-08 14:27:26+00:00,['1501202940165607433'],Thread. https://t.co/aRT6RKoB8Y,thread,thread 
+1.4953685086701568e+18,2022-02-20 12:03:29+00:00,['1495368508670156803'],@PedroStephano Thanks! You're sounding like Bob...,thanks sounding like bob,bob 
+1.4947079300709786e+18,2022-02-18 16:18:35+00:00,['1494707930070978564'],@alexhern Just a tad.,tad,tad 
 1.494587699013038e+18,2022-02-18 08:20:50+00:00,['1494587699013038088'],"Today's #weather will mostly be...
 
 https://t.co/PDTyOqDqDM
 
-#SNOW",today's mostly
-1.4932621924556964e+18,2022-02-14 16:33:44+00:00,['1493262192455696384'],@DMcGconcal Looks great. And here's me sitting here learning CUDA programming.,look great here's sitting learning cuda programming
-1.4908470674926797e+18,2022-02-08 00:36:54+00:00,['1490847067492679681'],@RoryStewartUK This is assumably a rhetorical question.,assumably rhetorical question
-1.4906437623930143e+18,2022-02-07 11:09:02+00:00,['1490643762393014273'],@DMcGconcal Every crisis is an opportunity to get organised :-),every crisis opportunity get organised
-1.4906427122232607e+18,2022-02-07 11:04:52+00:00,['1490642712223260678'],@DMcGconcal Do you have this data backed up elsewhere in addition to the OneDrive service?,data backed elsewhere addition onedrive service
-1.4893861895557489e+18,2022-02-03 23:51:53+00:00,['1489386189555748866'],He's decided to puss off. https://t.co/8Ix5sWZFHk,he's decided pus
+#SNOW",today's mostly,today 
+1.4932621924556964e+18,2022-02-14 16:33:44+00:00,['1493262192455696384'],@DMcGconcal Looks great. And here's me sitting here learning CUDA programming.,look great here's sitting learning cuda programming,look cuda programming 
+1.4908470674926797e+18,2022-02-08 00:36:54+00:00,['1490847067492679681'],@RoryStewartUK This is assumably a rhetorical question.,assumably rhetorical question,question 
+1.4906437623930143e+18,2022-02-07 11:09:02+00:00,['1490643762393014273'],@DMcGconcal Every crisis is an opportunity to get organised :-),every crisis opportunity get organised,crisis opportunity 
+1.4906427122232607e+18,2022-02-07 11:04:52+00:00,['1490642712223260678'],@DMcGconcal Do you have this data backed up elsewhere in addition to the OneDrive service?,data backed elsewhere addition onedrive service,addition service 
+1.4893861895557489e+18,2022-02-03 23:51:53+00:00,['1489386189555748866'],He's decided to puss off. https://t.co/8Ix5sWZFHk,he's decided pus,pus 
 1.4886423170074296e+18,2022-02-01 22:36:00+00:00,['1488642317007429635'],"#America, you are literally circling the drain now. It will be too late to save your country just a few years from now. Come on!
 
 https://t.co/H3FO9sLNGW
 
-#FreedomOfSpeech #CancelCulture #US #USA #UnitedStates #1stAmendment #FirstAmendment",literally circling drain late save country year come
-1.4881695322126295e+18,2022-01-31 15:17:19+00:00,['1488169532212629504'],Well now. There's a surprise &lt;cough&gt; https://t.co/YtEznUcJss,well there's surprise ltcoughgt
-1.4863704889726812e+18,2022-01-26 16:08:34+00:00,['1486370488972681217'],Sugar really is a bit pathetic here. https://t.co/GKQEccq21F,sugar really bit pathetic
-1.48631486709513e+18,2022-01-26 12:27:33+00:00,['1486314867095130112'],'Liar'/'Lawyer'. It's a fine line. https://t.co/okvBrMR7UE,'liar''lawyer' fine line
+#FreedomOfSpeech #CancelCulture #US #USA #UnitedStates #1stAmendment #FirstAmendment",literally circling drain late save country year come,drain save country year 
+1.4881695322126295e+18,2022-01-31 15:17:19+00:00,['1488169532212629504'],Well now. There's a surprise &lt;cough&gt; https://t.co/YtEznUcJss,well there's surprise ltcoughgt,surprise ltcoughgt 
+1.4863704889726812e+18,2022-01-26 16:08:34+00:00,['1486370488972681217'],Sugar really is a bit pathetic here. https://t.co/GKQEccq21F,sugar really bit pathetic,sugar 
+1.48631486709513e+18,2022-01-26 12:27:33+00:00,['1486314867095130112'],'Liar'/'Lawyer'. It's a fine line. https://t.co/okvBrMR7UE,'liar''lawyer' fine line,lawyer line 
 1.4862584431870648e+18,2022-01-26 08:43:20+00:00,['1486258443187064838'],"Hope everyone had a good #BurnsNight 
 
 Just one last turn until next year...
 
 https://t.co/jJbRt2nJRd
 
-#MichaelMarra #Burns #RabbieBurns #RobertBurns",hope everyone good one last turn next year
-1.486106985099833e+18,2022-01-25 22:41:30+00:00,['1486106985099833344'],#BrexShit https://t.co/XR2R1fRUFZ,
-1.486104558166319e+18,2022-01-25 22:31:51+00:00,['1486104558166319115'],@ByLeavesWeLive @vmcnulty67 @janetteayachi @morag_caimbeul @SusiBriggs1 Tremendous. Loved that.,tremendous loved
-1.486043544779473e+18,2022-01-25 18:29:25+00:00,['1486043544779472901'],@elonmusk @McDonalds Be careful what you wish for.,careful wish
-1.486007302704583e+18,2022-01-25 16:05:24+00:00,['1486007302704582660'],"@fire_scot ""Weel done cutty spark!"" ye micht say :-)",weel done cutty spark micht say
-1.485613432233726e+18,2022-01-24 14:00:18+00:00,['1485613432233725966'],@ByLeavesWeLive @morag_caimbeul Beautifully done. Very powerful.,beautifully done powerful
-1.4855799739142062e+18,2022-01-24 11:47:21+00:00,['1485579973914206210'],@Charles30181053 @NewWaveAndPunk Class.,class
-1.4852421146320325e+18,2022-01-23 13:24:49+00:00,['1485242114632032262'],@HAL9000_ Do they have array of hope?,array hope
-1.485241753624007e+18,2022-01-23 13:23:23+00:00,['1485241753624006661'],Yass. https://t.co/f3Fi7xvaLS,yass
-1.4824598414949868e+18,2022-01-15 21:09:03+00:00,['1482459841494986764'],@NicolaDay78 I completely sympathise.,completely sympathise
-1.482094096021926e+18,2022-01-14 20:55:43+00:00,['1482094096021925888'],Shared blood? Riiiiiiiiiiiiiiiiiiight... https://t.co/m8B3kTdLNw,shared blood riiiiiiiiiiiiiiiiiiight
-1.482067169223623e+18,2022-01-14 19:08:43+00:00,['1482067169223622662'],@BBCLauraKT @BorisJohnson_MP Was that a typo?,typo
-1.4820657387394662e+18,2022-01-14 19:03:02+00:00,['1482065738739466250'],"All well and good, but the #Republicans will oppose all rational public proposals because #YABOOSUCKS https://t.co/Z9VNXKcRZI",well good oppose rational public proposal
-1.4820080875192443e+18,2022-01-14 15:13:57+00:00,['1482008087519244294'],@_TheGeoff No flu jag mixer?,flu jag mixer
+#MichaelMarra #Burns #RabbieBurns #RobertBurns",hope everyone good one last turn next year,hope everyone turn year 
+1.486106985099833e+18,2022-01-25 22:41:30+00:00,['1486106985099833344'],#BrexShit https://t.co/XR2R1fRUFZ,,nan 
+1.486104558166319e+18,2022-01-25 22:31:51+00:00,['1486104558166319115'],@ByLeavesWeLive @vmcnulty67 @janetteayachi @morag_caimbeul @SusiBriggs1 Tremendous. Loved that.,tremendous loved,
+1.486043544779473e+18,2022-01-25 18:29:25+00:00,['1486043544779472901'],@elonmusk @McDonalds Be careful what you wish for.,careful wish,wish 
+1.486007302704583e+18,2022-01-25 16:05:24+00:00,['1486007302704582660'],"@fire_scot ""Weel done cutty spark!"" ye micht say :-)",weel done cutty spark micht say,weel spark 
+1.485613432233726e+18,2022-01-24 14:00:18+00:00,['1485613432233725966'],@ByLeavesWeLive @morag_caimbeul Beautifully done. Very powerful.,beautifully done powerful,
+1.4855799739142062e+18,2022-01-24 11:47:21+00:00,['1485579973914206210'],@Charles30181053 @NewWaveAndPunk Class.,class,class 
+1.4852421146320325e+18,2022-01-23 13:24:49+00:00,['1485242114632032262'],@HAL9000_ Do they have array of hope?,array hope,array hope 
+1.485241753624007e+18,2022-01-23 13:23:23+00:00,['1485241753624006661'],Yass. https://t.co/f3Fi7xvaLS,yass,yass 
+1.4824598414949868e+18,2022-01-15 21:09:03+00:00,['1482459841494986764'],@NicolaDay78 I completely sympathise.,completely sympathise,sympathise 
+1.482094096021926e+18,2022-01-14 20:55:43+00:00,['1482094096021925888'],Shared blood? Riiiiiiiiiiiiiiiiiiight... https://t.co/m8B3kTdLNw,shared blood riiiiiiiiiiiiiiiiiiight,blood riiiiiiiiiiiiiiiiiiight 
+1.482067169223623e+18,2022-01-14 19:08:43+00:00,['1482067169223622662'],@BBCLauraKT @BorisJohnson_MP Was that a typo?,typo,typo 
+1.4820657387394662e+18,2022-01-14 19:03:02+00:00,['1482065738739466250'],"All well and good, but the #Republicans will oppose all rational public proposals because #YABOOSUCKS https://t.co/Z9VNXKcRZI",well good oppose rational public proposal,proposal 
+1.4820080875192443e+18,2022-01-14 15:13:57+00:00,['1482008087519244294'],@_TheGeoff No flu jag mixer?,flu jag mixer,flu jag mixer 
 1.4817899462854124e+18,2022-01-14 00:47:08+00:00,['1481789946285412360'],"Yup. What he said.
 
-https://t.co/Limj7YtIoW",yup said
+https://t.co/Limj7YtIoW",yup said,yup 
 1.481377412223062e+18,2022-01-12 21:27:52+00:00,['1481377412223062020'],"How To #Simulate The #Universe With #DFT
 
 https://t.co/so60c2uvsR
 
-#PBS #SpaceTime #PBSSpaceTime #Physics #Science #Cosmology #Computing #Math #Maths #Mathematics #DFT #Simulation",
+#PBS #SpaceTime #PBSSpaceTime #Physics #Science #Cosmology #Computing #Math #Maths #Mathematics #DFT #Simulation",,nan 
 1.4799965074410578e+18,2022-01-09 02:00:39+00:00,['1479996507441057793'],"""Hang on a minute, lads. I've got a great idea.""
 
-https://t.co/TT3JefhKrT",hang minute lad i've got great idea
-1.479849837260587e+18,2022-01-08 16:17:50+00:00,['1479849837260587010'],@fenarinarsa Warhawk and Uridium were my favourites. Two really good games as well.,warhawk uridium favourite two really good game well
-1.479476512013357e+18,2022-01-07 15:34:22+00:00,['1479476512013357060'],Major milestone. Deployment of the main mirror block has to be precise or the secondary segments may not lock into place correctly. Fantastic engineering skills on display here. https://t.co/nwOQjRfy4U,major milestone deployment main mirror block precise secondary segment may lock place correctly fantastic engineering skill display
-1.4794217391427215e+18,2022-01-07 11:56:43+00:00,['1479421739142721537'],@DMcGconcal @simonthoumire That's superb! Great tune. Especially loved those bins.,that's superb great tune especially loved bin
-1.479216186327978e+18,2022-01-06 22:19:55+00:00,['1479216186327977984'],@_TheGeoff Interesting. That gives new meaning to 'bang for your buck'.,interesting give new meaning 'bang buck'
-1.4791843559352812e+18,2022-01-06 20:13:27+00:00,['1479184355935281153'],Just for a second I thought this was Ant &amp; Dec. https://t.co/jwKnIAqv97,second thought ant amp dec
-1.479151705099051e+18,2022-01-06 18:03:42+00:00,['1479151705099051012'],@garybrannan Whoah! I'd have plumped for the Archers theme tune but that's inspired.,whoah i'd plumped archer theme tune that's inspired
+https://t.co/TT3JefhKrT",hang minute lad i've got great idea,hang minute lad i idea 
+1.479849837260587e+18,2022-01-08 16:17:50+00:00,['1479849837260587010'],@fenarinarsa Warhawk and Uridium were my favourites. Two really good games as well.,warhawk uridium favourite two really good game well,favourite game 
+1.479476512013357e+18,2022-01-07 15:34:22+00:00,['1479476512013357060'],Major milestone. Deployment of the main mirror block has to be precise or the secondary segments may not lock into place correctly. Fantastic engineering skills on display here. https://t.co/nwOQjRfy4U,major milestone deployment main mirror block precise secondary segment may lock place correctly fantastic engineering skill display,milestone deployment mirror block segment place engineering skill display 
+1.4794217391427215e+18,2022-01-07 11:56:43+00:00,['1479421739142721537'],@DMcGconcal @simonthoumire That's superb! Great tune. Especially loved those bins.,that's superb great tune especially loved bin,tune 
+1.479216186327978e+18,2022-01-06 22:19:55+00:00,['1479216186327977984'],@_TheGeoff Interesting. That gives new meaning to 'bang for your buck'.,interesting give new meaning 'bang buck',meaning buck 
+1.4791843559352812e+18,2022-01-06 20:13:27+00:00,['1479184355935281153'],Just for a second I thought this was Ant &amp; Dec. https://t.co/jwKnIAqv97,second thought ant amp dec,amp dec 
+1.479151705099051e+18,2022-01-06 18:03:42+00:00,['1479151705099051012'],@garybrannan Whoah! I'd have plumped for the Archers theme tune but that's inspired.,whoah i'd plumped archer theme tune that's inspired,whoah i tune 
 1.4791302008814346e+18,2022-01-06 16:38:15+00:00,['1479130200881434627'],"@JohnMcKissock Reminds me...
 
-https://t.co/PibzH3zH2Z",reminds
-1.4781731030375995e+18,2022-01-04 01:15:05+00:00,['1478173103037599752'],@WorkPsychol @SkyNews Thanks! And the same to you.,thanks
-1.4781536039489864e+18,2022-01-03 23:57:36+00:00,['1478153603948986369'],"@WorkPsychol @SkyNews ""Guilty, m'lud!""",guilty m'lud
-1.478083787976282e+18,2022-01-03 19:20:11+00:00,['1478083787976282117'],@HAL9000_ I've seen this before. It's a recurring problem.,i've seen recurring problem
-1.477632133720154e+18,2022-01-02 13:25:28+00:00,['1477632133720154123'],Any #Linux techs out there have a release date for #LinuxMint v20.3? I need it for a thing and I can't use the Beta version.,tech release date need thing can't use beta version
+https://t.co/PibzH3zH2Z",reminds,
+1.4781731030375995e+18,2022-01-04 01:15:05+00:00,['1478173103037599752'],@WorkPsychol @SkyNews Thanks! And the same to you.,thanks,
+1.4781536039489864e+18,2022-01-03 23:57:36+00:00,['1478153603948986369'],"@WorkPsychol @SkyNews ""Guilty, m'lud!""",guilty m'lud,m'lud 
+1.478083787976282e+18,2022-01-03 19:20:11+00:00,['1478083787976282117'],@HAL9000_ I've seen this before. It's a recurring problem.,i've seen recurring problem,i problem 
+1.477632133720154e+18,2022-01-02 13:25:28+00:00,['1477632133720154123'],Any #Linux techs out there have a release date for #LinuxMint v20.3? I need it for a thing and I can't use the Beta version.,tech release date need thing can't use beta version,tech release date thing version 
 1.4773731692248883e+18,2022-01-01 20:16:26+00:00,['1477373169224888325'],"Xmas is a hard time of year for some. 
 
 The free Samaritan's suicide hotline is 116 123 
 
 You could save someone's life just with a simple copy and paste.
 
-Would 3 Twitter friends please copy this text and post under their own name?",xmas hard time year free samaritan's suicide hotline could save someone's life simple copy paste would twitter friend please copy text post name
-1.4770670623841567e+18,2022-01-01 00:00:04+00:00,['1477067062384156679'],"Happy New Year, #tweeple !",happy new year
+Would 3 Twitter friends please copy this text and post under their own name?",xmas hard time year free samaritan's suicide hotline could save someone's life simple copy paste would twitter friend please copy text post name,time year samaritan hotline someone life copy paste friend please copy text post name 
+1.4770670623841567e+18,2022-01-01 00:00:04+00:00,['1477067062384156679'],"Happy New Year, #tweeple !",happy new year,year 
 1.4769279048523694e+18,2021-12-31 14:47:07+00:00,['1476927904852369411'],"@JoxVox At least you have space to shift gears and take asterisks. :-)
 
-I'll get my coat.",least space shift gear take asterisk i'll get coat
-1.47692649289864e+18,2021-12-31 14:41:30+00:00,['1476926492898639878'],@JoxVox It's a form of escape and return.,form escape return
-1.476923275271938e+18,2021-12-31 14:28:43+00:00,['1476923275271938049'],"Right, well, I suppose I'd better get this keyboard cleaned.",right well suppose i'd better get keyboard cleaned
-1.4765967001522258e+18,2021-12-30 16:51:01+00:00,['1476596700152225804'],@JoyceCarolOates In a world where everyone loves playing the blame game there's always plenty of blame to go round. But sometimes that blame is worthy of note and should be spoken out loud. The current administration is weak. Harris has done almost nothing and Biden is fiddling while Rome burns.,world everyone love playing blame game there's always plenty blame round sometimes blame worthy note spoken loud current administration weak harris done almost nothing biden fiddling rome burn
-1.4765114139086848e+18,2021-12-30 11:12:07+00:00,['1476511413908684803'],"""Don't tell him, Pike!"" https://t.co/Kv1wsfuFo5",tell pike
-1.4762491193794068e+18,2021-12-29 17:49:52+00:00,['1476249119379406849'],@StephenSerjeant Absolutely shocking. And not just based on flawed science either - it's utter nonsense. The debate as to whether mRNA can alter your DNA is long dead.,absolutely shocking based flawed science either utter nonsense debate whether mrna alter dna long dead
-1.4748170566044017e+18,2021-12-25 18:59:21+00:00,['1474817056604401678'],Wait... Batman smells?,wait batman smell
-1.4745517924406843e+18,2021-12-25 01:25:17+00:00,['1474551792440684548'],"#MerryChristmas, tweeple!",tweeple
+I'll get my coat.",least space shift gear take asterisk i'll get coat,space shift asterisk i coat 
+1.47692649289864e+18,2021-12-31 14:41:30+00:00,['1476926492898639878'],@JoxVox It's a form of escape and return.,form escape return,form escape return 
+1.476923275271938e+18,2021-12-31 14:28:43+00:00,['1476923275271938049'],"Right, well, I suppose I'd better get this keyboard cleaned.",right well suppose i'd better get keyboard cleaned,i keyboard 
+1.4765967001522258e+18,2021-12-30 16:51:01+00:00,['1476596700152225804'],@JoyceCarolOates In a world where everyone loves playing the blame game there's always plenty of blame to go round. But sometimes that blame is worthy of note and should be spoken out loud. The current administration is weak. Harris has done almost nothing and Biden is fiddling while Rome burns.,world everyone love playing blame game there's always plenty blame round sometimes blame worthy note spoken loud current administration weak harris done almost nothing biden fiddling rome burn,world everyone game blame round note administration harris nothing fiddling rome burn 
+1.4765114139086848e+18,2021-12-30 11:12:07+00:00,['1476511413908684803'],"""Don't tell him, Pike!"" https://t.co/Kv1wsfuFo5",tell pike,tell pike 
+1.4762491193794068e+18,2021-12-29 17:49:52+00:00,['1476249119379406849'],@StephenSerjeant Absolutely shocking. And not just based on flawed science either - it's utter nonsense. The debate as to whether mRNA can alter your DNA is long dead.,absolutely shocking based flawed science either utter nonsense debate whether mrna alter dna long dead,science nonsense debate mrna alter dna 
+1.4748170566044017e+18,2021-12-25 18:59:21+00:00,['1474817056604401678'],Wait... Batman smells?,wait batman smell,wait batman smell 
+1.4745517924406843e+18,2021-12-25 01:25:17+00:00,['1474551792440684548'],"#MerryChristmas, tweeple!",tweeple,tweeple 
 1.474535687932326e+18,2021-12-25 00:21:18+00:00,['1474535687932325895'],"I survived #Whamageddon
 
-There were a few close calls, though, mostly due to forgetting to check playlists before starting!",survived close call though mostly due forgetting check playlist starting
-1.4744234716104745e+18,2021-12-24 16:55:23+00:00,['1474423471610474505'],@DMcGconcal Epic. Really gives your speakers a workout.,epic really give speaker workout
-1.474412190706946e+18,2021-12-24 16:10:34+00:00,['1474412190706946051'],@DMcGconcal Their In Dulci Jubilo is really great. You don't normally think of it as a canon as we're all used to Oldfield's version!,dulci jubilo really great normally think canon we're used oldfield's version
-1.4741782878283735e+18,2021-12-24 00:41:07+00:00,['1474178287828373505'],"Rather annoying, this. And a bit predictable. https://t.co/AoMjTLk6WI",rather annoying bit predictable
-1.4741294865264886e+18,2021-12-23 21:27:12+00:00,['1474129486526488582'],What a dick. https://t.co/ptq3qS9hdt,dick
-1.4741292251207311e+18,2021-12-23 21:26:09+00:00,['1474129225120731139'],@stemac26 @DMcGconcal Same area as we were talking about - near the Mitchell.,area talking near mitchell
-1.4741253960776458e+18,2021-12-23 21:10:57+00:00,['1474125396077645824'],@stemac26 @DMcGconcal No. 79 Berkeley Street. Still there today.,berkeley street still today
-1.4741100417625088e+18,2021-12-23 20:09:56+00:00,['1474110041762508807'],"@stemac26 I'd often be using the Mitchell Library with @DMcGconcal especially the record collection which let you borrow. Also around Berkeley Street to buy sheet music and (later on) to pick up computer parts and have repairs done in Premier Computers. Also, great area for Indian food!",i'd often using mitchell library especially record collection let borrow also around berkeley street buy sheet music later pick computer part repair done premier computer also great area indian food
-1.4740899689307996e+18,2021-12-23 18:50:10+00:00,['1474089968930799617'],@StephenSerjeant @YouTube Classic.,classic
-1.4740790166635848e+18,2021-12-23 18:06:39+00:00,['1474079016663584774'],Great shot. So many memories of hanging around that area when I was a kid. https://t.co/AEUIbTyhPe,great shot many memory hanging around area kid
+There were a few close calls, though, mostly due to forgetting to check playlists before starting!",survived close call though mostly due forgetting check playlist starting,check playlist 
+1.4744234716104745e+18,2021-12-24 16:55:23+00:00,['1474423471610474505'],@DMcGconcal Epic. Really gives your speakers a workout.,epic really give speaker workout,speaker workout 
+1.474412190706946e+18,2021-12-24 16:10:34+00:00,['1474412190706946051'],@DMcGconcal Their In Dulci Jubilo is really great. You don't normally think of it as a canon as we're all used to Oldfield's version!,dulci jubilo really great normally think canon we're used oldfield's version,dulci jubilo canon oldfield version 
+1.4741782878283735e+18,2021-12-24 00:41:07+00:00,['1474178287828373505'],"Rather annoying, this. And a bit predictable. https://t.co/AoMjTLk6WI",rather annoying bit predictable,bit 
+1.4741294865264886e+18,2021-12-23 21:27:12+00:00,['1474129486526488582'],What a dick. https://t.co/ptq3qS9hdt,dick,dick 
+1.4741292251207311e+18,2021-12-23 21:26:09+00:00,['1474129225120731139'],@stemac26 @DMcGconcal Same area as we were talking about - near the Mitchell.,area talking near mitchell,area mitchell 
+1.4741253960776458e+18,2021-12-23 21:10:57+00:00,['1474125396077645824'],@stemac26 @DMcGconcal No. 79 Berkeley Street. Still there today.,berkeley street still today,berkeley street today 
+1.4741100417625088e+18,2021-12-23 20:09:56+00:00,['1474110041762508807'],"@stemac26 I'd often be using the Mitchell Library with @DMcGconcal especially the record collection which let you borrow. Also around Berkeley Street to buy sheet music and (later on) to pick up computer parts and have repairs done in Premier Computers. Also, great area for Indian food!",i'd often using mitchell library especially record collection let borrow also around berkeley street buy sheet music later pick computer part repair done premier computer also great area indian food,i collection let street sheet music computer part repair premier computer area food 
+1.4740899689307996e+18,2021-12-23 18:50:10+00:00,['1474089968930799617'],@StephenSerjeant @YouTube Classic.,classic,
+1.4740790166635848e+18,2021-12-23 18:06:39+00:00,['1474079016663584774'],Great shot. So many memories of hanging around that area when I was a kid. https://t.co/AEUIbTyhPe,great shot many memory hanging around area kid,memory area kid 
 1.473808314467242e+18,2021-12-23 00:10:58+00:00,['1473808314467241985'],"The Kirkcudbright Stuff
 
-#ScotsFilmsAndSongs",kirkcudbright stuff
+#ScotsFilmsAndSongs",kirkcudbright stuff,kirkcudbright stuff 
 1.473808105549009e+18,2021-12-23 00:10:09+00:00,['1473808105549008905'],"Killie Queen
 
-#ScotsFilmsAndSongs",killie queen
+#ScotsFilmsAndSongs",killie queen,queen 
 1.4738079281803182e+18,2021-12-23 00:09:26+00:00,['1473807928180318217'],"Journey To The Centre Of Perth
 
-#ScotsFilmsAndSongs",journey centre perth
+#ScotsFilmsAndSongs",journey centre perth,journey centre perth 
 1.473807755106562e+18,2021-12-23 00:08:45+00:00,['1473807755106562053'],"Boris Johnson's Still A Buttery
 
-#ScotsFilmsAndSongs",boris johnson's still buttery
+#ScotsFilmsAndSongs",boris johnson's still buttery,boris johnson buttery 
 1.4738074267303158e+18,2021-12-23 00:07:27+00:00,['1473807426730315778'],"There Ain't Half Been Some Clever Farquhars
 
-#ScotsFilmsAndSongs",ain't half clever farquhars
-1.4730901318255124e+18,2021-12-21 00:37:10+00:00,['1473090131825512454'],"@igor_os777 Hopefully prices will come down. I'm thinking of getting a second screen for work, myself.",hopefully price come i'm thinking getting second screen work
-1.471923521152508e+18,2021-12-17 19:21:29+00:00,['1471923521152507911'],"Don't let your guard down, folks. This is still serious. https://t.co/p9p2kyslPJ",let guard folk still serious
-1.4719215440541164e+18,2021-12-17 19:13:37+00:00,['1471921544054116354'],Fantastic shot. Even better when you've been there and have a feel for the age and solidity of the place. https://t.co/ckjvCYSIyK,fantastic shot even better feel age solidity place
+#ScotsFilmsAndSongs",ain't half clever farquhars,
+1.4730901318255124e+18,2021-12-21 00:37:10+00:00,['1473090131825512454'],"@igor_os777 Hopefully prices will come down. I'm thinking of getting a second screen for work, myself.",hopefully price come i'm thinking getting second screen work,price come i screen work 
+1.471923521152508e+18,2021-12-17 19:21:29+00:00,['1471923521152507911'],"Don't let your guard down, folks. This is still serious. https://t.co/p9p2kyslPJ",let guard folk still serious,guard folk 
+1.4719215440541164e+18,2021-12-17 19:13:37+00:00,['1471921544054116354'],Fantastic shot. Even better when you've been there and have a feel for the age and solidity of the place. https://t.co/ckjvCYSIyK,fantastic shot even better feel age solidity place,shot age solidity place 
 1.471893119469818e+18,2021-12-17 17:20:40+00:00,['1471893119469817870'],"See how many windaes you can smash, ya prick.
 
-https://t.co/UR6gvm0edf",see many windaes smash prick
-1.471848178417021e+18,2021-12-17 14:22:06+00:00,['1471848178417020928'],People that are incapable of typing their own delivery address correctly for #eBay. AAARRRGGGHHH!,people incapable typing delivery address correctly aaarrrggghhh
+https://t.co/UR6gvm0edf",see many windaes smash prick,prick 
+1.471848178417021e+18,2021-12-17 14:22:06+00:00,['1471848178417020928'],People that are incapable of typing their own delivery address correctly for #eBay. AAARRRGGGHHH!,people incapable typing delivery address correctly aaarrrggghhh,delivery address 
 1.471497036792955e+18,2021-12-16 15:06:47+00:00,['1471497036792954885'],"And they've run out of gin.
 
-https://t.co/esypp37kDL",they've run gin
-1.471457646192513e+18,2021-12-16 12:30:15+00:00,['1471457646192513035'],@HAL9000_ Be careful you don't get a slipped disk.,careful get slipped disk
-1.471131525836157e+18,2021-12-15 14:54:22+00:00,['1471131525836156939'],@lisamee_ @deldridgewriter @karenhenthorna1 @Conservatives Wonderful. And read with such feeling. Thanks for sharing.,wonderful read feeling thanks sharing
-1.470861530707247e+18,2021-12-14 21:01:30+00:00,['1470861530707247108'],@xtaldave I also likes 'Cheeses Of Nazareth'.,also like 'cheeses nazareth'
-1.469440539959472e+18,2021-12-10 22:55:00+00:00,['1469440539959472128'],@gabundy And not too big otherwise they won't fit on counters.,big otherwise fit counter
+https://t.co/esypp37kDL",they've run gin,gin 
+1.471457646192513e+18,2021-12-16 12:30:15+00:00,['1471457646192513035'],@HAL9000_ Be careful you don't get a slipped disk.,careful get slipped disk,get disk 
+1.471131525836157e+18,2021-12-15 14:54:22+00:00,['1471131525836156939'],@lisamee_ @deldridgewriter @karenhenthorna1 @Conservatives Wonderful. And read with such feeling. Thanks for sharing.,wonderful read feeling thanks sharing,
+1.470861530707247e+18,2021-12-14 21:01:30+00:00,['1470861530707247108'],@xtaldave I also likes 'Cheeses Of Nazareth'.,also like 'cheeses nazareth',
+1.469440539959472e+18,2021-12-10 22:55:00+00:00,['1469440539959472128'],@gabundy And not too big otherwise they won't fit on counters.,big otherwise fit counter,counter 
 1.469372911454675e+18,2021-12-10 18:26:16+00:00,['1469372911454674948'],"#RIP former #Monkee Michael Nesmith who wrote one of my absolute all time favourite Songs, 'Rio' and was responsible - perhaps - for the very first music video...
 
 https://t.co/AfR1nYBjw9
 
-#MikeNesmith #TheMonkees",former michael nesmith wrote one absolute time favourite song 'rio' responsible perhaps first music video
-1.4690311660827935e+18,2021-12-09 19:48:17+00:00,['1469031166082793475'],@ProfChalmers Class. Officer thinking.,class officer thinking
-1.4690304225375068e+18,2021-12-09 19:45:20+00:00,['1469030422537506818'],"@nixcraft Have to say I'm not a particular fan of either of those editors, but I'm happy to use whatever's installed as I'm frequently called upon to dive into other people's machines and see what's what. Emacs (and its many variants) was de rigueur in my uni lab back in the day.",say i'm particular fan either editor i'm happy use whatever's installed i'm frequently called upon dive people's machine see what's emacs many variant rigueur uni lab back day
+#MikeNesmith #TheMonkees",former michael nesmith wrote one absolute time favourite song 'rio' responsible perhaps first music video,michael nesmith absolute time favourite song music video 
+1.4690311660827935e+18,2021-12-09 19:48:17+00:00,['1469031166082793475'],@ProfChalmers Class. Officer thinking.,class officer thinking,class officer 
+1.4690304225375068e+18,2021-12-09 19:45:20+00:00,['1469030422537506818'],"@nixcraft Have to say I'm not a particular fan of either of those editors, but I'm happy to use whatever's installed as I'm frequently called upon to dive into other people's machines and see what's what. Emacs (and its many variants) was de rigueur in my uni lab back in the day.",say i'm particular fan either editor i'm happy use whatever's installed i'm frequently called upon dive people's machine see what's emacs many variant rigueur uni lab back day,i fan editor i use i machine rigueur lab day 
 1.4685534944750223e+18,2021-12-08 12:10:12+00:00,['1468553494475022337'],"How to Pronounce #Omicron the #StarTrek Way
 
 https://t.co/DHS7Dsocsz
 
-#Trek #Coronavirus #CoronavirusPandemic #Pandemic #COVID #COVID19",pronounce way
+#Trek #Coronavirus #CoronavirusPandemic #Pandemic #COVID #COVID19",pronounce way,pronounce way 
 1.4683199778580234e+18,2021-12-07 20:42:17+00:00,['1468319977858023432'],"@ProjectLincoln LOL
 
-And... 'flook'?",lol 'flook'
-1.4679011799591567e+18,2021-12-06 16:58:08+00:00,['1467901179959156742'],He's an arsehole and a total lowlife scumbag. Who knew. https://t.co/JLRsBORKLN,he's arsehole total lowlife scumbag knew
+And... 'flook'?",lol 'flook',
+1.4679011799591567e+18,2021-12-06 16:58:08+00:00,['1467901179959156742'],He's an arsehole and a total lowlife scumbag. Who knew. https://t.co/JLRsBORKLN,he's arsehole total lowlife scumbag knew,lowlife 
 1.467837765521924e+18,2021-12-06 12:46:09+00:00,['1467837765521924096'],"The key change towards the end of 'Mary's Boy Child' by #BoneyM really grates.
 
-Just saying.",key change towards end 'mary's boy child' really grate saying
-1.4672460007923794e+18,2021-12-04 21:34:41+00:00,['1467246000792379398'],"@GerryHassan I don't even know what it means. Presumably it's bait to get us to read his piece. But offensive? Yes, absolutely. He knows how many Scots react negatively to that name.",even know mean presumably bait get read piece offensive yes absolutely know many scot react negatively name
-1.4671611129909207e+18,2021-12-04 15:57:22+00:00,['1467161112990920710'],About time. https://t.co/zlQ5Z6MVdj,time
-1.4661608700656845e+18,2021-12-01 21:42:46+00:00,['1466160870065684492'],@shugcar @scotslanguage @ScotsDictionars And in Erskine at the Bridgewater Shopping Centre.,erskine bridgewater shopping centre
-1.465128121032749e+18,2021-11-29 01:18:59+00:00,['1465128121032749056'],"""They're going to need a bigger rocket"" https://t.co/nhiA8bgzrP",they're going need bigger rocket
-1.465088033003348e+18,2021-11-28 22:39:41+00:00,['1465088033003347984'],@DMcGconcal Best thing I've seen in ages.,best thing i've seen age
-1.4650486006611845e+18,2021-11-28 20:03:00+00:00,['1465048600661184520'],@davidhogg111 Class.,class
-1.4649639535247237e+18,2021-11-28 14:26:38+00:00,['1464963953524723713'],Yes. https://t.co/nmxXPTHF3N,yes
-1.463924689848443e+18,2021-11-25 17:36:59+00:00,['1463924689848442880'],MUST read for those following the spread of the #Coronavirus around the world. https://t.co/BesgW35n90,must read following spread around world
-1.4639114238227292e+18,2021-11-25 16:44:16+00:00,['1463911423822729216'],"@Norm1964 Hey, Norrie. Hope you're feeling better.",hey norrie hope feeling better
-1.4639011368140636e+18,2021-11-25 16:03:23+00:00,['1463901136814063623'],FFS https://t.co/PtO4wwGU9i,ffs
-1.4629216957742612e+18,2021-11-22 23:11:26+00:00,['1462921695774261248'],"@DMcGconcal Not surprised, but no I didn't see that!",surprised see
-1.4629212380750356e+18,2021-11-22 23:09:37+00:00,['1462921238075035650'],"@DMcGconcal Distraction from talking about the NHS privatisation bill, perhaps?",distraction talking privatisation bill perhaps
-1.4625563614395187e+18,2021-11-21 22:59:44+00:00,['1462556361439518726'],@StephenSerjeant Ha! Absolutely right.,absolutely right
+Just saying.",key change towards end 'mary's boy child' really grate saying,change child 
+1.4672460007923794e+18,2021-12-04 21:34:41+00:00,['1467246000792379398'],"@GerryHassan I don't even know what it means. Presumably it's bait to get us to read his piece. But offensive? Yes, absolutely. He knows how many Scots react negatively to that name.",even know mean presumably bait get read piece offensive yes absolutely know many scot react negatively name,piece react name 
+1.4671611129909207e+18,2021-12-04 15:57:22+00:00,['1467161112990920710'],About time. https://t.co/zlQ5Z6MVdj,time,time 
+1.4661608700656845e+18,2021-12-01 21:42:46+00:00,['1466160870065684492'],@shugcar @scotslanguage @ScotsDictionars And in Erskine at the Bridgewater Shopping Centre.,erskine bridgewater shopping centre,erskine bridgewater shopping centre 
+1.465128121032749e+18,2021-11-29 01:18:59+00:00,['1465128121032749056'],"""They're going to need a bigger rocket"" https://t.co/nhiA8bgzrP",they're going need bigger rocket,need rocket 
+1.465088033003348e+18,2021-11-28 22:39:41+00:00,['1465088033003347984'],@DMcGconcal Best thing I've seen in ages.,best thing i've seen age,thing i age 
+1.4650486006611845e+18,2021-11-28 20:03:00+00:00,['1465048600661184520'],@davidhogg111 Class.,class,class 
+1.4649639535247237e+18,2021-11-28 14:26:38+00:00,['1464963953524723713'],Yes. https://t.co/nmxXPTHF3N,yes,
+1.463924689848443e+18,2021-11-25 17:36:59+00:00,['1463924689848442880'],MUST read for those following the spread of the #Coronavirus around the world. https://t.co/BesgW35n90,must read following spread around world,spread world 
+1.4639114238227292e+18,2021-11-25 16:44:16+00:00,['1463911423822729216'],"@Norm1964 Hey, Norrie. Hope you're feeling better.",hey norrie hope feeling better,hey feeling better 
+1.4639011368140636e+18,2021-11-25 16:03:23+00:00,['1463901136814063623'],FFS https://t.co/PtO4wwGU9i,ffs,
+1.4629216957742612e+18,2021-11-22 23:11:26+00:00,['1462921695774261248'],"@DMcGconcal Not surprised, but no I didn't see that!",surprised see,see 
+1.4629212380750356e+18,2021-11-22 23:09:37+00:00,['1462921238075035650'],"@DMcGconcal Distraction from talking about the NHS privatisation bill, perhaps?",distraction talking privatisation bill perhaps,distraction privatisation bill 
+1.4625563614395187e+18,2021-11-21 22:59:44+00:00,['1462556361439518726'],@StephenSerjeant Ha! Absolutely right.,absolutely right,
 1.4625341041514742e+18,2021-11-21 21:31:17+00:00,['1462534104151474178'],"This is exactly how #software #debugging works.
 
 https://t.co/hJQ9CvMuY4
 
-#StarTrek #StarTrekTOS #TOS #SoftwareEngineering #SoftEng",exactly work
-1.4624935223056343e+18,2021-11-21 18:50:02+00:00,['1462493522305634309'],Really? What a surprise. I wonder what numbskull thought that one up. https://t.co/3EhcjmuMpP,really surprise wonder numbskull thought one
-1.4620790438225674e+18,2021-11-20 15:23:02+00:00,['1462079043822567427'],"@DMcGconcal I remember that. Class act. What they say about the Scottish accent/Scottishness thing resonates with me. The only country I have personally experienced anti-Scottishness is England. In every other country I have worked I have heard ""I really love that accent!""",remember class act say scottish accentscottishness thing resonates country personally experienced antiscottishness england every country worked heard really love accent
+#StarTrek #StarTrekTOS #TOS #SoftwareEngineering #SoftEng",exactly work,work 
+1.4624935223056343e+18,2021-11-21 18:50:02+00:00,['1462493522305634309'],Really? What a surprise. I wonder what numbskull thought that one up. https://t.co/3EhcjmuMpP,really surprise wonder numbskull thought one,wonder numbskull 
+1.4620790438225674e+18,2021-11-20 15:23:02+00:00,['1462079043822567427'],"@DMcGconcal I remember that. Class act. What they say about the Scottish accent/Scottishness thing resonates with me. The only country I have personally experienced anti-Scottishness is England. In every other country I have worked I have heard ""I really love that accent!""",remember class act say scottish accentscottishness thing resonates country personally experienced antiscottishness england every country worked heard really love accent,class act thing country antiscottishness england country accent 
 1.4616985818915308e+18,2021-11-19 14:11:13+00:00,['1461698581891530755'],"In case you were wondering why #Microsoft wants you to 'upgrade' from #Windows10 to #Windows11
 
 https://t.co/YeDulNQEiy
 
-#Software #OperatingSystems #OS #Win10 #Win11 #W10 #W11 #Advertising #Telemetry",case wondering want 'upgrade'
-1.4614990118237225e+18,2021-11-19 00:58:12+00:00,['1461499011823722498'],@mjfree Exactly.,exactly
-1.460990330736685e+18,2021-11-17 15:16:53+00:00,['1460990330736685060'],"@SpotifyUK @ABBA Technology aside, there's really no substitute for talent. These guys have it in abundance.",technology aside there's really substitute talent guy abundance
-1.460663477228421e+18,2021-11-16 17:38:05+00:00,['1460663477228421123'],LOVE this bit... :-) https://t.co/0ULdj1GcZm,love bit
-1.4592646512341033e+18,2021-11-12 20:59:39+00:00,['1459264651234103302'],At last. https://t.co/bkOQIMkk39,last
-1.4589646315868406e+18,2021-11-12 01:07:29+00:00,['1458964631586840583'],/ @DaveBaxley https://t.co/qDQ2d4kJ6q,
-1.458574343961813e+18,2021-11-10 23:16:37+00:00,['1458574343961812995'],@AstroMikeMerri Yes. You can have a mix of assessment methods but the traditional examination has its merits too.,yes mix assessment method traditional examination merit
-1.458154682023547e+18,2021-11-09 19:29:02+00:00,['1458154682023546882'],@midgeure1 @YouTube LOVING the reflection of that massive stadium crowd in your shades. And doesn't everyone look so young? Fantastic memories for us all.,loving reflection massive stadium crowd shade everyone look young fantastic memory
-1.4581538953819464e+18,2021-11-09 19:25:54+00:00,['1458153895381946369'],@CommodoreBlog Looks great.,look great
+#Software #OperatingSystems #OS #Win10 #Win11 #W10 #W11 #Advertising #Telemetry",case wondering want 'upgrade',case 
+1.4614990118237225e+18,2021-11-19 00:58:12+00:00,['1461499011823722498'],@mjfree Exactly.,exactly,
+1.460990330736685e+18,2021-11-17 15:16:53+00:00,['1460990330736685060'],"@SpotifyUK @ABBA Technology aside, there's really no substitute for talent. These guys have it in abundance.",technology aside there's really substitute talent guy abundance,technology talent guy abundance 
+1.460663477228421e+18,2021-11-16 17:38:05+00:00,['1460663477228421123'],LOVE this bit... :-) https://t.co/0ULdj1GcZm,love bit,bit 
+1.4592646512341033e+18,2021-11-12 20:59:39+00:00,['1459264651234103302'],At last. https://t.co/bkOQIMkk39,last,
+1.4589646315868406e+18,2021-11-12 01:07:29+00:00,['1458964631586840583'],/ @DaveBaxley https://t.co/qDQ2d4kJ6q,,nan 
+1.458574343961813e+18,2021-11-10 23:16:37+00:00,['1458574343961812995'],@AstroMikeMerri Yes. You can have a mix of assessment methods but the traditional examination has its merits too.,yes mix assessment method traditional examination merit,assessment method examination merit 
+1.458154682023547e+18,2021-11-09 19:29:02+00:00,['1458154682023546882'],@midgeure1 @YouTube LOVING the reflection of that massive stadium crowd in your shades. And doesn't everyone look so young? Fantastic memories for us all.,loving reflection massive stadium crowd shade everyone look young fantastic memory,reflection stadium crowd everyone look memory 
+1.4581538953819464e+18,2021-11-09 19:25:54+00:00,['1458153895381946369'],@CommodoreBlog Looks great.,look great,look 
 1.455651302747394e+18,2021-11-02 21:41:29+00:00,['1455651302747394058'],"#Coronavirus. Who knew?
 
-https://t.co/I5L7VGgmiC",knew
-1.4556023916513444e+18,2021-11-02 18:27:08+00:00,['1455602391651344386'],@Drumslinger @BordersBuses Please tell me the bus was a number 1.,please tell bus number
-1.4555868917100134e+18,2021-11-02 17:25:33+00:00,['1455586891710013443'],LOL - Thread: https://t.co/PZ4okQ6BWq,lol thread
-1.4549368908267602e+18,2021-10-31 22:22:40+00:00,['1454936890826760200'],"@alanjmcf @scotslanguage @RobertBurnsNTS You can log in using your Google account, if you want to.",log using google account want
-1.4542138213384315e+18,2021-10-29 22:29:27+00:00,['1454213821338431491'],"@Iudex_phil Crazy. It doesn't need to be retconned no matter how you look at it. It COULD be, but that would still be unsatisfactory. It's just plot content that for the moment remains unresolved.",crazy need retconned matter look could would still unsatisfactory plot content moment remains unresolved
-1.4530329445080228e+18,2021-10-26 16:17:04+00:00,['1453032944508022785'],@DMcGconcal Almost sounds like an early Mellotron!,almost sound like early mellotron
-1.4523716109382697e+18,2021-10-24 20:29:10+00:00,['1452371610938269701'],@AaronMarkMcG @DMcGconcal @StCeciliasHall @concaledonia Brilliant. Really superb.,brilliant really superb
-1.4509561863591483e+18,2021-10-20 22:44:46+00:00,['1450956186359148551'],"""A turd by any other name..."" https://t.co/33E7ugrvgh",turd name
-1.449505101555585e+18,2021-10-16 22:38:41+00:00,['1449505101555585027'],@causticbob Now that's a cans-do attitude.,that's cansdo attitude
-1.4483166355053773e+18,2021-10-13 15:56:08+00:00,['1448316635505377284'],"Say what you will about these flights, this was a really nice moment with Shatner, genuinely moved by his experience. https://t.co/k4ffyyZeCh",say flight really nice moment shatner genuinely moved experience
-1.4479769610793943e+18,2021-10-12 17:26:24+00:00,['1447976961079394310'],"Yes. #WHO knew, indeed... https://t.co/JvbUJaxc6A",yes knew indeed
+https://t.co/I5L7VGgmiC",knew,
+1.4556023916513444e+18,2021-11-02 18:27:08+00:00,['1455602391651344386'],@Drumslinger @BordersBuses Please tell me the bus was a number 1.,please tell bus number,number 
+1.4555868917100134e+18,2021-11-02 17:25:33+00:00,['1455586891710013443'],LOL - Thread: https://t.co/PZ4okQ6BWq,lol thread,lol thread 
+1.4549368908267602e+18,2021-10-31 22:22:40+00:00,['1454936890826760200'],"@alanjmcf @scotslanguage @RobertBurnsNTS You can log in using your Google account, if you want to.",log using google account want,log account 
+1.4542138213384315e+18,2021-10-29 22:29:27+00:00,['1454213821338431491'],"@Iudex_phil Crazy. It doesn't need to be retconned no matter how you look at it. It COULD be, but that would still be unsatisfactory. It's just plot content that for the moment remains unresolved.",crazy need retconned matter look could would still unsatisfactory plot content moment remains unresolved,need look plot moment 
+1.4530329445080228e+18,2021-10-26 16:17:04+00:00,['1453032944508022785'],@DMcGconcal Almost sounds like an early Mellotron!,almost sound like early mellotron,sound mellotron 
+1.4523716109382697e+18,2021-10-24 20:29:10+00:00,['1452371610938269701'],@AaronMarkMcG @DMcGconcal @StCeciliasHall @concaledonia Brilliant. Really superb.,brilliant really superb,
+1.4509561863591483e+18,2021-10-20 22:44:46+00:00,['1450956186359148551'],"""A turd by any other name..."" https://t.co/33E7ugrvgh",turd name,turd name 
+1.449505101555585e+18,2021-10-16 22:38:41+00:00,['1449505101555585027'],@causticbob Now that's a cans-do attitude.,that's cansdo attitude,attitude 
+1.4483166355053773e+18,2021-10-13 15:56:08+00:00,['1448316635505377284'],"Say what you will about these flights, this was a really nice moment with Shatner, genuinely moved by his experience. https://t.co/k4ffyyZeCh",say flight really nice moment shatner genuinely moved experience,flight moment shatner experience 
+1.4479769610793943e+18,2021-10-12 17:26:24+00:00,['1447976961079394310'],"Yes. #WHO knew, indeed... https://t.co/JvbUJaxc6A",yes knew indeed,
 1.447952057583952e+18,2021-10-12 15:47:26+00:00,['1447952057583951873'],"You know, THIS is exactly why one should never idolise individuals. By all means respect and admire them for their achievements but, in the end, they are fallible human beings like you and me and will often disappoint.
 
-https://t.co/SmPXyXQRIj",know exactly one never idolise individual mean respect admire achievement end fallible human like often disappoint
-1.447948876481241e+18,2021-10-12 15:34:48+00:00,['1447948876481241089'],@BraidenGB I used to be able to follow along with that old PSA word for word as it was shown so often on TV at the time.,used able follow along old psa word word shown often time
+https://t.co/SmPXyXQRIj",know exactly one never idolise individual mean respect admire achievement end fallible human like often disappoint,mean respect admire end disappoint 
+1.447948876481241e+18,2021-10-12 15:34:48+00:00,['1447948876481241089'],@BraidenGB I used to be able to follow along with that old PSA word for word as it was shown so often on TV at the time.,used able follow along old psa word word shown often time,follow psa word word time 
 1.447289716143952e+18,2021-10-10 19:55:32+00:00,['1447289716143951877'],"""MICHAELSOFT BINBOWS"" isn't what you think it is.
 
 https://t.co/TJgEsHovoI
 
-#Microsoft #Windows #MicrosoftWindows #MS #MSWindows #Memes #Japanese #Language #Koaigimachi #Maebashi #Japan",michaelsoft binbows think
-1.4468794134303662e+18,2021-10-09 16:45:08+00:00,['1446879413430366213'],@seatsixtyone The train would be even faster still if it weren't for the speed restriction on a large stretch of track before Glasgow. That scuppered a recent Guinness Book Of Records attempt by the train operator.,train would even faster still speed restriction large stretch track glasgow scuppered recent guinness book record attempt train operator
-1.4468671606981796e+18,2021-10-09 15:56:27+00:00,['1446867160698179584'],@DMcGconcal The name didn't stick.,name stick
-1.4462377754272113e+18,2021-10-07 22:15:30+00:00,['1446237775427211272'],Bollocks all round. https://t.co/7R6WorRxE2,bollock round
-1.445812614928474e+18,2021-10-06 18:06:03+00:00,['1445812614928474113'],@JoxVox Dunno but I really hope so! There's a Scottish Firefox browser (settings thing) though!,dunno really hope there's scottish firefox browser setting thing though
-1.445791851936506e+18,2021-10-06 16:43:33+00:00,['1445791851936505866'],"@WorkPsychol Yup, agreed. He's certainly not living up to his name, is he?",yup agreed he's certainly living name
+#Microsoft #Windows #MicrosoftWindows #MS #MSWindows #Memes #Japanese #Language #Koaigimachi #Maebashi #Japan",michaelsoft binbows think,
+1.4468794134303662e+18,2021-10-09 16:45:08+00:00,['1446879413430366213'],@seatsixtyone The train would be even faster still if it weren't for the speed restriction on a large stretch of track before Glasgow. That scuppered a recent Guinness Book Of Records attempt by the train operator.,train would even faster still speed restriction large stretch track glasgow scuppered recent guinness book record attempt train operator,train restriction stretch track glasgow book record attempt train operator 
+1.4468671606981796e+18,2021-10-09 15:56:27+00:00,['1446867160698179584'],@DMcGconcal The name didn't stick.,name stick,name stick 
+1.4462377754272113e+18,2021-10-07 22:15:30+00:00,['1446237775427211272'],Bollocks all round. https://t.co/7R6WorRxE2,bollock round,bollock round 
+1.445812614928474e+18,2021-10-06 18:06:03+00:00,['1445812614928474113'],@JoxVox Dunno but I really hope so! There's a Scottish Firefox browser (settings thing) though!,dunno really hope there's scottish firefox browser setting thing though,thing 
+1.445791851936506e+18,2021-10-06 16:43:33+00:00,['1445791851936505866'],"@WorkPsychol Yup, agreed. He's certainly not living up to his name, is he?",yup agreed he's certainly living name,name 
 1.44573985021739e+18,2021-10-06 13:16:55+00:00,['1445739850217390093'],"""Not such a bright idea""
 
 https://t.co/j053GkZ9v8
 
-#Brexit",bright idea
+#Brexit",bright idea,idea 
 1.4453932487600456e+18,2021-10-05 14:19:39+00:00,['1445393248760045570'],"I'm pretty sure she says ""I can see my Tardis from up here""
 
 https://t.co/FnluQl6SkP
 
-#DoctorWho #Series13",i'm pretty sure say see tardis
-1.445064425187201e+18,2021-10-04 16:33:01+00:00,['1445064425187201031'],@DMcGconcal News is dead. I knew it!,news dead knew
-1.4444667096462664e+18,2021-10-03 00:57:55+00:00,['1444466709646266369'],"@Drumslinger These days, that's a win.",day that's win
-1.444432814192083e+18,2021-10-02 22:43:13+00:00,['1444432814192082951'],@mpigliucci Probably a good thing.,probably good thing
-1.4444292301384008e+18,2021-10-02 22:28:59+00:00,['1444429230138400772'],@PedroStephano @OliverDowden @BorisJohnson WTF is that all about? It’s that guy in the earpiece again!,wtf guy earpiece
-1.4440413177267036e+18,2021-10-01 20:47:33+00:00,['1444041317726703618'],"Oh, what joy awaits us this festive time. https://t.co/2Gm2ORvCrr",joy awaits festive time
-1.443976441671164e+18,2021-10-01 16:29:46+00:00,['1443976441671163917'],@robertdmcneill He'd need to do something about the giant hands though.,he'd need something giant hand though
-1.4439758452159693e+18,2021-10-01 16:27:23+00:00,['1443975845215969317'],Absolutely. Well said. https://t.co/F8vmW8ZWXm,absolutely well said
-1.443948046178562e+18,2021-10-01 14:36:56+00:00,['1443948046178562050'],@CatherineMotuz @PedroStephano @Nigel_Farage True!,true
-1.4435706761708544e+18,2021-09-30 13:37:24+00:00,['1443570676170854401'],Right then. Let's see it. https://t.co/oe165tK66b,right let's see
+#DoctorWho #Series13",i'm pretty sure say see tardis,i 
+1.445064425187201e+18,2021-10-04 16:33:01+00:00,['1445064425187201031'],@DMcGconcal News is dead. I knew it!,news dead knew,news knew 
+1.4444667096462664e+18,2021-10-03 00:57:55+00:00,['1444466709646266369'],"@Drumslinger These days, that's a win.",day that's win,day win 
+1.444432814192083e+18,2021-10-02 22:43:13+00:00,['1444432814192082951'],@mpigliucci Probably a good thing.,probably good thing,thing 
+1.4444292301384008e+18,2021-10-02 22:28:59+00:00,['1444429230138400772'],@PedroStephano @OliverDowden @BorisJohnson WTF is that all about? It’s that guy in the earpiece again!,wtf guy earpiece,wtf guy earpiece 
+1.4440413177267036e+18,2021-10-01 20:47:33+00:00,['1444041317726703618'],"Oh, what joy awaits us this festive time. https://t.co/2Gm2ORvCrr",joy awaits festive time,joy time 
+1.443976441671164e+18,2021-10-01 16:29:46+00:00,['1443976441671163917'],@robertdmcneill He'd need to do something about the giant hands though.,he'd need something giant hand though,something hand 
+1.4439758452159693e+18,2021-10-01 16:27:23+00:00,['1443975845215969317'],Absolutely. Well said. https://t.co/F8vmW8ZWXm,absolutely well said,
+1.443948046178562e+18,2021-10-01 14:36:56+00:00,['1443948046178562050'],@CatherineMotuz @PedroStephano @Nigel_Farage True!,true,
+1.4435706761708544e+18,2021-09-30 13:37:24+00:00,['1443570676170854401'],Right then. Let's see it. https://t.co/oe165tK66b,right let's see,let 
 1.4433467680040673e+18,2021-09-29 22:47:40+00:00,['1443346768004067331'],"#America, it's just not funny any more.
 
 https://t.co/1jNCtOy4Yy
 
-#LincolnProject #TheLincolnProject #Trump #GOP #Republicans #TheBigLie #Politics #USPolitics",funny
-1.4432958206741094e+18,2021-09-29 19:25:13+00:00,['1443295820674109441'],"@mpigliucci Yup. Letrud nailed it there. Also, 'BAP' is a great acronym!",yup letrud nailed also 'bap' great acronym
-1.443284815994925e+18,2021-09-29 18:41:29+00:00,['1443284815994925056'],"I do like the icons. Some changes there have seemed like a long time coming. Definitely comprehensive, clean and modern which was needed especially to do with files and folders. https://t.co/8Rnu0tBuid",like icon change seemed like long time coming definitely comprehensive clean modern needed especially file folder
-1.4425483059809649e+18,2021-09-27 17:54:52+00:00,['1442548305980964865'],@RichHL It would be nice if they did.,would nice
-1.4421168571636654e+18,2021-09-26 13:20:26+00:00,['1442116857163665409'],@NippyTrilimply Possibly... :-),possibly
-1.4417354857438945e+18,2021-09-25 12:05:00+00:00,['1441735485743894545'],@skdh Really looking forward to your take on this one! :-),really looking forward take one
-1.441734788075774e+18,2021-09-25 12:02:14+00:00,['1441734788075773961'],"Correct. In the end the US Constitution will need to be amended to prevent this precipitous danger happening again. But will it be root and branch change to reflect modern times, or the addition of new enumerated safeguards? These each have their merits. https://t.co/0VBNP6aMaG",correct end constitution need amended prevent precipitous danger happening root branch change reflect modern time addition new enumerated safeguard merit
-1.4415453614289224e+18,2021-09-24 23:29:31+00:00,['1441545361428922374'],@shmoonews @WorkPsychol @zeno001 @susan_bewley @SophiaDanielleD @vagina_museum @TheLancet @LancetChildAdol I have no idea what she's playing at then. Crazy. It's such clumsy wording. She must have known.,idea playing crazy clumsy wording must known
-1.4415151428192952e+18,2021-09-24 21:29:26+00:00,['1441515142819295232'],@WorkPsychol @zeno001 @susan_bewley @SophiaDanielleD @vagina_museum @TheLancet @LancetChildAdol As I understand it Sophia Davis' paper is fine but The Lancet chose to use a heading with those words. Is that right? Pretty hard to believe from a journal of that standard.,understand sophia davis' paper fine lancet chose use heading word right pretty hard believe journal standard
-1.441490200476201e+18,2021-09-24 19:50:20+00:00,['1441490200476200961'],@robertleomoore Indeed.,indeed
-1.4414417043731046e+18,2021-09-24 16:37:37+00:00,['1441441704373104641'],"Ah, those oft-promised sunlit uplands where ambrosia flows free. https://t.co/aCGSbiCMZY",oftpromised sunlit upland ambrosia flow free
-1.4413266117987574e+18,2021-09-24 09:00:17+00:00,['1441326611798757380'],@CharmlessNurk Yup. Seems like a molon.,yup seems like molon
+#LincolnProject #TheLincolnProject #Trump #GOP #Republicans #TheBigLie #Politics #USPolitics",funny,funny 
+1.4432958206741094e+18,2021-09-29 19:25:13+00:00,['1443295820674109441'],"@mpigliucci Yup. Letrud nailed it there. Also, 'BAP' is a great acronym!",yup letrud nailed also 'bap' great acronym,yup letrud acronym 
+1.443284815994925e+18,2021-09-29 18:41:29+00:00,['1443284815994925056'],"I do like the icons. Some changes there have seemed like a long time coming. Definitely comprehensive, clean and modern which was needed especially to do with files and folders. https://t.co/8Rnu0tBuid",like icon change seemed like long time coming definitely comprehensive clean modern needed especially file folder,change time modern folder 
+1.4425483059809649e+18,2021-09-27 17:54:52+00:00,['1442548305980964865'],@RichHL It would be nice if they did.,would nice,
+1.4421168571636654e+18,2021-09-26 13:20:26+00:00,['1442116857163665409'],@NippyTrilimply Possibly... :-),possibly,
+1.4417354857438945e+18,2021-09-25 12:05:00+00:00,['1441735485743894545'],@skdh Really looking forward to your take on this one! :-),really looking forward take one,one 
+1.441734788075774e+18,2021-09-25 12:02:14+00:00,['1441734788075773961'],"Correct. In the end the US Constitution will need to be amended to prevent this precipitous danger happening again. But will it be root and branch change to reflect modern times, or the addition of new enumerated safeguards? These each have their merits. https://t.co/0VBNP6aMaG",correct end constitution need amended prevent precipitous danger happening root branch change reflect modern time addition new enumerated safeguard merit,end constitution need danger branch change time addition safeguard merit 
+1.4415453614289224e+18,2021-09-24 23:29:31+00:00,['1441545361428922374'],@shmoonews @WorkPsychol @zeno001 @susan_bewley @SophiaDanielleD @vagina_museum @TheLancet @LancetChildAdol I have no idea what she's playing at then. Crazy. It's such clumsy wording. She must have known.,idea playing crazy clumsy wording must known,idea wording 
+1.4415151428192952e+18,2021-09-24 21:29:26+00:00,['1441515142819295232'],@WorkPsychol @zeno001 @susan_bewley @SophiaDanielleD @vagina_museum @TheLancet @LancetChildAdol As I understand it Sophia Davis' paper is fine but The Lancet chose to use a heading with those words. Is that right? Pretty hard to believe from a journal of that standard.,understand sophia davis' paper fine lancet chose use heading word right pretty hard believe journal standard,understand sophia davis paper fine lancet chose word right standard 
+1.441490200476201e+18,2021-09-24 19:50:20+00:00,['1441490200476200961'],@robertleomoore Indeed.,indeed,
+1.4414417043731046e+18,2021-09-24 16:37:37+00:00,['1441441704373104641'],"Ah, those oft-promised sunlit uplands where ambrosia flows free. https://t.co/aCGSbiCMZY",oftpromised sunlit upland ambrosia flow free,upland ambrosia flow 
+1.4413266117987574e+18,2021-09-24 09:00:17+00:00,['1441326611798757380'],@CharmlessNurk Yup. Seems like a molon.,yup seems like molon,molon 
 1.4411059943191593e+18,2021-09-23 18:23:38+00:00,['1441105994319159302'],"""Two pints of lager and a packet of crisps please""
 
-https://t.co/FaevdrIn9e",two pint lager packet crisp please
+https://t.co/FaevdrIn9e",two pint lager packet crisp please,pint packet crisp please 
 1.440673719500743e+18,2021-09-22 13:45:55+00:00,['1440673719500742672'],"Great seeing John Mashey at the height of his powers again in this. Famous of course for talking about 'big data' before it was even cool.
 
 UNIX: Making Computers Easier To Use -- AT&amp;T Archives film from 1982, Bell Laboratories
 
-https://t.co/aSQJIyR4y5",great seeing john mashey height power famous course talking 'big data' even cool unix making computer easier use atampt archive film bell laboratory
-1.440618737304965e+18,2021-09-22 10:07:27+00:00,['1440618737304965127'],"@PedroStephano ""I pity the fool...""",pity fool
-1.4406174480010035e+18,2021-09-22 10:02:19+00:00,['1440617448001003536'],Blimey. https://t.co/0szTwzwrYL,blimey
-1.4406168171944591e+18,2021-09-22 09:59:49+00:00,['1440616817194459136'],@PedroStephano I've always maintained that #Brexit couldn't be done as it perpetually tries to square the circle. I still think I was right. Ultimately it will sink under the weight of its own illogic.,i've always maintained done perpetually try square circle still think right ultimately sink weight illogic
-1.4400620303507333e+18,2021-09-20 21:15:17+00:00,['1440062030350733324'],@DaveBaxley @shiralazar Glad to hear you're OK and hope it's nothing serious.,glad hear hope nothing serious
-1.440058673200464e+18,2021-09-20 21:01:57+00:00,['1440058673200463882'],"I'd rather have a disco tent, but whatever. https://t.co/xXGlQfBLV9",i'd rather disco tent whatever
+https://t.co/aSQJIyR4y5",great seeing john mashey height power famous course talking 'big data' even cool unix making computer easier use atampt archive film bell laboratory,john mashey power course data computer use film bell laboratory 
+1.440618737304965e+18,2021-09-22 10:07:27+00:00,['1440618737304965127'],"@PedroStephano ""I pity the fool...""",pity fool,pity fool 
+1.4406174480010035e+18,2021-09-22 10:02:19+00:00,['1440617448001003536'],Blimey. https://t.co/0szTwzwrYL,blimey,blimey 
+1.4406168171944591e+18,2021-09-22 09:59:49+00:00,['1440616817194459136'],@PedroStephano I've always maintained that #Brexit couldn't be done as it perpetually tries to square the circle. I still think I was right. Ultimately it will sink under the weight of its own illogic.,i've always maintained done perpetually try square circle still think right ultimately sink weight illogic,i circle weight illogic 
+1.4400620303507333e+18,2021-09-20 21:15:17+00:00,['1440062030350733324'],@DaveBaxley @shiralazar Glad to hear you're OK and hope it's nothing serious.,glad hear hope nothing serious,hope nothing 
+1.440058673200464e+18,2021-09-20 21:01:57+00:00,['1440058673200463882'],"I'd rather have a disco tent, but whatever. https://t.co/xXGlQfBLV9",i'd rather disco tent whatever,tent 
 1.439737874476372e+18,2021-09-19 23:47:12+00:00,['1439737874476371973'],"""TWO PINTS OF LAGER AND A PACKET OF CRISPS, PLEEEEEZE""
 
-https://t.co/JARCEykz2Z",two pint lager packet crisp pleeeeeze
-1.4385862130075648e+18,2021-09-16 19:30:55+00:00,['1438586213007564806'],@PedroStephano Good point. You'd think Boris would prefer centimetres over inches.,good point think boris would prefer centimetre inch
-1.4385659141449073e+18,2021-09-16 18:10:15+00:00,['1438565914144907265'],For fuck's sake. This is where we are now? Really? https://t.co/VVRUojm9U3,fuck's sake really
-1.438564290739458e+18,2021-09-16 18:03:48+00:00,['1438564290739458048'],"Normally we can't do miracles, you know. Normally... https://t.co/NVbiITqWOz",normally can't miracle know normally
-1.4385265044224983e+18,2021-09-16 15:33:39+00:00,['1438526504422498306'],@Tantacrul OMG,omg
-1.4385179289372303e+18,2021-09-16 14:59:35+00:00,['1438517928937230338'],WTF????? https://t.co/DPMWq8AmdW,wtf
-1.4385163245823918e+18,2021-09-16 14:53:12+00:00,['1438516324582391818'],Good strategy. It's so easy to lose track especially regarding remotely accessed VMs once you're addressing tons of them. https://t.co/aKaIb3R77I,good strategy easy lose track especially regarding remotely accessed vms addressing ton
-1.438478589142487e+18,2021-09-16 12:23:15+00:00,['1438478589142487046'],Pull the other one. It's got bells on. https://t.co/B3HXZ2C7VV,pull one got bell
-1.4375392112724664e+18,2021-09-13 22:10:30+00:00,['1437539211272466432'],This is awesome. https://t.co/SiDeMmlBKF,awesome
+https://t.co/JARCEykz2Z",two pint lager packet crisp pleeeeeze,pint packet crisp pleeeeeze 
+1.4385862130075648e+18,2021-09-16 19:30:55+00:00,['1438586213007564806'],@PedroStephano Good point. You'd think Boris would prefer centimetres over inches.,good point think boris would prefer centimetre inch,point boris centimetre inch 
+1.4385659141449073e+18,2021-09-16 18:10:15+00:00,['1438565914144907265'],For fuck's sake. This is where we are now? Really? https://t.co/VVRUojm9U3,fuck's sake really,fuck sake 
+1.438564290739458e+18,2021-09-16 18:03:48+00:00,['1438564290739458048'],"Normally we can't do miracles, you know. Normally... https://t.co/NVbiITqWOz",normally can't miracle know normally,
+1.4385265044224983e+18,2021-09-16 15:33:39+00:00,['1438526504422498306'],@Tantacrul OMG,omg,omg 
+1.4385179289372303e+18,2021-09-16 14:59:35+00:00,['1438517928937230338'],WTF????? https://t.co/DPMWq8AmdW,wtf,wtf 
+1.4385163245823918e+18,2021-09-16 14:53:12+00:00,['1438516324582391818'],Good strategy. It's so easy to lose track especially regarding remotely accessed VMs once you're addressing tons of them. https://t.co/aKaIb3R77I,good strategy easy lose track especially regarding remotely accessed vms addressing ton,strategy track vms ton 
+1.438478589142487e+18,2021-09-16 12:23:15+00:00,['1438478589142487046'],Pull the other one. It's got bells on. https://t.co/B3HXZ2C7VV,pull one got bell,got bell 
+1.4375392112724664e+18,2021-09-13 22:10:30+00:00,['1437539211272466432'],This is awesome. https://t.co/SiDeMmlBKF,awesome,awesome 
 1.4374612870558065e+18,2021-09-13 17:00:52+00:00,['1437461287055806474'],"""Ready for my gob cave""
 
 Yup.
 
-https://t.co/umiQwRMCvk",ready gob cave yup
+https://t.co/umiQwRMCvk",ready gob cave yup,gob yup 
 1.4374097048257413e+18,2021-09-13 13:35:54+00:00,['1437409704825741322'],"No doubt the #System76 #Thelio R1 is a gorgeous example of top quality hand crafted computing hardware. It's great to see the success of System 76 in providing such systems with zero compromise.
 
 https://t.co/gsZ5rHYoHZ
 
-#ThelioR1 #Linux #Pop_OS #Architecture #phiARCHITECT",doubt gorgeous example top quality hand crafted computing hardware great see success system providing system zero compromise
-1.437094038952452e+18,2021-09-12 16:41:33+00:00,['1437094038952452108'],@ScanlanWithAnA Have to say that made me laugh.,say made laugh
+#ThelioR1 #Linux #Pop_OS #Architecture #phiARCHITECT",doubt gorgeous example top quality hand crafted computing hardware great see success system providing system zero compromise,doubt example quality hand hardware see success system system compromise 
+1.437094038952452e+18,2021-09-12 16:41:33+00:00,['1437094038952452108'],@ScanlanWithAnA Have to say that made me laugh.,say made laugh,laugh 
 1.4369994755626967e+18,2021-09-12 10:25:47+00:00,['1436999475562696706'],"Better #NTFS support in #Linux 5.15
 
-https://t.co/NprCVBVv5z",better support
-1.4367804509791928e+18,2021-09-11 19:55:28+00:00,['1436780450979192832'],@Rob29115392 @ZoeWheddon @ABBAVoyage 🌊 🚽 :-),
-1.4360984061166428e+18,2021-09-09 22:45:16+00:00,['1436098406116642816'],NOW you're talking. https://t.co/TLTFj6bOKj,talking
-1.435242727122342e+18,2021-09-07 14:05:06+00:00,['1435242727122341894'],"@thelinuxEXP Just heard about your YT channel. Man, that's an awful decision. I know others have met with similar sanction from YT and managed to get past it. Fingers crossed you'll be back on the air pronto!",heard channel man that's awful decision know others met similar sanction managed get past finger crossed back air pronto
-1.434664341622698e+18,2021-09-05 23:46:48+00:00,['1434664341622697989'],"@acgrayling Couldn't agree more. One can only hope that madness such as this, with all its inertia, will at some point break like a fever.",agree one hope madness inertia point break like fever
-1.4346525576920842e+18,2021-09-05 22:59:58+00:00,['1434652557692084228'],"Porridge, with salt and milk. https://t.co/ePuiKxcCv3",porridge salt milk
-1.4342162002806743e+18,2021-09-04 18:06:03+00:00,['1434216200280674309'],"Ben Dover, likely. https://t.co/xuzKGCZTIj",ben dover likely
-1.4341925336393728e+18,2021-09-04 16:32:00+00:00,['1434192533639372802'],@DMcGconcal Actually had me going there for a bit!,actually going bit
+https://t.co/NprCVBVv5z",better support,support 
+1.4367804509791928e+18,2021-09-11 19:55:28+00:00,['1436780450979192832'],@Rob29115392 @ZoeWheddon @ABBAVoyage 🌊 🚽 :-),,nan 
+1.4360984061166428e+18,2021-09-09 22:45:16+00:00,['1436098406116642816'],NOW you're talking. https://t.co/TLTFj6bOKj,talking,
+1.435242727122342e+18,2021-09-07 14:05:06+00:00,['1435242727122341894'],"@thelinuxEXP Just heard about your YT channel. Man, that's an awful decision. I know others have met with similar sanction from YT and managed to get past it. Fingers crossed you'll be back on the air pronto!",heard channel man that's awful decision know others met similar sanction managed get past finger crossed back air pronto,heard channel man decision sanction get finger air pronto 
+1.434664341622698e+18,2021-09-05 23:46:48+00:00,['1434664341622697989'],"@acgrayling Couldn't agree more. One can only hope that madness such as this, with all its inertia, will at some point break like a fever.",agree one hope madness inertia point break like fever,hope madness inertia point break fever 
+1.4346525576920842e+18,2021-09-05 22:59:58+00:00,['1434652557692084228'],"Porridge, with salt and milk. https://t.co/ePuiKxcCv3",porridge salt milk,porridge salt milk 
+1.4342162002806743e+18,2021-09-04 18:06:03+00:00,['1434216200280674309'],"Ben Dover, likely. https://t.co/xuzKGCZTIj",ben dover likely,ben dover 
+1.4341925336393728e+18,2021-09-04 16:32:00+00:00,['1434192533639372802'],@DMcGconcal Actually had me going there for a bit!,actually going bit,bit 
 1.4341633395219292e+18,2021-09-04 14:36:00+00:00,['1434163339521929219'],"Can you, Detective Nip Titley, find out #WHODIDIT ?
 
 https://t.co/6bqU4O1UrE
 
-#ABK",detective nip titley find
-1.433898660006441e+18,2021-09-03 21:04:15+00:00,['1433898660006440961'],Possibly the most awesome tweet ever. https://t.co/n4rR3clSft,possibly awesome tweet ever
-1.433524779370238e+18,2021-09-02 20:18:35+00:00,['1433524779370237960'],"@Finselbix Yup, like alternative ways to calculate Pi, bespoke cursor constraints for fast traverse of stonkingly large datasets, a compiler to compile itself to get a better compiler. In the days when all you had was an ADM-5 terminal, overnight waits for results and a comfy lab chair :-)",yup like alternative way calculate bespoke cursor constraint fast traverse stonkingly large datasets compiler compile get better compiler day adm terminal overnight wait result comfy lab chair
-1.433522793337942e+18,2021-09-02 20:10:42+00:00,['1433522793337942019'],@Finselbix I'd have killed for a Cray back in the day. Even just to get access to one to run my esoteric programs! Good movie.,i'd killed cray back day even get access one run esoteric program good movie
+#ABK",detective nip titley find,nip titley 
+1.433898660006441e+18,2021-09-03 21:04:15+00:00,['1433898660006440961'],Possibly the most awesome tweet ever. https://t.co/n4rR3clSft,possibly awesome tweet ever,tweet 
+1.433524779370238e+18,2021-09-02 20:18:35+00:00,['1433524779370237960'],"@Finselbix Yup, like alternative ways to calculate Pi, bespoke cursor constraints for fast traverse of stonkingly large datasets, a compiler to compile itself to get a better compiler. In the days when all you had was an ADM-5 terminal, overnight waits for results and a comfy lab chair :-)",yup like alternative way calculate bespoke cursor constraint fast traverse stonkingly large datasets compiler compile get better compiler day adm terminal overnight wait result comfy lab chair,way calculate constraint traverse compiler day wait result comfy lab chair 
+1.433522793337942e+18,2021-09-02 20:10:42+00:00,['1433522793337942019'],@Finselbix I'd have killed for a Cray back in the day. Even just to get access to one to run my esoteric programs! Good movie.,i'd killed cray back day even get access one run esoteric program good movie,i day access run program movie 
 1.432780402297561e+18,2021-08-31 19:00:42+00:00,['1432780402297561089'],"#HerdImmunity now unachievable?
 
 https://t.co/W30qLFuKaX
 
-#Coronavirus #COVID19 #Pandemic #Endemic",unachievable
+#Coronavirus #COVID19 #Pandemic #Endemic",unachievable,
 1.4316135733404672e+18,2021-08-28 13:44:08+00:00,['1431613573340467200'],"What was that saying, again...? Ah, yes - ""only in America""
 
 https://t.co/fgy1NNZd6T
 
-#DeSantis #DesantisDestroysFlorida #DeSantisVariant #COVID19 #Delta #DeltaVariant #MaskUp",saying yes america
+#DeSantis #DesantisDestroysFlorida #DeSantisVariant #COVID19 #Delta #DeltaVariant #MaskUp",saying yes america,america 
 1.4313547785886925e+18,2021-08-27 20:35:47+00:00,['1431354778588692486'],"Have to say I did not enjoy the #Bond movie #Spectre at all but I do think this effort by #Radiohead is far better than what was finally chosen as the film's title song.
 
 https://t.co/AoCXMBlDlZ
 
-#007 #JamesBond #JohnBarry",say enjoy movie think effort far better finally chosen film's title song
+#007 #JamesBond #JohnBarry",say enjoy movie think effort far better finally chosen film's title song,movie think effort film title song 
 1.430497377903915e+18,2021-08-25 11:48:46+00:00,['1430497377903915009'],"Folks, this is how to GROOVE!
 
 https://t.co/xHR33UuLW1
 
-#SpyroGyra still going strong. #MorningDance was my favourite of theirs. Cracker of a jazz/pop single back in the day.",folk groove still going strong favourite cracker jazzpop single back day
-1.4301773364906598e+18,2021-08-24 14:37:03+00:00,['1430177336490659849'],@NippyTrilimply European or African?,european african
-1.4301292728034427e+18,2021-08-24 11:26:03+00:00,['1430129272803442689'],He's *NOT* the Messiah... https://t.co/vTcs5rC41L,he's messiah
+#SpyroGyra still going strong. #MorningDance was my favourite of theirs. Cracker of a jazz/pop single back in the day.",folk groove still going strong favourite cracker jazzpop single back day,folk groove cracker jazzpop day 
+1.4301773364906598e+18,2021-08-24 14:37:03+00:00,['1430177336490659849'],@NippyTrilimply European or African?,european african,african 
+1.4301292728034427e+18,2021-08-24 11:26:03+00:00,['1430129272803442689'],He's *NOT* the Messiah... https://t.co/vTcs5rC41L,he's messiah,messiah 
 1.428421217766318e+18,2021-08-19 18:18:51+00:00,['1428421217766318093'],"Does your calculator run #Doom ?
 
 https://t.co/VfHMnNdskm
 
-#LGR #TI #TexasInstruments #Gaming #Games #ComputerGames #Software",doe calculator run
-1.4268790747194737e+18,2021-08-15 12:10:56+00:00,['1426879074719473669'],@DMcGconcal @BjornHeile The Coo Seekers? :-),coo seeker
+#LGR #TI #TexasInstruments #Gaming #Games #ComputerGames #Software",doe calculator run,doe calculator 
+1.4268790747194737e+18,2021-08-15 12:10:56+00:00,['1426879074719473669'],@DMcGconcal @BjornHeile The Coo Seekers? :-),coo seeker,coo seeker 
 1.426488571817603e+18,2021-08-14 10:19:13+00:00,['1426488571817603081'],"""ROBOTS, IN SPACE!!!!!!!!!!!!!!!!!!!""
 
 https://t.co/gDJ3V5kzRD
 
-#Artemis #NASA #Robotics #Engineering #MicroGravity",robot space
+#Artemis #NASA #Robotics #Engineering #MicroGravity",robot space,robot space 
 1.426216305108136e+18,2021-08-13 16:17:19+00:00,['1426216305108135945'],"I don't follow all of #SpaceX 's launches closely but this next orbital test flight could be both history-making and groundbreaking. Good luck to @elonmusk and the entire SpaceX team.
 
-#Booster4 #Starship20 #B4 #SN20 #420 https://t.co/ucnvwp5cbm",follow launch closely next orbital test flight could historymaking groundbreaking good luck entire spacex team
-1.4255142058815035e+18,2021-08-11 17:47:26+00:00,['1425514205881503745'],"@evaDrD Alpaca six pack, shall I? :-)",alpaca six pack shall
-1.4254978927946056e+18,2021-08-11 16:42:36+00:00,['1425497892794605570'],@nick_sheridan Gardner Street?,gardner street
+#Booster4 #Starship20 #B4 #SN20 #420 https://t.co/ucnvwp5cbm",follow launch closely next orbital test flight could historymaking groundbreaking good luck entire spacex team,launch test flight luck spacex team 
+1.4255142058815035e+18,2021-08-11 17:47:26+00:00,['1425514205881503745'],"@evaDrD Alpaca six pack, shall I? :-)",alpaca six pack shall,pack 
+1.4254978927946056e+18,2021-08-11 16:42:36+00:00,['1425497892794605570'],@nick_sheridan Gardner Street?,gardner street,gardner street 
 1.424796957923545e+18,2021-08-09 18:17:20+00:00,['1424796957923545089'],"You know when the #fluxcapacitor in your combi-boiler heating system suddenly melts and it takes several days before you have hot water again? Yup, that.
 
 But what *caused* the flux capacitor to melt...
 
-#DoDoDoDo #Mystery #CantSleepAtNight",know combiboiler heating system suddenly melt take several day hot water yup caused flux capacitor melt
-1.42472610136499e+18,2021-08-09 13:35:47+00:00,['1424726101364989955'],"Thanks, #Brexit https://t.co/40pOVd35gR",thanks
+#DoDoDoDo #Mystery #CantSleepAtNight",know combiboiler heating system suddenly melt take several day hot water yup caused flux capacitor melt,combiboiler system day water yup capacitor melt 
+1.42472610136499e+18,2021-08-09 13:35:47+00:00,['1424726101364989955'],"Thanks, #Brexit https://t.co/40pOVd35gR",thanks,
 1.4244102986189455e+18,2021-08-08 16:40:54+00:00,['1424410298618945540'],"It happens more often than you'd think:
 
 https://t.co/O3jlW7wcYm
 
-#Coding #Development #Programming",happens often think
-1.4238014753781637e+18,2021-08-07 00:21:39+00:00,['1423801475378163718'],Doesn't this look like a still shot from Gerry Anderson's #Thunderbirds ? https://t.co/aPmWxCIEpP,look like still shot gerry anderson's
+#Coding #Development #Programming",happens often think,
+1.4238014753781637e+18,2021-08-07 00:21:39+00:00,['1423801475378163718'],Doesn't this look like a still shot from Gerry Anderson's #Thunderbirds ? https://t.co/aPmWxCIEpP,look like still shot gerry anderson's,look anderson 
 1.423337557237117e+18,2021-08-05 17:38:12+00:00,['1423337557237116934'],"@DMcGconcal Reminds me of this...
 
 https://t.co/fbU85Y7ALc
 
-#Devo",reminds
+#Devo",reminds,
 1.4222703003313275e+18,2021-08-02 18:57:18+00:00,['1422270300331327488'],"#MattDamon !
 
-https://t.co/XRNOmp6F4b",
-1.4219733614423982e+18,2021-08-01 23:17:23+00:00,['1421973361442398211'],Excellent show. On my list to watch again soon. https://t.co/EDI0JnpORn,excellent show list watch soon
-1.4218971811544517e+18,2021-08-01 18:14:40+00:00,['1421897181154451461'],@sxdragazzi @WorldAndScience Fantastic picture. Gravity in operation over these vast scales really is mind-boggling.,fantastic picture gravity operation vast scale really mindboggling
-1.421890060358652e+18,2021-08-01 17:46:22+00:00,['1421890060358651905'],WTF ? https://t.co/euLqBwkydI,wtf
-1.4218676914056763e+18,2021-08-01 16:17:29+00:00,['1421867691405676545'],Beautifully disturbing. The Director's extended cut recommended by Christopher Lee is the version to see. https://t.co/ctwbGK824h,beautifully disturbing director's extended cut recommended christopher lee version see
+https://t.co/XRNOmp6F4b",,nan 
+1.4219733614423982e+18,2021-08-01 23:17:23+00:00,['1421973361442398211'],Excellent show. On my list to watch again soon. https://t.co/EDI0JnpORn,excellent show list watch soon,show list watch 
+1.4218971811544517e+18,2021-08-01 18:14:40+00:00,['1421897181154451461'],@sxdragazzi @WorldAndScience Fantastic picture. Gravity in operation over these vast scales really is mind-boggling.,fantastic picture gravity operation vast scale really mindboggling,picture gravity operation scale 
+1.421890060358652e+18,2021-08-01 17:46:22+00:00,['1421890060358651905'],WTF ? https://t.co/euLqBwkydI,wtf,wtf 
+1.4218676914056763e+18,2021-08-01 16:17:29+00:00,['1421867691405676545'],Beautifully disturbing. The Director's extended cut recommended by Christopher Lee is the version to see. https://t.co/ctwbGK824h,beautifully disturbing director's extended cut recommended christopher lee version see,director cut version see 
 1.4215981633082737e+18,2021-07-31 22:26:28+00:00,['1421598163308273665'],"#YASS
 
 https://t.co/yVKGa801uB
 
-#1970s #70s #Television #Memories",
+#1970s #70s #Television #Memories",,nan 
 1.4214979072834396e+18,2021-07-31 15:48:05+00:00,['1421497907283439616'],"I think it's the sustained eye contact that worries me most about this...
 
 https://t.co/nc6ATMKzKA
 
-#Nirvana",think sustained eye contact worry
-1.4214407403543634e+18,2021-07-31 12:00:56+00:00,['1421440740354363395'],@DMcGconcal Love the piano part.,love piano part
-1.4211684793617162e+18,2021-07-30 17:59:04+00:00,['1421168479361716225'],What a cad!! https://t.co/AKr0u4YV3f,cad
-1.4208244135540613e+18,2021-07-29 19:11:52+00:00,['1420824413554061317'],@mpigliucci Onwards and upwards?,onwards upwards
-1.418997234272723e+18,2021-07-24 18:11:19+00:00,['1418997234272722958'],@WorkPsychol Yup. One of mankind's greatest achievements and these people call it evil.,yup one mankind's greatest achievement people call evil
+#Nirvana",think sustained eye contact worry,think eye contact worry 
+1.4214407403543634e+18,2021-07-31 12:00:56+00:00,['1421440740354363395'],@DMcGconcal Love the piano part.,love piano part,piano part 
+1.4211684793617162e+18,2021-07-30 17:59:04+00:00,['1421168479361716225'],What a cad!! https://t.co/AKr0u4YV3f,cad,cad 
+1.4208244135540613e+18,2021-07-29 19:11:52+00:00,['1420824413554061317'],@mpigliucci Onwards and upwards?,onwards upwards,
+1.418997234272723e+18,2021-07-24 18:11:19+00:00,['1418997234272722958'],@WorkPsychol Yup. One of mankind's greatest achievements and these people call it evil.,yup one mankind's greatest achievement people call evil,mankind achievement 
 1.4189860973093724e+18,2021-07-24 17:27:03+00:00,['1418986097309372423'],"@WorkPsychol Wow. Bonkers! Hard to know what to say to that one eh. I still don't understand the stuff about vaccines being '99% graphene oxide'. Clearly that's not true.
 
-Sounds vaguely similar to the crap about vaccines containing mercury with a vague misunderstanding of adjuvants.",wow bonkers hard know say one still understand stuff vaccine graphene oxide' clearly that's true sound vaguely similar crap vaccine containing mercury vague misunderstanding adjuvant
-1.4189501932533924e+18,2021-07-24 15:04:23+00:00,['1418950193253392384'],https://t.co/KIh6jj4pos,
-1.4185521641972283e+18,2021-07-23 12:42:46+00:00,['1418552164197228547'],@stacyherbert That's quite a thought.,that's quite thought
-1.4185516629989663e+18,2021-07-23 12:40:46+00:00,['1418551662998966276'],Indeed. https://t.co/fLvCgIE4uz,indeed
-1.4179384395977073e+18,2021-07-21 20:04:02+00:00,['1417938439597707268'],Yeah. About that... https://t.co/5bfAD1xkZR,yeah
-1.4177964129102807e+18,2021-07-21 10:39:40+00:00,['1417796412910280708'],"...In the US, but this warning really applies here in the UK too. https://t.co/2LjeIaQsSy",warning really applies
-1.417646092494295e+18,2021-07-21 00:42:21+00:00,['1417646092494295043'],"I doubt it. And if they did, they don't care. More likely they are afraid of being sued right down to their underwear. https://t.co/69ku0IVHx2",doubt care likely afraid sued right underwear
-1.417632226611712e+18,2021-07-20 23:47:15+00:00,['1417632226611712001'],This is awesome. https://t.co/4YosDXvMZr,awesome
-1.4176179703528694e+18,2021-07-20 22:50:36+00:00,['1417617970352869376'],"@BritishProg I'm going to say Tony Levin, although ask me next week and the answer might change.",i'm going say tony levin although ask next week answer might change
-1.4175647678967194e+18,2021-07-20 19:19:12+00:00,['1417564767896719365'],"Fantastic software &amp; technology enabling this. I remote work all the time and it's literally become bread &amp; butter to anyone working with remote technologies to be able to do almost everything you would do on-site, but with your feet up, a coffee in hand and some decent sounds. https://t.co/aHXDWrCYKX",fantastic software amp technology enabling remote work time literally become bread amp butter anyone working remote technology able almost everything would onsite foot coffee hand decent sound
+Sounds vaguely similar to the crap about vaccines containing mercury with a vague misunderstanding of adjuvants.",wow bonkers hard know say one still understand stuff vaccine graphene oxide' clearly that's true sound vaguely similar crap vaccine containing mercury vague misunderstanding adjuvant,wow stuff vaccine graphene sound crap vaccine mercury vague misunderstanding adjuvant 
+1.4189501932533924e+18,2021-07-24 15:04:23+00:00,['1418950193253392384'],https://t.co/KIh6jj4pos,,nan 
+1.4185521641972283e+18,2021-07-23 12:42:46+00:00,['1418552164197228547'],@stacyherbert That's quite a thought.,that's quite thought,
+1.4185516629989663e+18,2021-07-23 12:40:46+00:00,['1418551662998966276'],Indeed. https://t.co/fLvCgIE4uz,indeed,
+1.4179384395977073e+18,2021-07-21 20:04:02+00:00,['1417938439597707268'],Yeah. About that... https://t.co/5bfAD1xkZR,yeah,yeah 
+1.4177964129102807e+18,2021-07-21 10:39:40+00:00,['1417796412910280708'],"...In the US, but this warning really applies here in the UK too. https://t.co/2LjeIaQsSy",warning really applies,
+1.417646092494295e+18,2021-07-21 00:42:21+00:00,['1417646092494295043'],"I doubt it. And if they did, they don't care. More likely they are afraid of being sued right down to their underwear. https://t.co/69ku0IVHx2",doubt care likely afraid sued right underwear,doubt care underwear 
+1.417632226611712e+18,2021-07-20 23:47:15+00:00,['1417632226611712001'],This is awesome. https://t.co/4YosDXvMZr,awesome,awesome 
+1.4176179703528694e+18,2021-07-20 22:50:36+00:00,['1417617970352869376'],"@BritishProg I'm going to say Tony Levin, although ask me next week and the answer might change.",i'm going say tony levin although ask next week answer might change,i week answer 
+1.4175647678967194e+18,2021-07-20 19:19:12+00:00,['1417564767896719365'],"Fantastic software &amp; technology enabling this. I remote work all the time and it's literally become bread &amp; butter to anyone working with remote technologies to be able to do almost everything you would do on-site, but with your feet up, a coffee in hand and some decent sounds. https://t.co/aHXDWrCYKX",fantastic software amp technology enabling remote work time literally become bread amp butter anyone working remote technology able almost everything would onsite foot coffee hand decent sound,software amp technology work time butter anyone technology everything coffee hand sound 
 1.4174719270908232e+18,2021-07-20 13:10:17+00:00,['1417471927090823178'],"Wait... NO TOILET ON BOARD????????????????
 
-https://t.co/8pUtV6DW2E",wait toilet board
+https://t.co/8pUtV6DW2E",wait toilet board,wait toilet board 
 1.4166706494231183e+18,2021-07-18 08:06:17+00:00,['1416670649423118337'],"The doc here is absolutely right. UK government policy re opening up is a shit show inside a dumpster fire. Chris Whitty knows better and should consider his position, seriously.
 
 https://t.co/Q8awdjmk3m
 
-#CoronavirusUK #Coronavirus #COVID #COVID19 #FreedomDay",doc absolutely right government policy opening shit show inside dumpster fire chris whitty know better consider position seriously
+#CoronavirusUK #Coronavirus #COVID #COVID19 #FreedomDay",doc absolutely right government policy opening shit show inside dumpster fire chris whitty know better consider position seriously,doc government policy show dumpster fire chris whitty position 
 1.416380224342831e+18,2021-07-17 12:52:15+00:00,['1416380224342831106'],"Wait... What??
 
 https://t.co/dx9O8aucCO
 
-#MikeOldfield #TubularBells #Remix #Remixed #KeyboardAffairs",wait
+#MikeOldfield #TubularBells #Remix #Remixed #KeyboardAffairs",wait,wait 
 1.4160484193119232e+18,2021-07-16 14:53:46+00:00,['1416048419311923202'],"Portrait Mode #Doom for #dos PCs!
 
 https://t.co/6xv2YTosEw
 
-#LGR",portrait mode
-1.4153518218209935e+18,2021-07-14 16:45:44+00:00,['1415351821820993537'],@Beathhigh @Drumslinger Wee Scottish guy. Good guitarist. Can hold a tune. :-),wee scottish guy good guitarist hold tune
+#LGR",portrait mode,portrait mode 
+1.4153518218209935e+18,2021-07-14 16:45:44+00:00,['1415351821820993537'],@Beathhigh @Drumslinger Wee Scottish guy. Good guitarist. Can hold a tune. :-),wee scottish guy good guitarist hold tune,guy guitarist tune 
 1.4149955228222136e+18,2021-07-13 17:09:56+00:00,['1414995522822213638'],"""There isn't an optimum time""
 
 Yes there is, you absolute and utter cockwomble: when more people have been vaccinated.
 
-https://t.co/DRHdTEMsyu",optimum time yes absolute utter cockwomble people vaccinated
-1.4149944602750894e+18,2021-07-13 17:05:43+00:00,['1414994460275089410'],"@AstroMikeMerri @DamianGreen Yeah. Also, 10% is quite a high number for such a low bar...",yeah also quite high number low bar
-1.4149812086483886e+18,2021-07-13 16:13:03+00:00,['1414981208648388618'],@ClaimedStatHall @violinchannel Good call.,good call
-1.4149797869260677e+18,2021-07-13 16:07:24+00:00,['1414979786926067714'],@tomgreenlive Quite.,quite
-1.4149779552441508e+18,2021-07-13 16:00:08+00:00,['1414977955244150794'],@IanCutress @LinusTech Not sure why anyone would want that but it sure saves on cables.,sure anyone would want sure save cable
+https://t.co/DRHdTEMsyu",optimum time yes absolute utter cockwomble people vaccinated,time 
+1.4149944602750894e+18,2021-07-13 17:05:43+00:00,['1414994460275089410'],"@AstroMikeMerri @DamianGreen Yeah. Also, 10% is quite a high number for such a low bar...",yeah also quite high number low bar,yeah number bar 
+1.4149812086483886e+18,2021-07-13 16:13:03+00:00,['1414981208648388618'],@ClaimedStatHall @violinchannel Good call.,good call,call 
+1.4149797869260677e+18,2021-07-13 16:07:24+00:00,['1414979786926067714'],@tomgreenlive Quite.,quite,
+1.4149779552441508e+18,2021-07-13 16:00:08+00:00,['1414977955244150794'],@IanCutress @LinusTech Not sure why anyone would want that but it sure saves on cables.,sure anyone would want sure save cable,anyone cable 
 1.414947735913046e+18,2021-07-13 14:00:03+00:00,['1414947735913046022'],"I for one think it's great that Nicola Sturgeon was able to make today's #COVID19 announcement from inside the Master's #TARDIS.
 
-https://t.co/aBnTdBToDr",one think great nicola sturgeon able make today's announcement inside master's
-1.4143489899070136e+18,2021-07-11 22:20:51+00:00,['1414348989907013639'],@NippyTrilimply https://t.co/WRmXg61ydn,
-1.4143454417858232e+18,2021-07-11 22:06:45+00:00,['1414345441785823235'],@NippyTrilimply But doesn't it work every time anyway?,work every time anyway
+https://t.co/aBnTdBToDr",one think great nicola sturgeon able make today's announcement inside master's,think sturgeon today announcement master 
+1.4143489899070136e+18,2021-07-11 22:20:51+00:00,['1414348989907013639'],@NippyTrilimply https://t.co/WRmXg61ydn,,nan 
+1.4143454417858232e+18,2021-07-11 22:06:45+00:00,['1414345441785823235'],@NippyTrilimply But doesn't it work every time anyway?,work every time anyway,work time 
 1.414343874957529e+18,2021-07-11 22:00:31+00:00,['1414343874957529096'],"It's not coming home
 It's not coming home
 It's not coming
 It's not coming home
 
-#Euro2020 #Euro2020Final",coming home coming home coming coming home
-1.4140282722628567e+18,2021-07-11 01:06:26+00:00,['1414028272262856706'],"@AwesomEmergency Yes, that's what I thought. Or they're just trolling us now! The Internet goes nuts over these small details. Probably the funnest marketing strategy too.",yes that's thought they're trolling internet nut small detail probably funnest marketing strategy
-1.413958624754479e+18,2021-07-10 20:29:40+00:00,['1413958624754479106'],@hibberthometech As long as you're not dry humping the air when someone eats too much! ;),long dry humping air someone eats much
-1.413548745183175e+18,2021-07-09 17:20:57+00:00,['1413548745183174660'],"@DMcGconcal @tornbaffie @Feorlean Wow. Brilliant. I remember that! Must be old, I guess...",wow brilliant remember must old guess
-1.4134811238672876e+18,2021-07-09 12:52:15+00:00,['1413481123867287558'],"@mpigliucci I do like this position, although I was never totally convinced by it. Long time since my uni days though... I should give this a listen! :-)",like position although never totally convinced long time since uni day though give listen
+#Euro2020 #Euro2020Final",coming home coming home coming coming home,home home 
+1.4140282722628567e+18,2021-07-11 01:06:26+00:00,['1414028272262856706'],"@AwesomEmergency Yes, that's what I thought. Or they're just trolling us now! The Internet goes nuts over these small details. Probably the funnest marketing strategy too.",yes that's thought they're trolling internet nut small detail probably funnest marketing strategy,thought internet detail marketing strategy 
+1.413958624754479e+18,2021-07-10 20:29:40+00:00,['1413958624754479106'],@hibberthometech As long as you're not dry humping the air when someone eats too much! ;),long dry humping air someone eats much,air someone 
+1.413548745183175e+18,2021-07-09 17:20:57+00:00,['1413548745183174660'],"@DMcGconcal @tornbaffie @Feorlean Wow. Brilliant. I remember that! Must be old, I guess...",wow brilliant remember must old guess,wow remember guess 
+1.4134811238672876e+18,2021-07-09 12:52:15+00:00,['1413481123867287558'],"@mpigliucci I do like this position, although I was never totally convinced by it. Long time since my uni days though... I should give this a listen! :-)",like position although never totally convinced long time since uni day though give listen,position time day listen 
 1.413480124813484e+18,2021-07-09 12:48:17+00:00,['1413480124813484036'],"I've seen these a few times over the years, usually over the sea, but this one is a cracker.
 
-#funnelcloud https://t.co/PFM2rPVSsb",i've seen time year usually sea one cracker
-1.4134493749952922e+18,2021-07-09 10:46:06+00:00,['1413449374995292160'],@marsrader THE END IS NIGH :-),end nigh
-1.4129254011947622e+18,2021-07-08 00:04:01+00:00,['1412925401194762244'],"@GodzillaHaiku Depending on software. But yes kinda! Right now I'm imagining running two of them together on a Raspberry Pi. Early synths like the Prophet series, although of a different kind, used this 'doubling up' idea with polyphony spread across the two units (Prophet 10). That would rock.",depending software yes kinda right i'm imagining running two together raspberry early synths like prophet series although different kind used 'doubling up' idea polyphony spread across two unit prophet would rock
+#funnelcloud https://t.co/PFM2rPVSsb",i've seen time year usually sea one cracker,i time year cracker 
+1.4134493749952922e+18,2021-07-09 10:46:06+00:00,['1413449374995292160'],@marsrader THE END IS NIGH :-),end nigh,end nigh 
+1.4129254011947622e+18,2021-07-08 00:04:01+00:00,['1412925401194762244'],"@GodzillaHaiku Depending on software. But yes kinda! Right now I'm imagining running two of them together on a Raspberry Pi. Early synths like the Prophet series, although of a different kind, used this 'doubling up' idea with polyphony spread across the two units (Prophet 10). That would rock.",depending software yes kinda right i'm imagining running two together raspberry early synths like prophet series although different kind used 'doubling up' idea polyphony spread across two unit prophet would rock,software i prophet series kind idea polyphony unit prophet 
 1.4129198545254523e+18,2021-07-07 23:41:58+00:00,['1412919854525452292'],"This is awesome. #OPL3 back in the day was WAY ahead of its time with the fantastic #Yamaha #YMF262 chip bringing inexpensive FM synthesis to the masses, its type L3 FM modes offering more operators per voice, more polyphony and loads of other goodies.
 
-#WANT https://t.co/CRiFD3Yykt",awesome back day way ahead time fantastic chip bringing inexpensive synthesis mass type mode offering operator per voice polyphony load goody
-1.4128643099113308e+18,2021-07-07 20:01:15+00:00,['1412864309911330816'],"@NippyTrilimply @MJowen174 Yes, but whose?",yes whose
-1.4128591911659643e+18,2021-07-07 19:40:55+00:00,['1412859191165964290'],@MJowen174 I wish. Ian Dury &amp; The Blockheads would be on at the Kensington Hotel in London all July.,wish ian dury amp blockhead would kensington hotel london july
+#WANT https://t.co/CRiFD3Yykt",awesome back day way ahead time fantastic chip bringing inexpensive synthesis mass type mode offering operator per voice polyphony load goody,day way time chip synthesis mass type mode offering operator voice polyphony load goody 
+1.4128643099113308e+18,2021-07-07 20:01:15+00:00,['1412864309911330816'],"@NippyTrilimply @MJowen174 Yes, but whose?",yes whose,
+1.4128591911659643e+18,2021-07-07 19:40:55+00:00,['1412859191165964290'],@MJowen174 I wish. Ian Dury &amp; The Blockheads would be on at the Kensington Hotel in London all July.,wish ian dury amp blockhead would kensington hotel london july,dury amp blockhead hotel london july 
 1.4125346360565596e+18,2021-07-06 22:11:15+00:00,['1412534636056559616'],"It's definitely the #Adidas trainers that make this cool.
 
-https://t.co/w6xyWepiUr",definitely trainer make cool
-1.4117739228198584e+18,2021-07-04 19:48:27+00:00,['1411773922819858432'],@Drumslinger Somehow I have managed never to see any of those movies!,somehow managed never see movie
+https://t.co/w6xyWepiUr",definitely trainer make cool,cool 
+1.4117739228198584e+18,2021-07-04 19:48:27+00:00,['1411773922819858432'],@Drumslinger Somehow I have managed never to see any of those movies!,somehow managed never see movie,movie 
 1.4114080548605174e+18,2021-07-03 19:34:37+00:00,['1411408054860517380'],"Is that username available on the services you want to use?
 
-https://t.co/Ca3lsdmvny",username available service want use
-1.4113553875220726e+18,2021-07-03 16:05:20+00:00,['1411355387522072576'],And well might he look nervous given the transparency of his behaviour and the damage he has been prepared to do to his country for the sake of a bit of extra profit for him and his sock puppet friends. https://t.co/ajbt9GjF5b,well might look nervous given transparency behaviour damage prepared country sake bit extra profit sock puppet friend
-1.4111074449699062e+18,2021-07-02 23:40:06+00:00,['1411107444969906180'],@Astropartigirl I'm still trying to get my head around why some claim that the Bullet Cluster is evidence AGAINST dark matter as a new kind of particular matter. Thus far I've understood it to be evidence FOR. So many twists and turns in the research.,i'm still trying get head around claim bullet cluster evidence dark matter new kind particular matter thus far i've understood evidence many twist turn research
-1.4106795722958277e+18,2021-07-01 19:19:53+00:00,['1410679572295827456'],It's handy to be able to claim that statistics are 'damned lies' when you wish to try to disagree with them. Isn't it. https://t.co/6bFArut9N0,handy able claim statistic 'damned lies' wish try disagree
+https://t.co/Ca3lsdmvny",username available service want use,service use 
+1.4113553875220726e+18,2021-07-03 16:05:20+00:00,['1411355387522072576'],And well might he look nervous given the transparency of his behaviour and the damage he has been prepared to do to his country for the sake of a bit of extra profit for him and his sock puppet friends. https://t.co/ajbt9GjF5b,well might look nervous given transparency behaviour damage prepared country sake bit extra profit sock puppet friend,transparency behaviour damage country bit profit sock puppet friend 
+1.4111074449699062e+18,2021-07-02 23:40:06+00:00,['1411107444969906180'],@Astropartigirl I'm still trying to get my head around why some claim that the Bullet Cluster is evidence AGAINST dark matter as a new kind of particular matter. Thus far I've understood it to be evidence FOR. So many twists and turns in the research.,i'm still trying get head around claim bullet cluster evidence dark matter new kind particular matter thus far i've understood evidence many twist turn research,i bullet cluster evidence matter kind matter evidence twist research 
+1.4106795722958277e+18,2021-07-01 19:19:53+00:00,['1410679572295827456'],It's handy to be able to claim that statistics are 'damned lies' when you wish to try to disagree with them. Isn't it. https://t.co/6bFArut9N0,handy able claim statistic 'damned lies' wish try disagree,claim 
 1.4106633284442644e+18,2021-07-01 18:15:21+00:00,['1410663328444264454'],"@NewThea Yes I remember it being played on MTV. The presenter was saying how much Robertson's voice reminded him of the hot sticky New Orleans night. I've thought of it that way since.
 
-As for Echo Beach, not a Summer memory as such. I probably played that record all the time!",yes remember played mtv presenter saying much robertson's voice reminded hot sticky new orleans night i've thought way since echo beach summer memory probably played record time
+As for Echo Beach, not a Summer memory as such. I probably played that record all the time!",yes remember played mtv presenter saying much robertson's voice reminded hot sticky new orleans night i've thought way since echo beach summer memory probably played record time,mtv presenter robertson voice night i way beach summer memory record time 
 1.4105709614019215e+18,2021-07-01 12:08:18+00:00,['1410570961401921545'],"@NewThea Ooh.......
 
-Robbie Robertson - Somewhere Down The Crazy River :-)",ooh robbie robertson somewhere crazy river
-1.4105695306702643e+18,2021-07-01 12:02:37+00:00,['1410569530670264323'],"@NewThea Sorry, I misread the post. Agreed. But Echo Beach is a cracker. Good one to play bass along to in your room when you're 15 years old :-)",sorry misread post agreed echo beach cracker good one play bass along room year old
-1.410552880403206e+18,2021-07-01 10:56:28+00:00,['1410552880403206146'],@NewThea Video Killed The Radio Star. Maybe also Echo Beach :-),video killed radio star maybe also echo beach
-1.4102792811927552e+18,2021-06-30 16:49:17+00:00,['1410279281192755206'],@Britt_W @jonsnowC4 Benjamin Zephaniah is pure class. Great writer and a cheeky sense of humour. Always worth a listen.,benjamin zephaniah pure class great writer cheeky sense humour always worth listen
-1.4102548883454198e+18,2021-06-30 15:12:21+00:00,['1410254888345419780'],@ManchesterOrch @localnatives Nice. Different take on a song I already liked. I think I like it more now.,nice different take song already liked think like
-1.4100025576746555e+18,2021-06-29 22:29:40+00:00,['1410002557674655748'],"The rebranding's going well, then. https://t.co/bq6XRMir7L",rebranding's going well
-1.410002429135962e+18,2021-06-29 22:29:10+00:00,['1410002429135962116'],@rasuru_fusho @omgubuntu Superb.,superb
+Robbie Robertson - Somewhere Down The Crazy River :-)",ooh robbie robertson somewhere crazy river,robbie robertson river 
+1.4105695306702643e+18,2021-07-01 12:02:37+00:00,['1410569530670264323'],"@NewThea Sorry, I misread the post. Agreed. But Echo Beach is a cracker. Good one to play bass along to in your room when you're 15 years old :-)",sorry misread post agreed echo beach cracker good one play bass along room year old,misread post beach cracker play bass room year 
+1.410552880403206e+18,2021-07-01 10:56:28+00:00,['1410552880403206146'],@NewThea Video Killed The Radio Star. Maybe also Echo Beach :-),video killed radio star maybe also echo beach,video radio star beach 
+1.4102792811927552e+18,2021-06-30 16:49:17+00:00,['1410279281192755206'],@Britt_W @jonsnowC4 Benjamin Zephaniah is pure class. Great writer and a cheeky sense of humour. Always worth a listen.,benjamin zephaniah pure class great writer cheeky sense humour always worth listen,benjamin zephaniah pure class writer cheeky sense humour 
+1.4102548883454198e+18,2021-06-30 15:12:21+00:00,['1410254888345419780'],@ManchesterOrch @localnatives Nice. Different take on a song I already liked. I think I like it more now.,nice different take song already liked think like,take song 
+1.4100025576746555e+18,2021-06-29 22:29:40+00:00,['1410002557674655748'],"The rebranding's going well, then. https://t.co/bq6XRMir7L",rebranding's going well,
+1.410002429135962e+18,2021-06-29 22:29:10+00:00,['1410002429135962116'],@rasuru_fusho @omgubuntu Superb.,superb,superb 
 1.4099037310894776e+18,2021-06-29 15:56:58+00:00,['1409903731089477634'],"WHOOPS!!
 
-https://t.co/kRtmqC9ZUa",whoop
-1.409592323273642e+18,2021-06-28 19:19:33+00:00,['1409592323273641984'],70s eh? Jeez. Corporal punishment is wrong. It's degrading and sets up absolutely the wrong relationship between pupil and teacher/school. Little more than common assault. https://t.co/20RDuQQRo5,jeez corporal punishment wrong degrading set absolutely wrong relationship pupil teacherschool little common assault
-1.4095765053368115e+18,2021-06-28 18:16:42+00:00,['1409576505336811524'],"Well said. And if all goes well, everything she says will be true. However there is still the matter of continuing re-acquisition of infection - especially due to mutation/evolution of the virus - from across the world. We have not yet seen the end of this pandemic. https://t.co/t7sCpAkiw1",well said well everything say true however still matter continuing reacquisition infection especially due mutationevolution virus across world yet seen end pandemic
-1.4095749484657418e+18,2021-06-28 18:10:31+00:00,['1409574948465741831'],@PaulRenfrew @Western_Ferries @PS_Waverley @MscShipping That's a cracker of a shot.,that's cracker shot
-1.4095746042685276e+18,2021-06-28 18:09:08+00:00,['1409574604268527621'],Still 20 degrees outside (garden thermometer says even higher). Amazebaws.,still degree outside garden thermometer say even higher amazebaws
+https://t.co/kRtmqC9ZUa",whoop,whoop 
+1.409592323273642e+18,2021-06-28 19:19:33+00:00,['1409592323273641984'],70s eh? Jeez. Corporal punishment is wrong. It's degrading and sets up absolutely the wrong relationship between pupil and teacher/school. Little more than common assault. https://t.co/20RDuQQRo5,jeez corporal punishment wrong degrading set absolutely wrong relationship pupil teacherschool little common assault,jeez punishment degrading relationship teacherschool assault 
+1.4095765053368115e+18,2021-06-28 18:16:42+00:00,['1409576505336811524'],"Well said. And if all goes well, everything she says will be true. However there is still the matter of continuing re-acquisition of infection - especially due to mutation/evolution of the virus - from across the world. We have not yet seen the end of this pandemic. https://t.co/t7sCpAkiw1",well said well everything say true however still matter continuing reacquisition infection especially due mutationevolution virus across world yet seen end pandemic,everything reacquisition infection mutationevolution virus world end pandemic 
+1.4095749484657418e+18,2021-06-28 18:10:31+00:00,['1409574948465741831'],@PaulRenfrew @Western_Ferries @PS_Waverley @MscShipping That's a cracker of a shot.,that's cracker shot,shot 
+1.4095746042685276e+18,2021-06-28 18:09:08+00:00,['1409574604268527621'],Still 20 degrees outside (garden thermometer says even higher). Amazebaws.,still degree outside garden thermometer say even higher amazebaws,garden thermometer amazebaws 
 1.4095660726599803e+18,2021-06-28 17:35:14+00:00,['1409566072659980297'],"@jjsanderson Looking over at GitHub. There are some good, well-structured examples there if you are Git-inclined. :-)
 
-Stackoverflow is often a good source for me if the question is specific and someone has come across it before.",looking github good wellstructured example gitinclined stackoverflow often good source question specific someone come across
-1.409552857469272e+18,2021-06-28 16:42:44+00:00,['1409552857469272080'],@jjsanderson I know the feeling. Maybe just immerse yourself in C++ literature for a bit. See what pops out. That's my way pretty often!,know feeling maybe immerse literature bit see pop that's way pretty often
-1.4095474356896154e+18,2021-06-28 16:21:11+00:00,['1409547435689615362'],"Really? That's your conclusion after one day in the job? Your 'target date' is still three weeks away, man. https://t.co/9xIFofisPG",really that's conclusion one day job 'target date' still three week away man
-1.4095434736577454e+18,2021-06-28 16:05:26+00:00,['1409543473657745411'],@jjsanderson Sounds like a tough job. Sorry can only offer what I've already said. Mainly a Java guy myself these days. C++ can be quite nuanced. You may very well be going about this the right way if you're strong on the basic-to-mid level stuff.,sound like tough job sorry offer i've already said mainly java guy day quite nuanced may well going right way strong basictomid level stuff
-1.4095367499661435e+18,2021-06-28 15:38:43+00:00,['1409536749966143496'],"LOL. Good point. Didn't need #TPM2 as an operating requirement, so there was that... https://t.co/0LZyXMhcs2",lol good point need operating requirement
-1.409535403691065e+18,2021-06-28 15:33:22+00:00,['1409535403691065344'],@mpigliucci Exactly.,exactly
-1.4095335252761682e+18,2021-06-28 15:25:54+00:00,['1409533525276168203'],@molach95 @billykayscot @overlandertheb1 Interesting. I didn't know this. I'd always taken the word knap to mean a small hill or generally something bumpy etc. Thanks for sharing this.,interesting know i'd always taken word knap mean small hill generally something bumpy etc thanks sharing
+Stackoverflow is often a good source for me if the question is specific and someone has come across it before.",looking github good wellstructured example gitinclined stackoverflow often good source question specific someone come across,github example source question someone 
+1.409552857469272e+18,2021-06-28 16:42:44+00:00,['1409552857469272080'],@jjsanderson I know the feeling. Maybe just immerse yourself in C++ literature for a bit. See what pops out. That's my way pretty often!,know feeling maybe immerse literature bit see pop that's way pretty often,literature bit way 
+1.4095474356896154e+18,2021-06-28 16:21:11+00:00,['1409547435689615362'],"Really? That's your conclusion after one day in the job? Your 'target date' is still three weeks away, man. https://t.co/9xIFofisPG",really that's conclusion one day job 'target date' still three week away man,conclusion day job date week man 
+1.4095434736577454e+18,2021-06-28 16:05:26+00:00,['1409543473657745411'],@jjsanderson Sounds like a tough job. Sorry can only offer what I've already said. Mainly a Java guy myself these days. C++ can be quite nuanced. You may very well be going about this the right way if you're strong on the basic-to-mid level stuff.,sound like tough job sorry offer i've already said mainly java guy day quite nuanced may well going right way strong basictomid level stuff,sound job sorry guy day way level stuff 
+1.4095367499661435e+18,2021-06-28 15:38:43+00:00,['1409536749966143496'],"LOL. Good point. Didn't need #TPM2 as an operating requirement, so there was that... https://t.co/0LZyXMhcs2",lol good point need operating requirement,point need requirement 
+1.409535403691065e+18,2021-06-28 15:33:22+00:00,['1409535403691065344'],@mpigliucci Exactly.,exactly,
+1.4095335252761682e+18,2021-06-28 15:25:54+00:00,['1409533525276168203'],@molach95 @billykayscot @overlandertheb1 Interesting. I didn't know this. I'd always taken the word knap to mean a small hill or generally something bumpy etc. Thanks for sharing this.,interesting know i'd always taken word knap mean small hill generally something bumpy etc thanks sharing,know i word knap hill something 
 1.4095316636721357e+18,2021-06-28 15:18:31+00:00,['1409531663672135681'],"FFS. It's the End Times, I tell you.
 
-https://t.co/Od9nNCcfks",ffs end time tell
-1.4095292432944415e+18,2021-06-28 15:08:54+00:00,['1409529243294441475'],@jjsanderson Is it just the Arduino end you're interested in or C++ itself? I've always found that the hardware side was too niche for general reference and that Bjarne Stroustrup is a good reference for anything. Otherwise I'd hit the forums.,arduino end interested i've always found hardware side niche general reference bjarne stroustrup good reference anything otherwise i'd hit forum
+https://t.co/Od9nNCcfks",ffs end time tell,time tell 
+1.4095292432944415e+18,2021-06-28 15:08:54+00:00,['1409529243294441475'],@jjsanderson Is it just the Arduino end you're interested in or C++ itself? I've always found that the hardware side was too niche for general reference and that Bjarne Stroustrup is a good reference for anything. Otherwise I'd hit the forums.,arduino end interested i've always found hardware side niche general reference bjarne stroustrup good reference anything otherwise i'd hit forum,end i side niche reference bjarne reference anything forum 
 1.4094714164042547e+18,2021-06-28 11:19:07+00:00,['1409471416404254721'],"Who knew? Yeah.
 
 https://t.co/lbC49lllvK
 
-#Brexit #BrexShit #RejoinEU",knew yeah
+#Brexit #BrexShit #RejoinEU",knew yeah,
 1.4088029928417935e+18,2021-06-26 15:03:02+00:00,['1408802992841793539'],"Man. A nearby neighbour has the BBQ on and is currently cooking sausages/burgers galore judging by the smell wafting through the open window at my desk...
 
-https://t.co/X9nsZLPa37.",man nearby neighbour bbq currently cooking sausagesburgers galore judging smell wafting open window desk
+https://t.co/X9nsZLPa37.",man nearby neighbour bbq currently cooking sausagesburgers galore judging smell wafting open window desk,man bbq smell window desk 
 1.4080149909935104e+18,2021-06-24 10:51:48+00:00,['1408014990993510407'],"#Milley is absolutely right here. I also have read #Marx and #Lenin and I am not a communist either. Knowledge is understanding. Understanding is living better.
 
-https://t.co/TuVSmgQ3rO",absolutely right also read communist either knowledge understanding understanding living better
-1.4076628637712138e+18,2021-06-23 11:32:34+00:00,['1407662863771213826'],https://t.co/XDE5p0FuFV,
+https://t.co/TuVSmgQ3rO",absolutely right also read communist either knowledge understanding understanding living better,knowledge understanding living better 
+1.4076628637712138e+18,2021-06-23 11:32:34+00:00,['1407662863771213826'],https://t.co/XDE5p0FuFV,,nan 
 1.4076596337670758e+18,2021-06-23 11:19:44+00:00,['1407659633767075843'],"Really, we all need to realise that the physics of viral variant spread is undeniable and unstoppable given our current abilities. Life has changed for us all and won't return to 'normal' for a long time.
 
 https://t.co/HEY2JUOu9j
 
-#Coronavirus #CoronavirusPandemic #Vaccination",really need realise physic viral variant spread undeniable unstoppable given current ability life changed return 'normal' long time
-1.407099818086998e+18,2021-06-21 22:15:13+00:00,['1407099818086998018'],If the right wing in America is so in favour of the 'right to life' then why don't they do something about their bloody gun laws? https://t.co/HU2cErkAkg,right wing america favour 'right life' something bloody gun law
-1.4069841185592525e+18,2021-06-21 14:35:29+00:00,['1406984118559252489'],Good point there. https://t.co/PXNXx9OVuN,good point
-1.4065703216925286e+18,2021-06-20 11:11:12+00:00,['1406570321692528641'],Jag #2 done - ✅,jag done
-1.406263783551611e+18,2021-06-19 14:53:07+00:00,['1406263783551610881'],"Sure, if by 'core values' you mean racism. https://t.co/U8duTT3nMl",sure 'core values' mean racism
+#Coronavirus #CoronavirusPandemic #Vaccination",really need realise physic viral variant spread undeniable unstoppable given current ability life changed return 'normal' long time,realise variant spread ability life return time 
+1.407099818086998e+18,2021-06-21 22:15:13+00:00,['1407099818086998018'],If the right wing in America is so in favour of the 'right to life' then why don't they do something about their bloody gun laws? https://t.co/HU2cErkAkg,right wing america favour 'right life' something bloody gun law,life something gun law 
+1.4069841185592525e+18,2021-06-21 14:35:29+00:00,['1406984118559252489'],Good point there. https://t.co/PXNXx9OVuN,good point,point 
+1.4065703216925286e+18,2021-06-20 11:11:12+00:00,['1406570321692528641'],Jag #2 done - ✅,jag done,jag 
+1.406263783551611e+18,2021-06-19 14:53:07+00:00,['1406263783551610881'],"Sure, if by 'core values' you mean racism. https://t.co/U8duTT3nMl",sure 'core values' mean racism,mean racism 
 1.4059163717126308e+18,2021-06-18 15:52:38+00:00,['1405916371712630788'],"Met Police 'institutionally corrupt', says report. Really? Who knew?
 
-https://t.co/BjSI8N2nPJ",met police 'institutionally corrupt' say report really knew
-1.4052017139345244e+18,2021-06-16 16:32:50+00:00,['1405201713934524416'],@NippyTrilimply You mean they might shoot themselves in the foot? Or worse?,mean might shoot foot worse
-1.4051759061513708e+18,2021-06-16 14:50:17+00:00,['1405175906151370753'],"Exactly. Honestly, this outcome has surprised me a bit, but it's real nonetheless. Trump et al were incompetent - but the next lot of autocratic contenders may be fully capable of realising their goal. https://t.co/OdLL9KM7kc",exactly honestly outcome surprised bit real nonetheless trump incompetent next lot autocratic contender may fully capable realising goal
+https://t.co/BjSI8N2nPJ",met police 'institutionally corrupt' say report really knew,report 
+1.4052017139345244e+18,2021-06-16 16:32:50+00:00,['1405201713934524416'],@NippyTrilimply You mean they might shoot themselves in the foot? Or worse?,mean might shoot foot worse,mean foot worse 
+1.4051759061513708e+18,2021-06-16 14:50:17+00:00,['1405175906151370753'],"Exactly. Honestly, this outcome has surprised me a bit, but it's real nonetheless. Trump et al were incompetent - but the next lot of autocratic contenders may be fully capable of realising their goal. https://t.co/OdLL9KM7kc",exactly honestly outcome surprised bit real nonetheless trump incompetent next lot autocratic contender may fully capable realising goal,bit lot contender goal 
 1.404780897933697e+18,2021-06-15 12:40:40+00:00,['1404780897933697024'],"Oh, right. Pants. Mustn't forget those.
 
-https://t.co/mBcCiGDhlw",right pant forget
-1.4044391301641093e+18,2021-06-14 14:02:36+00:00,['1404439130164109313'],https://t.co/ik1IVyVn6Q,
+https://t.co/mBcCiGDhlw",right pant forget,pant forget 
+1.4044391301641093e+18,2021-06-14 14:02:36+00:00,['1404439130164109313'],https://t.co/ik1IVyVn6Q,,nan 
 1.4035047389566116e+18,2021-06-12 00:09:40+00:00,['1403504738956611586'],"Oh, dear God - the earworm!
 
-https://t.co/8bI7S1dTYA",dear god earworm
-1.403404673940398e+18,2021-06-11 17:32:02+00:00,['1403404673940398082'],"@DMcGconcal Commodore Amiga 1200 spotted at 11'42"".",commodore amiga spotted
+https://t.co/8bI7S1dTYA",dear god earworm,god earworm 
+1.403404673940398e+18,2021-06-11 17:32:02+00:00,['1403404673940398082'],"@DMcGconcal Commodore Amiga 1200 spotted at 11'42"".",commodore amiga spotted,commodore amiga 
 1.4029458640506102e+18,2021-06-10 11:08:54+00:00,['1402945864050610178'],"#America. Hello... Is this mic on?
 
 https://t.co/V6LqJtg4qb
 
-#Trump #TheBigLie #Democracy #DemocracyInDanger #Politics",hello mic
+#Trump #TheBigLie #Democracy #DemocracyInDanger #Politics",hello mic,hello mic 

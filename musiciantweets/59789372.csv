@@ -1,476 +1,476 @@
-id,created_at,edit_history_tweet_ids,text,clean_text
-1.5650827379078308e+18,2022-08-31 21:02:57+00:00,['1565082737907830786'],@lufc_ellie Should have been booked. Blatant time-wasting throughout.,booked blatant timewasting throughout
-1.564978524372566e+18,2022-08-31 14:08:50+00:00,['1564978524372566017'],"Today's #gym #workout accompaniment, #NewMusic from Sam Prekop + John McEntire and Lee Bains @TheGloryFires So much excellent new #music out there #workouts",today's accompaniment sam prekop john mcentire lee bains much excellent new
-1.5647329952227656e+18,2022-08-30 21:53:12+00:00,['1564732995222765570'],Having watched #LEEEVE it would appear that Everton are this season's Burnley. Pretty much attack v defence for 90 mins. Frustrating watch. Still a useful point @LUFC #lufc #LeedsUnited #PremierLeague,watched would appear everton season's burnley pretty much attack defence min frustrating watch still useful point
-1.5646391166706647e+18,2022-08-30 15:40:09+00:00,['1564639116670664709'],"Watched the new Iranian #film 'Hit The Road'. Enjoyed it. Quirky, different, with some striking photography. Several notable long takes, some very impressive, some too drawn out. Worth checking out #Cinema #movies #films",watched new iranian 'hit road' enjoyed quirky different striking photography several notable long take impressive drawn worth checking
-1.5646142738919834e+18,2022-08-30 14:01:26+00:00,['1564614273891983362'],Looking for a response to Saturday's game from @LUFC tonight. Be good to see Lampard lose #football #lufc #leeds,looking response saturday's game tonight good see lampard lose
-1.564611531106566e+18,2022-08-30 13:50:32+00:00,['1564611531106566149'],"@RonSexsmith Another quality album: Thinking Out Loud, Strawberry Blonde, Child Star are my favourites on this one.",another quality album thinking loud strawberry blonde child star favourite one
-1.5645778501157192e+18,2022-08-30 11:36:42+00:00,['1564577850115719169'],@anaismitchell Any chance of 'Changer' on Thursday night @Nath_Brudenell in Leeds? It's become a personal favourite over the years. Hope the tour's going well. Just booked for @bonnylightband in February too. Good times #livemusic #music,chance 'changer' thursday night leeds become personal favourite year hope tour's going well booked february good time
-1.564327242146136e+18,2022-08-29 19:00:52+00:00,['1564327242146136064'],@RonSexsmith Classic album. Still my favourite album of yours 👏,classic album still favourite album
-1.5642260428349645e+18,2022-08-29 12:18:45+00:00,['1564226042834964481'],@christinamartin 😄,
-1.5642192365071606e+18,2022-08-29 11:51:42+00:00,['1564219236507160579'],@christinamartin 🫣,
-1.5639104953331302e+18,2022-08-28 15:24:52+00:00,['1563910495333130242'],"Thoroughly enjoyed Lynne Ramsay's #film of Lionel Shriver's excellent #Novel, 'We Need To Talk About Kevin' with Tilda Swinton and John C Reilly. Captured the book superbly but completely cinematically. Distinctive, yet wholly faithful @NetflixFilm @BBCFilm #movie #Cinema",thoroughly enjoyed lynne ramsay's lionel shriver's excellent 'we need talk kevin' tilda swinton john reilly captured book superbly completely cinematically distinctive yet wholly faithful
-1.5638238140683756e+18,2022-08-28 09:40:26+00:00,['1563823814068375557'],Excellent show by @TheNational @WHP_Mcr @depotmayfield last night. Audience in fine voice. Word-perfect sing-a-long from start to finish. Really good vibe. Seen them many times now. Come a long way since The Cockpit in Leeds. Huge warehouse venue last night #livemusic #music,excellent show last night audience fine voice wordperfect singalong start finish really good vibe seen many time come long way since cockpit leeds huge warehouse venue last night
-1.5632847267055575e+18,2022-08-26 21:58:17+00:00,['1563284726705557505'],'Ladder To The Moon' from the new @NoiseClinic1 #album 'The Light Needs Its Shadow'. Out now! One of my favourites from the new album. Shorter one 😄 #electronicmusic #Electronic #music #musica #electronica #musique #electronique #musiche #instrumentals  https://t.co/jZvP9SrI5y,'ladder moon' new 'the light need shadow' one favourite new album shorter one
+id,created_at,edit_history_tweet_ids,text,clean_text,nouns
+1.5650827379078308e+18,2022-08-31 21:02:57+00:00,['1565082737907830786'],@lufc_ellie Should have been booked. Blatant time-wasting throughout.,booked blatant timewasting throughout,blatant 
+1.564978524372566e+18,2022-08-31 14:08:50+00:00,['1564978524372566017'],"Today's #gym #workout accompaniment, #NewMusic from Sam Prekop + John McEntire and Lee Bains @TheGloryFires So much excellent new #music out there #workouts",today's accompaniment sam prekop john mcentire lee bains much excellent new,today accompaniment sam prekop john mcentire lee 
+1.5647329952227656e+18,2022-08-30 21:53:12+00:00,['1564732995222765570'],Having watched #LEEEVE it would appear that Everton are this season's Burnley. Pretty much attack v defence for 90 mins. Frustrating watch. Still a useful point @LUFC #lufc #LeedsUnited #PremierLeague,watched would appear everton season's burnley pretty much attack defence min frustrating watch still useful point,season burnley attack defence min frustrating watch point 
+1.5646391166706647e+18,2022-08-30 15:40:09+00:00,['1564639116670664709'],"Watched the new Iranian #film 'Hit The Road'. Enjoyed it. Quirky, different, with some striking photography. Several notable long takes, some very impressive, some too drawn out. Worth checking out #Cinema #movies #films",watched new iranian 'hit road' enjoyed quirky different striking photography several notable long take impressive drawn worth checking,road photography take drawn 
+1.5646142738919834e+18,2022-08-30 14:01:26+00:00,['1564614273891983362'],Looking for a response to Saturday's game from @LUFC tonight. Be good to see Lampard lose #football #lufc #leeds,looking response saturday's game tonight good see lampard lose,response saturday game see 
+1.564611531106566e+18,2022-08-30 13:50:32+00:00,['1564611531106566149'],"@RonSexsmith Another quality album: Thinking Out Loud, Strawberry Blonde, Child Star are my favourites on this one.",another quality album thinking loud strawberry blonde child star favourite one,quality album strawberry blonde child star 
+1.5645778501157192e+18,2022-08-30 11:36:42+00:00,['1564577850115719169'],@anaismitchell Any chance of 'Changer' on Thursday night @Nath_Brudenell in Leeds? It's become a personal favourite over the years. Hope the tour's going well. Just booked for @bonnylightband in February too. Good times #livemusic #music,chance 'changer' thursday night leeds become personal favourite year hope tour's going well booked february good time,chance night year tour time 
+1.564327242146136e+18,2022-08-29 19:00:52+00:00,['1564327242146136064'],@RonSexsmith Classic album. Still my favourite album of yours 👏,classic album still favourite album,album album 
+1.5642260428349645e+18,2022-08-29 12:18:45+00:00,['1564226042834964481'],@christinamartin 😄,,nan 
+1.5642192365071606e+18,2022-08-29 11:51:42+00:00,['1564219236507160579'],@christinamartin 🫣,,nan 
+1.5639104953331302e+18,2022-08-28 15:24:52+00:00,['1563910495333130242'],"Thoroughly enjoyed Lynne Ramsay's #film of Lionel Shriver's excellent #Novel, 'We Need To Talk About Kevin' with Tilda Swinton and John C Reilly. Captured the book superbly but completely cinematically. Distinctive, yet wholly faithful @NetflixFilm @BBCFilm #movie #Cinema",thoroughly enjoyed lynne ramsay's lionel shriver's excellent 'we need talk kevin' tilda swinton john reilly captured book superbly completely cinematically distinctive yet wholly faithful,ramsay lionel shriver need talk swinton john book 
+1.5638238140683756e+18,2022-08-28 09:40:26+00:00,['1563823814068375557'],Excellent show by @TheNational @WHP_Mcr @depotmayfield last night. Audience in fine voice. Word-perfect sing-a-long from start to finish. Really good vibe. Seen them many times now. Come a long way since The Cockpit in Leeds. Huge warehouse venue last night #livemusic #music,excellent show last night audience fine voice wordperfect singalong start finish really good vibe seen many time come long way since cockpit leeds huge warehouse venue last night,excellent show night audience voice wordperfect start vibe time way cockpit warehouse venue night 
+1.5632847267055575e+18,2022-08-26 21:58:17+00:00,['1563284726705557505'],'Ladder To The Moon' from the new @NoiseClinic1 #album 'The Light Needs Its Shadow'. Out now! One of my favourites from the new album. Shorter one 😄 #electronicmusic #Electronic #music #musica #electronica #musique #electronique #musiche #instrumentals  https://t.co/jZvP9SrI5y,'ladder moon' new 'the light need shadow' one favourite new album shorter one,moon shadow album shorter 
 1.5627231957191352e+18,2022-08-25 08:46:58+00:00,['1562723195719135232'],"Sunak says it was a mistake to 'empower scientists' during the #COVID pandemic. More 'me, me, me,' bullshit from the pint-sized, jug-eared, faux-empathising desperado #sage @IndependentSage #coronavirus #COVID #Politics
-https://t.co/laMOwVLQi3",sunak say mistake 'empower scientists' pandemic 'me me' bullshit pintsized jugeared fauxempathising desperado
+https://t.co/laMOwVLQi3",sunak say mistake 'empower scientists' pandemic 'me me' bullshit pintsized jugeared fauxempathising desperado,fauxempathising desperado 
 1.562713462404694e+18,2022-08-25 08:08:17+00:00,['1562713462404694016'],"Thank you @maitlis for calling out what many of us suspected. I gave up on @BBCNews as a direct result of its false equivalence reporting of #Brexit where right-wing, populist blowhards were given the same status as those stating actual facts #Maitlis
-https://t.co/BpQY4ipQsy",thank calling many suspected gave direct result false equivalence reporting rightwing populist blowhard given status stating actual fact
-1.5617711737210225e+18,2022-08-22 17:43:58+00:00,['1561771173721022466'],@Emilywh82126750 👍😂,
-1.561690660926853e+18,2022-08-22 12:24:03+00:00,['1561690660926853123'],@Thebubblegunman 👍,
-1.5616821633550582e+18,2022-08-22 11:50:17+00:00,['1561682163355058176'],#nowreading Just finished 'The Gallows Pole' by Benjamin Myers which tells the tale of The Cragg Vale Coiners. Excellent historical #Novel which resonates all the more as it's set in my home area. I believe Shane Meadows is filming it which should be quite something #BookTwitter,finished 'the gallows pole' benjamin myers tell tale cragg vale coiner excellent historical resonates set home area believe shane meadow filming quite something
-1.5616737513554248e+18,2022-08-22 11:16:51+00:00,['1561673751355424770'],"Today's #gym #workout accompaniment, new #music from @TheSadies, @JohnMorelandOK and a revisit to excellent new @dawestheband #Album #workouts",today's accompaniment new revisit excellent new
-1.561672739353727e+18,2022-08-22 11:12:50+00:00,['1561672739353726976'],@dawestheband new #Album is a cracker. Probably their best one for me. Unmistakably @dawestheband  but wt some rather tasty jazzy/proggy noodling thrown into the mix. Quality. Hope they make it back to @Nath_Brudenell in #LEEDS again some day. Would love to hear these songs live,new cracker probably best one unmistakably rather tasty jazzyproggy noodling thrown mix quality hope make back day would love hear song live
-1.5616698999232143e+18,2022-08-22 11:01:33+00:00,['1561669899923214347'],"Having watched #LeeChe live yesterday, read the @guardian match report today, watched the highlights and listened to the pundits, I can only conclude that Tuchel is a something of a graceless twat @LUFC #lufc #LeedsUnited #LEEDS @premierleague @SkySportsPL #PremierLeague",watched live yesterday read match report today watched highlight listened pundit conclude tuchel something graceless twat
-1.5613678336946872e+18,2022-08-21 15:01:15+00:00,['1561367833694687232'],"Stunning victory for @LUFC against Chelsea. Superior team all over the pitch. Harrison, man of the match. Rodrigo, a man transformed. Terrific team performance. Great start to the season #LeeChe #lufc #LeedsUnited #LEEDS @SkySportsPL @premierleague #PremierLeague",stunning victory chelsea superior team pitch harrison man match rodrigo man transformed terrific team performance great start season
-1.5613513019795702e+18,2022-08-21 13:55:33+00:00,['1561351301979570176'],@sonomusicgroup 🙏,
+https://t.co/BpQY4ipQsy",thank calling many suspected gave direct result false equivalence reporting rightwing populist blowhard given status stating actual fact,thank result equivalence blowhard status fact 
+1.5617711737210225e+18,2022-08-22 17:43:58+00:00,['1561771173721022466'],@Emilywh82126750 👍😂,,nan 
+1.561690660926853e+18,2022-08-22 12:24:03+00:00,['1561690660926853123'],@Thebubblegunman 👍,,nan 
+1.5616821633550582e+18,2022-08-22 11:50:17+00:00,['1561682163355058176'],#nowreading Just finished 'The Gallows Pole' by Benjamin Myers which tells the tale of The Cragg Vale Coiners. Excellent historical #Novel which resonates all the more as it's set in my home area. I believe Shane Meadows is filming it which should be quite something #BookTwitter,finished 'the gallows pole' benjamin myers tell tale cragg vale coiner excellent historical resonates set home area believe shane meadow filming quite something,cragg vale coiner home area shane meadow something 
+1.5616737513554248e+18,2022-08-22 11:16:51+00:00,['1561673751355424770'],"Today's #gym #workout accompaniment, new #music from @TheSadies, @JohnMorelandOK and a revisit to excellent new @dawestheband #Album #workouts",today's accompaniment new revisit excellent new,today revisit 
+1.561672739353727e+18,2022-08-22 11:12:50+00:00,['1561672739353726976'],@dawestheband new #Album is a cracker. Probably their best one for me. Unmistakably @dawestheband  but wt some rather tasty jazzy/proggy noodling thrown into the mix. Quality. Hope they make it back to @Nath_Brudenell in #LEEDS again some day. Would love to hear these songs live,new cracker probably best one unmistakably rather tasty jazzyproggy noodling thrown mix quality hope make back day would love hear song live,cracker quality day hear song 
+1.5616698999232143e+18,2022-08-22 11:01:33+00:00,['1561669899923214347'],"Having watched #LeeChe live yesterday, read the @guardian match report today, watched the highlights and listened to the pundits, I can only conclude that Tuchel is a something of a graceless twat @LUFC #lufc #LeedsUnited #LEEDS @premierleague @SkySportsPL #PremierLeague",watched live yesterday read match report today watched highlight listened pundit conclude tuchel something graceless twat,yesterday report today highlight pundit conclude something graceless twat 
+1.5613678336946872e+18,2022-08-21 15:01:15+00:00,['1561367833694687232'],"Stunning victory for @LUFC against Chelsea. Superior team all over the pitch. Harrison, man of the match. Rodrigo, a man transformed. Terrific team performance. Great start to the season #LeeChe #lufc #LeedsUnited #LEEDS @SkySportsPL @premierleague #PremierLeague",stunning victory chelsea superior team pitch harrison man match rodrigo man transformed terrific team performance great start season,victory chelsea team pitch harrison man match rodrigo man team performance start season 
+1.5613513019795702e+18,2022-08-21 13:55:33+00:00,['1561351301979570176'],@sonomusicgroup 🙏,,nan 
 1.561109199286829e+18,2022-08-20 21:53:31+00:00,['1561109199286829056'],"'All That Is Solid Melts Into Air' from the new @NoiseClinic1 #Album 'The Light Needs Its Shadow' #electronicmusic #Electronic #music #Musica #electronica #musique #electronique #musiche #instrumental #instrumentals #ambientmusic #ambient
-https://t.co/VjaDKr7FYr",'all solid melt air' new 'the light need shadow'
-1.5607371432823562e+18,2022-08-19 21:15:06+00:00,['1560737143282356224'],@KatyJayne101 👏,
-1.5603015125843026e+18,2022-08-18 16:24:04+00:00,['1560301512584302592'],@MarcDavenant 'Protest'. Simple. Powerful. Informative. Descriptive.,'protest' simple powerful informative descriptive
-1.5598715260270264e+18,2022-08-17 11:55:27+00:00,['1559871526027026440'],Petition calling on @BorisJohnson's resignation honours to be blocked: https://t.co/f2z2DVyByR via @38_degrees,petition calling resignation honour blocked via
-1.5594449482898145e+18,2022-08-16 07:40:23+00:00,['1559444948289814528'],@MarilouBurnel 🙏,
+https://t.co/VjaDKr7FYr",'all solid melt air' new 'the light need shadow',melt air shadow 
+1.5607371432823562e+18,2022-08-19 21:15:06+00:00,['1560737143282356224'],@KatyJayne101 👏,,nan 
+1.5603015125843026e+18,2022-08-18 16:24:04+00:00,['1560301512584302592'],@MarcDavenant 'Protest'. Simple. Powerful. Informative. Descriptive.,'protest' simple powerful informative descriptive,descriptive 
+1.5598715260270264e+18,2022-08-17 11:55:27+00:00,['1559871526027026440'],Petition calling on @BorisJohnson's resignation honours to be blocked: https://t.co/f2z2DVyByR via @38_degrees,petition calling resignation honour blocked via,petition resignation honour 
+1.5594449482898145e+18,2022-08-16 07:40:23+00:00,['1559444948289814528'],@MarilouBurnel 🙏,,nan 
 1.5592878054985073e+18,2022-08-15 21:15:57+00:00,['1559287805498507265'],"'Sea Secrets' from the new @NoiseClinic1 #Album 'The Light Needs Its Shadow' #electronicmusic #electronic #music #Musica #electronica #musique #electronique #musik #musiche #instrumentals #newmusic2022 #instrumental #ambient #NewMusicAlert #NewMusicMonday 
-https://t.co/X9dR8KrG9Q",'sea secrets' new 'the light need shadow'
-1.5592300804585554e+18,2022-08-15 17:26:34+00:00,['1559230080458555392'],👇 #Brexit benefit #1 https://t.co/6AGnnpMwiz,benefit
+https://t.co/X9dR8KrG9Q",'sea secrets' new 'the light need shadow',shadow 
+1.5592300804585554e+18,2022-08-15 17:26:34+00:00,['1559230080458555392'],👇 #Brexit benefit #1 https://t.co/6AGnnpMwiz,benefit,benefit 
 1.5588561857213276e+18,2022-08-14 16:40:51+00:00,['1558856185721327621'],"#brexit will make a bad recession even worse but @RishiSunak and @trussliz still live in denial of #BrexitReality @Conservatives #BrexitShambles #politics #trade #business #EU
-https://t.co/ndsfR1lLTj",make bad recession even worse still live denial
-1.558785973756072e+18,2022-08-14 12:01:51+00:00,['1558785973756071937'],@StrtOuttaCRO Lovely pic.,lovely pic
+https://t.co/ndsfR1lLTj",make bad recession even worse still live denial,recession 
+1.558785973756072e+18,2022-08-14 12:01:51+00:00,['1558785973756071937'],@StrtOuttaCRO Lovely pic.,lovely pic,pic 
 1.5587168591339684e+18,2022-08-14 07:27:13+00:00,['1558716859133968386'],"@ObserverUK view on the woeful state of the UK #water industry #PrivatisedWaterDISASTERInEngland #poliitics 
-https://t.co/tRvGwtWJ6z",view woeful state industry
+https://t.co/tRvGwtWJ6z",view woeful state industry,view state industry 
 1.558714001911173e+18,2022-08-14 07:15:52+00:00,['1558714001911173124'],"@Conservatives minister accused of trying to hide reports on impact of Tory welfare reforms #politics 
-https://t.co/hglYnPMDTs",minister accused trying hide report impact tory welfare reform
-1.5585711376966615e+18,2022-08-13 21:48:10+00:00,['1558571137696661506'],Thoroughly enjoyed 'Brief Encounter' @thesjt today. Imaginative and poignant production with an excellent and talented cast #briefencounter #theatre #drama,thoroughly enjoyed 'brief encounter' today imaginative poignant production excellent talented cast
-1.5585677054307082e+18,2022-08-13 21:34:32+00:00,['1558567705430708232'],@PeteBowler Terrific album 👍,terrific album
+https://t.co/hglYnPMDTs",minister accused trying hide report impact tory welfare reform,minister report impact welfare reform 
+1.5585711376966615e+18,2022-08-13 21:48:10+00:00,['1558571137696661506'],Thoroughly enjoyed 'Brief Encounter' @thesjt today. Imaginative and poignant production with an excellent and talented cast #briefencounter #theatre #drama,thoroughly enjoyed 'brief encounter' today imaginative poignant production excellent talented cast,encounter today poignant production excellent cast 
+1.5585677054307082e+18,2022-08-13 21:34:32+00:00,['1558567705430708232'],@PeteBowler Terrific album 👍,terrific album,terrific album 
 1.5582009106181652e+18,2022-08-12 21:17:01+00:00,['1558200910618165251'],"'Ladder To The Moon' from the new @NoiseClinic1  #Album 'The Light Needs Its Shadow' #electronicmusic #electronic #music #electronica #musica #musique #electronique #musik #musiche #instrumentals #instrumental #ambientmusic #ambient A favourite 🌙
-https://t.co/3tnLz60yXW",'ladder moon' new 'the light need shadow' favourite
-1.5581371954327593e+18,2022-08-12 17:03:50+00:00,['1558137195432759298'],@welliwonder86 Nay! Nay! And thrice nay!,nay nay thrice nay
-1.5578379228329902e+18,2022-08-11 21:14:38+00:00,['1557837922832990208'],@punk_rock_icon 🙏 👍,
-1.557785492531331e+18,2022-08-11 17:46:18+00:00,['1557785492531331080'],"#18, with some detail shots too. Quite a big one. Behind the bed. Mrs N's favourite. My first #painting in oils. Got a bit messy 😄 #modernart #contemporaryart #oilpainting #art #artist #arte #contemporanea #artmoderne #kunst #abstractart #Abstract #abstractexpressionism #oils https://t.co/RIBxjpsnTl",detail shot quite big one behind bed n's favourite first oil got bit messy
+https://t.co/3tnLz60yXW",'ladder moon' new 'the light need shadow' favourite,moon shadow favourite 
+1.5581371954327593e+18,2022-08-12 17:03:50+00:00,['1558137195432759298'],@welliwonder86 Nay! Nay! And thrice nay!,nay nay thrice nay,thrice nay 
+1.5578379228329902e+18,2022-08-11 21:14:38+00:00,['1557837922832990208'],@punk_rock_icon 🙏 👍,,nan 
+1.557785492531331e+18,2022-08-11 17:46:18+00:00,['1557785492531331080'],"#18, with some detail shots too. Quite a big one. Behind the bed. Mrs N's favourite. My first #painting in oils. Got a bit messy 😄 #modernart #contemporaryart #oilpainting #art #artist #arte #contemporanea #artmoderne #kunst #abstractart #Abstract #abstractexpressionism #oils https://t.co/RIBxjpsnTl",detail shot quite big one behind bed n's favourite first oil got bit messy,detail shot behind oil 
 1.5574836195344712e+18,2022-08-10 21:46:46+00:00,['1557483619534471174'],"'While You Were Gone' from the #NewAlbum by @NoiseClinic1 'The Light Needs Its Shadow' #NewMusicAlert #newmusic2022 #electronicmusic #Electronic #music #electronica #Musica #musique #electronique #musik #musiche #Instrumentals #instrumental #ambient 
-https://t.co/nvOrZSOsjg",'while gone' 'the light need shadow'
+https://t.co/nvOrZSOsjg",'while gone' 'the light need shadow',shadow 
 1.5574809231128166e+18,2022-08-10 21:36:03+00:00,['1557480923112816643'],"'All That Is Solid Melts Into Air' from the new @NoiseClinic1 #Album 'The Light Needs Its Shadow' #NewMusicAlert #music #electronicmusic #Electronic #Musica #electronica #musique #electronique #musik #musiche #Instrumentals #instrumental 
-https://t.co/ICmMtwIU4b",'all solid melt air' new 'the light need shadow'
-1.557117601960104e+18,2022-08-09 21:32:20+00:00,['1557117601960103936'],👇 This 👍 https://t.co/e4R6un7TEQ,
-1.557117206722388e+18,2022-08-09 21:30:46+00:00,['1557117206722387968'],"@spooky_bush At this moment, my new @NoiseClinic1 album, 'The Light Needs Its Shadow' 🎧 😄",moment new album 'the light need shadow'
-1.5563794889210266e+18,2022-08-07 20:39:20+00:00,['1556379488921026562'],👇 What a shock. https://t.co/dZCSXi5jkA,shock
-1.5562588588043835e+18,2022-08-07 12:40:00+00:00,['1556258858804383745'],👇 @BorisJohnson @michaelgove @Conservatives #BrexitReality #BrexitShambles #BrexitLies #Brexit #politics #business #trade https://t.co/XcPDaE5Ih9,
-1.5556437623276503e+18,2022-08-05 19:55:50+00:00,['1555643762327650305'],👇 This video. All complete bollocks of course #BrexitReality #BrexitShambles #BrexitLies #BrexitBritain @BorisJohnson @michaelgove @trussliz @Keir_Starmer https://t.co/coB6NiLB9N,video complete bollock course
-1.555612968242512e+18,2022-08-05 17:53:28+00:00,['1555612968242511872'],Today's #gym #workout accompaniment: #NewMusic from Brad Bird and @NoiseClinic1 #NewAlbum #music #workouts,today's accompaniment brad bird
-1.555558914569261e+18,2022-08-05 14:18:40+00:00,['1555558914569261056'],@StrtOuttaCRO Nice pic.,nice pic
-1.5551769294892073e+18,2022-08-04 13:00:48+00:00,['1555176929489207299'],@welliwonder86 😄,
-1.554763414366552e+18,2022-08-03 09:37:38+00:00,['1554763414366552064'],@PieterHerweijer 🙏,
+https://t.co/ICmMtwIU4b",'all solid melt air' new 'the light need shadow',melt air shadow 
+1.557117601960104e+18,2022-08-09 21:32:20+00:00,['1557117601960103936'],👇 This 👍 https://t.co/e4R6un7TEQ,,nan 
+1.557117206722388e+18,2022-08-09 21:30:46+00:00,['1557117206722387968'],"@spooky_bush At this moment, my new @NoiseClinic1 album, 'The Light Needs Its Shadow' 🎧 😄",moment new album 'the light need shadow',moment album shadow 
+1.5563794889210266e+18,2022-08-07 20:39:20+00:00,['1556379488921026562'],👇 What a shock. https://t.co/dZCSXi5jkA,shock,shock 
+1.5562588588043835e+18,2022-08-07 12:40:00+00:00,['1556258858804383745'],👇 @BorisJohnson @michaelgove @Conservatives #BrexitReality #BrexitShambles #BrexitLies #Brexit #politics #business #trade https://t.co/XcPDaE5Ih9,,nan 
+1.5556437623276503e+18,2022-08-05 19:55:50+00:00,['1555643762327650305'],👇 This video. All complete bollocks of course #BrexitReality #BrexitShambles #BrexitLies #BrexitBritain @BorisJohnson @michaelgove @trussliz @Keir_Starmer https://t.co/coB6NiLB9N,video complete bollock course,video bollock course 
+1.555612968242512e+18,2022-08-05 17:53:28+00:00,['1555612968242511872'],Today's #gym #workout accompaniment: #NewMusic from Brad Bird and @NoiseClinic1 #NewAlbum #music #workouts,today's accompaniment brad bird,today accompaniment brad bird 
+1.555558914569261e+18,2022-08-05 14:18:40+00:00,['1555558914569261056'],@StrtOuttaCRO Nice pic.,nice pic,pic 
+1.5551769294892073e+18,2022-08-04 13:00:48+00:00,['1555176929489207299'],@welliwonder86 😄,,nan 
+1.554763414366552e+18,2022-08-03 09:37:38+00:00,['1554763414366552064'],@PieterHerweijer 🙏,,nan 
 1.5547469641803448e+18,2022-08-03 08:32:16+00:00,['1554746964180344832'],"Ten reasons #Brexit has been disastrous for Britain #BrexitReality @BorisJohnson @michaelgove @Conservatives @RishiSunak @trussliz #politics #trade #business @Keir_Starmer @UKLabour
-https://t.co/CHlWvpL7hr",ten reason disastrous britain
+https://t.co/CHlWvpL7hr",ten reason disastrous britain,reason britain 
 1.554505243194495e+18,2022-08-02 16:31:45+00:00,['1554505243194494977'],"'Atemporal' from the new @NoiseClinic1 #Album 'The Light Needs Its Shadow' #electronicmusic #electronicmusicproducer #Musica #electronica #musique #electronique #musiche #electronic #music #musik #instrumental #instrumentals #IndependentMusic 
-https://t.co/gH7eruBgF7",'atemporal' new 'the light need shadow'
-1.5541437867872911e+18,2022-08-01 16:35:28+00:00,['1554143786787291137'],@MarilouBurnel 🙏,
+https://t.co/gH7eruBgF7",'atemporal' new 'the light need shadow',shadow 
+1.5541437867872911e+18,2022-08-01 16:35:28+00:00,['1554143786787291137'],@MarilouBurnel 🙏,,nan 
 1.5540884599875543e+18,2022-08-01 12:55:37+00:00,['1554088459987554305'],"'The Light Needs Its Shadow' new @NoiseClinic1 #Album out now #electronicmusic #electronica #Musica #musique #electronique #Electronic #music #instrumentals   #musik #musiche 
-https://t.co/24g2ACS23U",'the light need shadow' new
-1.5526213960057324e+18,2022-07-28 11:46:01+00:00,['1552621396005732352'],Today's #gym accompaniment: #NewMusic from @lauraveirs and @Wilco #workout #workouts #music #Album,today's accompaniment
-1.5526204281449062e+18,2022-07-28 11:42:11+00:00,['1552620428144906245'],"RIP Barbara Thompson (1944-2022) – London Jazz News https://t.co/eyONyOOTBs Fortunate to have seen Barbara with Paraphernalia on several occasions. Powerful live act, with the mighty Jon Hiseman (her husband) on drums, of course. Always a great #gig V fond memories #jazz #music",rip barbara thompson london jazz news fortunate seen barbara paraphernalia several occasion powerful live act mighty jon hiseman husband drum course always great fond memory
-1.551994390515794e+18,2022-07-26 18:14:32+00:00,['1551994390515793921'],@welliwonder86 👊,
+https://t.co/24g2ACS23U",'the light need shadow' new,light shadow 
+1.5526213960057324e+18,2022-07-28 11:46:01+00:00,['1552621396005732352'],Today's #gym accompaniment: #NewMusic from @lauraveirs and @Wilco #workout #workouts #music #Album,today's accompaniment,today accompaniment 
+1.5526204281449062e+18,2022-07-28 11:42:11+00:00,['1552620428144906245'],"RIP Barbara Thompson (1944-2022) – London Jazz News https://t.co/eyONyOOTBs Fortunate to have seen Barbara with Paraphernalia on several occasions. Powerful live act, with the mighty Jon Hiseman (her husband) on drums, of course. Always a great #gig V fond memories #jazz #music",rip barbara thompson london jazz news fortunate seen barbara paraphernalia several occasion powerful live act mighty jon hiseman husband drum course always great fond memory,rip barbara thompson news fortunate barbara occasion act mighty jon hiseman husband drum course memory 
+1.551994390515794e+18,2022-07-26 18:14:32+00:00,['1551994390515793921'],@welliwonder86 👊,,nan 
 1.551959014304514e+18,2022-07-26 15:53:57+00:00,['1551959014304514051'],"British wine wholesaler to leave 'Brexitland' for good over post #Brexit paperwork #BrexitReality #BrexitChaos #BrexitLies #BrexitShambles @BorisJohnson @michaelgove @Conservatives @trussliz @RishiSunak #politics #business #trade
-https://t.co/1FAQJe2Rbb",british wine wholesaler leave 'brexitland' good post paperwork
-1.551919051798102e+18,2022-07-26 13:15:09+00:00,['1551919051798102016'],#NowReading Just finished 'We Need To Talk About Kevin' by Lionel Shriver. Terrific #Novel about a reluctant mother ultimately trying to come to terms with the tragic event enacted by her deeply disturbed son. In the form of letters to her husband #novels #books #Literature,finished 'we need talk kevin' lionel shriver terrific reluctant mother ultimately trying come term tragic event enacted deeply disturbed son form letter husband
-1.5519174547833897e+18,2022-07-26 13:08:49+00:00,['1551917454783389697'],Today's #gym #workout accompaniment: #NewMusic from @maxcoopermax  and @_loscil_  #workouts #music,today's accompaniment
+https://t.co/1FAQJe2Rbb",british wine wholesaler leave 'brexitland' good post paperwork,wine wholesaler post paperwork 
+1.551919051798102e+18,2022-07-26 13:15:09+00:00,['1551919051798102016'],#NowReading Just finished 'We Need To Talk About Kevin' by Lionel Shriver. Terrific #Novel about a reluctant mother ultimately trying to come to terms with the tragic event enacted by her deeply disturbed son. In the form of letters to her husband #novels #books #Literature,finished 'we need talk kevin' lionel shriver terrific reluctant mother ultimately trying come term tragic event enacted deeply disturbed son form letter husband,need talk mother term event son form letter husband 
+1.5519174547833897e+18,2022-07-26 13:08:49+00:00,['1551917454783389697'],Today's #gym #workout accompaniment: #NewMusic from @maxcoopermax  and @_loscil_  #workouts #music,today's accompaniment,today accompaniment 
 1.551868629960069e+18,2022-07-26 09:54:48+00:00,['1551868629960069120'],"'I've taken a million pictures - 50 were good' - #fernandoscianna #photography
-https://t.co/HnU9935TJA",'i've taken million picture good'
+https://t.co/HnU9935TJA",'i've taken million picture good',i picture 
 1.5518673753681592e+18,2022-07-26 09:49:49+00:00,['1551867375368159238'],"@guardian view on #Brexit and the border: all jammed up #BrexitChaos #BrexitLies #BrexitBritain #BrexitShambles @BorisJohnson @michaelgove @Conservatives @trussliz @RishiSunak #politics #ToryLeadershipContest 
-https://t.co/MmYgknVhhH",view border jammed
+https://t.co/MmYgknVhhH",view border jammed,view border 
 1.551322705500291e+18,2022-07-24 21:45:29+00:00,['1551322705500291072'],"'Struttura' title track #electronicmusic #Electronica #Musica #musique #electronique #Electronic #music #musik #musiche #Instrumentals
-https://t.co/tneR1iF9g0",'struttura' title track
-1.55131802163703e+18,2022-07-24 21:26:53+00:00,['1551318021637029888'],@SongsOfYourLif1 One of the all-time great live bands. Saw them many times. Great memories.,one alltime great live band saw many time great memory
-1.5513176435876332e+18,2022-07-24 21:25:22+00:00,['1551317643587633154'],👇 Just listen to the drumming on this. Superb. https://t.co/YScqmtaHSw,listen drumming superb
-1.5513169508186276e+18,2022-07-24 21:22:37+00:00,['1551316950818627585'],@grievousangels @SongsOfYourLif1 @ArtyBagger E-bow.,ebow
-1.551249008684929e+18,2022-07-24 16:52:39+00:00,['1551249008684929024'],@DeadAstroman The Conversation. Terrific actor. So many great films.,conversation terrific actor many great film
+https://t.co/tneR1iF9g0",'struttura' title track,'struttura track 
+1.55131802163703e+18,2022-07-24 21:26:53+00:00,['1551318021637029888'],@SongsOfYourLif1 One of the all-time great live bands. Saw them many times. Great memories.,one alltime great live band saw many time great memory,band time memory 
+1.5513176435876332e+18,2022-07-24 21:25:22+00:00,['1551317643587633154'],👇 Just listen to the drumming on this. Superb. https://t.co/YScqmtaHSw,listen drumming superb,superb 
+1.5513169508186276e+18,2022-07-24 21:22:37+00:00,['1551316950818627585'],@grievousangels @SongsOfYourLif1 @ArtyBagger E-bow.,ebow,ebow 
+1.551249008684929e+18,2022-07-24 16:52:39+00:00,['1551249008684929024'],@DeadAstroman The Conversation. Terrific actor. So many great films.,conversation terrific actor many great film,conversation terrific actor film 
 1.5511260234540485e+18,2022-07-24 08:43:57+00:00,['1551126023454048256'],"Tax-cut stunts can't cover up the disaster that is #Brexit @RishiSunak #LizTruss #BrexitReality #BrexitChaos #BrexitLies #BrexitBritain @Conservatives @BorisJohnson @michaelgove #politics
-https://t.co/l5foPPjrYU",taxcut stunt can't cover disaster
+https://t.co/l5foPPjrYU",taxcut stunt can't cover disaster,taxcut stunt disaster 
 1.5509615595176755e+18,2022-07-23 21:50:25+00:00,['1550961559517675523'],"One more, 'Full Many A Flower' from the @NoiseClinic1 #Album 'Penumbra' #electronicmusic #Musica #Electronica #musique #electronique #Electronic #music #musik #musiche #Instrumentals #ambient
-https://t.co/kOZL3jffod",one 'full many flower' 'penumbra'
+https://t.co/kOZL3jffod",one 'full many flower' 'penumbra',flower 
 1.5509581395368182e+18,2022-07-23 21:36:50+00:00,['1550958139536818180'],"'Neither Sun Nor Stars' also from the @NoiseClinic1 #Album 'Eigengrau' #electronicmusic #Musica #Electronica #musique #electronique #Electronic #music #musik #Instrumentals #ambient Another favourite, from last year
-https://t.co/ONIhqFu9HZ",'neither sun stars' also 'eigengrau' another favourite last year
+https://t.co/ONIhqFu9HZ",'neither sun stars' also 'eigengrau' another favourite last year,sun favourite year 
 1.550955653207933e+18,2022-07-23 21:26:57+00:00,['1550955653207932930'],"'A Harbour For The Heart' from the @NoiseClinic1 #Album 'Eigengrau' #electronicmusic #Electronic #music #Electronica #Musica #musique #electronique #musiche  #Instrumentals One of my  favourites 
-https://t.co/RgmPBOBEiq",harbour heart' 'eigengrau' one favourite
-1.5509532072030863e+18,2022-07-23 21:17:14+00:00,['1550953207203086339'],@charlat_han 👊👏,
-1.5508441777133568e+18,2022-07-23 14:03:59+00:00,['1550844177713356800'],👇 @BorisJohnson @Conservatives @michaelgove #Brexit #BrexitReality #BrexitShambles #BrexitChaos #BrexitLies #BrexitDisaster https://t.co/lC4l5g35mF,
-1.55022790984303e+18,2022-07-21 21:15:10+00:00,['1550227909843030016'],@spooky_bush 😄 You can never have enough kimonos.,never enough kimono
-1.5501725368261263e+18,2022-07-21 17:35:08+00:00,['1550172536826126340'],"New @NoiseClinic1 #album will be out soon. Title, 'The Light Needs Its Shadow' #electronicmusic #Electronic #Electronica #Musica #musique #electronique #musiche #music #musik",new soon title 'the light need shadow'
-1.5500184752965427e+18,2022-07-21 07:22:57+00:00,['1550018475296542722'],👇 One of the best #films I've seen this year #Cinema https://t.co/byupytW2ek,one best i've seen year
-1.5500181320850186e+18,2022-07-21 07:21:35+00:00,['1550018132085018624'],#ToryLeadershipContest would appear to be between someone who would struggle to be appointed as an apprentice librarian and a glove puppet #ToryLeadership @Conservatives #politics,would appear someone would struggle appointed apprentice librarian glove puppet
+https://t.co/RgmPBOBEiq",harbour heart' 'eigengrau' one favourite,heart favourite 
+1.5509532072030863e+18,2022-07-23 21:17:14+00:00,['1550953207203086339'],@charlat_han 👊👏,,nan 
+1.5508441777133568e+18,2022-07-23 14:03:59+00:00,['1550844177713356800'],👇 @BorisJohnson @Conservatives @michaelgove #Brexit #BrexitReality #BrexitShambles #BrexitChaos #BrexitLies #BrexitDisaster https://t.co/lC4l5g35mF,,nan 
+1.55022790984303e+18,2022-07-21 21:15:10+00:00,['1550227909843030016'],@spooky_bush 😄 You can never have enough kimonos.,never enough kimono,kimono 
+1.5501725368261263e+18,2022-07-21 17:35:08+00:00,['1550172536826126340'],"New @NoiseClinic1 #album will be out soon. Title, 'The Light Needs Its Shadow' #electronicmusic #Electronic #Electronica #Musica #musique #electronique #musiche #music #musik",new soon title 'the light need shadow',
+1.5500184752965427e+18,2022-07-21 07:22:57+00:00,['1550018475296542722'],👇 One of the best #films I've seen this year #Cinema https://t.co/byupytW2ek,one best i've seen year,i year 
+1.5500181320850186e+18,2022-07-21 07:21:35+00:00,['1550018132085018624'],#ToryLeadershipContest would appear to be between someone who would struggle to be appointed as an apprentice librarian and a glove puppet #ToryLeadership @Conservatives #politics,would appear someone would struggle appointed apprentice librarian glove puppet,someone glove puppet 
 1.5496470062720328e+18,2022-07-20 06:46:52+00:00,['1549647006272032768'],"#COVID19 European governments must urgently increase monitoring #coronavirus #Health #politics @Conservatives @UKLabour
-https://t.co/nzXWQheew6",european government must urgently increase monitoring
-1.549499806246224e+18,2022-07-19 21:01:56+00:00,['1549499806246223883'],"@johnharris1969 Ah, la tete de jambon dans sa cabane de branleur.",tete jambon dans cabane branleur
-1.5494989239868457e+18,2022-07-19 20:58:26+00:00,['1549498923986845697'],@spooky_bush Classic album.,classic album
-1.5493914510118257e+18,2022-07-19 13:51:22+00:00,['1549391451011825664'],"👇 #BrexitDisaster #BrexitLies @BorisJohnson @michaelgove @Conservatives @cabinetofficeuk #politics #trade 'Fuck #business' says #Johnson, surely the only PM in history to knowingly opt to make the country worse off https://t.co/kcyYtWacR5",'fuck say surely history knowingly opt make country worse
-1.5489913949787095e+18,2022-07-18 11:21:42+00:00,['1548991394978709504'],👇 https://t.co/ASwDl1MpSu,
-1.5489908883193528e+18,2022-07-18 11:19:41+00:00,['1548990888319352832'],"@colinphoenix Lemon fizz, please. How kind.",lemon fizz please kind
-1.5487817915317453e+18,2022-07-17 21:28:48+00:00,['1548781791531745280'],@welliwonder86 @Daniel_Red_Eire Great photo 👍,great photo
-1.5487466665551995e+18,2022-07-17 19:09:14+00:00,['1548746666555199489'],Yesterday's #gym #workout accompaniment: #NewMusic from @SGGoodmanKY  @_GuidedByVoices and Damien Jurado. Long session #music #workouts,yesterday's accompaniment damien jurado long session
-1.5483564774625976e+18,2022-07-16 17:18:45+00:00,['1548356477462597641'],@welliwonder86 🎂🎉🍻 https://t.co/JkpW40f6zO,
+https://t.co/nzXWQheew6",european government must urgently increase monitoring,government monitoring 
+1.549499806246224e+18,2022-07-19 21:01:56+00:00,['1549499806246223883'],"@johnharris1969 Ah, la tete de jambon dans sa cabane de branleur.",tete jambon dans cabane branleur,jambon branleur 
+1.5494989239868457e+18,2022-07-19 20:58:26+00:00,['1549498923986845697'],@spooky_bush Classic album.,classic album,album 
+1.5493914510118257e+18,2022-07-19 13:51:22+00:00,['1549391451011825664'],"👇 #BrexitDisaster #BrexitLies @BorisJohnson @michaelgove @Conservatives @cabinetofficeuk #politics #trade 'Fuck #business' says #Johnson, surely the only PM in history to knowingly opt to make the country worse off https://t.co/kcyYtWacR5",'fuck say surely history knowingly opt make country worse,history country 
+1.5489913949787095e+18,2022-07-18 11:21:42+00:00,['1548991394978709504'],👇 https://t.co/ASwDl1MpSu,,nan 
+1.5489908883193528e+18,2022-07-18 11:19:41+00:00,['1548990888319352832'],"@colinphoenix Lemon fizz, please. How kind.",lemon fizz please kind,fizz please kind 
+1.5487817915317453e+18,2022-07-17 21:28:48+00:00,['1548781791531745280'],@welliwonder86 @Daniel_Red_Eire Great photo 👍,great photo,photo 
+1.5487466665551995e+18,2022-07-17 19:09:14+00:00,['1548746666555199489'],Yesterday's #gym #workout accompaniment: #NewMusic from @SGGoodmanKY  @_GuidedByVoices and Damien Jurado. Long session #music #workouts,yesterday's accompaniment damien jurado long session,yesterday damien jurado session 
+1.5483564774625976e+18,2022-07-16 17:18:45+00:00,['1548356477462597641'],@welliwonder86 🎂🎉🍻 https://t.co/JkpW40f6zO,,nan 
 1.548200387714224e+18,2022-07-16 06:58:31+00:00,['1548200387714224128'],"While Britain burns the #Tories are fiddling with themselves again #ToryLeadershipContest #Politics
-https://t.co/fSFr6I2GBk",britain burn fiddling
-1.5476922839186596e+18,2022-07-14 21:19:29+00:00,['1547692283918659584'],#ToryLeadershipRace #ToryLeadershipContest Fiddling while Rome burns. Enough already. Pathetic indulgence.,fiddling rome burn enough already pathetic indulgence
-1.547648397447811e+18,2022-07-14 18:25:06+00:00,['1547648397447811073'],@welliwonder86 😄,
+https://t.co/fSFr6I2GBk",britain burn fiddling,britain burn 
+1.5476922839186596e+18,2022-07-14 21:19:29+00:00,['1547692283918659584'],#ToryLeadershipRace #ToryLeadershipContest Fiddling while Rome burns. Enough already. Pathetic indulgence.,fiddling rome burn enough already pathetic indulgence,burn indulgence 
+1.547648397447811e+18,2022-07-14 18:25:06+00:00,['1547648397447811073'],@welliwonder86 😄,,nan 
 1.5471543677819986e+18,2022-07-13 09:42:00+00:00,['1547154367781998593'],"Number of #COVID19 deaths passes 200,000, according to @ONS data #coronavirus @BorisJohnson @MattHancock @sajidjavid @Conservatives #CovidInquiry #Health
-https://t.co/PN3COWGgyb",number death pass according data
+https://t.co/PN3COWGgyb",number death pass according data,number death pass 
 1.5471525431254794e+18,2022-07-13 09:34:45+00:00,['1547152543125479425'],"Average UK household £8800 a year worse off than those in France or Germany #inequality #CostOfLivingCrisis #CostOfLiving #Income #economy #economics #austerity @Conservatives
-https://t.co/Y1gi2dDzkO",average household year worse france germany
-1.546808434640683e+18,2022-07-12 10:47:23+00:00,['1546808434640683008'],"Yesterday's #gym accompaniment, fine new #music from @SteveEarle and @theburninghell The latter I highly recommend to anyone missing David Berman and The Silver Jews. Quirky, alternative, with some cracking lyrics and turns of phrase. Fun #workout #workouts",yesterday's accompaniment fine new latter highly recommend anyone missing david berman silver jew quirky alternative cracking lyric turn phrase fun
+https://t.co/Y1gi2dDzkO",average household year worse france germany,household year france germany 
+1.546808434640683e+18,2022-07-12 10:47:23+00:00,['1546808434640683008'],"Yesterday's #gym accompaniment, fine new #music from @SteveEarle and @theburninghell The latter I highly recommend to anyone missing David Berman and The Silver Jews. Quirky, alternative, with some cracking lyrics and turns of phrase. Fun #workout #workouts",yesterday's accompaniment fine new latter highly recommend anyone missing david berman silver jew quirky alternative cracking lyric turn phrase fun,yesterday latter anyone berman silver jew turn phrase fun 
 1.546204121384063e+18,2022-07-10 18:46:04+00:00,['1546204121384062976'],"@BorisJohnson plumbed the depths of degeneracy in his shabby carnival of misrule.
 Superb, excoriating comment piece by @andrewrawnsley in today's @ObserverUK #Johnson #politics @Conservatives 
-https://t.co/pDLVhXnAgX",plumbed depth degeneracy shabby carnival misrule superb excoriating comment piece today's
+https://t.co/pDLVhXnAgX",plumbed depth degeneracy shabby carnival misrule superb excoriating comment piece today's,degeneracy shabby carnival misrule comment piece today 
 1.5460360323527803e+18,2022-07-10 07:38:08+00:00,['1546036032352780288'],"@ObserverUK view on @BorisJohnson's baleful legacy.
 Excellent, justifiably excoriating editorial @Conservatives #politics #Johnson
-https://t.co/VQbkeH8DM4",view baleful legacy excellent justifiably excoriating editorial
+https://t.co/VQbkeH8DM4",view baleful legacy excellent justifiably excoriating editorial,view legacy editorial 
 1.5458730879876874e+18,2022-07-09 20:50:39+00:00,['1545873087987687427'],"Officials raised flag over Nadim Zahawi's tax affairs before he was appointed chancellor @Conservatives #politics #PlusCaChange #tax #Toryleadership
-https://t.co/JV5cvbM4ko",official raised flag nadim zahawi's tax affair appointed chancellor
-1.5457561100612444e+18,2022-07-09 13:05:50+00:00,['1545756110061244418'],@StrtOuttaCRO Lovely pic.,lovely pic
+https://t.co/JV5cvbM4ko",official raised flag nadim zahawi's tax affair appointed chancellor,official flag nadim zahawi tax affair chancellor 
+1.5457561100612444e+18,2022-07-09 13:05:50+00:00,['1545756110061244418'],@StrtOuttaCRO Lovely pic.,lovely pic,pic 
 1.5456754587293778e+18,2022-07-09 07:45:21+00:00,['1545675458729377793'],"#TheSopranos Paulie 'Walnuts' Gualtieri actor Tony Sirico dies aged 79 #PaulieWalnuts 
-https://t.co/S0zHqDO9fK",paulie 'walnuts' gualtieri actor tony sirico aged
-1.5455192518885212e+18,2022-07-08 21:24:38+00:00,['1545519251888521222'],@PeteBowler Classic.,classic
-1.5454946964699546e+18,2022-07-08 19:47:04+00:00,['1545494696469954561'],@terrychristian 😂🤣 Proper shite. Always hated it.,proper shite always hated
-1.5454942339892347e+18,2022-07-08 19:45:13+00:00,['1545494233989234688'],@jamabing 😄,
-1.5454845516186993e+18,2022-07-08 19:06:45+00:00,['1545484551618699265'],@tomhfh @brianmoore666 Surprised you can even spell it.,surprised even spell
-1.5451352816528302e+18,2022-07-07 19:58:53+00:00,['1545135281652830208'],Superb from @mrjamesob 👇 https://t.co/o8PzI1Pnkg,superb
-1.5449872135864812e+18,2022-07-07 10:10:30+00:00,['1544987213586481152'],Thank fuck.,thank fuck
+https://t.co/S0zHqDO9fK",paulie 'walnuts' gualtieri actor tony sirico aged,paulie gualtieri actor sirico 
+1.5455192518885212e+18,2022-07-08 21:24:38+00:00,['1545519251888521222'],@PeteBowler Classic.,classic,
+1.5454946964699546e+18,2022-07-08 19:47:04+00:00,['1545494696469954561'],@terrychristian 😂🤣 Proper shite. Always hated it.,proper shite always hated,shite 
+1.5454942339892347e+18,2022-07-08 19:45:13+00:00,['1545494233989234688'],@jamabing 😄,,nan 
+1.5454845516186993e+18,2022-07-08 19:06:45+00:00,['1545484551618699265'],@tomhfh @brianmoore666 Surprised you can even spell it.,surprised even spell,
+1.5451352816528302e+18,2022-07-07 19:58:53+00:00,['1545135281652830208'],Superb from @mrjamesob 👇 https://t.co/o8PzI1Pnkg,superb,superb 
+1.5449872135864812e+18,2022-07-07 10:10:30+00:00,['1544987213586481152'],Thank fuck.,thank fuck,thank fuck 
 1.5449194328495063e+18,2022-07-07 05:41:10+00:00,['1544919432849506305'],"@BorisJohnson: a shameful legacy @Conservatives #politics #CabinetResignations #Johnson
-https://t.co/aoaDJird6R",shameful legacy
-1.5446837015057695e+18,2022-07-06 14:04:27+00:00,['1544683701505769475'],@welliwonder86 Do it. You will feel and look better as a result.🏋️🤸‍♀️👊👍,feel look better result
-1.544617188400808e+18,2022-07-06 09:40:09+00:00,['1544617188400807937'],@GarySpudWilson 🙏,
+https://t.co/aoaDJird6R",shameful legacy,legacy 
+1.5446837015057695e+18,2022-07-06 14:04:27+00:00,['1544683701505769475'],@welliwonder86 Do it. You will feel and look better as a result.🏋️🤸‍♀️👊👍,feel look better result,feel look result 
+1.544617188400808e+18,2022-07-06 09:40:09+00:00,['1544617188400807937'],@GarySpudWilson 🙏,,nan 
 1.5445936728675697e+18,2022-07-06 08:06:43+00:00,['1544593672867569664'],"@guardian view on the #CabinetResignations: the endgame for @BorisJohnson @Conservatives #politics
-https://t.co/KgG0awMLXV",view endgame
+https://t.co/KgG0awMLXV",view endgame,view endgame 
 1.5445917997962158e+18,2022-07-06 07:59:16+00:00,['1544591799796215808'],"@guardian view on #COVID19's resurgence: act now or pay later #coronavirus @BorisJohnson @Conservatives #Health #coronavirus #politics
-https://t.co/I29UBOt0TO",view resurgence act pay later
+https://t.co/I29UBOt0TO",view resurgence act pay later,view resurgence act pay 
 1.5445902960796508e+18,2022-07-06 07:53:18+00:00,['1544590296079650817'],"In pretending that #COVID19 is over @BorisJohnson's @Conservatives government is playing a dangerous game #coronavirus #Health #politics
-https://t.co/YAPqVMoRNb",pretending government playing dangerous game
+https://t.co/YAPqVMoRNb",pretending government playing dangerous game,government game 
 1.5444359898500792e+18,2022-07-05 21:40:08+00:00,['1544435989850079232'],"'Imperfect Connections'from the @NoiseClinic1 #Album 'Substrata'. One of my favourites #electronicmusic #Electronica #Musica #musique #electronique #Musik #electronic #music #musiche #instrumentals
-https://t.co/IfmAR5fgsj",'imperfect connections'from 'substrata' one favourite
-1.5444342204702392e+18,2022-07-05 21:33:07+00:00,['1544434220470239232'],Superb 👇 https://t.co/Bb5E4ZnCOH,superb
-1.5444335730416763e+18,2022-07-05 21:30:32+00:00,['1544433573041676290'],@notDcfcBoss He was a useless twat as well.,useless twat well
+https://t.co/IfmAR5fgsj",'imperfect connections'from 'substrata' one favourite,connections'from favourite 
+1.5444342204702392e+18,2022-07-05 21:33:07+00:00,['1544434220470239232'],Superb 👇 https://t.co/Bb5E4ZnCOH,superb,superb 
+1.5444335730416763e+18,2022-07-05 21:30:32+00:00,['1544433573041676290'],@notDcfcBoss He was a useless twat as well.,useless twat well,twat 
 1.5444332113501755e+18,2022-07-05 21:29:06+00:00,['1544433211350175745'],"'Substrata 2' from the @NoiseClinic1 #Album 'Substrata' #electronicmusic #Musica #Electronica #musique #electronique #Musik #electronic #music #instrumentals 
-https://t.co/15bEzW1NxT",'substrata 'substrata'
-1.5442219692054036e+18,2022-07-05 07:29:42+00:00,['1544221969205403649'],@feel_kyujinn 🙏,
-1.5442218695444644e+18,2022-07-05 07:29:18+00:00,['1544221869544464384'],@_machimusic 🙏,
+https://t.co/15bEzW1NxT",'substrata 'substrata',
+1.5442219692054036e+18,2022-07-05 07:29:42+00:00,['1544221969205403649'],@feel_kyujinn 🙏,,nan 
+1.5442218695444644e+18,2022-07-05 07:29:18+00:00,['1544221869544464384'],@_machimusic 🙏,,nan 
 1.5440696064610386e+18,2022-07-04 21:24:16+00:00,['1544069606461038597'],"'Stony Bones' from the @NoiseClinic1 #Album 'Substrata' #percussion #drums #electronicmusic #electronic #music #Musica #electronica #musique #electronique #Musik #musiche #Instrumentals
-https://t.co/zaHANP6KGS",'stony bones' 'substrata'
+https://t.co/zaHANP6KGS",'stony bones' 'substrata',
 1.5440687699826975e+18,2022-07-04 21:20:56+00:00,['1544068769982697472'],"'Imperfect Connections' from the @NoiseClinic1 #Album 'Substrata' #electronicmusic #electronicmusicproducer #electronic #music #electronica #Musica #musique #electronique #Musik #musiche #Instrumentals
-https://t.co/5rwt2g1Xb0",'imperfect connections' 'substrata'
-1.5440656013831537e+18,2022-07-04 21:08:21+00:00,['1544065601383153665'],@DrFilth Nice spot. Remember rushing to catch the sunset there once with a nice bottle of red wine and also playing the golf course a couple of times.,nice spot remember rushing catch sunset nice bottle red wine also playing golf course couple time
-1.544064195100115e+18,2022-07-04 21:02:46+00:00,['1544064195100114944'],Embleton Beach #Northumberland today. Our favourite beach. Anywhere. No filter. No nothing. Sand caught as the wind blows across the beach @NoiseClinic1 Northumberland Tour 2022 https://t.co/WBJG0BCKcA,embleton beach today favourite beach anywhere filter nothing sand caught wind blow across beach northumberland tour
-1.5440628930244936e+18,2022-07-04 20:57:35+00:00,['1544062893024493572'],"@bravenewmalden 104!  Happy birthday, Gerald! Time for a glass of a damn fine single malt or two 🥃",happy birthday gerald time glass damn fine single malt two
-1.5440604106551173e+18,2022-07-04 20:47:43+00:00,['1544060410655117315'],@BrutalHouse Is it Raymond Depardon?,raymond depardon
-1.5440595453701243e+18,2022-07-04 20:44:17+00:00,['1544059545370124289'],Absolute classic photo. Never tire of seeing it. Thanks for sharing 🙏 https://t.co/JPJTM4rKwo,absolute classic photo never tire seeing thanks sharing
-1.5440590832123412e+18,2022-07-04 20:42:27+00:00,['1544059083212341253'],@LiamCooper__ Nicely said.,nicely said
-1.5440539679189647e+18,2022-07-04 20:22:07+00:00,['1544053967918964738'],"@Kalvinphillips @LUFC Understand your decision even if I would have preferred you staying as the club's future captain leading @LUFC on to the next stage in their progression. Hope you're more than a rich club's bench-warmer though. You wouldn't be the first, of course.",understand decision even would preferred staying club's future captain leading next stage progression hope rich club's benchwarmer though first course
-1.5437056469814313e+18,2022-07-03 21:18:01+00:00,['1543705646981431310'],@Lastsrecords 🙏,
-1.5437055080827617e+18,2022-07-03 21:17:28+00:00,['1543705508082761730'],One of my favourite @radiohead tracks. https://t.co/yTXVfKkeCm,one favourite track
+https://t.co/5rwt2g1Xb0",'imperfect connections' 'substrata',
+1.5440656013831537e+18,2022-07-04 21:08:21+00:00,['1544065601383153665'],@DrFilth Nice spot. Remember rushing to catch the sunset there once with a nice bottle of red wine and also playing the golf course a couple of times.,nice spot remember rushing catch sunset nice bottle red wine also playing golf course couple time,spot sunset bottle wine golf course couple time 
+1.544064195100115e+18,2022-07-04 21:02:46+00:00,['1544064195100114944'],Embleton Beach #Northumberland today. Our favourite beach. Anywhere. No filter. No nothing. Sand caught as the wind blows across the beach @NoiseClinic1 Northumberland Tour 2022 https://t.co/WBJG0BCKcA,embleton beach today favourite beach anywhere filter nothing sand caught wind blow across beach northumberland tour,embleton beach today beach nothing sand blow beach tour 
+1.5440628930244936e+18,2022-07-04 20:57:35+00:00,['1544062893024493572'],"@bravenewmalden 104!  Happy birthday, Gerald! Time for a glass of a damn fine single malt or two 🥃",happy birthday gerald time glass damn fine single malt two,birthday gerald time glass damn malt 
+1.5440604106551173e+18,2022-07-04 20:47:43+00:00,['1544060410655117315'],@BrutalHouse Is it Raymond Depardon?,raymond depardon,raymond depardon 
+1.5440595453701243e+18,2022-07-04 20:44:17+00:00,['1544059545370124289'],Absolute classic photo. Never tire of seeing it. Thanks for sharing 🙏 https://t.co/JPJTM4rKwo,absolute classic photo never tire seeing thanks sharing,photo 
+1.5440590832123412e+18,2022-07-04 20:42:27+00:00,['1544059083212341253'],@LiamCooper__ Nicely said.,nicely said,
+1.5440539679189647e+18,2022-07-04 20:22:07+00:00,['1544053967918964738'],"@Kalvinphillips @LUFC Understand your decision even if I would have preferred you staying as the club's future captain leading @LUFC on to the next stage in their progression. Hope you're more than a rich club's bench-warmer though. You wouldn't be the first, of course.",understand decision even would preferred staying club's future captain leading next stage progression hope rich club's benchwarmer though first course,understand decision club future captain stage progression hope club benchwarmer course 
+1.5437056469814313e+18,2022-07-03 21:18:01+00:00,['1543705646981431310'],@Lastsrecords 🙏,,nan 
+1.5437055080827617e+18,2022-07-03 21:17:28+00:00,['1543705508082761730'],One of my favourite @radiohead tracks. https://t.co/yTXVfKkeCm,one favourite track,favourite track 
 1.5437024230883738e+18,2022-07-03 21:05:12+00:00,['1543702423088373768'],"'The Rules Of Dreamland' from the @NoiseClinic1 #Album 'Sensory Data' #electronicmusic #Electronica #Musica #musique #electronique #electronic #music #instrumentals #ambient #musiche
-https://t.co/wR4HCRXuAC",'the rule dreamland' 'sensory data'
-1.543693631957209e+18,2022-07-03 20:30:16+00:00,['1543693631957209088'],👇 Shitbag. https://t.co/LdGgBWQe2O,shitbag
+https://t.co/wR4HCRXuAC",'the rule dreamland' 'sensory data',rule dreamland 
+1.543693631957209e+18,2022-07-03 20:30:16+00:00,['1543693631957209088'],👇 Shitbag. https://t.co/LdGgBWQe2O,shitbag,shitbag 
 1.5436574417910252e+18,2022-07-03 18:06:28+00:00,['1543657441791025154'],"#Tories contempt for the #arts means we face a second dark age #Politics #education
-https://t.co/dV6nDo9h8m",contempt mean face second dark age
+https://t.co/dV6nDo9h8m",contempt mean face second dark age,face age 
 1.5435323539219825e+18,2022-07-03 09:49:25+00:00,['1543532353921982471'],"@BorisJohnson faces investigation into claims over 40 new hospitals: 'The only place these hospitals exist is in Boris Johnson's imagination.' @Conservatives @sajidjavid #Health #Politics
-https://t.co/MAAQtiJST7",face investigation claim new hospital 'the place hospital exist boris johnson's imagination'
+https://t.co/MAAQtiJST7",face investigation claim new hospital 'the place hospital exist boris johnson's imagination',face investigation claim hospital place hospital johnson imagination 
 1.5435023938994586e+18,2022-07-03 07:50:22+00:00,['1543502393899458560'],"Scientists warn of need for action on vaccines to head off an autumn #COVID19 wave @sajidjavid @BorisJohnson @Conservatives #coronavirus #Health
-https://t.co/xWz1eV0mJs",scientist warn need action vaccine head autumn wave
+https://t.co/xWz1eV0mJs",scientist warn need action vaccine head autumn wave,scientist need action vaccine head autumn wave 
 1.54334884561408e+18,2022-07-02 21:40:13+00:00,['1543348845614080000'],"One more. 'Stars Hide Your Fires' from the @NoiseClinic1 #Album 'Palimpsest' #electronicmusic #Electronica #Musica #musique #electronique #electronic #music #Musik #musiche #Instrumentals
-https://t.co/sothMhsgfs",one 'stars hide fires' 'palimpsest'
+https://t.co/sothMhsgfs",one 'stars hide fires' 'palimpsest',
 1.5433461398476923e+18,2022-07-02 21:29:28+00:00,['1543346139847692291'],"'A Sweet Mistake' Title track from the @NoiseClinic1 #Album #electronicmusic #Electronica #Musica #musique #electronique #Musik #electronic #music #musiche #Instrumentals
-https://t.co/G4cMtk9RzO",sweet mistake' title track
+https://t.co/G4cMtk9RzO",sweet mistake' title track,mistake title track 
 1.5433426689561723e+18,2022-07-02 21:15:40+00:00,['1543342668956172288'],"'Can't Let Go' from the @NoiseClinic1 #album 'Bajada' #electronicmusic #Electronica #Musica #musique #electronique #electronic #music #Musik #musiche #Instrumentals
-https://t.co/5ZM57MHKBO",'can't let go' 'bajada'
-1.5433036296916582e+18,2022-07-02 18:40:33+00:00,['1543303629691658241'],Hope the little guy got a Drumstick lolly afterwards. https://t.co/rKM7ea8I8F,hope little guy got drumstick lolly afterwards
-1.5432995579702968e+18,2022-07-02 18:24:22+00:00,['1543299557970296832'],"@SteveSnooker @FH5766 Looking forward to it, Steve. Enjoyed the last album.",looking forward steve enjoyed last album
-1.543199523631235e+18,2022-07-02 11:46:52+00:00,['1543199523631235072'],"@shellakeypookey @birdonthewire3 Happy birthday, Tom. Looking good fella 🎂🎉",happy birthday tom looking good fella
+https://t.co/5ZM57MHKBO",'can't let go' 'bajada',
+1.5433036296916582e+18,2022-07-02 18:40:33+00:00,['1543303629691658241'],Hope the little guy got a Drumstick lolly afterwards. https://t.co/rKM7ea8I8F,hope little guy got drumstick lolly afterwards,hope guy 
+1.5432995579702968e+18,2022-07-02 18:24:22+00:00,['1543299557970296832'],"@SteveSnooker @FH5766 Looking forward to it, Steve. Enjoyed the last album.",looking forward steve enjoyed last album,album 
+1.543199523631235e+18,2022-07-02 11:46:52+00:00,['1543199523631235072'],"@shellakeypookey @birdonthewire3 Happy birthday, Tom. Looking good fella 🎂🎉",happy birthday tom looking good fella,birthday fella 
 1.5431527124932403e+18,2022-07-02 08:40:51+00:00,['1543152712493240320'],"Where's the herd immunity? Why #COVID19 is still wreaking havoc #CovidIsNotOver @BorisJohnson @sajidjavid @Conservatives #Health #coronavirus 
-https://t.co/q3YW80A65y",where's herd immunity still wreaking havoc
-1.5431467968888545e+18,2022-07-02 08:17:21+00:00,['1543146796888854528'],@RonSexsmith Classic album.,classic album
-1.54314662924664e+18,2022-07-02 08:16:41+00:00,['1543146629246640129'],@_machimusic 🙏,
+https://t.co/q3YW80A65y",where's herd immunity still wreaking havoc,herd immunity havoc 
+1.5431467968888545e+18,2022-07-02 08:17:21+00:00,['1543146796888854528'],@RonSexsmith Classic album.,classic album,album 
+1.54314662924664e+18,2022-07-02 08:16:41+00:00,['1543146629246640129'],@_machimusic 🙏,,nan 
 1.542985775314342e+18,2022-07-01 21:37:30+00:00,['1542985775314341894'],"'The Watchmaker's Hands', from the @NoiseClinic1 #Album 'Afterimage' #electronicmusic #Electronica #Musica #musique #electronique #Electronic #music #Instrumentals #musik
-https://t.co/Vd2R0PFYOf",'the watchmaker's hands' 'afterimage'
-1.542897164019536e+18,2022-07-01 15:45:24+00:00,['1542897164019535872'],@FH5766 @karenmac10 😄,
-1.5427928711153828e+18,2022-07-01 08:50:58+00:00,['1542792871115382784'],@karenmac10 Oh yes. I have had to have words on occasions. Infuriating.,yes word occasion infuriating
-1.542638615653671e+18,2022-06-30 22:38:01+00:00,['1542638615653670912'],Terrific @jesse_malin #gig @thetradesclub tonight. An evening of joyous rock 'n' roll with a great band. Lovely stuff 🎸🎸🥁 #livemusic #gigs,terrific tonight evening joyous rock 'n' roll great band lovely stuff
-1.542561352606163e+18,2022-06-30 17:31:00+00:00,['1542561352606162944'],👇 Going tonight @jessemalin is  always a good gig #livemusic #gigs #music https://t.co/23JE2QujgO,going tonight always good gig
-1.542477265430266e+18,2022-06-30 11:56:52+00:00,['1542477265430265856'],@Banger_ Best wishes.,best wish
-1.542206465339007e+18,2022-06-29 18:00:48+00:00,['1542206465339006978'],Cleaning the bathroom to fine #NewMusic #NEWALBUM from @SteveReich George Jackson and the Ensemble Intercontemporain #music,cleaning bathroom fine george jackson ensemble intercontemporain
-1.5422055949873684e+18,2022-06-29 17:57:21+00:00,['1542205594987368449'],Today's #gym #workout accompaniment: fine #NewMusic from @thesmiletheband and @theblackkeys #NEWALBUM #music #workouts,today's accompaniment fine
-1.5421334166023537e+18,2022-06-29 13:10:32+00:00,['1542133416602353664'],One of @coldwarsteve's very best for me 👊👏 https://t.co/oHcwpsI7g5,one best
+https://t.co/Vd2R0PFYOf",'the watchmaker's hands' 'afterimage',watchmaker 'afterimage 
+1.542897164019536e+18,2022-07-01 15:45:24+00:00,['1542897164019535872'],@FH5766 @karenmac10 😄,,nan 
+1.5427928711153828e+18,2022-07-01 08:50:58+00:00,['1542792871115382784'],@karenmac10 Oh yes. I have had to have words on occasions. Infuriating.,yes word occasion infuriating,word occasion 
+1.542638615653671e+18,2022-06-30 22:38:01+00:00,['1542638615653670912'],Terrific @jesse_malin #gig @thetradesclub tonight. An evening of joyous rock 'n' roll with a great band. Lovely stuff 🎸🎸🥁 #livemusic #gigs,terrific tonight evening joyous rock 'n' roll great band lovely stuff,terrific tonight rock roll band stuff 
+1.542561352606163e+18,2022-06-30 17:31:00+00:00,['1542561352606162944'],👇 Going tonight @jessemalin is  always a good gig #livemusic #gigs #music https://t.co/23JE2QujgO,going tonight always good gig,tonight gig 
+1.542477265430266e+18,2022-06-30 11:56:52+00:00,['1542477265430265856'],@Banger_ Best wishes.,best wish,wish 
+1.542206465339007e+18,2022-06-29 18:00:48+00:00,['1542206465339006978'],Cleaning the bathroom to fine #NewMusic #NEWALBUM from @SteveReich George Jackson and the Ensemble Intercontemporain #music,cleaning bathroom fine george jackson ensemble intercontemporain,bathroom fine george jackson intercontemporain 
+1.5422055949873684e+18,2022-06-29 17:57:21+00:00,['1542205594987368449'],Today's #gym #workout accompaniment: fine #NewMusic from @thesmiletheband and @theblackkeys #NEWALBUM #music #workouts,today's accompaniment fine,today accompaniment fine 
+1.5421334166023537e+18,2022-06-29 13:10:32+00:00,['1542133416602353664'],One of @coldwarsteve's very best for me 👊👏 https://t.co/oHcwpsI7g5,one best,
 1.5421088227681649e+18,2022-06-29 11:32:49+00:00,['1542108822768164865'],"Even diehard @Conservatives can't stand another minute of @BorisJohnson's rollercoaster government #Tories #politics 
-https://t.co/JJAaKIM0Vs",even diehard can't stand another minute rollercoaster government
-1.5417672106785997e+18,2022-06-28 12:55:22+00:00,['1541767210678599681'],Stunning photo. Thank you for sharing 🙏 https://t.co/O4oEbhbPiy,stunning photo thank sharing
-1.5415322121847276e+18,2022-06-27 21:21:34+00:00,['1541532212184727558'],👇Legend 👏 https://t.co/stRxk0suzy,legend
-1.541444336788902e+18,2022-06-27 15:32:23+00:00,['1541444336788901891'],@nuascannan 🙏,
-1.541320814108283e+18,2022-06-27 07:21:33+00:00,['1541320814108282880'],@dork_rob 🙏,
+https://t.co/JJAaKIM0Vs",even diehard can't stand another minute rollercoaster government,diehard minute rollercoaster government 
+1.5417672106785997e+18,2022-06-28 12:55:22+00:00,['1541767210678599681'],Stunning photo. Thank you for sharing 🙏 https://t.co/O4oEbhbPiy,stunning photo thank sharing,photo thank 
+1.5415322121847276e+18,2022-06-27 21:21:34+00:00,['1541532212184727558'],👇Legend 👏 https://t.co/stRxk0suzy,legend,legend 
+1.541444336788902e+18,2022-06-27 15:32:23+00:00,['1541444336788901891'],@nuascannan 🙏,,nan 
+1.541320814108283e+18,2022-06-27 07:21:33+00:00,['1541320814108282880'],@dork_rob 🙏,,nan 
 1.541182211126399e+18,2022-06-26 22:10:47+00:00,['1541182211126398976'],"'Berlin 18' from the @NoiseClinic1 #Album 'Struttura' #electronicmusic #Musica #Electronica #musique #electronique #electronic #music #ambient #instrumentals #Musik #Berlin #musiche
-https://t.co/SeExzKXoOt",'berlin 'struttura'
+https://t.co/SeExzKXoOt",'berlin 'struttura',
 1.5411780166630605e+18,2022-06-26 21:54:07+00:00,['1541178016663060480'],"'The End Of It' from the @NoiseClinic1 #Album 'Penumbra' #electronicmusic #Musica #Electronica #musique #electronique #Musik #musiche #ambient #music #instrumentals 
-https://t.co/KzbdZ5oD9g",'the end it' 'penumbra'
+https://t.co/KzbdZ5oD9g",'the end it' 'penumbra',end 
 1.5409747507254477e+18,2022-06-26 08:26:25+00:00,['1540974750725447682'],"Stab in the back: the nasty old myth that brexiters are exploiting to explain away the #BrexitDisaster #BrexitReality #BrexitLies @BorisJohnson @Conservatives #politics
-https://t.co/xSFSEF3IPh",stab back nasty old myth brexiters exploiting explain away
+https://t.co/xSFSEF3IPh",stab back nasty old myth brexiters exploiting explain away,stab myth 
 1.540966554988421e+18,2022-06-26 07:53:51+00:00,['1540966554988421120'],"#Brexit and @BorisJohnson the arch bullshitter @Conservatives @UKLabour #BrexitReality #BrexitLies #politics
-https://t.co/cJevCgnfyj",arch bullshitter
+https://t.co/cJevCgnfyj",arch bullshitter,arch bullshitter 
 1.540963501270778e+18,2022-06-26 07:41:43+00:00,['1540963501270777856'],"@BorisJohnson's 'continuing tenure in office...is a national disgrace' @Conservatives #politics
-https://t.co/SkkNLVkSc6",'continuing tenure officeis national disgrace'
+https://t.co/SkkNLVkSc6",'continuing tenure officeis national disgrace',tenure disgrace 
 1.5409615377327718e+18,2022-06-26 07:33:54+00:00,['1540961537732771841'],"@AndyBurnhamGM says @UKLabour should seize the moment and back #ProportionalRepresentation #politics
-https://t.co/suz6DnxyLH",say seize moment back
+https://t.co/suz6DnxyLH",say seize moment back,moment 
 1.5408143070799954e+18,2022-06-25 21:48:52+00:00,['1540814307079995394'],"'Full Many A Flower' from the @NoiseClinic1 #Album 'Penumbra' #electronicmusic #Musica #Electronica #musique #electronique #electronic #music #ambientmusic #instrumentals Ten years of @NoiseClinic1 🙏 🎧🎹 🎛️ 
-https://t.co/hl900scg4T",'full many flower' 'penumbra' ten year
+https://t.co/hl900scg4T",'full many flower' 'penumbra' ten year,flower year 
 1.540813288300331e+18,2022-06-25 21:44:49+00:00,['1540813288300331015'],"@BorisJohnson 'delusional'. Really? Only just spotted this? Embarrassed that they might have over-indulged Trump Minor? @Conservatives just waking up to the fact that they've shat the bed? Utter cock #politics
-https://t.co/KHBEJPSWVa",'delusional' really spotted embarrassed might overindulged trump minor waking fact they've shat bed utter cock
+https://t.co/KHBEJPSWVa",'delusional' really spotted embarrassed might overindulged trump minor waking fact they've shat bed utter cock,fact bed utter cock 
 1.540808852400218e+18,2022-06-25 21:27:11+00:00,['1540808852400218112'],"'Neither Sun Nor Stars' from the @NoiseClinic1 #Album 'Eigengrau' #electronicmusic #Musica #Electronica #musique #electronique #electronic #music #ambientmusic #instrumentals #musik #musiche Ten years of @NoiseClinic1 🙏 🎧 🎚️🎹 
-https://t.co/hw4pnlzoxq",'neither sun stars' 'eigengrau' ten year
-1.5407551387212268e+18,2022-06-25 17:53:45+00:00,['1540755138721226754'],👇 Sparklehorse: one of my favourite bands. https://t.co/myWa7F4SmQ,sparklehorse one favourite band
-1.5407478443189453e+18,2022-06-25 17:24:46+00:00,['1540747844318945280'],@welliwonder86 😉,
-1.5407452615755694e+18,2022-06-25 17:14:30+00:00,['1540745261575569413'],@jamabing 👍👏,
+https://t.co/hw4pnlzoxq",'neither sun stars' 'eigengrau' ten year,sun year 
+1.5407551387212268e+18,2022-06-25 17:53:45+00:00,['1540755138721226754'],👇 Sparklehorse: one of my favourite bands. https://t.co/myWa7F4SmQ,sparklehorse one favourite band,favourite band 
+1.5407478443189453e+18,2022-06-25 17:24:46+00:00,['1540747844318945280'],@welliwonder86 😉,,nan 
+1.5407452615755694e+18,2022-06-25 17:14:30+00:00,['1540745261575569413'],@jamabing 👍👏,,nan 
 1.540606786037846e+18,2022-06-25 08:04:15+00:00,['1540606786037846016'],"@guardian view on the #ByElections2022: @BorisJohnson's end is nigh @Conservatives #politics
-https://t.co/HPm9XE2brZ",view end nigh
-1.5404244406259958e+18,2022-06-24 19:59:41+00:00,['1540424440625995778'],👇 Legend. https://t.co/ojCUZBJne2,legend
+https://t.co/HPm9XE2brZ",view end nigh,view end nigh 
+1.5404244406259958e+18,2022-06-24 19:59:41+00:00,['1540424440625995778'],👇 Legend. https://t.co/ojCUZBJne2,legend,legend 
 1.5403202809581445e+18,2022-06-24 13:05:47+00:00,['1540320280958144515'],"#ByElections2022: a verdict on a cruel and useless government running out of road #byelections @BorisJohnson @Conservatives #Politics 
-https://t.co/2Jgjdx3iVd",verdict cruel useless government running road
-1.54026380907563e+18,2022-06-24 09:21:23+00:00,['1540263809075630081'],@BrassAndBurl 🙏,
-1.5402637340016722e+18,2022-06-24 09:21:05+00:00,['1540263734001672193'],@Stevo_West 🙏,
-1.5402635564735693e+18,2022-06-24 09:20:23+00:00,['1540263556473569282'],@Deaf_E_ 🙏,
-1.5400290542372618e+18,2022-06-23 17:48:33+00:00,['1540029054237261824'],"More #encausticart using molten, coloured wax #art #arte #kunst #abstractart #Abstract #abstractexpressionism #abstractartist #contemporaryart #contemporaryartist #artecontemporanea #artmoderne https://t.co/iQMFbA7YlU",using molten coloured wax
-1.5400290444519055e+18,2022-06-23 17:48:31+00:00,['1540029044451905537'],https://t.co/uAKiGT3o15,
-1.5399669017863946e+18,2022-06-23 13:41:35+00:00,['1539966901786394624'],"#NowReading Just finished another excellent page-turner of a thriller from @Connellybooks, 'Dark Sacred Night' from a few years ago. He really is among the very best in this genre #book #novels #Literature #thrillers #Bosch",finished another excellent pageturner thriller 'dark sacred night' year ago really among best genre
-1.539918573430358e+18,2022-06-23 10:29:32+00:00,['1539918573430358019'],@AnaisNin546 BG 👋,
+https://t.co/2Jgjdx3iVd",verdict cruel useless government running road,verdict cruel government road 
+1.54026380907563e+18,2022-06-24 09:21:23+00:00,['1540263809075630081'],@BrassAndBurl 🙏,,nan 
+1.5402637340016722e+18,2022-06-24 09:21:05+00:00,['1540263734001672193'],@Stevo_West 🙏,,nan 
+1.5402635564735693e+18,2022-06-24 09:20:23+00:00,['1540263556473569282'],@Deaf_E_ 🙏,,nan 
+1.5400290542372618e+18,2022-06-23 17:48:33+00:00,['1540029054237261824'],"More #encausticart using molten, coloured wax #art #arte #kunst #abstractart #Abstract #abstractexpressionism #abstractartist #contemporaryart #contemporaryartist #artecontemporanea #artmoderne https://t.co/iQMFbA7YlU",using molten coloured wax,wax 
+1.5400290444519055e+18,2022-06-23 17:48:31+00:00,['1540029044451905537'],https://t.co/uAKiGT3o15,,nan 
+1.5399669017863946e+18,2022-06-23 13:41:35+00:00,['1539966901786394624'],"#NowReading Just finished another excellent page-turner of a thriller from @Connellybooks, 'Dark Sacred Night' from a few years ago. He really is among the very best in this genre #book #novels #Literature #thrillers #Bosch",finished another excellent pageturner thriller 'dark sacred night' year ago really among best genre,pageturner thriller night year genre 
+1.539918573430358e+18,2022-06-23 10:29:32+00:00,['1539918573430358019'],@AnaisNin546 BG 👋,,nan 
 1.5396547811571425e+18,2022-06-22 17:01:19+00:00,['1539654781157142528'],"#Brexit is making the #CostOfLivingCrisis worse, a new study claims #BrexitReality @BorisJohnson @Conservatives #Politics 
-https://t.co/BRAP1MXfWg",making worse new study claim
+https://t.co/BRAP1MXfWg",making worse new study claim,study claim 
 1.5389074565663498e+18,2022-06-20 15:31:43+00:00,['1538907456566349824'],"@BorisJohnson @Conservatives #Brexit obsession has no future #BrexitShambles #politics 
-https://t.co/KjYrwIOl4l",obsession future
+https://t.co/KjYrwIOl4l",obsession future,obsession future 
 1.5387947719717396e+18,2022-06-20 08:03:57+00:00,['1538794771971739648'],"Congratulations to @MattFitz94 on winning the #USOpen2022 + his first major title. Stunning bunker shot on the last hole sealed the deal after driving superbly throughout. Terrific, genuinely competitive #Golf exposing the vacuity of the LIV golf circus
-https://t.co/EpypOh0mTL",congratulation winning first major title stunning bunker shot last hole sealed deal driving superbly throughout terrific genuinely competitive exposing vacuity liv golf circus
-1.5386153187041608e+18,2022-06-19 20:10:52+00:00,['1538615318704160770'],@akikigate 0,
-1.5385795158359163e+18,2022-06-19 17:48:36+00:00,['1538579515835916289'],"@jamabing @kvantefoto Like the lines, colours and space in this. Nice pic.",like line colour space nice pic
-1.538524637268935e+18,2022-06-19 14:10:32+00:00,['1538524637268934656'],"Tracking the next @NoiseClinic1 album. One of my favourite parts of the creative process. Feels like I'm getting close now. Likely title, 'The Light Needs Its Shadow'. Artwork next. All good. Ever onwards #electronicmusic #newmusic #music #Electronica #Musica #musique #musik 🎶🙏",tracking next album one favourite part creative process feel like i'm getting close likely title 'the light need shadow' artwork next good ever onwards
-1.538520878102741e+18,2022-06-19 13:55:36+00:00,['1538520878102740995'],@jamabing 😄,
-1.5385151367927316e+18,2022-06-19 13:32:47+00:00,['1538515136792731655'],"Excellent #gig by @lauraveirs @Belgrave_Leeds last night. So many quality songs to choose from and a wonderfully distinctive, pure voice. Terrific #livemusic",excellent last night many quality song choose wonderfully distinctive pure voice terrific
-1.5382212943779185e+18,2022-06-18 18:05:10+00:00,['1538221294377918467'],👇 Classic #film #movie https://t.co/RH6iLaViX8,classic
-1.5381805252480942e+18,2022-06-18 15:23:09+00:00,['1538180525248094212'],"@superfriendzlds @Belgrave_Leeds @lauraveirs Any set times for tonight? Wondering if it's an earlier show, being a Saturday?",set time tonight wondering earlier show saturday
-1.5381175149614858e+18,2022-06-18 11:12:47+00:00,['1538117514961485825'],Got a Beck T-Shirt coming from America. Cheaper to buy it that way than at the gig the other night. Something not right there.,got beck tshirt coming america cheaper buy way gig night something right
-1.538116359095296e+18,2022-06-18 11:08:11+00:00,['1538116359095296002'],"Cleaning the bathroom to LP.8, the #newalbum by @kellyleeowens Anadlu a favourite on first listen #NewMusic #Album #music",cleaning bathroom anadlu favourite first listen
+https://t.co/EpypOh0mTL",congratulation winning first major title stunning bunker shot last hole sealed deal driving superbly throughout terrific genuinely competitive exposing vacuity liv golf circus,congratulation title bunker shot hole deal driving vacuity liv golf circus 
+1.5386153187041608e+18,2022-06-19 20:10:52+00:00,['1538615318704160770'],@akikigate 0,,nan 
+1.5385795158359163e+18,2022-06-19 17:48:36+00:00,['1538579515835916289'],"@jamabing @kvantefoto Like the lines, colours and space in this. Nice pic.",like line colour space nice pic,line space pic 
+1.538524637268935e+18,2022-06-19 14:10:32+00:00,['1538524637268934656'],"Tracking the next @NoiseClinic1 album. One of my favourite parts of the creative process. Feels like I'm getting close now. Likely title, 'The Light Needs Its Shadow'. Artwork next. All good. Ever onwards #electronicmusic #newmusic #music #Electronica #Musica #musique #musik 🎶🙏",tracking next album one favourite part creative process feel like i'm getting close likely title 'the light need shadow' artwork next good ever onwards,album part process i title shadow artwork 
+1.538520878102741e+18,2022-06-19 13:55:36+00:00,['1538520878102740995'],@jamabing 😄,,nan 
+1.5385151367927316e+18,2022-06-19 13:32:47+00:00,['1538515136792731655'],"Excellent #gig by @lauraveirs @Belgrave_Leeds last night. So many quality songs to choose from and a wonderfully distinctive, pure voice. Terrific #livemusic",excellent last night many quality song choose wonderfully distinctive pure voice terrific,night quality song pure voice terrific 
+1.5382212943779185e+18,2022-06-18 18:05:10+00:00,['1538221294377918467'],👇 Classic #film #movie https://t.co/RH6iLaViX8,classic,
+1.5381805252480942e+18,2022-06-18 15:23:09+00:00,['1538180525248094212'],"@superfriendzlds @Belgrave_Leeds @lauraveirs Any set times for tonight? Wondering if it's an earlier show, being a Saturday?",set time tonight wondering earlier show saturday,time tonight show saturday 
+1.5381175149614858e+18,2022-06-18 11:12:47+00:00,['1538117514961485825'],Got a Beck T-Shirt coming from America. Cheaper to buy it that way than at the gig the other night. Something not right there.,got beck tshirt coming america cheaper buy way gig night something right,tshirt buy way gig night something 
+1.538116359095296e+18,2022-06-18 11:08:11+00:00,['1538116359095296002'],"Cleaning the bathroom to LP.8, the #newalbum by @kellyleeowens Anadlu a favourite on first listen #NewMusic #Album #music",cleaning bathroom anadlu favourite first listen,bathroom anadlu favourite 
 1.538080474492334e+18,2022-06-18 08:45:35+00:00,['1538080474492334080'],"By-elections: chance to hasten @BorisJohnson's political end #Wakefieldbyelection #TivertonandHonitonByElection #politics 
-https://t.co/66KsNqlbgH",byelections chance hasten political end
-1.5378425926411264e+18,2022-06-17 17:00:20+00:00,['1537842592641126401'],@AnaisNin546 BG 👋,
-1.5374349852499272e+18,2022-06-16 14:00:39+00:00,['1537434985249927171'],"Excellent #beck #gig @O2VicWarehouse in Manchester last night. Clever mash-up of a large range of terrific songs. Such a back catalogue to go at. Brisk, no-nonsense set. Very good light-show too. Glad to have seen him 'live' at last. Had been a notable gap for me #livemusic",excellent manchester last night clever mashup large range terrific song back catalogue brisk nononsense set good lightshow glad seen 'live' last notable gap
-1.5370444133728502e+18,2022-06-15 12:08:39+00:00,['1537044413372850177'],@Newells_en It was indeed.,indeed
+https://t.co/66KsNqlbgH",byelections chance hasten political end,chance end 
+1.5378425926411264e+18,2022-06-17 17:00:20+00:00,['1537842592641126401'],@AnaisNin546 BG 👋,,nan 
+1.5374349852499272e+18,2022-06-16 14:00:39+00:00,['1537434985249927171'],"Excellent #beck #gig @O2VicWarehouse in Manchester last night. Clever mash-up of a large range of terrific songs. Such a back catalogue to go at. Brisk, no-nonsense set. Very good light-show too. Glad to have seen him 'live' at last. Had been a notable gap for me #livemusic",excellent manchester last night clever mashup large range terrific song back catalogue brisk nononsense set good lightshow glad seen 'live' last notable gap,manchester night clever range terrific song catalogue brisk nononsense lightshow glad gap 
+1.5370444133728502e+18,2022-06-15 12:08:39+00:00,['1537044413372850177'],@Newells_en It was indeed.,indeed,
 1.536618476864938e+18,2022-06-14 07:56:08+00:00,['1536618476864937990'],"#PhilipBakerHall appreciation in @guardian #film #movies #Cinema
-https://t.co/kKMlujZSS0",appreciation
-1.536376218689319e+18,2022-06-13 15:53:29+00:00,['1536376218689318912'],"Today's #gym #workout accompaniment, new albums by Rosie Carney, Brian Jackson and Steve Earle #music #Album",today's accompaniment new album rosie carney brian jackson steve earle
-1.5363722737493647e+18,2022-06-13 15:37:49+00:00,['1536372273749364736'],@jamabing Dick.,dick
-1.5363717428050534e+18,2022-06-13 15:35:42+00:00,['1536371742805053440'],"Just finished reading Jonathan Franzen's 'Freedom'. Long #Novel dissecting in forensic detail the many ups and downs of the Berglund family and a mutual friend. Very well written, highly perceptive, hugely imaginative and deeply human #book #Literature",finished reading jonathan franzen's 'freedom' long dissecting forensic detail many ups berglund family mutual friend well written highly perceptive hugely imaginative deeply human
+https://t.co/kKMlujZSS0",appreciation,appreciation 
+1.536376218689319e+18,2022-06-13 15:53:29+00:00,['1536376218689318912'],"Today's #gym #workout accompaniment, new albums by Rosie Carney, Brian Jackson and Steve Earle #music #Album",today's accompaniment new album rosie carney brian jackson steve earle,today album rosie carney brian jackson earle 
+1.5363722737493647e+18,2022-06-13 15:37:49+00:00,['1536372273749364736'],@jamabing Dick.,dick,dick 
+1.5363717428050534e+18,2022-06-13 15:35:42+00:00,['1536371742805053440'],"Just finished reading Jonathan Franzen's 'Freedom'. Long #Novel dissecting in forensic detail the many ups and downs of the Berglund family and a mutual friend. Very well written, highly perceptive, hugely imaginative and deeply human #book #Literature",finished reading jonathan franzen's 'freedom' long dissecting forensic detail many ups berglund family mutual friend well written highly perceptive hugely imaginative deeply human,reading jonathan detail family friend deeply 
 1.536368762538152e+18,2022-06-13 15:23:51+00:00,['1536368762538151936'],"Arron Banks loses libel action against reporter Carole Cadwalladr #Brexit #CaroleCadwalladr This is good news
-https://t.co/cuXUc2Ecv9",arron bank loses libel action reporter carole cadwalladr good news
-1.5360396134033818e+18,2022-06-12 17:35:56+00:00,['1536039613403381760'],👇 Brilliant #film #Cinema #movie One of my favourites. https://t.co/HeA0qhzxDj,brilliant one favourite
-1.5360372903756186e+18,2022-06-12 17:26:42+00:00,['1536037290375618563'],@Godistherain @drivebytruckers Great pic. Great gig 🎸🎸🎸,great pic great gig
-1.5360369221911265e+18,2022-06-12 17:25:15+00:00,['1536036922191126531'],@jamabing 😂🤣,
+https://t.co/cuXUc2Ecv9",arron bank loses libel action reporter carole cadwalladr good news,bank action reporter carole cadwalladr news 
+1.5360396134033818e+18,2022-06-12 17:35:56+00:00,['1536039613403381760'],👇 Brilliant #film #Cinema #movie One of my favourites. https://t.co/HeA0qhzxDj,brilliant one favourite,favourite 
+1.5360372903756186e+18,2022-06-12 17:26:42+00:00,['1536037290375618563'],@Godistherain @drivebytruckers Great pic. Great gig 🎸🎸🎸,great pic great gig,pic gig 
+1.5360369221911265e+18,2022-06-12 17:25:15+00:00,['1536036922191126531'],@jamabing 😂🤣,,nan 
 1.5359890063280046e+18,2022-06-12 14:14:51+00:00,['1535989006328004608'],"With #Brexit the UK has achieved the gold standard in self-harm @BorisJohnson @Conservatives #BrexitLies #BrexitShambles #politics #economy #trade
-https://t.co/DsE6xgSiMP",achieved gold standard selfharm
+https://t.co/DsE6xgSiMP",achieved gold standard selfharm,standard selfharm 
 1.535958364437549e+18,2022-06-12 12:13:05+00:00,['1535958364437549059'],"@BorisJohnson's spineless cabinet of mediocrities are too feeble to wield the dagger @Conservatives #politics 
-https://t.co/0M7qhOMtjo",spineless cabinet mediocrity feeble wield dagger
-1.5359424053540536e+18,2022-06-12 11:09:40+00:00,['1535942405354053633'],@wmboyle4 Classic Walter Hill movie.,classic walter hill movie
+https://t.co/0M7qhOMtjo",spineless cabinet mediocrity feeble wield dagger,cabinet mediocrity wield dagger 
+1.5359424053540536e+18,2022-06-12 11:09:40+00:00,['1535942405354053633'],@wmboyle4 Classic Walter Hill movie.,classic walter hill movie,walter hill movie 
 1.5359084359083418e+18,2022-06-12 08:54:41+00:00,['1535908435908341760'],"Britain's dire economic outlook @BorisJohnson @Conservatives #BrexitLies #BrexitReality #Brexit #economy #trade 'Fuck business,' says #Johnson
-https://t.co/FirULdqf0U",britain's dire economic outlook 'fuck business' say
-1.5353716861151027e+18,2022-06-10 21:21:50+00:00,['1535371686115102720'],👇 Agreed. https://t.co/s3ev2AOF46,agreed
-1.5353671710057308e+18,2022-06-10 21:03:53+00:00,['1535367171005730822'],"Caught up with 'Count Me In', the drumming #film on @netflix @NetflixFilm Excellent. Makes a great companion piece to the superb four part documentary, 'The Art Of Drumming', on @SkyArts #drums #drummer #music Great to see how drumming philosophies intertwine. Very moving for me.",caught 'count in' drumming excellent make great companion piece superb four part documentary 'the art drumming' great see drumming philosophy intertwine moving
-1.5353131479212442e+18,2022-06-10 17:29:13+00:00,['1535313147921244161'],"Today's #gym #workouts accompaniment, 'Cruel Country' by @Wilco Double #newalbum Too much to process in one go, but some stand-outs already #newmusic",today's accompaniment 'cruel country' double much process one standouts already
-1.5353032678817137e+18,2022-06-10 16:49:58+00:00,['1535303267881713669'],@primarily_prog Used to drum along to this. Holds a special place in my musical history.,used drum along hold special place musical history
-1.5353026420664156e+18,2022-06-10 16:47:29+00:00,['1535302642066415618'],@AnaisNin546 BG 👋,
+https://t.co/FirULdqf0U",britain's dire economic outlook 'fuck business' say,britain outlook business 
+1.5353716861151027e+18,2022-06-10 21:21:50+00:00,['1535371686115102720'],👇 Agreed. https://t.co/s3ev2AOF46,agreed,
+1.5353671710057308e+18,2022-06-10 21:03:53+00:00,['1535367171005730822'],"Caught up with 'Count Me In', the drumming #film on @netflix @NetflixFilm Excellent. Makes a great companion piece to the superb four part documentary, 'The Art Of Drumming', on @SkyArts #drums #drummer #music Great to see how drumming philosophies intertwine. Very moving for me.",caught 'count in' drumming excellent make great companion piece superb four part documentary 'the art drumming' great see drumming philosophy intertwine moving,caught make companion piece part documentary art philosophy intertwine 
+1.5353131479212442e+18,2022-06-10 17:29:13+00:00,['1535313147921244161'],"Today's #gym #workouts accompaniment, 'Cruel Country' by @Wilco Double #newalbum Too much to process in one go, but some stand-outs already #newmusic",today's accompaniment 'cruel country' double much process one standouts already,today country process 
+1.5353032678817137e+18,2022-06-10 16:49:58+00:00,['1535303267881713669'],@primarily_prog Used to drum along to this. Holds a special place in my musical history.,used drum along hold special place musical history,drum hold place history 
+1.5353026420664156e+18,2022-06-10 16:47:29+00:00,['1535302642066415618'],@AnaisNin546 BG 👋,,nan 
 1.5352480356593664e+18,2022-06-10 13:10:29+00:00,['1535248035659366401'],"Interesting interview with the very talented @beth_orton on chronic illness, motherhood and music. Article feels a bit dismissive of 'Kidsticks', which I thought was excellent. Particularly liked its electronic aspects + enjoyed the live show on that tour
-https://t.co/MOMyOr7Lvd",interesting interview talented chronic illness motherhood music article feel bit dismissive 'kidsticks' thought excellent particularly liked electronic aspect enjoyed live show tour
-1.535242159229657e+18,2022-06-10 12:47:08+00:00,['1535242159229657088'],@GhostofParties Great show in Leeds last night 🙏 Tasty bass lines too. Enjoy the rest of the tour. Happy travels 🎸🎸🎸,great show leeds last night tasty bass line enjoy rest tour happy travel
-1.5351791498448773e+18,2022-06-10 08:36:46+00:00,['1535179149844877312'],"@Thebubblegunman @drivebytruckers So many songs to choose from now. Glad you enjoyed the book, I don't tend to read music books.",many song choose glad enjoyed book tend read music book
-1.5351729683257344e+18,2022-06-10 08:12:12+00:00,['1535172968325734401'],"@Thebubblegunman @drivebytruckers 😄 Well remembered. Yes, my favourite track, but Son No1 and his girlfriend got their favourites: 'Slow Ride Argument' and 'Where The Devil Won't Stay'. Terrific stuff.",well remembered yes favourite track son girlfriend got favourite 'slow ride argument' 'where devil stay' terrific stuff
-1.535151662335238e+18,2022-06-10 06:47:32+00:00,['1535151662335238146'],@drivebytruckers absolutely smashing it again last night in Leeds at a sold-out and absolutely rammed Stylus. Glorious rock show🎸🎸🎸 #livemusic #music,absolutely smashing last night leeds soldout absolutely rammed stylus glorious rock show
-1.535150090217726e+18,2022-06-10 06:41:17+00:00,['1535150090217725953'],"@Thebubblegunman @drivebytruckers Rammed. We were front right. Yes, another great DBT gig 🎸🎸🎸",rammed front right yes another great dbt gig
-1.53492865066308e+18,2022-06-09 16:01:22+00:00,['1534928650663079936'],👇 Family outing. On our way soon 🎸🎸🎸 https://t.co/0NZkmmcgkJ,family outing way soon
-1.5349153519426806e+18,2022-06-09 15:08:31+00:00,['1534915351942680576'],@BrudPresents @drivebytruckers @JerryJosephNMF Any stage times?,stage time
-1.5349127046490808e+18,2022-06-09 14:58:00+00:00,['1534912704649080835'],@Thebubblegunman @drivebytruckers For sure. Family outing 🎸🎸🎸🤘,sure family outing
-1.5348736588370575e+18,2022-06-09 12:22:51+00:00,['1534873658837057536'],"@RonSexsmith 🤦‍♂️ I see what you did there. I wish I hadn't, but I did.",see wish
-1.534600131017945e+18,2022-06-08 18:15:57+00:00,['1534600131017945090'],@campbellclaret @mikegalsworthy @bbcquestiontime @CPhilpOfficial @wesstreeting @LaylaMoran @RoryStewartUK @tomhfh 😄,
-1.534596489372217e+18,2022-06-08 18:01:29+00:00,['1534596489372217345'],@RhonddaBryant 👍,
-1.5344328572419195e+18,2022-06-08 07:11:16+00:00,['1534432857241919489'],👇 This @BorisJohnson @Conservatives #BrexitDisaster #Brexit #COVID19 #covid #democracy #Parliament #politics #Johnson #JohnsonTheCorruptPM https://t.co/xRx95ojwe5,
-1.5342066068036198e+18,2022-06-07 16:12:13+00:00,['1534206606803619841'],👇 Classic https://t.co/mQhk8x9YBI,classic
-1.5339234837758648e+18,2022-06-06 21:27:12+00:00,['1533923483775864833'],#DeadManWalking @BorisJohnson  @Conservatives #Conservatives #NoConfidenceVote  #politics,
-1.5337763453981164e+18,2022-06-06 11:42:31+00:00,['1533776345398116352'],@CofCdivM 😄,
-1.5337596638413537e+18,2022-06-06 10:36:14+00:00,['1533759663841353728'],@AnaisNin546 BG 👋,
-1.5337139788236923e+18,2022-06-06 07:34:42+00:00,['1533713978823692288'],@_machimusic 🙏,
-1.5335606512637583e+18,2022-06-05 21:25:26+00:00,['1533560651263758336'],"'Petrichor', from the @NoiseClinic1 #Album 'It Burnt. It Flickered. And Then It Died' #electronicmusic #Electronic #music #Musica #electronica #musique #electronique #musiche #instrumentals #ambient https://t.co/yGNCgCX7i3",'petrichor' 'it burnt flickered died'
-1.5335586457907528e+18,2022-06-05 21:17:27+00:00,['1533558645790752777'],#CovidInquiryNow @BorisJohnson @Conservatives Promised by spring. Tick. Tock. #COVID #Covid_19 #coronavirus #politics #Health,promised spring tick tock
-1.533557645445038e+18,2022-06-05 21:13:29+00:00,['1533557645445038080'],👇 This. https://t.co/ktbEQ2TBTp,
-1.5335569785884672e+18,2022-06-05 21:10:50+00:00,['1533556978588467203'],#TopBoyNetflix Just caught up with the latest series. Top-notch British drama. Very well made and acted. High production values and quality @brianeno soundtrack. Final season to come. All good #Netflix @netflix @NetflixUK,caught latest series topnotch british drama well made acted high production value quality soundtrack final season come good
-1.5333657272767035e+18,2022-06-05 08:30:52+00:00,['1533365727276703744'],@Lastsrecords 🙏,
+https://t.co/MOMyOr7Lvd",interesting interview talented chronic illness motherhood music article feel bit dismissive 'kidsticks' thought excellent particularly liked electronic aspect enjoyed live show tour,interview illness motherhood music article aspect show tour 
+1.535242159229657e+18,2022-06-10 12:47:08+00:00,['1535242159229657088'],@GhostofParties Great show in Leeds last night 🙏 Tasty bass lines too. Enjoy the rest of the tour. Happy travels 🎸🎸🎸,great show leeds last night tasty bass line enjoy rest tour happy travel,show night bass line enjoy tour travel 
+1.5351791498448773e+18,2022-06-10 08:36:46+00:00,['1535179149844877312'],"@Thebubblegunman @drivebytruckers So many songs to choose from now. Glad you enjoyed the book, I don't tend to read music books.",many song choose glad enjoyed book tend read music book,song book tend music book 
+1.5351729683257344e+18,2022-06-10 08:12:12+00:00,['1535172968325734401'],"@Thebubblegunman @drivebytruckers 😄 Well remembered. Yes, my favourite track, but Son No1 and his girlfriend got their favourites: 'Slow Ride Argument' and 'Where The Devil Won't Stay'. Terrific stuff.",well remembered yes favourite track son girlfriend got favourite 'slow ride argument' 'where devil stay' terrific stuff,track son girlfriend ride argument stay terrific stuff 
+1.535151662335238e+18,2022-06-10 06:47:32+00:00,['1535151662335238146'],@drivebytruckers absolutely smashing it again last night in Leeds at a sold-out and absolutely rammed Stylus. Glorious rock show🎸🎸🎸 #livemusic #music,absolutely smashing last night leeds soldout absolutely rammed stylus glorious rock show,night rock show 
+1.535150090217726e+18,2022-06-10 06:41:17+00:00,['1535150090217725953'],"@Thebubblegunman @drivebytruckers Rammed. We were front right. Yes, another great DBT gig 🎸🎸🎸",rammed front right yes another great dbt gig,yes dbt gig 
+1.53492865066308e+18,2022-06-09 16:01:22+00:00,['1534928650663079936'],👇 Family outing. On our way soon 🎸🎸🎸 https://t.co/0NZkmmcgkJ,family outing way soon,family way 
+1.5349153519426806e+18,2022-06-09 15:08:31+00:00,['1534915351942680576'],@BrudPresents @drivebytruckers @JerryJosephNMF Any stage times?,stage time,stage time 
+1.5349127046490808e+18,2022-06-09 14:58:00+00:00,['1534912704649080835'],@Thebubblegunman @drivebytruckers For sure. Family outing 🎸🎸🎸🤘,sure family outing,family 
+1.5348736588370575e+18,2022-06-09 12:22:51+00:00,['1534873658837057536'],"@RonSexsmith 🤦‍♂️ I see what you did there. I wish I hadn't, but I did.",see wish,
+1.534600131017945e+18,2022-06-08 18:15:57+00:00,['1534600131017945090'],@campbellclaret @mikegalsworthy @bbcquestiontime @CPhilpOfficial @wesstreeting @LaylaMoran @RoryStewartUK @tomhfh 😄,,nan 
+1.534596489372217e+18,2022-06-08 18:01:29+00:00,['1534596489372217345'],@RhonddaBryant 👍,,nan 
+1.5344328572419195e+18,2022-06-08 07:11:16+00:00,['1534432857241919489'],👇 This @BorisJohnson @Conservatives #BrexitDisaster #Brexit #COVID19 #covid #democracy #Parliament #politics #Johnson #JohnsonTheCorruptPM https://t.co/xRx95ojwe5,,nan 
+1.5342066068036198e+18,2022-06-07 16:12:13+00:00,['1534206606803619841'],👇 Classic https://t.co/mQhk8x9YBI,classic,
+1.5339234837758648e+18,2022-06-06 21:27:12+00:00,['1533923483775864833'],#DeadManWalking @BorisJohnson  @Conservatives #Conservatives #NoConfidenceVote  #politics,,nan 
+1.5337763453981164e+18,2022-06-06 11:42:31+00:00,['1533776345398116352'],@CofCdivM 😄,,nan 
+1.5337596638413537e+18,2022-06-06 10:36:14+00:00,['1533759663841353728'],@AnaisNin546 BG 👋,,nan 
+1.5337139788236923e+18,2022-06-06 07:34:42+00:00,['1533713978823692288'],@_machimusic 🙏,,nan 
+1.5335606512637583e+18,2022-06-05 21:25:26+00:00,['1533560651263758336'],"'Petrichor', from the @NoiseClinic1 #Album 'It Burnt. It Flickered. And Then It Died' #electronicmusic #Electronic #music #Musica #electronica #musique #electronique #musiche #instrumentals #ambient https://t.co/yGNCgCX7i3",'petrichor' 'it burnt flickered died','petrichor 
+1.5335586457907528e+18,2022-06-05 21:17:27+00:00,['1533558645790752777'],#CovidInquiryNow @BorisJohnson @Conservatives Promised by spring. Tick. Tock. #COVID #Covid_19 #coronavirus #politics #Health,promised spring tick tock,spring tick tock 
+1.533557645445038e+18,2022-06-05 21:13:29+00:00,['1533557645445038080'],👇 This. https://t.co/ktbEQ2TBTp,,nan 
+1.5335569785884672e+18,2022-06-05 21:10:50+00:00,['1533556978588467203'],#TopBoyNetflix Just caught up with the latest series. Top-notch British drama. Very well made and acted. High production values and quality @brianeno soundtrack. Final season to come. All good #Netflix @netflix @NetflixUK,caught latest series topnotch british drama well made acted high production value quality soundtrack final season come good,caught series topnotch drama production value quality season 
+1.5333657272767035e+18,2022-06-05 08:30:52+00:00,['1533365727276703744'],@Lastsrecords 🙏,,nan 
 1.5333510802177925e+18,2022-06-05 07:32:40+00:00,['1533351080217792512'],"@ObserverUK view on #inequality in the #uk: 'Britain in 2022 is a country that has never been more desperately in need of political renewal.' #Politics @BorisJohnson @Conservatives @Keir_Starmer @UKLabour
-https://t.co/uMU7mvHZH8",view 'britain country never desperately need political renewal'
+https://t.co/uMU7mvHZH8",view 'britain country never desperately need political renewal',view country renewal 
 1.5332006562527355e+18,2022-06-04 21:34:56+00:00,['1533200656252735488'],"'The Point Of Curvature' title track from the @NoiseClinic1 #Album #electronicmusicproducer #electronic #music #Musica #electronica #musique #electronique #musiche #instrumentals #ambient #Space 
-https://t.co/7HTnfSuJnP",'the point curvature' title track
+https://t.co/7HTnfSuJnP",'the point curvature' title track,point curvature title track 
 1.533199885511676e+18,2022-06-04 21:31:52+00:00,['1533199885511675906'],"'One Day You'll Think Of Me...' from the @NoiseClinic1 #Album 'The Point Of Curvature' #electronicmusicproducer #electronica #Musica #musique #electronique #musik #musiche #electronic #music #instrumentals
-https://t.co/x74hj0G87b",'one day think me' 'the point curvature'
-1.5331442881036534e+18,2022-06-04 17:50:57+00:00,['1533144288103653379'],@desdelboy 🍻👍,
+https://t.co/x74hj0G87b",'one day think me' 'the point curvature',day point curvature 
+1.5331442881036534e+18,2022-06-04 17:50:57+00:00,['1533144288103653379'],@desdelboy 🍻👍,,nan 
 1.533012924788314e+18,2022-06-04 09:08:57+00:00,['1533012924788314113'],"Attacks on GPs, the #NHS is under threat @sajidjavid @BorisJohnson @Conservatives #Health
-https://t.co/Z259ZxqioH",attack gps threat
-1.532773154787033e+18,2022-06-03 17:16:12+00:00,['1532773154787033089'],@nam_ov Classic.,classic
-1.532755199558918e+18,2022-06-03 16:04:51+00:00,['1532755199558918145'],@punk_rock_icon Exactly. Good to hear. Utter cock.,exactly good hear utter cock
-1.5322842166371164e+18,2022-06-02 08:53:20+00:00,['1532284216637116419'],"Back from an excellent 2 week holiday in Scotland. Road trip, moving on every 2 days. Started at North Berwick, continuing up the east coast to Fraserburgh, along the Moray Firth + then back down through The Cairngorms. Coast, mountain, city and whisky. Now to plan the next one.",back excellent week holiday scotland road trip moving every day started north berwick continuing east coast fraserburgh along moray firth back cairngorm coast mountain city whisky plan next one
-1.532011590362534e+18,2022-06-01 14:50:01+00:00,['1532011590362533889'],@desdelboy 👍🎶🎸🥁,
-1.5315803979093115e+18,2022-05-31 10:16:36+00:00,['1531580397909311490'],@AnaisNin546 BG 👋,
-1.5315698391558554e+18,2022-05-31 09:34:39+00:00,['1531569839155855360'],"Saw Rolling Blackout CF in Leeds last night. Fine band, though they were let down by poor sound. Always feel for the drummer at these points. Only really hear the snare. All those 1000s of ride cymbal, hi-hat strokes + grace touches that nobody hears. Nice lost bass lines too.",saw rolling blackout leeds last night fine band though let poor sound always feel drummer point really hear snare ride cymbal hihat stroke grace touch nobody hears nice lost bass line
-1.5312934077543014e+18,2022-05-30 15:16:13+00:00,['1531293407754301443'],@soltllez21 Igualmente.,igualmente
-1.5311925885517332e+18,2022-05-30 08:35:35+00:00,['1531192588551733254'],@AnaisNin546 BG 👋,
+https://t.co/Z259ZxqioH",attack gps threat,attack gps threat 
+1.532773154787033e+18,2022-06-03 17:16:12+00:00,['1532773154787033089'],@nam_ov Classic.,classic,
+1.532755199558918e+18,2022-06-03 16:04:51+00:00,['1532755199558918145'],@punk_rock_icon Exactly. Good to hear. Utter cock.,exactly good hear utter cock,hear utter cock 
+1.5322842166371164e+18,2022-06-02 08:53:20+00:00,['1532284216637116419'],"Back from an excellent 2 week holiday in Scotland. Road trip, moving on every 2 days. Started at North Berwick, continuing up the east coast to Fraserburgh, along the Moray Firth + then back down through The Cairngorms. Coast, mountain, city and whisky. Now to plan the next one.",back excellent week holiday scotland road trip moving every day started north berwick continuing east coast fraserburgh along moray firth back cairngorm coast mountain city whisky plan next one,week holiday road trip day coast fraserburgh moray firth cairngorm coast mountain city whisky plan 
+1.532011590362534e+18,2022-06-01 14:50:01+00:00,['1532011590362533889'],@desdelboy 👍🎶🎸🥁,,nan 
+1.5315803979093115e+18,2022-05-31 10:16:36+00:00,['1531580397909311490'],@AnaisNin546 BG 👋,,nan 
+1.5315698391558554e+18,2022-05-31 09:34:39+00:00,['1531569839155855360'],"Saw Rolling Blackout CF in Leeds last night. Fine band, though they were let down by poor sound. Always feel for the drummer at these points. Only really hear the snare. All those 1000s of ride cymbal, hi-hat strokes + grace touches that nobody hears. Nice lost bass lines too.",saw rolling blackout leeds last night fine band though let poor sound always feel drummer point really hear snare ride cymbal hihat stroke grace touch nobody hears nice lost bass line,saw blackout night band sound point snare ride grace touch nobody bass line 
+1.5312934077543014e+18,2022-05-30 15:16:13+00:00,['1531293407754301443'],@soltllez21 Igualmente.,igualmente,igualmente 
+1.5311925885517332e+18,2022-05-30 08:35:35+00:00,['1531192588551733254'],@AnaisNin546 BG 👋,,nan 
 1.53117630403652e+18,2022-05-30 07:30:53+00:00,['1531176304036519939'],"@BorisJohnson, the party animal, has vomited over standards in public life. Excoriating, excellent piece from @andrewrawnsley
 'We seem to have got away with it',  is an apt credo for this appalling @Conservatives government #SueGrayReport #politics
-https://t.co/IqINkslW30",party animal vomited standard public life excoriating excellent piece 'we seem got away it' apt credo appalling government
-1.530819292530344e+18,2022-05-29 07:52:15+00:00,['1530819292530343937'],@StrtOuttaCRO Beautiful photo.,beautiful photo
-1.5304705173497897e+18,2022-05-28 08:46:20+00:00,['1530470517349789696'],Superb 😂👏👊 https://t.co/S30RIJuNbN,superb
+https://t.co/IqINkslW30",party animal vomited standard public life excoriating excellent piece 'we seem got away it' apt credo appalling government,party animal life piece credo government 
+1.530819292530344e+18,2022-05-29 07:52:15+00:00,['1530819292530343937'],@StrtOuttaCRO Beautiful photo.,beautiful photo,photo 
+1.5304705173497897e+18,2022-05-28 08:46:20+00:00,['1530470517349789696'],Superb 😂👏👊 https://t.co/S30RIJuNbN,superb,superb 
 1.5304537821438976e+18,2022-05-28 07:39:50+00:00,['1530453782143897600'],"@BorisJohnson @Conservatives change ministerial code to remove need to resign over breaches.....to save his own skin.
 Wow. Just when you think he (and they) couldn't sink any lower. Utter bastard #politics
-https://t.co/kQOjlFtzZj",change ministerial code remove need resign breachesto save skin wow think sink lower utter bastard
-1.530111267473658e+18,2022-05-27 08:58:48+00:00,['1530111267473657858'],"@Redpeter99 @BBCBreakfast They all are. Raab, Dorries, Rees-Mogg, Patel et al..all incompetent, thick enablers of The Blonde Bullshitter. When he goes, they are all go, pretty much.",raab dorries reesmogg patel alall incompetent thick enablers blonde bullshitter pretty much
-1.530091694150099e+18,2022-05-27 07:41:02+00:00,['1530091694150098945'],@_machimusic 🙏,
+https://t.co/kQOjlFtzZj",change ministerial code remove need resign breachesto save skin wow think sink lower utter bastard,change code need resign breachesto wow think bastard 
+1.530111267473658e+18,2022-05-27 08:58:48+00:00,['1530111267473657858'],"@Redpeter99 @BBCBreakfast They all are. Raab, Dorries, Rees-Mogg, Patel et al..all incompetent, thick enablers of The Blonde Bullshitter. When he goes, they are all go, pretty much.",raab dorries reesmogg patel alall incompetent thick enablers blonde bullshitter pretty much,raab patel alall incompetent thick bullshitter 
+1.530091694150099e+18,2022-05-27 07:41:02+00:00,['1530091694150098945'],@_machimusic 🙏,,nan 
 1.5300907141551636e+18,2022-05-27 07:37:08+00:00,['1530090714155163648'],"#RayLiotta A life in pictures.
-https://t.co/XKkLguiIDX",life picture
+https://t.co/XKkLguiIDX",life picture,life picture 
 1.5299353656955904e+18,2022-05-26 21:19:50+00:00,['1529935365695590400'],"'The Space Between The Stars' from the @NoiseClinic1 #Album 'Pyramid Phase' #electronicmusic #Musica #Electronica #musique #electronique #electronic #music #Musik #musiche #instrumentals #ambientmusic #ambient #Space #drone #cosmic #sleep 
-https://t.co/ssZTqwOx1m",'the space stars' 'pyramid phase'
-1.5299317924841226e+18,2022-05-26 21:05:38+00:00,['1529931792484122632'],@MIsabelMusic_ 🙏,
+https://t.co/ssZTqwOx1m",'the space stars' 'pyramid phase',space phase 
+1.5299317924841226e+18,2022-05-26 21:05:38+00:00,['1529931792484122632'],@MIsabelMusic_ 🙏,,nan 
 1.529921496302375e+18,2022-05-26 20:24:43+00:00,['1529921496302374927'],"'A Harbour For The Heart' from the @NoiseClinic1 #Album 'Eigengrau' #electronicmusic #Electronica #Musica #musique #electronique #music #electronic #Musik #musiche #instrumentals 
-https://t.co/GZer78d0gL",harbour heart' 'eigengrau'
-1.5297312978365194e+18,2022-05-26 07:48:57+00:00,['1529731297836519424'],"And so the @BorisJohnson @Conservatives #government agenda for its remaining time in office is quite clear: Keep The Blonde Bullshitter in position. And that is it. Nothing else. A fatally wounded, wholly incompetent PM leading a hugely diminished party #politics #GrayReport",agenda remaining time office quite clear keep blonde bullshitter position nothing else fatally wounded wholly incompetent leading hugely diminished party
-1.529573725129126e+18,2022-05-25 21:22:48+00:00,['1529573725129125889'],"I was going to suggest to Grant Shapps that he might like to treat himself to another pair of Union Jack undies, but I really can't be arsed.",going suggest grant shapps might like treat another pair union jack undies really can't arsed
-1.5295720430747238e+18,2022-05-25 21:16:07+00:00,['1529572043074723844'],"@lufc_ellie Seems reasonable, though would prefer him to stay, of course, even if this seems unlikely atm.",seems reasonable though would prefer stay course even seems unlikely atm
-1.5295642167592673e+18,2022-05-25 20:45:01+00:00,['1529564216759267328'],@RhonddaBryant Well said.,well said
-1.5295628865903206e+18,2022-05-25 20:39:44+00:00,['1529562886590320642'],@jamabing 😄 Classy.,classy
+https://t.co/GZer78d0gL",harbour heart' 'eigengrau',heart 
+1.5297312978365194e+18,2022-05-26 07:48:57+00:00,['1529731297836519424'],"And so the @BorisJohnson @Conservatives #government agenda for its remaining time in office is quite clear: Keep The Blonde Bullshitter in position. And that is it. Nothing else. A fatally wounded, wholly incompetent PM leading a hugely diminished party #politics #GrayReport",agenda remaining time office quite clear keep blonde bullshitter position nothing else fatally wounded wholly incompetent leading hugely diminished party,time office blonde bullshitter position nothing party 
+1.529573725129126e+18,2022-05-25 21:22:48+00:00,['1529573725129125889'],"I was going to suggest to Grant Shapps that he might like to treat himself to another pair of Union Jack undies, but I really can't be arsed.",going suggest grant shapps might like treat another pair union jack undies really can't arsed,grant shapps treat pair union jack 
+1.5295720430747238e+18,2022-05-25 21:16:07+00:00,['1529572043074723844'],"@lufc_ellie Seems reasonable, though would prefer him to stay, of course, even if this seems unlikely atm.",seems reasonable though would prefer stay course even seems unlikely atm,course atm 
+1.5295642167592673e+18,2022-05-25 20:45:01+00:00,['1529564216759267328'],@RhonddaBryant Well said.,well said,
+1.5295628865903206e+18,2022-05-25 20:39:44+00:00,['1529562886590320642'],@jamabing 😄 Classy.,classy,classy 
 1.5295564685208535e+18,2022-05-25 20:14:14+00:00,['1529556468520853505'],"#GrayReport a diagnosis of sick government @BorisJohnson @Conservatives #Partygate  #SueGrayReport #politics #COVID #JohnsonResign #JohnsonOut #JohnsonTheCorruptPM #JohnsonLiedPeopleDied 
-https://t.co/cVHQDJnoT3",diagnosis sick government
+https://t.co/cVHQDJnoT3",diagnosis sick government,diagnosis government 
 1.529377225199559e+18,2022-05-25 08:21:59+00:00,['1529377225199558657'],"'Get Carter' re-released. Classic #film #movie #cinema 
-https://t.co/pVc4A2GInI",'get carter' rereleased classic
+https://t.co/pVc4A2GInI",'get carter' rereleased classic,carter 
 1.529356813967057e+18,2022-05-25 07:00:53+00:00,['1529356813967056897'],"No10 officials tell of conditions so cramped at a party attended by @BorisJohnson that some people had to sit on others laps @Conservatives #Partygate #PartygateCoverup #PartyGatePhotos #PartygateFines #COVID19 #SueGrayReport #Politics
-https://t.co/sSzZeeut7q",official tell condition cramped party attended people sit others lap
-1.5292106835308134e+18,2022-05-24 21:20:12+00:00,['1529210683530813444'],@sisterimapoet86 @WHATSFORDlNNER Agreed 👍,agreed
-1.529209812109734e+18,2022-05-24 21:16:45+00:00,['1529209812109733888'],@RonSexsmith Exactly.,exactly
-1.5292073249503355e+18,2022-05-24 21:06:52+00:00,['1529207324950335489'],@leeds_lord Yes. I seem to remember enjoying it and it being pretty faithful to the book.,yes seem remember enjoying pretty faithful book
+https://t.co/sSzZeeut7q",official tell condition cramped party attended people sit others lap,official tell condition party 
+1.5292106835308134e+18,2022-05-24 21:20:12+00:00,['1529210683530813444'],@sisterimapoet86 @WHATSFORDlNNER Agreed 👍,agreed,
+1.529209812109734e+18,2022-05-24 21:16:45+00:00,['1529209812109733888'],@RonSexsmith Exactly.,exactly,
+1.5292073249503355e+18,2022-05-24 21:06:52+00:00,['1529207324950335489'],@leeds_lord Yes. I seem to remember enjoying it and it being pretty faithful to the book.,yes seem remember enjoying pretty faithful book,book 
 1.5288431578735084e+18,2022-05-23 20:59:48+00:00,['1528843157873508352'],"'Imperfect Connections', from the @NoiseClinic1 #Album 'Substrata' #electronicmusic #electronica #Musica #musique #electronique #music #Musik #musiche #instrumentals 
-https://t.co/YaqR3KKRAN",'imperfect connections' 'substrata'
+https://t.co/YaqR3KKRAN",'imperfect connections' 'substrata',
 1.5288424465238385e+18,2022-05-23 20:56:58+00:00,['1528842446523838466'],"'The End Of It', from the @NoiseClinic1 #Album 'Penumbra' #electronicmusic #electronica #musica #musique #electronique #music #musiche #Musik #ambientmusic #instrumentals
-https://t.co/uwAUKu8lZi",'the end it' 'penumbra'
-1.528820888077992e+18,2022-05-23 19:31:18+00:00,['1528820888077991937'],@colinphoenix Well said.,well said
-1.5288041973401764e+18,2022-05-23 18:24:59+00:00,['1528804197340176384'],👇 Exactly this. Stinks. https://t.co/Qbwzq9wbsi,exactly stink
-1.5287805164801024e+18,2022-05-23 16:50:53+00:00,['1528780516480102401'],Superb 👏😄👊 https://t.co/631IymtfGd,superb
-1.5284712689656218e+18,2022-05-22 20:22:02+00:00,['1528471268965621760'],@estellecostanza It's certainly a thought. Played Inveralochy GC today. Excellent links course. Quiet. Reasonably priced. Loved it. Hidden gem perhaps.,certainly thought played inveralochy today excellent link course quiet reasonably priced loved hidden gem perhaps
-1.528470101716095e+18,2022-05-22 20:17:24+00:00,['1528470101716094977'],@tobtipp 👍👊,
-1.5284352813005414e+18,2022-05-22 17:59:02+00:00,['1528435281300541441'],@GarySpudWilson Hopefully. Hope Liverpool win the Champions League too.,hopefully hope liverpool win champion league
-1.5284302484627948e+18,2022-05-22 17:39:02+00:00,['1528430248462794758'],"@GarySpudWilson Didn't think they'd do it tbh. Amazing. But for Man City, Liverpool romp home to the title too. Two teams clearly a class apart from the rest atm. Leeds now need to buy some more players. Burnley do deserve to go down. Rarely played football and dirty.",think they'd tbh amazing man city liverpool romp home title two team clearly class apart rest atm leeds need buy player burnley deserve rarely played football dirty
-1.528290355015258e+18,2022-05-22 08:23:09+00:00,['1528290355015258113'],@MIsabelMusic_ 🙏,
+https://t.co/uwAUKu8lZi",'the end it' 'penumbra',end 
+1.528820888077992e+18,2022-05-23 19:31:18+00:00,['1528820888077991937'],@colinphoenix Well said.,well said,
+1.5288041973401764e+18,2022-05-23 18:24:59+00:00,['1528804197340176384'],👇 Exactly this. Stinks. https://t.co/Qbwzq9wbsi,exactly stink,
+1.5287805164801024e+18,2022-05-23 16:50:53+00:00,['1528780516480102401'],Superb 👏😄👊 https://t.co/631IymtfGd,superb,superb 
+1.5284712689656218e+18,2022-05-22 20:22:02+00:00,['1528471268965621760'],@estellecostanza It's certainly a thought. Played Inveralochy GC today. Excellent links course. Quiet. Reasonably priced. Loved it. Hidden gem perhaps.,certainly thought played inveralochy today excellent link course quiet reasonably priced loved hidden gem perhaps,inveralochy today link course gem 
+1.528470101716095e+18,2022-05-22 20:17:24+00:00,['1528470101716094977'],@tobtipp 👍👊,,nan 
+1.5284352813005414e+18,2022-05-22 17:59:02+00:00,['1528435281300541441'],@GarySpudWilson Hopefully. Hope Liverpool win the Champions League too.,hopefully hope liverpool win champion league,champion league 
+1.5284302484627948e+18,2022-05-22 17:39:02+00:00,['1528430248462794758'],"@GarySpudWilson Didn't think they'd do it tbh. Amazing. But for Man City, Liverpool romp home to the title too. Two teams clearly a class apart from the rest atm. Leeds now need to buy some more players. Burnley do deserve to go down. Rarely played football and dirty.",think they'd tbh amazing man city liverpool romp home title two team clearly class apart rest atm leeds need buy player burnley deserve rarely played football dirty,think man city liverpool home title team class atm player burnley deserve football dirty 
+1.528290355015258e+18,2022-05-22 08:23:09+00:00,['1528290355015258113'],@MIsabelMusic_ 🙏,,nan 
 1.528290047988048e+18,2022-05-22 08:21:56+00:00,['1528290047988047872'],"@ObserverUK view on the investigation into #COVID19 lawbreaking in Downing St. Serious questions need answering #Partygatefines @BorisJohnson @Conservatives #politics 
-https://t.co/n46Uu4C20n",view investigation lawbreaking downing serious question need answering
-1.5281195440317194e+18,2022-05-21 21:04:25+00:00,['1528119544031719426'],@JonJonesSnr 👏,
+https://t.co/n46Uu4C20n",view investigation lawbreaking downing serious question need answering,view investigation question need 
+1.5281195440317194e+18,2022-05-21 21:04:25+00:00,['1528119544031719426'],@JonJonesSnr 👏,,nan 
 1.5281193125102387e+18,2022-05-21 21:03:29+00:00,['1528119312510238722'],"'Komorebi' from the @NoiseClinic1
-#Album 'A Sweet Mistake'. One of my favourites #Electronica #Musica #electronicmusic #musique #electronique #musik #musiche #instrumentals https://t.co/qmZ2qXis3F",'komorebi' sweet mistake' one favourite
-1.528108653282214e+18,2022-05-21 20:21:08+00:00,['1528108653282213888'],Twat. How is this legal? I could repair his image for free. https://t.co/YAjaKpZSgY,twat legal could repair image free
+#Album 'A Sweet Mistake'. One of my favourites #Electronica #Musica #electronicmusic #musique #electronique #musik #musiche #instrumentals https://t.co/qmZ2qXis3F",'komorebi' sweet mistake' one favourite,mistake favourite 
+1.528108653282214e+18,2022-05-21 20:21:08+00:00,['1528108653282213888'],Twat. How is this legal? I could repair his image for free. https://t.co/YAjaKpZSgY,twat legal could repair image free,image 
 1.5277619556577526e+18,2022-05-20 21:23:29+00:00,['1527761955657752576'],"'Full Many A Flower'from the @NoiseClinic1 #Album 'Penumbra' #electronicmusic #Electronic #music #musique #electronique #Musica #electronica #musiche #instrumentals #ambientmusic #ambient
-https://t.co/ec9Ow4wqbu",'full many flower'from 'penumbra'
-1.5277500107707105e+18,2022-05-20 20:36:01+00:00,['1527750010770710534'],Superb 😂👏👊 https://t.co/xwXQ1TpzIH,superb
-1.527397805379158e+18,2022-05-19 21:16:29+00:00,['1527397805379158016'],"@StrtOuttaCRO Was always going to come down to Brentford away, wasn't it?",always going come brentford away
-1.5273854442408796e+18,2022-05-19 20:27:22+00:00,['1527385444240879616'],"@RonSexsmith I saw what you did there. It wasn't necessarily good, but I saw what you did 😄",saw necessarily good saw
-1.5273810263093453e+18,2022-05-19 20:09:48+00:00,['1527381026309345281'],@StrtOuttaCRO 1-1. Come on Villa!,come villa
-1.5273765362815918e+18,2022-05-19 19:51:58+00:00,['1527376536281591846'],@StrtOuttaCRO Shite!,shite
+https://t.co/ec9Ow4wqbu",'full many flower'from 'penumbra',
+1.5277500107707105e+18,2022-05-20 20:36:01+00:00,['1527750010770710534'],Superb 😂👏👊 https://t.co/xwXQ1TpzIH,superb,superb 
+1.527397805379158e+18,2022-05-19 21:16:29+00:00,['1527397805379158016'],"@StrtOuttaCRO Was always going to come down to Brentford away, wasn't it?",always going come brentford away,brentford 
+1.5273854442408796e+18,2022-05-19 20:27:22+00:00,['1527385444240879616'],"@RonSexsmith I saw what you did there. It wasn't necessarily good, but I saw what you did 😄",saw necessarily good saw,saw 
+1.5273810263093453e+18,2022-05-19 20:09:48+00:00,['1527381026309345281'],@StrtOuttaCRO 1-1. Come on Villa!,come villa,villa 
+1.5273765362815918e+18,2022-05-19 19:51:58+00:00,['1527376536281591846'],@StrtOuttaCRO Shite!,shite,shite 
 1.5273755913174835e+18,2022-05-19 19:48:12+00:00,['1527375591317483556'],"@nadinedorries, I am part of the 96% who want to #KeepChannel4Public
 @BorisJohnson
 @Conservatives
 You asked for our views in your Department's consultation. We told you we didn't want Channel 4 sold off. Why aren't you listening?
-#Channel4",part want asked view department's consultation told want channel sold listening
-1.5269562077721477e+18,2022-05-18 16:01:44+00:00,['1526956207772147713'],@PeteBowler @FilmUpdates Yes. Thoroughly enjoyed it.,yes thoroughly enjoyed
-1.5264587569466982e+18,2022-05-17 07:05:02+00:00,['1526458756946698240'],@_machimusic 🙏,
+#Channel4",part want asked view department's consultation told want channel sold listening,part view department consultation channel 
+1.5269562077721477e+18,2022-05-18 16:01:44+00:00,['1526956207772147713'],@PeteBowler @FilmUpdates Yes. Thoroughly enjoyed it.,yes thoroughly enjoyed,
+1.5264587569466982e+18,2022-05-17 07:05:02+00:00,['1526458756946698240'],@_machimusic 🙏,,nan 
 1.526311983385129e+18,2022-05-16 21:21:49+00:00,['1526311983385128961'],"'The Space Between The Stars' from the @NoiseClinic1 #Album 'Pyramid Phase'. Quite often like this one on the headphones before going to bed 🎧 🛌 #electronicmusic #musica #electronica #musique #electronique #musiche #music #instrumentals #ambientmusic 
-https://t.co/mZBS3Bg5IA",'the space stars' 'pyramid phase' quite often like one headphone going bed
+https://t.co/mZBS3Bg5IA",'the space stars' 'pyramid phase' quite often like one headphone going bed,space phase headphone bed 
 1.5263076834474803e+18,2022-05-16 21:04:43+00:00,['1526307683447480320'],"'Dancing In Her Daisy Crown' from the @NoiseClinic1 #Album 'Pyramid Phase' #music #musique #musik #Musica #musiche #instrumentals 
-https://t.co/CgqRVWs3Fz",'dancing daisy crown' 'pyramid phase'
+https://t.co/CgqRVWs3Fz",'dancing daisy crown' 'pyramid phase',crown phase 
 1.5263071348744724e+18,2022-05-16 21:02:33+00:00,['1526307134874472456'],"'The Uncertainty Principle' from the @NoiseClinic1 #Album 'Pyramid Phase' #electronicmusic #music #musique #electronique #musik #musiche #instrumentals
-https://t.co/DMFpVpB7nd",'the uncertainty principle' 'pyramid phase'
-1.5263025054618542e+18,2022-05-16 20:44:09+00:00,['1526302505461854209'],@WilliamMarquar8 👍 For sure. Always tell it's him playing. So distinctive.,sure always tell playing distinctive
-1.5262986615205642e+18,2022-05-16 20:28:52+00:00,['1526298661520564224'],@WilliamMarquar8 Drumming on 'Indiscipline'. Wow.,drumming 'indiscipline' wow
-1.526297032373289e+18,2022-05-16 20:22:24+00:00,['1526297032373288960'],@soltllez21 🙂,
-1.526294160160002e+18,2022-05-16 20:10:59+00:00,['1526294160160002048'],@RonSexsmith 🤦‍♂️,
-1.526292209804378e+18,2022-05-16 20:03:14+00:00,['1526292209804378117'],Enjoyed 'Pig' with Nicholas Cage. Quirky. Different. Which is good. Nice slow reveal of the main character's back story. Bizarre Fight Club type section didn't quite meld with the rest of the film for me. Worth seeking out. Cute pig too 🐖 #film #movie #Cinema,enjoyed 'pig' nicholas cage quirky different good nice slow reveal main character's back story bizarre fight club type section quite meld rest film worth seeking cute pig
-1.5262864593633772e+18,2022-05-16 19:40:23+00:00,['1526286459363377153'],👇 Superb 👊 https://t.co/EJCK6be0XN,superb
-1.5261266002443674e+18,2022-05-16 09:05:10+00:00,['1526126600244367360'],👇 Dick. https://t.co/s37WprMgZd,dick
-1.525948984086471e+18,2022-05-15 21:19:23+00:00,['1525948984086470656'],@dubhead77 Yes. It was two different tours. Probably Leeds Poly first as it's a smaller venue (now Leeds Met Uni) and then Bradford on the next tour after the success of Fuzzy. Great band. Grant Lee Phillips is still excellent as a solo artist. Very witty too.,yes two different tour probably leeds poly first smaller venue leeds met uni bradford next tour success fuzzy great band grant lee phillips still excellent solo artist witty
-1.5259477634181898e+18,2022-05-15 21:14:32+00:00,['1525947763418189824'],@dubhead77 Likewise. Was either at Leeds Poly or Bradford St George's Hall. Saw them on two different tours around that time.,likewise either leeds poly bradford george's hall saw two different tour around time
-1.525947023337341e+18,2022-05-15 21:11:35+00:00,['1525947023337340928'],@spooky_bush Any favourites? My favourite all-time gig is Peter Gabriel in Manchester on the Growing Up Tour with The Blind Boys Of Alabama supporting who also spectacularly reappeared in Peter's set. Stunning gig + the best gig use of an arena space ever. Check out the DVD.,favourite favourite alltime gig peter gabriel manchester growing tour blind boy alabama supporting also spectacularly reappeared peter's set stunning gig best gig use arena space ever check dvd
-1.5259451578536264e+18,2022-05-15 21:04:10+00:00,['1525945157853626368'],@dubhead77 Fine selection. Grant Lee Buffalo is my favourite there.,fine selection grant lee buffalo favourite
-1.525941099545731e+18,2022-05-15 20:48:03+00:00,['1525941099545731072'],@jamabing Rifftastic 🤘,rifftastic
-1.5259259362014044e+18,2022-05-15 19:47:48+00:00,['1525925936201404417'],Vital and well-deserved point for @lufc against Brighton today. All down to next Sunday now. It was always going to be wasn't it? #LEEBRI #lufc #LEEDSUTD #MOT #PremierLeague #football,vital welldeserved point brighton today next sunday always going
+https://t.co/DMFpVpB7nd",'the uncertainty principle' 'pyramid phase',uncertainty principle phase 
+1.5263025054618542e+18,2022-05-16 20:44:09+00:00,['1526302505461854209'],@WilliamMarquar8 👍 For sure. Always tell it's him playing. So distinctive.,sure always tell playing distinctive,distinctive 
+1.5262986615205642e+18,2022-05-16 20:28:52+00:00,['1526298661520564224'],@WilliamMarquar8 Drumming on 'Indiscipline'. Wow.,drumming 'indiscipline' wow,wow 
+1.526297032373289e+18,2022-05-16 20:22:24+00:00,['1526297032373288960'],@soltllez21 🙂,,nan 
+1.526294160160002e+18,2022-05-16 20:10:59+00:00,['1526294160160002048'],@RonSexsmith 🤦‍♂️,,nan 
+1.526292209804378e+18,2022-05-16 20:03:14+00:00,['1526292209804378117'],Enjoyed 'Pig' with Nicholas Cage. Quirky. Different. Which is good. Nice slow reveal of the main character's back story. Bizarre Fight Club type section didn't quite meld with the rest of the film for me. Worth seeking out. Cute pig too 🐖 #film #movie #Cinema,enjoyed 'pig' nicholas cage quirky different good nice slow reveal main character's back story bizarre fight club type section quite meld rest film worth seeking cute pig,nice reveal character story bizarre fight club type section rest film cute pig 
+1.5262864593633772e+18,2022-05-16 19:40:23+00:00,['1526286459363377153'],👇 Superb 👊 https://t.co/EJCK6be0XN,superb,superb 
+1.5261266002443674e+18,2022-05-16 09:05:10+00:00,['1526126600244367360'],👇 Dick. https://t.co/s37WprMgZd,dick,dick 
+1.525948984086471e+18,2022-05-15 21:19:23+00:00,['1525948984086470656'],@dubhead77 Yes. It was two different tours. Probably Leeds Poly first as it's a smaller venue (now Leeds Met Uni) and then Bradford on the next tour after the success of Fuzzy. Great band. Grant Lee Phillips is still excellent as a solo artist. Very witty too.,yes two different tour probably leeds poly first smaller venue leeds met uni bradford next tour success fuzzy great band grant lee phillips still excellent solo artist witty,tour poly venue bradford success band grant lee artist witty 
+1.5259477634181898e+18,2022-05-15 21:14:32+00:00,['1525947763418189824'],@dubhead77 Likewise. Was either at Leeds Poly or Bradford St George's Hall. Saw them on two different tours around that time.,likewise either leeds poly bradford george's hall saw two different tour around time,bradford george hall tour time 
+1.525947023337341e+18,2022-05-15 21:11:35+00:00,['1525947023337340928'],@spooky_bush Any favourites? My favourite all-time gig is Peter Gabriel in Manchester on the Growing Up Tour with The Blind Boys Of Alabama supporting who also spectacularly reappeared in Peter's set. Stunning gig + the best gig use of an arena space ever. Check out the DVD.,favourite favourite alltime gig peter gabriel manchester growing tour blind boy alabama supporting also spectacularly reappeared peter's set stunning gig best gig use arena space ever check dvd,alltime gig peter gabriel manchester blind boy alabama peter set stunning gig gig use arena space dvd 
+1.5259451578536264e+18,2022-05-15 21:04:10+00:00,['1525945157853626368'],@dubhead77 Fine selection. Grant Lee Buffalo is my favourite there.,fine selection grant lee buffalo favourite,selection grant lee 
+1.525941099545731e+18,2022-05-15 20:48:03+00:00,['1525941099545731072'],@jamabing Rifftastic 🤘,rifftastic,
+1.5259259362014044e+18,2022-05-15 19:47:48+00:00,['1525925936201404417'],Vital and well-deserved point for @lufc against Brighton today. All down to next Sunday now. It was always going to be wasn't it? #LEEBRI #lufc #LEEDSUTD #MOT #PremierLeague #football,vital welldeserved point brighton today next sunday always going,point brighton today sunday 
 1.5255159921007534e+18,2022-05-14 16:38:49+00:00,['1525515992100753412'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 119: Sir, Thou art a 'loathly, lily-livered fustilarian'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #Johnson Last one for a while.",random insult generator used every day day sir thou art 'loathly lilylivered fustilarian' punishment towelthwacked starkbollock naked nanny last one
-1.525377204342993e+18,2022-05-14 07:27:20+00:00,['1525377204342992897'],"@Gary_Bainbridge Where he struggles to resist the creamy, salty temptations of cheese.",struggle resist creamy salty temptation cheese
-1.5253759619313172e+18,2022-05-14 07:22:24+00:00,['1525375961931317249'],@jamabing 😂,
-1.5252253068770468e+18,2022-05-13 21:23:45+00:00,['1525225306877046784'],@JayneMoobs 'Hats' by The Blue Nile is a classic #album  'From A Late Night Train' is one of my all-time favourite songs @PaulBuchananBN,'hats' blue nile classic 'from late night train' one alltime favourite song
-1.525223426109096e+18,2022-05-13 21:16:16+00:00,['1525223426109095938'],Respect to Fred Ward. Class character actor. I instantly think of a scene where he tells a joke in 'Silkwood' with Meryl Streep. Always made me laugh. Thank you #FredWard #film #Cinema #movie,respect fred ward class character actor instantly think scene tell joke 'silkwood' meryl streep always made laugh thank
-1.5252210203612324e+18,2022-05-13 21:06:43+00:00,['1525221020361232391'],It goes right back to this for me. #Brexit represents the only time in history that a country has wilfully + demonstrably chosen to make itself worse off. Never again can @Conservatives claim to be the party of financial responsibility as they always did #BrexitLies #politics https://t.co/6fH0qbzmGU,right back represents time history country wilfully demonstrably chosen make worse never claim party financial responsibility always
-1.5251496090137928e+18,2022-05-13 16:22:57+00:00,['1525149609013792770'],Loving the @theblackkeys #newalbum 'Dropout Boogie'. Great stuff #NewMusic #NewMusicFriday #music 🎸🥁,loving 'dropout boogie' great stuff
-1.5250745281829724e+18,2022-05-13 11:24:36+00:00,['1525074528182972416'],Superb 😂 👊 https://t.co/gzd3M5frJT,superb
+#politics #Johnson Last one for a while.",random insult generator used every day day sir thou art 'loathly lilylivered fustilarian' punishment towelthwacked starkbollock naked nanny last one,random insult generator day day art fustilarian punishment starkbollock 
+1.525377204342993e+18,2022-05-14 07:27:20+00:00,['1525377204342992897'],"@Gary_Bainbridge Where he struggles to resist the creamy, salty temptations of cheese.",struggle resist creamy salty temptation cheese,resist creamy salty temptation cheese 
+1.5253759619313172e+18,2022-05-14 07:22:24+00:00,['1525375961931317249'],@jamabing 😂,,nan 
+1.5252253068770468e+18,2022-05-13 21:23:45+00:00,['1525225306877046784'],@JayneMoobs 'Hats' by The Blue Nile is a classic #album  'From A Late Night Train' is one of my all-time favourite songs @PaulBuchananBN,'hats' blue nile classic 'from late night train' one alltime favourite song,blue night train alltime favourite song 
+1.525223426109096e+18,2022-05-13 21:16:16+00:00,['1525223426109095938'],Respect to Fred Ward. Class character actor. I instantly think of a scene where he tells a joke in 'Silkwood' with Meryl Streep. Always made me laugh. Thank you #FredWard #film #Cinema #movie,respect fred ward class character actor instantly think scene tell joke 'silkwood' meryl streep always made laugh thank,respect class character actor scene meryl streep thank 
+1.5252210203612324e+18,2022-05-13 21:06:43+00:00,['1525221020361232391'],It goes right back to this for me. #Brexit represents the only time in history that a country has wilfully + demonstrably chosen to make itself worse off. Never again can @Conservatives claim to be the party of financial responsibility as they always did #BrexitLies #politics https://t.co/6fH0qbzmGU,right back represents time history country wilfully demonstrably chosen make worse never claim party financial responsibility always,time history country party responsibility 
+1.5251496090137928e+18,2022-05-13 16:22:57+00:00,['1525149609013792770'],Loving the @theblackkeys #newalbum 'Dropout Boogie'. Great stuff #NewMusic #NewMusicFriday #music 🎸🥁,loving 'dropout boogie' great stuff,boogie stuff 
+1.5250745281829724e+18,2022-05-13 11:24:36+00:00,['1525074528182972416'],Superb 😂 👊 https://t.co/gzd3M5frJT,superb,superb 
 1.5250599240944845e+18,2022-05-13 10:26:34+00:00,['1525059924094484480'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 118: Sir, Thou art a 'panderly, flap-eared costermonger'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'panderly flapeared costermonger' punishment towelthwacked starkbollock naked nanny
-1.5248483867755807e+18,2022-05-12 20:26:00+00:00,['1524848386775580672'],@sisterimapoet86 I like you being here 🙂,like
-1.5248374363328553e+18,2022-05-12 19:42:29+00:00,['1524837436332855311'],@neilarnfield @Arsenal @LUFC 😄,
-1.5248244384573768e+18,2022-05-12 18:50:50+00:00,['1524824438457376775'],"Sons No 1 and 2 rather excited tonight. Inexplicably, they are both @Arsenal fans. Always have been. Both have a soft spot for @LUFC as well so it's not all bad.",son rather excited tonight inexplicably fan always soft spot well bad
-1.5248019302408684e+18,2022-05-12 17:21:24+00:00,['1524801930240868352'],"Just booked a couple more gigs @jesse_malin @thetradesclub  @lauraveirs @Belgrave_Leeds @MidlakeBand @Nath_Brudenell Picks up from the end of May. First out of the traps, Rolling Blackouts Coastal Fever at The Irish Centre in #Leeds #livemusic #gigs #gigsvilleuk #music",booked couple gig pick end may first trap rolling blackout coastal fever irish centre
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'panderly flapeared costermonger' punishment towelthwacked starkbollock naked nanny,random insult generator day day costermonger punishment starkbollock 
+1.5248483867755807e+18,2022-05-12 20:26:00+00:00,['1524848386775580672'],@sisterimapoet86 I like you being here 🙂,like,
+1.5248374363328553e+18,2022-05-12 19:42:29+00:00,['1524837436332855311'],@neilarnfield @Arsenal @LUFC 😄,,nan 
+1.5248244384573768e+18,2022-05-12 18:50:50+00:00,['1524824438457376775'],"Sons No 1 and 2 rather excited tonight. Inexplicably, they are both @Arsenal fans. Always have been. Both have a soft spot for @LUFC as well so it's not all bad.",son rather excited tonight inexplicably fan always soft spot well bad,son fan spot 
+1.5248019302408684e+18,2022-05-12 17:21:24+00:00,['1524801930240868352'],"Just booked a couple more gigs @jesse_malin @thetradesclub  @lauraveirs @Belgrave_Leeds @MidlakeBand @Nath_Brudenell Picks up from the end of May. First out of the traps, Rolling Blackouts Coastal Fever at The Irish Centre in #Leeds #livemusic #gigs #gigsvilleuk #music",booked couple gig pick end may first trap rolling blackout coastal fever irish centre,couple gig end fever centre 
 1.5247002081264312e+18,2022-05-12 10:37:11+00:00,['1524700208126431233'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 117: Sir, Thou art a 'plumpy, hook-nosed foot-licker'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'plumpy hooknosed footlicker' punishment towelthwacked starkbollock naked nanny
-1.5246997513961226e+18,2022-05-12 10:35:22+00:00,['1524699751396122625'],#covidinquiry? #SueGrayReport? #SueGrayReportNow @BorisJohnson @Conservatives @Keir_Starmer @UKLabour #politics,
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'plumpy hooknosed footlicker' punishment towelthwacked starkbollock naked nanny,random insult generator day day art footlicker punishment starkbollock 
+1.5246997513961226e+18,2022-05-12 10:35:22+00:00,['1524699751396122625'],#covidinquiry? #SueGrayReport? #SueGrayReportNow @BorisJohnson @Conservatives @Keir_Starmer @UKLabour #politics,,nan 
 1.5246988829361193e+18,2022-05-12 10:31:55+00:00,['1524698882936119296'],"@guardian view on the #CostOfLivingCrisis : a crisis made in Downing Street @BorisJohnson @RishiSunak @Conservatives #politics #economy #Brexit #BrexitReality #BrexitLies #BrexitShambles 
-https://t.co/lqM12NpG94",view crisis made downing street
-1.524502211740504e+18,2022-05-11 21:30:25+00:00,['1524502211740504064'],"@GarySpudWilson @LUFC Oh yes. Would love Lampard to go down, but can't see it now. Been a desperate season where little has gone right. But not done yet. Must win on Sunday.",yes would love lampard can't see desperate season little gone right done yet must win sunday
-1.5244927025738998e+18,2022-05-11 20:52:38+00:00,['1524492702573899781'],Be nice to keep 11 players on the pitch for @lufc's must win game against Brighton on Sunday. Be a start at least.,nice keep player pitch must win game brighton sunday start least
-1.52437126613581e+18,2022-05-11 12:50:05+00:00,['1524371266135810049'],@AngelaRayner The man is a complete cock.,man complete cock
+https://t.co/lqM12NpG94",view crisis made downing street,view crisis street 
+1.524502211740504e+18,2022-05-11 21:30:25+00:00,['1524502211740504064'],"@GarySpudWilson @LUFC Oh yes. Would love Lampard to go down, but can't see it now. Been a desperate season where little has gone right. But not done yet. Must win on Sunday.",yes would love lampard can't see desperate season little gone right done yet must win sunday,lampard season sunday 
+1.5244927025738998e+18,2022-05-11 20:52:38+00:00,['1524492702573899781'],Be nice to keep 11 players on the pitch for @lufc's must win game against Brighton on Sunday. Be a start at least.,nice keep player pitch must win game brighton sunday start least,player pitch game brighton start 
+1.52437126613581e+18,2022-05-11 12:50:05+00:00,['1524371266135810049'],@AngelaRayner The man is a complete cock.,man complete cock,man cock 
 1.524351417712001e+18,2022-05-11 11:31:13+00:00,['1524351417712001024'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 116: Sir, Thou art a 'beslubbering, bald-pated abomination'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'beslubbering baldpated abomination' punishment towelthwacked starkbollock naked nanny
-1.5241383907273646e+18,2022-05-10 21:24:44+00:00,['1524138390727364610'],@Groovehare @Gracro5 😄 Didn't see that first of all. Be uncomfortable too. Visually effective though.,see first uncomfortable visually effective though
-1.5241380494285087e+18,2022-05-10 21:23:22+00:00,['1524138049428508673'],Finished The Esk Valley Walk which we've been doing in circular stages. These photos were taken between Grosmont and Beggar's Bridge. The woods were on good form. Beautiful #walking #NorthYorkshire #Yorkshire https://t.co/2BW2eLD8kx,finished esk valley walk we've circular stage photo taken grosmont beggar's bridge wood good form beautiful
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'beslubbering baldpated abomination' punishment towelthwacked starkbollock naked nanny,random insult generator day day art abomination punishment starkbollock 
+1.5241383907273646e+18,2022-05-10 21:24:44+00:00,['1524138390727364610'],@Groovehare @Gracro5 😄 Didn't see that first of all. Be uncomfortable too. Visually effective though.,see first uncomfortable visually effective though,
+1.5241380494285087e+18,2022-05-10 21:23:22+00:00,['1524138049428508673'],Finished The Esk Valley Walk which we've been doing in circular stages. These photos were taken between Grosmont and Beggar's Bridge. The woods were on good form. Beautiful #walking #NorthYorkshire #Yorkshire https://t.co/2BW2eLD8kx,finished esk valley walk we've circular stage photo taken grosmont beggar's bridge wood good form beautiful,valley walk stage photo beggar bridge wood form beautiful 
 1.5241352911451423e+18,2022-05-10 21:12:25+00:00,['1524135291145142272'],"'Neither Sun Nor Stars' from the @NoiseClinic1 #Album 'Eigengrau' #electronicmusic #Electronica #Musica #Musik #musique #electronique #ambientmusic #ambient #Space #music
-https://t.co/6smTL7NxHl",'neither sun stars' 'eigengrau'
+https://t.co/6smTL7NxHl",'neither sun stars' 'eigengrau',sun 
 1.5239462773225677e+18,2022-05-10 08:41:20+00:00,['1523946277322567680'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 115: Sir, Thou art a 'plumpy, fat-kidneyed malignancy'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'plumpy fatkidneyed malignancy' punishment towelthwacked starkbollock naked nanny
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'plumpy fatkidneyed malignancy' punishment towelthwacked starkbollock naked nanny,random insult generator day day art malignancy punishment starkbollock 
 1.5236430114600428e+18,2022-05-09 12:36:16+00:00,['1523643011460042752'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 114: Sir, Thou art a 'heinous, beef-witted measle'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'heinous beefwitted measle' punishment towelthwacked starkbollock naked nanny
-1.5236424642921308e+18,2022-05-09 12:34:06+00:00,['1523642464292130816'],@Parody_PM He's another fucking idiot. Shower of shite the lot of them.,he's another fucking idiot shower shite lot
-1.5233682102840197e+18,2022-05-08 18:24:18+00:00,['1523368210284019712'],@CarolineLucas @DominicRaab Exactly. Tbf the idiot would struggle to find his own arse with both hands.,exactly tbf idiot would struggle find arse hand
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'heinous beefwitted measle' punishment towelthwacked starkbollock naked nanny,random insult generator day day measle punishment starkbollock 
+1.5236424642921308e+18,2022-05-09 12:34:06+00:00,['1523642464292130816'],@Parody_PM He's another fucking idiot. Shower of shite the lot of them.,he's another fucking idiot shower shite lot,fucking idiot shite lot 
+1.5233682102840197e+18,2022-05-08 18:24:18+00:00,['1523368210284019712'],@CarolineLucas @DominicRaab Exactly. Tbf the idiot would struggle to find his own arse with both hands.,exactly tbf idiot would struggle find arse hand,idiot hand 
 1.5232623861318492e+18,2022-05-08 11:23:48+00:00,['1523262386131849216'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 113: Sir, Thou art an 'obscene, boiled-brains dissembler'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'obscene boiledbrains dissembler' punishment towelthwacked starkbollock naked nanny
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'obscene boiledbrains dissembler' punishment towelthwacked starkbollock naked nanny,random insult generator day day art punishment starkbollock 
 1.5232552081338573e+18,2022-05-08 10:55:16+00:00,['1523255208133857286'],"@andrewrawnsley excellent in @ObserverUK describing @BorisJohnson's #Tories as displaying all the morbid symptoms of a fin de siecle regime 'the only guiding principle of this government is to keep a disgraced law-breaker in office' #politics 
-https://t.co/hzjqhtC9Zg",excellent describing displaying morbid symptom fin siecle regime 'the guiding principle government keep disgraced lawbreaker office'
-1.5229678324804362e+18,2022-05-07 15:53:21+00:00,['1522967832480436224'],👇 This is rather good. https://t.co/nAGV41kYTT,rather good
+https://t.co/hzjqhtC9Zg",excellent describing displaying morbid symptom fin siecle regime 'the guiding principle government keep disgraced lawbreaker office',morbid symptom fin siecle regime government lawbreaker office 
+1.5229678324804362e+18,2022-05-07 15:53:21+00:00,['1522967832480436224'],👇 This is rather good. https://t.co/nAGV41kYTT,rather good,
 1.522918342230782e+18,2022-05-07 12:36:41+00:00,['1522918342230781952'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 112: Sir, Thou art a 'wanton, knotty-pated purpose-changer'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'wanton knottypated purposechanger' punishment towelthwacked starkbollock naked nanny
-1.522652703024984e+18,2022-05-06 19:01:08+00:00,['1522652703024984067'],@BabaYoungblood Classic.,classic
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'wanton knottypated purposechanger' punishment towelthwacked starkbollock naked nanny,random insult generator day day art purposechanger punishment starkbollock 
+1.522652703024984e+18,2022-05-06 19:01:08+00:00,['1522652703024984067'],@BabaYoungblood Classic.,classic,
 1.52258331387725e+18,2022-05-06 14:25:24+00:00,['1522583313877250051'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 111: Sir, Thou art a 'deceptious, dull-brained dullard'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'deceptious dullbrained dullard' punishment towelthwacked starkbollock naked nanny
-1.5222426902886564e+18,2022-05-05 15:51:53+00:00,['1522242690288656387'],@relationshipsdw 🤔,
-1.522242032898617e+18,2022-05-05 15:49:17+00:00,['1522242032898617349'],What a shot. Love Tati. https://t.co/HzyZq091MW,shot love tati
-1.5221923964733194e+18,2022-05-05 12:32:02+00:00,['1522192396473319424'],👇 Excellent novel. https://t.co/hAq0wdNZy1,excellent novel
-1.5221912139228652e+18,2022-05-05 12:27:21+00:00,['1522191213922865153'],"#nowreading Just finished 'Babyfoot' by Joseph Joffo. Sequel to 'Un sac de billes'. Very enjoyable, human, warm, witty and touching novel set in post WW2 Paris. Was an A level set book once. Very evocative of time and place #Novel #book #books #Literature",finished 'babyfoot' joseph joffo sequel 'un sac billes' enjoyable human warm witty touching novel set post paris level set book evocative time place
-1.5221891957202084e+18,2022-05-05 12:19:19+00:00,['1522189195720208387'],#NowListening Today's #gym accompaniment: latest albums from @jesse_malin and @PyeCornerAudio #Album #music #NewMusic,today's accompaniment latest album
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'deceptious dullbrained dullard' punishment towelthwacked starkbollock naked nanny,random insult generator day day dullard punishment starkbollock 
+1.5222426902886564e+18,2022-05-05 15:51:53+00:00,['1522242690288656387'],@relationshipsdw 🤔,,nan 
+1.522242032898617e+18,2022-05-05 15:49:17+00:00,['1522242032898617349'],What a shot. Love Tati. https://t.co/HzyZq091MW,shot love tati,shot love tati 
+1.5221923964733194e+18,2022-05-05 12:32:02+00:00,['1522192396473319424'],👇 Excellent novel. https://t.co/hAq0wdNZy1,excellent novel,novel 
+1.5221912139228652e+18,2022-05-05 12:27:21+00:00,['1522191213922865153'],"#nowreading Just finished 'Babyfoot' by Joseph Joffo. Sequel to 'Un sac de billes'. Very enjoyable, human, warm, witty and touching novel set in post WW2 Paris. Was an A level set book once. Very evocative of time and place #Novel #book #books #Literature",finished 'babyfoot' joseph joffo sequel 'un sac billes' enjoyable human warm witty touching novel set post paris level set book evocative time place,joseph joffo sequel sac warm witty post level book time place 
+1.5221891957202084e+18,2022-05-05 12:19:19+00:00,['1522189195720208387'],#NowListening Today's #gym accompaniment: latest albums from @jesse_malin and @PyeCornerAudio #Album #music #NewMusic,today's accompaniment latest album,today accompaniment album 
 1.5221873532379914e+18,2022-05-05 12:12:00+00:00,['1522187353237991424'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 110: Sir, Thou art a 'crudy, eye-offending bull's pizzle'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'crudy eyeoffending bull's pizzle' punishment towelthwacked starkbollock naked nanny
-1.5218503110565317e+18,2022-05-04 13:52:43+00:00,['1521850311056531456'],👇 superb  👏 https://t.co/tsTbyDiLux,superb
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'crudy eyeoffending bull's pizzle' punishment towelthwacked starkbollock naked nanny,random insult generator day day art bull pizzle punishment starkbollock 
+1.5218503110565317e+18,2022-05-04 13:52:43+00:00,['1521850311056531456'],👇 superb  👏 https://t.co/tsTbyDiLux,superb,superb 
 1.5218311114747535e+18,2022-05-04 12:36:25+00:00,['1521831111474753538'],"The Convict blusters, but the only cause in which he truly believes is his own survival. Political commentary on @BorisJohnson @Conservatives car crash interview on @GMB with @susannareid100 #politics
-https://t.co/TVP0Xf1C8l",convict bluster cause truly belief survival political commentary car crash interview
+https://t.co/TVP0Xf1C8l",convict bluster cause truly belief survival political commentary car crash interview,convict bluster cause truly commentary car crash interview 
 1.521793767816274e+18,2022-05-04 10:08:02+00:00,['1521793767816273920'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 109: Sir, Thou art a 'spongy, self-glorious dissembler'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'spongy selfglorious dissembler' punishment towelthwacked starkbollock naked nanny
-1.5215992057098486e+18,2022-05-03 21:14:55+00:00,['1521599205709848577'],👇 Hopefully. https://t.co/JM5dkxlxUZ,hopefully
-1.521558046769623e+18,2022-05-03 18:31:22+00:00,['1521558046769623047'],@highonstress It's all good 👍,good
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'spongy selfglorious dissembler' punishment towelthwacked starkbollock naked nanny,random insult generator day day art dissembler punishment starkbollock 
+1.5215992057098486e+18,2022-05-03 21:14:55+00:00,['1521599205709848577'],👇 Hopefully. https://t.co/JM5dkxlxUZ,hopefully,
+1.521558046769623e+18,2022-05-03 18:31:22+00:00,['1521558046769623047'],@highonstress It's all good 👍,good,
 1.5215241235578348e+18,2022-05-03 16:16:34+00:00,['1521524123557834752'],"#Shakespeare random insult generator. Being used every day until @BorisJohnson goes.
 Day 108: Sir, Thou art a 'mammering, rump-fed dunghill'. Punishment: to be towel-thwacked stark-bollock naked out of #DowningStreet by nanny
-#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'mammering rumpfed dunghill' punishment towelthwacked starkbollock naked nanny
+#politics #GetJohnsonDone #Johnson",random insult generator used every day day sir thou art 'mammering rumpfed dunghill' punishment towelthwacked starkbollock naked nanny,random insult generator day day art rumpfed dunghill punishment starkbollock 

@@ -1,361 +1,361 @@
-id,created_at,edit_history_tweet_ids,text,withheld,clean_text
-1.5650199027459727e+18,2022-08-31 16:53:16+00:00,['1565019902745972740'],"@Tom_the_Knowles At my old trust the anaesthetics FY1 rotation was half supernumary anaesthetics as others have described, and half covering general surgery on-call",,old trust anaesthetic rotation half supernumary anaesthetic others described half covering general surgery oncall
-1.5450979225173852e+18,2022-07-07 17:30:25+00:00,['1545097922517385216'],@erica_tirr Congratulations! 🎉,,congratulation
-1.5440596065608008e+18,2022-07-04 20:44:32+00:00,['1544059606560800769'],@timricketts_ You've made it to Instagram https://t.co/8a0cCRiLkP,,made instagram
-1.5440582724073308e+18,2022-07-04 20:39:14+00:00,['1544058272407330817'],@JonJHilton I can see you having made this,,see made
-1.538485683232428e+18,2022-06-19 11:35:45+00:00,['1538485683232428032'],@Avnqr M - BRA,,bra
-1.5330107300096942e+18,2022-06-04 09:00:14+00:00,['1533010730009694208'],@HazelSanghvi No they didn't 🙉,,
-1.5324467290223616e+18,2022-06-02 19:39:06+00:00,['1532446729022361600'],@JonJHilton @techpriest Outstanding,,outstanding
-1.5324201325548257e+18,2022-06-02 17:53:25+00:00,['1532420132554825730'],@techpriest Not on @JonJHilton 's watch,,watch
-1.523383014562095e+18,2022-05-08 19:23:08+00:00,['1523383014562095104'],@vardFPS You are nutsss,,nut
-1.5215973050145997e+18,2022-05-03 21:07:22+00:00,['1521597305014599685'],@BellaRoscetti You woke up and chose violence,,woke chose violence
-1.5170545831509402e+18,2022-04-21 08:16:12+00:00,['1517054583150940160'],@BellaRoscetti Good luck 🤞🏻🤞🏻,,good luck
-1.516034843280388e+18,2022-04-18 12:44:07+00:00,['1516034843280388101'],@BellaRoscetti @Sammycad77 Rude. What if it were replaced with bonk...,,rude replaced bonk
-1.5160237875436216e+18,2022-04-18 12:00:11+00:00,['1516023787543621641'],@BellaRoscetti Never understood how people in healthcare (or elsewhere ofc) can have attitudes like this,,never understood people healthcare elsewhere ofc attitude like
-1.5085041800880906e+18,2022-03-28 17:59:57+00:00,['1508504180088090641'],@3mr_188 @liverpool_irl @EA_DICE Not as big as this ratio,,big ratio
-1.4983811182943437e+18,2022-02-28 19:34:31+00:00,['1498381118294343690'],@drphiliplee1 It's fine just order one from Ikea https://t.co/kx5zLSF8NI,,fine order one ikea
-1.4874258318698168e+18,2022-01-29 14:02:08+00:00,['1487425831869816832'],@NatashaAght I enjoyed the rate offered for this same-day AMU consultant cover vs an A&amp;E SHO... https://t.co/lcif4gSSur,,enjoyed rate offered sameday amu consultant cover aampe sho
-1.4871735501507584e+18,2022-01-28 21:19:39+00:00,['1487173550150758406'],@JonJHilton @elinlowri I can see you doing this,,see
-1.485212126637658e+18,2022-01-23 11:25:39+00:00,['1485212126637658115'],"@ScanComputers @CORSAIR @Microsoft @seagategaming @SamsungUK Incredible giveaway, would love to win this. Thank you @CORSAIR @Microsoft @seagategaming @Samsung",,incredible giveaway would love win thank
+id,created_at,edit_history_tweet_ids,text,withheld,clean_text,nouns
+1.5650199027459727e+18,2022-08-31 16:53:16+00:00,['1565019902745972740'],"@Tom_the_Knowles At my old trust the anaesthetics FY1 rotation was half supernumary anaesthetics as others have described, and half covering general surgery on-call",,old trust anaesthetic rotation half supernumary anaesthetic others described half covering general surgery oncall,trust rotation half half surgery oncall 
+1.5450979225173852e+18,2022-07-07 17:30:25+00:00,['1545097922517385216'],@erica_tirr Congratulations! 🎉,,congratulation,congratulation 
+1.5440596065608008e+18,2022-07-04 20:44:32+00:00,['1544059606560800769'],@timricketts_ You've made it to Instagram https://t.co/8a0cCRiLkP,,made instagram,instagram 
+1.5440582724073308e+18,2022-07-04 20:39:14+00:00,['1544058272407330817'],@JonJHilton I can see you having made this,,see made,see 
+1.538485683232428e+18,2022-06-19 11:35:45+00:00,['1538485683232428032'],@Avnqr M - BRA,,bra,bra 
+1.5330107300096942e+18,2022-06-04 09:00:14+00:00,['1533010730009694208'],@HazelSanghvi No they didn't 🙉,,,nan 
+1.5324467290223616e+18,2022-06-02 19:39:06+00:00,['1532446729022361600'],@JonJHilton @techpriest Outstanding,,outstanding,
+1.5324201325548257e+18,2022-06-02 17:53:25+00:00,['1532420132554825730'],@techpriest Not on @JonJHilton 's watch,,watch,watch 
+1.523383014562095e+18,2022-05-08 19:23:08+00:00,['1523383014562095104'],@vardFPS You are nutsss,,nut,nut 
+1.5215973050145997e+18,2022-05-03 21:07:22+00:00,['1521597305014599685'],@BellaRoscetti You woke up and chose violence,,woke chose violence,woke violence 
+1.5170545831509402e+18,2022-04-21 08:16:12+00:00,['1517054583150940160'],@BellaRoscetti Good luck 🤞🏻🤞🏻,,good luck,luck 
+1.516034843280388e+18,2022-04-18 12:44:07+00:00,['1516034843280388101'],@BellaRoscetti @Sammycad77 Rude. What if it were replaced with bonk...,,rude replaced bonk,rude bonk 
+1.5160237875436216e+18,2022-04-18 12:00:11+00:00,['1516023787543621641'],@BellaRoscetti Never understood how people in healthcare (or elsewhere ofc) can have attitudes like this,,never understood people healthcare elsewhere ofc attitude like,attitude 
+1.5085041800880906e+18,2022-03-28 17:59:57+00:00,['1508504180088090641'],@3mr_188 @liverpool_irl @EA_DICE Not as big as this ratio,,big ratio,ratio 
+1.4983811182943437e+18,2022-02-28 19:34:31+00:00,['1498381118294343690'],@drphiliplee1 It's fine just order one from Ikea https://t.co/kx5zLSF8NI,,fine order one ikea,order ikea 
+1.4874258318698168e+18,2022-01-29 14:02:08+00:00,['1487425831869816832'],@NatashaAght I enjoyed the rate offered for this same-day AMU consultant cover vs an A&amp;E SHO... https://t.co/lcif4gSSur,,enjoyed rate offered sameday amu consultant cover aampe sho,rate amu consultant cover aampe sho 
+1.4871735501507584e+18,2022-01-28 21:19:39+00:00,['1487173550150758406'],@JonJHilton @elinlowri I can see you doing this,,see,
+1.485212126637658e+18,2022-01-23 11:25:39+00:00,['1485212126637658115'],"@ScanComputers @CORSAIR @Microsoft @seagategaming @SamsungUK Incredible giveaway, would love to win this. Thank you @CORSAIR @Microsoft @seagategaming @Samsung",,incredible giveaway would love win thank,giveaway win thank 
 1.485199956076118e+18,2022-01-23 10:37:17+00:00,['1485199956076118017'],"SCAN ZONE end of year special is out now!! They have an AWESOME PC #GIVEAWAY worth over £5500!  Check it out here: https://t.co/2Ew8SO9ITD 
 #LoveScan #Scancomp #competition #2022 #newyear #win 
-Sponsored by @Corsair @Microsoft @Seagategaming @Samsung",,scan zone end year special awesome worth check sponsored
-1.4790737302277489e+18,2022-01-06 12:53:51+00:00,['1479073730227748866'],@BellaRoscetti Coffee &gt;&gt;&gt; https://t.co/LL6eVzJx2V,,coffee gtgtgt
-1.4777478132662067e+18,2022-01-02 21:05:08+00:00,['1477747813266206728'],@MissBethanEJohn Sksksk,,sksksk
-1.4728946570676838e+18,2021-12-20 11:40:25+00:00,['1472894657067683840'],@mykLe_ I'd love to! Aiiir_strikes :),,i'd love aiiirstrikes
-1.4726733063399506e+18,2021-12-19 21:00:51+00:00,['1472673306339950595'],"@JonJHilton Did four months on the COVID ward in F1 so all good, thank you though 👌🏻 Except Ronapreve, that's new 🤔",,four month covid ward good thank though except ronapreve that's new
-1.47263472709811e+18,2021-12-19 18:27:33+00:00,['1472634727098109955'],@JonJHilton Don't say that 😬 Spending Christmas doing surgical nights...,,say spending christmas surgical night
-1.471469126216528e+18,2021-12-16 13:15:52+00:00,['1471469126216527872'],@neurogwen Death by a thousand cuts (hopefully not 🙃),,death thousand cut hopefully
-1.4692455067989524e+18,2021-12-10 10:00:00+00:00,['1469245506798952450'],@JonJHilton Welcome to learning the childhood vaccination schedule for a radiology application.,,welcome learning childhood vaccination schedule radiology application
-1.4690303251625452e+18,2021-12-09 19:44:57+00:00,['1469030325162545156'],@JonJHilton @mevparekh I think by that reasoning I'm entitled to two lieu days... 👌🏻,,think reasoning i'm entitled two lieu day
-1.46532738246681e+18,2021-11-29 14:30:47+00:00,['1465327382466809856'],@JonJHilton Too late it's been released 😛,,late released
-1.4653219683250831e+18,2021-11-29 14:09:16+00:00,['1465321968325083142'],"@JonJHilton ""e-learning"" https://t.co/YVWg7nevnt",,elearning
-1.422966289635623e+18,2021-08-04 17:02:55+00:00,['1422966289635622922'],@ohdearindira No I missed that!,,missed
-1.422688943162671e+18,2021-08-03 22:40:50+00:00,['1422688943162671106'],@ohdearindira She's going to take him back :((,,going take back
-1.4193907844287775e+18,2021-07-25 20:15:08+00:00,['1419390784428777475'],LET'S GO @imclib,,let's
-1.4088279534007132e+18,2021-06-26 16:42:13+00:00,['1408827953400713221'],@mxeygg LET'S GOOOO,,let's goooo
-1.4037549675891384e+18,2021-06-12 16:43:59+00:00,['1403754967589138432'],"@TheNameIsToby @PUBGEsports It's awesome, but the fake crowd noise during the game is terrible :/",,awesome fake crowd noise game terrible
-1.3990095634379407e+18,2021-05-30 14:27:26+00:00,['1399009563437940736'],@Sheepym8 @WJacky101 @pgtoce Is it meant to sound exactly like the MK14 or is that a placeholder?,,meant sound exactly like placeholder
-1.3893493891230638e+18,2021-05-03 22:41:21+00:00,['1389349389123063815'],@SashaBatulin Ah thought you meant places where it shouldn't go like it should move away from that bit because of the water - I see the missing Gatka bit now,,thought meant place like move away bit water see missing gatka bit
-1.3893236997242102e+18,2021-05-03 20:59:17+00:00,['1389323699724210179'],@SashaBatulin The tiny island? https://t.co/TMaR97NWWQ,,tiny island
-1.3819422429784474e+18,2021-04-13 12:08:00+00:00,['1381942242978447364'],@ohdearindira If it's any help your clerkings are great :),,help clerking great
-1.3812276299032945e+18,2021-04-11 12:48:23+00:00,['1381227629903294464'],PUBG esports: Do not use the WWCD format - Sign the Petition! https://t.co/Lmzaos1c1Q via @UKChange,,pubg esports use wwcd format sign petition via
-1.3771840018870682e+18,2021-03-31 09:00:27+00:00,['1377184001887068171'],"@hwinnfps @PUBGEsports It's honestly a no-brainer to have team skins, everybody would buy them, and it can't be difficult to implement..",,honestly nobrainer team skin everybody would buy can't difficult implement
-1.3769700176322929e+18,2021-03-30 18:50:09+00:00,['1376970017632292867'],@TheReal_Yazi @KatContii Like @Liquid_ibiza https://t.co/3LpBnOV4r7,,like
-1.3757891539217326e+18,2021-03-27 12:37:49+00:00,['1375789153921732609'],@imclib SO CLUTCH,,clutch
-1.374463562538623e+18,2021-03-23 20:50:24+00:00,['1374463562538622979'],Giveaway https://t.co/ErhbH7Pip8 #4YearsOfPUBG #PUBG4thAnniversary,,giveaway
-1.3710944866595758e+18,2021-03-14 13:42:53+00:00,['1371094486659575810'],@KSnKickstart You're nuts,,nut
-1.3684640907970806e+18,2021-03-07 07:30:38+00:00,['1368464090797080581'],@TanaySuri Ffsss,,ffsss
-1.364937593318695e+18,2021-02-25 13:57:36+00:00,['1364937593318694913'],@TomPickering @PUBGEsports @ShootToKillPUBG @TSM @SoniqsEsports Thanks!,,thanks
-1.3649290913638892e+18,2021-02-25 13:23:49+00:00,['1364929091363889154'],@TomPickering @PUBGEsports @ShootToKillPUBG @TSM @SoniqsEsports Which of today's games is this?,,today's game
-1.363169647990874e+18,2021-02-20 16:52:25+00:00,['1363169647990874112'],@pichaelmichael_ Proud of you mate,,proud mate
-1.359542102888239e+18,2021-02-10 16:37:51+00:00,['1359542102888239107'],@drphiliplee1 @Tom_the_Knowles Underrated,,underrated
-1.3501732713339863e+18,2021-01-15 20:09:27+00:00,['1350173271333986306'],@viruses_exe @Blamous_DA @FaZeFuzzface Would love to know too,,would love know
-1.3456881278647624e+18,2021-01-03 11:07:06+00:00,['1345688127864762369'],@TanaySuri @tehCody @FraudActivity_ Ffss,,ffss
-1.331495569664127e+18,2020-11-25 07:10:56+00:00,['1331495569664126976'],"@RoboDanjal @katestark @PUBG @PUBG_US @Hawkinz Ah shame, I would've paid big money for that haha. Thanks for your reply :)",,shame would've paid big money haha thanks reply
-1.3313850395405967e+18,2020-11-24 23:51:44+00:00,['1331385039540596737'],@katestark @PUBG @PUBG_US Any ideas where I could get one of these? @RoboDanjal @Hawkinz,,idea could get one
-1.327588025296171e+18,2020-11-14 12:23:45+00:00,['1327588025296171014'],@minliangtan @Razer @RazerStoreLDN Missed out on the Cyberpunk Viper - will more come into stock at some point or is that it?,,missed cyberpunk viper come stock point
-1.3251550867298427e+18,2020-11-07 19:16:07+00:00,['1325155086729842689'],@AutoBant Nice!,,nice
-1.316481055604564e+18,2020-10-14 20:48:37+00:00,['1316481055604563971'],@pichaelmichael_ Grats mate!,,grats mate
-1.3041012146873016e+18,2020-09-10 16:55:33+00:00,['1304101214687301636'],This Tweet from @carfanaticphil has been withheld in: United Kingdom.,"{'copyright': True, 'country_codes': ['XY'], 'scope': 'tweet'}",tweet withheld united kingdom
-1.2809621369576858e+18,2020-07-08 20:29:07+00:00,['1280962136957685760'],This Tweet from @carfanaticphil has been withheld in: United Kingdom.,"{'copyright': True, 'country_codes': ['XY'], 'scope': 'tweet'}",tweet withheld united kingdom
-1.2684544937520456e+18,2020-06-04 08:08:12+00:00,['1268454493752045569'],@Fugglet_tv Congrats Fugg!!,,congrats fugg
-1.26646931146564e+18,2020-05-29 20:39:48+00:00,['1266469311465639936'],@TanaySuri @conormccrory @MemeRegOnCall @admit_medics I RTd this lol,,rtd lol
-1.263449747576193e+18,2020-05-21 12:41:08+00:00,['1263449747576193024'],@alexandrabulat Congratulations! Can I ask how long it took? My mum has been waiting over 6 months with no word :/ Thanks!,,congratulation ask long took mum waiting month word thanks
-1.2627896043584758e+18,2020-05-19 16:57:57+00:00,['1262789604358475779'],@aswinchari Estimated blood loss?,,estimated blood loss
-1.260222401125761e+18,2020-05-12 14:56:48+00:00,['1260222401125761025'],"@pansy Can we expect more ""Brain don't work so well"" ? 😅 @TheSimms",,expect brain work well
-1.2532673722297672e+18,2020-04-23 10:20:00+00:00,['1253267372229767173'],"@neerajnkalra @drtintin99 @e1v1m1 @ebrainnet Hi Neeraj, I'm a medical student so am not on the E1V1M1 mailing list - is there any chance you could DM me the password?",,neeraj i'm medical student evm mailing list chance could password
-1.252685106541625e+18,2020-04-21 19:46:17+00:00,['1252685106541625344'],Fascinating talk on approaches to anterior fossa pathology this evening - thank you @ukneurosurgeon and @ebrainnet for brightening up the lockdown! https://t.co/exVr2KxuyV,,fascinating talk approach anterior fossa pathology evening thank brightening lockdown
-1.251237273124954e+18,2020-04-17 19:53:07+00:00,['1251237273124954121'],@Fugglet_tv Congrats Fugg!!,,congrats fugg
-1.251075027883131e+18,2020-04-17 09:08:25+00:00,['1251075027883130880'],@Takariistorm @TLockm4 @PUBG_EU At the very least would you *please* consider changing the sound back to the old sound? @RoboDanjal,,least would please consider changing sound back old sound
-1.2500814400139223e+18,2020-04-14 15:20:15+00:00,['1250081440013922315'],"@RoboDanjal @WJacky101 Absolutely would be better to reduce Kar98 spawns and introduce the Mosin with different stats, otherwise they're just the same gun with a different look and sound",,absolutely would better reduce kar spawn introduce mosin different stats otherwise they're gun different look sound
-1.2450660509385892e+18,2020-03-31 19:10:53+00:00,['1245066050938589185'],@realbrainbook Fundoscopy,,fundoscopy
-1.245065983192154e+18,2020-03-31 19:10:37+00:00,['1245065983192154112'],"@realbrainbook CN, full UL/LL motor/sensory",,full ulll motorsensory
-1.2450609918360945e+18,2020-03-31 18:50:47+00:00,['1245060991836094464'],@realbrainbook Important to look for papilloedema in addition to what's previously mentioned,,important look papilloedema addition what's previously mentioned
-1.244044655743943e+18,2020-03-28 23:32:13+00:00,['1244044655743942665'],@TanaySuri @ZRAFC @MirrorFootball I know ahaha was literally just looking through them,,know ahaha literally looking
-1.2418131663524782e+18,2020-03-22 19:45:05+00:00,['1241813166352478209'],@TanaySuri @lfcbaiIey @chiefdouzi Saw this hahaha,,saw hahaha
-1.2406148089129e+18,2020-03-19 12:23:14+00:00,['1240614808912900101'],@PitchedInLine @TanaySuri the last sentence,,last sentence
-1.240250221118083e+18,2020-03-18 12:14:30+00:00,['1240250221118083072'],@kritikalmotion @PUBG Any insight into this @Hawkinz ?,,insight
-1.2398994404267663e+18,2020-03-17 13:00:37+00:00,['1239899440426766336'],@TanaySuri @YaiSor @MowIid Ffssss,,ffssss
-1.2392473968838738e+18,2020-03-15 17:49:38+00:00,['1239247396883873793'],@NZXT @wd_black DOOM Eternal https://t.co/YvFmx0pPm1,,doom eternal
-1.2385582081653924e+18,2020-03-13 20:11:02+00:00,['1238558208165392385'],"@PUBG Thank you for taking out the DBS, but please keep the M249 in crates, it's the perfect crate weapon, it really doesn't need to be a world spawn. Please",,thank taking please keep crate perfect crate weapon really need world spawn please
-1.238558151533826e+18,2020-03-13 20:10:49+00:00,['1238558151533826049'],"@Hawkinz Thank you for taking out the DBS, but please keep the M249 in crates, it's the perfect crate weapon, it really doesn't need to be a world spawn. Please",,thank taking please keep crate perfect crate weapon really need world spawn please
-1.238169537683632e+18,2020-03-12 18:26:36+00:00,['1238169537683632128'],"@RoboDanjal M249 is the perfect crate weapon. Making it world spawn and nerfing it ruins it, and with nothing to replace it and the DBS still in there (which the community are screaming against) it lessens the value of risking your life for a crate. It's not something anybody wanted",,perfect crate weapon making world spawn nerfing ruin nothing replace still community screaming lessens value risking life crate something anybody wanted
-1.237654125879472e+18,2020-03-11 08:18:32+00:00,['1237654125879472129'],@Hawkinz Can I ask why the team felt the need to make the M249 world spawn but leave the DBS care package only?,,ask team felt need make world spawn leave care package
-1.2360225563831173e+18,2020-03-06 20:15:16+00:00,['1236022556383117312'],@TheAculite Happy birthday!! Welcome to the club 😄,,happy birthday welcome club
-1.2359111726475387e+18,2020-03-06 12:52:40+00:00,['1235911172647538690'],@jopo899 Over sleeves or ID wristband?,,sleeve wristband
-1.2354885797127782e+18,2020-03-05 08:53:26+00:00,['1235488579712778240'],@Hawkinz More financially accessible skins/better skins overall that make the season pass worth purchasing :),,financially accessible skinsbetter skin overall make season pas worth purchasing
-1.2334799968969482e+18,2020-02-28 19:52:02+00:00,['1233479996896948225'],"@NVIDIAGeForce @TanaySuri got me into proper gaming, we both can't wait to play the hell out of Cyberpunk!! #RTXOn",,got proper gaming can't wait play hell cyberpunk
-1.2334798409988424e+18,2020-02-28 19:51:25+00:00,['1233479840998842368'],"@NVIDIAGeForce @TanaySuri got me into proper gaming, we both can't wait to play the hell out of Cyberpunk!!",,got proper gaming can't wait play hell cyberpunk
-1.2325693522700288e+18,2020-02-26 07:33:28+00:00,['1232569352270028805'],@nursekelsey Adele is terrible.,,adele terrible
-1.2319032921223782e+18,2020-02-24 11:26:47+00:00,['1231903292122378240'],"@Hawkinz @PartWelsh 😮😮😮 Amazing, thank you! https://t.co/fYA7eWoTf0",,amazing thank
+Sponsored by @Corsair @Microsoft @Seagategaming @Samsung",,scan zone end year special awesome worth check sponsored,end year worth check 
+1.4790737302277489e+18,2022-01-06 12:53:51+00:00,['1479073730227748866'],@BellaRoscetti Coffee &gt;&gt;&gt; https://t.co/LL6eVzJx2V,,coffee gtgtgt,coffee gtgtgt 
+1.4777478132662067e+18,2022-01-02 21:05:08+00:00,['1477747813266206728'],@MissBethanEJohn Sksksk,,sksksk,sksksk 
+1.4728946570676838e+18,2021-12-20 11:40:25+00:00,['1472894657067683840'],@mykLe_ I'd love to! Aiiir_strikes :),,i'd love aiiirstrikes,i 
+1.4726733063399506e+18,2021-12-19 21:00:51+00:00,['1472673306339950595'],"@JonJHilton Did four months on the COVID ward in F1 so all good, thank you though 👌🏻 Except Ronapreve, that's new 🤔",,four month covid ward good thank though except ronapreve that's new,month thank 
+1.47263472709811e+18,2021-12-19 18:27:33+00:00,['1472634727098109955'],@JonJHilton Don't say that 😬 Spending Christmas doing surgical nights...,,say spending christmas surgical night,spending night 
+1.471469126216528e+18,2021-12-16 13:15:52+00:00,['1471469126216527872'],@neurogwen Death by a thousand cuts (hopefully not 🙃),,death thousand cut hopefully,death cut 
+1.4692455067989524e+18,2021-12-10 10:00:00+00:00,['1469245506798952450'],@JonJHilton Welcome to learning the childhood vaccination schedule for a radiology application.,,welcome learning childhood vaccination schedule radiology application,childhood vaccination schedule radiology application 
+1.4690303251625452e+18,2021-12-09 19:44:57+00:00,['1469030325162545156'],@JonJHilton @mevparekh I think by that reasoning I'm entitled to two lieu days... 👌🏻,,think reasoning i'm entitled two lieu day,think day 
+1.46532738246681e+18,2021-11-29 14:30:47+00:00,['1465327382466809856'],@JonJHilton Too late it's been released 😛,,late released,
+1.4653219683250831e+18,2021-11-29 14:09:16+00:00,['1465321968325083142'],"@JonJHilton ""e-learning"" https://t.co/YVWg7nevnt",,elearning,
+1.422966289635623e+18,2021-08-04 17:02:55+00:00,['1422966289635622922'],@ohdearindira No I missed that!,,missed,
+1.422688943162671e+18,2021-08-03 22:40:50+00:00,['1422688943162671106'],@ohdearindira She's going to take him back :((,,going take back,
+1.4193907844287775e+18,2021-07-25 20:15:08+00:00,['1419390784428777475'],LET'S GO @imclib,,let's,let 
+1.4088279534007132e+18,2021-06-26 16:42:13+00:00,['1408827953400713221'],@mxeygg LET'S GOOOO,,let's goooo,let goooo 
+1.4037549675891384e+18,2021-06-12 16:43:59+00:00,['1403754967589138432'],"@TheNameIsToby @PUBGEsports It's awesome, but the fake crowd noise during the game is terrible :/",,awesome fake crowd noise game terrible,fake game 
+1.3990095634379407e+18,2021-05-30 14:27:26+00:00,['1399009563437940736'],@Sheepym8 @WJacky101 @pgtoce Is it meant to sound exactly like the MK14 or is that a placeholder?,,meant sound exactly like placeholder,meant placeholder 
+1.3893493891230638e+18,2021-05-03 22:41:21+00:00,['1389349389123063815'],@SashaBatulin Ah thought you meant places where it shouldn't go like it should move away from that bit because of the water - I see the missing Gatka bit now,,thought meant place like move away bit water see missing gatka bit,place move water gatka bit 
+1.3893236997242102e+18,2021-05-03 20:59:17+00:00,['1389323699724210179'],@SashaBatulin The tiny island? https://t.co/TMaR97NWWQ,,tiny island,island 
+1.3819422429784474e+18,2021-04-13 12:08:00+00:00,['1381942242978447364'],@ohdearindira If it's any help your clerkings are great :),,help clerking great,help 
+1.3812276299032945e+18,2021-04-11 12:48:23+00:00,['1381227629903294464'],PUBG esports: Do not use the WWCD format - Sign the Petition! https://t.co/Lmzaos1c1Q via @UKChange,,pubg esports use wwcd format sign petition via,pubg format sign petition 
+1.3771840018870682e+18,2021-03-31 09:00:27+00:00,['1377184001887068171'],"@hwinnfps @PUBGEsports It's honestly a no-brainer to have team skins, everybody would buy them, and it can't be difficult to implement..",,honestly nobrainer team skin everybody would buy can't difficult implement,team skin everybody implement 
+1.3769700176322929e+18,2021-03-30 18:50:09+00:00,['1376970017632292867'],@TheReal_Yazi @KatContii Like @Liquid_ibiza https://t.co/3LpBnOV4r7,,like,
+1.3757891539217326e+18,2021-03-27 12:37:49+00:00,['1375789153921732609'],@imclib SO CLUTCH,,clutch,clutch 
+1.374463562538623e+18,2021-03-23 20:50:24+00:00,['1374463562538622979'],Giveaway https://t.co/ErhbH7Pip8 #4YearsOfPUBG #PUBG4thAnniversary,,giveaway,giveaway 
+1.3710944866595758e+18,2021-03-14 13:42:53+00:00,['1371094486659575810'],@KSnKickstart You're nuts,,nut,nut 
+1.3684640907970806e+18,2021-03-07 07:30:38+00:00,['1368464090797080581'],@TanaySuri Ffsss,,ffsss,ffsss 
+1.364937593318695e+18,2021-02-25 13:57:36+00:00,['1364937593318694913'],@TomPickering @PUBGEsports @ShootToKillPUBG @TSM @SoniqsEsports Thanks!,,thanks,
+1.3649290913638892e+18,2021-02-25 13:23:49+00:00,['1364929091363889154'],@TomPickering @PUBGEsports @ShootToKillPUBG @TSM @SoniqsEsports Which of today's games is this?,,today's game,today game 
+1.363169647990874e+18,2021-02-20 16:52:25+00:00,['1363169647990874112'],@pichaelmichael_ Proud of you mate,,proud mate,mate 
+1.359542102888239e+18,2021-02-10 16:37:51+00:00,['1359542102888239107'],@drphiliplee1 @Tom_the_Knowles Underrated,,underrated,
+1.3501732713339863e+18,2021-01-15 20:09:27+00:00,['1350173271333986306'],@viruses_exe @Blamous_DA @FaZeFuzzface Would love to know too,,would love know,
+1.3456881278647624e+18,2021-01-03 11:07:06+00:00,['1345688127864762369'],@TanaySuri @tehCody @FraudActivity_ Ffss,,ffss,ffss 
+1.331495569664127e+18,2020-11-25 07:10:56+00:00,['1331495569664126976'],"@RoboDanjal @katestark @PUBG @PUBG_US @Hawkinz Ah shame, I would've paid big money for that haha. Thanks for your reply :)",,shame would've paid big money haha thanks reply,shame money haha 
+1.3313850395405967e+18,2020-11-24 23:51:44+00:00,['1331385039540596737'],@katestark @PUBG @PUBG_US Any ideas where I could get one of these? @RoboDanjal @Hawkinz,,idea could get one,idea 
+1.327588025296171e+18,2020-11-14 12:23:45+00:00,['1327588025296171014'],@minliangtan @Razer @RazerStoreLDN Missed out on the Cyberpunk Viper - will more come into stock at some point or is that it?,,missed cyberpunk viper come stock point,cyberpunk viper come stock point 
+1.3251550867298427e+18,2020-11-07 19:16:07+00:00,['1325155086729842689'],@AutoBant Nice!,,nice,
+1.316481055604564e+18,2020-10-14 20:48:37+00:00,['1316481055604563971'],@pichaelmichael_ Grats mate!,,grats mate,
+1.3041012146873016e+18,2020-09-10 16:55:33+00:00,['1304101214687301636'],This Tweet from @carfanaticphil has been withheld in: United Kingdom.,"{'copyright': True, 'country_codes': ['XY'], 'scope': 'tweet'}",tweet withheld united kingdom,tweet kingdom 
+1.2809621369576858e+18,2020-07-08 20:29:07+00:00,['1280962136957685760'],This Tweet from @carfanaticphil has been withheld in: United Kingdom.,"{'copyright': True, 'country_codes': ['XY'], 'scope': 'tweet'}",tweet withheld united kingdom,tweet kingdom 
+1.2684544937520456e+18,2020-06-04 08:08:12+00:00,['1268454493752045569'],@Fugglet_tv Congrats Fugg!!,,congrats fugg,
+1.26646931146564e+18,2020-05-29 20:39:48+00:00,['1266469311465639936'],@TanaySuri @conormccrory @MemeRegOnCall @admit_medics I RTd this lol,,rtd lol,rtd lol 
+1.263449747576193e+18,2020-05-21 12:41:08+00:00,['1263449747576193024'],@alexandrabulat Congratulations! Can I ask how long it took? My mum has been waiting over 6 months with no word :/ Thanks!,,congratulation ask long took mum waiting month word thanks,congratulation ask month word 
+1.2627896043584758e+18,2020-05-19 16:57:57+00:00,['1262789604358475779'],@aswinchari Estimated blood loss?,,estimated blood loss,blood loss 
+1.260222401125761e+18,2020-05-12 14:56:48+00:00,['1260222401125761025'],"@pansy Can we expect more ""Brain don't work so well"" ? 😅 @TheSimms",,expect brain work well,brain work 
+1.2532673722297672e+18,2020-04-23 10:20:00+00:00,['1253267372229767173'],"@neerajnkalra @drtintin99 @e1v1m1 @ebrainnet Hi Neeraj, I'm a medical student so am not on the E1V1M1 mailing list - is there any chance you could DM me the password?",,neeraj i'm medical student evm mailing list chance could password,neeraj i student evm list chance 
+1.252685106541625e+18,2020-04-21 19:46:17+00:00,['1252685106541625344'],Fascinating talk on approaches to anterior fossa pathology this evening - thank you @ukneurosurgeon and @ebrainnet for brightening up the lockdown! https://t.co/exVr2KxuyV,,fascinating talk approach anterior fossa pathology evening thank brightening lockdown,talk approach pathology thank 
+1.251237273124954e+18,2020-04-17 19:53:07+00:00,['1251237273124954121'],@Fugglet_tv Congrats Fugg!!,,congrats fugg,
+1.251075027883131e+18,2020-04-17 09:08:25+00:00,['1251075027883130880'],@Takariistorm @TLockm4 @PUBG_EU At the very least would you *please* consider changing the sound back to the old sound? @RoboDanjal,,least would please consider changing sound back old sound,sound sound 
+1.2500814400139223e+18,2020-04-14 15:20:15+00:00,['1250081440013922315'],"@RoboDanjal @WJacky101 Absolutely would be better to reduce Kar98 spawns and introduce the Mosin with different stats, otherwise they're just the same gun with a different look and sound",,absolutely would better reduce kar spawn introduce mosin different stats otherwise they're gun different look sound,spawn look sound 
+1.2450660509385892e+18,2020-03-31 19:10:53+00:00,['1245066050938589185'],@realbrainbook Fundoscopy,,fundoscopy,fundoscopy 
+1.245065983192154e+18,2020-03-31 19:10:37+00:00,['1245065983192154112'],"@realbrainbook CN, full UL/LL motor/sensory",,full ulll motorsensory,motorsensory 
+1.2450609918360945e+18,2020-03-31 18:50:47+00:00,['1245060991836094464'],@realbrainbook Important to look for papilloedema in addition to what's previously mentioned,,important look papilloedema addition what's previously mentioned,look addition 
+1.244044655743943e+18,2020-03-28 23:32:13+00:00,['1244044655743942665'],@TanaySuri @ZRAFC @MirrorFootball I know ahaha was literally just looking through them,,know ahaha literally looking,ahaha 
+1.2418131663524782e+18,2020-03-22 19:45:05+00:00,['1241813166352478209'],@TanaySuri @lfcbaiIey @chiefdouzi Saw this hahaha,,saw hahaha,saw hahaha 
+1.2406148089129e+18,2020-03-19 12:23:14+00:00,['1240614808912900101'],@PitchedInLine @TanaySuri the last sentence,,last sentence,sentence 
+1.240250221118083e+18,2020-03-18 12:14:30+00:00,['1240250221118083072'],@kritikalmotion @PUBG Any insight into this @Hawkinz ?,,insight,insight 
+1.2398994404267663e+18,2020-03-17 13:00:37+00:00,['1239899440426766336'],@TanaySuri @YaiSor @MowIid Ffssss,,ffssss,ffssss 
+1.2392473968838738e+18,2020-03-15 17:49:38+00:00,['1239247396883873793'],@NZXT @wd_black DOOM Eternal https://t.co/YvFmx0pPm1,,doom eternal,doom eternal 
+1.2385582081653924e+18,2020-03-13 20:11:02+00:00,['1238558208165392385'],"@PUBG Thank you for taking out the DBS, but please keep the M249 in crates, it's the perfect crate weapon, it really doesn't need to be a world spawn. Please",,thank taking please keep crate perfect crate weapon really need world spawn please,thank crate crate weapon world spawn please 
+1.238558151533826e+18,2020-03-13 20:10:49+00:00,['1238558151533826049'],"@Hawkinz Thank you for taking out the DBS, but please keep the M249 in crates, it's the perfect crate weapon, it really doesn't need to be a world spawn. Please",,thank taking please keep crate perfect crate weapon really need world spawn please,thank crate crate weapon world spawn please 
+1.238169537683632e+18,2020-03-12 18:26:36+00:00,['1238169537683632128'],"@RoboDanjal M249 is the perfect crate weapon. Making it world spawn and nerfing it ruins it, and with nothing to replace it and the DBS still in there (which the community are screaming against) it lessens the value of risking your life for a crate. It's not something anybody wanted",,perfect crate weapon making world spawn nerfing ruin nothing replace still community screaming lessens value risking life crate something anybody wanted,crate world spawn nothing community value life crate something anybody 
+1.237654125879472e+18,2020-03-11 08:18:32+00:00,['1237654125879472129'],@Hawkinz Can I ask why the team felt the need to make the M249 world spawn but leave the DBS care package only?,,ask team felt need make world spawn leave care package,ask team world spawn care package 
+1.2360225563831173e+18,2020-03-06 20:15:16+00:00,['1236022556383117312'],@TheAculite Happy birthday!! Welcome to the club 😄,,happy birthday welcome club,birthday welcome club 
+1.2359111726475387e+18,2020-03-06 12:52:40+00:00,['1235911172647538690'],@jopo899 Over sleeves or ID wristband?,,sleeve wristband,
+1.2354885797127782e+18,2020-03-05 08:53:26+00:00,['1235488579712778240'],@Hawkinz More financially accessible skins/better skins overall that make the season pass worth purchasing :),,financially accessible skinsbetter skin overall make season pas worth purchasing,skinsbetter skin make season pas 
+1.2334799968969482e+18,2020-02-28 19:52:02+00:00,['1233479996896948225'],"@NVIDIAGeForce @TanaySuri got me into proper gaming, we both can't wait to play the hell out of Cyberpunk!! #RTXOn",,got proper gaming can't wait play hell cyberpunk,gaming hell cyberpunk 
+1.2334798409988424e+18,2020-02-28 19:51:25+00:00,['1233479840998842368'],"@NVIDIAGeForce @TanaySuri got me into proper gaming, we both can't wait to play the hell out of Cyberpunk!!",,got proper gaming can't wait play hell cyberpunk,gaming hell cyberpunk 
+1.2325693522700288e+18,2020-02-26 07:33:28+00:00,['1232569352270028805'],@nursekelsey Adele is terrible.,,adele terrible,
+1.2319032921223782e+18,2020-02-24 11:26:47+00:00,['1231903292122378240'],"@Hawkinz @PartWelsh 😮😮😮 Amazing, thank you! https://t.co/fYA7eWoTf0",,amazing thank,thank 
 1.2318948726946775e+18,2020-02-24 10:53:19+00:00,['1231894872694677504'],"@Hawkinz @PartWelsh +1, I think you're doing a great job, I still love playing the game every day 😊 And you're an absolute star being on the front line of all the criticism and anger, so thank you.
 
-Do you have any vague info on roughly when Vikendi will return? I really miss playing it :(",,think great job still love playing game every day absolute star front line criticism anger thank vague info roughly vikendi return really miss playing
-1.231617805591642e+18,2020-02-23 16:32:21+00:00,['1231617805591642118'],Shocking defending.,,shocking defending
-1.2309015253016005e+18,2020-02-21 17:06:07+00:00,['1230901525301600256'],@People4Bernie @BernieSanders @TanaySuri Stupendous dub idolo,,stupendous dub idolo
-1.2282392939125105e+18,2020-02-14 08:47:21+00:00,['1228239293912510465'],"@elsadreisig Just wanted to say how much I enjoyed last night's fantastic performance of Christ on the Mountain of Olives! You're one of the best sopranos I've ever had the pleasure of listening to, and hope to hear you again in future concerts! I look forward to buying the CD 😊",,wanted say much enjoyed last night's fantastic performance christ mountain olive one best soprano i've ever pleasure listening hope hear future concert look forward buying
-1.2279912676966154e+18,2020-02-13 16:21:47+00:00,['1227991267696615425'],@TanaySuri @LickshotLippy Ffsssss,,ffsssss
-1.2278504951858258e+18,2020-02-13 07:02:25+00:00,['1227850495185825792'],@jackfrags @YouTube Congrats!!,,congrats
-1.2261830571049165e+18,2020-02-08 16:36:36+00:00,['1226183057104916485'],@CatchTheBaby Have a wonderful birthday!,,wonderful birthday
-1.226108165793747e+18,2020-02-08 11:39:01+00:00,['1226108165793746944'],@Fugglet_tv Good luck!!,,good luck
-1.225795263807226e+18,2020-02-07 14:55:39+00:00,['1225795263807225859'],@LadyInterlocks @DGlaucomflecken @TanaySuri this thread,,thread
-1.223279211667972e+18,2020-01-31 16:17:46+00:00,['1223279211667972097'],@TanaySuri I feel personally attacked,,feel personally attacked
-1.2206947274623918e+18,2020-01-24 13:07:57+00:00,['1220694727462391808'],@JoshuaPotash @TanaySuri la guillotine,,guillotine
-1.2168178547644744e+18,2020-01-13 20:22:38+00:00,['1216817854764474370'],@NVIDIAGeForce He's one hit,,he's one hit
-1.2153924723119675e+18,2020-01-09 21:58:40+00:00,['1215392472311967746'],@jacobgreeney26 @TanaySuri Salford is where my ideal job is,,salford ideal job
-1.2153923966174372e+18,2020-01-09 21:58:22+00:00,['1215392396617437184'],@jacobgreeney26 @TanaySuri PUBG,,pubg
-1.2135295625308897e+18,2020-01-04 18:36:08+00:00,['1213529562530889730'],"@newall_nicola As long as you understand how the question is trying to get you to think, put patient safety first (almost always) and use common sense, you'll be fine :)",,long understand question trying get think put patient safety first almost always use common sense fine
-1.213528997822378e+18,2020-01-04 18:33:54+00:00,['1213528997822377985'],"@newall_nicola Just don't do any more. It's more about understanding the technique than practicing endlessly . Did mine a month ago and honestly you can't really do much for it, just have to apply common sense and knowledge of the exam style to whatever stupid situations they throw at you 😅",,understanding technique practicing endlessly mine month ago honestly can't really much apply common sense knowledge exam style whatever stupid situation throw
-1.213261040580006e+18,2020-01-04 00:49:08+00:00,['1213261040580005893'],@oziI10x @TanaySuri what is happening here,,happening
-1.212839895519109e+18,2020-01-02 20:55:39+00:00,['1212839895519109133'],@TanaySuri @mizar_CDXX @BilneyM Hahahaha,,hahahaha
-1.212347480676995e+18,2020-01-01 12:18:58+00:00,['1212347480676995072'],@_GeorgeRFC @TanaySuri These are amazing,,amazing
-1.2121313889898086e+18,2019-12-31 22:00:18+00:00,['1212131388989808640'],@MrProWestie What are you talking about you shill? 👀,,talking shill
-1.2119488985724805e+18,2019-12-31 09:55:08+00:00,['1211948898572480512'],@laylaamxh @gunnerpunner @TanaySuri me,,
-1.2116811843061473e+18,2019-12-30 16:11:20+00:00,['1211681184306147328'],@TanaySuri @Grahamalott Legend,,legend
-1.2113132961182925e+18,2019-12-29 15:49:29+00:00,['1211313296118292482'],@MrProWestie I can't believe it.,,can't believe
-1.2113131839794422e+18,2019-12-29 15:49:02+00:00,['1211313183979442176'],ARE YOU SERIOUS,,serious
-1.2097554842967654e+18,2019-12-25 08:39:18+00:00,['1209755484296765441'],"@Hawkinz Merry Christmas! Thanks for everything you do for the PUBG community, you're an absolute 🌟 Have a great holiday :)",,merry christmas thanks everything pubg community absolute great holiday
-1.2091452125110968e+18,2019-12-23 16:14:18+00:00,['1209145212511096834'],"@TheHappyWhale_ @Hawkinz Love it! But spawns should be randomised I think, otherwise it's a situation not dissimilar to the Vikendi cave, where you have loads of players just going for the same spots over and over again",,love spawn randomised think otherwise situation dissimilar vikendi cave load player going spot
-1.2079665340203377e+18,2019-12-20 10:10:39+00:00,['1207966534020337664'],@TanaySuri @AfcSxm Hehehehehehe,,hehehehehehe
-1.2075596965986017e+18,2019-12-19 07:14:01+00:00,['1207559696598601728'],@Telegraph @robbiereviews Nonsense,,nonsense
-1.206696623654486e+18,2019-12-16 22:04:29+00:00,['1206696623654486016'],@TanaySuri @ruudgulled @chiefdouzi Dying,,dying
-1.2052497514757325e+18,2019-12-12 22:15:07+00:00,['1205249751475732480'],I give up on this country.,,give country
-1.205142674673721e+18,2019-12-12 15:09:38+00:00,['1205142674673721350'],Labour. https://t.co/Vxua9WXjGB,,labour
-1.202707633637081e+18,2019-12-05 21:53:39+00:00,['1202707633637081090'],Liquidate @Arsenal,,liquidate
-1.2025571591768556e+18,2019-12-05 11:55:43+00:00,['1202557159176855552'],Thank you @muse for spending 77 hours with me this year on @Spotify. You are my #1. #spotifywrapped,,thank spending hour year
-1.2011178978479145e+18,2019-12-01 12:36:37+00:00,['1201117897847914496'],@TanaySuri @AyooDMill @JCourier1 Hahahahahahahaha,,hahahahahahahaha
-1.2001927111161487e+18,2019-11-28 23:20:15+00:00,['1200192711116148736'],@TanaySuri @Obiba_ @FApor_elmundo Wheezing,,wheezing
-1.199837459808506e+18,2019-11-27 23:48:36+00:00,['1199837459808505856'],@KyleKulinski Adele is terrible.,,adele terrible
-1.199095712602116e+18,2019-11-25 22:41:10+00:00,['1199095712602116096'],@TanaySuri @1878Lee Watching this with the sound off didn't have quite the effect intended haha,,watching sound quite effect intended haha
-1.1987542379095532e+18,2019-11-25 00:04:16+00:00,['1198754237909553152'],"@pansy @TheSimms Can't wait! So awesome to have you two back together, such a great casting duo 😄",,can't wait awesome two back together great casting duo
-1.19762310529382e+18,2019-11-21 21:09:33+00:00,['1197623105293819911'],"@genexp I love it! If it returns in the future a good idea might be to have a quick survey pop up after you've played a SUPER game, or in the labs menu? I fear there are a lot of players who aren't on Reddit or Twitter, so support might be even more overwhelming :) @Hawkinz @RoboDanjal",,love return future good idea might quick survey pop played super game lab menu fear lot player reddit twitter support might even overwhelming
-1.1970632186461307e+18,2019-11-20 08:04:46+00:00,['1197063218646130690'],@FroszTV QM,,
-1.1950407189616804e+18,2019-11-14 18:08:04+00:00,['1195040718961680384'],@LauraCatriona Does this count? Waterloo https://t.co/R6W2fnb8Dw,,doe count waterloo
-1.1949502925189489e+18,2019-11-14 12:08:45+00:00,['1194950292518948864'],@ScanComputers @Thermaltakeuk @WD_UK @ScanGaming @Thermaltake @wd_black @Scan_3XS I'd make the RBB red because it's the most awesome colour to game to :D,,i'd make rbb red awesome colour game
+Do you have any vague info on roughly when Vikendi will return? I really miss playing it :(",,think great job still love playing game every day absolute star front line criticism anger thank vague info roughly vikendi return really miss playing,job game day star line criticism anger thank vague info playing 
+1.231617805591642e+18,2020-02-23 16:32:21+00:00,['1231617805591642118'],Shocking defending.,,shocking defending,
+1.2309015253016005e+18,2020-02-21 17:06:07+00:00,['1230901525301600256'],@People4Bernie @BernieSanders @TanaySuri Stupendous dub idolo,,stupendous dub idolo,dub idolo 
+1.2282392939125105e+18,2020-02-14 08:47:21+00:00,['1228239293912510465'],"@elsadreisig Just wanted to say how much I enjoyed last night's fantastic performance of Christ on the Mountain of Olives! You're one of the best sopranos I've ever had the pleasure of listening to, and hope to hear you again in future concerts! I look forward to buying the CD 😊",,wanted say much enjoyed last night's fantastic performance christ mountain olive one best soprano i've ever pleasure listening hope hear future concert look forward buying,night performance christ mountain soprano i hope future concert look 
+1.2279912676966154e+18,2020-02-13 16:21:47+00:00,['1227991267696615425'],@TanaySuri @LickshotLippy Ffsssss,,ffsssss,ffsssss 
+1.2278504951858258e+18,2020-02-13 07:02:25+00:00,['1227850495185825792'],@jackfrags @YouTube Congrats!!,,congrats,
+1.2261830571049165e+18,2020-02-08 16:36:36+00:00,['1226183057104916485'],@CatchTheBaby Have a wonderful birthday!,,wonderful birthday,birthday 
+1.226108165793747e+18,2020-02-08 11:39:01+00:00,['1226108165793746944'],@Fugglet_tv Good luck!!,,good luck,luck 
+1.225795263807226e+18,2020-02-07 14:55:39+00:00,['1225795263807225859'],@LadyInterlocks @DGlaucomflecken @TanaySuri this thread,,thread,thread 
+1.223279211667972e+18,2020-01-31 16:17:46+00:00,['1223279211667972097'],@TanaySuri I feel personally attacked,,feel personally attacked,
+1.2206947274623918e+18,2020-01-24 13:07:57+00:00,['1220694727462391808'],@JoshuaPotash @TanaySuri la guillotine,,guillotine,guillotine 
+1.2168178547644744e+18,2020-01-13 20:22:38+00:00,['1216817854764474370'],@NVIDIAGeForce He's one hit,,he's one hit,hit 
+1.2153924723119675e+18,2020-01-09 21:58:40+00:00,['1215392472311967746'],@jacobgreeney26 @TanaySuri Salford is where my ideal job is,,salford ideal job,salford ideal job 
+1.2153923966174372e+18,2020-01-09 21:58:22+00:00,['1215392396617437184'],@jacobgreeney26 @TanaySuri PUBG,,pubg,pubg 
+1.2135295625308897e+18,2020-01-04 18:36:08+00:00,['1213529562530889730'],"@newall_nicola As long as you understand how the question is trying to get you to think, put patient safety first (almost always) and use common sense, you'll be fine :)",,long understand question trying get think put patient safety first almost always use common sense fine,question get safety sense fine 
+1.213528997822378e+18,2020-01-04 18:33:54+00:00,['1213528997822377985'],"@newall_nicola Just don't do any more. It's more about understanding the technique than practicing endlessly . Did mine a month ago and honestly you can't really do much for it, just have to apply common sense and knowledge of the exam style to whatever stupid situations they throw at you 😅",,understanding technique practicing endlessly mine month ago honestly can't really much apply common sense knowledge exam style whatever stupid situation throw,technique month apply sense knowledge exam style situation throw 
+1.213261040580006e+18,2020-01-04 00:49:08+00:00,['1213261040580005893'],@oziI10x @TanaySuri what is happening here,,happening,
+1.212839895519109e+18,2020-01-02 20:55:39+00:00,['1212839895519109133'],@TanaySuri @mizar_CDXX @BilneyM Hahahaha,,hahahaha,hahahaha 
+1.212347480676995e+18,2020-01-01 12:18:58+00:00,['1212347480676995072'],@_GeorgeRFC @TanaySuri These are amazing,,amazing,
+1.2121313889898086e+18,2019-12-31 22:00:18+00:00,['1212131388989808640'],@MrProWestie What are you talking about you shill? 👀,,talking shill,shill 
+1.2119488985724805e+18,2019-12-31 09:55:08+00:00,['1211948898572480512'],@laylaamxh @gunnerpunner @TanaySuri me,,,nan 
+1.2116811843061473e+18,2019-12-30 16:11:20+00:00,['1211681184306147328'],@TanaySuri @Grahamalott Legend,,legend,legend 
+1.2113132961182925e+18,2019-12-29 15:49:29+00:00,['1211313296118292482'],@MrProWestie I can't believe it.,,can't believe,
+1.2113131839794422e+18,2019-12-29 15:49:02+00:00,['1211313183979442176'],ARE YOU SERIOUS,,serious,
+1.2097554842967654e+18,2019-12-25 08:39:18+00:00,['1209755484296765441'],"@Hawkinz Merry Christmas! Thanks for everything you do for the PUBG community, you're an absolute 🌟 Have a great holiday :)",,merry christmas thanks everything pubg community absolute great holiday,merry everything community holiday 
+1.2091452125110968e+18,2019-12-23 16:14:18+00:00,['1209145212511096834'],"@TheHappyWhale_ @Hawkinz Love it! But spawns should be randomised I think, otherwise it's a situation not dissimilar to the Vikendi cave, where you have loads of players just going for the same spots over and over again",,love spawn randomised think otherwise situation dissimilar vikendi cave load player going spot,spawn situation load player spot 
+1.2079665340203377e+18,2019-12-20 10:10:39+00:00,['1207966534020337664'],@TanaySuri @AfcSxm Hehehehehehe,,hehehehehehe,hehehehehehe 
+1.2075596965986017e+18,2019-12-19 07:14:01+00:00,['1207559696598601728'],@Telegraph @robbiereviews Nonsense,,nonsense,nonsense 
+1.206696623654486e+18,2019-12-16 22:04:29+00:00,['1206696623654486016'],@TanaySuri @ruudgulled @chiefdouzi Dying,,dying,
+1.2052497514757325e+18,2019-12-12 22:15:07+00:00,['1205249751475732480'],I give up on this country.,,give country,country 
+1.205142674673721e+18,2019-12-12 15:09:38+00:00,['1205142674673721350'],Labour. https://t.co/Vxua9WXjGB,,labour,labour 
+1.202707633637081e+18,2019-12-05 21:53:39+00:00,['1202707633637081090'],Liquidate @Arsenal,,liquidate,liquidate 
+1.2025571591768556e+18,2019-12-05 11:55:43+00:00,['1202557159176855552'],Thank you @muse for spending 77 hours with me this year on @Spotify. You are my #1. #spotifywrapped,,thank spending hour year,thank spending hour year 
+1.2011178978479145e+18,2019-12-01 12:36:37+00:00,['1201117897847914496'],@TanaySuri @AyooDMill @JCourier1 Hahahahahahahaha,,hahahahahahahaha,hahahahahahahaha 
+1.2001927111161487e+18,2019-11-28 23:20:15+00:00,['1200192711116148736'],@TanaySuri @Obiba_ @FApor_elmundo Wheezing,,wheezing,
+1.199837459808506e+18,2019-11-27 23:48:36+00:00,['1199837459808505856'],@KyleKulinski Adele is terrible.,,adele terrible,
+1.199095712602116e+18,2019-11-25 22:41:10+00:00,['1199095712602116096'],@TanaySuri @1878Lee Watching this with the sound off didn't have quite the effect intended haha,,watching sound quite effect intended haha,effect haha 
+1.1987542379095532e+18,2019-11-25 00:04:16+00:00,['1198754237909553152'],"@pansy @TheSimms Can't wait! So awesome to have you two back together, such a great casting duo 😄",,can't wait awesome two back together great casting duo,casting duo 
+1.19762310529382e+18,2019-11-21 21:09:33+00:00,['1197623105293819911'],"@genexp I love it! If it returns in the future a good idea might be to have a quick survey pop up after you've played a SUPER game, or in the labs menu? I fear there are a lot of players who aren't on Reddit or Twitter, so support might be even more overwhelming :) @Hawkinz @RoboDanjal",,love return future good idea might quick survey pop played super game lab menu fear lot player reddit twitter support might even overwhelming,return idea survey pop game lab menu fear lot player reddit twitter support 
+1.1970632186461307e+18,2019-11-20 08:04:46+00:00,['1197063218646130690'],@FroszTV QM,,,nan 
+1.1950407189616804e+18,2019-11-14 18:08:04+00:00,['1195040718961680384'],@LauraCatriona Does this count? Waterloo https://t.co/R6W2fnb8Dw,,doe count waterloo,doe count waterloo 
+1.1949502925189489e+18,2019-11-14 12:08:45+00:00,['1194950292518948864'],@ScanComputers @Thermaltakeuk @WD_UK @ScanGaming @Thermaltake @wd_black @Scan_3XS I'd make the RBB red because it's the most awesome colour to game to :D,,i'd make rbb red awesome colour game,i rbb colour game 
 1.1949346037038694e+18,2019-11-14 11:06:24+00:00,['1194934603703869442'],"NEED THIS!!!!! #WIN a full gaming setup worth well over £5000 in the @ScanComputers monthly #Giveaway!! Featuring @Thermaltake_UK and @WD_UK.  Enter here - https://t.co/ooUbQVNerz
 UK ONLY 
- #competition #winit #friyay #Scancomp #LoveScan #PCMR",,need full gaming setup worth well monthly featuring enter
-1.1942839229742203e+18,2019-11-12 16:00:50+00:00,['1194283922974220288'],@TheNameIsToby Can't wait!,,can't wait
-1.1942539490099077e+18,2019-11-12 14:01:44+00:00,['1194253949009907712'],@TanaySuri @PitchedInLine Ik ridiculous,,ridiculous
-1.1941493562802053e+18,2019-11-12 07:06:07+00:00,['1194149356280205313'],@OfficialPCMR @NVIDIAGeForce #RTXON #TEAMGREEN United Kingdom,,united kingdom
-1.1938735352629617e+18,2019-11-11 12:50:06+00:00,['1193873535262961664'],@Asukalmfao @TanaySuri Ffs,,ffs
-1.192602565608956e+18,2019-11-08 00:39:43+00:00,['1192602565608955911'],"@TheNameIsToby First episode of Playbook was fantastic, really excited to see them throughout PGC! Awesome work :)",,first episode playbook fantastic really excited see throughout pgc awesome work
-1.1921664438796657e+18,2019-11-06 19:46:44+00:00,['1192166443879665664'],"@Frolicer @PUBGEsports @TheJakerPUBG Team skins? It's the right thing to do - would win players over, and you could implement them pretty damn quickly if you wanted to, can't take long to design a skin. What you've done is great, but team skins are a no-brainer, you'd make SO much money :)",,team skin right thing would win player could implement pretty damn quickly wanted can't take long design skin done great team skin nobrainer make much money
-1.1920886537214198e+18,2019-11-06 14:37:37+00:00,['1192088653721419776'],@nocontextfooty @TanaySuri I am wheezing,,wheezing
-1.1917035932519877e+18,2019-11-05 13:07:32+00:00,['1191703593251987456'],"@DammitArsenal @TanaySuri ""Excellent breaking the lines"" 😂",,excellent breaking line
-1.1916996646864568e+18,2019-11-05 12:51:55+00:00,['1191699664686456834'],@OOCCricket_ @stevesmith49 @TanaySuri Fuck me,,fuck
-1.191681681884881e+18,2019-11-05 11:40:27+00:00,['1191681681884880897'],@AimThaMachine_ @TanaySuri hehehehe,,hehehehe
-1.1912991401033974e+18,2019-11-04 10:20:22+00:00,['1191299140103397378'],@Y2SHAF @TanaySuri What is thissss,,thissss
-1.1911061743321293e+18,2019-11-03 21:33:36+00:00,['1191106174332129280'],@TanaySuri @mnurkic @LivPosting So good,,good
-1.191070295580455e+18,2019-11-03 19:11:02+00:00,['1191070295580454915'],@TanaySuri @RwillsMKD @RilwanLucas Ffssss,,ffssss
-1.1909824478461174e+18,2019-11-03 13:21:57+00:00,['1190982447846117376'],@robsarna @BamfiAkyeampong @DarrenArsenal1 I'll buy it off you,,i'll buy
-1.1906711868181504e+18,2019-11-02 16:45:07+00:00,['1190671186818150400'],@DGlaucomflecken @TanaySuri The peak,,peak
-1.1906701227777638e+18,2019-11-02 16:40:53+00:00,['1190670122777763841'],BRING ON PEPE YOU FRAUD,,bring pepe fraud
-1.1906689750023086e+18,2019-11-02 16:36:19+00:00,['1190668975002308609'],Terrible.,,terrible
-1.1901991604667884e+18,2019-11-01 09:29:27+00:00,['1190199160466788353'],@OfficialPCMR @NVIDIAGeForce #RTXON #TEAMGREEN England!,,england
-1.1896479530714194e+18,2019-10-30 20:59:09+00:00,['1189647953071419399'],WILLOOOOOOOOOOCK,,willoooooooooock
-1.189647271006212e+18,2019-10-30 20:56:26+00:00,['1189647271006212096'],WHY TAKE ÖZIL OFF YOU FRAUD,,take zil fraud
-1.1896439434132726e+18,2019-10-30 20:43:13+00:00,['1189643943413272576'],ÖZIILLLLLL FILTH,,ziillllll filth
-1.189636393330512e+18,2019-10-30 20:13:13+00:00,['1189636393330511879'],Dive.,,dive
-1.1896349439845048e+18,2019-10-30 20:07:27+00:00,['1189634943984504832'],SO good from Özil,,good zil
-1.1896306669772308e+18,2019-10-30 19:50:27+00:00,['1189630666977230848'],Özil absolutely pivotal in that goal. Martinelli excellent too,,zil absolutely pivotal goal martinelli excellent
-1.1894522506803487e+18,2019-10-30 08:01:30+00:00,['1189452250680348672'],@jimmykimmel @BarackObama @realDonaldTrump @TanaySuri This is incredible,,incredible
-1.189275115583877e+18,2019-10-29 20:17:37+00:00,['1189275115583877120'],@TanaySuri @RiZzyUTD @gunnerpunner Agreed,,agreed
-1.188553687796519e+18,2019-10-27 20:30:56+00:00,['1188553687796518913'],@AFCMatthew @TanaySuri Crying,,cry
-1.187467031840297e+18,2019-10-24 20:32:57+00:00,['1187467031840296964'],Ceballos is AWFUL,,ceballos awful
-1.1871289051085128e+18,2019-10-23 22:09:21+00:00,['1187128905108512769'],@TanaySuri I KNOW INJECT IT,,know inject
-1.1866592629798175e+18,2019-10-22 15:03:10+00:00,['1186659262979817477'],@eliistender10 @TanaySuri In tears,,tear
-1.186543779702022e+18,2019-10-22 07:24:16+00:00,['1186543779702022146'],"@pansy NVME M.2 SSD is essential, after that better RAM and a used 1070/1080? CPU should last you for a while if you don't want to change your whole motherboard",,nvme ssd essential better ram used cpu last want change whole motherboard
-1.1856818864646758e+18,2019-10-19 22:19:25+00:00,['1185681886464675840'],@Marshen_ @AzuraProds @MaxiqYT I feel this.,,feel
-1.1848482715812946e+18,2019-10-17 15:06:56+00:00,['1184848271581294595'],@PUBGEsports Please advertise PGC more @TheJakerPUBG,,please advertise pgc
-1.1847790648145142e+18,2019-10-17 10:31:55+00:00,['1184779064814514177'],@lyssamecca @ayosworIdd @TanaySuri I am dying,,dying
-1.1845833591644897e+18,2019-10-16 21:34:15+00:00,['1184583359164489729'],@TanaySuri @TheTiaTutt @GoonerMaxwell Ahahahaha,,ahahahaha
-1.182983684259025e+18,2019-10-12 11:37:43+00:00,['1182983684259024896'],@TanaySuri Classic,,classic
-1.181928495984849e+18,2019-10-09 13:44:47+00:00,['1181928495984848896'],#BoycottBlizzard,,
-1.1812807768826757e+18,2019-10-07 18:50:59+00:00,['1181280776882675712'],@WJacky101 Yeah!,,yeah
-1.180929799444947e+18,2019-10-06 19:36:19+00:00,['1180929799444946944'],"@pansy @PUBG @FaZeClan Thanks for your awesome casting Lauren, looking forward to the next one!",,thanks awesome casting lauren looking forward next one
-1.1807483997311836e+18,2019-10-06 07:35:30+00:00,['1180748399731183617'],@Liquid_ibiza Love you guys #LetsGoLiquid,,love guy
-1.1804311032425103e+18,2019-10-05 10:34:41+00:00,['1180431103242510337'],@RoboDanjal One thing that has been really bugging me and I think lots of other people for a few patches is random stuttering/frame drops which happens quite regularly for no apparent reason (not a hardware thing since it didn't happen before) - is the team aware of is? Thanks :),,one thing really bugging think lot people patch random stutteringframe drop happens quite regularly apparent reason hardware thing since happen team aware thanks
-1.180422299222233e+18,2019-10-05 09:59:41+00:00,['1180422299222233088'],"@RoboDanjal Hey Dan, just wanted to let you know I think you guys have done really well with the loot spawning in late, I've definitely noticed a difference since the last patch :)",,hey dan wanted let know think guy done really well loot spawning late i've definitely noticed difference since last patch
-1.1779914133147976e+18,2019-09-28 17:00:13+00:00,['1177991413314797570'],@SkySportsPL @SkySports @TanaySuri The cross from Mahrez,,cross mahrez
-1.1766264817972593e+18,2019-09-24 22:36:28+00:00,['1176626481797259266'],@ThatDamnHoare @AFCBeef Nelson has absolutely no place in our best XI,,nelson absolutely place best
-1.174950142278951e+18,2019-09-20 07:35:18+00:00,['1174950142278950912'],@WellKnownAlias @WJacky101 This is just not true,,true
-1.1746699564049572e+18,2019-09-19 13:01:56+00:00,['1174669956404957184'],"@JimMFelton @TanaySuri ""We're either a democracy or we're not"" You're either alive or you're not",,we're either democracy we're either alive
-1.1743963573581169e+18,2019-09-18 18:54:45+00:00,['1174396357358116865'],@MrProWestie Any chance you can share it? :),,chance share
-1.1742330432105185e+18,2019-09-18 08:05:48+00:00,['1174233043210518529'],@TanaySuri @vazztheweirdo Funny,,funny
-1.1731967476922696e+18,2019-09-15 11:27:56+00:00,['1173196747692269568'],"@WJacky101 Bass, drums, keyboard.. anything really, depends what you want haha",,bass drum keyboard anything really depends want haha
-1.173165112083067e+18,2019-09-15 09:22:13+00:00,['1173165112083066880'],@AFCMatthew @TanaySuri Fuck me,,fuck
-1.172543106547368e+18,2019-09-13 16:10:36+00:00,['1172543106547367936'],@TanaySuri In before he doesn't,,
-1.1722335614889943e+18,2019-09-12 19:40:34+00:00,['1172233561488994310'],@twcuddleston At least you didn't do something silly like medicine and have 6 years' worth of debt accumulating 🙃,,least something silly like medicine years' worth debt accumulating
-1.1713317208655503e+18,2019-09-10 07:56:59+00:00,['1171331720865550337'],@ProgressBar201X Nice.,,nice
-1.1707629975827825e+18,2019-09-08 18:17:05+00:00,['1170762997582782471'],@TanaySuri Absolutely,,absolutely
-1.1695581835993866e+18,2019-09-05 10:29:34+00:00,['1169558183599386624'],@minliangtan London!,,london
-1.1692515667774587e+18,2019-09-04 14:11:11+00:00,['1169251566777458689'],@TanaySuri @robdelaney @UKDemockery Incredible,,incredible
-1.1682550920820736e+18,2019-09-01 20:11:33+00:00,['1168255092082073600'],@thinnd @Hawkinz @PUBG I NEED THIS,,need
-1.167408251576705e+18,2019-08-30 12:06:31+00:00,['1167408251576705024'],"@RoboDanjal Okay will do, sorry - thanks!",,okay sorry thanks
-1.1674047790453637e+18,2019-08-30 11:52:43+00:00,['1167404779045363713'],"@RoboDanjal It has, but what I mean is before today I had premium, then today for some reason it was no longer active, so I had to buy it again. If I request a refund won't I lose the premium pass?",,mean today premium today reason longer active buy request refund lose premium pas
-1.1674028160649503e+18,2019-08-30 11:44:55+00:00,['1167402816064950274'],"@RoboDanjal It's all fixed for me now, thanks for your help! Although I did have to buy the season pass again..should I sort this out through Steam or PUBG Support?",,fixed thanks help although buy season pas againshould sort steam pubg support
-1.1673516385265172e+18,2019-08-30 08:21:33+00:00,['1167351638526517248'],"@RoboDanjal Hey Dan, something very peculiar has happened this morning. My survivor pass was somehow rescinded, leading me to buying it again, then attempting to claim all my rewards back, but now when I go into customise none of them are there for me to equip?",,hey dan something peculiar happened morning survivor pas somehow rescinded leading buying attempting claim reward back customise none equip
-1.1664953206012436e+18,2019-08-27 23:38:51+00:00,['1166495320601243650'],"@MrProWestie Galicia. No cover whatsoever, absolute snipe feat, no fun to play",,galicia cover whatsoever absolute snipe feat fun play
-1.166465040121258e+18,2019-08-27 21:38:32+00:00,['1166465040121257984'],@TanaySuri Sznnnn,,sznnnn
-1.1660478768516874e+18,2019-08-26 18:00:52+00:00,['1166047876851687425'],"@twcuddleston I did that once, it's one of the most vile thing I've ever tasted",,one vile thing i've ever tasted
-1.1660182517316895e+18,2019-08-26 16:03:09+00:00,['1166018251731689473'],@TanaySuri Icon,,icon
-1.165027632146256e+18,2019-08-23 22:26:47+00:00,['1165027632146255872'],@Liquid_ibiza Happy birthday to my favourite player from my favourite team!,,happy birthday favourite player favourite team
-1.1638143061246648e+18,2019-08-20 14:05:27+00:00,['1163814306124664834'],@NVIDIAGeForceUK Would look even better in my PC #RTXOn,,would look even better
-1.1637816036440596e+18,2019-08-20 11:55:30+00:00,['1163781603644059649'],@NVIDIAGeForce @Razer Sick #RTXOn,,sick
-1.1630163221854044e+18,2019-08-18 09:14:33+00:00,['1163016322185404417'],@Drift0r @PUBG What I'd give to have one of these :( @RoboDanjal Pleaaase :D,,i'd give one pleaaase
-1.1624247345896243e+18,2019-08-16 18:03:48+00:00,['1162424734589624320'],"@Caaaymus Weapons, charms, weapon stickers, parachutes, gloves. Anything that people actually use and will spend money on, not useless items such as the crowbar that nobody has any use. That won't engage people with PUBG esports",,weapon charm weapon sticker parachute glove anything people actually use spend money useless item crowbar nobody use engage people pubg esports
-1.1623422300923904e+18,2019-08-16 12:35:57+00:00,['1162342230092390400'],@TheJakerPUBG @PLAYERUNKNOWN Good,,good
-1.1621475363139666e+18,2019-08-15 23:42:18+00:00,['1162147536313966593'],@bomanilive @Sacriel42 I have this and it's tremendous,,tremendous
-1.161966663912317e+18,2019-08-15 11:43:35+00:00,['1161966663912316928'],@joelcomm Evil Oats,,evil oat
-1.161589545915302e+18,2019-08-14 10:45:03+00:00,['1161589545915301889'],@Liquid_ibiza @TheNameIsToby @PlayerIgn @ATNIGN @TheJakerPUBG Take notice,,take notice
-1.161587838254801e+18,2019-08-14 10:38:16+00:00,['1161587838254800896'],@Hawkinz @kritikalmotion THANK YOU SO MUCH 😄😄😄,,thank much
-1.161433818252923e+18,2019-08-14 00:26:15+00:00,['1161433818252922880'],"@Cboyle6245 @TheVancu @MachinePix @SpecstheFox @UtahDWR Ahahah, I haven't laughed as hard at anything in a long time, you win the internet today!",,ahahah laughed hard anything long time win internet today
-1.1605564450222612e+18,2019-08-11 14:19:53+00:00,['1160556445022261248'],Brilliant from AMN,,brilliant amn
-1.1605407502009385e+18,2019-08-11 13:17:31+00:00,['1160540750200938501'],Mkhitaryan and Xhaka are just not good enough.,,mkhitaryan xhaka good enough
-1.1605357705219195e+18,2019-08-11 12:57:44+00:00,['1160535770521919491'],"#COYG, been far too long",,far long
-1.159353477476356e+18,2019-08-08 06:39:43+00:00,['1159353477476356096'],@WJacky101 Happy birthday!!,,happy birthday
-1.1592239764277535e+18,2019-08-07 22:05:07+00:00,['1159223976427753473'],@twcuddleston Yessss,,yes
-1.1592237493397545e+18,2019-08-07 22:04:13+00:00,['1159223749339754496'],@MrProWestie Happy birthday!,,happy birthday
+ #competition #winit #friyay #Scancomp #LoveScan #PCMR",,need full gaming setup worth well monthly featuring enter,gaming setup worth enter 
+1.1942839229742203e+18,2019-11-12 16:00:50+00:00,['1194283922974220288'],@TheNameIsToby Can't wait!,,can't wait,
+1.1942539490099077e+18,2019-11-12 14:01:44+00:00,['1194253949009907712'],@TanaySuri @PitchedInLine Ik ridiculous,,ridiculous,
+1.1941493562802053e+18,2019-11-12 07:06:07+00:00,['1194149356280205313'],@OfficialPCMR @NVIDIAGeForce #RTXON #TEAMGREEN United Kingdom,,united kingdom,kingdom 
+1.1938735352629617e+18,2019-11-11 12:50:06+00:00,['1193873535262961664'],@Asukalmfao @TanaySuri Ffs,,ffs,
+1.192602565608956e+18,2019-11-08 00:39:43+00:00,['1192602565608955911'],"@TheNameIsToby First episode of Playbook was fantastic, really excited to see them throughout PGC! Awesome work :)",,first episode playbook fantastic really excited see throughout pgc awesome work,playbook see work 
+1.1921664438796657e+18,2019-11-06 19:46:44+00:00,['1192166443879665664'],"@Frolicer @PUBGEsports @TheJakerPUBG Team skins? It's the right thing to do - would win players over, and you could implement them pretty damn quickly if you wanted to, can't take long to design a skin. What you've done is great, but team skins are a no-brainer, you'd make SO much money :)",,team skin right thing would win player could implement pretty damn quickly wanted can't take long design skin done great team skin nobrainer make much money,team thing player design skin team skin money 
+1.1920886537214198e+18,2019-11-06 14:37:37+00:00,['1192088653721419776'],@nocontextfooty @TanaySuri I am wheezing,,wheezing,
+1.1917035932519877e+18,2019-11-05 13:07:32+00:00,['1191703593251987456'],"@DammitArsenal @TanaySuri ""Excellent breaking the lines"" 😂",,excellent breaking line,breaking line 
+1.1916996646864568e+18,2019-11-05 12:51:55+00:00,['1191699664686456834'],@OOCCricket_ @stevesmith49 @TanaySuri Fuck me,,fuck,fuck 
+1.191681681884881e+18,2019-11-05 11:40:27+00:00,['1191681681884880897'],@AimThaMachine_ @TanaySuri hehehehe,,hehehehe,hehehehe 
+1.1912991401033974e+18,2019-11-04 10:20:22+00:00,['1191299140103397378'],@Y2SHAF @TanaySuri What is thissss,,thissss,thissss 
+1.1911061743321293e+18,2019-11-03 21:33:36+00:00,['1191106174332129280'],@TanaySuri @mnurkic @LivPosting So good,,good,
+1.191070295580455e+18,2019-11-03 19:11:02+00:00,['1191070295580454915'],@TanaySuri @RwillsMKD @RilwanLucas Ffssss,,ffssss,ffssss 
+1.1909824478461174e+18,2019-11-03 13:21:57+00:00,['1190982447846117376'],@robsarna @BamfiAkyeampong @DarrenArsenal1 I'll buy it off you,,i'll buy,i 
+1.1906711868181504e+18,2019-11-02 16:45:07+00:00,['1190671186818150400'],@DGlaucomflecken @TanaySuri The peak,,peak,peak 
+1.1906701227777638e+18,2019-11-02 16:40:53+00:00,['1190670122777763841'],BRING ON PEPE YOU FRAUD,,bring pepe fraud,pepe fraud 
+1.1906689750023086e+18,2019-11-02 16:36:19+00:00,['1190668975002308609'],Terrible.,,terrible,
+1.1901991604667884e+18,2019-11-01 09:29:27+00:00,['1190199160466788353'],@OfficialPCMR @NVIDIAGeForce #RTXON #TEAMGREEN England!,,england,england 
+1.1896479530714194e+18,2019-10-30 20:59:09+00:00,['1189647953071419399'],WILLOOOOOOOOOOCK,,willoooooooooock,willoooooooooock 
+1.189647271006212e+18,2019-10-30 20:56:26+00:00,['1189647271006212096'],WHY TAKE ÖZIL OFF YOU FRAUD,,take zil fraud,zil fraud 
+1.1896439434132726e+18,2019-10-30 20:43:13+00:00,['1189643943413272576'],ÖZIILLLLLL FILTH,,ziillllll filth,ziillllll filth 
+1.189636393330512e+18,2019-10-30 20:13:13+00:00,['1189636393330511879'],Dive.,,dive,dive 
+1.1896349439845048e+18,2019-10-30 20:07:27+00:00,['1189634943984504832'],SO good from Özil,,good zil,zil 
+1.1896306669772308e+18,2019-10-30 19:50:27+00:00,['1189630666977230848'],Özil absolutely pivotal in that goal. Martinelli excellent too,,zil absolutely pivotal goal martinelli excellent,zil goal martinelli excellent 
+1.1894522506803487e+18,2019-10-30 08:01:30+00:00,['1189452250680348672'],@jimmykimmel @BarackObama @realDonaldTrump @TanaySuri This is incredible,,incredible,
+1.189275115583877e+18,2019-10-29 20:17:37+00:00,['1189275115583877120'],@TanaySuri @RiZzyUTD @gunnerpunner Agreed,,agreed,
+1.188553687796519e+18,2019-10-27 20:30:56+00:00,['1188553687796518913'],@AFCMatthew @TanaySuri Crying,,cry,cry 
+1.187467031840297e+18,2019-10-24 20:32:57+00:00,['1187467031840296964'],Ceballos is AWFUL,,ceballos awful,ceballos awful 
+1.1871289051085128e+18,2019-10-23 22:09:21+00:00,['1187128905108512769'],@TanaySuri I KNOW INJECT IT,,know inject,
+1.1866592629798175e+18,2019-10-22 15:03:10+00:00,['1186659262979817477'],@eliistender10 @TanaySuri In tears,,tear,tear 
+1.186543779702022e+18,2019-10-22 07:24:16+00:00,['1186543779702022146'],"@pansy NVME M.2 SSD is essential, after that better RAM and a used 1070/1080? CPU should last you for a while if you don't want to change your whole motherboard",,nvme ssd essential better ram used cpu last want change whole motherboard,ssd ram cpu change motherboard 
+1.1856818864646758e+18,2019-10-19 22:19:25+00:00,['1185681886464675840'],@Marshen_ @AzuraProds @MaxiqYT I feel this.,,feel,feel 
+1.1848482715812946e+18,2019-10-17 15:06:56+00:00,['1184848271581294595'],@PUBGEsports Please advertise PGC more @TheJakerPUBG,,please advertise pgc,advertise pgc 
+1.1847790648145142e+18,2019-10-17 10:31:55+00:00,['1184779064814514177'],@lyssamecca @ayosworIdd @TanaySuri I am dying,,dying,
+1.1845833591644897e+18,2019-10-16 21:34:15+00:00,['1184583359164489729'],@TanaySuri @TheTiaTutt @GoonerMaxwell Ahahahaha,,ahahahaha,ahahahaha 
+1.182983684259025e+18,2019-10-12 11:37:43+00:00,['1182983684259024896'],@TanaySuri Classic,,classic,
+1.181928495984849e+18,2019-10-09 13:44:47+00:00,['1181928495984848896'],#BoycottBlizzard,,,nan 
+1.1812807768826757e+18,2019-10-07 18:50:59+00:00,['1181280776882675712'],@WJacky101 Yeah!,,yeah,yeah 
+1.180929799444947e+18,2019-10-06 19:36:19+00:00,['1180929799444946944'],"@pansy @PUBG @FaZeClan Thanks for your awesome casting Lauren, looking forward to the next one!",,thanks awesome casting lauren looking forward next one,one 
+1.1807483997311836e+18,2019-10-06 07:35:30+00:00,['1180748399731183617'],@Liquid_ibiza Love you guys #LetsGoLiquid,,love guy,love guy 
+1.1804311032425103e+18,2019-10-05 10:34:41+00:00,['1180431103242510337'],@RoboDanjal One thing that has been really bugging me and I think lots of other people for a few patches is random stuttering/frame drops which happens quite regularly for no apparent reason (not a hardware thing since it didn't happen before) - is the team aware of is? Thanks :),,one thing really bugging think lot people patch random stutteringframe drop happens quite regularly apparent reason hardware thing since happen team aware thanks,thing lot drop reason hardware thing happen team 
+1.180422299222233e+18,2019-10-05 09:59:41+00:00,['1180422299222233088'],"@RoboDanjal Hey Dan, just wanted to let you know I think you guys have done really well with the loot spawning in late, I've definitely noticed a difference since the last patch :)",,hey dan wanted let know think guy done really well loot spawning late i've definitely noticed difference since last patch,hey dan let i difference patch 
+1.1779914133147976e+18,2019-09-28 17:00:13+00:00,['1177991413314797570'],@SkySportsPL @SkySports @TanaySuri The cross from Mahrez,,cross mahrez,cross mahrez 
+1.1766264817972593e+18,2019-09-24 22:36:28+00:00,['1176626481797259266'],@ThatDamnHoare @AFCBeef Nelson has absolutely no place in our best XI,,nelson absolutely place best,nelson place 
+1.174950142278951e+18,2019-09-20 07:35:18+00:00,['1174950142278950912'],@WellKnownAlias @WJacky101 This is just not true,,true,
+1.1746699564049572e+18,2019-09-19 13:01:56+00:00,['1174669956404957184'],"@JimMFelton @TanaySuri ""We're either a democracy or we're not"" You're either alive or you're not",,we're either democracy we're either alive,democracy 
+1.1743963573581169e+18,2019-09-18 18:54:45+00:00,['1174396357358116865'],@MrProWestie Any chance you can share it? :),,chance share,chance share 
+1.1742330432105185e+18,2019-09-18 08:05:48+00:00,['1174233043210518529'],@TanaySuri @vazztheweirdo Funny,,funny,funny 
+1.1731967476922696e+18,2019-09-15 11:27:56+00:00,['1173196747692269568'],"@WJacky101 Bass, drums, keyboard.. anything really, depends what you want haha",,bass drum keyboard anything really depends want haha,bass drum keyboard anything haha 
+1.173165112083067e+18,2019-09-15 09:22:13+00:00,['1173165112083066880'],@AFCMatthew @TanaySuri Fuck me,,fuck,fuck 
+1.172543106547368e+18,2019-09-13 16:10:36+00:00,['1172543106547367936'],@TanaySuri In before he doesn't,,,nan 
+1.1722335614889943e+18,2019-09-12 19:40:34+00:00,['1172233561488994310'],@twcuddleston At least you didn't do something silly like medicine and have 6 years' worth of debt accumulating 🙃,,least something silly like medicine years' worth debt accumulating,something medicine debt accumulating 
+1.1713317208655503e+18,2019-09-10 07:56:59+00:00,['1171331720865550337'],@ProgressBar201X Nice.,,nice,
+1.1707629975827825e+18,2019-09-08 18:17:05+00:00,['1170762997582782471'],@TanaySuri Absolutely,,absolutely,
+1.1695581835993866e+18,2019-09-05 10:29:34+00:00,['1169558183599386624'],@minliangtan London!,,london,london 
+1.1692515667774587e+18,2019-09-04 14:11:11+00:00,['1169251566777458689'],@TanaySuri @robdelaney @UKDemockery Incredible,,incredible,
+1.1682550920820736e+18,2019-09-01 20:11:33+00:00,['1168255092082073600'],@thinnd @Hawkinz @PUBG I NEED THIS,,need,need 
+1.167408251576705e+18,2019-08-30 12:06:31+00:00,['1167408251576705024'],"@RoboDanjal Okay will do, sorry - thanks!",,okay sorry thanks,okay sorry 
+1.1674047790453637e+18,2019-08-30 11:52:43+00:00,['1167404779045363713'],"@RoboDanjal It has, but what I mean is before today I had premium, then today for some reason it was no longer active, so I had to buy it again. If I request a refund won't I lose the premium pass?",,mean today premium today reason longer active buy request refund lose premium pas,mean today premium today reason buy request refund premium pas 
+1.1674028160649503e+18,2019-08-30 11:44:55+00:00,['1167402816064950274'],"@RoboDanjal It's all fixed for me now, thanks for your help! Although I did have to buy the season pass again..should I sort this out through Steam or PUBG Support?",,fixed thanks help although buy season pas againshould sort steam pubg support,buy season pas steam pubg support 
+1.1673516385265172e+18,2019-08-30 08:21:33+00:00,['1167351638526517248'],"@RoboDanjal Hey Dan, something very peculiar has happened this morning. My survivor pass was somehow rescinded, leading me to buying it again, then attempting to claim all my rewards back, but now when I go into customise none of them are there for me to equip?",,hey dan something peculiar happened morning survivor pas somehow rescinded leading buying attempting claim reward back customise none equip,hey something morning survivor pas somehow buying claim reward customise none equip 
+1.1664953206012436e+18,2019-08-27 23:38:51+00:00,['1166495320601243650'],"@MrProWestie Galicia. No cover whatsoever, absolute snipe feat, no fun to play",,galicia cover whatsoever absolute snipe feat fun play,galicia cover snipe feat fun play 
+1.166465040121258e+18,2019-08-27 21:38:32+00:00,['1166465040121257984'],@TanaySuri Sznnnn,,sznnnn,sznnnn 
+1.1660478768516874e+18,2019-08-26 18:00:52+00:00,['1166047876851687425'],"@twcuddleston I did that once, it's one of the most vile thing I've ever tasted",,one vile thing i've ever tasted,thing i 
+1.1660182517316895e+18,2019-08-26 16:03:09+00:00,['1166018251731689473'],@TanaySuri Icon,,icon,icon 
+1.165027632146256e+18,2019-08-23 22:26:47+00:00,['1165027632146255872'],@Liquid_ibiza Happy birthday to my favourite player from my favourite team!,,happy birthday favourite player favourite team,birthday player favourite team 
+1.1638143061246648e+18,2019-08-20 14:05:27+00:00,['1163814306124664834'],@NVIDIAGeForceUK Would look even better in my PC #RTXOn,,would look even better,
+1.1637816036440596e+18,2019-08-20 11:55:30+00:00,['1163781603644059649'],@NVIDIAGeForce @Razer Sick #RTXOn,,sick,sick 
+1.1630163221854044e+18,2019-08-18 09:14:33+00:00,['1163016322185404417'],@Drift0r @PUBG What I'd give to have one of these :( @RoboDanjal Pleaaase :D,,i'd give one pleaaase,i pleaaase 
+1.1624247345896243e+18,2019-08-16 18:03:48+00:00,['1162424734589624320'],"@Caaaymus Weapons, charms, weapon stickers, parachutes, gloves. Anything that people actually use and will spend money on, not useless items such as the crowbar that nobody has any use. That won't engage people with PUBG esports",,weapon charm weapon sticker parachute glove anything people actually use spend money useless item crowbar nobody use engage people pubg esports,weapon charm weapon sticker parachute anything money item crowbar nobody engage 
+1.1623422300923904e+18,2019-08-16 12:35:57+00:00,['1162342230092390400'],@TheJakerPUBG @PLAYERUNKNOWN Good,,good,
+1.1621475363139666e+18,2019-08-15 23:42:18+00:00,['1162147536313966593'],@bomanilive @Sacriel42 I have this and it's tremendous,,tremendous,
+1.161966663912317e+18,2019-08-15 11:43:35+00:00,['1161966663912316928'],@joelcomm Evil Oats,,evil oat,oat 
+1.161589545915302e+18,2019-08-14 10:45:03+00:00,['1161589545915301889'],@Liquid_ibiza @TheNameIsToby @PlayerIgn @ATNIGN @TheJakerPUBG Take notice,,take notice,notice 
+1.161587838254801e+18,2019-08-14 10:38:16+00:00,['1161587838254800896'],@Hawkinz @kritikalmotion THANK YOU SO MUCH 😄😄😄,,thank much,thank 
+1.161433818252923e+18,2019-08-14 00:26:15+00:00,['1161433818252922880'],"@Cboyle6245 @TheVancu @MachinePix @SpecstheFox @UtahDWR Ahahah, I haven't laughed as hard at anything in a long time, you win the internet today!",,ahahah laughed hard anything long time win internet today,anything time internet today 
+1.1605564450222612e+18,2019-08-11 14:19:53+00:00,['1160556445022261248'],Brilliant from AMN,,brilliant amn,brilliant amn 
+1.1605407502009385e+18,2019-08-11 13:17:31+00:00,['1160540750200938501'],Mkhitaryan and Xhaka are just not good enough.,,mkhitaryan xhaka good enough,
+1.1605357705219195e+18,2019-08-11 12:57:44+00:00,['1160535770521919491'],"#COYG, been far too long",,far long,
+1.159353477476356e+18,2019-08-08 06:39:43+00:00,['1159353477476356096'],@WJacky101 Happy birthday!!,,happy birthday,birthday 
+1.1592239764277535e+18,2019-08-07 22:05:07+00:00,['1159223976427753473'],@twcuddleston Yessss,,yes,
+1.1592237493397545e+18,2019-08-07 22:04:13+00:00,['1159223749339754496'],@MrProWestie Happy birthday!,,happy birthday,birthday 
 1.1584697620007854e+18,2019-08-05 20:08:09+00:00,['1158469762000785408'],"@ScanComputers @CORSAIR Amazing PC, big thank you to @CORSAIR and
- #HydroX",,amazing big thank
+ #HydroX",,amazing big thank,thank 
 1.1584692950783017e+18,2019-08-05 20:06:17+00:00,['1158469295078301696'],"THANK YOU @CORSAIR!!! WIN a £3500 3XS HYDRO X watercooled gaming PC in the @Scancomputers weekly #competition! free and open worldwide! 
  Enter here:  https://t.co/ooUbQVNerz  
-#giveaway #hydrox #corsair #lovescan #win #winit #gaming #gamingpc #pcmr",,thank win hydro watercooled gaming weekly free open worldwide enter
-1.1584688814696448e+18,2019-08-05 20:04:39+00:00,['1158468881469644806'],"@ScanComputers @LGUK Amazing, thanks @lguk",,amazing thanks
+#giveaway #hydrox #corsair #lovescan #win #winit #gaming #gamingpc #pcmr",,thank win hydro watercooled gaming weekly free open worldwide enter,thank win hydro worldwide enter 
+1.1584688814696448e+18,2019-08-05 20:04:39+00:00,['1158468881469644806'],"@ScanComputers @LGUK Amazing, thanks @lguk",,amazing thanks,
 1.1584683799021732e+18,2019-08-05 20:02:39+00:00,['1158468379902173187'],"#WIN @LGUK 32"" Quad HD 144Hz G-Sync Gaming Monitor in the @ScanComputers weekly #giveaway. Open WORLDWIDE and totally FREE!  Enter here: https://t.co/ooUbQVNerz
-#competition #Winit #gaming #PCMR #PCGaming #LG",,quad gsync gaming monitor weekly open worldwide totally free enter
-1.1584645277694484e+18,2019-08-05 19:47:21+00:00,['1158464527769448455'],"@RoboDanjal @Hawkinz Hey guys, quick question - is it intended for the BRDM (and players inside it) to take a huge amount of damage when hitting a tree (eg)? It seems vastly more than in a normal vehicle. Happened to me, seen it on @Fugglet_tv and a @WTFmoses videos as well",,hey guy quick question intended brdm player inside take huge amount damage hitting tree seems vastly normal vehicle happened seen video well
-1.1581083384392417e+18,2019-08-04 20:11:59+00:00,['1158108338439241728'],@fazalabul @jedicath @TanaySuri wtf,,wtf
-1.1574207342701158e+18,2019-08-02 22:39:41+00:00,['1157420734270115845'],@Badham11 @TanaySuri ahahahaha,,ahahahaha
-1.157227362616062e+18,2019-08-02 09:51:18+00:00,['1157227362616061953'],"@RoboDanjal @Hawkinz No problem, thanks for your swift replies!",,problem thanks swift reply
-1.157224118242222e+18,2019-08-02 09:38:24+00:00,['1157224118242222080'],@RoboDanjal @Hawkinz Part two https://t.co/YFHpP7l5KV,,part two
-1.1572205253970698e+18,2019-08-02 09:24:08+00:00,['1157220525397069824'],@RoboDanjal @Hawkinz Here's one that happened last night https://t.co/oWA4reMM4b,,here's one happened last night
-1.1565576104615977e+18,2019-07-31 13:29:56+00:00,['1156557610461597696'],"@RoboDanjal @Hawkinz Yes, that's exactly what I mean, and it stays when I spectate different players. It's on PC. I'll try and clip it and send it to you when it next happens!",,yes that's exactly mean stay spectate different player i'll try clip send next happens
-1.1565312762807378e+18,2019-07-31 11:45:18+00:00,['1156531276280737792'],"@Hawkinz @RoboDanjal Hey guys, wondering whether you were aware of a bug when spectating teammates post-death where you can hear multiple players' audio? Happened to me for a few weeks now, makes feeding sound information they might not hear quite difficult",,hey guy wondering whether aware bug spectating teammate postdeath hear multiple players' audio happened week make feeding sound information might hear quite difficult
-1.1549135111407124e+18,2019-07-27 00:36:52+00:00,['1154913511140712448'],"@Hawkinz Just wanted to say I really appreciate the work you and @RoboDanjal do with dealing with the community's worries, you manage to stay calm and communicate as much as you can, so thank you! :)",,wanted say really appreciate work dealing community's worry manage stay calm communicate much thank
-1.1544077977921536e+18,2019-07-25 15:07:21+00:00,['1154407797792153600'],@TanaySuri I RTd this lol,,rtd lol
-1.154032398092231e+18,2019-07-24 14:15:39+00:00,['1154032398092230657'],"@Dave2D Hey Dave! I was just wondering, will you be reviewing the new Alienware m15? (The latest, mini-Area 51m design) It's very interesting, and I'd love to hear your thoughts on it :)",,hey dave wondering reviewing new alienware latest miniarea design interesting i'd love hear thought
-1.1526772230082806e+18,2019-07-20 20:30:40+00:00,['1152677223008280577'],@pansy @TheSimms You two are the best!,,two best
-1.151961652629254e+18,2019-07-18 21:07:15+00:00,['1151961652629254145'],"@twcuddleston If you have time to drive, Milford/Doubtful sounds are stunning. This was my view kayaking on Doubtful https://t.co/Dkv76PERuk",,time drive milforddoubtful sound stunning view kayaking doubtful
-1.151961044337746e+18,2019-07-18 21:04:50+00:00,['1151961044337745943'],"@twcuddleston Hop over to Rangitoto Island, just off Auckland, lovely day out there, nice walk up to a great view of Auckland. Fergburger in Queenstown has amazing burgers, also any activity you can think of is in Queenstown, awesome place. Beautiful as well. The lake is stunning",,hop rangitoto island auckland lovely day nice walk great view auckland fergburger queenstown amazing burger also activity think queenstown awesome place beautiful well lake stunning
-1.1518368982618972e+18,2019-07-18 12:51:31+00:00,['1151836898261897217'],@GhostBALLOC @PUBG 100% the Mirado,,mirado
-1.1514227562375988e+18,2019-07-17 09:25:52+00:00,['1151422756237598720'],@shivang1996 @PUBG_Support One of the studio heads said they're working on it,,one studio head said they're working
-1.1504707425695662e+18,2019-07-14 18:22:54+00:00,['1150470742569566208'],Djokovic did not deserve that. Absolute bottling by Federer,,djokovic deserve absolute bottling federer
-1.149355226731692e+18,2019-07-11 16:30:14+00:00,['1149355226731692033'],@TanaySuri Hero,,hero
-1.1475666182407904e+18,2019-07-06 18:02:57+00:00,['1147566618240790528'],@spazocin Everything okay?,,everything okay
-1.1467631946288252e+18,2019-07-04 12:50:26+00:00,['1146763194628825088'],@twcuddleston I SWEAR I saw a woman the other day with this exact answer,,swear saw woman day exact answer
-1.1465041086580367e+18,2019-07-03 19:40:55+00:00,['1146504108658036736'],@TanaySuri Ahahahaha,,ahahahaha
-1.145688880236114e+18,2019-07-01 13:41:29+00:00,['1145688880236113920'],"@WJacky101 Yes!!! Happens to me so often, it's incredibly frustrating",,yes happens often incredibly frustrating
-1.1456888172964454e+18,2019-07-01 13:41:14+00:00,['1145688817296445440'],"@TheSaiint @WJacky101 No it isn't, because this happens to me often",,happens often
-1.1453958465587324e+18,2019-06-30 18:17:04+00:00,['1145395846558732288'],@pansy Yaaaaas,,yaaaaas
-1.14506390728072e+18,2019-06-29 20:18:04+00:00,['1145063907280719878'],@scratchpadMD @TanaySuri Your hayfever,,hayfever
-1.144865625371816e+18,2019-06-29 07:10:10+00:00,['1144865625371815936'],@Fugglet_tv Congratulations!!,,congratulation
-1.1445793612171756e+18,2019-06-28 12:12:39+00:00,['1144579361217175554'],@twcuddleston Relatable,,relatable
-1.141784813445296e+18,2019-06-20 19:08:07+00:00,['1141784813445296129'],@MrProWestie Witcher 3??,,witcher
-1.1413362776918304e+18,2019-06-19 13:25:48+00:00,['1141336277691830272'],@Dan_Rigden @millsytrfc @SkyNewsBreak @SadiqKhan It was clearly sarcasm...,,clearly sarcasm
-1.1409079439127716e+18,2019-06-18 09:03:45+00:00,['1140907943912771584'],@ScanComputers 500GB Samsung 970 Evo Plus boot and 1TB Samsung 850 Evo for more games :),,samsung evo plus boot samsung evo game
-1.1399715215464572e+18,2019-06-15 19:02:45+00:00,['1139971521546457088'],@fox6now @TanaySuri Replies are great,,reply great
-1.1398738693077524e+18,2019-06-15 12:34:42+00:00,['1139873869307752448'],"@Higari779 @911GlockDoc +1. Walk through that whole park, it's beautiful",,walk whole park beautiful
-1.1398735430790226e+18,2019-06-15 12:33:25+00:00,['1139873543079022593'],"@911GlockDoc Oh and get the Rome Pass, it's 100% worth it - free travel, skip the queues for all the big attractions",,get rome pas worth free travel skip queue big attraction
-1.1398732814466784e+18,2019-06-15 12:32:22+00:00,['1139873281446678528'],@911GlockDoc Trastevere has the best pizza I've ever eaten. Two big slices for €5 and it was incredible.,,trastevere best pizza i've ever eaten two big slice incredible
-1.1370740632627896e+18,2019-06-07 19:09:17+00:00,['1137074063262789632'],@TanaySuri Lmfao,,lmfao
-1.135932375827923e+18,2019-06-04 15:32:37+00:00,['1135932375827922944'],@PLAYERUNKNOWN Congratulations!,,congratulation
-1.1326546102572728e+18,2019-05-26 14:27:57+00:00,['1132654610257272832'],@imjustvicky76 @ClareGerada Happy birthday!,,happy birthday
-1.1323816097752924e+18,2019-05-25 20:23:09+00:00,['1132381609775292417'],@GaziGhost @DalgIish @TanaySuri So Brexit,,brexit
-1.131302821373055e+18,2019-05-22 20:56:25+00:00,['1131302821373054982'],@TanaySuri Yaaaas,,yaaaas
-1.1308192477672612e+18,2019-05-21 12:54:52+00:00,['1130819247767261184'],@PartWelsh @jackfrags So fun!!,,fun
-1.1304900071715348e+18,2019-05-20 15:06:35+00:00,['1130490007171534848'],@bobthe_dolphin @Nigel_Farage Underrated,,underrated
-1.1304343726943684e+18,2019-05-20 11:25:31+00:00,['1130434372694368256'],"@JehJ96 @murphyluke10 Based on the books.. and not 7, 5. 6 and 7 were silly",,based book silly
-1.1303086351066972e+18,2019-05-20 03:05:53+00:00,['1130308635106697216'],@jackfrags Bloody awful.,,bloody awful
-1.130301636931457e+18,2019-05-20 02:38:04+00:00,['1130301636931457025'],That is the WORST episode of anything I've ever watched. D&amp;D should never be employed EVER again. I have no words. #GameofThrones,,worst episode anything i've ever watched dampd never employed ever word
-1.1301919811189924e+18,2019-05-19 19:22:20+00:00,['1130191981118992385'],@TanaySuri Accurate haha,,accurate haha
-1.1297895488782828e+18,2019-05-18 16:43:13+00:00,['1129789548878282752'],@MrProWestie The notion that your opinion is ruining the game for him is thoroughly amusing 😂,,notion opinion ruining game thoroughly amusing
-1.1297164295514848e+18,2019-05-18 11:52:40+00:00,['1129716429551484928'],@NVIDIAGeForceUK Dark Souls 3,,dark soul
-1.1297016178576466e+18,2019-05-18 10:53:49+00:00,['1129701617857646593'],The Walt Disney Company: Remove David Benioff and D.B. Weiss from working on any future Star Wars films. - Sign the Petition! https://t.co/b9qfmUoGoc via @UKChange,,walt disney company remove david benioff wei working future star war film sign petition via
-1.1283364675022766e+18,2019-05-14 16:29:11+00:00,['1128336467502276608'],@Hawkinz @RoboDanjal @toonerDev @_psmk_ Would somebody be able to have a look at a fix for weapons clipping through objects? I just got killed by somebody who couldn't possibly have known I was there until I looked at the replay and saw my M24 sticking through the wall.. Thanks! https://t.co/yooSkxEHP4,,would somebody able look fix weapon clipping object got killed somebody possibly known looked replay saw sticking wall thanks
-1.1265846447224628e+18,2019-05-09 20:28:04+00:00,['1126584644722462720'],AINSLEY,,ainsley
-1.126231108511834e+18,2019-05-08 21:03:15+00:00,['1126231108511834113'],@MrProWestie Disgusting,,disgusting
-1.126230666851627e+18,2019-05-08 21:01:29+00:00,['1126230666851627011'],I feel sick,,feel sick
-1.1262305901377454e+18,2019-05-08 21:01:11+00:00,['1126230590137745416'],I'm done.,,i'm done
-1.1258669722631414e+18,2019-05-07 20:56:18+00:00,['1125866972263141379'],Absolute travesty,,absolute travesty
-1.1258642247004692e+18,2019-05-07 20:45:23+00:00,['1125864224700469248'],Worst Barcelona performance I've ever seen,,worst barcelona performance i've ever seen
-1.125081331094913e+18,2019-05-05 16:54:26+00:00,['1125081331094913025'],Anthony Taylor is a disgrace to refereeing,,anthony taylor disgrace refereeing
-1.124344221677314e+18,2019-05-03 16:05:26+00:00,['1124344221677314048'],"@ScanComputers PUBG. Highest skill ceiling, most rewarding",,pubg highest skill ceiling rewarding
-1.1242589577223578e+18,2019-05-03 10:26:37+00:00,['1124258957722357765'],@ScanComputers @ASUS_ROGUK Would be so amazing to win! Thank you @ASUS_ROGUK :),,would amazing win thank
-1.1242585835022582e+18,2019-05-03 10:25:08+00:00,['1124258583502258176'],DONT FORGET!!!! LAST CHANCE to #WIN this AMAZING RTX 2080 Ti PC! @ScanComputers have teamed up with @ASUS_ROGUK for this EPIC COD build! Already entered? New entry methods added to help you increase your chances! Open WORLDWIDE - https://t.co/ooUbQVNerz,,dont forget last chance amazing rtx teamed epic cod build already entered new entry method added help increase chance open worldwide
-1.124007254385152e+18,2019-05-02 17:46:27+00:00,['1124007254385152000'],@TanaySuri Ahahahaha,,ahahahaha
-1.1235414428221152e+18,2019-05-01 10:55:29+00:00,['1123541442822115331'],@TanaySuri Looool,,looool
-1.1224637834677944e+18,2019-04-28 11:33:15+00:00,['1122463783467794433'],Can't wait for Mustafi to leave.,,can't wait mustafi leave
-1.1218448370645564e+18,2019-04-26 18:33:46+00:00,['1121844837064556546'],@WJacky101 Congratulations! Best of luck with it!,,congratulation best luck
-1.1211349764545496e+18,2019-04-24 19:33:02+00:00,['1121134976454549510'],Christ.,,christ
-1.1211318335115633e+18,2019-04-24 19:20:33+00:00,['1121131833511563264'],FUCK OFF LACAZETTE,,fuck lacazette
-1.1210357885636896e+18,2019-04-24 12:58:54+00:00,['1121035788563689473'],@theJeremyVine @gunnerpunner @TanaySuri Dying,,dying
-1.1206269287576372e+18,2019-04-23 09:54:14+00:00,['1120626928757637121'],@MrDtAFC @AFTVMedia Mkhitaryan???,,mkhitaryan
-1.120625747478102e+18,2019-04-23 09:49:33+00:00,['1120625747478102016'],@MrProWestie @NVIDIAGeForceUK 16xx mobile GPUs I think.. Can see a 16 flash right at the end,,mobile gpus think see flash right end
-1.1200057479565066e+18,2019-04-21 16:45:53+00:00,['1120005747956506625'],WHEN WILL IWOBI LEARN TO SHOOT,,iwobi learn shoot
-1.1199848041397617e+18,2019-04-21 15:22:40+00:00,['1119984804139761664'],I HATE LACAZETTE SO MUCH,,hate lacazette much
-1.1199687858369905e+18,2019-04-21 14:19:01+00:00,['1119968785836990464'],@MrProWestie Ole's at the wheel 😂,,ole's wheel
-1.1198655324828262e+18,2019-04-21 07:28:43+00:00,['1119865532482826240'],@WJacky101 Happy birthday!!,,happy birthday
-1.1192254486370508e+18,2019-04-19 13:05:15+00:00,['1119225448637050880'],@TanaySuri LOL,,lol
-1.1186202226745672e+18,2019-04-17 21:00:18+00:00,['1118620222674567172'],@MrProWestie Craziest game I've ever seen. My heart rate...,,craziest game i've ever seen heart rate
-1.1184561800059004e+18,2019-04-17 10:08:27+00:00,['1118456180005900288'],@MrProWestie @elgatogaming YES,,yes
-1.1181293556732846e+18,2019-04-16 12:29:46+00:00,['1118129355673284608'],@stclairashley Grow up.,,grow
-1.1180754557630956e+18,2019-04-16 08:55:36+00:00,['1118075455763095552'],@MrProWestie Do you play PUBG?,,play pubg
-1.117868518404346e+18,2019-04-15 19:13:18+00:00,['1117868518404345858'],ABSOLUTE SCENES,,absolute scene
-1.117867808405119e+18,2019-04-15 19:10:29+00:00,['1117867808405118976'],HAHAHAHAHAHAHA,,hahahahahahaha
-1.1174120973175848e+18,2019-04-14 12:59:39+00:00,['1117412097317584897'],@HotspurRelated @premierleague @TanaySuri I've never seen so many Ls,,i've never seen many
-1.1170150367011512e+18,2019-04-13 10:41:52+00:00,['1117015036701151232'],@MrProWestie Looking at PC parts for my first build :) What is your clock??,,looking part first build clock
-1.1164159631199804e+18,2019-04-11 19:01:22+00:00,['1116415963119980544'],#COYG,,
-1.1163699586725233e+18,2019-04-11 15:58:33+00:00,['1116369958672523264'],@ScanComputers @CallofDutyUK @ASUS_ROGUK What an awesome build. Thanks @ASUS_ROGUK and everyone else who's helped!,,awesome build thanks everyone else who's helped
-1.1153640823145676e+18,2019-04-08 21:21:34+00:00,['1115364082314567680'],"@MrProWestie @NVIDIAGeForceUK @Stuzy Lucky, enjoy it!!",,lucky enjoy
-1.115211298831315e+18,2019-04-08 11:14:27+00:00,['1115211298831314944'],WAIT WHAT?!! UNBELIEVABLE!! #WIN a @callofduty @asus_ROGUK PC worth over £3800 in the @ScanComputers #Competition!! Free and open worldwide! https://t.co/ooUbQVNerz,,wait unbelievable worth free open worldwide
-1.115165728313942e+18,2019-04-08 08:13:23+00:00,['1115165728313942016'],@MrProWestie Good luck everyone!,,good luck everyone
-1.1145753811835126e+18,2019-04-06 17:07:33+00:00,['1114575381183512576'],@gunnerpunner @TanaySuri What even...,,even
-1.1144632743246438e+18,2019-04-06 09:42:04+00:00,['1114463274324643840'],"@ScanComputers @CallofDuty @ASUS_ROGUK Incredible giveaway, you guys are awesome!",,incredible giveaway guy awesome
-1.1144611628365046e+18,2019-04-06 09:33:41+00:00,['1114461162836504576'],@ScanComputers Sweet! Would be so nice to game on,,sweet would nice game
-1.1144602869274296e+18,2019-04-06 09:30:12+00:00,['1114460286927429633'],"LAST CHANCE TO GET ON THIS! #WIN a gaming PC worth £1500 from @ScanComputers! Feat a @Scan_3XS PC with @NVIDIAGeForceUK GPU, @Asus_ROGUK 144Hz G-Sync monitor &amp; @Corsair peripherals!!  Enter here: https://t.co/ooUbQVNerz #ApexLegends #Fortnite #PUBG #gaming #borderlands3",,last chance get gaming worth feat gpu gsync monitor amp peripheral enter
-1.1144602528906528e+18,2019-04-06 09:30:04+00:00,['1114460252890652672'],@ScanComputers Amazing giveaway,,amazing giveaway
-1.1141184206294712e+18,2019-04-05 10:51:45+00:00,['1114118420629471232'],@MrProWestie @NVIDIAGeForceUK How has it been using this beast?,,using beast
-1.1135574151050486e+18,2019-04-03 21:42:31+00:00,['1113557415105048576'],@OSUfreak82 @sammy_scroggss @TanaySuri The replies are lit,,reply lit
-1.1130403852851978e+18,2019-04-02 11:28:01+00:00,['1113040385285197824'],@svmwhxt I was joking lol,,joking lol
-1.1128296099833324e+18,2019-04-01 21:30:29+00:00,['1112829609983332354'],@TanaySuri Looooool,,looooool
-1.1128114957028844e+18,2019-04-01 20:18:30+00:00,['1112811495702884352'],Referees are absolutely atrocious. It's unbelievable.,,referee absolutely atrocious unbelievable
-1.1127996387157606e+18,2019-04-01 19:31:23+00:00,['1112799638715760641'],RAMSEEEEY,,ramseeeey
-1.1113671120759562e+18,2019-03-28 20:39:02+00:00,['1111367112075956224'],@auturgist @WJacky101 Where have you landed that you've noticed it?,,landed noticed
-1.1113663098272196e+18,2019-03-28 20:35:51+00:00,['1111366309827219459'],@brentashcroft @starwars @HamillHimself @TanaySuri Ffs,,ffs
-1.1093495847557448e+18,2019-03-23 07:02:06+00:00,['1109349584755744768'],"@MrProWestie Ahhh you're so lucky, it's amazing! Really interesting article on their website about the construction process :) https://t.co/TtXGqEQ2O0",,ahhh lucky amazing really interesting article website construction process
-1.109205460425552e+18,2019-03-22 21:29:24+00:00,['1109205460425551873'],@ScanGaming Building yourself is so much more rewarding and enjoyable :),,building much rewarding enjoyable
-1.109127186110468e+18,2019-03-22 16:18:22+00:00,['1109127186110468096'],@WJacky101 Apparently the subtitles on your video thinks the Beryl sounds like clapping 😂 https://t.co/TD0kez1ooc,,apparently subtitle video think beryl sound like clapping
-1.1079528382007092e+18,2019-03-19 10:31:56+00:00,['1107952838200709120'],@TwitchNecro @TanaySuri does,,doe
-1.1076758454880052e+18,2019-03-18 16:11:15+00:00,['1107675845488005121'],@BattleNonSense Razer Phone 2,,razer phone
-1.1072695348456776e+18,2019-03-17 13:16:43+00:00,['1107269534845677569'],@TanaySuri Ffsss,,ffsss
-1.106701217009451e+18,2019-03-15 23:38:26+00:00,['1106701217009451008'],"@Losssyy I always think it's really silly when I see comments like ""Ffs we don't need another battle royale, they're all the same"". It's like saying we already have a few FPS, no need to make any others ever...",,always think really silly see comment like ffs need another battle royale they're like saying already fps need make others ever
-1.1054077945623716e+18,2019-03-12 09:58:50+00:00,['1105407794562371584'],@FaZeFuzzface @TanaySuri Dying,,dying
-1.104810978049446e+18,2019-03-10 18:27:18+00:00,['1104810978049445889'],YEEEEEEEEES,,yeeeeeeeees
-1.1046641980999352e+18,2019-03-10 08:44:03+00:00,['1104664198099935232'],@Fugglet_tv Congrats!!,,congrats
-1.1041123938341152e+18,2019-03-08 20:11:22+00:00,['1104112393834115073'],Oh WOW!!!! - a 120Hz #gaming projector for @Optomauk and you can #WIN it in the @Scancomputers weekly #Competition! 100 inch gaming anyone??!! Free and open worldwide! Enter here: https://t.co/pU7DWKuJcs,,wow projector weekly inch gaming anyone free open worldwide enter
+#competition #Winit #gaming #PCMR #PCGaming #LG",,quad gsync gaming monitor weekly open worldwide totally free enter,quad gsync worldwide enter 
+1.1584645277694484e+18,2019-08-05 19:47:21+00:00,['1158464527769448455'],"@RoboDanjal @Hawkinz Hey guys, quick question - is it intended for the BRDM (and players inside it) to take a huge amount of damage when hitting a tree (eg)? It seems vastly more than in a normal vehicle. Happened to me, seen it on @Fugglet_tv and a @WTFmoses videos as well",,hey guy quick question intended brdm player inside take huge amount damage hitting tree seems vastly normal vehicle happened seen video well,hey guy question brdm player amount damage vehicle video 
+1.1581083384392417e+18,2019-08-04 20:11:59+00:00,['1158108338439241728'],@fazalabul @jedicath @TanaySuri wtf,,wtf,wtf 
+1.1574207342701158e+18,2019-08-02 22:39:41+00:00,['1157420734270115845'],@Badham11 @TanaySuri ahahahaha,,ahahahaha,ahahahaha 
+1.157227362616062e+18,2019-08-02 09:51:18+00:00,['1157227362616061953'],"@RoboDanjal @Hawkinz No problem, thanks for your swift replies!",,problem thanks swift reply,problem reply 
+1.157224118242222e+18,2019-08-02 09:38:24+00:00,['1157224118242222080'],@RoboDanjal @Hawkinz Part two https://t.co/YFHpP7l5KV,,part two,part 
+1.1572205253970698e+18,2019-08-02 09:24:08+00:00,['1157220525397069824'],@RoboDanjal @Hawkinz Here's one that happened last night https://t.co/oWA4reMM4b,,here's one happened last night,night 
+1.1565576104615977e+18,2019-07-31 13:29:56+00:00,['1156557610461597696'],"@RoboDanjal @Hawkinz Yes, that's exactly what I mean, and it stays when I spectate different players. It's on PC. I'll try and clip it and send it to you when it next happens!",,yes that's exactly mean stay spectate different player i'll try clip send next happens,player i clip 
+1.1565312762807378e+18,2019-07-31 11:45:18+00:00,['1156531276280737792'],"@Hawkinz @RoboDanjal Hey guys, wondering whether you were aware of a bug when spectating teammates post-death where you can hear multiple players' audio? Happened to me for a few weeks now, makes feeding sound information they might not hear quite difficult",,hey guy wondering whether aware bug spectating teammate postdeath hear multiple players' audio happened week make feeding sound information might hear quite difficult,hey guy bug postdeath audio week sound information 
+1.1549135111407124e+18,2019-07-27 00:36:52+00:00,['1154913511140712448'],"@Hawkinz Just wanted to say I really appreciate the work you and @RoboDanjal do with dealing with the community's worries, you manage to stay calm and communicate as much as you can, so thank you! :)",,wanted say really appreciate work dealing community's worry manage stay calm communicate much thank,work community worry manage communicate thank 
+1.1544077977921536e+18,2019-07-25 15:07:21+00:00,['1154407797792153600'],@TanaySuri I RTd this lol,,rtd lol,rtd lol 
+1.154032398092231e+18,2019-07-24 14:15:39+00:00,['1154032398092230657'],"@Dave2D Hey Dave! I was just wondering, will you be reviewing the new Alienware m15? (The latest, mini-Area 51m design) It's very interesting, and I'd love to hear your thoughts on it :)",,hey dave wondering reviewing new alienware latest miniarea design interesting i'd love hear thought,hey alienware miniarea design hear thought 
+1.1526772230082806e+18,2019-07-20 20:30:40+00:00,['1152677223008280577'],@pansy @TheSimms You two are the best!,,two best,
+1.151961652629254e+18,2019-07-18 21:07:15+00:00,['1151961652629254145'],"@twcuddleston If you have time to drive, Milford/Doubtful sounds are stunning. This was my view kayaking on Doubtful https://t.co/Dkv76PERuk",,time drive milforddoubtful sound stunning view kayaking doubtful,time drive view doubtful 
+1.151961044337746e+18,2019-07-18 21:04:50+00:00,['1151961044337745943'],"@twcuddleston Hop over to Rangitoto Island, just off Auckland, lovely day out there, nice walk up to a great view of Auckland. Fergburger in Queenstown has amazing burgers, also any activity you can think of is in Queenstown, awesome place. Beautiful as well. The lake is stunning",,hop rangitoto island auckland lovely day nice walk great view auckland fergburger queenstown amazing burger also activity think queenstown awesome place beautiful well lake stunning,hop rangitoto island auckland day walk view amazing burger activity place 
+1.1518368982618972e+18,2019-07-18 12:51:31+00:00,['1151836898261897217'],@GhostBALLOC @PUBG 100% the Mirado,,mirado,mirado 
+1.1514227562375988e+18,2019-07-17 09:25:52+00:00,['1151422756237598720'],@shivang1996 @PUBG_Support One of the studio heads said they're working on it,,one studio head said they're working,studio head 
+1.1504707425695662e+18,2019-07-14 18:22:54+00:00,['1150470742569566208'],Djokovic did not deserve that. Absolute bottling by Federer,,djokovic deserve absolute bottling federer,deserve absolute federer 
+1.149355226731692e+18,2019-07-11 16:30:14+00:00,['1149355226731692033'],@TanaySuri Hero,,hero,hero 
+1.1475666182407904e+18,2019-07-06 18:02:57+00:00,['1147566618240790528'],@spazocin Everything okay?,,everything okay,everything okay 
+1.1467631946288252e+18,2019-07-04 12:50:26+00:00,['1146763194628825088'],@twcuddleston I SWEAR I saw a woman the other day with this exact answer,,swear saw woman day exact answer,woman day answer 
+1.1465041086580367e+18,2019-07-03 19:40:55+00:00,['1146504108658036736'],@TanaySuri Ahahahaha,,ahahahaha,ahahahaha 
+1.145688880236114e+18,2019-07-01 13:41:29+00:00,['1145688880236113920'],"@WJacky101 Yes!!! Happens to me so often, it's incredibly frustrating",,yes happens often incredibly frustrating,
+1.1456888172964454e+18,2019-07-01 13:41:14+00:00,['1145688817296445440'],"@TheSaiint @WJacky101 No it isn't, because this happens to me often",,happens often,
+1.1453958465587324e+18,2019-06-30 18:17:04+00:00,['1145395846558732288'],@pansy Yaaaaas,,yaaaaas,yaaaaas 
+1.14506390728072e+18,2019-06-29 20:18:04+00:00,['1145063907280719878'],@scratchpadMD @TanaySuri Your hayfever,,hayfever,hayfever 
+1.144865625371816e+18,2019-06-29 07:10:10+00:00,['1144865625371815936'],@Fugglet_tv Congratulations!!,,congratulation,congratulation 
+1.1445793612171756e+18,2019-06-28 12:12:39+00:00,['1144579361217175554'],@twcuddleston Relatable,,relatable,
+1.141784813445296e+18,2019-06-20 19:08:07+00:00,['1141784813445296129'],@MrProWestie Witcher 3??,,witcher,witcher 
+1.1413362776918304e+18,2019-06-19 13:25:48+00:00,['1141336277691830272'],@Dan_Rigden @millsytrfc @SkyNewsBreak @SadiqKhan It was clearly sarcasm...,,clearly sarcasm,sarcasm 
+1.1409079439127716e+18,2019-06-18 09:03:45+00:00,['1140907943912771584'],@ScanComputers 500GB Samsung 970 Evo Plus boot and 1TB Samsung 850 Evo for more games :),,samsung evo plus boot samsung evo game,samsung evo boot samsung evo game 
+1.1399715215464572e+18,2019-06-15 19:02:45+00:00,['1139971521546457088'],@fox6now @TanaySuri Replies are great,,reply great,
+1.1398738693077524e+18,2019-06-15 12:34:42+00:00,['1139873869307752448'],"@Higari779 @911GlockDoc +1. Walk through that whole park, it's beautiful",,walk whole park beautiful,walk park beautiful 
+1.1398735430790226e+18,2019-06-15 12:33:25+00:00,['1139873543079022593'],"@911GlockDoc Oh and get the Rome Pass, it's 100% worth it - free travel, skip the queues for all the big attractions",,get rome pas worth free travel skip queue big attraction,travel skip queue attraction 
+1.1398732814466784e+18,2019-06-15 12:32:22+00:00,['1139873281446678528'],@911GlockDoc Trastevere has the best pizza I've ever eaten. Two big slices for €5 and it was incredible.,,trastevere best pizza i've ever eaten two big slice incredible,pizza i slice 
+1.1370740632627896e+18,2019-06-07 19:09:17+00:00,['1137074063262789632'],@TanaySuri Lmfao,,lmfao,lmfao 
+1.135932375827923e+18,2019-06-04 15:32:37+00:00,['1135932375827922944'],@PLAYERUNKNOWN Congratulations!,,congratulation,congratulation 
+1.1326546102572728e+18,2019-05-26 14:27:57+00:00,['1132654610257272832'],@imjustvicky76 @ClareGerada Happy birthday!,,happy birthday,birthday 
+1.1323816097752924e+18,2019-05-25 20:23:09+00:00,['1132381609775292417'],@GaziGhost @DalgIish @TanaySuri So Brexit,,brexit,brexit 
+1.131302821373055e+18,2019-05-22 20:56:25+00:00,['1131302821373054982'],@TanaySuri Yaaaas,,yaaaas,yaaaas 
+1.1308192477672612e+18,2019-05-21 12:54:52+00:00,['1130819247767261184'],@PartWelsh @jackfrags So fun!!,,fun,fun 
+1.1304900071715348e+18,2019-05-20 15:06:35+00:00,['1130490007171534848'],@bobthe_dolphin @Nigel_Farage Underrated,,underrated,
+1.1304343726943684e+18,2019-05-20 11:25:31+00:00,['1130434372694368256'],"@JehJ96 @murphyluke10 Based on the books.. and not 7, 5. 6 and 7 were silly",,based book silly,book 
+1.1303086351066972e+18,2019-05-20 03:05:53+00:00,['1130308635106697216'],@jackfrags Bloody awful.,,bloody awful,bloody 
+1.130301636931457e+18,2019-05-20 02:38:04+00:00,['1130301636931457025'],That is the WORST episode of anything I've ever watched. D&amp;D should never be employed EVER again. I have no words. #GameofThrones,,worst episode anything i've ever watched dampd never employed ever word,episode anything dampd word 
+1.1301919811189924e+18,2019-05-19 19:22:20+00:00,['1130191981118992385'],@TanaySuri Accurate haha,,accurate haha,accurate haha 
+1.1297895488782828e+18,2019-05-18 16:43:13+00:00,['1129789548878282752'],@MrProWestie The notion that your opinion is ruining the game for him is thoroughly amusing 😂,,notion opinion ruining game thoroughly amusing,notion opinion game 
+1.1297164295514848e+18,2019-05-18 11:52:40+00:00,['1129716429551484928'],@NVIDIAGeForceUK Dark Souls 3,,dark soul,soul 
+1.1297016178576466e+18,2019-05-18 10:53:49+00:00,['1129701617857646593'],The Walt Disney Company: Remove David Benioff and D.B. Weiss from working on any future Star Wars films. - Sign the Petition! https://t.co/b9qfmUoGoc via @UKChange,,walt disney company remove david benioff wei working future star war film sign petition via,walt disney company david benioff wei star war film sign petition 
+1.1283364675022766e+18,2019-05-14 16:29:11+00:00,['1128336467502276608'],@Hawkinz @RoboDanjal @toonerDev @_psmk_ Would somebody be able to have a look at a fix for weapons clipping through objects? I just got killed by somebody who couldn't possibly have known I was there until I looked at the replay and saw my M24 sticking through the wall.. Thanks! https://t.co/yooSkxEHP4,,would somebody able look fix weapon clipping object got killed somebody possibly known looked replay saw sticking wall thanks,somebody look weapon somebody replay saw 
+1.1265846447224628e+18,2019-05-09 20:28:04+00:00,['1126584644722462720'],AINSLEY,,ainsley,ainsley 
+1.126231108511834e+18,2019-05-08 21:03:15+00:00,['1126231108511834113'],@MrProWestie Disgusting,,disgusting,
+1.126230666851627e+18,2019-05-08 21:01:29+00:00,['1126230666851627011'],I feel sick,,feel sick,feel 
+1.1262305901377454e+18,2019-05-08 21:01:11+00:00,['1126230590137745416'],I'm done.,,i'm done,i 
+1.1258669722631414e+18,2019-05-07 20:56:18+00:00,['1125866972263141379'],Absolute travesty,,absolute travesty,absolute travesty 
+1.1258642247004692e+18,2019-05-07 20:45:23+00:00,['1125864224700469248'],Worst Barcelona performance I've ever seen,,worst barcelona performance i've ever seen,barcelona performance i 
+1.125081331094913e+18,2019-05-05 16:54:26+00:00,['1125081331094913025'],Anthony Taylor is a disgrace to refereeing,,anthony taylor disgrace refereeing,anthony taylor disgrace 
+1.124344221677314e+18,2019-05-03 16:05:26+00:00,['1124344221677314048'],"@ScanComputers PUBG. Highest skill ceiling, most rewarding",,pubg highest skill ceiling rewarding,pubg skill ceiling rewarding 
+1.1242589577223578e+18,2019-05-03 10:26:37+00:00,['1124258957722357765'],@ScanComputers @ASUS_ROGUK Would be so amazing to win! Thank you @ASUS_ROGUK :),,would amazing win thank,thank 
+1.1242585835022582e+18,2019-05-03 10:25:08+00:00,['1124258583502258176'],DONT FORGET!!!! LAST CHANCE to #WIN this AMAZING RTX 2080 Ti PC! @ScanComputers have teamed up with @ASUS_ROGUK for this EPIC COD build! Already entered? New entry methods added to help you increase your chances! Open WORLDWIDE - https://t.co/ooUbQVNerz,,dont forget last chance amazing rtx teamed epic cod build already entered new entry method added help increase chance open worldwide,dont forget chance rtx build entry method help chance worldwide 
+1.124007254385152e+18,2019-05-02 17:46:27+00:00,['1124007254385152000'],@TanaySuri Ahahahaha,,ahahahaha,ahahahaha 
+1.1235414428221152e+18,2019-05-01 10:55:29+00:00,['1123541442822115331'],@TanaySuri Looool,,looool,looool 
+1.1224637834677944e+18,2019-04-28 11:33:15+00:00,['1122463783467794433'],Can't wait for Mustafi to leave.,,can't wait mustafi leave,
+1.1218448370645564e+18,2019-04-26 18:33:46+00:00,['1121844837064556546'],@WJacky101 Congratulations! Best of luck with it!,,congratulation best luck,congratulation luck 
+1.1211349764545496e+18,2019-04-24 19:33:02+00:00,['1121134976454549510'],Christ.,,christ,christ 
+1.1211318335115633e+18,2019-04-24 19:20:33+00:00,['1121131833511563264'],FUCK OFF LACAZETTE,,fuck lacazette,fuck lacazette 
+1.1210357885636896e+18,2019-04-24 12:58:54+00:00,['1121035788563689473'],@theJeremyVine @gunnerpunner @TanaySuri Dying,,dying,
+1.1206269287576372e+18,2019-04-23 09:54:14+00:00,['1120626928757637121'],@MrDtAFC @AFTVMedia Mkhitaryan???,,mkhitaryan,mkhitaryan 
+1.120625747478102e+18,2019-04-23 09:49:33+00:00,['1120625747478102016'],@MrProWestie @NVIDIAGeForceUK 16xx mobile GPUs I think.. Can see a 16 flash right at the end,,mobile gpus think see flash right end,gpus end 
+1.1200057479565066e+18,2019-04-21 16:45:53+00:00,['1120005747956506625'],WHEN WILL IWOBI LEARN TO SHOOT,,iwobi learn shoot,iwobi learn shoot 
+1.1199848041397617e+18,2019-04-21 15:22:40+00:00,['1119984804139761664'],I HATE LACAZETTE SO MUCH,,hate lacazette much,hate lacazette 
+1.1199687858369905e+18,2019-04-21 14:19:01+00:00,['1119968785836990464'],@MrProWestie Ole's at the wheel 😂,,ole's wheel,ole wheel 
+1.1198655324828262e+18,2019-04-21 07:28:43+00:00,['1119865532482826240'],@WJacky101 Happy birthday!!,,happy birthday,birthday 
+1.1192254486370508e+18,2019-04-19 13:05:15+00:00,['1119225448637050880'],@TanaySuri LOL,,lol,lol 
+1.1186202226745672e+18,2019-04-17 21:00:18+00:00,['1118620222674567172'],@MrProWestie Craziest game I've ever seen. My heart rate...,,craziest game i've ever seen heart rate,game i heart rate 
+1.1184561800059004e+18,2019-04-17 10:08:27+00:00,['1118456180005900288'],@MrProWestie @elgatogaming YES,,yes,
+1.1181293556732846e+18,2019-04-16 12:29:46+00:00,['1118129355673284608'],@stclairashley Grow up.,,grow,grow 
+1.1180754557630956e+18,2019-04-16 08:55:36+00:00,['1118075455763095552'],@MrProWestie Do you play PUBG?,,play pubg,play pubg 
+1.117868518404346e+18,2019-04-15 19:13:18+00:00,['1117868518404345858'],ABSOLUTE SCENES,,absolute scene,scene 
+1.117867808405119e+18,2019-04-15 19:10:29+00:00,['1117867808405118976'],HAHAHAHAHAHAHA,,hahahahahahaha,hahahahahahaha 
+1.1174120973175848e+18,2019-04-14 12:59:39+00:00,['1117412097317584897'],@HotspurRelated @premierleague @TanaySuri I've never seen so many Ls,,i've never seen many,i 
+1.1170150367011512e+18,2019-04-13 10:41:52+00:00,['1117015036701151232'],@MrProWestie Looking at PC parts for my first build :) What is your clock??,,looking part first build clock,part clock 
+1.1164159631199804e+18,2019-04-11 19:01:22+00:00,['1116415963119980544'],#COYG,,,nan 
+1.1163699586725233e+18,2019-04-11 15:58:33+00:00,['1116369958672523264'],@ScanComputers @CallofDutyUK @ASUS_ROGUK What an awesome build. Thanks @ASUS_ROGUK and everyone else who's helped!,,awesome build thanks everyone else who's helped,everyone 
+1.1153640823145676e+18,2019-04-08 21:21:34+00:00,['1115364082314567680'],"@MrProWestie @NVIDIAGeForceUK @Stuzy Lucky, enjoy it!!",,lucky enjoy,enjoy 
+1.115211298831315e+18,2019-04-08 11:14:27+00:00,['1115211298831314944'],WAIT WHAT?!! UNBELIEVABLE!! #WIN a @callofduty @asus_ROGUK PC worth over £3800 in the @ScanComputers #Competition!! Free and open worldwide! https://t.co/ooUbQVNerz,,wait unbelievable worth free open worldwide,wait worldwide 
+1.115165728313942e+18,2019-04-08 08:13:23+00:00,['1115165728313942016'],@MrProWestie Good luck everyone!,,good luck everyone,luck everyone 
+1.1145753811835126e+18,2019-04-06 17:07:33+00:00,['1114575381183512576'],@gunnerpunner @TanaySuri What even...,,even,
+1.1144632743246438e+18,2019-04-06 09:42:04+00:00,['1114463274324643840'],"@ScanComputers @CallofDuty @ASUS_ROGUK Incredible giveaway, you guys are awesome!",,incredible giveaway guy awesome,giveaway guy 
+1.1144611628365046e+18,2019-04-06 09:33:41+00:00,['1114461162836504576'],@ScanComputers Sweet! Would be so nice to game on,,sweet would nice game,sweet game 
+1.1144602869274296e+18,2019-04-06 09:30:12+00:00,['1114460286927429633'],"LAST CHANCE TO GET ON THIS! #WIN a gaming PC worth £1500 from @ScanComputers! Feat a @Scan_3XS PC with @NVIDIAGeForceUK GPU, @Asus_ROGUK 144Hz G-Sync monitor &amp; @Corsair peripherals!!  Enter here: https://t.co/ooUbQVNerz #ApexLegends #Fortnite #PUBG #gaming #borderlands3",,last chance get gaming worth feat gpu gsync monitor amp peripheral enter,chance get feat gpu gsync monitor enter 
+1.1144602528906528e+18,2019-04-06 09:30:04+00:00,['1114460252890652672'],@ScanComputers Amazing giveaway,,amazing giveaway,giveaway 
+1.1141184206294712e+18,2019-04-05 10:51:45+00:00,['1114118420629471232'],@MrProWestie @NVIDIAGeForceUK How has it been using this beast?,,using beast,beast 
+1.1135574151050486e+18,2019-04-03 21:42:31+00:00,['1113557415105048576'],@OSUfreak82 @sammy_scroggss @TanaySuri The replies are lit,,reply lit,reply lit 
+1.1130403852851978e+18,2019-04-02 11:28:01+00:00,['1113040385285197824'],@svmwhxt I was joking lol,,joking lol,lol 
+1.1128296099833324e+18,2019-04-01 21:30:29+00:00,['1112829609983332354'],@TanaySuri Looooool,,looooool,looooool 
+1.1128114957028844e+18,2019-04-01 20:18:30+00:00,['1112811495702884352'],Referees are absolutely atrocious. It's unbelievable.,,referee absolutely atrocious unbelievable,
+1.1127996387157606e+18,2019-04-01 19:31:23+00:00,['1112799638715760641'],RAMSEEEEY,,ramseeeey,ramseeeey 
+1.1113671120759562e+18,2019-03-28 20:39:02+00:00,['1111367112075956224'],@auturgist @WJacky101 Where have you landed that you've noticed it?,,landed noticed,
+1.1113663098272196e+18,2019-03-28 20:35:51+00:00,['1111366309827219459'],@brentashcroft @starwars @HamillHimself @TanaySuri Ffs,,ffs,
+1.1093495847557448e+18,2019-03-23 07:02:06+00:00,['1109349584755744768'],"@MrProWestie Ahhh you're so lucky, it's amazing! Really interesting article on their website about the construction process :) https://t.co/TtXGqEQ2O0",,ahhh lucky amazing really interesting article website construction process,ahhh article construction process 
+1.109205460425552e+18,2019-03-22 21:29:24+00:00,['1109205460425551873'],@ScanGaming Building yourself is so much more rewarding and enjoyable :),,building much rewarding enjoyable,building rewarding 
+1.109127186110468e+18,2019-03-22 16:18:22+00:00,['1109127186110468096'],@WJacky101 Apparently the subtitles on your video thinks the Beryl sounds like clapping 😂 https://t.co/TD0kez1ooc,,apparently subtitle video think beryl sound like clapping,video 
+1.1079528382007092e+18,2019-03-19 10:31:56+00:00,['1107952838200709120'],@TwitchNecro @TanaySuri does,,doe,doe 
+1.1076758454880052e+18,2019-03-18 16:11:15+00:00,['1107675845488005121'],@BattleNonSense Razer Phone 2,,razer phone,razer phone 
+1.1072695348456776e+18,2019-03-17 13:16:43+00:00,['1107269534845677569'],@TanaySuri Ffsss,,ffsss,ffsss 
+1.106701217009451e+18,2019-03-15 23:38:26+00:00,['1106701217009451008'],"@Losssyy I always think it's really silly when I see comments like ""Ffs we don't need another battle royale, they're all the same"". It's like saying we already have a few FPS, no need to make any others ever...",,always think really silly see comment like ffs need another battle royale they're like saying already fps need make others ever,comment battle royale 
+1.1054077945623716e+18,2019-03-12 09:58:50+00:00,['1105407794562371584'],@FaZeFuzzface @TanaySuri Dying,,dying,
+1.104810978049446e+18,2019-03-10 18:27:18+00:00,['1104810978049445889'],YEEEEEEEEES,,yeeeeeeeees,
+1.1046641980999352e+18,2019-03-10 08:44:03+00:00,['1104664198099935232'],@Fugglet_tv Congrats!!,,congrats,
+1.1041123938341152e+18,2019-03-08 20:11:22+00:00,['1104112393834115073'],Oh WOW!!!! - a 120Hz #gaming projector for @Optomauk and you can #WIN it in the @Scancomputers weekly #Competition! 100 inch gaming anyone??!! Free and open worldwide! Enter here: https://t.co/pU7DWKuJcs,,wow projector weekly inch gaming anyone free open worldwide enter,wow projector inch anyone worldwide enter 
 1.104112084458111e+18,2019-03-08 20:10:09+00:00,['1104112084458110977'],"DO NOT MISS THIS!! #WIN a BATTLE ROYALE PC worth £1500 from @ScanComputers! Featuring a @Scan_3XS Gamer PC with @NVIDIAGeForceUK GTX 1060, @Asus_ROGUK 144Hz G-Sync monitor &amp; @Corsair peripherals!!  Enter here: https://t.co/ooUbQVNerz 
- #ApexLegends #Fortnite #PUBG #gaming #comp",,miss battle royale worth featuring gamer gtx gsync monitor amp peripheral enter
-1.103969365085614e+18,2019-03-08 10:43:02+00:00,['1103969365085614081'],@MelaniaMylioti @NVIDIAGeForceUK Still using a GTX 650 so would absolutely love this to be able to play some proper games with my friends!,,still using gtx would absolutely love able play proper game friend
-1.1037183219486844e+18,2019-03-07 18:05:28+00:00,['1103718321948684288'],"European fans are so annoying, whistling every time the opposition has the ball.",,european fan annoying whistling every time opposition ball
-1.103415673320063e+18,2019-03-06 22:02:51+00:00,['1103415673320062977'],Never a penalty. Absolutely criminal decision. Ref should be fired.,,never penalty absolutely criminal decision ref fired
-1.1029373283922616e+18,2019-03-05 14:22:05+00:00,['1102937328392261639'],@asthehosptuRNs @DShadowgazer Limb leads: Ride Your Green Bike!,,limb lead ride green bike
-1.1026630275208847e+18,2019-03-04 20:12:06+00:00,['1102663027520884741'],@MrProWestie Great news 💪,,great news
-1.1018509399531602e+18,2019-03-02 14:25:10+00:00,['1101850939953160192'],Absolutely criminal refereeing. Shocking.,,absolutely criminal refereeing shocking
-1.1018414198603612e+18,2019-03-02 13:47:20+00:00,['1101841419860361218'],Unreal diving from Kane. Didn't even touch his leg,,unreal diving kane even touch leg
-1.101840439525675e+18,2019-03-02 13:43:26+00:00,['1101840439525675008'],Lacazette is AWFUL,,lacazette awful
-1.1018266052850236e+18,2019-03-02 12:48:28+00:00,['1101826605285023744'],RAMSEEEEEEEY,,ramseeeeeeey
-1.1017532425502392e+18,2019-03-02 07:56:57+00:00,['1101753242550239232'],@NVIDIAGeForceUK @electronicarts @bittech What happened to this?,,happened
-1.1003075691203296e+18,2019-02-26 08:12:21+00:00,['1100307569120329729'],@TanaySuri Ffs,,ffs
-1.0985626979338444e+18,2019-02-21 12:38:52+00:00,['1098562697933844480'],@garrettsumpter @PlayApex Same,,
-1.0968606291246858e+18,2019-02-16 19:55:27+00:00,['1096860629124685825'],@WJacky101 So far the Apex Legends Reddit community is really friendly :),,far apex legend reddit community really friendly
-1.09613400771106e+18,2019-02-14 19:48:07+00:00,['1096134007711059970'],I don't even know what to say.,,even know say
-1.0961179627660124e+18,2019-02-14 18:44:21+00:00,['1096117962766012419'],@EiraIkeira @Prophet_On_Fire Underrated 😂,,underrated
-1.0957580330855178e+18,2019-02-13 18:54:07+00:00,['1095758033085517824'],@StarWarsDH I'm fascinated by Vader's style,,i'm fascinated vader's style
-1.0943632658351676e+18,2019-02-09 22:31:49+00:00,['1094363265835167744'],@MrProWestie ADORABLE,,adorable
-1.093812401970008e+18,2019-02-08 10:02:53+00:00,['1093812401970008064'],@WJacky101 I'd love to play with you! 😄,,i'd love play
-1.09362177510622e+18,2019-02-07 21:25:24+00:00,['1093621775106220041'],@adidasUK @TanaySuri finger wag gif needed,,finger wag gif needed
-1.0921756537246596e+18,2019-02-03 21:39:02+00:00,['1092175653724659712'],@MrProWestie Yeah!!,,yeah
-1.0914472251448032e+18,2019-02-01 21:24:31+00:00,['1091447225144803328'],@FredWuMD @spazocin @TanaySuri Lit thread,,lit thread
+ #ApexLegends #Fortnite #PUBG #gaming #comp",,miss battle royale worth featuring gamer gtx gsync monitor amp peripheral enter,battle gtx gsync monitor enter 
+1.103969365085614e+18,2019-03-08 10:43:02+00:00,['1103969365085614081'],@MelaniaMylioti @NVIDIAGeForceUK Still using a GTX 650 so would absolutely love this to be able to play some proper games with my friends!,,still using gtx would absolutely love able play proper game friend,gtx play game friend 
+1.1037183219486844e+18,2019-03-07 18:05:28+00:00,['1103718321948684288'],"European fans are so annoying, whistling every time the opposition has the ball.",,european fan annoying whistling every time opposition ball,fan time opposition ball 
+1.103415673320063e+18,2019-03-06 22:02:51+00:00,['1103415673320062977'],Never a penalty. Absolutely criminal decision. Ref should be fired.,,never penalty absolutely criminal decision ref fired,penalty decision ref 
+1.1029373283922616e+18,2019-03-05 14:22:05+00:00,['1102937328392261639'],@asthehosptuRNs @DShadowgazer Limb leads: Ride Your Green Bike!,,limb lead ride green bike,lead ride bike 
+1.1026630275208847e+18,2019-03-04 20:12:06+00:00,['1102663027520884741'],@MrProWestie Great news 💪,,great news,news 
+1.1018509399531602e+18,2019-03-02 14:25:10+00:00,['1101850939953160192'],Absolutely criminal refereeing. Shocking.,,absolutely criminal refereeing shocking,shocking 
+1.1018414198603612e+18,2019-03-02 13:47:20+00:00,['1101841419860361218'],Unreal diving from Kane. Didn't even touch his leg,,unreal diving kane even touch leg,kane leg 
+1.101840439525675e+18,2019-03-02 13:43:26+00:00,['1101840439525675008'],Lacazette is AWFUL,,lacazette awful,lacazette awful 
+1.1018266052850236e+18,2019-03-02 12:48:28+00:00,['1101826605285023744'],RAMSEEEEEEEY,,ramseeeeeeey,ramseeeeeeey 
+1.1017532425502392e+18,2019-03-02 07:56:57+00:00,['1101753242550239232'],@NVIDIAGeForceUK @electronicarts @bittech What happened to this?,,happened,
+1.1003075691203296e+18,2019-02-26 08:12:21+00:00,['1100307569120329729'],@TanaySuri Ffs,,ffs,
+1.0985626979338444e+18,2019-02-21 12:38:52+00:00,['1098562697933844480'],@garrettsumpter @PlayApex Same,,,nan 
+1.0968606291246858e+18,2019-02-16 19:55:27+00:00,['1096860629124685825'],@WJacky101 So far the Apex Legends Reddit community is really friendly :),,far apex legend reddit community really friendly,reddit community 
+1.09613400771106e+18,2019-02-14 19:48:07+00:00,['1096134007711059970'],I don't even know what to say.,,even know say,
+1.0961179627660124e+18,2019-02-14 18:44:21+00:00,['1096117962766012419'],@EiraIkeira @Prophet_On_Fire Underrated 😂,,underrated,
+1.0957580330855178e+18,2019-02-13 18:54:07+00:00,['1095758033085517824'],@StarWarsDH I'm fascinated by Vader's style,,i'm fascinated vader's style,i vader style 
+1.0943632658351676e+18,2019-02-09 22:31:49+00:00,['1094363265835167744'],@MrProWestie ADORABLE,,adorable,
+1.093812401970008e+18,2019-02-08 10:02:53+00:00,['1093812401970008064'],@WJacky101 I'd love to play with you! 😄,,i'd love play,i play 
+1.09362177510622e+18,2019-02-07 21:25:24+00:00,['1093621775106220041'],@adidasUK @TanaySuri finger wag gif needed,,finger wag gif needed,finger gif 
+1.0921756537246596e+18,2019-02-03 21:39:02+00:00,['1092175653724659712'],@MrProWestie Yeah!!,,yeah,yeah 
+1.0914472251448032e+18,2019-02-01 21:24:31+00:00,['1091447225144803328'],@FredWuMD @spazocin @TanaySuri Lit thread,,lit thread,lit thread 

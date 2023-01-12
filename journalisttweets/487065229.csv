@@ -1,481 +1,481 @@
-id,created_at,edit_history_tweet_ids,text,clean_text
-1.5647503027205284e+18,2022-08-30 23:01:58+00:00,['1564750302720528396'],"@ScotRevival I wish I’d known about this before. Will it be available to view afterwards, please?",wish known available view afterwards please
-1.5647201224005755e+18,2022-08-30 21:02:02+00:00,['1564720122400575498'],@StephenGardens @GardensHour 👏🏻👏🏻👏🏻👏🏻👏🏻,
-1.5647108940006564e+18,2022-08-30 20:25:22+00:00,['1564710894000656385'],🎶 This Friday in Clashmore! https://t.co/HAVgbTYMva,friday clashmore
-1.5646534240036454e+18,2022-08-30 16:37:00+00:00,['1564653424003645442'],🎶 A free concert this Sunday evening! https://t.co/NVtxsMkNGg,free concert sunday evening
-1.5645798927375892e+18,2022-08-30 11:44:49+00:00,['1564579892737589248'],🎶 https://t.co/NVtxsMkNGg,
-1.5634986844486738e+18,2022-08-27 12:08:29+00:00,['1563498684448673795'],🎶 NEW! https://t.co/YADTpUvIpr,new
-1.563459794354049e+18,2022-08-27 09:33:57+00:00,['1563459794354049024'],@RattledRig So sorry I’m going to miss this - it will be a great weekend!,sorry going miss great weekend
-1.5634457705312543e+18,2022-08-27 08:38:13+00:00,['1563445770531254273'],"@BDR_Andy @RadioMatlock @RFM_OnAir Indeed! Hopefully, very soon! 💿",indeed hopefully soon
-1.5634455918874747e+18,2022-08-27 08:37:31+00:00,['1563445591887474690'],"@BDR_Andy @RadioMatlock @RFM_OnAir Josie Duncan; Ryan Young; Calum McIlroy Trio; Chloë Bryce; McKerron, Ó hEadhra &amp; Brechin - all gave wonderful performances @EdenCourt #undercanvas in Inverness this week!",josie duncan ryan young calum mcilroy trio chlo bryce mckerron headhra amp brechin gave wonderful performance inverness week
-1.5634441949745193e+18,2022-08-27 08:31:58+00:00,['1563444194974519296'],@BDR_Andy @RadioMatlock @RFM_OnAir https://t.co/4K0zGk51xm,
-1.563443883047932e+18,2022-08-27 08:30:43+00:00,['1563443883047931905'],"@BDR_Andy @RadioMatlock @RFM_OnAir Good morning, Andy. I am indeed lurking and listening! Good to have you back. Here are some of my pics from marvellous UnderCanvas concerts this week… https://t.co/ArYkbDmcOz",good morning andy indeed lurking listening good back pic marvellous undercanvas concert week
-1.5630805035063255e+18,2022-08-26 08:26:47+00:00,['1563080503506325505'],@StephenGardens Good luck!,good luck
-1.562176998918824e+18,2022-08-23 20:36:35+00:00,['1562176998918823936'],@JohnWellwood @StFilansDream Channel 4,channel
-1.562153708934275e+18,2022-08-23 19:04:02+00:00,['1562153708934275073'],@DGaidhlig Tha e grianach an seo! ☀️,tha grianach seo
-1.5621312076510044e+18,2022-08-23 17:34:37+00:00,['1562131207651004417'],@shirley_barr @moniackmhor @findlaynapier @boohewerdine @Jenny_Sturgeon 👏🏻👏🏻👏🏻👏🏻👏🏻,
-1.561731743874519e+18,2022-08-22 15:07:17+00:00,['1561731743874519040'],@FeisRois @ThinkUHI @FDalgetty Many congratulations to @FDalgetty - an honour most richly deserved!,many congratulation honour richly deserved
-1.5613908686947205e+18,2022-08-21 16:32:46+00:00,['1561390868694720515'],@UndisScot Cromarty,cromarty
-1.5610775053726024e+18,2022-08-20 19:47:35+00:00,['1561077505372602373'],@adamfiddle This will be wonderful! I always learn so much from your classes. If only I lived nearer…,wonderful always learn much class lived nearer
-1.5610693773147505e+18,2022-08-20 19:15:17+00:00,['1561069377314750466'],"@StephenGardens @More4Tweets @ZoeTheBall Oh, wow! Looking forward to that 😁👍🏻",wow looking forward
-1.561022055738491e+18,2022-08-20 16:07:15+00:00,['1561022055738490881'],https://t.co/EpRTsSSuZW,
+id,created_at,edit_history_tweet_ids,text,clean_text,nouns
+1.5647503027205284e+18,2022-08-30 23:01:58+00:00,['1564750302720528396'],"@ScotRevival I wish I’d known about this before. Will it be available to view afterwards, please?",wish known available view afterwards please,view please 
+1.5647201224005755e+18,2022-08-30 21:02:02+00:00,['1564720122400575498'],@StephenGardens @GardensHour 👏🏻👏🏻👏🏻👏🏻👏🏻,,nan 
+1.5647108940006564e+18,2022-08-30 20:25:22+00:00,['1564710894000656385'],🎶 This Friday in Clashmore! https://t.co/HAVgbTYMva,friday clashmore,friday clashmore 
+1.5646534240036454e+18,2022-08-30 16:37:00+00:00,['1564653424003645442'],🎶 A free concert this Sunday evening! https://t.co/NVtxsMkNGg,free concert sunday evening,concert sunday evening 
+1.5645798927375892e+18,2022-08-30 11:44:49+00:00,['1564579892737589248'],🎶 https://t.co/NVtxsMkNGg,,nan 
+1.5634986844486738e+18,2022-08-27 12:08:29+00:00,['1563498684448673795'],🎶 NEW! https://t.co/YADTpUvIpr,new,
+1.563459794354049e+18,2022-08-27 09:33:57+00:00,['1563459794354049024'],@RattledRig So sorry I’m going to miss this - it will be a great weekend!,sorry going miss great weekend,sorry weekend 
+1.5634457705312543e+18,2022-08-27 08:38:13+00:00,['1563445770531254273'],"@BDR_Andy @RadioMatlock @RFM_OnAir Indeed! Hopefully, very soon! 💿",indeed hopefully soon,
+1.5634455918874747e+18,2022-08-27 08:37:31+00:00,['1563445591887474690'],"@BDR_Andy @RadioMatlock @RFM_OnAir Josie Duncan; Ryan Young; Calum McIlroy Trio; Chloë Bryce; McKerron, Ó hEadhra &amp; Brechin - all gave wonderful performances @EdenCourt #undercanvas in Inverness this week!",josie duncan ryan young calum mcilroy trio chlo bryce mckerron headhra amp brechin gave wonderful performance inverness week,josie ryan calum mcilroy trio chlo bryce mckerron headhra amp brechin performance inverness week 
+1.5634441949745193e+18,2022-08-27 08:31:58+00:00,['1563444194974519296'],@BDR_Andy @RadioMatlock @RFM_OnAir https://t.co/4K0zGk51xm,,nan 
+1.563443883047932e+18,2022-08-27 08:30:43+00:00,['1563443883047931905'],"@BDR_Andy @RadioMatlock @RFM_OnAir Good morning, Andy. I am indeed lurking and listening! Good to have you back. Here are some of my pics from marvellous UnderCanvas concerts this week… https://t.co/ArYkbDmcOz",good morning andy indeed lurking listening good back pic marvellous undercanvas concert week,morning concert week 
+1.5630805035063255e+18,2022-08-26 08:26:47+00:00,['1563080503506325505'],@StephenGardens Good luck!,good luck,luck 
+1.562176998918824e+18,2022-08-23 20:36:35+00:00,['1562176998918823936'],@JohnWellwood @StFilansDream Channel 4,channel,
+1.562153708934275e+18,2022-08-23 19:04:02+00:00,['1562153708934275073'],@DGaidhlig Tha e grianach an seo! ☀️,tha grianach seo,tha grianach seo 
+1.5621312076510044e+18,2022-08-23 17:34:37+00:00,['1562131207651004417'],@shirley_barr @moniackmhor @findlaynapier @boohewerdine @Jenny_Sturgeon 👏🏻👏🏻👏🏻👏🏻👏🏻,,nan 
+1.561731743874519e+18,2022-08-22 15:07:17+00:00,['1561731743874519040'],@FeisRois @ThinkUHI @FDalgetty Many congratulations to @FDalgetty - an honour most richly deserved!,many congratulation honour richly deserved,congratulation richly 
+1.5613908686947205e+18,2022-08-21 16:32:46+00:00,['1561390868694720515'],@UndisScot Cromarty,cromarty,cromarty 
+1.5610775053726024e+18,2022-08-20 19:47:35+00:00,['1561077505372602373'],@adamfiddle This will be wonderful! I always learn so much from your classes. If only I lived nearer…,wonderful always learn much class lived nearer,class nearer 
+1.5610693773147505e+18,2022-08-20 19:15:17+00:00,['1561069377314750466'],"@StephenGardens @More4Tweets @ZoeTheBall Oh, wow! Looking forward to that 😁👍🏻",wow looking forward,wow 
+1.561022055738491e+18,2022-08-20 16:07:15+00:00,['1561022055738490881'],https://t.co/EpRTsSSuZW,,nan 
 1.5607548481733755e+18,2022-08-19 22:25:27+00:00,['1560754848173375488'],"@PartickThistle Familiar score… 🇧🇪🇧🇪🇧🇪
 
-#71",familiar score
-1.5607542346641326e+18,2022-08-19 22:23:01+00:00,['1560754234664132608'],@Val_Bold 💫,
-1.5607537887424184e+18,2022-08-19 22:21:15+00:00,['1560753788742418433'],@PTFCAM1876 @PartickThistle “When the Partick Thistle starts to play…” 🇧🇪🇧🇪🇧🇪🇧🇪🇧🇪,partick thistle start play
+#71",familiar score,score 
+1.5607542346641326e+18,2022-08-19 22:23:01+00:00,['1560754234664132608'],@Val_Bold 💫,,nan 
+1.5607537887424184e+18,2022-08-19 22:21:15+00:00,['1560753788742418433'],@PTFCAM1876 @PartickThistle “When the Partick Thistle starts to play…” 🇧🇪🇧🇪🇧🇪🇧🇪🇧🇪,partick thistle start play,start play 
 1.560749230905471e+18,2022-08-19 22:03:08+00:00,['1560749230905470977'],"A memorable launch of #thespringbankvoyage - the compelling album by @RattledRig - aboard the tall ship Glenlee @riversidemuseum in Glasgow. Musician/sailor Barry Nisbet was joined by Theo Barnard, Pepita Emmarichs, Ade Dacre, Harry Bird and Carol Anderson. 
-From @Bandcamp  now. https://t.co/EVdj8eF3Tx",memorable launch compelling album aboard tall ship glenlee glasgow musiciansailor barry nisbet joined theo barnard pepita emmarichs ade dacre harry bird carol anderson
-1.5605428676381778e+18,2022-08-19 08:23:07+00:00,['1560542867638177792'],@missallot Thanks for this. Appreciated. The original tweet was criticising the W/m government.,thanks appreciated original tweet criticising government
-1.5600200966842696e+18,2022-08-17 21:45:49+00:00,['1560020096684269575'],@iain_j4ggy71 @ptfctrust Nope.,nope
-1.5598166984206664e+18,2022-08-17 08:17:35+00:00,['1559816698420666368'],🎶🎻 https://t.co/qxrc4VCljt,
-1.5594612513942446e+18,2022-08-16 08:45:10+00:00,['1559461251394244610'],"🎶 This will be a special night on 2nd September in Clashmore near Dornoch, celebrating the birthday of Essie Stewart with marvellous music, including the new piece from @chloebrycemusic The Summer Walkers. https://t.co/0OjyWSDgeD",special night september clashmore near dornoch celebrating birthday essie stewart marvellous music including new piece summer walker
+From @Bandcamp  now. https://t.co/EVdj8eF3Tx",memorable launch compelling album aboard tall ship glenlee glasgow musiciansailor barry nisbet joined theo barnard pepita emmarichs ade dacre harry bird carol anderson,launch ship glenlee glasgow musiciansailor barry barnard pepita emmarichs dacre harry bird carol anderson 
+1.5605428676381778e+18,2022-08-19 08:23:07+00:00,['1560542867638177792'],@missallot Thanks for this. Appreciated. The original tweet was criticising the W/m government.,thanks appreciated original tweet criticising government,tweet government 
+1.5600200966842696e+18,2022-08-17 21:45:49+00:00,['1560020096684269575'],@iain_j4ggy71 @ptfctrust Nope.,nope,nope 
+1.5598166984206664e+18,2022-08-17 08:17:35+00:00,['1559816698420666368'],🎶🎻 https://t.co/qxrc4VCljt,,nan 
+1.5594612513942446e+18,2022-08-16 08:45:10+00:00,['1559461251394244610'],"🎶 This will be a special night on 2nd September in Clashmore near Dornoch, celebrating the birthday of Essie Stewart with marvellous music, including the new piece from @chloebrycemusic The Summer Walkers. https://t.co/0OjyWSDgeD",special night september clashmore near dornoch celebrating birthday essie stewart marvellous music including new piece summer walker,night september clashmore dornoch music piece summer walker 
 1.559460006994518e+18,2022-08-16 08:40:13+00:00,['1559460006994518016'],"🎶 This will be a lovely concert in the beautiful surroundings of Dornoch Cathedral. Please come along! 
 
-@visitdornoch https://t.co/RpIoH3rkns",lovely concert beautiful surroundings dornoch cathedral please come along
-1.5594440823421993e+18,2022-08-16 07:36:56+00:00,['1559444082342199296'],https://t.co/CMUQHbn2B6,
-1.5594376469292687e+18,2022-08-16 07:11:22+00:00,['1559437646929268736'],https://t.co/NRWNzUXWGJ,
-1.5591274837646746e+18,2022-08-15 10:38:53+00:00,['1559127483764674562'],@piper_simon Congratulations and best wishes!,congratulation best wish
-1.559104753895891e+18,2022-08-15 09:08:34+00:00,['1559104753895890945'],Echinops before the storm https://t.co/gZldklfHmI,echinops storm
-1.5588150450435195e+18,2022-08-14 13:57:22+00:00,['1558815045043519489'],"I just signed the petition calling on @tesco, @sainsburys, @asda and @morrisons to ban disposable BBQ's. Can you sign the petition too? https://t.co/5rcBbnk2E4 via @38_degrees",signed petition calling ban disposable bbq's sign petition via
-1.5587643873594614e+18,2022-08-14 10:36:05+00:00,['1558764387359461378'],@FeisRois Looking forward to that!,looking forward
-1.5583896616215224e+18,2022-08-13 09:47:03+00:00,['1558389661621522437'],@BDR_Andy @Jenny_Sturgeon Love this album! 🤍,love album
-1.5577169673935626e+18,2022-08-11 13:14:00+00:00,['1557716967393562625'],@duartlodge It was! 😀,
-1.557668625451975e+18,2022-08-11 10:01:55+00:00,['1557668625451974665'],@duartlodge Clearly taken from over my shoulder - nice shot of my bag at the end 😂,clearly taken shoulder nice shot bag end
-1.5576653878939812e+18,2022-08-11 09:49:03+00:00,['1557665387893981185'],@duartlodge Wasn’t it great? 😀,wasnt great
-1.5573615846447022e+18,2022-08-10 13:41:50+00:00,['1557361584644702209'],"@shirley_barr @moniackmhor Wishing you a very happy and productive time, Shirley…",wishing happy productive time shirley
-1.557288933406511e+18,2022-08-10 08:53:09+00:00,['1557288933406511104'],https://t.co/A46g9NWq2Q,
-1.5572652084433756e+18,2022-08-10 07:18:52+00:00,['1557265208443375616'],@DRnaturegirl I’ve sent you a DM.,ive sent
-1.5572645890537267e+18,2022-08-10 07:16:25+00:00,['1557264589053726722'],@DRnaturegirl Count me in! 🙌🏻,count
-1.557131016954937e+18,2022-08-09 22:25:39+00:00,['1557131016954937344'],@DRnaturegirl Let me know what I can do to help…,let know help
+@visitdornoch https://t.co/RpIoH3rkns",lovely concert beautiful surroundings dornoch cathedral please come along,please 
+1.5594440823421993e+18,2022-08-16 07:36:56+00:00,['1559444082342199296'],https://t.co/CMUQHbn2B6,,nan 
+1.5594376469292687e+18,2022-08-16 07:11:22+00:00,['1559437646929268736'],https://t.co/NRWNzUXWGJ,,nan 
+1.5591274837646746e+18,2022-08-15 10:38:53+00:00,['1559127483764674562'],@piper_simon Congratulations and best wishes!,congratulation best wish,congratulation wish 
+1.559104753895891e+18,2022-08-15 09:08:34+00:00,['1559104753895890945'],Echinops before the storm https://t.co/gZldklfHmI,echinops storm,storm 
+1.5588150450435195e+18,2022-08-14 13:57:22+00:00,['1558815045043519489'],"I just signed the petition calling on @tesco, @sainsburys, @asda and @morrisons to ban disposable BBQ's. Can you sign the petition too? https://t.co/5rcBbnk2E4 via @38_degrees",signed petition calling ban disposable bbq's sign petition via,petition ban bbq petition 
+1.5587643873594614e+18,2022-08-14 10:36:05+00:00,['1558764387359461378'],@FeisRois Looking forward to that!,looking forward,
+1.5583896616215224e+18,2022-08-13 09:47:03+00:00,['1558389661621522437'],@BDR_Andy @Jenny_Sturgeon Love this album! 🤍,love album,love album 
+1.5577169673935626e+18,2022-08-11 13:14:00+00:00,['1557716967393562625'],@duartlodge It was! 😀,,nan 
+1.557668625451975e+18,2022-08-11 10:01:55+00:00,['1557668625451974665'],@duartlodge Clearly taken from over my shoulder - nice shot of my bag at the end 😂,clearly taken shoulder nice shot bag end,shoulder shot 
+1.5576653878939812e+18,2022-08-11 09:49:03+00:00,['1557665387893981185'],@duartlodge Wasn’t it great? 😀,wasnt great,wasnt 
+1.5573615846447022e+18,2022-08-10 13:41:50+00:00,['1557361584644702209'],"@shirley_barr @moniackmhor Wishing you a very happy and productive time, Shirley…",wishing happy productive time shirley,time shirley 
+1.557288933406511e+18,2022-08-10 08:53:09+00:00,['1557288933406511104'],https://t.co/A46g9NWq2Q,,nan 
+1.5572652084433756e+18,2022-08-10 07:18:52+00:00,['1557265208443375616'],@DRnaturegirl I’ve sent you a DM.,ive sent,sent 
+1.5572645890537267e+18,2022-08-10 07:16:25+00:00,['1557264589053726722'],@DRnaturegirl Count me in! 🙌🏻,count,count 
+1.557131016954937e+18,2022-08-09 22:25:39+00:00,['1557131016954937344'],@DRnaturegirl Let me know what I can do to help…,let know help,let help 
 1.5570984740379853e+18,2022-08-09 20:16:20+00:00,['1557098474037985284'],"Thanks for a tremendous afternoon! 
-Andrena x",thanks tremendous afternoon andrena
-1.5570982080730767e+18,2022-08-09 20:15:16+00:00,['1557098208073076739'],@UllapoolQueen https://t.co/Y1JDC0r7QB,
-1.5569705914328924e+18,2022-08-09 11:48:10+00:00,['1556970591432892424'],@BBCJohnBeattie The Port! 😁👍🏻,port
-1.556668094071939e+18,2022-08-08 15:46:09+00:00,['1556668094071939074'],@_KateForbes Mealaibh ur naidheachd! 🤍,mealaibh naidheachd
-1.5566017578658406e+18,2022-08-08 11:22:33+00:00,['1556601757865840642'],@shirley_barr A beauty!,beauty
-1.556331352236114e+18,2022-08-07 17:28:04+00:00,['1556331352236113920'],@LesleyRiddoch @WaspsMeadowMill @ellisoconnor1 I love the work of @ellisoconnor1,love work
-1.5558526559682724e+18,2022-08-06 09:45:54+00:00,['1555852655968272386'],@BDR_Andy @horomusic 😆 Good morning!,good morning
-1.555852045940396e+18,2022-08-06 09:43:28+00:00,['1555852045940396032'],@BDR_Andy @horomusic Put late Saturday morning breakfast on hold to play along: great stuff! 😁🎻🎻,put late saturday morning breakfast hold play along great stuff
-1.5554558150830817e+18,2022-08-05 07:28:59+00:00,['1555455815083081729'],"Petition: Introduce an ""Ecological Damage Tax"" on Astroturf Lawns / Artificial Grass https://t.co/ac7rBDfT9M",petition introduce ecological damage tax astroturf lawn artificial grass
-1.5542445424797164e+18,2022-08-01 23:15:50+00:00,['1554244542479716353'],@gilbertgiffnock Get well soon.,get well soon
-1.5536197933239828e+18,2022-07-31 05:53:18+00:00,['1553619793323982848'],Prevent Boris Johnson from having a Resignation Honours List - Sign the Petition! https://t.co/8wdvITwII6 via @UKChange,prevent boris johnson resignation honour list sign petition via
+Andrena x",thanks tremendous afternoon andrena,afternoon andrena 
+1.5570982080730767e+18,2022-08-09 20:15:16+00:00,['1557098208073076739'],@UllapoolQueen https://t.co/Y1JDC0r7QB,,nan 
+1.5569705914328924e+18,2022-08-09 11:48:10+00:00,['1556970591432892424'],@BBCJohnBeattie The Port! 😁👍🏻,port,port 
+1.556668094071939e+18,2022-08-08 15:46:09+00:00,['1556668094071939074'],@_KateForbes Mealaibh ur naidheachd! 🤍,mealaibh naidheachd,mealaibh naidheachd 
+1.5566017578658406e+18,2022-08-08 11:22:33+00:00,['1556601757865840642'],@shirley_barr A beauty!,beauty,beauty 
+1.556331352236114e+18,2022-08-07 17:28:04+00:00,['1556331352236113920'],@LesleyRiddoch @WaspsMeadowMill @ellisoconnor1 I love the work of @ellisoconnor1,love work,love work 
+1.5558526559682724e+18,2022-08-06 09:45:54+00:00,['1555852655968272386'],@BDR_Andy @horomusic 😆 Good morning!,good morning,morning 
+1.555852045940396e+18,2022-08-06 09:43:28+00:00,['1555852045940396032'],@BDR_Andy @horomusic Put late Saturday morning breakfast on hold to play along: great stuff! 😁🎻🎻,put late saturday morning breakfast hold play along great stuff,put morning breakfast play stuff 
+1.5554558150830817e+18,2022-08-05 07:28:59+00:00,['1555455815083081729'],"Petition: Introduce an ""Ecological Damage Tax"" on Astroturf Lawns / Artificial Grass https://t.co/ac7rBDfT9M",petition introduce ecological damage tax astroturf lawn artificial grass,petition damage tax astroturf lawn grass 
+1.5542445424797164e+18,2022-08-01 23:15:50+00:00,['1554244542479716353'],@gilbertgiffnock Get well soon.,get well soon,
+1.5536197933239828e+18,2022-07-31 05:53:18+00:00,['1553619793323982848'],Prevent Boris Johnson from having a Resignation Honours List - Sign the Petition! https://t.co/8wdvITwII6 via @UKChange,prevent boris johnson resignation honour list sign petition via,prevent boris johnson resignation list sign petition 
 1.5533180528796344e+18,2022-07-30 09:54:17+00:00,['1553318052879634433'],"@FeisRois Oh, how lovely! Have a ball! 
-😁😎🎻🎶",lovely ball
-1.5523443023360492e+18,2022-07-27 17:24:57+00:00,['1552344302336049154'],"@shirley_barr @JackieMorrisArt That’s marvellous, Shirley! So pleased for you…",thats marvellous shirley pleased
+😁😎🎻🎶",lovely ball,ball 
+1.5523443023360492e+18,2022-07-27 17:24:57+00:00,['1552344302336049154'],"@shirley_barr @JackieMorrisArt That’s marvellous, Shirley! So pleased for you…",thats marvellous shirley pleased,
 1.5523037528074322e+18,2022-07-27 14:43:49+00:00,['1552303752807432201'],"🎶 02/09 at Clashmore! 
 
 @blasfestival 
-@SuthSessions https://t.co/sD5mhQ2Aap",clashmore
-1.55222434105575e+18,2022-07-27 09:28:16+00:00,['1552224341055750146'],@adamfiddle @Celtic_Colours Thinking about it! 😂,thinking
-1.5520651468429066e+18,2022-07-26 22:55:41+00:00,['1552065146842906627'],@macauc01 Looking forward to watching this.,looking forward watching
-1.552057531584979e+18,2022-07-26 22:25:26+00:00,['1552057531584978946'],@adamfiddle @Celtic_Colours That will be wonderful!,wonderful
-1.5519052143656796e+18,2022-07-26 12:20:10+00:00,['1551905214365679617'],@DavidRoger1951 🙌🏻😁,
+@SuthSessions https://t.co/sD5mhQ2Aap",clashmore,clashmore 
+1.55222434105575e+18,2022-07-27 09:28:16+00:00,['1552224341055750146'],@adamfiddle @Celtic_Colours Thinking about it! 😂,thinking,
+1.5520651468429066e+18,2022-07-26 22:55:41+00:00,['1552065146842906627'],@macauc01 Looking forward to watching this.,looking forward watching,
+1.552057531584979e+18,2022-07-26 22:25:26+00:00,['1552057531584978946'],@adamfiddle @Celtic_Colours That will be wonderful!,wonderful,wonderful 
+1.5519052143656796e+18,2022-07-26 12:20:10+00:00,['1551905214365679617'],@DavidRoger1951 🙌🏻😁,,nan 
 1.5518700209213112e+18,2022-07-26 10:00:19+00:00,['1551870020921311232'],"@FeisRois You’ll have a great time! 
-💚 @CamFolkFest",youll great time
-1.551718009202426e+18,2022-07-25 23:56:17+00:00,['1551718009202425857'],@rosa_alba_macd @ionafyfe 😁,
-1.551717727697621e+18,2022-07-25 23:55:10+00:00,['1551717727697620993'],@ionafyfe Glasgow 💯,glasgow
-1.5516305887670477e+18,2022-07-25 18:08:54+00:00,['1551630588767047680'],@Jenny_Sturgeon @shirley_barr @laffingdogmusic @AshireYMI @WhatsOnAberdeen How absolutely lovely…,absolutely lovely
-1.551618400677499e+18,2022-07-25 17:20:29+00:00,['1551618400677498884'],"@LesleyRiddoch @blasfestival Really looking forward to the Essie Stewart @ 80 concert on 2nd September in Carnegie Hall, Clashmore. It has the makings of a very special evening, indeed. https://t.co/ubGmgOlbFk",really looking forward essie stewart concert september carnegie hall clashmore making special evening indeed
-1.551436756641321e+18,2022-07-25 05:18:41+00:00,['1551436756641320962'],@DGaidhlig @MarcMacUilleim Obh obh! 😧,obh obh
-1.5511173717331476e+18,2022-07-24 08:09:34+00:00,['1551117371733147648'],@RunningLine1 That is not progress.,progress
-1.5511056554356736e+18,2022-07-24 07:23:01+00:00,['1551105655435673601'],@hazel_thomson16 @LifeAfloat @SessionsAndSail Indeed. I count my blessings.,indeed count blessing
-1.5509791259338998e+18,2022-07-23 23:00:14+00:00,['1550979125933899777'],@BeckyMillhouse I’ve sent you a dm.,ive sent
-1.550905426648121e+18,2022-07-23 18:07:22+00:00,['1550905426648121345'],@DGaidhlig Gun teagabh!,gun teagabh
-1.5508952322119967e+18,2022-07-23 17:26:52+00:00,['1550895232211996672'],@LifeAfloat @SessionsAndSail Yes! 😁,yes
-1.5508878226845614e+18,2022-07-23 16:57:25+00:00,['1550887822684561409'],"@LifeAfloat @SessionsAndSail And it was a fabulous trip, Nick!",fabulous trip nick
-1.5508876503572972e+18,2022-07-23 16:56:44+00:00,['1550887650357297152'],"@LifeAfloat @SessionsAndSail Really? Say a big “Hi,” from me (Andrena), then! 😁🙌🏻",really say big andrena
-1.550878800937902e+18,2022-07-23 16:21:34+00:00,['1550878800937902081'],"@LifeAfloat She is the brigantine, #theladyofavenel. I had the pleasure of being aboard last week during a wonderful musical voyage off the Donegal coast with @SessionsAndSail https://t.co/Ixmvl3sLIS",brigantine pleasure aboard last week wonderful musical voyage donegal coast
-1.5507788418110917e+18,2022-07-23 09:44:22+00:00,['1550778841811091457'],@graemewils0n @cairngorms @macdonald241 What a lovely thing to do!,lovely thing
-1.5505960036272415e+18,2022-07-22 21:37:50+00:00,['1550596003627241472'],"@BDR_Andy 🙌🏻 Keep better soon, Andy.",keep better soon andy
-1.5503984381054034e+18,2022-07-22 08:32:47+00:00,['1550398438105403392'],@impaulharper Tain Pipe Band will be playing in the High Street on Saturday from 7pm.,tain pipe band playing high street saturday
-1.550251773847298e+18,2022-07-21 22:49:59+00:00,['1550251773847298048'],@dougiebeck @deirdrefiddler Congratulations!,congratulation
-1.5501066908377457e+18,2022-07-21 13:13:29+00:00,['1550106690837745665'],@JackyP599 😁🙌🏻,
-1.5501057820621414e+18,2022-07-21 13:09:52+00:00,['1550105782062141440'],"@CarraigFinn Your workshop was a definite highlight, Mairead. Great to meet you. Thanks so much again 🎻 🌊",workshop definite highlight mairead great meet thanks much
-1.5501045193207726e+18,2022-07-21 13:04:51+00:00,['1550104519320772610'],"@JackyP599 @SessionsAndSail @CarraigFinn @RattledRig Yes - and dreams can come true, Jacky!",yes dream come true jacky
-1.5501040887838515e+18,2022-07-21 13:03:08+00:00,['1550104088783851520'],"@donaldson_shona @SessionsAndSail @CarraigFinn @RattledRig You do, indeed, Shona! 😍😍😍 And it WAS amazing! 😁",indeed shona amazing
-1.5500463028005765e+18,2022-07-21 09:13:31+00:00,['1550046302800576514'],🎶 Tonight! https://t.co/SRk3SkV84K,tonight
+💚 @CamFolkFest",youll great time,time 
+1.551718009202426e+18,2022-07-25 23:56:17+00:00,['1551718009202425857'],@rosa_alba_macd @ionafyfe 😁,,nan 
+1.551717727697621e+18,2022-07-25 23:55:10+00:00,['1551717727697620993'],@ionafyfe Glasgow 💯,glasgow,glasgow 
+1.5516305887670477e+18,2022-07-25 18:08:54+00:00,['1551630588767047680'],@Jenny_Sturgeon @shirley_barr @laffingdogmusic @AshireYMI @WhatsOnAberdeen How absolutely lovely…,absolutely lovely,
+1.551618400677499e+18,2022-07-25 17:20:29+00:00,['1551618400677498884'],"@LesleyRiddoch @blasfestival Really looking forward to the Essie Stewart @ 80 concert on 2nd September in Carnegie Hall, Clashmore. It has the makings of a very special evening, indeed. https://t.co/ubGmgOlbFk",really looking forward essie stewart concert september carnegie hall clashmore making special evening indeed,stewart concert carnegie hall clashmore evening 
+1.551436756641321e+18,2022-07-25 05:18:41+00:00,['1551436756641320962'],@DGaidhlig @MarcMacUilleim Obh obh! 😧,obh obh,obh obh 
+1.5511173717331476e+18,2022-07-24 08:09:34+00:00,['1551117371733147648'],@RunningLine1 That is not progress.,progress,progress 
+1.5511056554356736e+18,2022-07-24 07:23:01+00:00,['1551105655435673601'],@hazel_thomson16 @LifeAfloat @SessionsAndSail Indeed. I count my blessings.,indeed count blessing,count blessing 
+1.5509791259338998e+18,2022-07-23 23:00:14+00:00,['1550979125933899777'],@BeckyMillhouse I’ve sent you a dm.,ive sent,sent 
+1.550905426648121e+18,2022-07-23 18:07:22+00:00,['1550905426648121345'],@DGaidhlig Gun teagabh!,gun teagabh,gun teagabh 
+1.5508952322119967e+18,2022-07-23 17:26:52+00:00,['1550895232211996672'],@LifeAfloat @SessionsAndSail Yes! 😁,yes,
+1.5508878226845614e+18,2022-07-23 16:57:25+00:00,['1550887822684561409'],"@LifeAfloat @SessionsAndSail And it was a fabulous trip, Nick!",fabulous trip nick,trip nick 
+1.5508876503572972e+18,2022-07-23 16:56:44+00:00,['1550887650357297152'],"@LifeAfloat @SessionsAndSail Really? Say a big “Hi,” from me (Andrena), then! 😁🙌🏻",really say big andrena,
+1.550878800937902e+18,2022-07-23 16:21:34+00:00,['1550878800937902081'],"@LifeAfloat She is the brigantine, #theladyofavenel. I had the pleasure of being aboard last week during a wonderful musical voyage off the Donegal coast with @SessionsAndSail https://t.co/Ixmvl3sLIS",brigantine pleasure aboard last week wonderful musical voyage donegal coast,pleasure week voyage donegal coast 
+1.5507788418110917e+18,2022-07-23 09:44:22+00:00,['1550778841811091457'],@graemewils0n @cairngorms @macdonald241 What a lovely thing to do!,lovely thing,thing 
+1.5505960036272415e+18,2022-07-22 21:37:50+00:00,['1550596003627241472'],"@BDR_Andy 🙌🏻 Keep better soon, Andy.",keep better soon andy,
+1.5503984381054034e+18,2022-07-22 08:32:47+00:00,['1550398438105403392'],@impaulharper Tain Pipe Band will be playing in the High Street on Saturday from 7pm.,tain pipe band playing high street saturday,tain pipe band street saturday 
+1.550251773847298e+18,2022-07-21 22:49:59+00:00,['1550251773847298048'],@dougiebeck @deirdrefiddler Congratulations!,congratulation,congratulation 
+1.5501066908377457e+18,2022-07-21 13:13:29+00:00,['1550106690837745665'],@JackyP599 😁🙌🏻,,nan 
+1.5501057820621414e+18,2022-07-21 13:09:52+00:00,['1550105782062141440'],"@CarraigFinn Your workshop was a definite highlight, Mairead. Great to meet you. Thanks so much again 🎻 🌊",workshop definite highlight mairead great meet thanks much,workshop definite highlight mairead 
+1.5501045193207726e+18,2022-07-21 13:04:51+00:00,['1550104519320772610'],"@JackyP599 @SessionsAndSail @CarraigFinn @RattledRig Yes - and dreams can come true, Jacky!",yes dream come true jacky,dream jacky 
+1.5501040887838515e+18,2022-07-21 13:03:08+00:00,['1550104088783851520'],"@donaldson_shona @SessionsAndSail @CarraigFinn @RattledRig You do, indeed, Shona! 😍😍😍 And it WAS amazing! 😁",indeed shona amazing,amazing 
+1.5500463028005765e+18,2022-07-21 09:13:31+00:00,['1550046302800576514'],🎶 Tonight! https://t.co/SRk3SkV84K,tonight,tonight 
 1.5500371976042332e+18,2022-07-21 08:37:20+00:00,['1550037197604233216'],"🎶 Great adventures off the coast of Donegal last week with @SessionsAndSail! 
 
-#tallship #tradmusic #theladyofavenel #sesionsandsail #donegal #ireland #musicalvoyage #goodcraic https://t.co/eUO5kry8iD",great adventure coast donegal last week
-1.5497781170819236e+18,2022-07-20 15:27:51+00:00,['1549778117081923588'],@abmassie Yip.,yip
-1.5497442576024044e+18,2022-07-20 13:13:18+00:00,['1549744257602404353'],👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 https://t.co/VQu3ZGeFLn,
-1.5490655401566536e+18,2022-07-18 16:16:19+00:00,['1549065540156653570'],"@dem_cath @pwsimerimiaw @JamesCleverly It seems a bit odd to me that kids in England are still in school in the middle of July, anyway 🤔",seems bit odd kid england still school middle july anyway
+#tallship #tradmusic #theladyofavenel #sesionsandsail #donegal #ireland #musicalvoyage #goodcraic https://t.co/eUO5kry8iD",great adventure coast donegal last week,adventure coast donegal week 
+1.5497781170819236e+18,2022-07-20 15:27:51+00:00,['1549778117081923588'],@abmassie Yip.,yip,yip 
+1.5497442576024044e+18,2022-07-20 13:13:18+00:00,['1549744257602404353'],👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 https://t.co/VQu3ZGeFLn,,nan 
+1.5490655401566536e+18,2022-07-18 16:16:19+00:00,['1549065540156653570'],"@dem_cath @pwsimerimiaw @JamesCleverly It seems a bit odd to me that kids in England are still in school in the middle of July, anyway 🤔",seems bit odd kid england still school middle july anyway,bit kid england school july 
 1.54829044455501e+18,2022-07-16 12:56:22+00:00,['1548290444555010048'],"Final evening of the @SessionsAndSail #Donegal trip, 2022…
 
 #sessionsandsail
 #theladyofavenel
-#tallship #tradmusic #sailing #fiddling https://t.co/nIh4A5Hz6w",final evening trip
+#tallship #tradmusic #sailing #fiddling https://t.co/nIh4A5Hz6w",final evening trip,evening trip 
 1.547552523606696e+18,2022-07-14 12:04:08+00:00,['1547552523606695938'],"The Lady of Avenel, off Inishbofin, Donegal, yesterday…
 
 @SessionsAndSail 
 
-#sessionsandsail #theladyofavenel #sailing #ireland #donegal #inishbofin #tradmusic https://t.co/tMMawj6zAB",lady avenel inishbofin donegal yesterday
-1.546943029742895e+18,2022-07-12 19:42:13+00:00,['1546943029742895107'],@FeisRois @MairearadG @Liamross2112 @frasband1 Sounds great!,sound great
+#sessionsandsail #theladyofavenel #sailing #ireland #donegal #inishbofin #tradmusic https://t.co/tMMawj6zAB",lady avenel inishbofin donegal yesterday,donegal yesterday 
+1.546943029742895e+18,2022-07-12 19:42:13+00:00,['1546943029742895107'],@FeisRois @MairearadG @Liamross2112 @frasband1 Sounds great!,sound great,sound 
 1.5467844696333517e+18,2022-07-12 09:12:10+00:00,['1546784469633351681'],"The Lady of Avenel rocks gently at anchor in Mulroy Bay this morning… 
 
 @SessionsAndSail 
 
-#theladyofavenel #donegal #ireland #sailing https://t.co/xcRpLxmppO",lady avenel rock gently anchor mulroy bay morning
-1.546488694856622e+18,2022-07-11 13:36:51+00:00,['1546488694856622082'],🎻 https://t.co/qxrc4VCljt,
+#theladyofavenel #donegal #ireland #sailing https://t.co/xcRpLxmppO",lady avenel rock gently anchor mulroy bay morning,avenel rock bay morning 
+1.546488694856622e+18,2022-07-11 13:36:51+00:00,['1546488694856622082'],🎻 https://t.co/qxrc4VCljt,,nan 
 1.546488416791036e+18,2022-07-11 13:35:45+00:00,['1546488416791035904'],"The Lady of Avenel under sail off the coast of Donegal…
 
 @SessionsAndSail 
 
 #ladyofavenel
-#sessionsandsail https://t.co/KUG4pYtd6F",lady avenel sail coast donegal
+#sessionsandsail https://t.co/KUG4pYtd6F",lady avenel sail coast donegal,coast donegal 
 1.5464334423714693e+18,2022-07-11 09:57:18+00:00,['1546433442371469319'],"This is the view from the Lady of Avenel this Monday morning… 
 
-#sessionsandsail #fanadhead #donegal #ladyofavenel #ireland https://t.co/RlroPy2TOR",view lady avenel monday morning
-1.546411661011161e+18,2022-07-11 08:30:45+00:00,['1546411661011161088'],@DGaidhlig Tha e an seo! 🐸,tha seo
+#sessionsandsail #fanadhead #donegal #ladyofavenel #ireland https://t.co/RlroPy2TOR",view lady avenel monday morning,view lady avenel monday morning 
+1.546411661011161e+18,2022-07-11 08:30:45+00:00,['1546411661011161088'],@DGaidhlig Tha e an seo! 🐸,tha seo,tha seo 
 1.546406220583551e+18,2022-07-11 08:09:08+00:00,['1546406220583550977'],"Good morning from Fanad Head…
 
 #ladyofavenel
 #sessionsandsail 
 #donegal
-#ireland https://t.co/TtqWDEx8CF",good morning fanad head
+#ireland https://t.co/TtqWDEx8CF",good morning fanad head,morning head 
 1.5460554229263647e+18,2022-07-10 08:55:11+00:00,['1546055422926364677'],"🎶 
 Duncan Chisholm 🎻 
 Dornoch
 December
-Tickets are on sale… https://t.co/qxrc4VCljt",duncan chisholm dornoch december ticket sale
-1.545892217377661e+18,2022-07-09 22:06:40+00:00,['1545892217377660929'],@DGaidhlig Tha sin gu math fìor! 👏🏻👏🏻👏🏻,tha sin math
-1.544482301077295e+18,2022-07-06 00:44:10+00:00,['1544482301077295110'],@DGaidhlig 🙌🏻,
+Tickets are on sale… https://t.co/qxrc4VCljt",duncan chisholm dornoch december ticket sale,chisholm dornoch december ticket sale 
+1.545892217377661e+18,2022-07-09 22:06:40+00:00,['1545892217377660929'],@DGaidhlig Tha sin gu math fìor! 👏🏻👏🏻👏🏻,tha sin math,tha sin math 
+1.544482301077295e+18,2022-07-06 00:44:10+00:00,['1544482301077295110'],@DGaidhlig 🙌🏻,,nan 
 1.5444477039623414e+18,2022-07-05 22:26:41+00:00,['1544447703962341382'],"Thursday in Helmsdale…
 
-#helmsdale https://t.co/9pBNLp6yNX",thursday helmsdale
-1.544436328368046e+18,2022-07-05 21:41:29+00:00,['1544436328368046081'],Cromarty today… https://t.co/JHtierN8UE,cromarty today
-1.5442278389618483e+18,2022-07-05 07:53:01+00:00,['1544227838961848320'],"@adamfiddle For sure. I recommend Carnaval de Rio, Swans’ Wings and Queen of the Night. And the parrot ones are funky.",sure recommend carnaval rio swan wing queen night parrot one funky
-1.5442259532531466e+18,2022-07-05 07:45:32+00:00,['1544225953253146628'],@adamfiddle No… I’ve been ordering tulip bulbs and looking forward to Spring! 🌷,ive ordering tulip bulb looking forward spring
-1.5442008821574574e+18,2022-07-05 06:05:54+00:00,['1544200882157457411'],🎶 https://t.co/9pBNLp6yNX,
-1.544083232014074e+18,2022-07-04 22:18:24+00:00,['1544083232014073862'],Tix: https://t.co/eumAy1zNdA,tix
+#helmsdale https://t.co/9pBNLp6yNX",thursday helmsdale,helmsdale 
+1.544436328368046e+18,2022-07-05 21:41:29+00:00,['1544436328368046081'],Cromarty today… https://t.co/JHtierN8UE,cromarty today,cromarty today 
+1.5442278389618483e+18,2022-07-05 07:53:01+00:00,['1544227838961848320'],"@adamfiddle For sure. I recommend Carnaval de Rio, Swans’ Wings and Queen of the Night. And the parrot ones are funky.",sure recommend carnaval rio swan wing queen night parrot one funky,recommend carnaval rio swan night parrot funky 
+1.5442259532531466e+18,2022-07-05 07:45:32+00:00,['1544225953253146628'],@adamfiddle No… I’ve been ordering tulip bulbs and looking forward to Spring! 🌷,ive ordering tulip bulb looking forward spring,tulip bulb spring 
+1.5442008821574574e+18,2022-07-05 06:05:54+00:00,['1544200882157457411'],🎶 https://t.co/9pBNLp6yNX,,nan 
+1.544083232014074e+18,2022-07-04 22:18:24+00:00,['1544083232014073862'],Tix: https://t.co/eumAy1zNdA,tix,tix 
 1.5440829886061363e+18,2022-07-04 22:17:26+00:00,['1544082988606136320'],"What could be better than a Thursday evening in Helmsdale in the company of Saltfishforty? 
 
 #saltfishforty
 #helmsdale 
 
-@sutherlandsessions https://t.co/L6cnSgu9Tn",could better thursday evening helmsdale company saltfishforty
-1.544038570201174e+18,2022-07-04 19:20:56+00:00,['1544038570201174021'],Save the 101/2 Edinburgh Dumfries Bus Service - Sign the Petition! https://t.co/ZW8f4I1TBc via @UKChange,save edinburgh dumfries bus service sign petition via
-1.5439299242721526e+18,2022-07-04 12:09:13+00:00,['1543929924272152576'],"@BeckyMillhouse @SkiffieW Well done, Golspie! 👏🏻👏🏻👏🏻",well done golspie
+@sutherlandsessions https://t.co/L6cnSgu9Tn",could better thursday evening helmsdale company saltfishforty,company saltfishforty 
+1.544038570201174e+18,2022-07-04 19:20:56+00:00,['1544038570201174021'],Save the 101/2 Edinburgh Dumfries Bus Service - Sign the Petition! https://t.co/ZW8f4I1TBc via @UKChange,save edinburgh dumfries bus service sign petition via,edinburgh service sign petition 
+1.5439299242721526e+18,2022-07-04 12:09:13+00:00,['1543929924272152576'],"@BeckyMillhouse @SkiffieW Well done, Golspie! 👏🏻👏🏻👏🏻",well done golspie,golspie 
 1.5439224603865416e+18,2022-07-04 11:39:33+00:00,['1543922460386541570'],"In 3 days’ time
 In Helmsdale
-It’s Saltfishforty! 🎶 https://t.co/qLGgyFrFUw",day time helmsdale saltfishforty
-1.5436476026499973e+18,2022-07-03 17:27:22+00:00,['1543647602649997317'],@alister_joe @Scotspat1 @ArthurMconval22 Carefully re-read your tweet and you will see that it doesn’t make sense.,carefully reread tweet see doesnt make sense
-1.543277686327595e+18,2022-07-02 16:57:27+00:00,['1543277686327595008'],🎶 This coming Thursday in Helmsdale… https://t.co/pMRM4lnj9A,coming thursday helmsdale
-1.543233431043195e+18,2022-07-02 14:01:36+00:00,['1543233431043194880'],"Dear Boris, Your Nihilism Betrays Your Grandfather’s Legacy – He’d be Appalled – Byline Times https://t.co/2bmsh5kytq",dear boris nihilism betrays grandfather legacy hed appalled byline time
-1.5431884319578112e+18,2022-07-02 11:02:47+00:00,['1543188431957811203'],@rothiemoon @TarbatNess99 @DefraGovUK @ScottishEPA 😔,
-1.5431862423927562e+18,2022-07-02 10:54:05+00:00,['1543186242392756226'],"@BDR_Andy No, Andy; but it’s in the retirement plan! 😁",andy retirement plan
-1.5431859042604892e+18,2022-07-02 10:52:45+00:00,['1543185904260489217'],Wonderful! https://t.co/ZILlmEErOD,wonderful
-1.5431850722700698e+18,2022-07-02 10:49:26+00:00,['1543185072270069760'],@TarbatNess99 @DefraGovUK @ScottishEPA @rothiemoon That’s awful. What can be done?,thats awful done
-1.5431578423325e+18,2022-07-02 09:01:14+00:00,['1543157842332499970'],"@BDR_Andy Thank you very much for your good wishes, Andy! Enjoying the music 🎶",thank much good wish andy enjoying music
-1.5431157626546422e+18,2022-07-02 06:14:02+00:00,['1543115762654642178'],"@adamfiddle @EdenCourt @TarranOfficial Yes, thoroughly enjoyed @TarranOfficial too!",yes thoroughly enjoyed
+It’s Saltfishforty! 🎶 https://t.co/qLGgyFrFUw",day time helmsdale saltfishforty,day time saltfishforty 
+1.5436476026499973e+18,2022-07-03 17:27:22+00:00,['1543647602649997317'],@alister_joe @Scotspat1 @ArthurMconval22 Carefully re-read your tweet and you will see that it doesn’t make sense.,carefully reread tweet see doesnt make sense,tweet sense 
+1.543277686327595e+18,2022-07-02 16:57:27+00:00,['1543277686327595008'],🎶 This coming Thursday in Helmsdale… https://t.co/pMRM4lnj9A,coming thursday helmsdale,helmsdale 
+1.543233431043195e+18,2022-07-02 14:01:36+00:00,['1543233431043194880'],"Dear Boris, Your Nihilism Betrays Your Grandfather’s Legacy – He’d be Appalled – Byline Times https://t.co/2bmsh5kytq",dear boris nihilism betrays grandfather legacy hed appalled byline time,boris nihilism legacy byline time 
+1.5431884319578112e+18,2022-07-02 11:02:47+00:00,['1543188431957811203'],@rothiemoon @TarbatNess99 @DefraGovUK @ScottishEPA 😔,,nan 
+1.5431862423927562e+18,2022-07-02 10:54:05+00:00,['1543186242392756226'],"@BDR_Andy No, Andy; but it’s in the retirement plan! 😁",andy retirement plan,retirement plan 
+1.5431859042604892e+18,2022-07-02 10:52:45+00:00,['1543185904260489217'],Wonderful! https://t.co/ZILlmEErOD,wonderful,wonderful 
+1.5431850722700698e+18,2022-07-02 10:49:26+00:00,['1543185072270069760'],@TarbatNess99 @DefraGovUK @ScottishEPA @rothiemoon That’s awful. What can be done?,thats awful done,
+1.5431578423325e+18,2022-07-02 09:01:14+00:00,['1543157842332499970'],"@BDR_Andy Thank you very much for your good wishes, Andy! Enjoying the music 🎶",thank much good wish andy enjoying music,andy music 
+1.5431157626546422e+18,2022-07-02 06:14:02+00:00,['1543115762654642178'],"@adamfiddle @EdenCourt @TarranOfficial Yes, thoroughly enjoyed @TarranOfficial too!",yes thoroughly enjoyed,
 1.5430113173506335e+18,2022-07-01 23:19:00+00:00,['1543011317350633473'],"So great to be back at #UnderCanvas @EdenCourt late this afternoon with the amazing duo of @adamfiddle and #marcclement starting off the two month event! 
 
-Looking forward to lots more fantastic concerts throughout July and August… 🎶 https://t.co/mPqNGvbBvV",great back late afternoon amazing duo starting two month event looking forward lot fantastic concert throughout july august
-1.5429974361294766e+18,2022-07-01 22:23:50+00:00,['1542997436129476608'],"@BDR_Andy See you in the morning, Andy!",see morning andy
+Looking forward to lots more fantastic concerts throughout July and August… 🎶 https://t.co/mPqNGvbBvV",great back late afternoon amazing duo starting two month event looking forward lot fantastic concert throughout july august,afternoon duo month event lot concert july august 
+1.5429974361294766e+18,2022-07-01 22:23:50+00:00,['1542997436129476608'],"@BDR_Andy See you in the morning, Andy!",see morning andy,morning andy 
 1.5428375193305457e+18,2022-07-01 11:48:23+00:00,['1542837519330545664'],"🎶 🎻 today! 
 This will be great.
 Two concerts: one at 4.30 and the other at 8. 
 Maybe see you later?
 
-⬇️ https://t.co/S3XpTHGO6E",today great two concert one maybe see later
-1.5425933111349453e+18,2022-06-30 19:38:00+00:00,['1542593311134945293'],"@DavidRoger1951 That’s good news. Well done, @PaulOldhamSNP",thats good news well done
-1.5425891969463583e+18,2022-06-30 19:21:39+00:00,['1542589196946358278'],"@abmassie @BBCRadioScot @IAMKP Just awesome to hear Alison McMorland’s voice on Travelling Folk, there, Anna…",awesome hear alison mcmorlands voice travelling folk anna
-1.5425516613021327e+18,2022-06-30 16:52:29+00:00,['1542551661302132736'],In Helmsdale… a week tonight! https://t.co/9pBNLp76Dv,helmsdale week tonight
-1.5425316753175716e+18,2022-06-30 15:33:04+00:00,['1542531675317571584'],@abmassie @BBCRadioScot @graham_rorie @OrkneyFolkFest @IAMKP @Siobhan_Miller @leventdunord @BlazinFiddles This will be sooo good! 👍🏻,sooo good
-1.5423906852314644e+18,2022-06-30 06:12:50+00:00,['1542390685231464448'],@TarbatNess99 @DefraGovUK @ScottishEPA @rothiemoon 😢,
-1.5422651338246226e+18,2022-06-29 21:53:56+00:00,['1542265133824622594'],"@DGaidhlig That would be Iain, I guess…",would iain guess
+⬇️ https://t.co/S3XpTHGO6E",today great two concert one maybe see later,today 
+1.5425933111349453e+18,2022-06-30 19:38:00+00:00,['1542593311134945293'],"@DavidRoger1951 That’s good news. Well done, @PaulOldhamSNP",thats good news well done,news 
+1.5425891969463583e+18,2022-06-30 19:21:39+00:00,['1542589196946358278'],"@abmassie @BBCRadioScot @IAMKP Just awesome to hear Alison McMorland’s voice on Travelling Folk, there, Anna…",awesome hear alison mcmorlands voice travelling folk anna,hear alison voice folk anna 
+1.5425516613021327e+18,2022-06-30 16:52:29+00:00,['1542551661302132736'],In Helmsdale… a week tonight! https://t.co/9pBNLp76Dv,helmsdale week tonight,week tonight 
+1.5425316753175716e+18,2022-06-30 15:33:04+00:00,['1542531675317571584'],@abmassie @BBCRadioScot @graham_rorie @OrkneyFolkFest @IAMKP @Siobhan_Miller @leventdunord @BlazinFiddles This will be sooo good! 👍🏻,sooo good,
+1.5423906852314644e+18,2022-06-30 06:12:50+00:00,['1542390685231464448'],@TarbatNess99 @DefraGovUK @ScottishEPA @rothiemoon 😢,,nan 
+1.5422651338246226e+18,2022-06-29 21:53:56+00:00,['1542265133824622594'],"@DGaidhlig That would be Iain, I guess…",would iain guess,guess 
 1.5418683139192955e+18,2022-06-28 19:37:07+00:00,['1541868313919295490'],"@FeisRois 🎶 On behalf of @SuthSessions, may I add that it will be fabulous to welcome back the Ceilidh Trail to the Invershin Hotel on Thursday 21st July, too? 
-Always a marvellous night of great music in the summer sun…",behalf may add fabulous welcome back ceilidh trail invershin hotel thursday july always marvellous night great music summer sun
-1.5418495130145587e+18,2022-06-28 18:22:24+00:00,['1541849513014558727'],@DGaidhlig This makes me want to put a padlock and chain on my bread bin 🫢,make want put padlock chain bread bin
-1.541465998909444e+18,2022-06-27 16:58:27+00:00,['1541465998909444101'],@BeckyMillhouse That’s wonderful!!!! 😁 Congratulations to the team!,thats wonderful congratulation team
-1.5411696924375286e+18,2022-06-26 21:21:02+00:00,['1541169692437528579'],🎶🎶🎶🎶🎶 https://t.co/zrc3sDx3Gf,
-1.541169126445572e+18,2022-06-26 21:18:47+00:00,['1541169126445572097'],@BeckyMillhouse @SkiffieW Ohhh! Good luck! 👍🏻,ohhh good luck
-1.5410272848696033e+18,2022-06-26 11:55:10+00:00,['1541027284869603328'],@adamfiddle @EdenCourt Got my 🎟👍🏻,got
-1.540571732465095e+18,2022-06-25 05:44:58+00:00,['1540571732465094658'],🎶 TODAY! Strathdon… still places available - just come along to Glenbuchat Hall 😁👍🏻 https://t.co/0qKudyAbAC,today strathdon still place available come along glenbuchat hall
-1.5402613728476938e+18,2022-06-24 09:11:42+00:00,['1540261372847693826'],"Really looking forward to this tomorrow! What a wonderful day lies ahead with some fantastic tutors: Shona Donaldson, Charlie McKerron, Steve Garrett and Arthur Coates in Glenbuchat! Still some last minute spaces available… https://t.co/0qKudyAbAC",really looking forward tomorrow wonderful day lie ahead fantastic tutor shona donaldson charlie mckerron steve garrett arthur coates glenbuchat still last minute space available
-1.540253592266965e+18,2022-06-24 08:40:47+00:00,['1540253592266964992'],🎶 Look what’s on in Helmsdale next week! https://t.co/cpGam88Rlh,look whats helmsdale next week
-1.5400992722422415e+18,2022-06-23 22:27:34+00:00,['1540099272242241542'],@adamfiddle @NicolaSturgeon 🤍,
-1.5389778007654646e+18,2022-06-20 20:11:15+00:00,['1538977800765464576'],"@BDR_Andy @DavidRoger1951 Ah! Just picked this up, Andy. Hope the weather is still good for you!",picked andy hope weather still good
-1.5385872282340352e+18,2022-06-19 18:19:15+00:00,['1538587228234035201'],🎶😀 https://t.co/cpGam88Rlh,
-1.5382772879420375e+18,2022-06-18 21:47:39+00:00,['1538277287942037504'],🎶 https://t.co/qLGgyFrFUw,
-1.5381530878772265e+18,2022-06-18 13:34:08+00:00,['1538153087877226497'],"@RattledRig @appliedmusicuhi That’s wonderful, Barry!",thats wonderful barry
-1.5381264719564677e+18,2022-06-18 11:48:22+00:00,['1538126471956467712'],"@medwinfrench @DavidRoger1951 @BDR_Andy @ClyneHeritage Oh, brilliant!",brilliant
-1.5381173177663078e+18,2022-06-18 11:12:00+00:00,['1538117317766307842'],🎶 Coming soon… https://t.co/qLGgyFrFUw,coming soon
-1.5381170292234486e+18,2022-06-18 11:10:51+00:00,['1538117029223448578'],"@medwinfrench @DavidRoger1951 @BDR_Andy From the Black Isle, looking down on the Cromarty Bridge… I took that at about 10.30, this morning, Mark.",black isle looking cromarty bridge took morning mark
-1.538115996921344e+18,2022-06-18 11:06:45+00:00,['1538115996921344000'],@DavidRoger1951 @BDR_Andy https://t.co/NajIdF8kJN,
-1.5381134481979064e+18,2022-06-18 10:56:37+00:00,['1538113448197906432'],"@DavidRoger1951 @BDR_Andy Don’t know where you are heading, Andy, but it’s beautiful up here in Easter Ross, this morning! ☀️",dont know heading andy beautiful easter ross morning
-1.537696107714777e+18,2022-06-17 07:18:15+00:00,['1537696107714777088'],🎶 London folk - this will be an awesome gig… https://t.co/EZrKiSozpD,london folk awesome gig
-1.5375480778500588e+18,2022-06-16 21:30:02+00:00,['1537548077850058766'],"Play fiddle with Charlie McKerron, guitar with Steve Garrett, sing with Shona Donaldson or join Arthur Coates’ mixed instrument group. All are welcome in lovely Strathdon! https://t.co/4AmdeJZyWD",play fiddle charlie mckerron guitar steve garrett sing shona donaldson join arthur coates mixed instrument group welcome lovely strathdon
+Always a marvellous night of great music in the summer sun…",behalf may add fabulous welcome back ceilidh trail invershin hotel thursday july always marvellous night great music summer sun,behalf ceilidh trail hotel thursday july night music summer sun 
+1.5418495130145587e+18,2022-06-28 18:22:24+00:00,['1541849513014558727'],@DGaidhlig This makes me want to put a padlock and chain on my bread bin 🫢,make want put padlock chain bread bin,make want padlock chain bin 
+1.541465998909444e+18,2022-06-27 16:58:27+00:00,['1541465998909444101'],@BeckyMillhouse That’s wonderful!!!! 😁 Congratulations to the team!,thats wonderful congratulation team,congratulation team 
+1.5411696924375286e+18,2022-06-26 21:21:02+00:00,['1541169692437528579'],🎶🎶🎶🎶🎶 https://t.co/zrc3sDx3Gf,,nan 
+1.541169126445572e+18,2022-06-26 21:18:47+00:00,['1541169126445572097'],@BeckyMillhouse @SkiffieW Ohhh! Good luck! 👍🏻,ohhh good luck,luck 
+1.5410272848696033e+18,2022-06-26 11:55:10+00:00,['1541027284869603328'],@adamfiddle @EdenCourt Got my 🎟👍🏻,got,
+1.540571732465095e+18,2022-06-25 05:44:58+00:00,['1540571732465094658'],🎶 TODAY! Strathdon… still places available - just come along to Glenbuchat Hall 😁👍🏻 https://t.co/0qKudyAbAC,today strathdon still place available come along glenbuchat hall,today hall 
+1.5402613728476938e+18,2022-06-24 09:11:42+00:00,['1540261372847693826'],"Really looking forward to this tomorrow! What a wonderful day lies ahead with some fantastic tutors: Shona Donaldson, Charlie McKerron, Steve Garrett and Arthur Coates in Glenbuchat! Still some last minute spaces available… https://t.co/0qKudyAbAC",really looking forward tomorrow wonderful day lie ahead fantastic tutor shona donaldson charlie mckerron steve garrett arthur coates glenbuchat still last minute space available,tomorrow day tutor shona donaldson charlie mckerron garrett arthur space 
+1.540253592266965e+18,2022-06-24 08:40:47+00:00,['1540253592266964992'],🎶 Look what’s on in Helmsdale next week! https://t.co/cpGam88Rlh,look whats helmsdale next week,look week 
+1.5400992722422415e+18,2022-06-23 22:27:34+00:00,['1540099272242241542'],@adamfiddle @NicolaSturgeon 🤍,,nan 
+1.5389778007654646e+18,2022-06-20 20:11:15+00:00,['1538977800765464576'],"@BDR_Andy @DavidRoger1951 Ah! Just picked this up, Andy. Hope the weather is still good for you!",picked andy hope weather still good,hope weather 
+1.5385872282340352e+18,2022-06-19 18:19:15+00:00,['1538587228234035201'],🎶😀 https://t.co/cpGam88Rlh,,nan 
+1.5382772879420375e+18,2022-06-18 21:47:39+00:00,['1538277287942037504'],🎶 https://t.co/qLGgyFrFUw,,nan 
+1.5381530878772265e+18,2022-06-18 13:34:08+00:00,['1538153087877226497'],"@RattledRig @appliedmusicuhi That’s wonderful, Barry!",thats wonderful barry,barry 
+1.5381264719564677e+18,2022-06-18 11:48:22+00:00,['1538126471956467712'],"@medwinfrench @DavidRoger1951 @BDR_Andy @ClyneHeritage Oh, brilliant!",brilliant,brilliant 
+1.5381173177663078e+18,2022-06-18 11:12:00+00:00,['1538117317766307842'],🎶 Coming soon… https://t.co/qLGgyFrFUw,coming soon,
+1.5381170292234486e+18,2022-06-18 11:10:51+00:00,['1538117029223448578'],"@medwinfrench @DavidRoger1951 @BDR_Andy From the Black Isle, looking down on the Cromarty Bridge… I took that at about 10.30, this morning, Mark.",black isle looking cromarty bridge took morning mark,isle cromarty bridge morning mark 
+1.538115996921344e+18,2022-06-18 11:06:45+00:00,['1538115996921344000'],@DavidRoger1951 @BDR_Andy https://t.co/NajIdF8kJN,,nan 
+1.5381134481979064e+18,2022-06-18 10:56:37+00:00,['1538113448197906432'],"@DavidRoger1951 @BDR_Andy Don’t know where you are heading, Andy, but it’s beautiful up here in Easter Ross, this morning! ☀️",dont know heading andy beautiful easter ross morning,dont easter ross morning 
+1.537696107714777e+18,2022-06-17 07:18:15+00:00,['1537696107714777088'],🎶 London folk - this will be an awesome gig… https://t.co/EZrKiSozpD,london folk awesome gig,london folk gig 
+1.5375480778500588e+18,2022-06-16 21:30:02+00:00,['1537548077850058766'],"Play fiddle with Charlie McKerron, guitar with Steve Garrett, sing with Shona Donaldson or join Arthur Coates’ mixed instrument group. All are welcome in lovely Strathdon! https://t.co/4AmdeJZyWD",play fiddle charlie mckerron guitar steve garrett sing shona donaldson join arthur coates mixed instrument group welcome lovely strathdon,play charlie mckerron guitar garrett sing shona donaldson join arthur instrument group 
 1.537489890685997e+18,2022-06-16 17:38:49+00:00,['1537489890685997056'],"@donaldson_shona Oh, so am I! 
 
-Who else is coming to Glenbuchat? 😁🎻❤️",else coming glenbuchat
-1.5373872949104722e+18,2022-06-16 10:51:09+00:00,['1537387294910472199'],https://t.co/fvAiKTgGkM,
-1.537386941041234e+18,2022-06-16 10:49:44+00:00,['1537386941041233921'],https://t.co/wmHFIFwLuF,
-1.53738639125615e+18,2022-06-16 10:47:33+00:00,['1537386391256150017'],https://t.co/KwEaEucfL0,
-1.5373715049791898e+18,2022-06-16 09:48:24+00:00,['1537371504979189763'],@LesleyRiddoch @fellowhoodlums Totally agree.,totally agree
-1.5369541652844626e+18,2022-06-15 06:10:02+00:00,['1536954165284462594'],🎶 https://t.co/GPxMb5XF2U,
-1.536943559387095e+18,2022-06-15 05:27:54+00:00,['1536943559387095040'],#rosewednesday #desdemona https://t.co/si1LK025Yv,
-1.5360161568337592e+18,2022-06-12 16:02:44+00:00,['1536016156833759237'],@LesleyRiddoch @isleofeigg 👏🏻👏🏻👏🏻👏🏻👏🏻,
-1.5359002861407887e+18,2022-06-12 08:22:18+00:00,['1535900286140788736'],"@JimCMackintosh Aw, Jim. I hope you are feeling better.",jim hope feeling better
-1.5358998041816187e+18,2022-06-12 08:20:23+00:00,['1535899804181618690'],🎻🎻🎻🎻🎻🎻🎻🎻🎻🎻🎻 https://t.co/VQFSyHw1vF,
-1.535777301014651e+18,2022-06-12 00:13:36+00:00,['1535777301014650885'],@scotlit Thank you!,thank
-1.535578056076796e+18,2022-06-11 11:01:52+00:00,['1535578056076795904'],"@BDR_Andy @RFM_OnAir @RadioMatlock What a beautiful, gentle start to Saturday! Thank you for a lovely programme, Andy, and for introducing me to a whole lot of new music as I work away here in the garden 😊👍🏻",beautiful gentle start saturday thank lovely programme andy introducing whole lot new music work away garden
-1.5355429846573138e+18,2022-06-11 08:42:31+00:00,['1535542984657313792'],Keep Nairn Library in the Town Centre - Sign the Petition! https://t.co/MCrkZRRyfD via @UKChange,keep nairn library town centre sign petition via
-1.5352877622991012e+18,2022-06-10 15:48:21+00:00,['1535287762299101184'],"Great new tunes, lovely tutors, fabulous setting… https://t.co/VQFSyHw1vF",great new tune lovely tutor fabulous setting
-1.5352382054145516e+18,2022-06-10 12:31:26+00:00,['1535238205414551552'],@SessionsAndSail It is that 😀,
+Who else is coming to Glenbuchat? 😁🎻❤️",else coming glenbuchat,
+1.5373872949104722e+18,2022-06-16 10:51:09+00:00,['1537387294910472199'],https://t.co/fvAiKTgGkM,,nan 
+1.537386941041234e+18,2022-06-16 10:49:44+00:00,['1537386941041233921'],https://t.co/wmHFIFwLuF,,nan 
+1.53738639125615e+18,2022-06-16 10:47:33+00:00,['1537386391256150017'],https://t.co/KwEaEucfL0,,nan 
+1.5373715049791898e+18,2022-06-16 09:48:24+00:00,['1537371504979189763'],@LesleyRiddoch @fellowhoodlums Totally agree.,totally agree,
+1.5369541652844626e+18,2022-06-15 06:10:02+00:00,['1536954165284462594'],🎶 https://t.co/GPxMb5XF2U,,nan 
+1.536943559387095e+18,2022-06-15 05:27:54+00:00,['1536943559387095040'],#rosewednesday #desdemona https://t.co/si1LK025Yv,,nan 
+1.5360161568337592e+18,2022-06-12 16:02:44+00:00,['1536016156833759237'],@LesleyRiddoch @isleofeigg 👏🏻👏🏻👏🏻👏🏻👏🏻,,nan 
+1.5359002861407887e+18,2022-06-12 08:22:18+00:00,['1535900286140788736'],"@JimCMackintosh Aw, Jim. I hope you are feeling better.",jim hope feeling better,
+1.5358998041816187e+18,2022-06-12 08:20:23+00:00,['1535899804181618690'],🎻🎻🎻🎻🎻🎻🎻🎻🎻🎻🎻 https://t.co/VQFSyHw1vF,,nan 
+1.535777301014651e+18,2022-06-12 00:13:36+00:00,['1535777301014650885'],@scotlit Thank you!,thank,thank 
+1.535578056076796e+18,2022-06-11 11:01:52+00:00,['1535578056076795904'],"@BDR_Andy @RFM_OnAir @RadioMatlock What a beautiful, gentle start to Saturday! Thank you for a lovely programme, Andy, and for introducing me to a whole lot of new music as I work away here in the garden 😊👍🏻",beautiful gentle start saturday thank lovely programme andy introducing whole lot new music work away garden,start saturday lot music work 
+1.5355429846573138e+18,2022-06-11 08:42:31+00:00,['1535542984657313792'],Keep Nairn Library in the Town Centre - Sign the Petition! https://t.co/MCrkZRRyfD via @UKChange,keep nairn library town centre sign petition via,town centre sign petition 
+1.5352877622991012e+18,2022-06-10 15:48:21+00:00,['1535287762299101184'],"Great new tunes, lovely tutors, fabulous setting… https://t.co/VQFSyHw1vF",great new tune lovely tutor fabulous setting,tune setting 
+1.5352382054145516e+18,2022-06-10 12:31:26+00:00,['1535238205414551552'],@SessionsAndSail It is that 😀,,nan 
 1.535232653653422e+18,2022-06-10 12:09:22+00:00,['1535232653653422080'],"So, who’s going to Glenbuchat, then? 
-🎶☀️🏔🎻⛺️🍔 ❤️🎵 https://t.co/VQFSyHw1vF",going glenbuchat
-1.5351984515452928e+18,2022-06-10 09:53:28+00:00,['1535198451545292800'],This is going to be such a lovely event… https://t.co/vvnTNVa2sf,going lovely event
-1.535022885168898e+18,2022-06-09 22:15:49+00:00,['1535022885168898048'],@IAMKP @corrinahewat This will be wonderful!,wonderful
-1.535022518792233e+18,2022-06-09 22:14:22+00:00,['1535022518792232962'],"@IAMKP @StonesBarn Ooh, that sounds marvellous!",ooh sound marvellous
-1.5348802294617416e+18,2022-06-09 12:48:58+00:00,['1534880229461741569'],@kathrynjoseph_ Loved this ❤️,loved
-1.534793048894636e+18,2022-06-09 07:02:32+00:00,['1534793048894636032'],@DeeDonCeilidh @donaldson_shona @ChasRajchas @_ti_thur @twit_steve This will be such an amazing day! 🎻😁👍🏻,amazing day
-1.5346972770669773e+18,2022-06-09 00:41:58+00:00,['1534697277066977284'],@DGaidhlig Tha beagan Gàidhlig agam 😊👍🏻,tha beagan gidhlig agam
-1.5346229887541617e+18,2022-06-08 19:46:47+00:00,['1534622988754161666'],🎶👇🏻 https://t.co/NdWdfxOgcD,
+🎶☀️🏔🎻⛺️🍔 ❤️🎵 https://t.co/VQFSyHw1vF",going glenbuchat,
+1.5351984515452928e+18,2022-06-10 09:53:28+00:00,['1535198451545292800'],This is going to be such a lovely event… https://t.co/vvnTNVa2sf,going lovely event,event 
+1.535022885168898e+18,2022-06-09 22:15:49+00:00,['1535022885168898048'],@IAMKP @corrinahewat This will be wonderful!,wonderful,wonderful 
+1.535022518792233e+18,2022-06-09 22:14:22+00:00,['1535022518792232962'],"@IAMKP @StonesBarn Ooh, that sounds marvellous!",ooh sound marvellous,
+1.5348802294617416e+18,2022-06-09 12:48:58+00:00,['1534880229461741569'],@kathrynjoseph_ Loved this ❤️,loved,
+1.534793048894636e+18,2022-06-09 07:02:32+00:00,['1534793048894636032'],@DeeDonCeilidh @donaldson_shona @ChasRajchas @_ti_thur @twit_steve This will be such an amazing day! 🎻😁👍🏻,amazing day,day 
+1.5346972770669773e+18,2022-06-09 00:41:58+00:00,['1534697277066977284'],@DGaidhlig Tha beagan Gàidhlig agam 😊👍🏻,tha beagan gidhlig agam,tha beagan gidhlig agam 
+1.5346229887541617e+18,2022-06-08 19:46:47+00:00,['1534622988754161666'],🎶👇🏻 https://t.co/NdWdfxOgcD,,nan 
 1.534621154081661e+18,2022-06-08 19:39:29+00:00,['1534621154081660928'],"Dee + Don Ceilidh Collective
 Glenbuchat Hall, Strathdon
 Saturday, 25th June from 9.30am
 
 Come and learn new tunes/songs in a truly lovely setting!
 
-See DDCC website for further details and tickets https://t.co/wanL1C0WpS",dee ceilidh collective glenbuchat hall strathdon saturday june come learn new tunessongs truly lovely setting see ddcc website detail ticket
-1.5345228712209285e+18,2022-06-08 13:08:57+00:00,['1534522871220928514'],🎻 pals: https://t.co/k9FjTcl6Tt,pal
+See DDCC website for further details and tickets https://t.co/wanL1C0WpS",dee ceilidh collective glenbuchat hall strathdon saturday june come learn new tunessongs truly lovely setting see ddcc website detail ticket,dee ceilidh strathdon saturday detail ticket 
+1.5345228712209285e+18,2022-06-08 13:08:57+00:00,['1534522871220928514'],🎻 pals: https://t.co/k9FjTcl6Tt,pal,pal 
 1.5342364841228452e+18,2022-06-07 18:10:57+00:00,['1534236484122845186'],"🎶 Dee + Don Ceilidh Collective
-https://t.co/OwFo3PPWjv",dee ceilidh collective
-1.5335008019135857e+18,2022-06-05 17:27:36+00:00,['1533500801913585664'],@AnnaSte66524129 Isn’t that what retirement is for? 🤔,isnt retirement
-1.5328147471287624e+18,2022-06-03 20:01:28+00:00,['1532814747128762369'],@frank3davies @peterbrownbarra Correct!,correct
-1.5328146383578276e+18,2022-06-03 20:01:02+00:00,['1532814638357827584'],@peterbrownbarra @BarraIsland It’s The Lady of Avenel with the @SessionsAndSail crew aboard 😁,lady avenel crew aboard
-1.532813567153607e+18,2022-06-03 19:56:47+00:00,['1532813567153606658'],@MathewsSonya 😁🙌🏻,
-1.5327798745738158e+18,2022-06-03 17:42:54+00:00,['1532779874573815814'],@rickyaross ❤️,
-1.5324532284236595e+18,2022-06-02 20:04:55+00:00,['1532453228423659531'],@Historic_Ally @sarasheridan How very sad…,sad
-1.5324246959492833e+18,2022-06-02 18:11:33+00:00,['1532424695949283328'],@Laurenmaccoll1 Ooo 😢,ooo
-1.532424319866966e+18,2022-06-02 18:10:03+00:00,['1532424319866966021'],@JackyP599 Yip.,yip
-1.5323048699477606e+18,2022-06-02 10:15:24+00:00,['1532304869947760640'],"@AnthonyBarnett Happy birthday, Tom, and congratulations! Read your book with great interest when it was first published. Now seems like an apt time for a re-read - and to pass it on.",happy birthday tom congratulation read book great interest first published seems like apt time reread pas
-1.5322720012929477e+18,2022-06-02 08:04:48+00:00,['1532272001292947456'],"@KelvingroveArt Is it open today, Thursday 2/6, please?",open today thursday please
-1.531931604737835e+18,2022-06-01 09:32:11+00:00,['1531931604737835008'],"@SGMacleanauthor Congratulations, Shona!",congratulation shona
-1.5317817922728837e+18,2022-05-31 23:36:53+00:00,['1531781792272883712'],@DavidLawTennis @russellcfuller @Annabel_Croft @laurarobson5 @5liveSport @BBCSport Great coverage! Thanks!,great coverage thanks
-1.53061873079065e+18,2022-05-28 18:35:17+00:00,['1530618730790649858'],"@hazel_thomson16 It was really, really good, thanks, and the audience thoroughly enjoyed it. The Old School, Embo is a lovely community-run venue and Embo is such a beautiful place to put on a concert. https://t.co/Q78ht7BoVq",really really good thanks audience thoroughly enjoyed old school embo lovely communityrun venue embo beautiful place put concert
-1.5305888673378017e+18,2022-05-28 16:36:37+00:00,['1530588867337801739'],@tormid1951 @mckinlay_liz Hope you enjoyed the show!,hope enjoyed show
-1.530543178897666e+18,2022-05-28 13:35:04+00:00,['1530543178897666048'],"@Castlehil19792 @ionafyfe @DandelionScot @AidanMo0die Oh, I think it’s great!",think great
-1.5305187242221076e+18,2022-05-28 11:57:54+00:00,['1530518724222107649'],@sessionupdates Yellow Hares?,yellow hare
-1.5304803940758856e+18,2022-05-28 09:25:35+00:00,['1530480394075885568'],"@DavidRoger1951 @BDR_Andy @RFM_OnAir @RadioMatlock Ditto, round the corner, here in Tain. Good morning, folks!",ditto round corner tain good morning folk
-1.5303196186062356e+18,2022-05-27 22:46:43+00:00,['1530319618606235653'],@LesleyRiddoch As all good coffee houses should be…,good coffee house
-1.530222372233552e+18,2022-05-27 16:20:18+00:00,['1530222372233551873'],This is tonight at 7.30 in Embo. It’s going to be lovely. https://t.co/kUFLN1lOFQ,tonight embo going lovely
-1.5301579710780088e+18,2022-05-27 12:04:23+00:00,['1530157971078008832'],And it’s a truly great listen…,truly great listen
+https://t.co/OwFo3PPWjv",dee ceilidh collective,dee ceilidh collective 
+1.5335008019135857e+18,2022-06-05 17:27:36+00:00,['1533500801913585664'],@AnnaSte66524129 Isn’t that what retirement is for? 🤔,isnt retirement,retirement 
+1.5328147471287624e+18,2022-06-03 20:01:28+00:00,['1532814747128762369'],@frank3davies @peterbrownbarra Correct!,correct,correct 
+1.5328146383578276e+18,2022-06-03 20:01:02+00:00,['1532814638357827584'],@peterbrownbarra @BarraIsland It’s The Lady of Avenel with the @SessionsAndSail crew aboard 😁,lady avenel crew aboard,avenel crew aboard 
+1.532813567153607e+18,2022-06-03 19:56:47+00:00,['1532813567153606658'],@MathewsSonya 😁🙌🏻,,nan 
+1.5327798745738158e+18,2022-06-03 17:42:54+00:00,['1532779874573815814'],@rickyaross ❤️,,nan 
+1.5324532284236595e+18,2022-06-02 20:04:55+00:00,['1532453228423659531'],@Historic_Ally @sarasheridan How very sad…,sad,sad 
+1.5324246959492833e+18,2022-06-02 18:11:33+00:00,['1532424695949283328'],@Laurenmaccoll1 Ooo 😢,ooo,ooo 
+1.532424319866966e+18,2022-06-02 18:10:03+00:00,['1532424319866966021'],@JackyP599 Yip.,yip,yip 
+1.5323048699477606e+18,2022-06-02 10:15:24+00:00,['1532304869947760640'],"@AnthonyBarnett Happy birthday, Tom, and congratulations! Read your book with great interest when it was first published. Now seems like an apt time for a re-read - and to pass it on.",happy birthday tom congratulation read book great interest first published seems like apt time reread pas,birthday congratulation book interest time reread pas 
+1.5322720012929477e+18,2022-06-02 08:04:48+00:00,['1532272001292947456'],"@KelvingroveArt Is it open today, Thursday 2/6, please?",open today thursday please,today please 
+1.531931604737835e+18,2022-06-01 09:32:11+00:00,['1531931604737835008'],"@SGMacleanauthor Congratulations, Shona!",congratulation shona,congratulation shona 
+1.5317817922728837e+18,2022-05-31 23:36:53+00:00,['1531781792272883712'],@DavidLawTennis @russellcfuller @Annabel_Croft @laurarobson5 @5liveSport @BBCSport Great coverage! Thanks!,great coverage thanks,coverage 
+1.53061873079065e+18,2022-05-28 18:35:17+00:00,['1530618730790649858'],"@hazel_thomson16 It was really, really good, thanks, and the audience thoroughly enjoyed it. The Old School, Embo is a lovely community-run venue and Embo is such a beautiful place to put on a concert. https://t.co/Q78ht7BoVq",really really good thanks audience thoroughly enjoyed old school embo lovely communityrun venue embo beautiful place put concert,audience school embo venue embo place concert 
+1.5305888673378017e+18,2022-05-28 16:36:37+00:00,['1530588867337801739'],@tormid1951 @mckinlay_liz Hope you enjoyed the show!,hope enjoyed show,hope show 
+1.530543178897666e+18,2022-05-28 13:35:04+00:00,['1530543178897666048'],"@Castlehil19792 @ionafyfe @DandelionScot @AidanMo0die Oh, I think it’s great!",think great,think 
+1.5305187242221076e+18,2022-05-28 11:57:54+00:00,['1530518724222107649'],@sessionupdates Yellow Hares?,yellow hare,hare 
+1.5304803940758856e+18,2022-05-28 09:25:35+00:00,['1530480394075885568'],"@DavidRoger1951 @BDR_Andy @RFM_OnAir @RadioMatlock Ditto, round the corner, here in Tain. Good morning, folks!",ditto round corner tain good morning folk,ditto round corner tain morning folk 
+1.5303196186062356e+18,2022-05-27 22:46:43+00:00,['1530319618606235653'],@LesleyRiddoch As all good coffee houses should be…,good coffee house,coffee house 
+1.530222372233552e+18,2022-05-27 16:20:18+00:00,['1530222372233551873'],This is tonight at 7.30 in Embo. It’s going to be lovely. https://t.co/kUFLN1lOFQ,tonight embo going lovely,tonight embo 
+1.5301579710780088e+18,2022-05-27 12:04:23+00:00,['1530157971078008832'],And it’s a truly great listen…,truly great listen,
 1.53014733994342e+18,2022-05-27 11:22:09+00:00,['1530147339943419904'],"Look at what arrived this morning! 
-💿 💿💿💿💿💿💿💿💿💿💿💿 https://t.co/9Erck037iR",look arrived morning
-1.5301211187947192e+18,2022-05-27 09:37:57+00:00,['1530121118794719233'],@cligeey @aduncan59 @LeftPeggers @MareeToddMSP 😆😁🥲,
+💿 💿💿💿💿💿💿💿💿💿💿💿 https://t.co/9Erck037iR",look arrived morning,look morning 
+1.5301211187947192e+18,2022-05-27 09:37:57+00:00,['1530121118794719233'],@cligeey @aduncan59 @LeftPeggers @MareeToddMSP 😆😁🥲,,nan 
 1.5300772033078313e+18,2022-05-27 06:43:27+00:00,['1530077203307831296'],"🎶 Tonight, in Embo
-@SuthSessions https://t.co/DOogfAchB5",tonight embo
-1.5299323573939569e+18,2022-05-26 21:07:53+00:00,['1529932357393956895'],@LeftPeggers @MareeToddMSP Ah… now I know. Thanks!,know thanks
-1.5299201171481108e+18,2022-05-26 20:19:15+00:00,['1529920117148110861'],"@LeftPeggers @MareeToddMSP How do you pronounce Sandend, then?",pronounce sandend
-1.5298558338651791e+18,2022-05-26 16:03:48+00:00,['1529855833865179137'],@PartickThistle 😳,
-1.5297977888500818e+18,2022-05-26 12:13:09+00:00,['1529797788850081797'],@ionafyfe Love this song!,love song
-1.529796643029242e+18,2022-05-26 12:08:36+00:00,['1529796643029241856'],@HarryBowe6 @ionafyfe That’s interesting.,thats interesting
-1.529795079157817e+18,2022-05-26 12:02:23+00:00,['1529795079157817344'],"@mralanmorrison @iphraser @FeisRois Oh, it’s great! 👍🏻",great
-1.5297733481960817e+18,2022-05-26 10:36:02+00:00,['1529773348196081666'],Tickets online from Eventbrite or at the door on the night. Starts at 7.30pm.,ticket online eventbrite door night start
-1.5297384169501125e+18,2022-05-26 08:17:14+00:00,['1529738416950112258'],@hazel_thomson16 Gordon Gunn is one of my favourite Scottish fiddlers. Sutherland Sessions are so fortunate to have him play for us in Embo tomorrow night! 🎻❤️,gordon gunn one favourite scottish fiddler sutherland session fortunate play embo tomorrow night
-1.5297379243125432e+18,2022-05-26 08:15:16+00:00,['1529737924312543234'],@hazel_thomson16 Andy is amazing! Wish you were able to come to Embo! 😁👍🏻,andy amazing wish able come embo
-1.5296935666662523e+18,2022-05-26 05:19:01+00:00,['1529693566666252288'],🎶 Tomorrow! https://t.co/Mht9U1y0gt,tomorrow
-1.5295508222620672e+18,2022-05-25 19:51:48+00:00,['1529550822262067202'],https://t.co/s16RbV4N3g,
-1.5295504168448246e+18,2022-05-25 19:50:11+00:00,['1529550416844824578'],@BeckyMillhouse @SessionsAndSail Looks great!,look great
-1.529430114244694e+18,2022-05-25 11:52:09+00:00,['1529430114244694016'],🎻🎹 and poems - this Friday evening in EMBO! https://t.co/KOb7Femx6c,poem friday evening embo
-1.5291750297784566e+18,2022-05-24 18:58:32+00:00,['1529175029778456578'],"This is on again this Friday evening in Embo Old School, courtesy of @SuthSessions https://t.co/9nKyk7hx4w",friday evening embo old school courtesy
-1.5291742421175296e+18,2022-05-24 18:55:24+00:00,['1529174242117529600'],@SuthSessions I’ve just seen this. That was great.,ive seen great
-1.52912413829145e+18,2022-05-24 15:36:18+00:00,['1529124138291449859'],@churchscotland Many thanks for this 🙏🏻,many thanks
-1.5291216438339912e+18,2022-05-24 15:26:24+00:00,['1529121643833991168'],@churchscotland Thank you. I would like to hear or read Dr Brown’s words in the wider context so that I have a clearer understanding 😊,thank would like hear read brown word wider context clearer understanding
-1.5291203833996083e+18,2022-05-24 15:21:23+00:00,['1529120383399608322'],"@churchscotland The second one, obvs.",second one obvs
-1.5291202575579054e+18,2022-05-24 15:20:53+00:00,['1529120257557905414'],"@churchscotland Is this an accurate quotation, please? 🤔",accurate quotation please
-1.5283487089239695e+18,2022-05-22 12:15:02+00:00,['1528348708923969537'],https://t.co/uvxYynEP6I,
-1.5281413415653663e+18,2022-05-21 22:31:01+00:00,['1528141341565366272'],"@hazel_thomson16 @HighlandRampage @DavidRoger1951 @SessionsAndSail Oh, fantastic! Thank you so much. I would guess that you took the photos the month before they were published in the P&amp;J. If I’m correct, I was on board at the time. It might even be my washing on the line 😆",fantastic thank much would guess took photo month published pampj correct board time might even washing line
-1.5281122293710234e+18,2022-05-21 20:35:21+00:00,['1528112229371023360'],@mokaher 🤦🏼‍♀️❤️,
-1.5281070245417984e+18,2022-05-21 20:14:40+00:00,['1528107024541798403'],@shirley_barr That must have been awesome!,must awesome
-1.5280608449107763e+18,2022-05-21 17:11:10+00:00,['1528060844910776320'],@oakroyd Many happy memories…,many happy memory
-1.528012637929341e+18,2022-05-21 13:59:36+00:00,['1528012637929340928'],@FlookQuartet 😁,
-1.527947788574663e+18,2022-05-21 09:41:55+00:00,['1527947788574662657'],"@adamfiddle @DavidRoger1951 @BDR_Andy @FlookQuartet 😂😂😂 Welcome to the Bestest Club, then! 😁👍🏻",welcome bestest club
-1.527937789089788e+18,2022-05-21 09:02:11+00:00,['1527937789089787904'],@BDR_Andy @RoryMatheson88 @graham_rorie I love this album with all my heart and soul! ❤️,love album heart soul
-1.5279356900586373e+18,2022-05-21 08:53:50+00:00,['1527935690058637312'],"@DavidRoger1951 @BDR_Andy @FlookQuartet @adamfiddle Actually, Adam would never say “bestest”…",actually adam would never say bestest
-1.5279310420106363e+18,2022-05-21 08:35:22+00:00,['1527931042010636289'],@BDR_Andy @DavidRoger1951 @FlookQuartet @adamfiddle This is why we have @SuthSessions 😁,
-1.5279304893398876e+18,2022-05-21 08:33:10+00:00,['1527930489339887617'],@BDR_Andy @DavidRoger1951 @FlookQuartet @adamfiddle Would love to! It would only take me about 8 hours! 😁👍🏻,would love would take hour
-1.527929913927512e+18,2022-05-21 08:30:53+00:00,['1527929913927512065'],@DavidRoger1951 @BDR_Andy @FlookQuartet To kinda quote @adamfiddle: “Never mind The Beatles and The Stones… @FlookQuartet are the bestest band in the world”!,kinda quote never mind beatles stone bestest band world
-1.52792558864794e+18,2022-05-21 08:13:42+00:00,['1527925588647940096'],"@LifeAfloat Oh, that’s disappointing, Nick. I’m pretty sure that others will be interested in commissioning your work, though. I, for one, would love to follow your journey on film.",thats disappointing nick pretty sure others interested commissioning work though one would love follow journey film
-1.5279221469908582e+18,2022-05-21 08:00:01+00:00,['1527922146990858242'],"@hazel_thomson16 @HighlandRampage @DavidRoger1951 @SessionsAndSail Ohhh, thank you! 💙",ohhh thank
-1.5279156560747438e+18,2022-05-21 07:34:14+00:00,['1527915656074743809'],@HighlandRampage @DavidRoger1951 @SessionsAndSail see* 😉😁,see
-1.5279150140777964e+18,2022-05-21 07:31:41+00:00,['1527915014077796352'],"@hazel_thomson16 @HighlandRampage @DavidRoger1951 @SessionsAndSail Really? That’s great! This will be my fourth trip aboard… It would be lovely to see your photograph, too, if that’s a possibility 😊",really thats great fourth trip aboard would lovely see photograph thats possibility
-1.5278074360480236e+18,2022-05-21 00:24:12+00:00,['1527807436048023552'],@LindaAnneWilson @GaryInnes @EdenCourt Wasn’t it just? 😁🙌🏻,wasnt
-1.5277182173885317e+18,2022-05-20 18:29:41+00:00,['1527718217388531712'],@NicolaSturgeon @scotgov ❤️,
-1.5275911469811384e+18,2022-05-20 10:04:45+00:00,['1527591146981138433'],@UKHarpists @HighlandRampage @DavidRoger1951 @SessionsAndSail Thank you!,thank
-1.5275836128953876e+18,2022-05-20 09:34:49+00:00,['1527583612895387649'],"@UKHarpists @HighlandRampage @DavidRoger1951 @SessionsAndSail Oh, how wonderful! I’m looking forward to joining her again for a musical voyage along the rugged and beautiful coast of Donegal in just a few weeks’ time. There will be photographs! 📸",wonderful looking forward joining musical voyage along rugged beautiful coast donegal week time photograph
-1.5275796016770417e+18,2022-05-20 09:18:52+00:00,['1527579601677041664'],@HighlandRampage @DavidRoger1951 It’s so fascinating to sea a bird’s eye view of the road! I loved going between Shieldaig and Applecross by sea on tall ship The Lady of Avenel during the 2019 voyage of @SessionsAndSail 🎶🎻 🌊,fascinating sea bird eye view road loved going shieldaig applecross sea tall ship lady avenel voyage
-1.5275672027648696e+18,2022-05-20 08:29:36+00:00,['1527567202764869632'],@ruairidhgollan First album cover!,first album cover
-1.527562066185298e+18,2022-05-20 08:09:11+00:00,['1527562066185297921'],"@JackyP599 @mckaystout Oh, wonderful!",wonderful
-1.5275573785893028e+18,2022-05-20 07:50:34+00:00,['1527557378589302784'],🎶 This looks unmissable! https://t.co/gzLMIQaoIB,look unmissable
-1.526994480036987e+18,2022-05-18 18:33:48+00:00,['1526994480036986882'],@TarbatDiscovery Congratulations - that’s great!,congratulation thats great
-1.5266854688338125e+18,2022-05-17 22:05:54+00:00,['1526685468833812480'],@kitbailey Always ❤️,always
-1.525933028404605e+18,2022-05-15 20:15:59+00:00,['1525933028404604936'],@DGaidhlig Thanks for taking notes for me! It looks like we’re pretty much at the same stage! 😁👍🏻,thanks taking note look like pretty much stage
-1.525172409984336e+18,2022-05-13 17:53:33+00:00,['1525172409984335873'],"@alistair_firth @NicUalraig This was clearly an excellent undertaking, too.",clearly excellent undertaking
-1.5251322279899791e+18,2022-05-13 15:13:53+00:00,['1525132227989979137'],@NicUalraig What a great idea!,great idea
-1.5234005571297772e+18,2022-05-08 20:32:50+00:00,['1523400557129777152'],@iphraser 😊,
+@SuthSessions https://t.co/DOogfAchB5",tonight embo,tonight embo 
+1.5299323573939569e+18,2022-05-26 21:07:53+00:00,['1529932357393956895'],@LeftPeggers @MareeToddMSP Ah… now I know. Thanks!,know thanks,
+1.5299201171481108e+18,2022-05-26 20:19:15+00:00,['1529920117148110861'],"@LeftPeggers @MareeToddMSP How do you pronounce Sandend, then?",pronounce sandend,pronounce sandend 
+1.5298558338651791e+18,2022-05-26 16:03:48+00:00,['1529855833865179137'],@PartickThistle 😳,,nan 
+1.5297977888500818e+18,2022-05-26 12:13:09+00:00,['1529797788850081797'],@ionafyfe Love this song!,love song,love song 
+1.529796643029242e+18,2022-05-26 12:08:36+00:00,['1529796643029241856'],@HarryBowe6 @ionafyfe That’s interesting.,thats interesting,
+1.529795079157817e+18,2022-05-26 12:02:23+00:00,['1529795079157817344'],"@mralanmorrison @iphraser @FeisRois Oh, it’s great! 👍🏻",great,
+1.5297733481960817e+18,2022-05-26 10:36:02+00:00,['1529773348196081666'],Tickets online from Eventbrite or at the door on the night. Starts at 7.30pm.,ticket online eventbrite door night start,ticket online door night start 
+1.5297384169501125e+18,2022-05-26 08:17:14+00:00,['1529738416950112258'],@hazel_thomson16 Gordon Gunn is one of my favourite Scottish fiddlers. Sutherland Sessions are so fortunate to have him play for us in Embo tomorrow night! 🎻❤️,gordon gunn one favourite scottish fiddler sutherland session fortunate play embo tomorrow night,gordon gunn favourite fiddler sutherland session play embo tomorrow night 
+1.5297379243125432e+18,2022-05-26 08:15:16+00:00,['1529737924312543234'],@hazel_thomson16 Andy is amazing! Wish you were able to come to Embo! 😁👍🏻,andy amazing wish able come embo,come embo 
+1.5296935666662523e+18,2022-05-26 05:19:01+00:00,['1529693566666252288'],🎶 Tomorrow! https://t.co/Mht9U1y0gt,tomorrow,tomorrow 
+1.5295508222620672e+18,2022-05-25 19:51:48+00:00,['1529550822262067202'],https://t.co/s16RbV4N3g,,nan 
+1.5295504168448246e+18,2022-05-25 19:50:11+00:00,['1529550416844824578'],@BeckyMillhouse @SessionsAndSail Looks great!,look great,look 
+1.529430114244694e+18,2022-05-25 11:52:09+00:00,['1529430114244694016'],🎻🎹 and poems - this Friday evening in EMBO! https://t.co/KOb7Femx6c,poem friday evening embo,poem friday embo 
+1.5291750297784566e+18,2022-05-24 18:58:32+00:00,['1529175029778456578'],"This is on again this Friday evening in Embo Old School, courtesy of @SuthSessions https://t.co/9nKyk7hx4w",friday evening embo old school courtesy,school courtesy 
+1.5291742421175296e+18,2022-05-24 18:55:24+00:00,['1529174242117529600'],@SuthSessions I’ve just seen this. That was great.,ive seen great,
+1.52912413829145e+18,2022-05-24 15:36:18+00:00,['1529124138291449859'],@churchscotland Many thanks for this 🙏🏻,many thanks,
+1.5291216438339912e+18,2022-05-24 15:26:24+00:00,['1529121643833991168'],@churchscotland Thank you. I would like to hear or read Dr Brown’s words in the wider context so that I have a clearer understanding 😊,thank would like hear read brown word wider context clearer understanding,thank word wider context clearer 
+1.5291203833996083e+18,2022-05-24 15:21:23+00:00,['1529120383399608322'],"@churchscotland The second one, obvs.",second one obvs,obvs 
+1.5291202575579054e+18,2022-05-24 15:20:53+00:00,['1529120257557905414'],"@churchscotland Is this an accurate quotation, please? 🤔",accurate quotation please,quotation please 
+1.5283487089239695e+18,2022-05-22 12:15:02+00:00,['1528348708923969537'],https://t.co/uvxYynEP6I,,nan 
+1.5281413415653663e+18,2022-05-21 22:31:01+00:00,['1528141341565366272'],"@hazel_thomson16 @HighlandRampage @DavidRoger1951 @SessionsAndSail Oh, fantastic! Thank you so much. I would guess that you took the photos the month before they were published in the P&amp;J. If I’m correct, I was on board at the time. It might even be my washing on the line 😆",fantastic thank much would guess took photo month published pampj correct board time might even washing line,thank month pampj board time line 
+1.5281122293710234e+18,2022-05-21 20:35:21+00:00,['1528112229371023360'],@mokaher 🤦🏼‍♀️❤️,,nan 
+1.5281070245417984e+18,2022-05-21 20:14:40+00:00,['1528107024541798403'],@shirley_barr That must have been awesome!,must awesome,
+1.5280608449107763e+18,2022-05-21 17:11:10+00:00,['1528060844910776320'],@oakroyd Many happy memories…,many happy memory,memory 
+1.528012637929341e+18,2022-05-21 13:59:36+00:00,['1528012637929340928'],@FlookQuartet 😁,,nan 
+1.527947788574663e+18,2022-05-21 09:41:55+00:00,['1527947788574662657'],"@adamfiddle @DavidRoger1951 @BDR_Andy @FlookQuartet 😂😂😂 Welcome to the Bestest Club, then! 😁👍🏻",welcome bestest club,club 
+1.527937789089788e+18,2022-05-21 09:02:11+00:00,['1527937789089787904'],@BDR_Andy @RoryMatheson88 @graham_rorie I love this album with all my heart and soul! ❤️,love album heart soul,heart soul 
+1.5279356900586373e+18,2022-05-21 08:53:50+00:00,['1527935690058637312'],"@DavidRoger1951 @BDR_Andy @FlookQuartet @adamfiddle Actually, Adam would never say “bestest”…",actually adam would never say bestest,
+1.5279310420106363e+18,2022-05-21 08:35:22+00:00,['1527931042010636289'],@BDR_Andy @DavidRoger1951 @FlookQuartet @adamfiddle This is why we have @SuthSessions 😁,,nan 
+1.5279304893398876e+18,2022-05-21 08:33:10+00:00,['1527930489339887617'],@BDR_Andy @DavidRoger1951 @FlookQuartet @adamfiddle Would love to! It would only take me about 8 hours! 😁👍🏻,would love would take hour,hour 
+1.527929913927512e+18,2022-05-21 08:30:53+00:00,['1527929913927512065'],@DavidRoger1951 @BDR_Andy @FlookQuartet To kinda quote @adamfiddle: “Never mind The Beatles and The Stones… @FlookQuartet are the bestest band in the world”!,kinda quote never mind beatles stone bestest band world,kinda quote mind band world 
+1.52792558864794e+18,2022-05-21 08:13:42+00:00,['1527925588647940096'],"@LifeAfloat Oh, that’s disappointing, Nick. I’m pretty sure that others will be interested in commissioning your work, though. I, for one, would love to follow your journey on film.",thats disappointing nick pretty sure others interested commissioning work though one would love follow journey film,work journey film 
+1.5279221469908582e+18,2022-05-21 08:00:01+00:00,['1527922146990858242'],"@hazel_thomson16 @HighlandRampage @DavidRoger1951 @SessionsAndSail Ohhh, thank you! 💙",ohhh thank,
+1.5279156560747438e+18,2022-05-21 07:34:14+00:00,['1527915656074743809'],@HighlandRampage @DavidRoger1951 @SessionsAndSail see* 😉😁,see,
+1.5279150140777964e+18,2022-05-21 07:31:41+00:00,['1527915014077796352'],"@hazel_thomson16 @HighlandRampage @DavidRoger1951 @SessionsAndSail Really? That’s great! This will be my fourth trip aboard… It would be lovely to see your photograph, too, if that’s a possibility 😊",really thats great fourth trip aboard would lovely see photograph thats possibility,trip aboard possibility 
+1.5278074360480236e+18,2022-05-21 00:24:12+00:00,['1527807436048023552'],@LindaAnneWilson @GaryInnes @EdenCourt Wasn’t it just? 😁🙌🏻,wasnt,wasnt 
+1.5277182173885317e+18,2022-05-20 18:29:41+00:00,['1527718217388531712'],@NicolaSturgeon @scotgov ❤️,,nan 
+1.5275911469811384e+18,2022-05-20 10:04:45+00:00,['1527591146981138433'],@UKHarpists @HighlandRampage @DavidRoger1951 @SessionsAndSail Thank you!,thank,thank 
+1.5275836128953876e+18,2022-05-20 09:34:49+00:00,['1527583612895387649'],"@UKHarpists @HighlandRampage @DavidRoger1951 @SessionsAndSail Oh, how wonderful! I’m looking forward to joining her again for a musical voyage along the rugged and beautiful coast of Donegal in just a few weeks’ time. There will be photographs! 📸",wonderful looking forward joining musical voyage along rugged beautiful coast donegal week time photograph,voyage coast week time photograph 
+1.5275796016770417e+18,2022-05-20 09:18:52+00:00,['1527579601677041664'],@HighlandRampage @DavidRoger1951 It’s so fascinating to sea a bird’s eye view of the road! I loved going between Shieldaig and Applecross by sea on tall ship The Lady of Avenel during the 2019 voyage of @SessionsAndSail 🎶🎻 🌊,fascinating sea bird eye view road loved going shieldaig applecross sea tall ship lady avenel voyage,sea bird eye view road sea ship avenel voyage 
+1.5275672027648696e+18,2022-05-20 08:29:36+00:00,['1527567202764869632'],@ruairidhgollan First album cover!,first album cover,cover 
+1.527562066185298e+18,2022-05-20 08:09:11+00:00,['1527562066185297921'],"@JackyP599 @mckaystout Oh, wonderful!",wonderful,wonderful 
+1.5275573785893028e+18,2022-05-20 07:50:34+00:00,['1527557378589302784'],🎶 This looks unmissable! https://t.co/gzLMIQaoIB,look unmissable,look 
+1.526994480036987e+18,2022-05-18 18:33:48+00:00,['1526994480036986882'],@TarbatDiscovery Congratulations - that’s great!,congratulation thats great,congratulation 
+1.5266854688338125e+18,2022-05-17 22:05:54+00:00,['1526685468833812480'],@kitbailey Always ❤️,always,
+1.525933028404605e+18,2022-05-15 20:15:59+00:00,['1525933028404604936'],@DGaidhlig Thanks for taking notes for me! It looks like we’re pretty much at the same stage! 😁👍🏻,thanks taking note look like pretty much stage,look stage 
+1.525172409984336e+18,2022-05-13 17:53:33+00:00,['1525172409984335873'],"@alistair_firth @NicUalraig This was clearly an excellent undertaking, too.",clearly excellent undertaking,undertaking 
+1.5251322279899791e+18,2022-05-13 15:13:53+00:00,['1525132227989979137'],@NicUalraig What a great idea!,great idea,idea 
+1.5234005571297772e+18,2022-05-08 20:32:50+00:00,['1523400557129777152'],@iphraser 😊,,nan 
 1.5232865757693297e+18,2022-05-08 12:59:55+00:00,['1523286575769329665'],"I've just signed this petition. Will you add your name and share too?
- https://t.co/WVPArDPro2 via @38_degrees",i've signed petition add name share via
+ https://t.co/WVPArDPro2 via @38_degrees",i've signed petition add name share via,i petition add name share 
 1.523265335826264e+18,2022-05-08 11:35:31+00:00,['1523265335826264064'],"Listening to #gneiss by @iphraser and thinking about just how good it is… 
 The photography is a perfect accompaniment and it’s by @fatherofschmO 
-This is the third album to have been commissioned by @FeisRois and it’s available on @Bandcamp https://t.co/urkBHNDn1A",listening thinking good photography perfect accompaniment third album commissioned available
-1.5228909844215685e+18,2022-05-07 10:47:59+00:00,['1522890984421568512'],@BDR_Andy That IS beautiful!,beautiful
-1.5228581130822697e+18,2022-05-07 08:37:22+00:00,['1522858113082269696'],@BDR_Andy 👍🏻😀,
-1.5228535616835092e+18,2022-05-07 08:19:17+00:00,['1522853561683509248'],"@BDR_Andy Good morning, Andy… That’s a beautiful spot!",good morning andy thats beautiful spot
-1.522726507055047e+18,2022-05-06 23:54:24+00:00,['1522726507055046656'],@iain_00 @foreigncorr1 @UllapoolBookFes @ruth_wishart @TheCeilidhPlace I concur. The talk by @foreigncorr1 was riveting.,concur talk riveting
-1.522583141784957e+18,2022-05-06 14:24:43+00:00,['1522583141784956928'],"@LoudenDW Congratulations on your re-election, Derek!  #snp",congratulation reelection derek
-1.5208298775109427e+18,2022-05-01 18:17:53+00:00,['1520829877510942720'],@adamfiddle A 🍑,
-1.5207664036153344e+18,2022-05-01 14:05:39+00:00,['1520766403615334401'],@shirley_barr S e do bheatha!,bheatha
-1.520746752416129e+18,2022-05-01 12:47:34+00:00,['1520746752416129026'],"@shirley_barr It’s bright, breezy and catchy. Well done, Shirley! ☀️",bright breezy catchy well done shirley
-1.520676788636115e+18,2022-05-01 08:09:33+00:00,['1520676788636114945'],"@JimCMackintosh @GaryInnes I am, thanks, Jim 👍🏻",thanks jim
-1.5205317144010916e+18,2022-04-30 22:33:05+00:00,['1520531714401091593'],@JimCMackintosh @GaryInnes Lovely interview! 👏🏻,lovely interview
-1.520526629956694e+18,2022-04-30 22:12:53+00:00,['1520526629956694017'],@silverwifie @NeilDrysdale @kathrynjoseph_ @SAYaward Kathryn’s new album #foryouwhoarethewronged is so very good and - I think - her best yet.,kathryns new album good think best yet
-1.5205118517627986e+18,2022-04-30 21:14:09+00:00,['1520511851762798592'],@LesleyRiddoch 🤦🏼‍♀️ Unbearably awful.,unbearably awful
-1.5204022641789706e+18,2022-04-30 13:58:42+00:00,['1520402264178970627'],"@lauraidoak @linda83ross I’ve just seen your reply. I wonder if the tool I posted is the one that you have already used, then… 🤔",ive seen reply wonder tool posted one already used
+This is the third album to have been commissioned by @FeisRois and it’s available on @Bandcamp https://t.co/urkBHNDn1A",listening thinking good photography perfect accompaniment third album commissioned available,photography album 
+1.5228909844215685e+18,2022-05-07 10:47:59+00:00,['1522890984421568512'],@BDR_Andy That IS beautiful!,beautiful,beautiful 
+1.5228581130822697e+18,2022-05-07 08:37:22+00:00,['1522858113082269696'],@BDR_Andy 👍🏻😀,,nan 
+1.5228535616835092e+18,2022-05-07 08:19:17+00:00,['1522853561683509248'],"@BDR_Andy Good morning, Andy… That’s a beautiful spot!",good morning andy thats beautiful spot,morning andy spot 
+1.522726507055047e+18,2022-05-06 23:54:24+00:00,['1522726507055046656'],@iain_00 @foreigncorr1 @UllapoolBookFes @ruth_wishart @TheCeilidhPlace I concur. The talk by @foreigncorr1 was riveting.,concur talk riveting,concur talk 
+1.522583141784957e+18,2022-05-06 14:24:43+00:00,['1522583141784956928'],"@LoudenDW Congratulations on your re-election, Derek!  #snp",congratulation reelection derek,congratulation reelection derek 
+1.5208298775109427e+18,2022-05-01 18:17:53+00:00,['1520829877510942720'],@adamfiddle A 🍑,,nan 
+1.5207664036153344e+18,2022-05-01 14:05:39+00:00,['1520766403615334401'],@shirley_barr S e do bheatha!,bheatha,bheatha 
+1.520746752416129e+18,2022-05-01 12:47:34+00:00,['1520746752416129026'],"@shirley_barr It’s bright, breezy and catchy. Well done, Shirley! ☀️",bright breezy catchy well done shirley,breezy catchy shirley 
+1.520676788636115e+18,2022-05-01 08:09:33+00:00,['1520676788636114945'],"@JimCMackintosh @GaryInnes I am, thanks, Jim 👍🏻",thanks jim,jim 
+1.5205317144010916e+18,2022-04-30 22:33:05+00:00,['1520531714401091593'],@JimCMackintosh @GaryInnes Lovely interview! 👏🏻,lovely interview,interview 
+1.520526629956694e+18,2022-04-30 22:12:53+00:00,['1520526629956694017'],@silverwifie @NeilDrysdale @kathrynjoseph_ @SAYaward Kathryn’s new album #foryouwhoarethewronged is so very good and - I think - her best yet.,kathryns new album good think best yet,album think 
+1.5205118517627986e+18,2022-04-30 21:14:09+00:00,['1520511851762798592'],@LesleyRiddoch 🤦🏼‍♀️ Unbearably awful.,unbearably awful,
+1.5204022641789706e+18,2022-04-30 13:58:42+00:00,['1520402264178970627'],"@lauraidoak @linda83ross I’ve just seen your reply. I wonder if the tool I posted is the one that you have already used, then… 🤔",ive seen reply wonder tool posted one already used,reply wonder tool 
 1.5204017763646956e+18,2022-04-30 13:56:45+00:00,['1520401776364695556'],"@lauraidoak @linda83ross This is it:
 
 https://t.co/9kbsSLqbN0
 
-Thanks to @FonLcam",thanks
-1.520394480754602e+18,2022-04-30 13:27:46+00:00,['1520394480754601985'],"@lauraidoak @linda83ross I came across a list of numbers and dates at one point over the last while. I can’t remember where I saw it, but at least you know now that such a thing exists. Sorry I can’t be more helpful.",came across list number date one point last cant remember saw least know thing exists sorry cant helpful
+Thanks to @FonLcam",thanks,
+1.520394480754602e+18,2022-04-30 13:27:46+00:00,['1520394480754601985'],"@lauraidoak @linda83ross I came across a list of numbers and dates at one point over the last while. I can’t remember where I saw it, but at least you know now that such a thing exists. Sorry I can’t be more helpful.",came across list number date one point last cant remember saw least know thing exists sorry cant helpful,list number date point remember thing helpful 
 1.5203618475049124e+18,2022-04-30 11:18:06+00:00,['1520361847504912385'],"Loving the scintillating new album from @Kinnaris5 
 💞💞💞💞💞
 Awesome artwork from @fatherofschmO too…
-#thistoo https://t.co/iWsO3MDY24",loving scintillating new album awesome artwork
-1.520357361919144e+18,2022-04-30 11:00:16+00:00,['1520357361919143937'],@BDR_Andy @skyedrummer Everybody needs to hear this…,everybody need hear
-1.5203551897352397e+18,2022-04-30 10:51:38+00:00,['1520355189735239684'],"@BDR_Andy @Kinnaris5 Love this, too! Arrived yesterday 💞",love arrived yesterday
-1.5203509013487985e+18,2022-04-30 10:34:36+00:00,['1520350901348798465'],@BDR_Andy @EwanMacpherson @hudson_records Perfect.,perfect
-1.5203288188248228e+18,2022-04-30 09:06:51+00:00,['1520328818824822784'],@BDR_Andy @RFM_OnAir Thank you - I am 😊,thank
-1.5203256350083072e+18,2022-04-30 08:54:12+00:00,['1520325635008307200'],"@BDR_Andy @RFM_OnAir Good morning, Andy. Really lovely listening again this Saturday morning… It’s good gardening weather here and I’m about to take you outside 😀",good morning andy really lovely listening saturday morning good gardening weather take outside
-1.5203243671540408e+18,2022-04-30 08:49:10+00:00,['1520324367154040833'],@BDR_Andy @FrayaThomsen Absolutely beautiful! 😍,absolutely beautiful
-1.5201591143320945e+18,2022-04-29 21:52:30+00:00,['1520159114332094465'],@fra_c_m @fatherofschmO 😀😆👍🏻,
-1.5194552805930555e+18,2022-04-27 23:15:43+00:00,['1519455280593055747'],"An absolute treat, if you can make it… https://t.co/zhOIaqVemf",absolute treat make
-1.5192516230333809e+18,2022-04-27 09:46:27+00:00,['1519251623033380864'],"@cattler Thanks, Andy.",thanks andy
-1.5192394835431506e+18,2022-04-27 08:58:13+00:00,['1519239483543150592'],"@_PaulMonaghan Thanks, Paul!",thanks paul
-1.519041196945023e+18,2022-04-26 19:50:18+00:00,['1519041196945022982'],"@BDR_Andy It was a beautiful afternoon, Andy…",beautiful afternoon andy
-1.5190406862549688e+18,2022-04-26 19:48:16+00:00,['1519040686254968834'],"🎶 Beautiful music tomorrow (Wednesday) evening from composer/fiddler extraordinaire, Iain Fraser + band, in the very special atmosphere of Tulloch Castle, Dingwall… https://t.co/0j2ULAGQQx",beautiful music tomorrow wednesday evening composerfiddler extraordinaire iain fraser band special atmosphere tulloch castle dingwall
-1.5190052804152402e+18,2022-04-26 17:27:35+00:00,['1519005280415240194'],The Dornoch Firth was looking awesome this afternoon. https://t.co/Ooi5L0WTsX,dornoch firth looking awesome afternoon
-1.5189973636202086e+18,2022-04-26 16:56:07+00:00,['1518997363620208642'],"@ionafyfe @NicolaSturgeon @fraserband @WeAreTheMU @ScottishTUC Congratulations, Iona!",congratulation iona
+#thistoo https://t.co/iWsO3MDY24",loving scintillating new album awesome artwork,artwork 
+1.520357361919144e+18,2022-04-30 11:00:16+00:00,['1520357361919143937'],@BDR_Andy @skyedrummer Everybody needs to hear this…,everybody need hear,everybody 
+1.5203551897352397e+18,2022-04-30 10:51:38+00:00,['1520355189735239684'],"@BDR_Andy @Kinnaris5 Love this, too! Arrived yesterday 💞",love arrived yesterday,love yesterday 
+1.5203509013487985e+18,2022-04-30 10:34:36+00:00,['1520350901348798465'],@BDR_Andy @EwanMacpherson @hudson_records Perfect.,perfect,perfect 
+1.5203288188248228e+18,2022-04-30 09:06:51+00:00,['1520328818824822784'],@BDR_Andy @RFM_OnAir Thank you - I am 😊,thank,thank 
+1.5203256350083072e+18,2022-04-30 08:54:12+00:00,['1520325635008307200'],"@BDR_Andy @RFM_OnAir Good morning, Andy. Really lovely listening again this Saturday morning… It’s good gardening weather here and I’m about to take you outside 😀",good morning andy really lovely listening saturday morning good gardening weather take outside,morning andy morning gardening 
+1.5203243671540408e+18,2022-04-30 08:49:10+00:00,['1520324367154040833'],@BDR_Andy @FrayaThomsen Absolutely beautiful! 😍,absolutely beautiful,
+1.5201591143320945e+18,2022-04-29 21:52:30+00:00,['1520159114332094465'],@fra_c_m @fatherofschmO 😀😆👍🏻,,nan 
+1.5194552805930555e+18,2022-04-27 23:15:43+00:00,['1519455280593055747'],"An absolute treat, if you can make it… https://t.co/zhOIaqVemf",absolute treat make,treat 
+1.5192516230333809e+18,2022-04-27 09:46:27+00:00,['1519251623033380864'],"@cattler Thanks, Andy.",thanks andy,
+1.5192394835431506e+18,2022-04-27 08:58:13+00:00,['1519239483543150592'],"@_PaulMonaghan Thanks, Paul!",thanks paul,
+1.519041196945023e+18,2022-04-26 19:50:18+00:00,['1519041196945022982'],"@BDR_Andy It was a beautiful afternoon, Andy…",beautiful afternoon andy,afternoon andy 
+1.5190406862549688e+18,2022-04-26 19:48:16+00:00,['1519040686254968834'],"🎶 Beautiful music tomorrow (Wednesday) evening from composer/fiddler extraordinaire, Iain Fraser + band, in the very special atmosphere of Tulloch Castle, Dingwall… https://t.co/0j2ULAGQQx",beautiful music tomorrow wednesday evening composerfiddler extraordinaire iain fraser band special atmosphere tulloch castle dingwall,music tomorrow composerfiddler extraordinaire band castle dingwall 
+1.5190052804152402e+18,2022-04-26 17:27:35+00:00,['1519005280415240194'],The Dornoch Firth was looking awesome this afternoon. https://t.co/Ooi5L0WTsX,dornoch firth looking awesome afternoon,dornoch firth afternoon 
+1.5189973636202086e+18,2022-04-26 16:56:07+00:00,['1518997363620208642'],"@ionafyfe @NicolaSturgeon @fraserband @WeAreTheMU @ScottishTUC Congratulations, Iona!",congratulation iona,congratulation iona 
 1.5182691346639913e+18,2022-04-24 16:42:24+00:00,['1518269134663991297'],"@SessionsAndSail @RattledRig And Carol is an amazing fiddler! 
-😊👍🏻🎻",carol amazing fiddler
-1.518246160150012e+18,2022-04-24 15:11:06+00:00,['1518246160150011904'],@macstronach @DavidRoger1951 Wow.,wow
-1.5178232009394135e+18,2022-04-23 11:10:25+00:00,['1517823200939413505'],"@BDR_Andy What a lovely, lovely show! Thank you, Andy! 👏🏻👏🏻👏🏻👏🏻👏🏻",lovely lovely show thank andy
-1.5178151154957476e+18,2022-04-23 10:38:17+00:00,['1517815115495747584'],@david_grubby @BDR_Andy 🙌🏻😀👍🏻,
-1.5178138631227064e+18,2022-04-23 10:33:19+00:00,['1517813863122706432'],@BDR_Andy @rossainsliemus @timedey So beautiful 🤍,beautiful
-1.5178136767739372e+18,2022-04-23 10:32:34+00:00,['1517813676773937155'],@BDR_Andy @outsidetrack Another great concert coming up in Belper! Clearly the place to be!,another great concert coming belper clearly place
-1.517811900570026e+18,2022-04-23 10:25:31+00:00,['1517811900570025985'],@david_grubby @BDR_Andy 😆👍🏻,
-1.517811015844614e+18,2022-04-23 10:22:00+00:00,['1517811015844614144'],"@BDR_Andy @david_grubby 22 hours and 26 mins is time well worth spending on travelling to a @david_grubby gig, I’m pretty sure. Problem is, I have to be at work at 8.30 on Monday morning 😂😁🙌🏻",hour min time well worth spending travelling gig pretty sure problem work monday morning
-1.5178102954395034e+18,2022-04-23 10:19:08+00:00,['1517810295439503361'],@BDR_Andy @david_grubby 😆 https://t.co/XAPybbkUML,
-1.5178092038842696e+18,2022-04-23 10:14:48+00:00,['1517809203884269568'],@BDR_Andy @JackyP599 @markyp599 @treacherouso 👏🏻👏🏻👏🏻👏🏻👏🏻,
-1.5178072566493143e+18,2022-04-23 10:07:04+00:00,['1517807256649314309'],"@BDR_Andy @david_grubby I love this concept album. You are so lucky to have @david_grubby coming to Belper! I have never seen him live… hopefully, one day!",love concept album lucky coming belper never seen live hopefully one day
-1.5178044718663475e+18,2022-04-23 09:56:00+00:00,['1517804471866347521'],This has just been delivered! Really looking forward to a listen… https://t.co/Ut0gIpxJEY,delivered really looking forward listen
-1.517778801794732e+18,2022-04-23 08:13:59+00:00,['1517778801794732032'],@BDR_Andy 👍🏻,
-1.517777975189594e+18,2022-04-23 08:10:42+00:00,['1517777975189594113'],"@BDR_Andy Good morning, Andy, and other Saturday morning pals! Looking forward to great music for the next three hours to brighten up an overcast morning, here, too 😀",good morning andy saturday morning pal looking forward great music next three hour brighten overcast morning
-1.517493725148164e+18,2022-04-22 13:21:12+00:00,['1517493725148164096'],"@duartlodge @TheBotanics Ah, I thought it was in Inverness! It’s Inverleith House, an art gallery, apparently. Thanks, Peter. Wishing you a good time away!",thought inverness inverleith house art gallery apparently thanks peter wishing good time away
-1.517491549826859e+18,2022-04-22 13:12:33+00:00,['1517491549826859009'],"@duartlodge Where’s the big house, Peter, please?",wheres big house peter please
-1.5174859210499195e+18,2022-04-22 12:50:11+00:00,['1517485921049919492'],@adamfiddle @Thelanguagehub8 🙌🏻😊,
-1.5174782628590838e+18,2022-04-22 12:19:45+00:00,['1517478262859083777'],"@adamfiddle @Thelanguagehub8 Och, that’ll be great! Wish I could go! 😀",och thatll great wish could
-1.5172559121546117e+18,2022-04-21 21:36:13+00:00,['1517255912154611715'],@farinjim Ouch.,ouch
-1.517252853819183e+18,2022-04-21 21:24:04+00:00,['1517252853819183107'],@WorthingtonD 😆☕️👍🏻,
-1.5172410476041544e+18,2022-04-21 20:37:09+00:00,['1517241047604154369'],@shirley_barr Such a good album…,good album
-1.517107735883563e+18,2022-04-21 11:47:25+00:00,['1517107735883563009'],"@SessionsAndSail Ah, the dolphins were amazing! They swam alongside the ship for half an hour as we approached the Island of Easdale. It was a very special experience.",dolphin amazing swam alongside ship half hour approached island easdale special experience
-1.5169142266184622e+18,2022-04-20 22:58:29+00:00,['1516914226618462208'],"@SessionsAndSail @macauc01 Will do, Jenn!",jenn
-1.5169074759030743e+18,2022-04-20 22:31:39+00:00,['1516907475903074305'],@macauc01 @SessionsAndSail Same here!,
+😊👍🏻🎻",carol amazing fiddler,carol fiddler 
+1.518246160150012e+18,2022-04-24 15:11:06+00:00,['1518246160150011904'],@macstronach @DavidRoger1951 Wow.,wow,wow 
+1.5178232009394135e+18,2022-04-23 11:10:25+00:00,['1517823200939413505'],"@BDR_Andy What a lovely, lovely show! Thank you, Andy! 👏🏻👏🏻👏🏻👏🏻👏🏻",lovely lovely show thank andy,show thank andy 
+1.5178151154957476e+18,2022-04-23 10:38:17+00:00,['1517815115495747584'],@david_grubby @BDR_Andy 🙌🏻😀👍🏻,,nan 
+1.5178138631227064e+18,2022-04-23 10:33:19+00:00,['1517813863122706432'],@BDR_Andy @rossainsliemus @timedey So beautiful 🤍,beautiful,beautiful 
+1.5178136767739372e+18,2022-04-23 10:32:34+00:00,['1517813676773937155'],@BDR_Andy @outsidetrack Another great concert coming up in Belper! Clearly the place to be!,another great concert coming belper clearly place,concert place 
+1.517811900570026e+18,2022-04-23 10:25:31+00:00,['1517811900570025985'],@david_grubby @BDR_Andy 😆👍🏻,,nan 
+1.517811015844614e+18,2022-04-23 10:22:00+00:00,['1517811015844614144'],"@BDR_Andy @david_grubby 22 hours and 26 mins is time well worth spending on travelling to a @david_grubby gig, I’m pretty sure. Problem is, I have to be at work at 8.30 on Monday morning 😂😁🙌🏻",hour min time well worth spending travelling gig pretty sure problem work monday morning,hour min time spending problem work monday morning 
+1.5178102954395034e+18,2022-04-23 10:19:08+00:00,['1517810295439503361'],@BDR_Andy @david_grubby 😆 https://t.co/XAPybbkUML,,nan 
+1.5178092038842696e+18,2022-04-23 10:14:48+00:00,['1517809203884269568'],@BDR_Andy @JackyP599 @markyp599 @treacherouso 👏🏻👏🏻👏🏻👏🏻👏🏻,,nan 
+1.5178072566493143e+18,2022-04-23 10:07:04+00:00,['1517807256649314309'],"@BDR_Andy @david_grubby I love this concept album. You are so lucky to have @david_grubby coming to Belper! I have never seen him live… hopefully, one day!",love concept album lucky coming belper never seen live hopefully one day,love concept album belper day 
+1.5178044718663475e+18,2022-04-23 09:56:00+00:00,['1517804471866347521'],This has just been delivered! Really looking forward to a listen… https://t.co/Ut0gIpxJEY,delivered really looking forward listen,
+1.517778801794732e+18,2022-04-23 08:13:59+00:00,['1517778801794732032'],@BDR_Andy 👍🏻,,nan 
+1.517777975189594e+18,2022-04-23 08:10:42+00:00,['1517777975189594113'],"@BDR_Andy Good morning, Andy, and other Saturday morning pals! Looking forward to great music for the next three hours to brighten up an overcast morning, here, too 😀",good morning andy saturday morning pal looking forward great music next three hour brighten overcast morning,morning andy saturday morning music hour morning 
+1.517493725148164e+18,2022-04-22 13:21:12+00:00,['1517493725148164096'],"@duartlodge @TheBotanics Ah, I thought it was in Inverness! It’s Inverleith House, an art gallery, apparently. Thanks, Peter. Wishing you a good time away!",thought inverness inverleith house art gallery apparently thanks peter wishing good time away,thought inverness inverleith house art gallery time 
+1.517491549826859e+18,2022-04-22 13:12:33+00:00,['1517491549826859009'],"@duartlodge Where’s the big house, Peter, please?",wheres big house peter please,house peter please 
+1.5174859210499195e+18,2022-04-22 12:50:11+00:00,['1517485921049919492'],@adamfiddle @Thelanguagehub8 🙌🏻😊,,nan 
+1.5174782628590838e+18,2022-04-22 12:19:45+00:00,['1517478262859083777'],"@adamfiddle @Thelanguagehub8 Och, that’ll be great! Wish I could go! 😀",och thatll great wish could,thatll wish 
+1.5172559121546117e+18,2022-04-21 21:36:13+00:00,['1517255912154611715'],@farinjim Ouch.,ouch,
+1.517252853819183e+18,2022-04-21 21:24:04+00:00,['1517252853819183107'],@WorthingtonD 😆☕️👍🏻,,nan 
+1.5172410476041544e+18,2022-04-21 20:37:09+00:00,['1517241047604154369'],@shirley_barr Such a good album…,good album,album 
+1.517107735883563e+18,2022-04-21 11:47:25+00:00,['1517107735883563009'],"@SessionsAndSail Ah, the dolphins were amazing! They swam alongside the ship for half an hour as we approached the Island of Easdale. It was a very special experience.",dolphin amazing swam alongside ship half hour approached island easdale special experience,swam hour island experience 
+1.5169142266184622e+18,2022-04-20 22:58:29+00:00,['1516914226618462208'],"@SessionsAndSail @macauc01 Will do, Jenn!",jenn,jenn 
+1.5169074759030743e+18,2022-04-20 22:31:39+00:00,['1516907475903074305'],@macauc01 @SessionsAndSail Same here!,,nan 
 1.5169054892920054e+18,2022-04-20 22:23:46+00:00,['1516905489292005377'],"Watched livestream of  #concertforukraine from @HorsecrossPerth 
-Marvellous! Well done to comperes @NicUalraig &amp; @GaryInnes; all the performers, incl @DuncanWChisholm @rossainsliemus @AileenCeol; those behind the scenes and esp @JimCMackintosh for putting it all together 🇺🇦🙏🏻",watched livestream marvellous well done compere amp performer incl behind scene esp putting together
-1.516825979385172e+18,2022-04-20 17:07:49+00:00,['1516825979385171975'],Tonight! 🇺🇦 https://t.co/MeNNjn3FHi,tonight
-1.5158097558471844e+18,2022-04-17 21:49:42+00:00,['1515809755847184386'],@DuncanWChisholm @HorsecrossPerth @JimCMackintosh Wonderful! Thank you.,wonderful thank
-1.515696633769562e+18,2022-04-17 14:20:12+00:00,['1515696633769562112'],@JennieMacfie @euanmcilwraith @albachick Any ideas?,idea
+Marvellous! Well done to comperes @NicUalraig &amp; @GaryInnes; all the performers, incl @DuncanWChisholm @rossainsliemus @AileenCeol; those behind the scenes and esp @JimCMackintosh for putting it all together 🇺🇦🙏🏻",watched livestream marvellous well done compere amp performer incl behind scene esp putting together,livestream compere performer incl scene 
+1.516825979385172e+18,2022-04-20 17:07:49+00:00,['1516825979385171975'],Tonight! 🇺🇦 https://t.co/MeNNjn3FHi,tonight,tonight 
+1.5158097558471844e+18,2022-04-17 21:49:42+00:00,['1515809755847184386'],@DuncanWChisholm @HorsecrossPerth @JimCMackintosh Wonderful! Thank you.,wonderful thank,thank 
+1.515696633769562e+18,2022-04-17 14:20:12+00:00,['1515696633769562112'],@JennieMacfie @euanmcilwraith @albachick Any ideas?,idea,idea 
 1.5153386034418852e+18,2022-04-16 14:37:31+00:00,['1515338603441885188'],"@BeckyMillhouse This is an amazing achievement! More power to 12 year olds! 
-💪🏻💛💙",amazing achievement power year old
-1.5153193895197573e+18,2022-04-16 13:21:10+00:00,['1515319389519757350'],@msm_monitor 🤦🏼‍♀️,
-1.5153180127563448e+18,2022-04-16 13:15:42+00:00,['1515318012756344833'],@SessionsAndSail Excellent! 🙌🏻😀,excellent
+💪🏻💛💙",amazing achievement power year old,achievement power year 
+1.5153193895197573e+18,2022-04-16 13:21:10+00:00,['1515319389519757350'],@msm_monitor 🤦🏼‍♀️,,nan 
+1.5153180127563448e+18,2022-04-16 13:15:42+00:00,['1515318012756344833'],@SessionsAndSail Excellent! 🙌🏻😀,excellent,excellent 
 1.5152823278905057e+18,2022-04-16 10:53:54+00:00,['1515282327890505728'],"@BDR_Andy @adamfiddle There’s a place for this marvellous album in every cd collection worth its salt! 
 
 #someotherland
-#adamsutherland",place marvellous album every collection worth salt
-1.5152738810697523e+18,2022-04-16 10:20:20+00:00,['1515273881069752321'],@BDR_Andy @outsidetrack Treat in store! 👍🏻,treat store
-1.5152731864846213e+18,2022-04-16 10:17:34+00:00,['1515273186484621314'],@BDR_Andy @outsidetrack Love this band! They are AMAZING live! ❤️,love band amazing live
-1.5152636600415928e+18,2022-04-16 09:39:43+00:00,['1515263660041592833'],"@Glasgowlee I am, thank you! 😊",thank
-1.515262483707138e+18,2022-04-16 09:35:02+00:00,['1515262483707138049'],"@Glasgowlee Congratulations, Leela!",congratulation leela
-1.5152548924111995e+18,2022-04-16 09:04:53+00:00,['1515254892411199495'],@DavidRoger1951 😀👍🏻,
-1.515252855891972e+18,2022-04-16 08:56:47+00:00,['1515252855891972097'],@BDR_Andy 😀,
-1.5152522880587612e+18,2022-04-16 08:54:32+00:00,['1515252288058761221'],"@BDR_Andy Good morning, Andy and others! A nice morning up here. Really enjoying the music this Easter Saturday.",good morning andy others nice morning really enjoying music easter saturday
-1.5152517249944617e+18,2022-04-16 08:52:17+00:00,['1515251724994461700'],@DavidRoger1951 @BDR_Andy @RadioMatlock @RFM_OnAir @Belper4 @TBelper @belperartscoll @WirksworthInde @love_derby Obh obh… didn’t realise you had it. Too bad. Glad you’re feeling better.,obh obh didnt realise bad glad youre feeling better
-1.515251410509697e+18,2022-04-16 08:51:02+00:00,['1515251410509697025'],"@DavidRoger1951 Were you there for sunrise, then, David? Many others there? Marvellous photograph - really atmospheric.",sunrise david many others marvellous photograph really atmospheric
-1.5152393142711255e+18,2022-04-16 08:02:58+00:00,['1515239314271125505'],"I've #justsponsored Clarkie Woodwork, who's fundraising for Save the Children on @JustGiving. Please consider donating, too. https://t.co/sc7m5CgrUK",i've clarkie woodwork who's fundraising save child please consider donating
-1.515040900530987e+18,2022-04-15 18:54:33+00:00,['1515040900530987012'],@adamfiddle Fantastic! 😀👍🏻✨,fantastic
-1.514963324093485e+18,2022-04-15 13:46:17+00:00,['1514963324093485060'],@MaxineRoseMunro @ByLeavesWeLive It’s a wonderful poem!,wonderful poem
-1.514691320719233e+18,2022-04-14 19:45:27+00:00,['1514691320719233038'],@SessionsAndSail Erraid ❤️,erraid
-1.5141701287532175e+18,2022-04-13 09:14:25+00:00,['1514170128753217542'],@folksongs1988 @sweeneyfiddle 🤍,
-1.513481418168492e+18,2022-04-11 11:37:43+00:00,['1513481418168492033'],@FeisRois There’s a Gneiss tour? Fantastic! 😀,gneiss tour fantastic
-1.5127253966215987e+18,2022-04-09 09:33:34+00:00,['1512725396621598720'],@WorthingtonD @GraceMaxwell @seatbeltsmusic @TheHangingStars 🙌🏻😊,
-1.5123811957195284e+18,2022-04-08 10:45:50+00:00,['1512381195719528449'],@adamfiddle As soon as I leave to go back 😳,soon leave back
-1.5123804464909066e+18,2022-04-08 10:42:51+00:00,['1512380446490906626'],@fergusmuirhead @adamfiddle 😆,
+#adamsutherland",place marvellous album every collection worth salt,place album collection worth salt 
+1.5152738810697523e+18,2022-04-16 10:20:20+00:00,['1515273881069752321'],@BDR_Andy @outsidetrack Treat in store! 👍🏻,treat store,treat store 
+1.5152731864846213e+18,2022-04-16 10:17:34+00:00,['1515273186484621314'],@BDR_Andy @outsidetrack Love this band! They are AMAZING live! ❤️,love band amazing live,love band 
+1.5152636600415928e+18,2022-04-16 09:39:43+00:00,['1515263660041592833'],"@Glasgowlee I am, thank you! 😊",thank,thank 
+1.515262483707138e+18,2022-04-16 09:35:02+00:00,['1515262483707138049'],"@Glasgowlee Congratulations, Leela!",congratulation leela,congratulation leela 
+1.5152548924111995e+18,2022-04-16 09:04:53+00:00,['1515254892411199495'],@DavidRoger1951 😀👍🏻,,nan 
+1.515252855891972e+18,2022-04-16 08:56:47+00:00,['1515252855891972097'],@BDR_Andy 😀,,nan 
+1.5152522880587612e+18,2022-04-16 08:54:32+00:00,['1515252288058761221'],"@BDR_Andy Good morning, Andy and others! A nice morning up here. Really enjoying the music this Easter Saturday.",good morning andy others nice morning really enjoying music easter saturday,morning andy morning music easter saturday 
+1.5152517249944617e+18,2022-04-16 08:52:17+00:00,['1515251724994461700'],@DavidRoger1951 @BDR_Andy @RadioMatlock @RFM_OnAir @Belper4 @TBelper @belperartscoll @WirksworthInde @love_derby Obh obh… didn’t realise you had it. Too bad. Glad you’re feeling better.,obh obh didnt realise bad glad youre feeling better,obh didnt realise youre feeling 
+1.515251410509697e+18,2022-04-16 08:51:02+00:00,['1515251410509697025'],"@DavidRoger1951 Were you there for sunrise, then, David? Many others there? Marvellous photograph - really atmospheric.",sunrise david many others marvellous photograph really atmospheric,sunrise david 
+1.5152393142711255e+18,2022-04-16 08:02:58+00:00,['1515239314271125505'],"I've #justsponsored Clarkie Woodwork, who's fundraising for Save the Children on @JustGiving. Please consider donating, too. https://t.co/sc7m5CgrUK",i've clarkie woodwork who's fundraising save child please consider donating,i woodwork please 
+1.515040900530987e+18,2022-04-15 18:54:33+00:00,['1515040900530987012'],@adamfiddle Fantastic! 😀👍🏻✨,fantastic,
+1.514963324093485e+18,2022-04-15 13:46:17+00:00,['1514963324093485060'],@MaxineRoseMunro @ByLeavesWeLive It’s a wonderful poem!,wonderful poem,poem 
+1.514691320719233e+18,2022-04-14 19:45:27+00:00,['1514691320719233038'],@SessionsAndSail Erraid ❤️,erraid,erraid 
+1.5141701287532175e+18,2022-04-13 09:14:25+00:00,['1514170128753217542'],@folksongs1988 @sweeneyfiddle 🤍,,nan 
+1.513481418168492e+18,2022-04-11 11:37:43+00:00,['1513481418168492033'],@FeisRois There’s a Gneiss tour? Fantastic! 😀,gneiss tour fantastic,tour fantastic 
+1.5127253966215987e+18,2022-04-09 09:33:34+00:00,['1512725396621598720'],@WorthingtonD @GraceMaxwell @seatbeltsmusic @TheHangingStars 🙌🏻😊,,nan 
+1.5123811957195284e+18,2022-04-08 10:45:50+00:00,['1512381195719528449'],@adamfiddle As soon as I leave to go back 😳,soon leave back,
+1.5123804464909066e+18,2022-04-08 10:42:51+00:00,['1512380446490906626'],@fergusmuirhead @adamfiddle 😆,,nan 
 1.5120431666602437e+18,2022-04-07 12:22:37+00:00,['1512043166660243468'],"@DandelionScot This has all the makings of an absolutely marvellous project. Best wishes to each and every one of the musicians! 
-🎶🌱🌼🎶🌱🌼🎶🌱🌼🎶🌱🌼",making absolutely marvellous project best wish every one musician
-1.5114676409796977e+18,2022-04-05 22:15:41+00:00,['1511467640979697666'],Stop the privatisation of Channel 4 @NadineDorries - Sign the Petition! https://t.co/y5X72qsWPs via @UKChange,stop privatisation channel sign petition via
+🎶🌱🌼🎶🌱🌼🎶🌱🌼🎶🌱🌼",making absolutely marvellous project best wish every one musician,project musician 
+1.5114676409796977e+18,2022-04-05 22:15:41+00:00,['1511467640979697666'],Stop the privatisation of Channel 4 @NadineDorries - Sign the Petition! https://t.co/y5X72qsWPs via @UKChange,stop privatisation channel sign petition via,privatisation channel sign petition 
 1.5114668923551498e+18,2022-04-05 22:12:43+00:00,['1511466892355149824'],"Stop the netting preventing house martins nesting at North Berwick Tesco!
-#Tesco - Sign the Petition! https://t.co/DoR5CxCyvW via @UKChange",stop netting preventing house martin nesting north berwick tesco sign petition via
-1.5114526388182303e+18,2022-04-05 21:16:05+00:00,['1511452638818230282'],@WendyRaymer1 I hope you feel better soon.,hope feel better soon
-1.5110947740187566e+18,2022-04-04 21:34:03+00:00,['1511094774018756626'],@JimCMackintosh That would be great - and it could raise even more money from around the world. Thanks. Best wishes.,would great could raise even money around world thanks best wish
-1.511091613392679e+18,2022-04-04 21:21:30+00:00,['1511091613392678927'],"@JimCMackintosh Any chance at all of a livestream (by donation) for those of us who would like to attend but can’t, Jim?",chance livestream donation would like attend cant jim
-1.5110682505153864e+18,2022-04-04 19:48:39+00:00,['1511068250515386374'],@SessionsAndSail @scottishcanals Sounds like a wonderful alternative!,sound like wonderful alternative
-1.510893212038271e+18,2022-04-04 08:13:07+00:00,['1510893212038270976'],@HI_Voices Yes! Gigha is a very special place. It’s been too long…,yes gigha special place long
-1.5107229704652186e+18,2022-04-03 20:56:38+00:00,['1510722970465218561'],@lapatina_ 🤍,
-1.5105470066657649e+18,2022-04-03 09:17:25+00:00,['1510547006665764870'],@UKHarpists @theoldforgecbs @knoydarthall 😀👏🏻👍🏻,
-1.5098714955641733e+18,2022-04-01 12:33:11+00:00,['1509871495564173315'],@UndisScot @KasteelVrouwtje 😆,
-1.5098467810808832e+18,2022-04-01 10:54:58+00:00,['1509846781080883219'],@HighlandObjects 👏🏻👏🏻👏🏻👏🏻👏🏻,
-1.5098431016989983e+18,2022-04-01 10:40:21+00:00,['1509843101698998274'],@herringtweets @GaryInnes 😆😀😀,
-1.509796840979452e+18,2022-04-01 07:36:32+00:00,['1509796840979451905'],@billykayscot 🤣,
-1.5097594646977372e+18,2022-04-01 05:08:01+00:00,['1509759464697737216'],@VerstyukIvan Congratulations 👏🏻,congratulation
-1.508505675512619e+18,2022-03-28 18:05:54+00:00,['1508505675512619011'],@DavidRoger1951 From my garden today… https://t.co/ayXdt9qPRl,garden today
-1.5084591951835546e+18,2022-03-28 15:01:12+00:00,['1508459195183554568'],"@DavidRoger1951 Scilla, David",scilla david
+#Tesco - Sign the Petition! https://t.co/DoR5CxCyvW via @UKChange",stop netting preventing house martin nesting north berwick tesco sign petition via,house martin tesco sign petition 
+1.5114526388182303e+18,2022-04-05 21:16:05+00:00,['1511452638818230282'],@WendyRaymer1 I hope you feel better soon.,hope feel better soon,hope 
+1.5110947740187566e+18,2022-04-04 21:34:03+00:00,['1511094774018756626'],@JimCMackintosh That would be great - and it could raise even more money from around the world. Thanks. Best wishes.,would great could raise even money around world thanks best wish,money world 
+1.511091613392679e+18,2022-04-04 21:21:30+00:00,['1511091613392678927'],"@JimCMackintosh Any chance at all of a livestream (by donation) for those of us who would like to attend but can’t, Jim?",chance livestream donation would like attend cant jim,chance livestream donation jim 
+1.5110682505153864e+18,2022-04-04 19:48:39+00:00,['1511068250515386374'],@SessionsAndSail @scottishcanals Sounds like a wonderful alternative!,sound like wonderful alternative,sound 
+1.510893212038271e+18,2022-04-04 08:13:07+00:00,['1510893212038270976'],@HI_Voices Yes! Gigha is a very special place. It’s been too long…,yes gigha special place long,place 
+1.5107229704652186e+18,2022-04-03 20:56:38+00:00,['1510722970465218561'],@lapatina_ 🤍,,nan 
+1.5105470066657649e+18,2022-04-03 09:17:25+00:00,['1510547006665764870'],@UKHarpists @theoldforgecbs @knoydarthall 😀👏🏻👍🏻,,nan 
+1.5098714955641733e+18,2022-04-01 12:33:11+00:00,['1509871495564173315'],@UndisScot @KasteelVrouwtje 😆,,nan 
+1.5098467810808832e+18,2022-04-01 10:54:58+00:00,['1509846781080883219'],@HighlandObjects 👏🏻👏🏻👏🏻👏🏻👏🏻,,nan 
+1.5098431016989983e+18,2022-04-01 10:40:21+00:00,['1509843101698998274'],@herringtweets @GaryInnes 😆😀😀,,nan 
+1.509796840979452e+18,2022-04-01 07:36:32+00:00,['1509796840979451905'],@billykayscot 🤣,,nan 
+1.5097594646977372e+18,2022-04-01 05:08:01+00:00,['1509759464697737216'],@VerstyukIvan Congratulations 👏🏻,congratulation,congratulation 
+1.508505675512619e+18,2022-03-28 18:05:54+00:00,['1508505675512619011'],@DavidRoger1951 From my garden today… https://t.co/ayXdt9qPRl,garden today,garden today 
+1.5084591951835546e+18,2022-03-28 15:01:12+00:00,['1508459195183554568'],"@DavidRoger1951 Scilla, David",scilla david,scilla david 
 1.5076796141303398e+18,2022-03-26 11:23:25+00:00,['1507679614130339841'],"@NapierHamish @SuthSessions @AprilSutherla19 @CeilidhPlaceGig @patsyreid @inneswatsomusic The good people of #Ullapool have a wonderful treat in store!
 
-@NapierHamish Trio @TheCeilidhPlace #tonight",good people wonderful treat store trio
-1.5076775338478346e+18,2022-03-26 11:15:10+00:00,['1507677533847834625'],"@FDalgetty It wasn’t me, by the way…",wasnt way
+@NapierHamish Trio @TheCeilidhPlace #tonight",good people wonderful treat store trio,treat store trio 
+1.5076775338478346e+18,2022-03-26 11:15:10+00:00,['1507677533847834625'],"@FDalgetty It wasn’t me, by the way…",wasnt way,way 
 1.507677345284563e+18,2022-03-26 11:14:25+00:00,['1507677345284562944'],"@FDalgetty Goodness me! What next? 😁
-Hope you are all on the mend.",goodness next hope mend
-1.5076488316845548e+18,2022-03-26 09:21:06+00:00,['1507648831684554753'],@BDR_Andy @medwinfrench Good morning! I’m here! 😁,good morning
-1.5072669477376983e+18,2022-03-25 08:03:38+00:00,['1507266947737698331'],@adamfiddle Things are only impossible until they are not…,thing impossible
-1.5070940975464325e+18,2022-03-24 20:36:47+00:00,['1507094097546432519'],@SessionsAndSail I can highly recommend this wonderful experience!,highly recommend wonderful experience
+Hope you are all on the mend.",goodness next hope mend,goodness hope mend 
+1.5076488316845548e+18,2022-03-26 09:21:06+00:00,['1507648831684554753'],@BDR_Andy @medwinfrench Good morning! I’m here! 😁,good morning,morning 
+1.5072669477376983e+18,2022-03-25 08:03:38+00:00,['1507266947737698331'],@adamfiddle Things are only impossible until they are not…,thing impossible,thing 
+1.5070940975464325e+18,2022-03-24 20:36:47+00:00,['1507094097546432519'],@SessionsAndSail I can highly recommend this wonderful experience!,highly recommend wonderful experience,experience 
 1.5060259225033196e+18,2022-03-21 21:52:15+00:00,['1506025922503319560'],"From The Voice of Spring by Carolina Nairne (1766-1845)
 
-#worldpoetryday https://t.co/GmCcc3XzES",voice spring carolina nairne
-1.5052921177735414e+18,2022-03-19 21:16:22+00:00,['1505292117773541378'],@lillenoir @JosephineHere 😁,
-1.505180786303066e+18,2022-03-19 13:53:59+00:00,['1505180786303066113'],@OrkneyLibrary 😁,
-1.5051804920013824e+18,2022-03-19 13:52:48+00:00,['1505180492001382410'],"@MareeToddMSP Great fun and such valuable experience, too… Drama builds confidence, and develops skills in team working and problem solving. Creativity is so important 🎭",great fun valuable experience drama build confidence develops skill team working problem solving creativity important
-1.5051750547196357e+18,2022-03-19 13:31:12+00:00,['1505175054719635460'],@BuchanhavenPS @FeisRois Sgoinneil!!!,sgoinneil
-1.5051331493359944e+18,2022-03-19 10:44:41+00:00,['1505133149335994369'],@JackyP599 @BDR_Andy @RFM_OnAir @RadioMatlock @TBelper @Celeb_Cromford @madederbyshire 👍🏻😁 https://t.co/GxbztHanRA,
-1.5051244196388987e+18,2022-03-19 10:10:00+00:00,['1505124419638898688'],"@JackyP599 @BDR_Andy @RFM_OnAir @RadioMatlock @TBelper @Celeb_Cromford @madederbyshire Good morning, Jacky 👋🏻 Good to be sharing the same wonderful soundtrack, this lovely Saturday morning!",good morning jacky good sharing wonderful soundtrack lovely saturday morning
-1.5051211172661412e+18,2022-03-19 09:56:52+00:00,['1505121117266141186'],@BDR_Andy @SaltHouseMusic 😊,
-1.5051205012780728e+18,2022-03-19 09:54:25+00:00,['1505120501278072834'],@BDR_Andy Sounds like a wonderful gig. Wish I’d been there! ❤️ @SaltHouseMusic,sound like wonderful gig wish
-1.5051131658765765e+18,2022-03-19 09:25:17+00:00,['1505113165876576257'],@BDR_Andy Love James Brown’s March. Must get back to learning it properly! 🎻,love james brown march must get back learning properly
-1.505112753199104e+18,2022-03-19 09:23:38+00:00,['1505112753199104003'],"@BDR_Andy Good morning, Andy. It’s a glorious Saturday morning up here in Tain, too. Great to hear your tunes! 🎶😀👍🏻",good morning andy glorious saturday morning tain great hear tune
-1.5047598230779863e+18,2022-03-18 10:01:13+00:00,['1504759823077986342'],@outsidetrack @WaltonFolk @TheGreystones @TLRatSaltaire @NorthShropFolk @hoyatanchorfolk @WemsFest @BDR_Andy Unmissable!,unmissable
+#worldpoetryday https://t.co/GmCcc3XzES",voice spring carolina nairne,voice spring carolina nairne 
+1.5052921177735414e+18,2022-03-19 21:16:22+00:00,['1505292117773541378'],@lillenoir @JosephineHere 😁,,nan 
+1.505180786303066e+18,2022-03-19 13:53:59+00:00,['1505180786303066113'],@OrkneyLibrary 😁,,nan 
+1.5051804920013824e+18,2022-03-19 13:52:48+00:00,['1505180492001382410'],"@MareeToddMSP Great fun and such valuable experience, too… Drama builds confidence, and develops skills in team working and problem solving. Creativity is so important 🎭",great fun valuable experience drama build confidence develops skill team working problem solving creativity important,fun experience drama build confidence team problem creativity 
+1.5051750547196357e+18,2022-03-19 13:31:12+00:00,['1505175054719635460'],@BuchanhavenPS @FeisRois Sgoinneil!!!,sgoinneil,sgoinneil 
+1.5051331493359944e+18,2022-03-19 10:44:41+00:00,['1505133149335994369'],@JackyP599 @BDR_Andy @RFM_OnAir @RadioMatlock @TBelper @Celeb_Cromford @madederbyshire 👍🏻😁 https://t.co/GxbztHanRA,,nan 
+1.5051244196388987e+18,2022-03-19 10:10:00+00:00,['1505124419638898688'],"@JackyP599 @BDR_Andy @RFM_OnAir @RadioMatlock @TBelper @Celeb_Cromford @madederbyshire Good morning, Jacky 👋🏻 Good to be sharing the same wonderful soundtrack, this lovely Saturday morning!",good morning jacky good sharing wonderful soundtrack lovely saturday morning,morning jacky sharing soundtrack morning 
+1.5051211172661412e+18,2022-03-19 09:56:52+00:00,['1505121117266141186'],@BDR_Andy @SaltHouseMusic 😊,,nan 
+1.5051205012780728e+18,2022-03-19 09:54:25+00:00,['1505120501278072834'],@BDR_Andy Sounds like a wonderful gig. Wish I’d been there! ❤️ @SaltHouseMusic,sound like wonderful gig wish,sound 
+1.5051131658765765e+18,2022-03-19 09:25:17+00:00,['1505113165876576257'],@BDR_Andy Love James Brown’s March. Must get back to learning it properly! 🎻,love james brown march must get back learning properly,love march 
+1.505112753199104e+18,2022-03-19 09:23:38+00:00,['1505112753199104003'],"@BDR_Andy Good morning, Andy. It’s a glorious Saturday morning up here in Tain, too. Great to hear your tunes! 🎶😀👍🏻",good morning andy glorious saturday morning tain great hear tune,morning morning tain tune 
+1.5047598230779863e+18,2022-03-18 10:01:13+00:00,['1504759823077986342'],@outsidetrack @WaltonFolk @TheGreystones @TLRatSaltaire @NorthShropFolk @hoyatanchorfolk @WemsFest @BDR_Andy Unmissable!,unmissable,
 1.504759478339752e+18,2022-03-18 09:59:51+00:00,['1504759478339751936'],"🎶 Hamish Napier’s absolutely wonderful album The Woods was voted Album of the Year at the end of 2020. 
 
 And it’s coming to Sutherland next Friday, 25th March in Clashmore! 🌲 
 
 The last few tickets are available from https://t.co/LCd1LXxL0C
 
-It will be a night to remember!",hamish napier absolutely wonderful album wood voted album year end coming sutherland next friday march clashmore last ticket available night remember
-1.5038518952863457e+18,2022-03-15 21:53:26+00:00,['1503851895286345733'],Tuesday evening sky… https://t.co/oGW9HjRo8T,tuesday evening sky
-1.503666337599664e+18,2022-03-15 09:36:06+00:00,['1503666337599664129'],"@TradMusicForum @MarieFielding5 Ordered! Looking forward to learning the tunes on the fiddle. Love the cover, featuring gorgeous original artwork by @mariefiddle 🎻 🎨",ordered looking forward learning tune fiddle love cover featuring gorgeous original artwork
-1.5034365112236278e+18,2022-03-14 18:22:51+00:00,['1503436511223627779'],@UndisScot Avoch,avoch
-1.503390039648125e+18,2022-03-14 15:18:11+00:00,['1503390039648124930'],@derekmacd18 @lyrelyresounds Isn’t Gin and Strathspey great? I’m listening to it right now!,isnt gin strathspey great listening right
-1.5033329295938765e+18,2022-03-14 11:31:15+00:00,['1503332929593876482'],@JenniferB41 0,
-1.5027553786517094e+18,2022-03-12 21:16:16+00:00,['1502755378651709440'],@medwinfrench @LochinverLarder @thelifeofpies And the curry one.,curry one
-1.5027552810963515e+18,2022-03-12 21:15:53+00:00,['1502755281096351745'],"@medwinfrench @LochinverLarder @thelifeofpies Oh, these are my favourites.",favourite
+It will be a night to remember!",hamish napier absolutely wonderful album wood voted album year end coming sutherland next friday march clashmore last ticket available night remember,napier album wood year end friday march clashmore ticket night 
+1.5038518952863457e+18,2022-03-15 21:53:26+00:00,['1503851895286345733'],Tuesday evening sky… https://t.co/oGW9HjRo8T,tuesday evening sky,evening sky 
+1.503666337599664e+18,2022-03-15 09:36:06+00:00,['1503666337599664129'],"@TradMusicForum @MarieFielding5 Ordered! Looking forward to learning the tunes on the fiddle. Love the cover, featuring gorgeous original artwork by @mariefiddle 🎻 🎨",ordered looking forward learning tune fiddle love cover featuring gorgeous original artwork,tune love cover artwork 
+1.5034365112236278e+18,2022-03-14 18:22:51+00:00,['1503436511223627779'],@UndisScot Avoch,avoch,avoch 
+1.503390039648125e+18,2022-03-14 15:18:11+00:00,['1503390039648124930'],@derekmacd18 @lyrelyresounds Isn’t Gin and Strathspey great? I’m listening to it right now!,isnt gin strathspey great listening right,gin strathspey listening right 
+1.5033329295938765e+18,2022-03-14 11:31:15+00:00,['1503332929593876482'],@JenniferB41 0,,nan 
+1.5027553786517094e+18,2022-03-12 21:16:16+00:00,['1502755378651709440'],@medwinfrench @LochinverLarder @thelifeofpies And the curry one.,curry one,curry 
+1.5027552810963515e+18,2022-03-12 21:15:53+00:00,['1502755281096351745'],"@medwinfrench @LochinverLarder @thelifeofpies Oh, these are my favourites.",favourite,favourite 
 1.5027132172772106e+18,2022-03-12 18:28:44+00:00,['1502713217277210626'],"🎶 This incredibly good album arrived in the post today. 
 Gin and Strathspey is the debut from Lyre Lyre: Alice Allen (cello), Marit Fält (mandola, cittern) and
-Patsy Reid (fiddle, viola) https://t.co/zgiBmRgzoY",incredibly good album arrived post today gin strathspey debut lyre lyre alice allen cello marit flt mandola cittern patsy reid fiddle viola
-1.5026494116205076e+18,2022-03-12 14:15:12+00:00,['1502649411620507661'],@TheJackalope 0,
-1.5026041991457055e+18,2022-03-12 11:15:32+00:00,['1502604199145705474'],@BDR_Andy @ChrisKyddSings 🤍🇺🇦🙏🏻,
-1.502602926669369e+18,2022-03-12 11:10:29+00:00,['1502602926669369349'],@BDR_Andy @christymoore45 I’ve never heard this before. Sooo good.,ive never heard sooo good
-1.5025840235368407e+18,2022-03-12 09:55:22+00:00,['1502584023536840712'],"@medwinfrench @BDR_Andy @RFM_OnAir @RadioMatlock Lucky you, Mark and Jane. Dreich here in Tain. Good morning, all! Enjoying the music, Andy.",lucky mark jane dreich tain good morning enjoying music andy
-1.5023793004393513e+18,2022-03-11 20:21:52+00:00,['1502379300439351299'],@torshavn12 But Monty Don is back on BBC2! 😂,monty back bbc
+Patsy Reid (fiddle, viola) https://t.co/zgiBmRgzoY",incredibly good album arrived post today gin strathspey debut lyre lyre alice allen cello marit flt mandola cittern patsy reid fiddle viola,album post today strathspey debut alice marit flt mandola patsy reid fiddle viola 
+1.5026494116205076e+18,2022-03-12 14:15:12+00:00,['1502649411620507661'],@TheJackalope 0,,nan 
+1.5026041991457055e+18,2022-03-12 11:15:32+00:00,['1502604199145705474'],@BDR_Andy @ChrisKyddSings 🤍🇺🇦🙏🏻,,nan 
+1.502602926669369e+18,2022-03-12 11:10:29+00:00,['1502602926669369349'],@BDR_Andy @christymoore45 I’ve never heard this before. Sooo good.,ive never heard sooo good,sooo 
+1.5025840235368407e+18,2022-03-12 09:55:22+00:00,['1502584023536840712'],"@medwinfrench @BDR_Andy @RFM_OnAir @RadioMatlock Lucky you, Mark and Jane. Dreich here in Tain. Good morning, all! Enjoying the music, Andy.",lucky mark jane dreich tain good morning enjoying music andy,mark jane dreich morning music andy 
+1.5023793004393513e+18,2022-03-11 20:21:52+00:00,['1502379300439351299'],@torshavn12 But Monty Don is back on BBC2! 😂,monty back bbc,monty bbc 

@@ -1,404 +1,404 @@
-id,created_at,edit_history_tweet_ids,text,clean_text
-1.565086467122008e+18,2022-08-31 21:17:46+00:00,['1565086467122008065'],😥😥😥 https://t.co/t8osVyTk6s,
-1.5650830231959224e+18,2022-08-31 21:04:05+00:00,['1565083023195922432'],😂😂😂 https://t.co/lAcKi7pwRd,
-1.5648889090787328e+18,2022-08-31 08:12:44+00:00,['1564888909078732803'],"#PS5Share, #TrainSimWorld2 https://t.co/qnm6QyFWrI",
-1.5643422046588475e+18,2022-08-29 20:00:20+00:00,['1564342204658847744'],"#PS5Share, #TrainSimWorld2 https://t.co/ui5DTCFXc5",
-1.5643421838970593e+18,2022-08-29 20:00:15+00:00,['1564342183897059328'],"#PS5Share, #TrainSimWorld2 https://t.co/2AbPTQXjaU",
-1.5639113455104246e+18,2022-08-28 15:28:15+00:00,['1563911345510424576'],https://t.co/yUNaWIDr4h,
-1.563910419516985e+18,2022-08-28 15:24:34+00:00,['1563910419516985344'],https://t.co/C3CE8vIPvu,
-1.5639102933186724e+18,2022-08-28 15:24:04+00:00,['1563910293318672384'],https://t.co/bYa1YFuMuV,
-1.5639101497434604e+18,2022-08-28 15:23:30+00:00,['1563910149743460352'],https://t.co/z6pISeEQ1T,
-1.563909684779688e+18,2022-08-28 15:21:39+00:00,['1563909684779687937'],https://t.co/NoWjdh6iKd,
-1.5639095452982067e+18,2022-08-28 15:21:06+00:00,['1563909545298206720'],https://t.co/e8WTtf0y5f,
-1.5639092646656328e+18,2022-08-28 15:19:59+00:00,['1563909264665632770'],https://t.co/pq8oZTnJU5,
-1.5639091942808863e+18,2022-08-28 15:19:42+00:00,['1563909194280886274'],https://t.co/bpbgYoNTkS,
-1.5639091232798843e+18,2022-08-28 15:19:25+00:00,['1563909123279884289'],https://t.co/EVsz2pZ9Pm,
-1.5637909446038897e+18,2022-08-28 07:29:49+00:00,['1563790944603889665'],@Saints1885_com ManVARchester United,manvarchester united
-1.5636432340935148e+18,2022-08-27 21:42:52+00:00,['1563643234093514754'],@SouthamptonPage Not to panic buy,panic buy
-1.563578338190377e+18,2022-08-27 17:25:00+00:00,['1563578338190376961'],😂😂😂😂😂😂😂😂😂😂https://t.co/tTYHeTQJa6,
-1.5635581251473285e+18,2022-08-27 16:04:41+00:00,['1563558125147328514'],@acdcjacko Liverpool 9 Bournemouth 0 and ten man on the pitch,liverpool bournemouth ten man pitch
-1.5635561511068836e+18,2022-08-27 15:56:50+00:00,['1563556151106883584'],@afcbournemouth https://t.co/PAbaQRyRwL,
-1.5631657304969503e+18,2022-08-26 14:05:27+00:00,['1563165730496950274'],@HovertravelLtd https://t.co/18DII1Pil1,
-1.5631656712229806e+18,2022-08-26 14:05:12+00:00,['1563165671222980609'],https://t.co/7JT1BdW95q,
-1.5630827512296038e+18,2022-08-26 08:35:43+00:00,['1563082751229603840'],😂😂😂 https://t.co/rFoWza5PY6,
-1.5630826608846438e+18,2022-08-26 08:35:21+00:00,['1563082660884643841'],😂 https://t.co/Nszfi17OmO,
-1.5625296235899249e+18,2022-08-24 19:57:47+00:00,['1562529623589924865'],https://t.co/KHNmYgoink,
-1.5625295290667704e+18,2022-08-24 19:57:24+00:00,['1562529529066770433'],one is out of place😂 https://t.co/KiLHUKHURB,one place
-1.5624812070359736e+18,2022-08-24 16:45:23+00:00,['1562481207035973634'],😥😥😥😥😥😥😥😥😥😥😥😥😥😥 https://t.co/L4wBo5P5eE,
+id,created_at,edit_history_tweet_ids,text,clean_text,nouns
+1.565086467122008e+18,2022-08-31 21:17:46+00:00,['1565086467122008065'],😥😥😥 https://t.co/t8osVyTk6s,,nan 
+1.5650830231959224e+18,2022-08-31 21:04:05+00:00,['1565083023195922432'],😂😂😂 https://t.co/lAcKi7pwRd,,nan 
+1.5648889090787328e+18,2022-08-31 08:12:44+00:00,['1564888909078732803'],"#PS5Share, #TrainSimWorld2 https://t.co/qnm6QyFWrI",,nan 
+1.5643422046588475e+18,2022-08-29 20:00:20+00:00,['1564342204658847744'],"#PS5Share, #TrainSimWorld2 https://t.co/ui5DTCFXc5",,nan 
+1.5643421838970593e+18,2022-08-29 20:00:15+00:00,['1564342183897059328'],"#PS5Share, #TrainSimWorld2 https://t.co/2AbPTQXjaU",,nan 
+1.5639113455104246e+18,2022-08-28 15:28:15+00:00,['1563911345510424576'],https://t.co/yUNaWIDr4h,,nan 
+1.563910419516985e+18,2022-08-28 15:24:34+00:00,['1563910419516985344'],https://t.co/C3CE8vIPvu,,nan 
+1.5639102933186724e+18,2022-08-28 15:24:04+00:00,['1563910293318672384'],https://t.co/bYa1YFuMuV,,nan 
+1.5639101497434604e+18,2022-08-28 15:23:30+00:00,['1563910149743460352'],https://t.co/z6pISeEQ1T,,nan 
+1.563909684779688e+18,2022-08-28 15:21:39+00:00,['1563909684779687937'],https://t.co/NoWjdh6iKd,,nan 
+1.5639095452982067e+18,2022-08-28 15:21:06+00:00,['1563909545298206720'],https://t.co/e8WTtf0y5f,,nan 
+1.5639092646656328e+18,2022-08-28 15:19:59+00:00,['1563909264665632770'],https://t.co/pq8oZTnJU5,,nan 
+1.5639091942808863e+18,2022-08-28 15:19:42+00:00,['1563909194280886274'],https://t.co/bpbgYoNTkS,,nan 
+1.5639091232798843e+18,2022-08-28 15:19:25+00:00,['1563909123279884289'],https://t.co/EVsz2pZ9Pm,,nan 
+1.5637909446038897e+18,2022-08-28 07:29:49+00:00,['1563790944603889665'],@Saints1885_com ManVARchester United,manvarchester united,manvarchester 
+1.5636432340935148e+18,2022-08-27 21:42:52+00:00,['1563643234093514754'],@SouthamptonPage Not to panic buy,panic buy,buy 
+1.563578338190377e+18,2022-08-27 17:25:00+00:00,['1563578338190376961'],😂😂😂😂😂😂😂😂😂😂https://t.co/tTYHeTQJa6,,nan 
+1.5635581251473285e+18,2022-08-27 16:04:41+00:00,['1563558125147328514'],@acdcjacko Liverpool 9 Bournemouth 0 and ten man on the pitch,liverpool bournemouth ten man pitch,liverpool bournemouth man pitch 
+1.5635561511068836e+18,2022-08-27 15:56:50+00:00,['1563556151106883584'],@afcbournemouth https://t.co/PAbaQRyRwL,,nan 
+1.5631657304969503e+18,2022-08-26 14:05:27+00:00,['1563165730496950274'],@HovertravelLtd https://t.co/18DII1Pil1,,nan 
+1.5631656712229806e+18,2022-08-26 14:05:12+00:00,['1563165671222980609'],https://t.co/7JT1BdW95q,,nan 
+1.5630827512296038e+18,2022-08-26 08:35:43+00:00,['1563082751229603840'],😂😂😂 https://t.co/rFoWza5PY6,,nan 
+1.5630826608846438e+18,2022-08-26 08:35:21+00:00,['1563082660884643841'],😂 https://t.co/Nszfi17OmO,,nan 
+1.5625296235899249e+18,2022-08-24 19:57:47+00:00,['1562529623589924865'],https://t.co/KHNmYgoink,,nan 
+1.5625295290667704e+18,2022-08-24 19:57:24+00:00,['1562529529066770433'],one is out of place😂 https://t.co/KiLHUKHURB,one place,place 
+1.5624812070359736e+18,2022-08-24 16:45:23+00:00,['1562481207035973634'],😥😥😥😥😥😥😥😥😥😥😥😥😥😥 https://t.co/L4wBo5P5eE,,nan 
 1.5621351361745715e+18,2022-08-23 17:50:14+00:00,['1562135136174571520'],"@SouthamptonPage Saints 8 Cambridge 0
 Che hat-trick
 Adam Armstrong 
 St Armstrong 
 Elyounossi 
-All to get a goal",saint cambridge che hattrick adam armstrong armstrong elyounossi get goal
+All to get a goal",saint cambridge che hattrick adam armstrong armstrong elyounossi get goal,saint cambridge che hattrick adam get goal 
 1.5621083876130898e+18,2022-08-23 16:03:56+00:00,['1562108387613089792'],"Grand Theft Auto V
 A Fair Day's Pay (BRONZE)
-#PlayStationTrophy #PS5Share, #GrandTheftAutoV https://t.co/UN7vhuitGR",grand theft auto fair day's pay bronze
+#PlayStationTrophy #PS5Share, #GrandTheftAutoV https://t.co/UN7vhuitGR",grand theft auto fair day's pay bronze,theft auto day pay bronze 
 1.5621083599810314e+18,2022-08-23 16:03:50+00:00,['1562108359981031424'],"Grand Theft Auto V
 Red Mist (BRONZE)
-#PlayStationTrophy #PS5Share, #GrandTheftAutoV https://t.co/1gjiFlKa09",grand theft auto red mist bronze
-1.5620082151806976e+18,2022-08-23 09:25:53+00:00,['1562008215180697603'],https://t.co/SsOhmLI9t4,
-1.5620078508172902e+18,2022-08-23 09:24:26+00:00,['1562007850817290240'],https://t.co/4mIKP30ZI3,
-1.56164037318067e+18,2022-08-22 09:04:13+00:00,['1561640373180669953'],https://t.co/YpKEXii9sY,
-1.561640293283369e+18,2022-08-22 09:03:54+00:00,['1561640293283368961'],https://t.co/hs4H8S6BEq,
-1.5602148113167155e+18,2022-08-18 10:39:33+00:00,['1560214811316715524'],@TalkTV @Iromg @rakibehsan So go back to where they came from then,back came
-1.5601804972459295e+18,2022-08-18 08:23:11+00:00,['1560180497245929474'],https://t.co/hNXYTvstWZ,
-1.5591067093936538e+18,2022-08-15 09:16:20+00:00,['1559106709393653760'],@RivetGames 484 https://t.co/JsQb3Jf4oN,
-1.5585894154794598e+18,2022-08-13 23:00:48+00:00,['1558589415479459841'],@SaintsExtra He could be a very good player for Saints,could good player saint
-1.5585527634617672e+18,2022-08-13 20:35:09+00:00,['1558552763461767172'],Man u https://t.co/Qs2h2qnLBl https://t.co/hgq8N1PPy7,man
-1.558479618453246e+18,2022-08-13 15:44:30+00:00,['1558479618453245952'],@SouthamptonFC @S_Mvrv @KWPeters Leeds bottled a 2 nil lead https://t.co/hPJu0ePebt,leeds bottled nil lead
-1.558476844835414e+18,2022-08-13 15:33:29+00:00,['1558476844835414016'],A goal am I dreaming https://t.co/0LyCHpAk0J,goal dreaming
-1.5584747065709076e+18,2022-08-13 15:24:59+00:00,['1558474706570907657'],@SouthamptonFC @J_Aribo19 @AdamArma9 Probably a bit late now,probably bit late
-1.5584745247981937e+18,2022-08-13 15:24:16+00:00,['1558474524798193669'],@SouthamptonFC How long has Ralph got before he is sacked because it definitely was not hhe back room staff  the problem,long ralph got sacked definitely hhe back room staff problem
-1.558465461225984e+18,2022-08-13 14:48:15+00:00,['1558465461225984006'],That's looking likely to be a lot of goals by the end https://t.co/4DZwyIO9jw,that's looking likely lot goal end
-1.5584533591783096e+18,2022-08-13 14:00:10+00:00,['1558453359178309633'],@Beaumxntt @SouthamptonFC Needs kicking,need kicking
-1.5584531606661775e+18,2022-08-13 13:59:22+00:00,['1558453160666177538'],@Saints_FCLive Leicester are probably regretting it,leicester probably regretting
-1.5581506983862927e+18,2022-08-12 17:57:30+00:00,['1558150698386292740'],😂😂😂 https://t.co/LkPGR45oyl,
-1.557723725675389e+18,2022-08-11 13:40:51+00:00,['1557723725675388935'],@SaintsExtra @TheAthleticUK That false BS coming from newspapers like normal,false coming newspaper like normal
-1.557396032320934e+18,2022-08-10 15:58:43+00:00,['1557396032320933893'],"#PS5Share, #FIFA22 https://t.co/1OU3meISf9",
-1.5573959536232038e+18,2022-08-10 15:58:25+00:00,['1557395953623203851'],"#PS5Share, #FIFA22 https://t.co/K8pt2SpEyo",
-1.5573959239988388e+18,2022-08-10 15:58:17+00:00,['1557395923998838785'],"#PS5Share, #FIFA22 https://t.co/X8peY6N9P6",
-1.5573959012699095e+18,2022-08-10 15:58:12+00:00,['1557395901269909504'],"#PS5Share, #FIFA22 https://t.co/nnOoheHfmp",
-1.5570459403592868e+18,2022-08-09 16:47:35+00:00,['1557045940359286785'],@RivetGames Brading,brading
-1.5569134646685614e+18,2022-08-09 08:01:10+00:00,['1556913464668561408'],"@Freddie_matee In the Premier league more the 3 strikers are needed for rest, injuries or being unavailable",premier league striker needed rest injury unavailable
-1.556912847350911e+18,2022-08-09 07:58:43+00:00,['1556912847350910977'],@Freddie_matee His Wages I guessing,wage guessing
-1.5569117172962673e+18,2022-08-09 07:54:14+00:00,['1556911717296267264'],"#PS5Share, #TrainSimWorld2 https://t.co/3NejcDLo7d",
-1.5567484163817472e+18,2022-08-08 21:05:20+00:00,['1556748416381747202'],@Damian08294754 @trainsimworld Train coming out of the tunnel at the start before the no sign and sound,train coming tunnel start sign sound
-1.5567337979488584e+18,2022-08-08 20:07:14+00:00,['1556733797948858369'],"#PS5Share, #FIFA22 https://t.co/WoZPL7xWMm",
-1.556733774884479e+18,2022-08-08 20:07:09+00:00,['1556733774884478976'],"#PS5Share, #FIFA22 https://t.co/YXzMDccVZM",
-1.556733749974471e+18,2022-08-08 20:07:03+00:00,['1556733749974470656'],"#PS5Share, #FIFA22 https://t.co/qA7WWBBzhX",
-1.5566803068113551e+18,2022-08-08 16:34:41+00:00,['1556680306811355137'],@trainsimworld Austrian looked like as the overhead pulls,austrian looked like overhead pull
-1.556645329084244e+18,2022-08-08 14:15:42+00:00,['1556645329084243969'],https://t.co/YvUJbQvREl,
-1.5566452867763446e+18,2022-08-08 14:15:32+00:00,['1556645286776344577'],https://t.co/jPgfoAAqVh,
-1.5565961018132562e+18,2022-08-08 11:00:05+00:00,['1556596101813256192'],@SouthamptonPage @SaintRob__ @RhysTheSaint @saintsworldfc To be true that Athletic is not a good source to use its the same with every newspaper,true athletic good source use every newspaper
-1.5565953055539855e+18,2022-08-08 10:56:55+00:00,['1556595305553985538'],@kristianoko I can't see saints selling him in less there is a replacement in orissa there something saints or newspapers have reported,can't see saint selling replacement orissa something saint newspaper reported
-1.5563694083432858e+18,2022-08-07 19:59:17+00:00,['1556369408343285768'],"#PS5Share, #TrainSimWorld2 https://t.co/MBDbyBtR4e",
-1.556322366896185e+18,2022-08-07 16:52:21+00:00,['1556322366896185345'],@SkySportsPL Every man u fan https://t.co/UkOWvHwWLn,every man fan
-1.5562975726958182e+18,2022-08-07 15:13:50+00:00,['1556297572695818240'],@AdamBlackmore Totally agree there ate too many fans that think that can do th job because of games like Fifa and football manager,totally agree ate many fan think job game like fifa football manager
-1.5562876215964303e+18,2022-08-07 14:34:18+00:00,['1556287621596430337'],https://t.co/sOVZZcBq6J,
-1.556286943931007e+18,2022-08-07 14:31:36+00:00,['1556286943931006978'],https://t.co/SzjHc4sK6r,
-1.55599541778713e+18,2022-08-06 19:13:11+00:00,['1555995417787129857'],https://t.co/k5ZNZiuPlh,
-1.5555554385440154e+18,2022-08-05 14:04:52+00:00,['1555555438544015361'],https://t.co/xRTkBN0Lix,
-1.5552525924433633e+18,2022-08-04 18:01:27+00:00,['1555252592443363329'],https://t.co/nl4ScwS2Vy,
-1.5552525777800888e+18,2022-08-04 18:01:24+00:00,['1555252577780088832'],https://t.co/vOazYYSab5,
-1.5552053192230175e+18,2022-08-04 14:53:37+00:00,['1555205319223017474'],https://t.co/YMyKXI7w10,
-1.555205315653689e+18,2022-08-04 14:53:36+00:00,['1555205315653689347'],https://t.co/6GyAB73ANN,
-1.5552048408962253e+18,2022-08-04 14:51:43+00:00,['1555204840896225281'],@SouthamptonPage @AdamBlackmore To be true Ralph will now how to get the best out of Timo Werner,true ralph get best timo werner
-1.5551399109773394e+18,2022-08-04 10:33:42+00:00,['1555139910977339394'],https://t.co/KAruPC2Lkx,
-1.5549302924518523e+18,2022-08-03 20:40:45+00:00,['1554930292451852288'],@SkySportsPL So has he moved as Brighton have said no agreed deal. So how is living,moved brighton said agreed deal living
-1.5548004541937992e+18,2022-08-03 12:04:49+00:00,['1554800454193799169'],🇦🇹 https://t.co/WnOrxT1pwp,
-1.5548003978140467e+18,2022-08-03 12:04:36+00:00,['1554800397814046721'],https://t.co/WtqKzn6QsV,
-1.5547800657408205e+18,2022-08-03 10:43:48+00:00,['1554780065740820483'],https://t.co/lU8kNCFvFf,
-1.5547784422348268e+18,2022-08-03 10:37:21+00:00,['1554778442234826758'],https://t.co/rtbwiAWafB,
-1.5547784104000758e+18,2022-08-03 10:37:14+00:00,['1554778410400075776'],https://t.co/Vaz5m04plp,
-1.55447531821543e+18,2022-08-02 14:32:51+00:00,['1554475318215430145'],@SaintsExtra @JacobSteinberg 30-35M 😂😂😂😂😂😂😂,
-1.554466462819033e+18,2022-08-02 13:57:39+00:00,['1554466462819033093'],@SaintsfcViews @FabrizioRomano 40m+ and player or bugger off,player bugger
-1.5543936373997076e+18,2022-08-02 09:08:17+00:00,['1554393637399707654'],https://t.co/MdxjmR1JON,
-1.5543935529307054e+18,2022-08-02 09:07:56+00:00,['1554393552930705408'],https://t.co/sSn8anQNqT,
-1.5540673745460756e+18,2022-08-01 11:31:49+00:00,['1554067374546075648'],https://t.co/o2exeXkNlC,
-1.554066900031783e+18,2022-08-01 11:29:56+00:00,['1554066900031782914'],https://t.co/mwInxCGisF,
-1.5540668690610504e+18,2022-08-01 11:29:49+00:00,['1554066869061050368'],https://t.co/TIHd0tnu8V,
-1.5540409431663247e+18,2022-08-01 09:46:48+00:00,['1554040943166324737'],https://t.co/xLebWszpcq,
-1.5540017604439327e+18,2022-08-01 07:11:06+00:00,['1554001760443932672'],https://t.co/8jyEY2q7dP,
-1.5538152095714222e+18,2022-07-31 18:49:49+00:00,['1553815209571422208'],@Lionesses https://t.co/Zdu9AxhK1z,
-1.5533682355458703e+18,2022-07-30 13:13:42+00:00,['1553368235545870336'],https://t.co/eTVyya2ONU,
-1.5533671060911145e+18,2022-07-30 13:09:12+00:00,['1553367106091114501'],https://t.co/dn8v87LmDT,
-1.553366472038269e+18,2022-07-30 13:06:41+00:00,['1553366472038268931'],https://t.co/cFBmCETKV6,
-1.553306646880854e+18,2022-07-30 09:08:58+00:00,['1553306646880854016'],https://t.co/xZE1Z8FCOk,
-1.5532982333544858e+18,2022-07-30 08:35:32+00:00,['1553298233354485760'],https://t.co/xkO2lFbzbW,
-1.553052937722757e+18,2022-07-29 16:20:49+00:00,['1553052937722757120'],@saintsjwp https://t.co/ZVpRQIcEm7,
-1.553014247562543e+18,2022-07-29 13:47:04+00:00,['1553014247562543104'],https://t.co/pmIQOpANro,
-1.5530131128566129e+18,2022-07-29 13:42:34+00:00,['1553013112856612864'],https://t.co/hlxrzdRNSP,
-1.552962363267158e+18,2022-07-29 10:20:54+00:00,['1552962363267158022'],@TheSaintCentre We do need another striker and winger,need another striker winger
-1.552959580874875e+18,2022-07-29 10:09:51+00:00,['1552959580874874882'],@CareerModeInsid As specially when youth ask to play and when I forget I've done 3 because of a injury in yhe team 😂,specially youth ask play forget i've done injury yhe team
-1.5529592530103255e+18,2022-07-29 10:08:33+00:00,['1552959253010325505'],https://t.co/vsTgsjJwMa,
-1.5526515242490716e+18,2022-07-28 13:45:44+00:00,['1552651524249071616'],https://t.co/bsEQ4HAlDm,
-1.552651517189976e+18,2022-07-28 13:45:43+00:00,['1552651517189976065'],https://t.co/Vkc2VLcpci,
-1.5525820817666294e+18,2022-07-28 09:09:48+00:00,['1552582081766629384'],@SkySportsPL https://t.co/l9oi7HtOIi,
-1.5525764052208722e+18,2022-07-28 08:47:15+00:00,['1552576405220872192'],https://t.co/GrxFjYDktg,
-1.5525760880475996e+18,2022-07-28 08:45:59+00:00,['1552576088047599616'],https://t.co/G5YNnxd64A,
-1.5525760868647895e+18,2022-07-28 08:45:59+00:00,['1552576086864789508'],https://t.co/NHjUOwl4Kb,
-1.552575922884182e+18,2022-07-28 08:45:20+00:00,['1552575922884182018'],That's his career of loans Coming up https://t.co/ot4JkK9kvn,that's career loan coming
-1.5523890916893655e+18,2022-07-27 20:22:56+00:00,['1552389091689365505'],@SouthamptonFC That's shut up the haters,that's shut hater
-1.5522432937397985e+18,2022-07-27 10:43:35+00:00,['1552243293739798529'],https://t.co/xEv2p7Z7UO,
-1.552223320849977e+18,2022-07-27 09:24:13+00:00,['1552223320849977345'],The now discussed fleckingbarn https://t.co/ibW3aMy4C0,discussed fleckingbarn
-1.5522232082832753e+18,2022-07-27 09:23:46+00:00,['1552223208283275265'],https://t.co/JSkZFVuqDy,
-1.5522231646415503e+18,2022-07-27 09:23:36+00:00,['1552223164641550338'],https://t.co/E6QKo6qT3x,
-1.5519507776394772e+18,2022-07-26 15:21:13+00:00,['1551950777639477249'],https://t.co/RSEzjnrbW8,
-1.5519504432234168e+18,2022-07-26 15:19:54+00:00,['1551950443223416834'],https://t.co/sV5ZgPgbOk,
-1.5519503504497828e+18,2022-07-26 15:19:32+00:00,['1551950350449782785'],https://t.co/DPLGlR8t7y,
-1.5519305090554798e+18,2022-07-26 14:00:41+00:00,['1551930509055479808'],https://t.co/pdGtsMcs6l,
-1.5515000153606715e+18,2022-07-25 09:30:03+00:00,['1551500015360671745'],https://t.co/Ssh9e2mJEF,
-1.551298839507878e+18,2022-07-24 20:10:39+00:00,['1551298839507877888'],https://t.co/dImlK7WXrk,
-1.551138217453314e+18,2022-07-24 09:32:24+00:00,['1551138217453314049'],https://t.co/IUvDrNpEYi,
-1.5511378479351767e+18,2022-07-24 09:30:56+00:00,['1551137847935176705'],https://t.co/PPxYioctSH,
-1.5508353964303974e+18,2022-07-23 13:29:06+00:00,['1550835396430397441'],https://t.co/838gVbUune,
-1.5501818995025551e+18,2022-07-21 18:12:20+00:00,['1550181899502555137'],@trainsimworld @RivetGames The class 484 https://t.co/DQFeTRgbJt,class
-1.5501685432531108e+18,2022-07-21 17:19:16+00:00,['1550168543253110784'],"#PS5Share, #FIFA22 https://t.co/WYl6VQbBMB",
-1.5501685257042043e+18,2022-07-21 17:19:11+00:00,['1550168525704204288'],"#PS5Share, #FIFA22 https://t.co/KYfDHSp7jQ",
-1.5497684998531564e+18,2022-07-20 14:49:38+00:00,['1549768499853156353'],https://t.co/Y5OeGbZDWK,
-1.5496692237812613e+18,2022-07-20 08:15:09+00:00,['1549669223781261313'],"#PS5Share, #TrainSimWorld2 https://t.co/grS0YzAi8Q",
-1.5496691910783508e+18,2022-07-20 08:15:01+00:00,['1549669191078350853'],"#PS5Share, #TrainSimWorld2 https://t.co/iKNHFcoBXH",
-1.549646974110126e+18,2022-07-20 06:46:44+00:00,['1549646974110126081'],"#PS5Share, #TrainSimWorld2 https://t.co/pqAitQsgIR",
-1.5496465669900083e+18,2022-07-20 06:45:07+00:00,['1549646566990008320'],"#PS5Share, #TrainSimWorld2 https://t.co/TcCP9E7m0O",
-1.5494996678258074e+18,2022-07-19 21:01:23+00:00,['1549499667825807360'],"#PS5Share, #TrainSimWorld2 https://t.co/nUEIoBp8lV",
-1.5494194640509993e+18,2022-07-19 15:42:41+00:00,['1549419464050999299'],"#PS5Share, #TrainSimWorld2 https://t.co/KDyYyrZFef",
-1.5494194314570875e+18,2022-07-19 15:42:33+00:00,['1549419431457087493'],"#PS5Share, #TrainSimWorld2 https://t.co/hpITgWiiHj",
-1.549319350087295e+18,2022-07-19 09:04:52+00:00,['1549319350087294978'],@markgwyatt People need to remember it only pre session as I've soon some people loss there heads on not wining games and scoring not playing well.,people need remember pre session i've soon people loss head wining game scoring playing well
-1.5493187504024986e+18,2022-07-19 09:02:29+00:00,['1549318750402498560'],@RaatjeFC The AI sacking there managers and getting in someone else could be even retired players like Football manager,sacking manager getting someone else could even retired player like football manager
-1.5493136385063076e+18,2022-07-19 08:42:10+00:00,['1549313638506307586'],@Saints1885_com Wherever did 10 years go,wherever year
-1.5487784316215992e+18,2022-07-17 21:15:27+00:00,['1548778431621599233'],@FutReveal @discovery_fut I wonder if le God will get a icon https://t.co/SxWVOzpF92,wonder god get icon
-1.548757831364608e+18,2022-07-17 19:53:36+00:00,['1548757831364608000'],https://t.co/JjXOeHixBC,
-1.5486970996294615e+18,2022-07-17 15:52:16+00:00,['1548697099629461513'],https://t.co/mzMz0JfvqA,
-1.5475119749924823e+18,2022-07-14 09:23:00+00:00,['1547511974992482305'],@ladbible Wouldn't you run away https://t.co/O4E0nYZunZ,run away
-1.547511310560133e+18,2022-07-14 09:20:22+00:00,['1547511310560133120'],"@TheSaintCentre Walcott should stay as he give experience to the youth, Djenepo has struggled in English football I do think it best for him to leave for his career, Redmond is a hard one to say",walcott stay give experience youth djenepo struggled english football think best leave career redmond hard one say
-1.5475034597417042e+18,2022-07-14 08:49:10+00:00,['1547503459741704198'],@TheSaintCentre A loss for Saints for definitely but will the move kill his career,loss saint definitely move kill career
-1.5465494718063657e+18,2022-07-11 17:38:22+00:00,['1546549471806365697'],@SkySportsPL Man u fans https://t.co/SEKSqIGuOB,man fan
-1.546157928641593e+18,2022-07-10 15:42:31+00:00,['1546157928641593345'],https://t.co/8uNuFKyZZ7,
-1.545809579602215e+18,2022-07-09 16:38:18+00:00,['1545809579602214912'],@TomYoungSJ And still City will bottle it,still city bottle
-1.5457934018488402e+18,2022-07-09 15:34:01+00:00,['1545793401848840194'],@summa_symonds @SouthamptonFC Must be still on tea break,must still tea break
-1.5454351026620375e+18,2022-07-08 15:50:15+00:00,['1545435102662037504'],https://t.co/SkOYG1Rpyy,
-1.545435063764099e+18,2022-07-08 15:50:06+00:00,['1545435063764099072'],https://t.co/lgVGXx7b3u,
-1.5454336020909916e+18,2022-07-08 15:44:18+00:00,['1545433602090991616'],@SaintsExtra @reluctantnicko I see Everton thinking that they are a big club,see everton thinking big club
-1.5451483228512911e+18,2022-07-07 20:50:42+00:00,['1545148322851291136'],https://t.co/i69CFM6TEc,
-1.5451482697178194e+18,2022-07-07 20:50:29+00:00,['1545148269717819393'],https://t.co/4IajEhNYC8,
-1.545147803181224e+18,2022-07-07 20:48:38+00:00,['1545147803181223942'],https://t.co/KUBzhwIjoE,
-1.544734747724845e+18,2022-07-06 17:27:18+00:00,['1544734747724845057'],@RivetGames You can still see the remains for the framer signal box in the bushes,still see remains framer signal box bush
-1.5446641631543337e+18,2022-07-06 12:46:49+00:00,['1544664163154333703'],@TheSaintCentre Saints don't need another RB but we do need a LB as it is very thin in that position,saint need another need thin position
-1.5444248799062426e+18,2022-07-05 20:56:00+00:00,['1544424879906242560'],https://t.co/AmBVSsPDsD,
-1.5444248462805606e+18,2022-07-05 20:55:52+00:00,['1544424846280560641'],https://t.co/6NaEG2rhBl,
-1.5444247592235418e+18,2022-07-05 20:55:31+00:00,['1544424759223541761'],https://t.co/ydbKRXlKdJ,
-1.5440134443866358e+18,2022-07-04 17:41:06+00:00,['1544013444386635776'],@RivetGames London overground line,london overground line
-1.5439587582540595e+18,2022-07-04 14:03:47+00:00,['1543958758254059521'],Footplate experience time to get bored setting https://t.co/fyrRf473Wb,footplate experience time get bored setting
-1.5429605740904202e+18,2022-07-01 19:57:22+00:00,['1542960574090420226'],Networker HYPE https://t.co/ArW5lMQVpp,networker hype
-1.5429602540649185e+18,2022-07-01 19:56:06+00:00,['1542960254064918530'],https://t.co/u7MEJJh0V8,
-1.542898388945064e+18,2022-07-01 15:50:16+00:00,['1542898388945063939'],@SouthamptonFC @AdamArma9 Hopefully Adam Armstrong can start finding the back of the net bit only if he gets given the chances 🤞,hopefully adam armstrong start finding back net bit get given chance
-1.5428978719173878e+18,2022-07-01 15:48:12+00:00,['1542897871917387777'],Everton will struggle now in less the can find a replacement 😂 https://t.co/apNnLjzKCL,everton struggle find replacement
-1.5428975151665807e+18,2022-07-01 15:46:47+00:00,['1542897515166580736'],@Saints1885_com He will be a brilliant signing for us come on Saints get it done,brilliant signing come saint get done
-1.5428972106349978e+18,2022-07-01 15:45:35+00:00,['1542897210634997761'],@EA https://t.co/cmSvBoCgyn,
-1.5428956363071406e+18,2022-07-01 15:39:19+00:00,['1542895636307140609'],Waggoner boiler is almost ready for her frames and as steaming yesterday and a inspection soon by the boiler inspector https://t.co/dLBnRyN1RS,waggoner boiler almost ready frame steaming yesterday inspection soon boiler inspector
-1.5428953400047124e+18,2022-07-01 15:38:09+00:00,['1542895340004712450'],41313 very sparkling after me cleaning her today https://t.co/bxfMnUEAyI,sparkling cleaning today
-1.54289515182737e+18,2022-07-01 15:37:24+00:00,['1542895151827369984'],https://t.co/aXNyDQJvZI,
-1.5425662488982405e+18,2022-06-30 17:50:27+00:00,['1542566248898240517'],@TalkTV Put them In prison and drop the key down a drain.,put prison drop key drain
-1.5424217297750753e+18,2022-06-30 08:16:11+00:00,['1542421729775075328'],@geofftech Technology you can't use smallbrook as last used as its only open when the Steam Railway is running and most people go to Havenstreet to ride or some may go to Wootton by bus to ride,technology can't use smallbrook last used open steam railway running people havenstreet ride may wootton bus ride
-1.5418707654900326e+18,2022-06-28 19:46:51+00:00,['1541870765490032641'],"#PS5Share, #TrainSimWorld2 https://t.co/e8mJGdl5hT",
-1.5418576405018952e+18,2022-06-28 18:54:42+00:00,['1541857640501895169'],@RivetGames Please fix the speedo on the 483,please fix speedo
-1.5414708169819832e+18,2022-06-27 17:17:36+00:00,['1541470816981983233'],@TheSaintCentre 200m,
-1.5411320110201078e+18,2022-06-26 18:51:18+00:00,['1541132011020107777'],https://t.co/ormt3NeAxG,
-1.541086768019243e+18,2022-06-26 15:51:32+00:00,['1541086768019243015'],https://t.co/5HMdTXnS8b,
-1.5410867619500114e+18,2022-06-26 15:51:30+00:00,['1541086761950011393'],https://t.co/gYlVePA71R,
-1.5410864585215713e+18,2022-06-26 15:50:18+00:00,['1541086458521571328'],"@SkySportsPL Kyle walker Peters, James ward-prowse",kyle walker peter james wardprowse
-1.5410861808124928e+18,2022-06-26 15:49:12+00:00,['1541086180812492803'],@TheSaintCentre 15-20M at least,least
-1.5403664586136005e+18,2022-06-24 16:09:17+00:00,['1540366458613600256'],https://t.co/WRLKTyfrDM,
-1.5402539170526863e+18,2022-06-24 08:42:05+00:00,['1540253917052686336'],@SaintsExtra @lee_ryder It should be plus 80m and a player that saints picks from wich ever club comes in or no deal,plus player saint pick wich ever club come deal
-1.5396165446778225e+18,2022-06-22 14:29:23+00:00,['1539616544677822466'],https://t.co/iDQ4rJT1nw,
-1.5396165388016108e+18,2022-06-22 14:29:22+00:00,['1539616538801610754'],https://t.co/4VhsIJbImo,
-1.5396165311387156e+18,2022-06-22 14:29:20+00:00,['1539616531138715654'],https://t.co/TS3v0DN9XV,
-1.5396163375296512e+18,2022-06-22 14:28:34+00:00,['1539616337529651200'],https://t.co/jyFWiyy0HO,
-1.5396162848281313e+18,2022-06-22 14:28:21+00:00,['1539616284828131328'],https://t.co/X566P3x4mZ,
-1.5396162581271675e+18,2022-06-22 14:28:15+00:00,['1539616258127167489'],https://t.co/s2seHOh0On,
-1.5396162293879112e+18,2022-06-22 14:28:08+00:00,['1539616229387911169'],https://t.co/eQgVMx0qff,
-1.5396161233726833e+18,2022-06-22 14:27:43+00:00,['1539616123372683265'],https://t.co/S9TVyCF8Uw,
-1.5396160642539233e+18,2022-06-22 14:27:29+00:00,['1539616064253923334'],https://t.co/jysvt2NEPl,
-1.5391657179704197e+18,2022-06-21 08:37:58+00:00,['1539165717970419712'],@premierleague https://t.co/9BFiIqnlnL,
-1.538931318364545e+18,2022-06-20 17:06:32+00:00,['1538931318364545024'],"@PlanetZooGame Amazon world, Sandown zoo",amazon world sandown zoo
-1.5385544050159124e+18,2022-06-19 16:08:49+00:00,['1538554405015912450'],https://t.co/8WKkavy6nv,
-1.5378481940753285e+18,2022-06-17 17:22:35+00:00,['1537848194075328513'],https://t.co/IU1LazoiHR,
-1.5378475762041324e+18,2022-06-17 17:20:08+00:00,['1537847576204132353'],https://t.co/Xny4jLXV1m,
-1.537847567987376e+18,2022-06-17 17:20:06+00:00,['1537847567987376134'],https://t.co/q0sfvu4q6W,
-1.537847554884391e+18,2022-06-17 17:20:03+00:00,['1537847554884390914'],https://t.co/fU88e6LoGH,
-1.5378191401777644e+18,2022-06-17 15:27:08+00:00,['1537819140177764353'],https://t.co/ANR7Li1hhK,
-1.537819007335686e+18,2022-06-17 15:26:37+00:00,['1537819007335686145'],https://t.co/ZXzf9bvCEC,
-1.537818960640594e+18,2022-06-17 15:26:26+00:00,['1537818960640593920'],https://t.co/BWr0EYJN1Y,
-1.537702910225703e+18,2022-06-17 07:45:17+00:00,['1537702910225702912'],@TheSaintCentre Only problem how true is this,problem true
-1.5374489441242972e+18,2022-06-16 14:56:07+00:00,['1537448944124297217'],Pain https://t.co/JB8nLzQJs1,pain
-1.5371619576268554e+18,2022-06-15 19:55:44+00:00,['1537161957626855424'],https://t.co/cStGVjhgEa,
-1.537161867499651e+18,2022-06-15 19:55:22+00:00,['1537161867499651072'],https://t.co/aTsaWWmdkQ,
-1.5371618049122468e+18,2022-06-15 19:55:08+00:00,['1537161804912246785'],https://t.co/rb8M7Tg0Mu,
-1.5369873470610268e+18,2022-06-15 08:21:54+00:00,['1536987347061026816'],@TurfCastPodcast Southgate https://t.co/KnaHREhOi2,southgate
-1.5368167862508012e+18,2022-06-14 21:04:09+00:00,['1536816786250801152'],@AFCKyle_ @England @BellinghamJude https://t.co/mY4HtuFAeY,
-1.536742725059498e+18,2022-06-14 16:09:51+00:00,['1536742725059497991'],"#PS5Share, #FIFA22 https://t.co/nP0Dh1RTU3",
+#PlayStationTrophy #PS5Share, #GrandTheftAutoV https://t.co/1gjiFlKa09",grand theft auto red mist bronze,theft auto mist bronze 
+1.5620082151806976e+18,2022-08-23 09:25:53+00:00,['1562008215180697603'],https://t.co/SsOhmLI9t4,,nan 
+1.5620078508172902e+18,2022-08-23 09:24:26+00:00,['1562007850817290240'],https://t.co/4mIKP30ZI3,,nan 
+1.56164037318067e+18,2022-08-22 09:04:13+00:00,['1561640373180669953'],https://t.co/YpKEXii9sY,,nan 
+1.561640293283369e+18,2022-08-22 09:03:54+00:00,['1561640293283368961'],https://t.co/hs4H8S6BEq,,nan 
+1.5602148113167155e+18,2022-08-18 10:39:33+00:00,['1560214811316715524'],@TalkTV @Iromg @rakibehsan So go back to where they came from then,back came,
+1.5601804972459295e+18,2022-08-18 08:23:11+00:00,['1560180497245929474'],https://t.co/hNXYTvstWZ,,nan 
+1.5591067093936538e+18,2022-08-15 09:16:20+00:00,['1559106709393653760'],@RivetGames 484 https://t.co/JsQb3Jf4oN,,nan 
+1.5585894154794598e+18,2022-08-13 23:00:48+00:00,['1558589415479459841'],@SaintsExtra He could be a very good player for Saints,could good player saint,player saint 
+1.5585527634617672e+18,2022-08-13 20:35:09+00:00,['1558552763461767172'],Man u https://t.co/Qs2h2qnLBl https://t.co/hgq8N1PPy7,man,man 
+1.558479618453246e+18,2022-08-13 15:44:30+00:00,['1558479618453245952'],@SouthamptonFC @S_Mvrv @KWPeters Leeds bottled a 2 nil lead https://t.co/hPJu0ePebt,leeds bottled nil lead,lead 
+1.558476844835414e+18,2022-08-13 15:33:29+00:00,['1558476844835414016'],A goal am I dreaming https://t.co/0LyCHpAk0J,goal dreaming,goal 
+1.5584747065709076e+18,2022-08-13 15:24:59+00:00,['1558474706570907657'],@SouthamptonFC @J_Aribo19 @AdamArma9 Probably a bit late now,probably bit late,bit 
+1.5584745247981937e+18,2022-08-13 15:24:16+00:00,['1558474524798193669'],@SouthamptonFC How long has Ralph got before he is sacked because it definitely was not hhe back room staff  the problem,long ralph got sacked definitely hhe back room staff problem,ralph room staff problem 
+1.558465461225984e+18,2022-08-13 14:48:15+00:00,['1558465461225984006'],That's looking likely to be a lot of goals by the end https://t.co/4DZwyIO9jw,that's looking likely lot goal end,lot goal end 
+1.5584533591783096e+18,2022-08-13 14:00:10+00:00,['1558453359178309633'],@Beaumxntt @SouthamptonFC Needs kicking,need kicking,need 
+1.5584531606661775e+18,2022-08-13 13:59:22+00:00,['1558453160666177538'],@Saints_FCLive Leicester are probably regretting it,leicester probably regretting,leicester 
+1.5581506983862927e+18,2022-08-12 17:57:30+00:00,['1558150698386292740'],😂😂😂 https://t.co/LkPGR45oyl,,nan 
+1.557723725675389e+18,2022-08-11 13:40:51+00:00,['1557723725675388935'],@SaintsExtra @TheAthleticUK That false BS coming from newspapers like normal,false coming newspaper like normal,newspaper 
+1.557396032320934e+18,2022-08-10 15:58:43+00:00,['1557396032320933893'],"#PS5Share, #FIFA22 https://t.co/1OU3meISf9",,nan 
+1.5573959536232038e+18,2022-08-10 15:58:25+00:00,['1557395953623203851'],"#PS5Share, #FIFA22 https://t.co/K8pt2SpEyo",,nan 
+1.5573959239988388e+18,2022-08-10 15:58:17+00:00,['1557395923998838785'],"#PS5Share, #FIFA22 https://t.co/X8peY6N9P6",,nan 
+1.5573959012699095e+18,2022-08-10 15:58:12+00:00,['1557395901269909504'],"#PS5Share, #FIFA22 https://t.co/nnOoheHfmp",,nan 
+1.5570459403592868e+18,2022-08-09 16:47:35+00:00,['1557045940359286785'],@RivetGames Brading,brading,brading 
+1.5569134646685614e+18,2022-08-09 08:01:10+00:00,['1556913464668561408'],"@Freddie_matee In the Premier league more the 3 strikers are needed for rest, injuries or being unavailable",premier league striker needed rest injury unavailable,league striker injury 
+1.556912847350911e+18,2022-08-09 07:58:43+00:00,['1556912847350910977'],@Freddie_matee His Wages I guessing,wage guessing,wage 
+1.5569117172962673e+18,2022-08-09 07:54:14+00:00,['1556911717296267264'],"#PS5Share, #TrainSimWorld2 https://t.co/3NejcDLo7d",,nan 
+1.5567484163817472e+18,2022-08-08 21:05:20+00:00,['1556748416381747202'],@Damian08294754 @trainsimworld Train coming out of the tunnel at the start before the no sign and sound,train coming tunnel start sign sound,train sign sound 
+1.5567337979488584e+18,2022-08-08 20:07:14+00:00,['1556733797948858369'],"#PS5Share, #FIFA22 https://t.co/WoZPL7xWMm",,nan 
+1.556733774884479e+18,2022-08-08 20:07:09+00:00,['1556733774884478976'],"#PS5Share, #FIFA22 https://t.co/YXzMDccVZM",,nan 
+1.556733749974471e+18,2022-08-08 20:07:03+00:00,['1556733749974470656'],"#PS5Share, #FIFA22 https://t.co/qA7WWBBzhX",,nan 
+1.5566803068113551e+18,2022-08-08 16:34:41+00:00,['1556680306811355137'],@trainsimworld Austrian looked like as the overhead pulls,austrian looked like overhead pull,pull 
+1.556645329084244e+18,2022-08-08 14:15:42+00:00,['1556645329084243969'],https://t.co/YvUJbQvREl,,nan 
+1.5566452867763446e+18,2022-08-08 14:15:32+00:00,['1556645286776344577'],https://t.co/jPgfoAAqVh,,nan 
+1.5565961018132562e+18,2022-08-08 11:00:05+00:00,['1556596101813256192'],@SouthamptonPage @SaintRob__ @RhysTheSaint @saintsworldfc To be true that Athletic is not a good source to use its the same with every newspaper,true athletic good source use every newspaper,source use newspaper 
+1.5565953055539855e+18,2022-08-08 10:56:55+00:00,['1556595305553985538'],@kristianoko I can't see saints selling him in less there is a replacement in orissa there something saints or newspapers have reported,can't see saint selling replacement orissa something saint newspaper reported,replacement something saint newspaper 
+1.5563694083432858e+18,2022-08-07 19:59:17+00:00,['1556369408343285768'],"#PS5Share, #TrainSimWorld2 https://t.co/MBDbyBtR4e",,nan 
+1.556322366896185e+18,2022-08-07 16:52:21+00:00,['1556322366896185345'],@SkySportsPL Every man u fan https://t.co/UkOWvHwWLn,every man fan,man fan 
+1.5562975726958182e+18,2022-08-07 15:13:50+00:00,['1556297572695818240'],@AdamBlackmore Totally agree there ate too many fans that think that can do th job because of games like Fifa and football manager,totally agree ate many fan think job game like fifa football manager,fan job game fifa football manager 
+1.5562876215964303e+18,2022-08-07 14:34:18+00:00,['1556287621596430337'],https://t.co/sOVZZcBq6J,,nan 
+1.556286943931007e+18,2022-08-07 14:31:36+00:00,['1556286943931006978'],https://t.co/SzjHc4sK6r,,nan 
+1.55599541778713e+18,2022-08-06 19:13:11+00:00,['1555995417787129857'],https://t.co/k5ZNZiuPlh,,nan 
+1.5555554385440154e+18,2022-08-05 14:04:52+00:00,['1555555438544015361'],https://t.co/xRTkBN0Lix,,nan 
+1.5552525924433633e+18,2022-08-04 18:01:27+00:00,['1555252592443363329'],https://t.co/nl4ScwS2Vy,,nan 
+1.5552525777800888e+18,2022-08-04 18:01:24+00:00,['1555252577780088832'],https://t.co/vOazYYSab5,,nan 
+1.5552053192230175e+18,2022-08-04 14:53:37+00:00,['1555205319223017474'],https://t.co/YMyKXI7w10,,nan 
+1.555205315653689e+18,2022-08-04 14:53:36+00:00,['1555205315653689347'],https://t.co/6GyAB73ANN,,nan 
+1.5552048408962253e+18,2022-08-04 14:51:43+00:00,['1555204840896225281'],@SouthamptonPage @AdamBlackmore To be true Ralph will now how to get the best out of Timo Werner,true ralph get best timo werner,ralph get timo werner 
+1.5551399109773394e+18,2022-08-04 10:33:42+00:00,['1555139910977339394'],https://t.co/KAruPC2Lkx,,nan 
+1.5549302924518523e+18,2022-08-03 20:40:45+00:00,['1554930292451852288'],@SkySportsPL So has he moved as Brighton have said no agreed deal. So how is living,moved brighton said agreed deal living,brighton deal living 
+1.5548004541937992e+18,2022-08-03 12:04:49+00:00,['1554800454193799169'],🇦🇹 https://t.co/WnOrxT1pwp,,nan 
+1.5548003978140467e+18,2022-08-03 12:04:36+00:00,['1554800397814046721'],https://t.co/WtqKzn6QsV,,nan 
+1.5547800657408205e+18,2022-08-03 10:43:48+00:00,['1554780065740820483'],https://t.co/lU8kNCFvFf,,nan 
+1.5547784422348268e+18,2022-08-03 10:37:21+00:00,['1554778442234826758'],https://t.co/rtbwiAWafB,,nan 
+1.5547784104000758e+18,2022-08-03 10:37:14+00:00,['1554778410400075776'],https://t.co/Vaz5m04plp,,nan 
+1.55447531821543e+18,2022-08-02 14:32:51+00:00,['1554475318215430145'],@SaintsExtra @JacobSteinberg 30-35M 😂😂😂😂😂😂😂,,nan 
+1.554466462819033e+18,2022-08-02 13:57:39+00:00,['1554466462819033093'],@SaintsfcViews @FabrizioRomano 40m+ and player or bugger off,player bugger,player bugger 
+1.5543936373997076e+18,2022-08-02 09:08:17+00:00,['1554393637399707654'],https://t.co/MdxjmR1JON,,nan 
+1.5543935529307054e+18,2022-08-02 09:07:56+00:00,['1554393552930705408'],https://t.co/sSn8anQNqT,,nan 
+1.5540673745460756e+18,2022-08-01 11:31:49+00:00,['1554067374546075648'],https://t.co/o2exeXkNlC,,nan 
+1.554066900031783e+18,2022-08-01 11:29:56+00:00,['1554066900031782914'],https://t.co/mwInxCGisF,,nan 
+1.5540668690610504e+18,2022-08-01 11:29:49+00:00,['1554066869061050368'],https://t.co/TIHd0tnu8V,,nan 
+1.5540409431663247e+18,2022-08-01 09:46:48+00:00,['1554040943166324737'],https://t.co/xLebWszpcq,,nan 
+1.5540017604439327e+18,2022-08-01 07:11:06+00:00,['1554001760443932672'],https://t.co/8jyEY2q7dP,,nan 
+1.5538152095714222e+18,2022-07-31 18:49:49+00:00,['1553815209571422208'],@Lionesses https://t.co/Zdu9AxhK1z,,nan 
+1.5533682355458703e+18,2022-07-30 13:13:42+00:00,['1553368235545870336'],https://t.co/eTVyya2ONU,,nan 
+1.5533671060911145e+18,2022-07-30 13:09:12+00:00,['1553367106091114501'],https://t.co/dn8v87LmDT,,nan 
+1.553366472038269e+18,2022-07-30 13:06:41+00:00,['1553366472038268931'],https://t.co/cFBmCETKV6,,nan 
+1.553306646880854e+18,2022-07-30 09:08:58+00:00,['1553306646880854016'],https://t.co/xZE1Z8FCOk,,nan 
+1.5532982333544858e+18,2022-07-30 08:35:32+00:00,['1553298233354485760'],https://t.co/xkO2lFbzbW,,nan 
+1.553052937722757e+18,2022-07-29 16:20:49+00:00,['1553052937722757120'],@saintsjwp https://t.co/ZVpRQIcEm7,,nan 
+1.553014247562543e+18,2022-07-29 13:47:04+00:00,['1553014247562543104'],https://t.co/pmIQOpANro,,nan 
+1.5530131128566129e+18,2022-07-29 13:42:34+00:00,['1553013112856612864'],https://t.co/hlxrzdRNSP,,nan 
+1.552962363267158e+18,2022-07-29 10:20:54+00:00,['1552962363267158022'],@TheSaintCentre We do need another striker and winger,need another striker winger,need striker winger 
+1.552959580874875e+18,2022-07-29 10:09:51+00:00,['1552959580874874882'],@CareerModeInsid As specially when youth ask to play and when I forget I've done 3 because of a injury in yhe team 😂,specially youth ask play forget i've done injury yhe team,play forget i injury yhe team 
+1.5529592530103255e+18,2022-07-29 10:08:33+00:00,['1552959253010325505'],https://t.co/vsTgsjJwMa,,nan 
+1.5526515242490716e+18,2022-07-28 13:45:44+00:00,['1552651524249071616'],https://t.co/bsEQ4HAlDm,,nan 
+1.552651517189976e+18,2022-07-28 13:45:43+00:00,['1552651517189976065'],https://t.co/Vkc2VLcpci,,nan 
+1.5525820817666294e+18,2022-07-28 09:09:48+00:00,['1552582081766629384'],@SkySportsPL https://t.co/l9oi7HtOIi,,nan 
+1.5525764052208722e+18,2022-07-28 08:47:15+00:00,['1552576405220872192'],https://t.co/GrxFjYDktg,,nan 
+1.5525760880475996e+18,2022-07-28 08:45:59+00:00,['1552576088047599616'],https://t.co/G5YNnxd64A,,nan 
+1.5525760868647895e+18,2022-07-28 08:45:59+00:00,['1552576086864789508'],https://t.co/NHjUOwl4Kb,,nan 
+1.552575922884182e+18,2022-07-28 08:45:20+00:00,['1552575922884182018'],That's his career of loans Coming up https://t.co/ot4JkK9kvn,that's career loan coming,career loan 
+1.5523890916893655e+18,2022-07-27 20:22:56+00:00,['1552389091689365505'],@SouthamptonFC That's shut up the haters,that's shut hater,hater 
+1.5522432937397985e+18,2022-07-27 10:43:35+00:00,['1552243293739798529'],https://t.co/xEv2p7Z7UO,,nan 
+1.552223320849977e+18,2022-07-27 09:24:13+00:00,['1552223320849977345'],The now discussed fleckingbarn https://t.co/ibW3aMy4C0,discussed fleckingbarn,fleckingbarn 
+1.5522232082832753e+18,2022-07-27 09:23:46+00:00,['1552223208283275265'],https://t.co/JSkZFVuqDy,,nan 
+1.5522231646415503e+18,2022-07-27 09:23:36+00:00,['1552223164641550338'],https://t.co/E6QKo6qT3x,,nan 
+1.5519507776394772e+18,2022-07-26 15:21:13+00:00,['1551950777639477249'],https://t.co/RSEzjnrbW8,,nan 
+1.5519504432234168e+18,2022-07-26 15:19:54+00:00,['1551950443223416834'],https://t.co/sV5ZgPgbOk,,nan 
+1.5519503504497828e+18,2022-07-26 15:19:32+00:00,['1551950350449782785'],https://t.co/DPLGlR8t7y,,nan 
+1.5519305090554798e+18,2022-07-26 14:00:41+00:00,['1551930509055479808'],https://t.co/pdGtsMcs6l,,nan 
+1.5515000153606715e+18,2022-07-25 09:30:03+00:00,['1551500015360671745'],https://t.co/Ssh9e2mJEF,,nan 
+1.551298839507878e+18,2022-07-24 20:10:39+00:00,['1551298839507877888'],https://t.co/dImlK7WXrk,,nan 
+1.551138217453314e+18,2022-07-24 09:32:24+00:00,['1551138217453314049'],https://t.co/IUvDrNpEYi,,nan 
+1.5511378479351767e+18,2022-07-24 09:30:56+00:00,['1551137847935176705'],https://t.co/PPxYioctSH,,nan 
+1.5508353964303974e+18,2022-07-23 13:29:06+00:00,['1550835396430397441'],https://t.co/838gVbUune,,nan 
+1.5501818995025551e+18,2022-07-21 18:12:20+00:00,['1550181899502555137'],@trainsimworld @RivetGames The class 484 https://t.co/DQFeTRgbJt,class,class 
+1.5501685432531108e+18,2022-07-21 17:19:16+00:00,['1550168543253110784'],"#PS5Share, #FIFA22 https://t.co/WYl6VQbBMB",,nan 
+1.5501685257042043e+18,2022-07-21 17:19:11+00:00,['1550168525704204288'],"#PS5Share, #FIFA22 https://t.co/KYfDHSp7jQ",,nan 
+1.5497684998531564e+18,2022-07-20 14:49:38+00:00,['1549768499853156353'],https://t.co/Y5OeGbZDWK,,nan 
+1.5496692237812613e+18,2022-07-20 08:15:09+00:00,['1549669223781261313'],"#PS5Share, #TrainSimWorld2 https://t.co/grS0YzAi8Q",,nan 
+1.5496691910783508e+18,2022-07-20 08:15:01+00:00,['1549669191078350853'],"#PS5Share, #TrainSimWorld2 https://t.co/iKNHFcoBXH",,nan 
+1.549646974110126e+18,2022-07-20 06:46:44+00:00,['1549646974110126081'],"#PS5Share, #TrainSimWorld2 https://t.co/pqAitQsgIR",,nan 
+1.5496465669900083e+18,2022-07-20 06:45:07+00:00,['1549646566990008320'],"#PS5Share, #TrainSimWorld2 https://t.co/TcCP9E7m0O",,nan 
+1.5494996678258074e+18,2022-07-19 21:01:23+00:00,['1549499667825807360'],"#PS5Share, #TrainSimWorld2 https://t.co/nUEIoBp8lV",,nan 
+1.5494194640509993e+18,2022-07-19 15:42:41+00:00,['1549419464050999299'],"#PS5Share, #TrainSimWorld2 https://t.co/KDyYyrZFef",,nan 
+1.5494194314570875e+18,2022-07-19 15:42:33+00:00,['1549419431457087493'],"#PS5Share, #TrainSimWorld2 https://t.co/hpITgWiiHj",,nan 
+1.549319350087295e+18,2022-07-19 09:04:52+00:00,['1549319350087294978'],@markgwyatt People need to remember it only pre session as I've soon some people loss there heads on not wining games and scoring not playing well.,people need remember pre session i've soon people loss head wining game scoring playing well,session i loss head game 
+1.5493187504024986e+18,2022-07-19 09:02:29+00:00,['1549318750402498560'],@RaatjeFC The AI sacking there managers and getting in someone else could be even retired players like Football manager,sacking manager getting someone else could even retired player like football manager,sacking manager someone player football manager 
+1.5493136385063076e+18,2022-07-19 08:42:10+00:00,['1549313638506307586'],@Saints1885_com Wherever did 10 years go,wherever year,year 
+1.5487784316215992e+18,2022-07-17 21:15:27+00:00,['1548778431621599233'],@FutReveal @discovery_fut I wonder if le God will get a icon https://t.co/SxWVOzpF92,wonder god get icon,wonder god icon 
+1.548757831364608e+18,2022-07-17 19:53:36+00:00,['1548757831364608000'],https://t.co/JjXOeHixBC,,nan 
+1.5486970996294615e+18,2022-07-17 15:52:16+00:00,['1548697099629461513'],https://t.co/mzMz0JfvqA,,nan 
+1.5475119749924823e+18,2022-07-14 09:23:00+00:00,['1547511974992482305'],@ladbible Wouldn't you run away https://t.co/O4E0nYZunZ,run away,
+1.547511310560133e+18,2022-07-14 09:20:22+00:00,['1547511310560133120'],"@TheSaintCentre Walcott should stay as he give experience to the youth, Djenepo has struggled in English football I do think it best for him to leave for his career, Redmond is a hard one to say",walcott stay give experience youth djenepo struggled english football think best leave career redmond hard one say,walcott experience youth djenepo football redmond say 
+1.5475034597417042e+18,2022-07-14 08:49:10+00:00,['1547503459741704198'],@TheSaintCentre A loss for Saints for definitely but will the move kill his career,loss saint definitely move kill career,loss saint kill career 
+1.5465494718063657e+18,2022-07-11 17:38:22+00:00,['1546549471806365697'],@SkySportsPL Man u fans https://t.co/SEKSqIGuOB,man fan,man fan 
+1.546157928641593e+18,2022-07-10 15:42:31+00:00,['1546157928641593345'],https://t.co/8uNuFKyZZ7,,nan 
+1.545809579602215e+18,2022-07-09 16:38:18+00:00,['1545809579602214912'],@TomYoungSJ And still City will bottle it,still city bottle,city bottle 
+1.5457934018488402e+18,2022-07-09 15:34:01+00:00,['1545793401848840194'],@summa_symonds @SouthamptonFC Must be still on tea break,must still tea break,break 
+1.5454351026620375e+18,2022-07-08 15:50:15+00:00,['1545435102662037504'],https://t.co/SkOYG1Rpyy,,nan 
+1.545435063764099e+18,2022-07-08 15:50:06+00:00,['1545435063764099072'],https://t.co/lgVGXx7b3u,,nan 
+1.5454336020909916e+18,2022-07-08 15:44:18+00:00,['1545433602090991616'],@SaintsExtra @reluctantnicko I see Everton thinking that they are a big club,see everton thinking big club,everton club 
+1.5451483228512911e+18,2022-07-07 20:50:42+00:00,['1545148322851291136'],https://t.co/i69CFM6TEc,,nan 
+1.5451482697178194e+18,2022-07-07 20:50:29+00:00,['1545148269717819393'],https://t.co/4IajEhNYC8,,nan 
+1.545147803181224e+18,2022-07-07 20:48:38+00:00,['1545147803181223942'],https://t.co/KUBzhwIjoE,,nan 
+1.544734747724845e+18,2022-07-06 17:27:18+00:00,['1544734747724845057'],@RivetGames You can still see the remains for the framer signal box in the bushes,still see remains framer signal box bush,signal box bush 
+1.5446641631543337e+18,2022-07-06 12:46:49+00:00,['1544664163154333703'],@TheSaintCentre Saints don't need another RB but we do need a LB as it is very thin in that position,saint need another need thin position,saint need need position 
+1.5444248799062426e+18,2022-07-05 20:56:00+00:00,['1544424879906242560'],https://t.co/AmBVSsPDsD,,nan 
+1.5444248462805606e+18,2022-07-05 20:55:52+00:00,['1544424846280560641'],https://t.co/6NaEG2rhBl,,nan 
+1.5444247592235418e+18,2022-07-05 20:55:31+00:00,['1544424759223541761'],https://t.co/ydbKRXlKdJ,,nan 
+1.5440134443866358e+18,2022-07-04 17:41:06+00:00,['1544013444386635776'],@RivetGames London overground line,london overground line,london overground line 
+1.5439587582540595e+18,2022-07-04 14:03:47+00:00,['1543958758254059521'],Footplate experience time to get bored setting https://t.co/fyrRf473Wb,footplate experience time get bored setting,experience time setting 
+1.5429605740904202e+18,2022-07-01 19:57:22+00:00,['1542960574090420226'],Networker HYPE https://t.co/ArW5lMQVpp,networker hype,networker hype 
+1.5429602540649185e+18,2022-07-01 19:56:06+00:00,['1542960254064918530'],https://t.co/u7MEJJh0V8,,nan 
+1.542898388945064e+18,2022-07-01 15:50:16+00:00,['1542898388945063939'],@SouthamptonFC @AdamArma9 Hopefully Adam Armstrong can start finding the back of the net bit only if he gets given the chances 🤞,hopefully adam armstrong start finding back net bit get given chance,start bit chance 
+1.5428978719173878e+18,2022-07-01 15:48:12+00:00,['1542897871917387777'],Everton will struggle now in less the can find a replacement 😂 https://t.co/apNnLjzKCL,everton struggle find replacement,everton struggle replacement 
+1.5428975151665807e+18,2022-07-01 15:46:47+00:00,['1542897515166580736'],@Saints1885_com He will be a brilliant signing for us come on Saints get it done,brilliant signing come saint get done,saint get 
+1.5428972106349978e+18,2022-07-01 15:45:35+00:00,['1542897210634997761'],@EA https://t.co/cmSvBoCgyn,,nan 
+1.5428956363071406e+18,2022-07-01 15:39:19+00:00,['1542895636307140609'],Waggoner boiler is almost ready for her frames and as steaming yesterday and a inspection soon by the boiler inspector https://t.co/dLBnRyN1RS,waggoner boiler almost ready frame steaming yesterday inspection soon boiler inspector,waggoner boiler frame yesterday inspection inspector 
+1.5428953400047124e+18,2022-07-01 15:38:09+00:00,['1542895340004712450'],41313 very sparkling after me cleaning her today https://t.co/bxfMnUEAyI,sparkling cleaning today,cleaning today 
+1.54289515182737e+18,2022-07-01 15:37:24+00:00,['1542895151827369984'],https://t.co/aXNyDQJvZI,,nan 
+1.5425662488982405e+18,2022-06-30 17:50:27+00:00,['1542566248898240517'],@TalkTV Put them In prison and drop the key down a drain.,put prison drop key drain,prison drop key drain 
+1.5424217297750753e+18,2022-06-30 08:16:11+00:00,['1542421729775075328'],@geofftech Technology you can't use smallbrook as last used as its only open when the Steam Railway is running and most people go to Havenstreet to ride or some may go to Wootton by bus to ride,technology can't use smallbrook last used open steam railway running people havenstreet ride may wootton bus ride,technology smallbrook steam railway ride bus ride 
+1.5418707654900326e+18,2022-06-28 19:46:51+00:00,['1541870765490032641'],"#PS5Share, #TrainSimWorld2 https://t.co/e8mJGdl5hT",,nan 
+1.5418576405018952e+18,2022-06-28 18:54:42+00:00,['1541857640501895169'],@RivetGames Please fix the speedo on the 483,please fix speedo,speedo 
+1.5414708169819832e+18,2022-06-27 17:17:36+00:00,['1541470816981983233'],@TheSaintCentre 200m,,nan 
+1.5411320110201078e+18,2022-06-26 18:51:18+00:00,['1541132011020107777'],https://t.co/ormt3NeAxG,,nan 
+1.541086768019243e+18,2022-06-26 15:51:32+00:00,['1541086768019243015'],https://t.co/5HMdTXnS8b,,nan 
+1.5410867619500114e+18,2022-06-26 15:51:30+00:00,['1541086761950011393'],https://t.co/gYlVePA71R,,nan 
+1.5410864585215713e+18,2022-06-26 15:50:18+00:00,['1541086458521571328'],"@SkySportsPL Kyle walker Peters, James ward-prowse",kyle walker peter james wardprowse,kyle walker peter 
+1.5410861808124928e+18,2022-06-26 15:49:12+00:00,['1541086180812492803'],@TheSaintCentre 15-20M at least,least,
+1.5403664586136005e+18,2022-06-24 16:09:17+00:00,['1540366458613600256'],https://t.co/WRLKTyfrDM,,nan 
+1.5402539170526863e+18,2022-06-24 08:42:05+00:00,['1540253917052686336'],@SaintsExtra @lee_ryder It should be plus 80m and a player that saints picks from wich ever club comes in or no deal,plus player saint pick wich ever club come deal,player saint pick wich deal 
+1.5396165446778225e+18,2022-06-22 14:29:23+00:00,['1539616544677822466'],https://t.co/iDQ4rJT1nw,,nan 
+1.5396165388016108e+18,2022-06-22 14:29:22+00:00,['1539616538801610754'],https://t.co/4VhsIJbImo,,nan 
+1.5396165311387156e+18,2022-06-22 14:29:20+00:00,['1539616531138715654'],https://t.co/TS3v0DN9XV,,nan 
+1.5396163375296512e+18,2022-06-22 14:28:34+00:00,['1539616337529651200'],https://t.co/jyFWiyy0HO,,nan 
+1.5396162848281313e+18,2022-06-22 14:28:21+00:00,['1539616284828131328'],https://t.co/X566P3x4mZ,,nan 
+1.5396162581271675e+18,2022-06-22 14:28:15+00:00,['1539616258127167489'],https://t.co/s2seHOh0On,,nan 
+1.5396162293879112e+18,2022-06-22 14:28:08+00:00,['1539616229387911169'],https://t.co/eQgVMx0qff,,nan 
+1.5396161233726833e+18,2022-06-22 14:27:43+00:00,['1539616123372683265'],https://t.co/S9TVyCF8Uw,,nan 
+1.5396160642539233e+18,2022-06-22 14:27:29+00:00,['1539616064253923334'],https://t.co/jysvt2NEPl,,nan 
+1.5391657179704197e+18,2022-06-21 08:37:58+00:00,['1539165717970419712'],@premierleague https://t.co/9BFiIqnlnL,,nan 
+1.538931318364545e+18,2022-06-20 17:06:32+00:00,['1538931318364545024'],"@PlanetZooGame Amazon world, Sandown zoo",amazon world sandown zoo,world sandown zoo 
+1.5385544050159124e+18,2022-06-19 16:08:49+00:00,['1538554405015912450'],https://t.co/8WKkavy6nv,,nan 
+1.5378481940753285e+18,2022-06-17 17:22:35+00:00,['1537848194075328513'],https://t.co/IU1LazoiHR,,nan 
+1.5378475762041324e+18,2022-06-17 17:20:08+00:00,['1537847576204132353'],https://t.co/Xny4jLXV1m,,nan 
+1.537847567987376e+18,2022-06-17 17:20:06+00:00,['1537847567987376134'],https://t.co/q0sfvu4q6W,,nan 
+1.537847554884391e+18,2022-06-17 17:20:03+00:00,['1537847554884390914'],https://t.co/fU88e6LoGH,,nan 
+1.5378191401777644e+18,2022-06-17 15:27:08+00:00,['1537819140177764353'],https://t.co/ANR7Li1hhK,,nan 
+1.537819007335686e+18,2022-06-17 15:26:37+00:00,['1537819007335686145'],https://t.co/ZXzf9bvCEC,,nan 
+1.537818960640594e+18,2022-06-17 15:26:26+00:00,['1537818960640593920'],https://t.co/BWr0EYJN1Y,,nan 
+1.537702910225703e+18,2022-06-17 07:45:17+00:00,['1537702910225702912'],@TheSaintCentre Only problem how true is this,problem true,problem 
+1.5374489441242972e+18,2022-06-16 14:56:07+00:00,['1537448944124297217'],Pain https://t.co/JB8nLzQJs1,pain,pain 
+1.5371619576268554e+18,2022-06-15 19:55:44+00:00,['1537161957626855424'],https://t.co/cStGVjhgEa,,nan 
+1.537161867499651e+18,2022-06-15 19:55:22+00:00,['1537161867499651072'],https://t.co/aTsaWWmdkQ,,nan 
+1.5371618049122468e+18,2022-06-15 19:55:08+00:00,['1537161804912246785'],https://t.co/rb8M7Tg0Mu,,nan 
+1.5369873470610268e+18,2022-06-15 08:21:54+00:00,['1536987347061026816'],@TurfCastPodcast Southgate https://t.co/KnaHREhOi2,southgate,southgate 
+1.5368167862508012e+18,2022-06-14 21:04:09+00:00,['1536816786250801152'],@AFCKyle_ @England @BellinghamJude https://t.co/mY4HtuFAeY,,nan 
+1.536742725059498e+18,2022-06-14 16:09:51+00:00,['1536742725059497991'],"#PS5Share, #FIFA22 https://t.co/nP0Dh1RTU3",,nan 
 1.5363486961573396e+18,2022-06-13 14:04:07+00:00,['1536348696157339648'],"#PS5Share, #PlanetCoaster 
-Studio park https://t.co/oIOHHTh64x",studio park
-1.5362618361899295e+18,2022-06-13 08:18:58+00:00,['1536261836189929472'],@Saints1885_com Someone that's needs to play and not being put out of sight out of mind like Tella and Walcott,someone that's need play put sight mind like tella walcott
-1.5362344532735508e+18,2022-06-13 06:30:10+00:00,['1536234453273550849'],"#PS5Share, #TrainSimWorld2 https://t.co/1JDU1bnUn1",
-1.5360118755148186e+18,2022-06-12 15:45:43+00:00,['1536011875514818563'],https://t.co/0qh3E6Ug5n,
-1.5353585263773164e+18,2022-06-10 20:29:32+00:00,['1535358526377316353'],@RivetGames Ryde St John's Road looking in the Shanklin direction next stop smallbrook junction,ryde john's road looking shanklin direction next stop smallbrook junction
-1.5352893635963003e+18,2022-06-10 15:54:43+00:00,['1535289363596300288'],https://t.co/FwHeQXP4Ha,
-1.5352893588188774e+18,2022-06-10 15:54:42+00:00,['1535289358818877440'],https://t.co/UFv2aTgiMT,
-1.5352893264933888e+18,2022-06-10 15:54:34+00:00,['1535289326493388804'],https://t.co/gPujONnVfZ,
-1.5351693443505848e+18,2022-06-10 07:57:48+00:00,['1535169344350584832'],@SkySportsPL What ever the top six want,ever top six want
-1.5350225923059098e+18,2022-06-09 22:14:40+00:00,['1535022592305909767'],@TheSaintCentre Nope,nope
-1.5348719246978376e+18,2022-06-09 12:15:58+00:00,['1534871924697837568'],@England @Prowsey16 And Needs to play not sit on hhe bench,need play sit hhe bench
-1.5344830337845576e+18,2022-06-08 10:30:39+00:00,['1534483033784557570'],https://t.co/86mwGJTo1G https://t.co/5tqJqvN2SV,
-1.5344826471871734e+18,2022-06-08 10:29:07+00:00,['1534482647187173376'],😥😥😥😓 https://t.co/L0YNkLPKS9,
-1.53448088252185e+18,2022-06-08 10:22:06+00:00,['1534480882521849859'],😥😥😥😥😥 https://t.co/gjW4V4mpzP,
-1.534449802926252e+18,2022-06-08 08:18:36+00:00,['1534449802926252035'],@SouthamptonFC Le tissier and Van Dijk,tissier van dijk
-1.5344493204471644e+18,2022-06-08 08:16:41+00:00,['1534449320447164416'],@FUT22News But more bugs 😂😂😂😂,bug
-1.534444435022422e+18,2022-06-08 07:57:16+00:00,['1534444435022422016'],"#PS5Share, #FIFA22 I think i have found a new Ricky Lambert https://t.co/st50EDfWEC",think found new ricky lambert
-1.5342841531890196e+18,2022-06-07 21:20:22+00:00,['1534284153189019651'],@SouthamptonFC @Prowsey16 And still can't get on to the pitch,still can't get pitch
-1.534211017755992e+18,2022-06-07 16:29:45+00:00,['1534211017755992069'],@TSW61458653 @trainsimworld They will announce it when they are ready to announce it,announce ready announce
-1.5339194884202168e+18,2022-06-06 21:11:19+00:00,['1533919488420216832'],@TheSaintCentre We'll take £60m and Harry Kane and son,we'll take harry kane son
-1.5339178855040287e+18,2022-06-06 21:04:57+00:00,['1533917885504028673'],"#PS5Share, #TrainSimWorld2 https://t.co/HIl4iCcCPp",
-1.5339178616259666e+18,2022-06-06 21:04:51+00:00,['1533917861625966604'],"#PS5Share, #TrainSimWorld2 https://t.co/qgEicdVODg",
+Studio park https://t.co/oIOHHTh64x",studio park,studio park 
+1.5362618361899295e+18,2022-06-13 08:18:58+00:00,['1536261836189929472'],@Saints1885_com Someone that's needs to play and not being put out of sight out of mind like Tella and Walcott,someone that's need play put sight mind like tella walcott,someone mind tella walcott 
+1.5362344532735508e+18,2022-06-13 06:30:10+00:00,['1536234453273550849'],"#PS5Share, #TrainSimWorld2 https://t.co/1JDU1bnUn1",,nan 
+1.5360118755148186e+18,2022-06-12 15:45:43+00:00,['1536011875514818563'],https://t.co/0qh3E6Ug5n,,nan 
+1.5353585263773164e+18,2022-06-10 20:29:32+00:00,['1535358526377316353'],@RivetGames Ryde St John's Road looking in the Shanklin direction next stop smallbrook junction,ryde john's road looking shanklin direction next stop smallbrook junction,ryde john road direction smallbrook junction 
+1.5352893635963003e+18,2022-06-10 15:54:43+00:00,['1535289363596300288'],https://t.co/FwHeQXP4Ha,,nan 
+1.5352893588188774e+18,2022-06-10 15:54:42+00:00,['1535289358818877440'],https://t.co/UFv2aTgiMT,,nan 
+1.5352893264933888e+18,2022-06-10 15:54:34+00:00,['1535289326493388804'],https://t.co/gPujONnVfZ,,nan 
+1.5351693443505848e+18,2022-06-10 07:57:48+00:00,['1535169344350584832'],@SkySportsPL What ever the top six want,ever top six want,
+1.5350225923059098e+18,2022-06-09 22:14:40+00:00,['1535022592305909767'],@TheSaintCentre Nope,nope,nope 
+1.5348719246978376e+18,2022-06-09 12:15:58+00:00,['1534871924697837568'],@England @Prowsey16 And Needs to play not sit on hhe bench,need play sit hhe bench,bench 
+1.5344830337845576e+18,2022-06-08 10:30:39+00:00,['1534483033784557570'],https://t.co/86mwGJTo1G https://t.co/5tqJqvN2SV,,nan 
+1.5344826471871734e+18,2022-06-08 10:29:07+00:00,['1534482647187173376'],😥😥😥😓 https://t.co/L0YNkLPKS9,,nan 
+1.53448088252185e+18,2022-06-08 10:22:06+00:00,['1534480882521849859'],😥😥😥😥😥 https://t.co/gjW4V4mpzP,,nan 
+1.534449802926252e+18,2022-06-08 08:18:36+00:00,['1534449802926252035'],@SouthamptonFC Le tissier and Van Dijk,tissier van dijk,tissier van dijk 
+1.5344493204471644e+18,2022-06-08 08:16:41+00:00,['1534449320447164416'],@FUT22News But more bugs 😂😂😂😂,bug,bug 
+1.534444435022422e+18,2022-06-08 07:57:16+00:00,['1534444435022422016'],"#PS5Share, #FIFA22 I think i have found a new Ricky Lambert https://t.co/st50EDfWEC",think found new ricky lambert,lambert 
+1.5342841531890196e+18,2022-06-07 21:20:22+00:00,['1534284153189019651'],@SouthamptonFC @Prowsey16 And still can't get on to the pitch,still can't get pitch,
+1.534211017755992e+18,2022-06-07 16:29:45+00:00,['1534211017755992069'],@TSW61458653 @trainsimworld They will announce it when they are ready to announce it,announce ready announce,announce announce 
+1.5339194884202168e+18,2022-06-06 21:11:19+00:00,['1533919488420216832'],@TheSaintCentre We'll take £60m and Harry Kane and son,we'll take harry kane son,harry kane son 
+1.5339178855040287e+18,2022-06-06 21:04:57+00:00,['1533917885504028673'],"#PS5Share, #TrainSimWorld2 https://t.co/HIl4iCcCPp",,nan 
+1.5339178616259666e+18,2022-06-06 21:04:51+00:00,['1533917861625966604'],"#PS5Share, #TrainSimWorld2 https://t.co/qgEicdVODg",,nan 
 1.5339173507890053e+18,2022-06-06 21:02:49+00:00,['1533917350789005312'],"Train Sim World 2
 TSW2: Journey of a Lifetime (PLATINUM)
-#PlayStationTrophy #PS5Share, #TrainSimWorld2 https://t.co/7TB3c6ro0n",train sim world tsw journey lifetime platinum
-1.5338321341373727e+18,2022-06-06 15:24:12+00:00,['1533832134137372681'],@SaintsExtra @Ekremkonur https://t.co/t1NaiLrBxI,
-1.5337035042835415e+18,2022-06-06 06:53:04+00:00,['1533703504283541505'],"#PS5Share, #TrainSimWorld2 https://t.co/CgLBRKZ9Ht",
-1.5330222639263048e+18,2022-06-04 09:46:04+00:00,['1533022263926304769'],"@90min_Football So where is kwp, tino",kwp tino
-1.5323766744483103e+18,2022-06-02 15:00:44+00:00,['1532376674448310274'],https://t.co/1c3W9rDz3p,
-1.5322670708172431e+18,2022-06-02 07:45:12+00:00,['1532267070817243136'],"#PS5Share, #TrainSimWorld2 https://t.co/NzPrwV3aHE",
-1.5322654874925343e+18,2022-06-02 07:38:54+00:00,['1532265487492534272'],"#PS5Share, #TrainSimWorld2 https://t.co/VmZuyluff8",
-1.5322654689873265e+18,2022-06-02 07:38:50+00:00,['1532265468987326466'],"#PS5Share, #TrainSimWorld2 https://t.co/TEvhHiJXQT",
-1.532105823752704e+18,2022-06-01 21:04:28+00:00,['1532105823752704001'],@SkyNews https://t.co/9FEyZvPpUn,
-1.5320554023843471e+18,2022-06-01 17:44:06+00:00,['1532055402384347137'],Lovely day on this beauty https://t.co/Z6At2MLjAI,lovely day beauty
+#PlayStationTrophy #PS5Share, #TrainSimWorld2 https://t.co/7TB3c6ro0n",train sim world tsw journey lifetime platinum,train world tsw journey lifetime platinum 
+1.5338321341373727e+18,2022-06-06 15:24:12+00:00,['1533832134137372681'],@SaintsExtra @Ekremkonur https://t.co/t1NaiLrBxI,,nan 
+1.5337035042835415e+18,2022-06-06 06:53:04+00:00,['1533703504283541505'],"#PS5Share, #TrainSimWorld2 https://t.co/CgLBRKZ9Ht",,nan 
+1.5330222639263048e+18,2022-06-04 09:46:04+00:00,['1533022263926304769'],"@90min_Football So where is kwp, tino",kwp tino,kwp tino 
+1.5323766744483103e+18,2022-06-02 15:00:44+00:00,['1532376674448310274'],https://t.co/1c3W9rDz3p,,nan 
+1.5322670708172431e+18,2022-06-02 07:45:12+00:00,['1532267070817243136'],"#PS5Share, #TrainSimWorld2 https://t.co/NzPrwV3aHE",,nan 
+1.5322654874925343e+18,2022-06-02 07:38:54+00:00,['1532265487492534272'],"#PS5Share, #TrainSimWorld2 https://t.co/VmZuyluff8",,nan 
+1.5322654689873265e+18,2022-06-02 07:38:50+00:00,['1532265468987326466'],"#PS5Share, #TrainSimWorld2 https://t.co/TEvhHiJXQT",,nan 
+1.532105823752704e+18,2022-06-01 21:04:28+00:00,['1532105823752704001'],@SkyNews https://t.co/9FEyZvPpUn,,nan 
+1.5320554023843471e+18,2022-06-01 17:44:06+00:00,['1532055402384347137'],Lovely day on this beauty https://t.co/Z6At2MLjAI,lovely day beauty,day beauty 
 1.5317418570923622e+18,2022-05-31 20:58:11+00:00,['1531741857092362240'],"@southampton2025 @bradford2025 Northern city like normal, this must be fixed.
- #we march on",northern city like normal must fixed march
-1.531608248079491e+18,2022-05-31 12:07:16+00:00,['1531608248079491077'],https://t.co/EIfrs3kQis,
-1.531608201245905e+18,2022-05-31 12:07:05+00:00,['1531608201245904897'],https://t.co/iPrQbOtrVX,
-1.531580781864358e+18,2022-05-31 10:18:08+00:00,['1531580781864357888'],"#PS5Share, #TrainSimWorld2 https://t.co/A5C1VySUTE",
-1.531580748850938e+18,2022-05-31 10:18:00+00:00,['1531580748850937856'],"#PS5Share, #TrainSimWorld2 https://t.co/oUAC2SRwlN",
-1.5315807247378678e+18,2022-05-31 10:17:54+00:00,['1531580724737867776'],"#PS5Share, #TrainSimWorld2 https://t.co/szlBA1TmLC",
+ #we march on",northern city like normal must fixed march,city march 
+1.531608248079491e+18,2022-05-31 12:07:16+00:00,['1531608248079491077'],https://t.co/EIfrs3kQis,,nan 
+1.531608201245905e+18,2022-05-31 12:07:05+00:00,['1531608201245904897'],https://t.co/iPrQbOtrVX,,nan 
+1.531580781864358e+18,2022-05-31 10:18:08+00:00,['1531580781864357888'],"#PS5Share, #TrainSimWorld2 https://t.co/A5C1VySUTE",,nan 
+1.531580748850938e+18,2022-05-31 10:18:00+00:00,['1531580748850937856'],"#PS5Share, #TrainSimWorld2 https://t.co/oUAC2SRwlN",,nan 
+1.5315807247378678e+18,2022-05-31 10:17:54+00:00,['1531580724737867776'],"#PS5Share, #TrainSimWorld2 https://t.co/szlBA1TmLC",,nan 
 1.5315171509297684e+18,2022-05-31 06:05:17+00:00,['1531517150929768448'],"Sniper Elite 5
 Der Geist (BRONZE)
-#PlayStationTrophy #PS5Share, #SniperElite5 https://t.co/OMfE19wOk0",sniper elite der geist bronze
-1.531305475727401e+18,2022-05-30 16:04:10+00:00,['1531305475727400961'],"#PS5Share, #FIFA22 Not every day You see Manchester City Rock Bottom https://t.co/JU3W3MYOEX",every day see manchester city rock bottom
-1.53120414431223e+18,2022-05-30 09:21:31+00:00,['1531204144312229890'],@ManCity @FulhamFC @afcbournemouth @NFFC @premierleague And how they will look after playing city https://t.co/h6J2K4yE7y,look playing city
-1.5309395559935017e+18,2022-05-29 15:50:08+00:00,['1530939555993501698'],https://t.co/a9A0sYQ7nN,
-1.5309395053641605e+18,2022-05-29 15:49:56+00:00,['1530939505364160512'],https://t.co/x2HfZ6xbjC,
-1.5306310027034665e+18,2022-05-28 19:24:03+00:00,['1530631002703466497'],"#PS5Share, #SniperElite5 OK https://t.co/kv3E2LszIE",
+#PlayStationTrophy #PS5Share, #SniperElite5 https://t.co/OMfE19wOk0",sniper elite der geist bronze,elite der geist bronze 
+1.531305475727401e+18,2022-05-30 16:04:10+00:00,['1531305475727400961'],"#PS5Share, #FIFA22 Not every day You see Manchester City Rock Bottom https://t.co/JU3W3MYOEX",every day see manchester city rock bottom,day city rock bottom 
+1.53120414431223e+18,2022-05-30 09:21:31+00:00,['1531204144312229890'],@ManCity @FulhamFC @afcbournemouth @NFFC @premierleague And how they will look after playing city https://t.co/h6J2K4yE7y,look playing city,city 
+1.5309395559935017e+18,2022-05-29 15:50:08+00:00,['1530939555993501698'],https://t.co/a9A0sYQ7nN,,nan 
+1.5309395053641605e+18,2022-05-29 15:49:56+00:00,['1530939505364160512'],https://t.co/x2HfZ6xbjC,,nan 
+1.5306310027034665e+18,2022-05-28 19:24:03+00:00,['1530631002703466497'],"#PS5Share, #SniperElite5 OK https://t.co/kv3E2LszIE",,nan 
 1.530618752756228e+18,2022-05-28 18:35:22+00:00,['1530618752756228097'],"Sniper Elite 5
 Precision Is Key (BRONZE)
-#PlayStationTrophy #PS5Share, #SniperElite5 https://t.co/3CnpQtEq48",sniper elite precision key bronze
+#PlayStationTrophy #PS5Share, #SniperElite5 https://t.co/3CnpQtEq48",sniper elite precision key bronze,elite precision key bronze 
 1.5306182190059889e+18,2022-05-28 18:33:15+00:00,['1530618219005988867'],"Sniper Elite 5
 Close Quarters (BRONZE)
-#PlayStationTrophy #PS5Share, #SniperElite5 https://t.co/SLi0Txa4By",sniper elite close quarter bronze
-1.529923951014695e+18,2022-05-26 20:34:29+00:00,['1529923951014694912'],"#PS5Share, #SniperElite5 https://t.co/2mXv9bGyPg",
-1.5297367736428872e+18,2022-05-26 08:10:42+00:00,['1529736773642887169'],@SaintsExtra @dansheldonsport Well Saints do need new backroom staff now. Players are needed to fill holes like keeper,well saint need new backroom staff player needed fill hole like keeper
-1.528838737593082e+18,2022-05-23 20:42:14+00:00,['1528838737593081858'],https://t.co/8WFW7o9XhP,
-1.5288385905282007e+18,2022-05-23 20:41:39+00:00,['1528838590528200704'],https://t.co/jQM9dY6ngS,
-1.5288385169600102e+18,2022-05-23 20:41:21+00:00,['1528838516960010241'],https://t.co/hNYQ8bh2t3,
-1.5286698195282657e+18,2022-05-23 09:31:00+00:00,['1528669819528265728'],@HQSoton Pope will be nice,pope nice
-1.528669246032601e+18,2022-05-23 09:28:44+00:00,['1528669246032601093'],@ESPNUK Good,good
-1.5286577154547794e+18,2022-05-23 08:42:55+00:00,['1528657715454779397'],"@SaintsfcViews The team build around Tino, Salisu, KWP, JWP, Romeu. Stuart Armstrong is a good player he can slot in like Che and Adam Armstrong.",team build around tino salisu kwp jwp romeu stuart armstrong good player slot like che adam armstrong
-1.5286559785892127e+18,2022-05-23 08:36:01+00:00,['1528655978589212674'],"#PS5Share, #FIFA22 https://t.co/kBlFpKP7fl",
-1.5284082953960612e+18,2022-05-22 16:11:48+00:00,['1528408295396061184'],https://t.co/r1CIWj2IZg,
-1.528108778780074e+18,2022-05-21 20:21:38+00:00,['1528108778780073984'],"#PS5Share, #TrainSimWorld2 https://t.co/NWHIdUXIRx",
-1.5276770499047995e+18,2022-05-20 15:46:06+00:00,['1527677049904799745'],https://t.co/WityumwbLq,
-1.527677035820327e+18,2022-05-20 15:46:02+00:00,['1527677035820326912'],https://t.co/qOqyuuNAZI,
-1.527677035581145e+18,2022-05-20 15:46:02+00:00,['1527677035581145090'],https://t.co/sojVHJG3u5,
-1.5276769725491446e+18,2022-05-20 15:45:47+00:00,['1527676972549144581'],https://t.co/QED3nm4Ij5,
-1.5276766628669727e+18,2022-05-20 15:44:33+00:00,['1527676662866972674'],@talkSPORT Don't forget he also plays as the keeper,forget also play keeper
-1.527558054098649e+18,2022-05-20 07:53:15+00:00,['1527558054098649089'],@careermdhub Ai teams sacking managers and managers living. Retired players going in to management,team sacking manager manager living retired player going management
-1.5273768181140193e+18,2022-05-19 19:53:05+00:00,['1527376818114019333'],"#PS5Share, #TrainSimWorld2 https://t.co/hS2wojGipz",
-1.527376740217041e+18,2022-05-19 19:52:46+00:00,['1527376740217040909'],"#PS5Share, #TrainSimWorld2 https://t.co/T7ckztOAX1",
-1.5270076535741972e+18,2022-05-18 19:26:09+00:00,['1527007653574197257'],https://t.co/IPYOy44jyW,
-1.5270076080868557e+18,2022-05-18 19:25:58+00:00,['1527007608086855680'],https://t.co/tR5aK3E3qA,
-1.5270075785968148e+18,2022-05-18 19:25:51+00:00,['1527007578596814854'],https://t.co/O8YZ4nAszV,
-1.5270073630178836e+18,2022-05-18 19:25:00+00:00,['1527007363017883655'],https://t.co/eyu2EpoijC,
-1.526934961701503e+18,2022-05-18 14:37:18+00:00,['1526934961701502976'],"#PS5Share, #TrainSimWorld2 https://t.co/pSn7wcrc30",
-1.5269349503517082e+18,2022-05-18 14:37:15+00:00,['1526934950351708162'],"#PS5Share, #TrainSimWorld2 https://t.co/CHAtlLRGc2",
-1.5266669286176645e+18,2022-05-17 20:52:14+00:00,['1526666928617664514'],@SkySportsNews I see sky sports forgot that 2 teams play in football constantly putting Liverpool fans manager on the cameras all ways talking about them,see sky sport forgot team play football constantly putting liverpool fan manager camera way talking
-1.5266660483254436e+18,2022-05-17 20:48:44+00:00,['1526666048325443584'],"@dansheldonsport That's down to the time of the game with people having work, school tomorrow and boats and train to catch",that's time game people work school tomorrow boat train catch
-1.5264665677599703e+18,2022-05-17 07:36:04+00:00,['1526466567759970306'],Moaner https://t.co/ncMfuKFewU,moaner
-1.5262477224744264e+18,2022-05-16 17:06:28+00:00,['1526247722474426369'],@SkySportsNews https://t.co/8aXAmkkzyT,
-1.5256147096296735e+18,2022-05-14 23:11:05+00:00,['1525614709629673474'],@BBCBreaking Sympathy win only not because of the song. Still beast finished for the us though,sympathy win song still beast finished though
-1.5256025422473544e+18,2022-05-14 22:22:45+00:00,['1525602542247354368'],Look at German still 😂😂😂😂 https://t.co/jtNKS7v7Ut,look german still
-1.5256003176389427e+18,2022-05-14 22:13:54+00:00,['1525600317638942720'],https://t.co/cmLA7LNW8e,
-1.5255992097470587e+18,2022-05-14 22:09:30+00:00,['1525599209747058689'],😳 https://t.co/2uBWL5ncIn,
-1.525531892690346e+18,2022-05-14 17:42:00+00:00,['1525531892690345984'],@sfcdan_ One good thing is Liverpool are getting warned out and getting injuries,one good thing liverpool getting warned getting injury
-1.5254697822664786e+18,2022-05-14 13:35:12+00:00,['1525469782266478593'],@Squawka https://t.co/91Rk4ObyaS,
-1.5251415565917307e+18,2022-05-13 15:50:57+00:00,['1525141556591730690'],https://t.co/eT1Mef6Pak,
-1.5251415269296742e+18,2022-05-13 15:50:50+00:00,['1525141526929674240'],https://t.co/OjkxJUk3ui,
-1.5251414384382484e+18,2022-05-13 15:50:29+00:00,['1525141438438248449'],@premierleague @TrentAA @DeBruyneKev @BukayoSaka87 @MoSalah @Sonny7 @Prowsey16 @EASPORTSFIFA https://t.co/Ex6mlKvCVz,
-1.525024630737707e+18,2022-05-13 08:06:20+00:00,['1525024630737707008'],https://t.co/HqVZaTOuuW,
-1.5247822241801175e+18,2022-05-12 16:03:05+00:00,['1524782224180117509'],https://t.co/vqKHqKuSbH,
-1.524742712842412e+18,2022-05-12 13:26:05+00:00,['1524742712842412033'],@SkySportsPL This is when he hands in a transfer request 😂,hand transfer request
-1.5247403190315704e+18,2022-05-12 13:16:35+00:00,['1524740319031570435'],https://t.co/ImsplDtBOw,
-1.5247397318877307e+18,2022-05-12 13:14:15+00:00,['1524739731887730688'],From the down line platform at Brading https://t.co/GcnoJ2VwFT,line platform brading
-1.5247396925366764e+18,2022-05-12 13:14:05+00:00,['1524739692536676352'],https://t.co/T9xDPwrAQy,
-1.5247208662270157e+18,2022-05-12 11:59:17+00:00,['1524720866227015680'],https://t.co/PhNTZBGANN,
-1.5247205484288492e+18,2022-05-12 11:58:01+00:00,['1524720548428849154'],https://t.co/qoaQilwfLb,
-1.5246980802260337e+18,2022-05-12 10:28:44+00:00,['1524698080226033666'],https://t.co/104e2Uzqs0,
-1.5246973144928256e+18,2022-05-12 10:25:41+00:00,['1524697314492825600'],@IslandLineUK 005 on tests https://t.co/DBgMU0vMM1,test
-1.5246938939414446e+18,2022-05-12 10:12:06+00:00,['1524693893941444610'],https://t.co/b8p1glqipY,
-1.524670907473617e+18,2022-05-12 08:40:46+00:00,['1524670907473616897'],"@TheSaintCentre Fraser, Jack, Shane. Caballero probably should retire, Harry 🤷‍♂️",fraser jack shane caballero probably retire harry
-1.5243842623126364e+18,2022-05-11 13:41:44+00:00,['1524384262312636416'],"#PS5Share, #FIFA22 My worse Team of the season https://t.co/eMftxhm6Q9",worse team season
-1.5243840733214925e+18,2022-05-11 13:40:59+00:00,['1524384073321492480'],"#PS5Share, #FIFA22 My Best Team of the Season https://t.co/MDQ5aOhcAN",best team season
-1.5243050905254175e+18,2022-05-11 08:27:08+00:00,['1524305090525417475'],"@FIFA_Infinity From just 2023 it becomes a pay to win, online only, no single player, no manager or players career modes just FUT as its EA and all they want is money",becomes pay win online single player manager player career mode fut want money
-1.5243036505286738e+18,2022-05-11 08:21:25+00:00,['1524303650528673792'],"#PS5Share, #TrainSimWorld2 https://t.co/gCeGP2viJ5",
-1.5239409766660628e+18,2022-05-10 08:20:16+00:00,['1523940976666062850'],@SaintsExtra @TheAthleticUK It is needed so let's see what happens https://t.co/3JQzfJ3Kpd,needed let's see happens
-1.5237673160093942e+18,2022-05-09 20:50:13+00:00,['1523767316009394182'],"#PS5Share, #TrainSimWorld2 https://t.co/dBJrrXOT6x",
-1.523337110622806e+18,2022-05-08 16:20:44+00:00,['1523337110622806016'],https://t.co/MwifSm8Rlg,
-1.5233367840081265e+18,2022-05-08 16:19:26+00:00,['1523336784008126466'],https://t.co/6nWhOwNCOB,
-1.5233364710333522e+18,2022-05-08 16:18:11+00:00,['1523336471033352192'],https://t.co/oO7sE9Cxpw,
-1.5233363797527552e+18,2022-05-08 16:17:49+00:00,['1523336379752755201'],https://t.co/LBfuGeBOpi,
-1.5229682658651873e+18,2022-05-07 15:55:04+00:00,['1522968265865187329'],@SouthamptonFC Ralph at half time at 2 down and can get he team to find the back of the net https://t.co/zlRJzTnQMC,ralph half time get team find back net
-1.5229534748409692e+18,2022-05-07 14:56:18+00:00,['1522953474840969216'],@SouthamptonFC https://t.co/df3ATkHCIe,
-1.5226017297910866e+18,2022-05-06 15:38:35+00:00,['1522601729791086595'],https://t.co/GvhekCixdc,
-1.5226013881943736e+18,2022-05-06 15:37:14+00:00,['1522601388194373633'],https://t.co/wLsN6E5x8x,
-1.5226013170170348e+18,2022-05-06 15:36:57+00:00,['1522601317017034756'],https://t.co/F5IRdzLTEz,
-1.5226012737444086e+18,2022-05-06 15:36:46+00:00,['1522601273744408576'],https://t.co/QcNAR5JfmQ,
-1.522300275167576e+18,2022-05-05 19:40:43+00:00,['1522300275167576064'],https://t.co/Zya62Piq55,
-1.522300133697798e+18,2022-05-05 19:40:09+00:00,['1522300133697798144'],https://t.co/u9mpYDiUOo,
-1.5218624128231424e+18,2022-05-04 14:40:48+00:00,['1521862412823142400'],"#PS5Share, #TrainSimWorld2 https://t.co/5VAJrkOtVg",
-1.521862402136019e+18,2022-05-04 14:40:46+00:00,['1521862402136018945'],"#PS5Share, #TrainSimWorld2 https://t.co/dHNI0TC2wS",
-1.5218623891881492e+18,2022-05-04 14:40:43+00:00,['1521862389188149248'],"#PS5Share, #TrainSimWorld2 https://t.co/AKgt6yn8FK",
-1.5217942770005934e+18,2022-05-04 10:10:03+00:00,['1521794277000593408'],@Matchday365 He can't help not get opportunities to get changes to score he is definitely underrated at current,can't help get opportunity get change score definitely underrated current
-1.5214862746951516e+18,2022-05-03 13:46:10+00:00,['1521486274695151618'],@SaintsfcViews 150m,
-1.5212337690967e+18,2022-05-02 21:02:48+00:00,['1521233769096699905'],😂 https://t.co/scxDaqatZj,
-1.5211652683949097e+18,2022-05-02 16:30:36+00:00,['1521165268394909699'],Trevithick Welsh Steaming Ovoids is bad at Steaming dose not make enough heat and a lot of clinker https://t.co/djiLapYabS,trevithick welsh steaming ovoid bad steaming dose make enough heat lot clinker
-1.5204439063657882e+18,2022-04-30 16:44:10+00:00,['1520443906365788160'],"Poor result, lost it in the 90th minute https://t.co/mqu2BvaDmZ",poor result lost minute
+#PlayStationTrophy #PS5Share, #SniperElite5 https://t.co/SLi0Txa4By",sniper elite close quarter bronze,quarter bronze 
+1.529923951014695e+18,2022-05-26 20:34:29+00:00,['1529923951014694912'],"#PS5Share, #SniperElite5 https://t.co/2mXv9bGyPg",,nan 
+1.5297367736428872e+18,2022-05-26 08:10:42+00:00,['1529736773642887169'],@SaintsExtra @dansheldonsport Well Saints do need new backroom staff now. Players are needed to fill holes like keeper,well saint need new backroom staff player needed fill hole like keeper,backroom staff player hole keeper 
+1.528838737593082e+18,2022-05-23 20:42:14+00:00,['1528838737593081858'],https://t.co/8WFW7o9XhP,,nan 
+1.5288385905282007e+18,2022-05-23 20:41:39+00:00,['1528838590528200704'],https://t.co/jQM9dY6ngS,,nan 
+1.5288385169600102e+18,2022-05-23 20:41:21+00:00,['1528838516960010241'],https://t.co/hNYQ8bh2t3,,nan 
+1.5286698195282657e+18,2022-05-23 09:31:00+00:00,['1528669819528265728'],@HQSoton Pope will be nice,pope nice,pope nice 
+1.528669246032601e+18,2022-05-23 09:28:44+00:00,['1528669246032601093'],@ESPNUK Good,good,
+1.5286577154547794e+18,2022-05-23 08:42:55+00:00,['1528657715454779397'],"@SaintsfcViews The team build around Tino, Salisu, KWP, JWP, Romeu. Stuart Armstrong is a good player he can slot in like Che and Adam Armstrong.",team build around tino salisu kwp jwp romeu stuart armstrong good player slot like che adam armstrong,team tino salisu kwp jwp stuart player slot che adam armstrong 
+1.5286559785892127e+18,2022-05-23 08:36:01+00:00,['1528655978589212674'],"#PS5Share, #FIFA22 https://t.co/kBlFpKP7fl",,nan 
+1.5284082953960612e+18,2022-05-22 16:11:48+00:00,['1528408295396061184'],https://t.co/r1CIWj2IZg,,nan 
+1.528108778780074e+18,2022-05-21 20:21:38+00:00,['1528108778780073984'],"#PS5Share, #TrainSimWorld2 https://t.co/NWHIdUXIRx",,nan 
+1.5276770499047995e+18,2022-05-20 15:46:06+00:00,['1527677049904799745'],https://t.co/WityumwbLq,,nan 
+1.527677035820327e+18,2022-05-20 15:46:02+00:00,['1527677035820326912'],https://t.co/qOqyuuNAZI,,nan 
+1.527677035581145e+18,2022-05-20 15:46:02+00:00,['1527677035581145090'],https://t.co/sojVHJG3u5,,nan 
+1.5276769725491446e+18,2022-05-20 15:45:47+00:00,['1527676972549144581'],https://t.co/QED3nm4Ij5,,nan 
+1.5276766628669727e+18,2022-05-20 15:44:33+00:00,['1527676662866972674'],@talkSPORT Don't forget he also plays as the keeper,forget also play keeper,forget 
+1.527558054098649e+18,2022-05-20 07:53:15+00:00,['1527558054098649089'],@careermdhub Ai teams sacking managers and managers living. Retired players going in to management,team sacking manager manager living retired player going management,team manager manager living player management 
+1.5273768181140193e+18,2022-05-19 19:53:05+00:00,['1527376818114019333'],"#PS5Share, #TrainSimWorld2 https://t.co/hS2wojGipz",,nan 
+1.527376740217041e+18,2022-05-19 19:52:46+00:00,['1527376740217040909'],"#PS5Share, #TrainSimWorld2 https://t.co/T7ckztOAX1",,nan 
+1.5270076535741972e+18,2022-05-18 19:26:09+00:00,['1527007653574197257'],https://t.co/IPYOy44jyW,,nan 
+1.5270076080868557e+18,2022-05-18 19:25:58+00:00,['1527007608086855680'],https://t.co/tR5aK3E3qA,,nan 
+1.5270075785968148e+18,2022-05-18 19:25:51+00:00,['1527007578596814854'],https://t.co/O8YZ4nAszV,,nan 
+1.5270073630178836e+18,2022-05-18 19:25:00+00:00,['1527007363017883655'],https://t.co/eyu2EpoijC,,nan 
+1.526934961701503e+18,2022-05-18 14:37:18+00:00,['1526934961701502976'],"#PS5Share, #TrainSimWorld2 https://t.co/pSn7wcrc30",,nan 
+1.5269349503517082e+18,2022-05-18 14:37:15+00:00,['1526934950351708162'],"#PS5Share, #TrainSimWorld2 https://t.co/CHAtlLRGc2",,nan 
+1.5266669286176645e+18,2022-05-17 20:52:14+00:00,['1526666928617664514'],@SkySportsNews I see sky sports forgot that 2 teams play in football constantly putting Liverpool fans manager on the cameras all ways talking about them,see sky sport forgot team play football constantly putting liverpool fan manager camera way talking,sport play football liverpool fan manager camera way 
+1.5266660483254436e+18,2022-05-17 20:48:44+00:00,['1526666048325443584'],"@dansheldonsport That's down to the time of the game with people having work, school tomorrow and boats and train to catch",that's time game people work school tomorrow boat train catch,time game school tomorrow boat train catch 
+1.5264665677599703e+18,2022-05-17 07:36:04+00:00,['1526466567759970306'],Moaner https://t.co/ncMfuKFewU,moaner,moaner 
+1.5262477224744264e+18,2022-05-16 17:06:28+00:00,['1526247722474426369'],@SkySportsNews https://t.co/8aXAmkkzyT,,nan 
+1.5256147096296735e+18,2022-05-14 23:11:05+00:00,['1525614709629673474'],@BBCBreaking Sympathy win only not because of the song. Still beast finished for the us though,sympathy win song still beast finished though,win song 
+1.5256025422473544e+18,2022-05-14 22:22:45+00:00,['1525602542247354368'],Look at German still 😂😂😂😂 https://t.co/jtNKS7v7Ut,look german still,
+1.5256003176389427e+18,2022-05-14 22:13:54+00:00,['1525600317638942720'],https://t.co/cmLA7LNW8e,,nan 
+1.5255992097470587e+18,2022-05-14 22:09:30+00:00,['1525599209747058689'],😳 https://t.co/2uBWL5ncIn,,nan 
+1.525531892690346e+18,2022-05-14 17:42:00+00:00,['1525531892690345984'],@sfcdan_ One good thing is Liverpool are getting warned out and getting injuries,one good thing liverpool getting warned getting injury,thing liverpool injury 
+1.5254697822664786e+18,2022-05-14 13:35:12+00:00,['1525469782266478593'],@Squawka https://t.co/91Rk4ObyaS,,nan 
+1.5251415565917307e+18,2022-05-13 15:50:57+00:00,['1525141556591730690'],https://t.co/eT1Mef6Pak,,nan 
+1.5251415269296742e+18,2022-05-13 15:50:50+00:00,['1525141526929674240'],https://t.co/OjkxJUk3ui,,nan 
+1.5251414384382484e+18,2022-05-13 15:50:29+00:00,['1525141438438248449'],@premierleague @TrentAA @DeBruyneKev @BukayoSaka87 @MoSalah @Sonny7 @Prowsey16 @EASPORTSFIFA https://t.co/Ex6mlKvCVz,,nan 
+1.525024630737707e+18,2022-05-13 08:06:20+00:00,['1525024630737707008'],https://t.co/HqVZaTOuuW,,nan 
+1.5247822241801175e+18,2022-05-12 16:03:05+00:00,['1524782224180117509'],https://t.co/vqKHqKuSbH,,nan 
+1.524742712842412e+18,2022-05-12 13:26:05+00:00,['1524742712842412033'],@SkySportsPL This is when he hands in a transfer request 😂,hand transfer request,hand transfer request 
+1.5247403190315704e+18,2022-05-12 13:16:35+00:00,['1524740319031570435'],https://t.co/ImsplDtBOw,,nan 
+1.5247397318877307e+18,2022-05-12 13:14:15+00:00,['1524739731887730688'],From the down line platform at Brading https://t.co/GcnoJ2VwFT,line platform brading,line platform brading 
+1.5247396925366764e+18,2022-05-12 13:14:05+00:00,['1524739692536676352'],https://t.co/T9xDPwrAQy,,nan 
+1.5247208662270157e+18,2022-05-12 11:59:17+00:00,['1524720866227015680'],https://t.co/PhNTZBGANN,,nan 
+1.5247205484288492e+18,2022-05-12 11:58:01+00:00,['1524720548428849154'],https://t.co/qoaQilwfLb,,nan 
+1.5246980802260337e+18,2022-05-12 10:28:44+00:00,['1524698080226033666'],https://t.co/104e2Uzqs0,,nan 
+1.5246973144928256e+18,2022-05-12 10:25:41+00:00,['1524697314492825600'],@IslandLineUK 005 on tests https://t.co/DBgMU0vMM1,test,test 
+1.5246938939414446e+18,2022-05-12 10:12:06+00:00,['1524693893941444610'],https://t.co/b8p1glqipY,,nan 
+1.524670907473617e+18,2022-05-12 08:40:46+00:00,['1524670907473616897'],"@TheSaintCentre Fraser, Jack, Shane. Caballero probably should retire, Harry 🤷‍♂️",fraser jack shane caballero probably retire harry,fraser jack shane caballero retire harry 
+1.5243842623126364e+18,2022-05-11 13:41:44+00:00,['1524384262312636416'],"#PS5Share, #FIFA22 My worse Team of the season https://t.co/eMftxhm6Q9",worse team season,team season 
+1.5243840733214925e+18,2022-05-11 13:40:59+00:00,['1524384073321492480'],"#PS5Share, #FIFA22 My Best Team of the Season https://t.co/MDQ5aOhcAN",best team season,team season 
+1.5243050905254175e+18,2022-05-11 08:27:08+00:00,['1524305090525417475'],"@FIFA_Infinity From just 2023 it becomes a pay to win, online only, no single player, no manager or players career modes just FUT as its EA and all they want is money",becomes pay win online single player manager player career mode fut want money,player manager player career mode fut money 
+1.5243036505286738e+18,2022-05-11 08:21:25+00:00,['1524303650528673792'],"#PS5Share, #TrainSimWorld2 https://t.co/gCeGP2viJ5",,nan 
+1.5239409766660628e+18,2022-05-10 08:20:16+00:00,['1523940976666062850'],@SaintsExtra @TheAthleticUK It is needed so let's see what happens https://t.co/3JQzfJ3Kpd,needed let's see happens,let 
+1.5237673160093942e+18,2022-05-09 20:50:13+00:00,['1523767316009394182'],"#PS5Share, #TrainSimWorld2 https://t.co/dBJrrXOT6x",,nan 
+1.523337110622806e+18,2022-05-08 16:20:44+00:00,['1523337110622806016'],https://t.co/MwifSm8Rlg,,nan 
+1.5233367840081265e+18,2022-05-08 16:19:26+00:00,['1523336784008126466'],https://t.co/6nWhOwNCOB,,nan 
+1.5233364710333522e+18,2022-05-08 16:18:11+00:00,['1523336471033352192'],https://t.co/oO7sE9Cxpw,,nan 
+1.5233363797527552e+18,2022-05-08 16:17:49+00:00,['1523336379752755201'],https://t.co/LBfuGeBOpi,,nan 
+1.5229682658651873e+18,2022-05-07 15:55:04+00:00,['1522968265865187329'],@SouthamptonFC Ralph at half time at 2 down and can get he team to find the back of the net https://t.co/zlRJzTnQMC,ralph half time get team find back net,half time team net 
+1.5229534748409692e+18,2022-05-07 14:56:18+00:00,['1522953474840969216'],@SouthamptonFC https://t.co/df3ATkHCIe,,nan 
+1.5226017297910866e+18,2022-05-06 15:38:35+00:00,['1522601729791086595'],https://t.co/GvhekCixdc,,nan 
+1.5226013881943736e+18,2022-05-06 15:37:14+00:00,['1522601388194373633'],https://t.co/wLsN6E5x8x,,nan 
+1.5226013170170348e+18,2022-05-06 15:36:57+00:00,['1522601317017034756'],https://t.co/F5IRdzLTEz,,nan 
+1.5226012737444086e+18,2022-05-06 15:36:46+00:00,['1522601273744408576'],https://t.co/QcNAR5JfmQ,,nan 
+1.522300275167576e+18,2022-05-05 19:40:43+00:00,['1522300275167576064'],https://t.co/Zya62Piq55,,nan 
+1.522300133697798e+18,2022-05-05 19:40:09+00:00,['1522300133697798144'],https://t.co/u9mpYDiUOo,,nan 
+1.5218624128231424e+18,2022-05-04 14:40:48+00:00,['1521862412823142400'],"#PS5Share, #TrainSimWorld2 https://t.co/5VAJrkOtVg",,nan 
+1.521862402136019e+18,2022-05-04 14:40:46+00:00,['1521862402136018945'],"#PS5Share, #TrainSimWorld2 https://t.co/dHNI0TC2wS",,nan 
+1.5218623891881492e+18,2022-05-04 14:40:43+00:00,['1521862389188149248'],"#PS5Share, #TrainSimWorld2 https://t.co/AKgt6yn8FK",,nan 
+1.5217942770005934e+18,2022-05-04 10:10:03+00:00,['1521794277000593408'],@Matchday365 He can't help not get opportunities to get changes to score he is definitely underrated at current,can't help get opportunity get change score definitely underrated current,opportunity change 
+1.5214862746951516e+18,2022-05-03 13:46:10+00:00,['1521486274695151618'],@SaintsfcViews 150m,,nan 
+1.5212337690967e+18,2022-05-02 21:02:48+00:00,['1521233769096699905'],😂 https://t.co/scxDaqatZj,,nan 
+1.5211652683949097e+18,2022-05-02 16:30:36+00:00,['1521165268394909699'],Trevithick Welsh Steaming Ovoids is bad at Steaming dose not make enough heat and a lot of clinker https://t.co/djiLapYabS,trevithick welsh steaming ovoid bad steaming dose make enough heat lot clinker,welsh heat lot clinker 
+1.5204439063657882e+18,2022-04-30 16:44:10+00:00,['1520443906365788160'],"Poor result, lost it in the 90th minute https://t.co/mqu2BvaDmZ",poor result lost minute,result minute 
 1.5203200282808238e+18,2022-04-30 08:31:55+00:00,['1520320028280823812'],"Off to Southampton 
 COYR
-#wemarchon https://t.co/8mt5qwZNxe",southampton coyr
-1.5201362970415718e+18,2022-04-29 20:21:50+00:00,['1520136297041571844'],"#PS5Share, #TrainSimWorld2 https://t.co/GPQtmkpiIu",
-1.5201362736667443e+18,2022-04-29 20:21:45+00:00,['1520136273666744326'],"#PS5Share, #TrainSimWorld2 https://t.co/sUAyBR51TE",
-1.520136246714065e+18,2022-04-29 20:21:38+00:00,['1520136246714064899'],"#PS5Share, #TrainSimWorld2 https://t.co/WYFgKMVE4r",
-1.5200679006856684e+18,2022-04-29 15:50:03+00:00,['1520067900685668353'],https://t.co/ucmp5FnrP6,
-1.5192573105599775e+18,2022-04-27 10:09:03+00:00,['1519257310559977473'],@SouthamptonFC @tino_livramento https://t.co/X0hgPCWryC,
-1.5189090634714522e+18,2022-04-26 11:05:15+00:00,['1518909063471452162'],@SouthamptonFC @Sportsbetio Small bit hard to pick just one,small bit hard pick one
-1.5188767397112463e+18,2022-04-26 08:56:48+00:00,['1518876739711246337'],@ESPNUK JWP always https://t.co/zoAq3VqpU7,jwp always
-1.5188706742317343e+18,2022-04-26 08:32:42+00:00,['1518870674231734274'],@SouthamptonFC First team quality 👌,first team quality
-1.5188705058388582e+18,2022-04-26 08:32:02+00:00,['1518870505838858240'],@kieran32735730 @marcatkins74 @SouthamptonFC He can play as far as I've found it any one 16 and over can start or sit on the bench. Harvey Elliott made his debut at Fulham at 16,play far i've found one start sit bench harvey elliott made debut fulham
-1.518502750421762e+18,2022-04-25 08:10:42+00:00,['1518502750421762048'],@Everton https://t.co/VhAqgCVb7E,
-1.5181342513754972e+18,2022-04-24 07:46:25+00:00,['1518134251375497216'],@SouthamptonFC Please turn up to day 🔴⚪🔴⚪🔴,please turn day
-1.5178944454962504e+18,2022-04-23 15:53:31+00:00,['1517894445496250368'],https://t.co/qzsROcszJI,
-1.5178943815163003e+18,2022-04-23 15:53:16+00:00,['1517894381516300289'],https://t.co/WFwBB5NqYp,
-1.517894351199871e+18,2022-04-23 15:53:09+00:00,['1517894351199870978'],https://t.co/oj45AjlGKb,
-1.5175975087589048e+18,2022-04-22 20:13:36+00:00,['1517597508758904835'],https://t.co/UyAktlTcum,
+#wemarchon https://t.co/8mt5qwZNxe",southampton coyr,southampton coyr 
+1.5201362970415718e+18,2022-04-29 20:21:50+00:00,['1520136297041571844'],"#PS5Share, #TrainSimWorld2 https://t.co/GPQtmkpiIu",,nan 
+1.5201362736667443e+18,2022-04-29 20:21:45+00:00,['1520136273666744326'],"#PS5Share, #TrainSimWorld2 https://t.co/sUAyBR51TE",,nan 
+1.520136246714065e+18,2022-04-29 20:21:38+00:00,['1520136246714064899'],"#PS5Share, #TrainSimWorld2 https://t.co/WYFgKMVE4r",,nan 
+1.5200679006856684e+18,2022-04-29 15:50:03+00:00,['1520067900685668353'],https://t.co/ucmp5FnrP6,,nan 
+1.5192573105599775e+18,2022-04-27 10:09:03+00:00,['1519257310559977473'],@SouthamptonFC @tino_livramento https://t.co/X0hgPCWryC,,nan 
+1.5189090634714522e+18,2022-04-26 11:05:15+00:00,['1518909063471452162'],@SouthamptonFC @Sportsbetio Small bit hard to pick just one,small bit hard pick one,pick 
+1.5188767397112463e+18,2022-04-26 08:56:48+00:00,['1518876739711246337'],@ESPNUK JWP always https://t.co/zoAq3VqpU7,jwp always,jwp 
+1.5188706742317343e+18,2022-04-26 08:32:42+00:00,['1518870674231734274'],@SouthamptonFC First team quality 👌,first team quality,team quality 
+1.5188705058388582e+18,2022-04-26 08:32:02+00:00,['1518870505838858240'],@kieran32735730 @marcatkins74 @SouthamptonFC He can play as far as I've found it any one 16 and over can start or sit on the bench. Harvey Elliott made his debut at Fulham at 16,play far i've found one start sit bench harvey elliott made debut fulham,play start sit bench harvey elliott debut fulham 
+1.518502750421762e+18,2022-04-25 08:10:42+00:00,['1518502750421762048'],@Everton https://t.co/VhAqgCVb7E,,nan 
+1.5181342513754972e+18,2022-04-24 07:46:25+00:00,['1518134251375497216'],@SouthamptonFC Please turn up to day 🔴⚪🔴⚪🔴,please turn day,turn day 
+1.5178944454962504e+18,2022-04-23 15:53:31+00:00,['1517894445496250368'],https://t.co/qzsROcszJI,,nan 
+1.5178943815163003e+18,2022-04-23 15:53:16+00:00,['1517894381516300289'],https://t.co/WFwBB5NqYp,,nan 
+1.517894351199871e+18,2022-04-23 15:53:09+00:00,['1517894351199870978'],https://t.co/oj45AjlGKb,,nan 
+1.5175975087589048e+18,2022-04-22 20:13:36+00:00,['1517597508758904835'],https://t.co/UyAktlTcum,,nan 
 1.5175974174782382e+18,2022-04-22 20:13:14+00:00,['1517597417478238209'],"Share your votes now on social media using #TOTS
-https://t.co/UG4cSNJSnQ",share vote social medium using
-1.517587708713087e+18,2022-04-22 19:34:39+00:00,['1517587708713086982'],@TheSaintCentre Someone that needs more minutes to get a chance to score,someone need minute get chance score
-1.517424067309146e+18,2022-04-22 08:44:24+00:00,['1517424067309146112'],@SouthamptonFC Go back to the trustee 442,back trustee
-1.5172463719459308e+18,2022-04-21 20:58:18+00:00,['1517246371945930752'],@SouthamptonPag1 Che and Redmond needed to come on at HT to give Saints the chance of a comebacks,che redmond needed come give saint chance comeback
+https://t.co/UG4cSNJSnQ",share vote social medium using,share medium 
+1.517587708713087e+18,2022-04-22 19:34:39+00:00,['1517587708713086982'],@TheSaintCentre Someone that needs more minutes to get a chance to score,someone need minute get chance score,someone chance score 
+1.517424067309146e+18,2022-04-22 08:44:24+00:00,['1517424067309146112'],@SouthamptonFC Go back to the trustee 442,back trustee,trustee 
+1.5172463719459308e+18,2022-04-21 20:58:18+00:00,['1517246371945930752'],@SouthamptonPag1 Che and Redmond needed to come on at HT to give Saints the chance of a comebacks,che redmond needed come give saint chance comeback,che redmond saint chance comeback 
 1.5172460606404895e+18,2022-04-21 20:57:04+00:00,['1517246060640489472'],"@SaintsfcViews Forster 
 Tino, Salisu, Jan,KWP
 Redmond, JWP, Romeu, S Armstrong 
 A Armstrong, Adams 
-Starting 11 for Brighton that I think will work",forster tino salisu jankwp redmond jwp romeu armstrong armstrong adam starting brighton think work
-1.5172445640708751e+18,2022-04-21 20:51:07+00:00,['1517244564070875136'],@SouthamptonPag1 There is one thing I've started to notice that Ralph can't get the team up after going a goal down specially 2 at HT. But the team needs to start better and find a way to not go into a hole wich the captain needs to do,one thing i've started notice ralph can't get team going goal specially team need start better find way hole wich captain need
-1.517234159298691e+18,2022-04-21 20:09:47+00:00,['1517234159298691073'],@SaintsFCWomen Go and teach the men how to play,teach men play
-1.5172262311204168e+18,2022-04-21 19:38:16+00:00,['1517226231120416768'],@SouthamptonFC Someone give saints a kick https://t.co/qltnGjmPHm,someone give saint kick
-1.5171424354610954e+18,2022-04-21 14:05:18+00:00,['1517142435461095426'],@TalkTV @JuliaHB1 How we lied,lied
-1.51713879923021e+18,2022-04-21 13:50:51+00:00,['1517138799230210049'],No wonder why they don't run more trains because lorry drivers need to go to specsavers on the island 😂😂😂 https://t.co/wRECIb0rvS,wonder run train lorry driver need specsavers island
-1.5170499588636713e+18,2022-04-21 07:57:50+00:00,['1517049958863671296'],"#PS5Share, #TrainSimWorld2 https://t.co/aGH5AO4Bkp",
-1.51704993543424e+18,2022-04-21 07:57:44+00:00,['1517049935434240000'],"#PS5Share, #TrainSimWorld2 https://t.co/rmT66MawyJ",
-1.5170498998246564e+18,2022-04-21 07:57:36+00:00,['1517049899824656384'],"#PS5Share, #TrainSimWorld2 https://t.co/4DcBsKXd4u",
-1.516810869333762e+18,2022-04-20 16:07:46+00:00,['1516810869333762055'],https://t.co/aAHyBbswZH,
-1.5168102456533402e+18,2022-04-20 16:05:18+00:00,['1516810245653340166'],E coal 😬😬😬😬 https://t.co/dEs8KGt1cJ,coal
-1.5168101774204475e+18,2022-04-20 16:05:01+00:00,['1516810177420447747'],https://t.co/HvpLjCYkRK,
-1.5168101689982444e+18,2022-04-20 16:04:59+00:00,['1516810168998244362'],https://t.co/JHsuDYi2Mg,
-1.516685871264772e+18,2022-04-20 07:51:05+00:00,['1516685871264772098'],Next year the Championship will welcome you back😂🤣🤣🤣 https://t.co/Q4XKVJeLI9,next year championship welcome back
-1.516682411987329e+18,2022-04-20 07:37:20+00:00,['1516682411987329026'],"#PS5Share, #TrainSimWorld2 https://t.co/6XmaE3Vtrh",
-1.516682358925271e+18,2022-04-20 07:37:07+00:00,['1516682358925271041'],"#PS5Share, #TrainSimWorld2 https://t.co/ObUSSaUDi2",
-1.5166823320648663e+18,2022-04-20 07:37:01+00:00,['1516682332064866311'],"#PS5Share, #TrainSimWorld2 https://t.co/m4kqA82V2v",
-1.516534905903194e+18,2022-04-19 21:51:12+00:00,['1516534905903194114'],@trainsimworld Island line,island line
-1.5163463586465915e+18,2022-04-19 09:21:58+00:00,['1516346358646591495'],@SouthamptonFC Che Adams https://t.co/ezGUAX0JFA,che adam
-1.5159608794262446e+18,2022-04-18 07:50:13+00:00,['1515960879426244615'],@premierleague 👍,
-1.515739597225046e+18,2022-04-17 17:10:55+00:00,['1515739597225046022'],@premierleague @budfootball https://t.co/nrU5lTbZ5f,
-1.5157239967378145e+18,2022-04-17 16:08:56+00:00,['1515723996737814535'],https://t.co/SxnGLl9Bfs,
-1.5157239906057052e+18,2022-04-17 16:08:54+00:00,['1515723990605705221'],https://t.co/mVIexsTLSA,
+Starting 11 for Brighton that I think will work",forster tino salisu jankwp redmond jwp romeu armstrong armstrong adam starting brighton think work,forster tino salisu jankwp redmond jwp romeu adam brighton work 
+1.5172445640708751e+18,2022-04-21 20:51:07+00:00,['1517244564070875136'],@SouthamptonPag1 There is one thing I've started to notice that Ralph can't get the team up after going a goal down specially 2 at HT. But the team needs to start better and find a way to not go into a hole wich the captain needs to do,one thing i've started notice ralph can't get team going goal specially team need start better find way hole wich captain need,thing i notice ralph team goal way hole wich need 
+1.517234159298691e+18,2022-04-21 20:09:47+00:00,['1517234159298691073'],@SaintsFCWomen Go and teach the men how to play,teach men play,teach 
+1.5172262311204168e+18,2022-04-21 19:38:16+00:00,['1517226231120416768'],@SouthamptonFC Someone give saints a kick https://t.co/qltnGjmPHm,someone give saint kick,someone saint kick 
+1.5171424354610954e+18,2022-04-21 14:05:18+00:00,['1517142435461095426'],@TalkTV @JuliaHB1 How we lied,lied,
+1.51713879923021e+18,2022-04-21 13:50:51+00:00,['1517138799230210049'],No wonder why they don't run more trains because lorry drivers need to go to specsavers on the island 😂😂😂 https://t.co/wRECIb0rvS,wonder run train lorry driver need specsavers island,wonder run train lorry 
+1.5170499588636713e+18,2022-04-21 07:57:50+00:00,['1517049958863671296'],"#PS5Share, #TrainSimWorld2 https://t.co/aGH5AO4Bkp",,nan 
+1.51704993543424e+18,2022-04-21 07:57:44+00:00,['1517049935434240000'],"#PS5Share, #TrainSimWorld2 https://t.co/rmT66MawyJ",,nan 
+1.5170498998246564e+18,2022-04-21 07:57:36+00:00,['1517049899824656384'],"#PS5Share, #TrainSimWorld2 https://t.co/4DcBsKXd4u",,nan 
+1.516810869333762e+18,2022-04-20 16:07:46+00:00,['1516810869333762055'],https://t.co/aAHyBbswZH,,nan 
+1.5168102456533402e+18,2022-04-20 16:05:18+00:00,['1516810245653340166'],E coal 😬😬😬😬 https://t.co/dEs8KGt1cJ,coal,coal 
+1.5168101774204475e+18,2022-04-20 16:05:01+00:00,['1516810177420447747'],https://t.co/HvpLjCYkRK,,nan 
+1.5168101689982444e+18,2022-04-20 16:04:59+00:00,['1516810168998244362'],https://t.co/JHsuDYi2Mg,,nan 
+1.516685871264772e+18,2022-04-20 07:51:05+00:00,['1516685871264772098'],Next year the Championship will welcome you back😂🤣🤣🤣 https://t.co/Q4XKVJeLI9,next year championship welcome back,year championship 
+1.516682411987329e+18,2022-04-20 07:37:20+00:00,['1516682411987329026'],"#PS5Share, #TrainSimWorld2 https://t.co/6XmaE3Vtrh",,nan 
+1.516682358925271e+18,2022-04-20 07:37:07+00:00,['1516682358925271041'],"#PS5Share, #TrainSimWorld2 https://t.co/ObUSSaUDi2",,nan 
+1.5166823320648663e+18,2022-04-20 07:37:01+00:00,['1516682332064866311'],"#PS5Share, #TrainSimWorld2 https://t.co/m4kqA82V2v",,nan 
+1.516534905903194e+18,2022-04-19 21:51:12+00:00,['1516534905903194114'],@trainsimworld Island line,island line,island line 
+1.5163463586465915e+18,2022-04-19 09:21:58+00:00,['1516346358646591495'],@SouthamptonFC Che Adams https://t.co/ezGUAX0JFA,che adam,che adam 
+1.5159608794262446e+18,2022-04-18 07:50:13+00:00,['1515960879426244615'],@premierleague 👍,,nan 
+1.515739597225046e+18,2022-04-17 17:10:55+00:00,['1515739597225046022'],@premierleague @budfootball https://t.co/nrU5lTbZ5f,,nan 
+1.5157239967378145e+18,2022-04-17 16:08:56+00:00,['1515723996737814535'],https://t.co/SxnGLl9Bfs,,nan 
+1.5157239906057052e+18,2022-04-17 16:08:54+00:00,['1515723990605705221'],https://t.co/mVIexsTLSA,,nan 
 1.5154661904407757e+18,2022-04-16 23:04:30+00:00,['1515466190440775688'],"@TheSaintCentre Has anyone seen the Bednarek haters or the Ralph haters 😂😂
-COYR",anyone seen bednarek hater ralph hater coyr
+COYR",anyone seen bednarek hater ralph hater coyr,anyone hater ralph hater coyr 
