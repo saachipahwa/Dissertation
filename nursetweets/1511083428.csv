@@ -1,4 +1,4 @@
-id,created_at,edit_history_tweet_ids,text,clean_text
-1.56380526092954e+18,2022-08-28 08:26:42+00:00,['1563805260929540100'],@stevewebb1 Great question and one I asked after the increase none of the answers I got made sense,great question one asked increase none answer got made sense
-1.5624730891744993e+18,2022-08-24 16:13:08+00:00,['1562473089174499328'],@JMPSimor Terrifying,terrifying
-1.5624724690256814e+18,2022-08-24 16:10:40+00:00,['1562472469025681413'],@derekjames150 10000000000000% in favour,favour
+id,created_at,edit_history_tweet_ids,text,clean_text,nouns
+1.56380526092954e+18,2022-08-28 08:26:42+00:00,['1563805260929540100'],@stevewebb1 Great question and one I asked after the increase none of the answers I got made sense,great question one asked increase none answer got made sense,question increase none answer sense 
+1.5624730891744993e+18,2022-08-24 16:13:08+00:00,['1562473089174499328'],@JMPSimor Terrifying,terrifying,
+1.5624724690256814e+18,2022-08-24 16:10:40+00:00,['1562472469025681413'],@derekjames150 10000000000000% in favour,favour,favour 
