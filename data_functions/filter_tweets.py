@@ -5,13 +5,19 @@ import string
 import numpy as np
 import pandas as pd
 import nltk #lib used for stop words
+from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+
 
 from langdetect import detect
+from nltk.probability import FreqDist
+from nltk.corpus import treebank
 
 #Text preprocessing
 #REFERENCE: https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/
@@ -161,9 +167,30 @@ def text_preprocessing(directory = "journalisttweets"):
             df.to_csv(f, index=False)
 
 #run remove_empty before this
-text_preprocessing()
+# text_preprocessing()
 #run remove_empty after this
 
+def get_nouns(text):
+    text = word_tokenize(text)
+    tags = nltk.pos_tag(text)
+    new_text = ""
+    for a,b in tags:
+        print(b)
+        if b=="NN":
+            new_text = new_text + a + " "
+    return new_text
+
+def nouns_column(directory):
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        # checking if it is a file
+
+        if os.path.isfile(f):
+            print(f)
+            df = pd.read_csv(f)
+            # df['nouns'] = df['clean_text']
+            df['nouns'] = df['clean_text'].apply(lambda x:get_nouns(str(x)))
+            df.to_csv(f, index=False)
 
 def remove_empty_tweets(directory = "doctortweets"):
     for filename in os.listdir(directory):

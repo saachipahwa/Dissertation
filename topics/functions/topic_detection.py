@@ -14,15 +14,14 @@ def get_all_tweets(directory = None):
     return df
 
 def get_topics_from(df=None, directory_name = "nursetweets"):
-    tweet_text = df['text'].astype(str).tolist()
+    tweet_text = df['nouns'].astype(str).tolist()
     print("got df")
     topic_model = BERTopic(language="english",
                            calculate_probabilities=False,
                            verbose=True,
                            low_memory=True,
-                           min_topic_size=20
-                           # n_gram_range=(1, 2)
-                           # nr_topics = 20,
+                           min_topic_size=20,
+                           n_gram_range=(1, 3)
                            )
     print("set up topic model. about to fit model")
     topics, probabilities = topic_model.fit_transform(tweet_text)
@@ -45,14 +44,4 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
 
 directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 
-# for directory in directories:
-df = get_all_tweets("nursetweets")
-print("got all tweets")
-print(len(df))
 
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
-
-try:
-    get_topics_from(df, "nursetweets")
-except Exception as e:
-    print(str(e))
