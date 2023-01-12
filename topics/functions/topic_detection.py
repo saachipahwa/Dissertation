@@ -2,16 +2,15 @@ import os
 
 import pandas as pd
 from bertopic import BERTopic
-from sklearn.datasets import fetch_20newsgroups
 
-def get_all_tweets(directory = None):
-    df = pd.DataFrame()
-    for filename in os.listdir(directory):
-        f = os.path.join(directory, filename)
-        print(f)
-        user_df = pd.read_csv(f, index_col=0)
-        df = pd.concat([df, user_df], ignore_index=True)
-    return df
+# def get_all_tweets(directory = None):
+#     df = pd.DataFrame()
+#     for filename in os.listdir(directory):
+#         f = os.path.join(directory, filename)
+#         print(f)
+#         user_df = pd.read_csv(f, index_col=0)
+#         df = pd.concat([df, user_df], ignore_index=True)
+#     return df
 
 def get_topics_from(df=None, directory_name = "nursetweets"):
     tweet_text = df['nouns'].astype(str).tolist()
@@ -24,7 +23,7 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
                            )
     print("set up topic model. about to fit model")
     topics, probabilities = topic_model.fit_transform(tweet_text)
-    topic_model.save("{}_model".format(directory_name))
+    # topic_model.save("{}_model".format(directory_name))
     print("fit model")
     freq = topic_model.get_topic_info()
     print(type(freq))
