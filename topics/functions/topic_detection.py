@@ -20,7 +20,6 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
                            calculate_probabilities=False,
                            verbose=True,
                            low_memory=True,
-                           min_topic_size=20,
                            n_gram_range=(1, 3)
                            )
     print("set up topic model. about to fit model")
@@ -44,4 +43,4 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
 
 directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 
-
+get_topics_from()
