@@ -1,6 +1,3 @@
-import os
-
-import pandas as pd
 from bertopic import BERTopic
 
 # def get_all_tweets(directory = None):
