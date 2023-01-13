@@ -1,13 +1,15 @@
+import os
 from bertopic import BERTopic
+import pandas as pd
 
-# def get_all_tweets(directory = None):
-#     df = pd.DataFrame()
-#     for filename in os.listdir(directory):
-#         f = os.path.join(directory, filename)
-#         print(f)
-#         user_df = pd.read_csv(f, index_col=0)
-#         df = pd.concat([df, user_df], ignore_index=True)
-#     return df
+def get_all_tweets(directory = None):
+    df = pd.DataFrame()
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        print(f)
+        user_df = pd.read_csv(f, index_col=0)
+        df = pd.concat([df, user_df], ignore_index=True)
+    return df
 
 def get_topics_from(df=None, directory_name = "nursetweets"):
     tweet_text = df['nouns'].astype(str).tolist()
@@ -39,4 +41,6 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
 
 directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 
-get_topics_from()
+df = get_all_tweets(directories[0])
+
+nurse_freq = get_topics_from(df, directory_name="nursetweets")
