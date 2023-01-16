@@ -13,7 +13,7 @@ rail_followers_file = "data/filteredRMTfollowers.csv"
 musicians_directory = "musiciantweets"
 musicians_followers_file = "data/filteredMUfollowers.csv"
 musiciansfollowerdf = pd.read_csv(musicians_followers_file)
-journalistsfollowerdf = pd.read_csv(musicians_followers_file)
+journalistsfollowerdf = pd.read_csv(journalist_followers_file)
 railworkersfollowerdf = pd.read_csv(rail_followers_file)
 
 def store_log(message):
@@ -74,6 +74,6 @@ def call_get_tweets(followerdf = None, directory = None):
 
     store_log("Finished - I got all the tweets!!")
 
-call_get_tweets(musiciansfollowerdf, musicians_directory)
-call_get_tweets(railworkersfollowerdf, rail_directory)
+# call_get_tweets(musiciansfollowerdf, musicians_directory)
+# call_get_tweets(railworkersfollowerdf, rail_directory)
 call_get_tweets(journalistsfollowerdf, journalist_directory)
