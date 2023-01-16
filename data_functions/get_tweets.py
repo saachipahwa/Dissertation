@@ -63,7 +63,7 @@ def call_get_tweets(followerdf = None, directory = None):
     for id in followerdf['id']:
         store_log("ID" + str(id))
         count=0
-        next_token = get_tweets(int(id), directory)
+        next_token = get_tweets(int(id), directory, pagination="7140dibdnow9c7btw421dyxopy7tze6hdsbzpiql5eqt0")
         store_log("COUNT" + str(count))
         store_log("NEXT_TOKEN" + str(next_token))
         while next_token:
