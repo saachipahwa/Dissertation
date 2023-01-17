@@ -11,14 +11,15 @@ def get_all_tweets(directory = None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-def get_topics_from(df=None, directory_name = "nursetweets"):
+def get_topics_from(df=None, directory_name = "nursetweets", nr_topics=None):
     tweet_text = df['nouns'].astype(str).tolist()
     print("got df")
     topic_model = BERTopic(language="english",
                            calculate_probabilities=False,
                            verbose=True,
                            low_memory=True,
-                           n_gram_range=(1, 3)
+                           n_gram_range=(1, 3),
+                           nr_topics=nr_topics
                            )
     print("set up topic model. about to fit model")
     topics, probabilities = topic_model.fit_transform(tweet_text)
@@ -36,11 +37,11 @@ def get_topics_from(df=None, directory_name = "nursetweets"):
             details_list.append([])
     freq['details'] = details_list
 
-    freq.to_csv('topics/{}_topics.csv'.format(directory_name))
+    freq.to_csv('topics/{}_topics_{}.csv'.format(directory_name, nr_topics))
     print("saved to csv")
 
 directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 
-df = get_all_tweets(directories[0])
-
-nurse_freq = get_topics_from(df, directory_name="nursetweets")
+df = get_all_tweets(directories[4])
+print(len(df))
+nurse_freq = get_topics_from(df, directory_name="nursetweets", nr_topics=5)
