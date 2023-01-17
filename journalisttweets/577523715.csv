@@ -1,344 +1,165 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.515437885570302e+18,2022-04-16 21:12:02+00:00,['1515437885570301955'],@elsgaard_ @IBurbidge7
-1,1.4974787095609754e+18,2022-02-26 07:48:40+00:00,['1497478709560975361'],"RT @BayesBSchool: Russia’s invasion of Ukraine could result in long-term increased innovation, depressed workforces, and the growth of a Ru…"
-2,1.492971363908436e+18,2022-02-13 21:18:05+00:00,['1492971363908435973'],@Danny_Rust10 @CJPhillips1982 @NFLUK @Bengals Haha glory hunter!
-3,1.4924240721600594e+18,2022-02-12 09:03:21+00:00,['1492424072160059392'],Excellent article @Simon_Hughes__ https://t.co/fRzU06U0SW
-4,1.491134131782439e+18,2022-02-08 19:37:35+00:00,['1491134131782438912'],"RT @henrywinter: West Ham have ""unreservedly condemned"" Kurt Zouma for kicking his cat. He can't represent them on the field atm; for how l…"
-5,1.481227368916267e+18,2022-01-12 11:31:39+00:00,['1481227368916267010'],"The complexities of language excellently explained in this article, as if learning French wasn’t complicated enough 
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english
+1.515437885570302e+18,2022-04-16 21:12:02+00:00,['1515437885570301955'],@elsgaard_ @IBurbidge7,,
+1.492971363908436e+18,2022-02-13 21:18:05+00:00,['1492971363908435973'],@Danny_Rust10 @CJPhillips1982 @NFLUK @Bengals Haha glory hunter!,haha glory hunter,False
+1.4924240721600594e+18,2022-02-12 09:03:21+00:00,['1492424072160059392'],Excellent article @Simon_Hughes__ https://t.co/fRzU06U0SW,excellent article,True
+1.481227368916267e+18,2022-01-12 11:31:39+00:00,['1481227368916267010'],"The complexities of language excellently explained in this article, as if learning French wasn’t complicated enough 
 
-Thanks to @MinimaModalia for the explainer https://t.co/J1okE8OcaJ"
-6,1.4713958168668242e+18,2021-12-16 08:24:34+00:00,['1471395816866824203'],"@SamadChowdhury_ @rhalle_ Arsenal have a policy to try and counteract behaviour like this where seat numbers can be reported by anonymous text and stewards can act. Fingers crossed action is taken, nice job with the pictures and video."
-7,1.459289095830745e+18,2021-11-12 22:36:47+00:00,['1459289095830745094'],@IBurbidge7 @Arsenal @matt_j_abbott @kierantierney1 This is phenomenal
-8,1.4545640276785275e+18,2021-10-30 21:41:03+00:00,['1454564027678527489'],RT @gunnerblog: BREAKING: Indications that Tottenham do not in fact need to go anywhere in order to get battered
-9,1.4526697183101338e+18,2021-10-25 16:13:44+00:00,['1452669718310133763'],@SkySportsStatto @SkySportsPL @IBurbidge7
-10,1.4512647567074796e+18,2021-10-21 19:10:55+00:00,['1451264756707479561'],@CJPhillips1982 They’ve got you on the Harwich Standard too?!
-11,1.4421818786986107e+18,2021-09-26 17:38:48+00:00,['1442181878698610690'],RT @arseblog: 🤣🤣 https://t.co/6rOIF9PZ2D
-12,1.4389719529961595e+18,2021-09-17 21:03:43+00:00,['1438971952996159492'],"RT @GeorgeFouracres: The @guardian asked me to write a piece about trying to be an actor at @The_Globe after the pandemic, so I’ve tried to…"
-13,1.433193343266263e+18,2021-09-01 22:21:35+00:00,['1433193343266263045'],"@MattPlummer4 @EACH_hospices Love it, all the best Matt!"
-14,1.4265007521686075e+18,2021-08-14 11:07:37+00:00,['1426500752168607746'],Football 👎🏻 https://t.co/C6kOnrJzH2
-15,1.420003918751404e+18,2021-07-27 12:51:31+00:00,['1420003918751404064'],"RT @BayesBSchool: ""We need to give business schools the space to be creative entrepreneurial forces"" - @profserious 
-
-Professor Anthony Fin…"
-16,1.418248060338008e+18,2021-07-22 16:34:22+00:00,['1418248060338008065'],"RT @RSLiterature: Through Mesh
-
-""rush of the north brings haze to distant
-skyscape and
-nearer steeples
-puffs of steam dot your vision ""
-
-To…"
-17,1.417798109485273e+18,2021-07-21 10:46:25+00:00,['1417798109485273091'],"Poetry has brought me great pleasure and calm at the most difficult moments of my life.
+Thanks to @MinimaModalia for the explainer https://t.co/J1okE8OcaJ",complexity language excellently explained article learning french wasnt complicated enough thanks explainer,False
+1.4713958168668242e+18,2021-12-16 08:24:34+00:00,['1471395816866824203'],"@SamadChowdhury_ @rhalle_ Arsenal have a policy to try and counteract behaviour like this where seat numbers can be reported by anonymous text and stewards can act. Fingers crossed action is taken, nice job with the pictures and video.",arsenal policy try counteract behaviour like seat number reported anonymous text steward act finger crossed action taken nice job picture video,False
+1.459289095830745e+18,2021-11-12 22:36:47+00:00,['1459289095830745094'],@IBurbidge7 @Arsenal @matt_j_abbott @kierantierney1 This is phenomenal,phenomenal,False
+1.4526697183101338e+18,2021-10-25 16:13:44+00:00,['1452669718310133763'],@SkySportsStatto @SkySportsPL @IBurbidge7,,
+1.4512647567074796e+18,2021-10-21 19:10:55+00:00,['1451264756707479561'],@CJPhillips1982 They’ve got you on the Harwich Standard too?!,theyve got harwich standard,False
+1.433193343266263e+18,2021-09-01 22:21:35+00:00,['1433193343266263045'],"@MattPlummer4 @EACH_hospices Love it, all the best Matt!",love best matt,False
+1.4265007521686075e+18,2021-08-14 11:07:37+00:00,['1426500752168607746'],Football 👎🏻 https://t.co/C6kOnrJzH2,football,False
+1.417798109485273e+18,2021-07-21 10:46:25+00:00,['1417798109485273091'],"Poetry has brought me great pleasure and calm at the most difficult moments of my life.
 
 Very pleased to contribute to the @RSLiterature #WriteAcrossLondon poetry map about my experiences during the pandemic.
 
-https://t.co/qeShsfVry8 https://t.co/Xq1885LFtN"
-18,1.415695811724419e+18,2021-07-15 15:32:38+00:00,['1415695811724419072'],"RT @Metro_Sport: 'I worry about the long-term future of a sport that represents so few from across society.'
-
-@SportsOrla for @Metro_Sport…"
-19,1.4104828009570468e+18,2021-07-01 06:17:59+00:00,['1410482800957046805'],🙌🏻 https://t.co/lp575eAVsl
-20,1.40961170748441e+18,2021-06-28 20:36:35+00:00,['1409611707484409856'],@themichaelowen @Benzema 🤦
-21,1.3989263740778824e+18,2021-05-30 08:56:53+00:00,['1398926374077882371'],👴🏻 Enjoyed working on this piece of research https://t.co/SNbiioMpgk
-22,1.3967577281530184e+18,2021-05-24 09:19:27+00:00,['1396757728153018379'],"RT @BayesBSchool: 🆕research
-
-@mimounlaetitia's report explores the increasing value of 'third spaces' - pubs, coffee shops, bars - to flexi…"
-23,1.3883617114099343e+18,2021-05-01 05:16:41+00:00,['1388361711409934337'],"RT @CJPhillips1982: My view on what's happening this weekend 
-
-https://t.co/Kj1FEnsWke"
-24,1.3847962173774438e+18,2021-04-21 09:08:41+00:00,['1384796217377443843'],RT @BayesBSchool: Introducing Bayes Business School. Find out more: https://t.co/iWoHa1lDf6. #ChangingMoreThanAName https://t.co/Sxgnsloaq6
-25,1.3841483057440727e+18,2021-04-19 14:14:06+00:00,['1384148305744072705'],"RT @cassbusiness: 🏆 The news that 12 'elite' clubs, including six from England, support a new #EuropeanSuperLeague has drawn views from acr…"
-26,1.382984014441644e+18,2021-04-16 09:07:38+00:00,['1382984014441644033'],@SkySportsPL No!
-27,1.37940412363273e+18,2021-04-06 12:02:25+00:00,['1379404123632730115'],@IBurbidge7 @RealTimVine If you’d contributed more maybe you would have deserved more ✌🏻
-28,1.3793973555066634e+18,2021-04-06 11:35:32+00:00,['1379397355506663426'],@RealTimVine @IBurbidge7 maybe we should do this
-29,1.378468200749396e+18,2021-04-03 22:03:24+00:00,['1378468200749395968'],"RT @cassbusiness: 🗞️ In the news
-
-Professor Charles Baden-Fuller is quoted in @thetimes as Deliveroo's share price continued to fall overni…"
-30,1.3776457228672287e+18,2021-04-01 15:35:10+00:00,['1377645722867228676'],"RT @cassbusiness: With Deliveroo enduring a difficult first week on the London stock market, professors at @cassbusiness have been looking…"
-31,1.374386494702416e+18,2021-03-23 15:44:09+00:00,['1374386494702415883'],@DuncMcKay I’m outraged and pleased for you in equal measure
-32,1.3743685781330616e+18,2021-03-23 14:32:58+00:00,['1374368578133061632'],@DuncMcKay @OfficialPanini Early arrival! How did you wangle this..
-33,1.3677582334238024e+18,2021-03-05 08:45:49+00:00,['1367758233423802374'],"RT @cassbusiness: 🗨️ As we get to grips with Covid-19, we are at a critical point for gender and racial equity.
-
-Business School experts wh…"
-34,1.367064789411897e+18,2021-03-03 10:50:19+00:00,['1367064789411897344'],RT @NewsfromCity: City experts are having their say on #BudgetDay as the Chancellor of the Exchequer prepares to present his plans for the…
-35,1.3628041858472346e+18,2021-02-19 16:40:12+00:00,['1362804185847234568'],"RT @cassbusiness: Jaguar has committed to becoming an all-electric car manufacturer by 2025
-
-While applauding the move, Professors @MohanSo…"
-36,1.3551285114769367e+18,2021-01-29 12:19:48+00:00,['1355128511476936710'],@richmann29 Epic! Hope you’re keeping well Rich
-37,1.3475633469549568e+18,2021-01-08 15:18:33+00:00,['1347563346954956800'],"RT @UniversitiesUK: 🤝 What does the Brexit trade deal agreed between the UK and the EU mean for universities, staff and students?
-
-This thr…"
-38,1.3380637450677166e+18,2020-12-13 10:10:31+00:00,['1338063745067716608'],😍 https://t.co/kKZ8ba3NGD
-39,1.3368049731753042e+18,2020-12-09 22:48:36+00:00,['1336804973175304192'],@_CharityStripe_ @IBurbidge7
-40,1.3338026079119196e+18,2020-12-01 15:58:17+00:00,['1333802607911919620'],@SkyNews @IBurbidge7
-41,1.3315880067388006e+18,2020-11-25 13:18:15+00:00,['1331588006738800640'],"@cineworld hi, do you reply to emails at the moment? My last four attempts without reply suggest not"
-42,1.3315179926860022e+18,2020-11-25 08:40:02+00:00,['1331517992686002176'],@IBurbidge7 Your interest in monoliths goes too far
-43,1.32715267487846e+18,2020-11-13 07:33:49+00:00,['1327152674878459905'],"RT @UniversitiesUK: ❗️ New
-
-UUK’s #FairAdmissions Review is recommending changes to build improved levels of transparency, trust, &amp; underst…"
-44,1.3264718394309304e+18,2020-11-11 10:28:25+00:00,['1326471839430930432'],RT @UUKevents: Our #UUKSecurity conference is about to start! Join us for two days as we explore how universities can manage the risks invo…
-45,1.3258362987882043e+18,2020-11-09 16:23:01+00:00,['1325836298788204544'],@IBurbidge7 @JmeBBK @BigDzeko10 Old school meridian man
-46,1.3236498153062646e+18,2020-11-03 15:34:42+00:00,['1323649815306264577'],"@CJPhillips1982 @piershewitt And April 3 2015, you missed that!"
-47,1.323040184389296e+18,2020-11-01 23:12:15+00:00,['1323040184389296128'],@IanWright0 @IBurbidge7
-48,1.3227996678145843e+18,2020-11-01 07:16:31+00:00,['1322799667814584320'],@sportbible @IBurbidge7
-49,1.3152076654805893e+18,2020-10-11 08:28:37+00:00,['1315207665480589312'],"RT @amylawrence71: Does it also happen to other people that every time you read Arsène's words you hear his voice, his accent, his cadence…"
-50,1.31412764939307e+18,2020-10-08 08:57:01+00:00,['1314127649393070080'],@IBurbidge7 @football_mumble There are four good misses against Arse here! https://t.co/jwQfqWKcst
-51,1.3113879637173002e+18,2020-09-30 19:30:29+00:00,['1311387963717300226'],@IBurbidge7 @cfbayern @MichaelCUISANCE @SPORTBILD @altobelli13 He’s better than Perisic
-52,1.2945654627061924e+18,2020-08-15 09:23:52+00:00,['1294565462706192384'],@DaveBensonPhill @IBurbidge7 the gunk dunk! @CarolineTilley1
-53,1.291669205264327e+18,2020-08-07 09:35:11+00:00,['1291669205264326657'],"RT @UniversitiesUK: 🌟 Going to university is a decision that will shape your life for years to come
-
-In a year like no other, students can…"
-54,1.290399561618522e+18,2020-08-03 21:30:04+00:00,['1290399561618522113'],@juventusfcen @delpieroale @linglong_llit @IBurbidge7  this is ill
-55,1.288762983506686e+18,2020-07-30 09:06:53+00:00,['1288762983506685952'],@ThGaffa Hope you’re good mate
-56,1.2887600106259497e+18,2020-07-30 08:55:05+00:00,['1288760010625949698'],"It’s not every day that you graduate from university
+https://t.co/qeShsfVry8 https://t.co/Xq1885LFtN",poetry brought great pleasure calm difficult moment life pleased contribute poetry map experience pandemic,False
+1.4104828009570468e+18,2021-07-01 06:17:59+00:00,['1410482800957046805'],🙌🏻 https://t.co/lp575eAVsl,,
+1.40961170748441e+18,2021-06-28 20:36:35+00:00,['1409611707484409856'],@themichaelowen @Benzema 🤦,,
+1.3989263740778824e+18,2021-05-30 08:56:53+00:00,['1398926374077882371'],👴🏻 Enjoyed working on this piece of research https://t.co/SNbiioMpgk,enjoyed working piece research,False
+1.382984014441644e+18,2021-04-16 09:07:38+00:00,['1382984014441644033'],@SkySportsPL No!,,True
+1.37940412363273e+18,2021-04-06 12:02:25+00:00,['1379404123632730115'],@IBurbidge7 @RealTimVine If you’d contributed more maybe you would have deserved more ✌🏻,youd contributed maybe would deserved,False
+1.3793973555066634e+18,2021-04-06 11:35:32+00:00,['1379397355506663426'],@RealTimVine @IBurbidge7 maybe we should do this,maybe,False
+1.374386494702416e+18,2021-03-23 15:44:09+00:00,['1374386494702415883'],@DuncMcKay I’m outraged and pleased for you in equal measure,outraged pleased equal measure,False
+1.3743685781330616e+18,2021-03-23 14:32:58+00:00,['1374368578133061632'],@DuncMcKay @OfficialPanini Early arrival! How did you wangle this..,early arrival wangle,False
+1.3551285114769367e+18,2021-01-29 12:19:48+00:00,['1355128511476936710'],@richmann29 Epic! Hope you’re keeping well Rich,epic hope youre keeping well rich,False
+1.3380637450677166e+18,2020-12-13 10:10:31+00:00,['1338063745067716608'],😍 https://t.co/kKZ8ba3NGD,,
+1.3368049731753042e+18,2020-12-09 22:48:36+00:00,['1336804973175304192'],@_CharityStripe_ @IBurbidge7,,
+1.3338026079119196e+18,2020-12-01 15:58:17+00:00,['1333802607911919620'],@SkyNews @IBurbidge7,,
+1.3315880067388006e+18,2020-11-25 13:18:15+00:00,['1331588006738800640'],"@cineworld hi, do you reply to emails at the moment? My last four attempts without reply suggest not",reply email moment last four attempt without reply suggest,False
+1.3315179926860022e+18,2020-11-25 08:40:02+00:00,['1331517992686002176'],@IBurbidge7 Your interest in monoliths goes too far,interest monolith far,False
+1.3258362987882043e+18,2020-11-09 16:23:01+00:00,['1325836298788204544'],@IBurbidge7 @JmeBBK @BigDzeko10 Old school meridian man,old school meridian man,True
+1.3236498153062646e+18,2020-11-03 15:34:42+00:00,['1323649815306264577'],"@CJPhillips1982 @piershewitt And April 3 2015, you missed that!",april missed,False
+1.323040184389296e+18,2020-11-01 23:12:15+00:00,['1323040184389296128'],@IanWright0 @IBurbidge7,,
+1.3227996678145843e+18,2020-11-01 07:16:31+00:00,['1322799667814584320'],@sportbible @IBurbidge7,,
+1.31412764939307e+18,2020-10-08 08:57:01+00:00,['1314127649393070080'],@IBurbidge7 @football_mumble There are four good misses against Arse here! https://t.co/jwQfqWKcst,four good miss arse,False
+1.3113879637173002e+18,2020-09-30 19:30:29+00:00,['1311387963717300226'],@IBurbidge7 @cfbayern @MichaelCUISANCE @SPORTBILD @altobelli13 He’s better than Perisic,better perisic,False
+1.2945654627061924e+18,2020-08-15 09:23:52+00:00,['1294565462706192384'],@DaveBensonPhill @IBurbidge7 the gunk dunk! @CarolineTilley1,gunk dunk,False
+1.290399561618522e+18,2020-08-03 21:30:04+00:00,['1290399561618522113'],@juventusfcen @delpieroale @linglong_llit @IBurbidge7  this is ill,ill,False
+1.288762983506686e+18,2020-07-30 09:06:53+00:00,['1288762983506685952'],@ThGaffa Hope you’re good mate,hope youre good mate,False
+1.2887600106259497e+18,2020-07-30 08:55:05+00:00,['1288760010625949698'],"It’s not every day that you graduate from university
 
 Nine years ago for me, but a special day, especially in these circumstances 
 
 Congratulations class of 2020!
 
-#WeAreTogether #2020MADEUS https://t.co/PIAgvxmggc"
-57,1.2885669640431084e+18,2020-07-29 20:07:59+00:00,['1288566964043108352'],"RT @UniversitiesUK: Not long to go...
+#WeAreTogether #2020MADEUS https://t.co/PIAgvxmggc",every day graduate university nine year ago special day especially circumstance congratulation class,False
+1.279423970434003e+18,2020-07-04 14:36:59+00:00,['1279423970434002945'],@ElliotHackney @IBurbidge7,,
+1.2776379854005002e+18,2020-06-29 16:20:07+00:00,['1277637985400500224'],@MirrorPolitics @IBurbidge7 rate this highly,rate highly,False
+1.2759124837866988e+18,2020-06-24 22:03:36+00:00,['1275912483786698760'],@totalcristiano @IBurbidge7 what a man,man,False
+1.2747631919612273e+18,2020-06-21 17:56:43+00:00,['1274763191961227265'],@CraigPodevin @_ThisGirlA Congrats Craig,congrats craig,True
+1.2675291349154406e+18,2020-06-01 18:51:09+00:00,['1267529134915440645'],"Very welcome visitor this morning @BBCSpringwatch, not long afterwards this goldcrest jumped onto my shoulder!
 
-🎓Tomorrow we celebrate National Graduates Day
+Fantastic nature outside in Tooting https://t.co/EYmgEKk3Hm",welcome visitor morning long afterwards goldcrest jumped onto shoulder fantastic nature outside tooting,False
+1.265628547475026e+18,2020-05-27 12:58:54+00:00,['1265628547475025921'],"Watched the performance of A Streetcar Named Desire last night, fantastic.
 
-Tune in at 9am to hear what celebrities, politicians…"
-58,1.279423970434003e+18,2020-07-04 14:36:59+00:00,['1279423970434002945'],@ElliotHackney @IBurbidge7
-59,1.2776379854005002e+18,2020-06-29 16:20:07+00:00,['1277637985400500224'],@MirrorPolitics @IBurbidge7 rate this highly
-60,1.2759124837866988e+18,2020-06-24 22:03:36+00:00,['1275912483786698760'],@totalcristiano @IBurbidge7 what a man
-61,1.2747631919612273e+18,2020-06-21 17:56:43+00:00,['1274763191961227265'],@CraigPodevin @_ThisGirlA Congrats Craig
-62,1.2682799546823803e+18,2020-06-03 20:34:39+00:00,['1268279954682380291'],RT @michelledonelan: This is a difficult time for students and it is important they have clarity about what to expect. We have published gu…
-63,1.2675291349154406e+18,2020-06-01 18:51:09+00:00,['1267529134915440645'],"Very welcome visitor this morning @BBCSpringwatch, not long afterwards this goldcrest jumped onto my shoulder!
+Our theatres and performing arts groups are a real national treasure - please donate if you can https://t.co/1fq2nLnbzB",watched performance streetcar named desire last night fantastic theatre performing art group real national treasure please donate,False
+1.2628611417069732e+18,2020-05-19 21:42:13+00:00,['1262861141706973184'],Beautiful run to @UAL this evening #lockdownruns https://t.co/BBqeetwwdI,beautiful run evening,False
+1.2590555287198515e+18,2020-05-09 09:40:04+00:00,['1259055528719851525'],"Looking good @imperialcollege 
 
-Fantastic nature outside in Tooting https://t.co/EYmgEKk3Hm"
-64,1.265628547475026e+18,2020-05-27 12:58:54+00:00,['1265628547475025921'],"Watched the performance of A Streetcar Named Desire last night, fantastic.
-
-Our theatres and performing arts groups are a real national treasure - please donate if you can https://t.co/1fq2nLnbzB"
-65,1.263339587948159e+18,2020-05-21 05:23:24+00:00,['1263339587948158976'],RT @BeckyBarnesB: It would be good to have someone on explaining why we say alternatives to 'committing suicide' now @theJeremyVine https:/…
-66,1.2628611417069732e+18,2020-05-19 21:42:13+00:00,['1262861141706973184'],Beautiful run to @UAL this evening #lockdownruns https://t.co/BBqeetwwdI
-67,1.2590555287198515e+18,2020-05-09 09:40:04+00:00,['1259055528719851525'],"Looking good @imperialcollege 
-
-#lockdownruns #kensington https://t.co/MsnnjvOuoj"
-68,1.25593212623249e+18,2020-04-30 18:48:47+00:00,['1255932126232489984'],"RT @GavinWilliamson: The UK has some of the best universities in the world, and they are leading the fight against COVID-19 - thank you to…"
-69,1.254368195517059e+18,2020-04-26 11:14:17+00:00,['1254368195517059072'],"RT @UniversitiesUK: 🌞 UK universities continue to lead on long-term projects including curing disease and exploring climate change
-
-Just so…"
-70,1.2541076130899354e+18,2020-04-25 17:58:49+00:00,['1254107613089935360'],RT @smallsy_1: There is no London Marathon tomorrow so my 4 year old son Henry is scooting 2.6km to raise money for @Autism to help replace…
-71,1.2532161733674025e+18,2020-04-23 06:56:34+00:00,['1253216173367402498'],"RT @BBCr4today: Alistair Jarvis of @UniversitiesUK says they're facing a ""very serious, very severe financial storm"".
-
-If there's no help f…"
-72,1.2476077565399532e+18,2020-04-07 19:30:43+00:00,['1247607756539953155'],"Thoroughly enjoyed promoting the fantastic work universities are doing to tackle #COVID19 
+#lockdownruns #kensington https://t.co/MsnnjvOuoj",looking good,True
+1.2476077565399532e+18,2020-04-07 19:30:43+00:00,['1247607756539953155'],"Thoroughly enjoyed promoting the fantastic work universities are doing to tackle #COVID19 
 
 From leading research into finding a vaccine to exploring where and how the virus is spreading to community support, the ways universities are contributing is great to see 
 
-#WeAreTogether https://t.co/9Ro6ajiw2l"
-73,1.244292853750215e+18,2020-03-29 15:58:28+00:00,['1244292853750214658'],@DaveBensonPhill @IBurbidge7 we should tune in
-74,1.243811112690344e+18,2020-03-28 08:04:12+00:00,['1243811112690343936'],@si_bonobo Can I listen back to this?
-75,1.242345430056407e+18,2020-03-24 07:00:06+00:00,['1242345430056407042'],@bernardooooV3 @ryan_scott99 @IBurbidge7
-76,1.242174304982311e+18,2020-03-23 19:40:07+00:00,['1242174304982310926'],"RT @CCNOffice: “You’re not alone and we’re here to help you.”
-
-Listen to @NottsCC chief executive Anthony May explain to those vulnerable p…"
-77,1.2421392111862948e+18,2020-03-23 17:20:40+00:00,['1242139211186294784'],"RT @UniversitiesUK: 🔎 Developing ventilators, providing vital equipment and understanding genome sequencing are just some of the ways in wh…"
-78,1.2411122839227963e+18,2020-03-20 21:20:01+00:00,['1241112283922796546'],RT @UniversitiesUK: ❗️ UUK and UCAS have written a letter to applicants following government's announcement of further details on arrangeme…
-79,1.2410663695982674e+18,2020-03-20 18:17:35+00:00,['1241066369598267399'],@IBurbidge7 @DanielHarris He was offside
-80,1.241052491409752e+18,2020-03-20 17:22:26+00:00,['1241052491409752067'],@UEFA @EURO2020 @IBurbidge7
-81,1.2410523157689797e+18,2020-03-20 17:21:44+00:00,['1241052315768979462'],@cineworld Hi still not heard anything..?
-82,1.2409919695324037e+18,2020-03-20 13:21:56+00:00,['1240991969532403712'],@sleafordmods @IBurbidge7
-83,1.24099176463641e+18,2020-03-20 13:21:07+00:00,['1240991764636409859'],"RT @UniversitiesUK: ❗️ On BBC News today, UUK Director of Policy @chrishaleuk discussed what universities are doing to support current and…"
-84,1.2403369806863647e+18,2020-03-18 17:59:15+00:00,['1240336980686364672'],"RT @educationgovuk: If you have questions about coronavirus in an education setting, you can contact our helpline.
-
-Our helpline will offer…"
-85,1.2402285387893637e+18,2020-03-18 10:48:20+00:00,['1240228538789363712'],@tierney39 @charles_watts @premierleague @IBurbidge7
-86,1.239221097264042e+18,2020-03-15 16:05:07+00:00,['1239221097264041985'],"RT @thesundaytimes: In his first column @WayneRooney gives his view on football's reaction to coronavirus: ""At last the right decision was…"
-87,1.2384287734748652e+18,2020-03-13 11:36:43+00:00,['1238428773474865155'],@sleafordmods @IBurbidge7 these are excellent shapes
-88,1.2381255700111278e+18,2020-03-12 15:31:53+00:00,['1238125570011127814'],@cineworld And for James Bond? I have not had any correspondence from you on this..
-89,1.2366319676528845e+18,2020-03-08 12:36:51+00:00,['1236631967652884481'],"RT @UniversitiesUK: ⭐️ The contributions of women around the globe are groundbreaking and world-leading
-
-UUK and its staff are proud to sup…"
-90,1.236631812660777e+18,2020-03-08 12:36:14+00:00,['1236631812660776961'],@sleafordmods @PanamaFestival @IBurbidge7
-91,1.2363522666779566e+18,2020-03-07 18:05:25+00:00,['1236352266677956611'],@SkySportsPL @SkySports @IBurbidge7 Lloris bungles again!
-92,1.2362923141564088e+18,2020-03-07 14:07:11+00:00,['1236292314156408832'],"@btsportfootball Never a push, ridiculous to even suggest it. @IBurbidge7 ?"
-93,1.2362919630679982e+18,2020-03-07 14:05:47+00:00,['1236291963067998208'],@CJPhillips1982 😂😂
-94,1.2355817009079706e+18,2020-03-05 15:03:28+00:00,['1235581700907970564'],@IBurbidge7 @JimMFelton Really dirty hands actually!
-95,1.2345948241935606e+18,2020-03-02 21:41:58+00:00,['1234594824193560576'],@wisetuna @sleafordmods @IBurbidge7 me and you at their next gig
-96,1.2336700175747195e+18,2020-02-29 08:27:07+00:00,['1233670017574719488'],@Football__Tweet @rossyparms8 @IBurbidge7
-97,1.2331564327128842e+18,2020-02-27 22:26:19+00:00,['1233156432712884224'],@IBurbidge7 @nocontextunited One of his more significant contributions for United
-98,1.2331563261272924e+18,2020-02-27 22:25:53+00:00,['1233156326127292417'],@WaelAliEssa @IBurbidge7
-99,1.228740704660226e+18,2020-02-15 17:59:47+00:00,['1228740704660226054'],@IBurbidge7 @stormzy This is rank chat!
-100,1.2271968308254843e+18,2020-02-11 11:44:59+00:00,['1227196830825484288'],@IBurbidge7 @SheffieldUnited Really good finish actually!
-101,1.2262198782663475e+18,2020-02-08 19:02:55+00:00,['1226219878266347520'],@FootyAccums @btsportfootball @IBurbidge7 debut. That last angle is 👌🏻
-102,1.2261336728453489e+18,2020-02-08 13:20:22+00:00,['1226133672845348869'],@bobbyfaghihi @IBurbidge7
-103,1.221915367548838e+18,2020-01-27 21:58:20+00:00,['1221915367548837890'],"@IBurbidge7 @DaveBensonPhill Haha, I don’t think that’s a very good idea, do you?"
-104,1.2219141527441654e+18,2020-01-27 21:53:30+00:00,['1221914152744165376'],@DaveBensonPhill @IBurbidge7
-105,1.2217114130618696e+18,2020-01-27 08:27:53+00:00,['1221711413061869568'],"RT @UniversitiesUK: ❗️ Some positive news to start the week
-
-The new Global Talent route, announced today by government, means that UK univ…"
-106,1.2199418802947727e+18,2020-01-22 11:16:24+00:00,['1219941880294772737'],"@IBurbidge7 @SkySportsPL 😂 “how’sss it going, Bush?!”"
-107,1.219399777495982e+18,2020-01-20 23:22:16+00:00,['1219399777495982082'],"RT @UniversitiesUK: 🙌 Follow the progress of Phil Packer's UK-wide inclusive rowing challenge for #studentmentalhealth
-
-To keep tabs on how…"
-108,1.219399419600294e+18,2020-01-20 23:20:51+00:00,['1219399419600293888'],@sleafordmods @IBurbidge7 you shout tweet tweet tweet about the council in the song!
-109,1.2189664376725094e+18,2020-01-19 18:40:20+00:00,['1218966437672509445'],@SkySportsPL @GNev2 @IBurbidge7
-110,1.2174731287854162e+18,2020-01-15 15:46:28+00:00,['1217473128785416192'],@IBurbidge7 @PatrickTimmons1 A Boxing Day pumping
-111,1.21558963447595e+18,2020-01-10 11:02:08+00:00,['1215589634475950081'],@JasonBell33 I’m in!
-112,1.215361949292208e+18,2020-01-09 19:57:23+00:00,['1215361949292208130'],@CJPhillips1982 Tell that to his face!
-113,1.2145654915004457e+18,2020-01-07 15:12:33+00:00,['1214565491500445696'],Just picked up a signed copy! https://t.co/MPqbNJ4zuQ
-114,1.2121058113690583e+18,2019-12-31 20:18:39+00:00,['1212105811369058304'],"RT @DeludedBrendan: Tottenham Hotspur trophy cabinet 
-
-Start of                                 End of
-the decade…"
-115,1.2117026975834235e+18,2019-12-30 17:36:50+00:00,['1211702697583423489'],@JakeRobbo9 @Saints @AllSaintsBlog @saintsukhub @UKSaintsPodcast Clutching at straws much? 😉
-116,1.211370508110979e+18,2019-12-29 19:36:49+00:00,['1211370508110979074'],@IBurbidge7 @GaryLineker @RangersFC 😁🥳
-117,1.2113684074189783e+18,2019-12-29 19:28:29+00:00,['1211368407418978305'],@GaryLineker @RangersFC @IBurbidge7
-118,1.2052615091375022e+18,2019-12-12 23:01:51+00:00,['1205261509137502208'],@neilers87 @IBurbidge7
-119,1.2045303102240072e+18,2019-12-10 22:36:19+00:00,['1204530310224007172'],"RT @UniversitiesUK: 🌻 Universities are committed to reducing their carbon footprint 
-
-@DaveGormanUoE, Director of Social Responsibility and…"
-120,1.2043915368190812e+18,2019-12-10 13:24:53+00:00,['1204391536819081216'],@IBurbidge7 Fitz Jimmy
-121,1.2030755959507968e+18,2019-12-06 22:15:48+00:00,['1203075595950796803'],"RT @IBurbidge7: @YnnsPhilippakis @jeremycorbyn Alright voters, it’s about to get real spicy"
-122,1.2030629629085204e+18,2019-12-06 21:25:36+00:00,['1203062962908520454'],RT @IBurbidge7: @stormzy Me! #merky
-123,1.2027119966612234e+18,2019-12-05 22:10:59+00:00,['1202711996661223424'],"RT @BBCPolitics: “It is not too late. We have an interview prepared. Oven-ready, as Mr Johnson likes to say”
-
-Andrew Neil issues a challeng…"
-124,1.1990972982922895e+18,2019-11-25 22:47:28+00:00,['1199097298292289536'],@jackgIendinning @DarrenArsenal1 @IBurbidge7
-125,1.1965559788855337e+18,2019-11-18 22:29:10+00:00,['1196555978885533696'],@matchday_media @JakeRobbo9 @BTFC @DulwichHamletFC @iCoreLtd That touch 😳
-126,1.195724985853268e+18,2019-11-16 15:27:06+00:00,['1195724985853267973'],"Reporting at @Dag_RedFC and what a debut so far from Sam Deering. An assist, solid link up and almost a goal. Billericay are a good side but any team would miss this."
-127,1.195412666036183e+18,2019-11-15 18:46:03+00:00,['1195412666036183042'],@Danny_Rust10 @1EastThurrockFC Hope the recovery goes well @Ben_Marlow10
-128,1.1941814159083151e+18,2019-11-12 09:13:31+00:00,['1194181415908315142'],"RT @UniversitiesUK: 🗒️ UK universities support communities, people and social justice
-
-The next government must make them a central part of…"
-129,1.192385336669823e+18,2019-11-07 10:16:32+00:00,['1192385336669822976'],"RT @UniversitiesUK: 🚨 New today
-
-University and college leaders are being urged to demonstrate their commitment to tackling climate change…"
-130,1.192384885568213e+18,2019-11-07 10:14:44+00:00,['1192384885568212996'],@CJPhillips1982 Lol one of your better jokes!
-131,1.1922075741684613e+18,2019-11-06 22:30:10+00:00,['1192207574168461313'],Go team 🥰 https://t.co/V7VRMJ5Wqk
-132,1.1914827588849254e+18,2019-11-04 22:30:01+00:00,['1191482758884925440'],"@IBurbidge7 @PurelyFootball @BigDzeko10 haha, christ that's not ideal"
-133,1.188872575709057e+18,2019-10-28 17:38:04+00:00,['1188872575709057024'],@MENnewsdesk @IBurbidge7 still doing better than his football career
-134,1.188765918068912e+18,2019-10-28 10:34:15+00:00,['1188765918068912128'],"@IBurbidge7 @AndyHa_ Love this, I liked it earlier haha"
-135,1.1887322319022858e+18,2019-10-28 08:20:24+00:00,['1188732231902285824'],@SoccerAM @IBurbidge7 your team getting pumped
-136,1.187773779147219e+18,2019-10-25 16:51:51+00:00,['1187773779147218944'],@Danny_Rust10 @JakeRobbo9 @BTFC That’s good for you Danny!
-137,1.1869828786740634e+18,2019-10-23 12:29:06+00:00,['1186982878674063360'],"@MartinbSharples Hi, please see our response here detailing further steps. Please email queries to details in my bio https://t.co/zpNNRzkxQk"
-138,1.1869286156294758e+18,2019-10-23 08:53:28+00:00,['1186928615629475840'],@BTFC 👏🏻
-139,1.1864079806249943e+18,2019-10-21 22:24:39+00:00,['1186407980624994311'],@football_mumble @IBurbidge7
-140,1.1859254738739446e+18,2019-10-20 14:27:21+00:00,['1185925473873944577'],@FootballJOE @IBurbidge7
-141,1.185522056596742e+18,2019-10-19 11:44:18+00:00,['1185522056596742146'],@Bowerspitseafc @EmiratesFACup @ChiCityFC @Danny_Rust10 @BBCEssexSport @NonLeaguePaper Good luck today!
-142,1.184024519712936e+18,2019-10-15 08:33:38+00:00,['1184024519712935936'],RT @IBurbidge7: Read why remote rural and coastal areas have social mobility issues - despite the misconception that counties are all afflu…
-143,1.1830026451638927e+18,2019-10-12 12:53:04+00:00,['1183002645163892736'],@sportbible @IBurbidge7 almost as fast as you after 10 cigs
-144,1.1822020845711892e+18,2019-10-10 07:51:55+00:00,['1182202084571189248'],RT @BBCEngland: Newcastle University dog helps students' wellbeing https://t.co/HDZoRA8rBa
-145,1.182193045644759e+18,2019-10-10 07:16:00+00:00,['1182193045644759040'],@CJPhillips1982 😂
-146,1.181696416101671e+18,2019-10-08 22:22:35+00:00,['1181696416101670913'],@utdxtra @IBurbidge7  ♥️
-147,1.181695621603963e+18,2019-10-08 22:19:25+00:00,['1181695621603962880'],@BeckyBarnesB @piersmorgan You must be doing something right 💪🏼
-148,1.1816883094723625e+18,2019-10-08 21:50:22+00:00,['1181688309472362496'],@BeckyBarnesB @piersmorgan Some of the replies to this! 😩
-149,1.179882581988393e+18,2019-10-03 22:15:03+00:00,['1179882581988392961'],@CJPhillips1982 Lol
-150,1.1798691084746998e+18,2019-10-03 21:21:31+00:00,['1179869108474699776'],@FootbaII_HQ @IBurbidge7
-151,1.1791475679317563e+18,2019-10-01 21:34:22+00:00,['1179147567931756546'],RT @SergeGnabry: North London is RED!!! https://t.co/1Te5YjqpWo
-152,1.1791356372046684e+18,2019-10-01 20:46:57+00:00,['1179135637204668416'],😁😁😄
-153,1.1788011649528504e+18,2019-09-30 22:37:53+00:00,['1178801164952850432'],@FootballVines @IBurbidge7 these are great haha
-154,1.1788007075389686e+18,2019-09-30 22:36:04+00:00,['1178800707538968582'],@FootballVines @IBurbidge7
-155,1.1779390992499835e+18,2019-09-28 13:32:20+00:00,['1177939099249983489'],Back in the press box https://t.co/fbtZa5IiyI
-156,1.177328608295162e+18,2019-09-26 21:06:28+00:00,['1177328608295161867'],😍 https://t.co/BwIfuEVyGf
-157,1.1769652059029914e+18,2019-09-25 21:02:26+00:00,['1176965205902991360'],@FutbolBible @IBurbidge7
-158,1.1757348672561234e+18,2019-09-22 11:33:31+00:00,['1175734867256123392'],RT @CJPhillips1982: YESSSS!!! Loving that Essex #T20finalsday
-159,1.1717483859484262e+18,2019-09-11 11:32:39+00:00,['1171748385948426241'],"RT @UniversitiesUK: A busy morning for @UUKIntl Director @viviennestern… 
-
-📺Live on @SkyNews welcoming the announcement of a new post-study…"
-160,1.1715467228809503e+18,2019-09-10 22:11:19+00:00,['1171546722880950274'],RT @UniversitiesUK: Hugely positive news from @10DowningStreet tonight as a change in immigration policy is announced. Universities UK has…
-161,1.1695407784540815e+18,2019-09-05 09:20:25+00:00,['1169540778454081539'],@vonstrenginho @hallett9 @IBurbidge7
-162,1.163907521402278e+18,2019-08-20 20:15:52+00:00,['1163907521402277888'],"@Leegend90 @UniversitiesUK Hi there, I am on leave at the moment. Can you please direct your question to the UUK twitter account or email pressoffice@universitiesuk.ac.uk, thanks"
-163,1.1639071503783404e+18,2019-08-20 20:14:23+00:00,['1163907150378340352'],@neilhawkins87 @IBurbidge7 Haha this has caused quite a stir 😉🥴♥️
-164,1.160566043603067e+18,2019-08-11 14:58:01+00:00,['1160566043603066881'],@IBurbidge7 @danielstorey85 Excellent! #DickBraine
-165,1.158867424432853e+18,2019-08-06 22:28:19+00:00,['1158867424432852994'],RT @MesutOzil1088: If you look closely ... you can see your trophy cabinet 🧐😉 #YaGunnersYa https://t.co/e5YCn1doDt
-166,1.1570005241532006e+18,2019-08-01 18:49:55+00:00,['1157000524153200640'],RT @UniversitiesUK: ❗️❕ UK universities are still looking for assurances over student mobility and research programmes in the event of a no…
-167,1.1566480126151803e+18,2019-07-31 19:29:10+00:00,['1156648012615180288'],@IBurbidge7 @EPLBible 😂 you know it
-168,1.1537914502046884e+18,2019-07-23 22:18:12+00:00,['1153791450204688391'],@ArsenalFC_fl @IBurbidge7 lol
-169,1.150678407379923e+18,2019-07-15 08:08:05+00:00,['1150678407379922945'],"RT @UniversitiesUK: 🚨 New report
-
-Government must reform the degree apprenticeship system to allow for more degree apprentices
-
-Employers w…"
-170,1.1472233989694833e+18,2019-07-05 19:19:07+00:00,['1147223398969483264'],@1EastThurrockFC @Danny_Rust10 Let’s hope he doesn’t spot a classic Danny typo 😉
-171,1.1410775227733484e+18,2019-06-18 20:17:36+00:00,['1141077522773348353'],Top advertising in @empiremagazine from @unilincoln 👌🏻 https://t.co/JTihMzy6gY
-172,1.1391448042967776e+18,2019-06-13 12:17:40+00:00,['1139144804296777728'],"RT @UniversitiesUK: ❓ Quiz question ❓
-
-Which of the following wasn’t made at a UK university?
-
-#MadeAtUni"
-173,1.1387076812907274e+18,2019-06-12 07:20:42+00:00,['1138707681290727427'],@BeardedGenius @IBurbidge7
-174,1.13712276222763e+18,2019-06-07 22:22:47+00:00,['1137122762227630080'],RT @UniversitiesUK: Positive news today as @sajidjavid calls for a more flexible approach to immigration laws in relation to international…
-175,1.1363924252897894e+18,2019-06-05 22:00:41+00:00,['1136392425289789440'],@aeadebisi Thank you! Sorry I couldn’t stop and chat but I hope we bump into each other in the future
-176,1.136379088644563e+18,2019-06-05 21:07:42+00:00,['1136379088644562945'],@aeadebisi You were excellent! (That’s the back of my head - in the blue shirt)
-177,1.1349247295408497e+18,2019-06-01 20:48:36+00:00,['1134924729540849665'],⚽️😴
-178,1.1347611209322536e+18,2019-06-01 09:58:28+00:00,['1134761120932253696'],@Dani_Mann89 @richmann29 Love this @richmann29
-179,1.1325541556614348e+18,2019-05-26 07:48:47+00:00,['1132554155661434881'],"RT @AlistairJarvis: If media right, good to see Augar recommending targeted maintenance grants, better support for part-time &amp; FE. Worrying…"
-180,1.1325536491656764e+18,2019-05-26 07:46:46+00:00,['1132553649165676544'],"RT @UniversitiesUK: It is irresponsible to discourage studying at university when there are clear benefits for grads, businesses, our publi…"
-181,1.1323813810221056e+18,2019-05-25 20:22:14+00:00,['1132381381022105605'],"RT @UniversitiesUK: ❗️ A financially sustainable university system is vital for students, staff and local economies
-
-Our full response to c…"
-182,1.1323091830245745e+18,2019-05-25 15:35:21+00:00,['1132309183024574465'],"Good evening, press office (features)! https://t.co/qLjpDtyFGv"
-183,1.1297063977242378e+18,2019-05-18 11:12:48+00:00,['1129706397724237824'],@JurgenPressed @CarolineTilley1
-184,1.1297060925802127e+18,2019-05-18 11:11:36+00:00,['1129706092580212736'],@JurgenPressed @IBurbidge7  👌🏻
-185,1.1289102486040658e+18,2019-05-16 06:29:12+00:00,['1128910248604065793'],"RT @MadeAtUni: Over 100 of the Nation’s Lifesavers are being celebrated today for their life-changing work #MadeAtUni.
-View the full list o…"
-186,1.1251441570922865e+18,2019-05-05 21:04:05+00:00,['1125144157092286465'],"@terrykeating @Danny_Rust10 Thanks Terry, hope you’re keeping well"
-187,1.1239241290260604e+18,2019-05-02 12:16:08+00:00,['1123924129026060296'],Really enjoyed working on this! An important subject and positive steps being taken #closingthegap https://t.co/TicIg0Lyjm
-188,1.1239027545635268e+18,2019-05-02 10:51:12+00:00,['1123902754563526662'],"@UpLeArse @tickets2arsenal Hi, interested in these. DM if poss, thanks"
-189,1.12382585035128e+18,2019-05-02 05:45:37+00:00,['1123825850351280128'],"RT @UniversitiesUK: 🚨 New report
-
-Universities UK and @nusuk believe UK universities must commit to ending the BAME student attainment gap…"
-190,1.122550686401663e+18,2019-04-28 17:18:34+00:00,['1122550686401662976'],@stuartballard Wow.
-191,1.1220659860967178e+18,2019-04-27 09:12:32+00:00,['1122065986096717824'],Good luck @darren_manning 🤜🏻🤛🏻 https://t.co/rfskbj1eo4
-192,1.1181503989033124e+18,2019-04-16 13:53:23+00:00,['1118150398903312385'],RT @guardian: David Squires on … the Premier League's game of thrones https://t.co/mAGJasO5qz
-193,1.1145671369309472e+18,2019-04-06 16:34:47+00:00,['1114567136930947074'],Love this 🏆 https://t.co/a4dGnA7Pcn
-194,1.1137580635074436e+18,2019-04-04 10:59:49+00:00,['1113758063507443712'],"RT @UniversitiesUK: ☀️ Everyone has a responsibility to be sustainable
-
-Universities have an important role to play in the future health of…"
-195,1.1135122413939588e+18,2019-04-03 18:43:01+00:00,['1113512241393958912'],RT @Stuart_PhotoAFC: Nice of spurs to commemorate the very spot where Ashley Cole and Thierry Henry celebrated Arsenal winning the league a…
-196,1.1134215760185836e+18,2019-04-03 12:42:44+00:00,['1113421576018583552'],@IBurbidge7 https://t.co/3A3arsvriA
-197,1.1114017031426212e+18,2019-03-28 22:56:29+00:00,['1111401703142621184'],"RT @UniversitiesUK: 🗨️ ""Our world-leading universities and colleges are international at their core""
-
-@CSkidmoreUK spoke at #IHEF19 yesterd…"
-198,1.1106512274388337e+18,2019-03-26 21:14:22+00:00,['1110651227438833664'],@CJPhillips1982 Oh god 🤦🏻‍♂️
-199,1.1086498338527478e+18,2019-03-21 08:41:32+00:00,['1108649833852747781'],"RT @UniversitiesUK: ❗️❕ “International students contribute a huge amount to the UK, both economically and culturally""
-
-UUK's @AlistairJarvi…"
-200,1.1079285125294244e+18,2019-03-19 08:55:16+00:00,['1107928512529424384'],"RT @UniversitiesUK: ❗️❕ “Without clarity very soon vital research could be disrupted which would be hugely damaging to people’s lives""
-
-🆕 U…"
-201,1.1065820866542838e+18,2019-03-15 15:45:03+00:00,['1106582086654283776'],"RT @UniversitiesUK: Join our creative and progressive team
-
-The job 👉 Member Services Officer and Secretary to the Board
-
-Details ✔️ A grad…"
-202,1.1064980264729476e+18,2019-03-15 10:11:01+00:00,['1106498026472947715'],"RT @UniversitiesUK: 🚨 We are pleased to announce the next Universities UK President, Professor Julia Buckingham CBE!
-
-Professor Buckingham,…"
-203,1.1055996242015436e+18,2019-03-12 22:41:06+00:00,['1105599624201543680'],@BleacherReport @IBurbidge7
-204,1.1051849743643976e+18,2019-03-11 19:13:25+00:00,['1105184974364397570'],"RT @UniversitiesUK: 🧪🔬 It is #BritishScienceWeek until March 17 - a 10 day celebration of science, technology, engineering and maths
-
-The v…"
-205,1.1040363119488164e+18,2019-03-08 15:09:03+00:00,['1104036311948816384'],👌🏻⭐️ @JakeRobbo9 https://t.co/C7nWBIPP8g
-206,1.103559398260179e+18,2019-03-07 07:33:58+00:00,['1103559398260178944'],"RT @UniversitiesUK: Today is University Mental Health Day!
-
-Institutions are committed to taking actions and creating change when it comes…"
-207,1.1030389162429152e+18,2019-03-05 21:05:45+00:00,['1103038916242915329'],A great opportunity for an aspiring sports journalist. And you’d get to work with local celebrity @CJPhillips1982 https://t.co/QvWTKIsFZK
-208,1.10254340963661e+18,2019-03-04 12:16:47+00:00,['1102543409636610049'],"RT @UniversitiesUK: It is National Apprenticeship Week!
-
-​Universities UK is working to ensure degree apprenticeships fully meet employers'…"
-209,1.1018613522457354e+18,2019-03-02 15:06:32+00:00,['1101861352245735424'],"RT @charles_watts: Pretty incredible pic this. Amazing challenge by Vertonghen to deflect the follow up over, but no real surprise he got t…"
-210,1.1016315445134336e+18,2019-03-01 23:53:22+00:00,['1101631544513433600'],RT @UniversitiesUK: Thanks to @uclnews for the tour of this fantastic new facility today. An inspirational and innovative resource for stud…
-211,1.1007781164049696e+18,2019-02-27 15:22:09+00:00,['1100778116404969472'],"RT @UniversitiesUK: ❗️ An important point raised by @JustineGreening is regard to maintenance grants at today's #PMQs
-
-UUK believes it is c…"
-212,1.1003088711832494e+18,2019-02-26 08:17:32+00:00,['1100308871183249408'],"RT @UUKevents: At our Student Mental Wellbeing conference on 14 March, we will be discussing topics such as the genetics behind anxiety and…"
-213,1.099204413841916e+18,2019-02-23 07:08:49+00:00,['1099204413841915905'],RT @BethButton: Really engaging and thought provoking morning at @NewsfeedLDN ‘Breaking through Brexit’ event with @DanielJonesSun @carolin…
-214,1.0990140516554916e+18,2019-02-22 18:32:23+00:00,['1099014051655491585'],"RT @UniversitiesUK: Universities are making student mental health a priority says @JohndePury, Assistant Director of Policy at @Universitie…"
-215,1.098893815878955e+18,2019-02-22 10:34:36+00:00,['1098893815878955009'],"A first London bus journey, heavy duty trucks and roadworks do not do it justice. Not sure if I or @BethButton was more thrilled by the experience https://t.co/we1va82Mhk"
-216,1.0985518365654794e+18,2019-02-21 11:55:42+00:00,['1098551836565479424'],"RT @UniversitiesUK: 💬 “There has been a worrying drop in part-time and mature study numbers, when our economy needs more of them.""
-
-Univers…"
-217,1.095973403255808e+18,2019-02-14 09:09:56+00:00,['1095973403255808001'],🙌🏻love this @BethButton https://t.co/PCRWV23Iq4
-218,1.094155842096644e+18,2019-02-09 08:47:35+00:00,['1094155842096644096'],@paddypower @IBurbidge7 👌🏻👌🏻👌🏻
-219,1.09400583853099e+18,2019-02-08 22:51:32+00:00,['1094005838530990081'],RT @UniversitiesUK: Did you see Universities UK Chief Executive @AlistairJarvis' views on unconditional offers in @thetimes on Saturday?…
-220,1.0938253889026048e+18,2019-02-08 10:54:29+00:00,['1093825388902604800'],😢 https://t.co/lmWBZFlkVN
-221,1.0931010943125135e+18,2019-02-06 10:56:24+00:00,['1093101094312513536'],"Fantastic (and speedy) work by @UUKIntl on an important topic, please support 👇🏻 #SupportStudyAbroad https://t.co/hWoJdH8E1E"
-222,1.0930486733348946e+18,2019-02-06 07:28:06+00:00,['1093048673334894592'],"RT @UniversitiesUK: 🌎 Please get behind #SupportStudyAbroad!
-
-The new Universities UK campaign wants the UK gov to commit to continue fundi…"
-223,1.0921614198926664e+18,2019-02-03 20:42:28+00:00,['1092161419892666368'],RT @UniversitiesUK: 🌎 Did you know that 78% of undergraduate students believe that studying alongside international peers prepares them for…
+#WeAreTogether https://t.co/9Ro6ajiw2l",thoroughly enjoyed promoting fantastic work university tackle leading research finding vaccine exploring virus spreading community support way university contributing great see,False
+1.244292853750215e+18,2020-03-29 15:58:28+00:00,['1244292853750214658'],@DaveBensonPhill @IBurbidge7 we should tune in,tune,False
+1.243811112690344e+18,2020-03-28 08:04:12+00:00,['1243811112690343936'],@si_bonobo Can I listen back to this?,listen back,False
+1.242345430056407e+18,2020-03-24 07:00:06+00:00,['1242345430056407042'],@bernardooooV3 @ryan_scott99 @IBurbidge7,,
+1.2410663695982674e+18,2020-03-20 18:17:35+00:00,['1241066369598267399'],@IBurbidge7 @DanielHarris He was offside,offside,False
+1.241052491409752e+18,2020-03-20 17:22:26+00:00,['1241052491409752067'],@UEFA @EURO2020 @IBurbidge7,,
+1.2410523157689797e+18,2020-03-20 17:21:44+00:00,['1241052315768979462'],@cineworld Hi still not heard anything..?,still heard anything,False
+1.2409919695324037e+18,2020-03-20 13:21:56+00:00,['1240991969532403712'],@sleafordmods @IBurbidge7,,
+1.2402285387893637e+18,2020-03-18 10:48:20+00:00,['1240228538789363712'],@tierney39 @charles_watts @premierleague @IBurbidge7,,
+1.2384287734748652e+18,2020-03-13 11:36:43+00:00,['1238428773474865155'],@sleafordmods @IBurbidge7 these are excellent shapes,excellent shape,False
+1.2381255700111278e+18,2020-03-12 15:31:53+00:00,['1238125570011127814'],@cineworld And for James Bond? I have not had any correspondence from you on this..,james bond correspondence,False
+1.236631812660777e+18,2020-03-08 12:36:14+00:00,['1236631812660776961'],@sleafordmods @PanamaFestival @IBurbidge7,,
+1.2363522666779566e+18,2020-03-07 18:05:25+00:00,['1236352266677956611'],@SkySportsPL @SkySports @IBurbidge7 Lloris bungles again!,lloris bungle,True
+1.2362923141564088e+18,2020-03-07 14:07:11+00:00,['1236292314156408832'],"@btsportfootball Never a push, ridiculous to even suggest it. @IBurbidge7 ?",never push ridiculous even suggest,False
+1.2362919630679982e+18,2020-03-07 14:05:47+00:00,['1236291963067998208'],@CJPhillips1982 😂😂,,
+1.2355817009079706e+18,2020-03-05 15:03:28+00:00,['1235581700907970564'],@IBurbidge7 @JimMFelton Really dirty hands actually!,really dirty hand actually,False
+1.2345948241935606e+18,2020-03-02 21:41:58+00:00,['1234594824193560576'],@wisetuna @sleafordmods @IBurbidge7 me and you at their next gig,next gig,False
+1.2336700175747195e+18,2020-02-29 08:27:07+00:00,['1233670017574719488'],@Football__Tweet @rossyparms8 @IBurbidge7,,
+1.2331564327128842e+18,2020-02-27 22:26:19+00:00,['1233156432712884224'],@IBurbidge7 @nocontextunited One of his more significant contributions for United,one significant contribution united,False
+1.2331563261272924e+18,2020-02-27 22:25:53+00:00,['1233156326127292417'],@WaelAliEssa @IBurbidge7,,
+1.228740704660226e+18,2020-02-15 17:59:47+00:00,['1228740704660226054'],@IBurbidge7 @stormzy This is rank chat!,rank chat,False
+1.2271968308254843e+18,2020-02-11 11:44:59+00:00,['1227196830825484288'],@IBurbidge7 @SheffieldUnited Really good finish actually!,really good finish actually,False
+1.2262198782663475e+18,2020-02-08 19:02:55+00:00,['1226219878266347520'],@FootyAccums @btsportfootball @IBurbidge7 debut. That last angle is 👌🏻,debut last angle,False
+1.2261336728453489e+18,2020-02-08 13:20:22+00:00,['1226133672845348869'],@bobbyfaghihi @IBurbidge7,,
+1.221915367548838e+18,2020-01-27 21:58:20+00:00,['1221915367548837890'],"@IBurbidge7 @DaveBensonPhill Haha, I don’t think that’s a very good idea, do you?",haha dont think thats good idea,False
+1.2219141527441654e+18,2020-01-27 21:53:30+00:00,['1221914152744165376'],@DaveBensonPhill @IBurbidge7,,
+1.2199418802947727e+18,2020-01-22 11:16:24+00:00,['1219941880294772737'],"@IBurbidge7 @SkySportsPL 😂 “how’sss it going, Bush?!”",howsss going bush,False
+1.219399419600294e+18,2020-01-20 23:20:51+00:00,['1219399419600293888'],@sleafordmods @IBurbidge7 you shout tweet tweet tweet about the council in the song!,shout tweet tweet tweet council song,False
+1.2189664376725094e+18,2020-01-19 18:40:20+00:00,['1218966437672509445'],@SkySportsPL @GNev2 @IBurbidge7,,
+1.2174731287854162e+18,2020-01-15 15:46:28+00:00,['1217473128785416192'],@IBurbidge7 @PatrickTimmons1 A Boxing Day pumping,boxing day pumping,True
+1.21558963447595e+18,2020-01-10 11:02:08+00:00,['1215589634475950081'],@JasonBell33 I’m in!,,True
+1.215361949292208e+18,2020-01-09 19:57:23+00:00,['1215361949292208130'],@CJPhillips1982 Tell that to his face!,tell face,False
+1.2145654915004457e+18,2020-01-07 15:12:33+00:00,['1214565491500445696'],Just picked up a signed copy! https://t.co/MPqbNJ4zuQ,picked signed copy,False
+1.2117026975834235e+18,2019-12-30 17:36:50+00:00,['1211702697583423489'],@JakeRobbo9 @Saints @AllSaintsBlog @saintsukhub @UKSaintsPodcast Clutching at straws much? 😉,clutching straw much,False
+1.211370508110979e+18,2019-12-29 19:36:49+00:00,['1211370508110979074'],@IBurbidge7 @GaryLineker @RangersFC 😁🥳,,
+1.2113684074189783e+18,2019-12-29 19:28:29+00:00,['1211368407418978305'],@GaryLineker @RangersFC @IBurbidge7,,
+1.2052615091375022e+18,2019-12-12 23:01:51+00:00,['1205261509137502208'],@neilers87 @IBurbidge7,,
+1.2043915368190812e+18,2019-12-10 13:24:53+00:00,['1204391536819081216'],@IBurbidge7 Fitz Jimmy,fitz jimmy,True
+1.1990972982922895e+18,2019-11-25 22:47:28+00:00,['1199097298292289536'],@jackgIendinning @DarrenArsenal1 @IBurbidge7,,
+1.1965559788855337e+18,2019-11-18 22:29:10+00:00,['1196555978885533696'],@matchday_media @JakeRobbo9 @BTFC @DulwichHamletFC @iCoreLtd That touch 😳,touch,False
+1.195724985853268e+18,2019-11-16 15:27:06+00:00,['1195724985853267973'],"Reporting at @Dag_RedFC and what a debut so far from Sam Deering. An assist, solid link up and almost a goal. Billericay are a good side but any team would miss this.",reporting debut far sam deering assist solid link almost goal billericay good side team would miss,False
+1.195412666036183e+18,2019-11-15 18:46:03+00:00,['1195412666036183042'],@Danny_Rust10 @1EastThurrockFC Hope the recovery goes well @Ben_Marlow10,hope recovery well,False
+1.192384885568213e+18,2019-11-07 10:14:44+00:00,['1192384885568212996'],@CJPhillips1982 Lol one of your better jokes!,lol one better joke,False
+1.1922075741684613e+18,2019-11-06 22:30:10+00:00,['1192207574168461313'],Go team 🥰 https://t.co/V7VRMJ5Wqk,team,False
+1.1914827588849254e+18,2019-11-04 22:30:01+00:00,['1191482758884925440'],"@IBurbidge7 @PurelyFootball @BigDzeko10 haha, christ that's not ideal",haha christ that's ideal,False
+1.188872575709057e+18,2019-10-28 17:38:04+00:00,['1188872575709057024'],@MENnewsdesk @IBurbidge7 still doing better than his football career,still better football career,False
+1.188765918068912e+18,2019-10-28 10:34:15+00:00,['1188765918068912128'],"@IBurbidge7 @AndyHa_ Love this, I liked it earlier haha",love liked earlier haha,False
+1.1887322319022858e+18,2019-10-28 08:20:24+00:00,['1188732231902285824'],@SoccerAM @IBurbidge7 your team getting pumped,team getting pumped,False
+1.187773779147219e+18,2019-10-25 16:51:51+00:00,['1187773779147218944'],@Danny_Rust10 @JakeRobbo9 @BTFC That’s good for you Danny!,thats good danny,True
+1.1869828786740634e+18,2019-10-23 12:29:06+00:00,['1186982878674063360'],"@MartinbSharples Hi, please see our response here detailing further steps. Please email queries to details in my bio https://t.co/zpNNRzkxQk",please see response detailing step please email query detail bio,False
+1.1869286156294758e+18,2019-10-23 08:53:28+00:00,['1186928615629475840'],@BTFC 👏🏻,,
+1.1864079806249943e+18,2019-10-21 22:24:39+00:00,['1186407980624994311'],@football_mumble @IBurbidge7,,
+1.1859254738739446e+18,2019-10-20 14:27:21+00:00,['1185925473873944577'],@FootballJOE @IBurbidge7,,
+1.185522056596742e+18,2019-10-19 11:44:18+00:00,['1185522056596742146'],@Bowerspitseafc @EmiratesFACup @ChiCityFC @Danny_Rust10 @BBCEssexSport @NonLeaguePaper Good luck today!,good luck today,True
+1.1830026451638927e+18,2019-10-12 12:53:04+00:00,['1183002645163892736'],@sportbible @IBurbidge7 almost as fast as you after 10 cigs,almost fast cigs,False
+1.182193045644759e+18,2019-10-10 07:16:00+00:00,['1182193045644759040'],@CJPhillips1982 😂,,
+1.181696416101671e+18,2019-10-08 22:22:35+00:00,['1181696416101670913'],@utdxtra @IBurbidge7  ♥️,,
+1.181695621603963e+18,2019-10-08 22:19:25+00:00,['1181695621603962880'],@BeckyBarnesB @piersmorgan You must be doing something right 💪🏼,must something right,False
+1.1816883094723625e+18,2019-10-08 21:50:22+00:00,['1181688309472362496'],@BeckyBarnesB @piersmorgan Some of the replies to this! 😩,reply,False
+1.179882581988393e+18,2019-10-03 22:15:03+00:00,['1179882581988392961'],@CJPhillips1982 Lol,lol,True
+1.1798691084746998e+18,2019-10-03 21:21:31+00:00,['1179869108474699776'],@FootbaII_HQ @IBurbidge7,,
+1.1791356372046684e+18,2019-10-01 20:46:57+00:00,['1179135637204668416'],😁😁😄,,
+1.1788011649528504e+18,2019-09-30 22:37:53+00:00,['1178801164952850432'],@FootballVines @IBurbidge7 these are great haha,great haha,False
+1.1788007075389686e+18,2019-09-30 22:36:04+00:00,['1178800707538968582'],@FootballVines @IBurbidge7,,
+1.1779390992499835e+18,2019-09-28 13:32:20+00:00,['1177939099249983489'],Back in the press box https://t.co/fbtZa5IiyI,back press box,False
+1.177328608295162e+18,2019-09-26 21:06:28+00:00,['1177328608295161867'],😍 https://t.co/BwIfuEVyGf,,
+1.1769652059029914e+18,2019-09-25 21:02:26+00:00,['1176965205902991360'],@FutbolBible @IBurbidge7,,
+1.1695407784540815e+18,2019-09-05 09:20:25+00:00,['1169540778454081539'],@vonstrenginho @hallett9 @IBurbidge7,,
+1.163907521402278e+18,2019-08-20 20:15:52+00:00,['1163907521402277888'],"@Leegend90 @UniversitiesUK Hi there, I am on leave at the moment. Can you please direct your question to the UUK twitter account or email pressoffice@universitiesuk.ac.uk, thanks",leave moment please direct question uuk twitter account email pressofficeacuk thanks,False
+1.1639071503783404e+18,2019-08-20 20:14:23+00:00,['1163907150378340352'],@neilhawkins87 @IBurbidge7 Haha this has caused quite a stir 😉🥴♥️,haha caused quite stir,False
+1.160566043603067e+18,2019-08-11 14:58:01+00:00,['1160566043603066881'],@IBurbidge7 @danielstorey85 Excellent! #DickBraine,excellent,True
+1.1566480126151803e+18,2019-07-31 19:29:10+00:00,['1156648012615180288'],@IBurbidge7 @EPLBible 😂 you know it,know,False
+1.1537914502046884e+18,2019-07-23 22:18:12+00:00,['1153791450204688391'],@ArsenalFC_fl @IBurbidge7 lol,lol,True
+1.1472233989694833e+18,2019-07-05 19:19:07+00:00,['1147223398969483264'],@1EastThurrockFC @Danny_Rust10 Let’s hope he doesn’t spot a classic Danny typo 😉,let hope doesnt spot classic danny typo,False
+1.1410775227733484e+18,2019-06-18 20:17:36+00:00,['1141077522773348353'],Top advertising in @empiremagazine from @unilincoln 👌🏻 https://t.co/JTihMzy6gY,top advertising,False
+1.1387076812907274e+18,2019-06-12 07:20:42+00:00,['1138707681290727427'],@BeardedGenius @IBurbidge7,,
+1.1363924252897894e+18,2019-06-05 22:00:41+00:00,['1136392425289789440'],@aeadebisi Thank you! Sorry I couldn’t stop and chat but I hope we bump into each other in the future,thank sorry couldnt stop chat hope bump future,False
+1.136379088644563e+18,2019-06-05 21:07:42+00:00,['1136379088644562945'],@aeadebisi You were excellent! (That’s the back of my head - in the blue shirt),excellent thats back head blue shirt,False
+1.1349247295408497e+18,2019-06-01 20:48:36+00:00,['1134924729540849665'],⚽️😴,,
+1.1347611209322536e+18,2019-06-01 09:58:28+00:00,['1134761120932253696'],@Dani_Mann89 @richmann29 Love this @richmann29,love,False
+1.1323091830245745e+18,2019-05-25 15:35:21+00:00,['1132309183024574465'],"Good evening, press office (features)! https://t.co/qLjpDtyFGv",good evening press office feature,False
+1.1297063977242378e+18,2019-05-18 11:12:48+00:00,['1129706397724237824'],@JurgenPressed @CarolineTilley1,,
+1.1297060925802127e+18,2019-05-18 11:11:36+00:00,['1129706092580212736'],@JurgenPressed @IBurbidge7  👌🏻,,
+1.1251441570922865e+18,2019-05-05 21:04:05+00:00,['1125144157092286465'],"@terrykeating @Danny_Rust10 Thanks Terry, hope you’re keeping well",thanks terry hope youre keeping well,False
+1.1239241290260604e+18,2019-05-02 12:16:08+00:00,['1123924129026060296'],Really enjoyed working on this! An important subject and positive steps being taken #closingthegap https://t.co/TicIg0Lyjm,really enjoyed working important subject positive step taken,False
+1.1239027545635268e+18,2019-05-02 10:51:12+00:00,['1123902754563526662'],"@UpLeArse @tickets2arsenal Hi, interested in these. DM if poss, thanks",interested thanks,False
+1.122550686401663e+18,2019-04-28 17:18:34+00:00,['1122550686401662976'],@stuartballard Wow.,wow,True
+1.1220659860967178e+18,2019-04-27 09:12:32+00:00,['1122065986096717824'],Good luck @darren_manning 🤜🏻🤛🏻 https://t.co/rfskbj1eo4,good luck,True
+1.1145671369309472e+18,2019-04-06 16:34:47+00:00,['1114567136930947074'],Love this 🏆 https://t.co/a4dGnA7Pcn,love,False
+1.1134215760185836e+18,2019-04-03 12:42:44+00:00,['1113421576018583552'],@IBurbidge7 https://t.co/3A3arsvriA,,
+1.1106512274388337e+18,2019-03-26 21:14:22+00:00,['1110651227438833664'],@CJPhillips1982 Oh god 🤦🏻‍♂️,god,True
+1.1055996242015436e+18,2019-03-12 22:41:06+00:00,['1105599624201543680'],@BleacherReport @IBurbidge7,,
+1.1040363119488164e+18,2019-03-08 15:09:03+00:00,['1104036311948816384'],👌🏻⭐️ @JakeRobbo9 https://t.co/C7nWBIPP8g,,
+1.1030389162429152e+18,2019-03-05 21:05:45+00:00,['1103038916242915329'],A great opportunity for an aspiring sports journalist. And you’d get to work with local celebrity @CJPhillips1982 https://t.co/QvWTKIsFZK,great opportunity aspiring sport journalist youd get work local celebrity,False
+1.098893815878955e+18,2019-02-22 10:34:36+00:00,['1098893815878955009'],"A first London bus journey, heavy duty trucks and roadworks do not do it justice. Not sure if I or @BethButton was more thrilled by the experience https://t.co/we1va82Mhk",first london bus journey heavy duty truck roadworks justice sure thrilled experience,False
+1.095973403255808e+18,2019-02-14 09:09:56+00:00,['1095973403255808001'],🙌🏻love this @BethButton https://t.co/PCRWV23Iq4,love,False
+1.094155842096644e+18,2019-02-09 08:47:35+00:00,['1094155842096644096'],@paddypower @IBurbidge7 👌🏻👌🏻👌🏻,,
+1.0938253889026048e+18,2019-02-08 10:54:29+00:00,['1093825388902604800'],😢 https://t.co/lmWBZFlkVN,,
+1.0931010943125135e+18,2019-02-06 10:56:24+00:00,['1093101094312513536'],"Fantastic (and speedy) work by @UUKIntl on an important topic, please support 👇🏻 #SupportStudyAbroad https://t.co/hWoJdH8E1E",fantastic speedy work important topic please support,False

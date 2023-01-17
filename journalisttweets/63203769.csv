@@ -1,9 +1,7 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.375015021294461e+18,2021-03-25 09:21:42+00:00,['1375015021294460928'],"RT @MaxduPreez: If you have lost some belief in SA's democracy, switch on your TV and watch a live hearing of the Constitutional Court, lis…"
-1,1.3037501451258962e+18,2020-09-09 17:40:31+00:00,['1303750145125896194'],Ray ban sunglasses on sale today https://t.co/X0XMQahbFt
-2,1.3037501208534303e+18,2020-09-09 17:40:25+00:00,['1303750120853430274'],Ray ban sunglasses on sale today https://t.co/0ecdCVFQOl
-3,1.2531970856812544e+18,2020-04-23 05:40:43+00:00,['1253197085681254400'],"RT @JJ_Stellies: Dear student leaders, your issues are real but you can’t actually boycott online learning🙄"
-4,1.1886863468708045e+18,2019-10-28 05:18:04+00:00,['1188686346870804480'],What's happening on your front page—no subs? Journalism standards waning! @Die_Burger https://t.co/CqMUhpRmor
-5,1.188685702915068e+18,2019-10-28 05:15:30+00:00,['1188685702915067904'],What's happening on your front page—no subs? Journalism standards waning! @Die_Burger https://t.co/LlKN1B7Q7V
-6,1.1338061717589565e+18,2019-05-29 18:43:51+00:00,['1133806171758956545'],@eNCA Please state and write your studio guests’ names onscreen. 😮
-7,1.1010430286666056e+18,2019-02-28 08:54:49+00:00,['1101043028666605569'],NO TICKETS AT BOTTOM OF PAGE — Win tickets and vouchers for the Paarl Harvest Celebration on Saturday 2 March https://t.co/vJ0dXBJUsX via @IOL
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english
+1.3037501451258962e+18,2020-09-09 17:40:31+00:00,['1303750145125896194'],Ray ban sunglasses on sale today https://t.co/X0XMQahbFt,ray ban sunglass sale today,True
+1.3037501208534303e+18,2020-09-09 17:40:25+00:00,['1303750120853430274'],Ray ban sunglasses on sale today https://t.co/0ecdCVFQOl,ray ban sunglass sale today,True
+1.1886863468708045e+18,2019-10-28 05:18:04+00:00,['1188686346870804480'],What's happening on your front page—no subs? Journalism standards waning! @Die_Burger https://t.co/CqMUhpRmor,what's happening front pageno sub journalism standard waning,False
+1.188685702915068e+18,2019-10-28 05:15:30+00:00,['1188685702915067904'],What's happening on your front page—no subs? Journalism standards waning! @Die_Burger https://t.co/LlKN1B7Q7V,what's happening front pageno sub journalism standard waning,False
+1.1338061717589564e+18,2019-05-29 18:43:51+00:00,['1133806171758956545'],@eNCA Please state and write your studio guests’ names onscreen. 😮,please state write studio guest name onscreen,False
+1.1010430286666056e+18,2019-02-28 08:54:49+00:00,['1101043028666605569'],NO TICKETS AT BOTTOM OF PAGE — Win tickets and vouchers for the Paarl Harvest Celebration on Saturday 2 March https://t.co/vJ0dXBJUsX via @IOL,ticket bottom page win ticket voucher paarl harvest celebration saturday march via,False

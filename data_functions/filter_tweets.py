@@ -14,8 +14,7 @@ nltk.download('omw-1.4')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
-
-from langdetect import detect
+from langdetect import detect, detector_factory, detect_langs
 from nltk.probability import FreqDist
 from nltk.corpus import treebank
 
@@ -26,6 +25,8 @@ from nltk.corpus import treebank
 # def remove_punctuation_string(text):
 #     punctuationfree="".join([i for i in text if i not in string.punctuation])
 #     return punctuationfree
+
+detector_factory.seed = 30
 
 # Removing URLs
 def remove_URL(text):
@@ -41,30 +42,6 @@ def remove_hashtags_mentions(text):
 # # Removing numbers
 # def remove_numbers(text):
 #     return ''.join((x for x in text if not x.isdigit()))
-#
-# def remove_emojis(text):
-#     emoji_pattern = re.compile("["
-#                                u"\U0001F600-\U0001F64F"  # emoticons
-#                                u"\U0001F300-\U0001F5FF"  # symbols & pictographs
-#                                u"\U0001F680-\U0001F6FF"  # transport & map symbols
-#                                u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
-#                                u"\U00002500-\U00002BEF"  # chinese char
-#                                u"\U00002702-\U000027B0"
-#                                u"\U00002702-\U000027B0"
-#                                u"\U000024C2-\U0001F251"
-#                                u"\U0001f926-\U0001f937"
-#                                u"\U00010000-\U0010ffff"
-#                                u"\u2640-\u2642"
-#                                u"\u2600-\u2B55"
-#                                u"\u200d"
-#                                u"\u23cf"
-#                                u"\u23e9"
-#                                u"\u231a"
-#                                u"\ufe0f"  # dingbats
-#                                u"\u3030"
-#                                "]+", re.UNICODE)
-#
-#     return(emoji_pattern.sub(r'', text)) # no emoji
 
 def remove_nonalphabet(text):
     regex = re.compile('[^a-zA-Z\s\']')
@@ -82,6 +59,18 @@ def remove_2char_words(text):
     output= [i for i in wordslist if not len(i)<3]
     return ' '.join(output)
 
+def too_short(text):
+    wordslist = text.split()
+    if len(wordslist)<5:
+        return True
+    return False
+
+def remove_less_5_words(df):
+    df['too_short'] = df['clean_text'].apply(lambda x:str(too_short(x)))
+    df = df[df['too_short'].str.contains('False') == True]
+    df = df.drop('too_short', axis=1)
+    return df
+
 # Stemming
 # porter_stemmer = PorterStemmer()
 # def stemming(text):
@@ -98,18 +87,24 @@ def lemmatizer(text):
 #Remove words not in english
 words = set(nltk.corpus.words.words())
 def nonenglish(text):
-    # for word in text:
-    #     if str(word).lower() in words or not str(word).isalpha():
-    #         return True
-    # return False
-    if detect(str(text))=="en":
-        return str(False)
-    else:
+    try:
+        lang = detect(str(text))
+        if lang == "en":
+            return str(False)
+        else:
+            print("not english", text, lang)
+            print(text, detect_langs(text))
         return str(True)
+    except:
+        print(text, "throws an error")
+        return None
 
 # def return_non_english(text):
 #     return " ".join(w for w in nltk.wordpunct_tokenize(text) \
 #              if w.lower() in words or not w.isalpha())
+
+# print(nonenglish(" me too freddie xx"))
+# print(nonenglish(" i see my good friend"))
 
 def delete_whitespace_tweets(df):
     df['whitespace'] = df['clean_text'].apply(lambda x:str(str(x).isspace()))
@@ -143,12 +138,16 @@ def text_preprocessing(directory = "journalisttweets"):
             #remove non alphabet chars
             df['clean_text'] = df['clean_text'].apply(lambda x:remove_nonalphabet(x))
 
-            #remove non english tweets
-            df['non_english'] = nonenglish(df['text'])
-            df = df[df['non_english'].str.contains('False') == True]
+            # df = remove_less_5_words(df)
 
             #lower case
             df['clean_text'] = df['clean_text'].apply(lambda x: x.lower())
+
+            #remove non english tweets
+            df['non_english'] = df['clean_text']
+            df['non_english'] = df['non_english'].apply(lambda x:nonenglish(x))
+
+            # df = df[df['non_english'].str.contains('False') == True]
 
             #lemmatizing
             df['clean_text'] = df['clean_text'].apply(lambda x:lemmatizer(str(x)))
@@ -162,12 +161,11 @@ def text_preprocessing(directory = "journalisttweets"):
             #remove now empty tweets
             df['clean_text'].replace('', np.nan, inplace=True)
             df = delete_whitespace_tweets(df)
-            print(len(df))
-            df.drop(['non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1,  inplace=True,  errors='ignore')
+            df.drop(['Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1,  inplace=True,  errors='ignore')
             df.to_csv(f, index=False)
 
 #run remove_empty before this
-# text_preprocessing()
+text_preprocessing()
 #run remove_empty after this
 
 def get_nouns(text):
@@ -202,3 +200,6 @@ def remove_empty_tweets(directory = "doctortweets"):
             df['text'].replace('', np.nan, inplace=True)
             df.dropna(subset=['text'], inplace=True)
             df.to_csv(f, index=False)
+
+
+

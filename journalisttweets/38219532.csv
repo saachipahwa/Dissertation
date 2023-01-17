@@ -1,682 +1,165 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.5221356408544788e+18,2022-05-05 08:46:31+00:00,['1522135640854478854'],"⚠️ ⚠️ ⚠️ 
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english
+1.5221356408544788e+18,2022-05-05 08:46:31+00:00,['1522135640854478854'],"⚠️ ⚠️ ⚠️ 
 Vous êtes journaliste ? Prenez 20 minutes pour répondre à la nouvelle enquête @SNJ_national
 @Technologia_Gr sur l'évolution des conditions de travail dans la profession 🗞📸📻🎥 
-https://t.co/ed99CpOOXm https://t.co/3Pm93pSUeN"
-1,1.5221114258624143e+18,2022-05-05 07:10:18+00:00,['1522111425862414337'],C'EST DEMAIN ! 📢 https://t.co/dJ0U7NHcE7 https://t.co/uSMqLf9yQV
-2,1.522110885686358e+18,2022-05-05 07:08:09+00:00,['1522110885686358017'],"RT @LaCNMJ: Bonjour, dans quelques minutes commencera
-La #CNMJ 2022 
-Le thème de cette année : 
-
-« Journalisme rêvé, journalisme enseigné,…"
-3,1.5221107867847066e+18,2022-05-05 07:07:45+00:00,['1522110786784706560'],"RT @wikileaks: ""The International Federation of Journalists, representing more than 600,000 journalists worldwide, calls for Julian Assange…"
-4,1.522110669209981e+18,2022-05-05 07:07:17+00:00,['1522110669209980932'],"RT @IFJGlobal: 📢#WPFD2022: A l'occasion de la Journée mondiale de la liberté de la presse, nous exigeons une réglementation stricte qui int…"
-5,1.522109137215185e+18,2022-05-05 07:01:12+00:00,['1522109137215184896'],"RT @mauricedecroix: [#Presse] Si l'on en croit le @canardenchaine , après avoir mutualisé l'imprimerie avec @courrierouest , le grand frère…"
-6,1.5221084034763205e+18,2022-05-05 06:58:17+00:00,['1522108403476320256'],"RT @SNJ_national: Grand merci à @StellaMoris1 pour sa venue et son témoignage, et à l'ensemble des intervenants @abellanger49 pour @IFJGlob…"
-7,1.5219568223741338e+18,2022-05-04 20:55:57+00:00,['1521956822374133761'],RT @afpfr: Hong Kong a dégringolé dans le classement international de la liberté de la presse selon un rapport de Reporters sans frontières…
-8,1.521949503317758e+18,2022-05-04 20:26:52+00:00,['1521949503317757952'],"RT @cframmery: Prenez qq minutes et lisez ces histoires de journalistes russes et ukrainiens, qu'ils ne peuvent plus écrire. C'est passionn…"
-9,1.5219083719050363e+18,2022-05-04 17:43:26+00:00,['1521908371905036289'],"RT @SNJ_national: J - 2 🥁🥁🥁 
-Colloque ""L'Etat de droit en France : le temps de la démocrature"" https://t.co/lEp23EyP7K"
-10,1.521907559543808e+18,2022-05-04 17:40:12+00:00,['1521907559543808002'],"RT @GroupeAudiens: Le 5 mai se déroulera la 12e édition de @LaCNMJ sur le thème ""Journalisme rêvé, journalisme enseigné, journalisme pratiq…"
-11,1.521907506439725e+18,2022-05-04 17:39:59+00:00,['1521907506439725062'],"RT @SNJ_national: #FreeAssange 
-⬇️"
-12,1.5218773214347387e+18,2022-05-04 15:40:03+00:00,['1521877321434738689'],"J - 2 🥁🥁🥁 
-Colloque ""L'Etat de droit en France : le temps de la démocrature"" https://t.co/lEp23EyP7K https://t.co/uSMqLf9yQV"
-13,1.5218757857280778e+18,2022-05-04 15:33:57+00:00,['1521875785728077827'],RT @LeCLEMI: #JournéeDeLaLibertéDeLaPresse Retrouvez une sélection de ressources #ÉducMédiasInfo du #CLEMI et de ses partenaires @RSF_inter…
-14,1.5217828787613737e+18,2022-05-04 09:24:46+00:00,['1521782878761373696'],RT @jmcharon: Avoir besoin d'un suivi psy ou de médicaments pour travailler. Aller jusqu'au burn-out : @jmcharon Ces jeunes journalistes qu…
-15,1.5217815667200655e+18,2022-05-04 09:19:33+00:00,['1521781566720065536'],"#FreeAssange 
-⬇️ https://t.co/ZBSuS0cTsQ"
-16,1.5217812840197816e+18,2022-05-04 09:18:26+00:00,['1521781284019781632'],"RT @SNJ_national: ""Très probablement, à la fin, cette affaire sera démêlée devant la cour européenne des droits de l'homme. Ce procès contr…"
-17,1.521781024006488e+18,2022-05-04 09:17:24+00:00,['1521781024006488065'],RT @chdauriac: Stella Assange hier soir à Paris à la soirée de solidarité organisé par ⁦@SNJ_national⁩.Aux côtés de ⁦@VillaniCedric⁩ et car…
-18,1.521779630251909e+18,2022-05-04 09:11:51+00:00,['1521779630251909121'],"RT @IFJGlobal: #France 🇫🇷 : Notre SG @abellanger49  était hier à Paris aux côtés de Stella Morris-Assange @StellaMoris1, le député @Villani…"
-19,1.5217795625432023e+18,2022-05-04 09:11:35+00:00,['1521779562543202304'],"RT @StellaMoris1: Great event today at the Hotel du Ville in Paris, screening the Hacking Justice documentary and #wpfd #FreeAssangeNOW dis…"
-20,1.521779475976966e+18,2022-05-04 09:11:15+00:00,['1521779475976966144'],RT @VillaniCedric: Ému et honoré d'avoir pu retrouver @StellaMoris1 hier à Paris pour la projection/débat de #HackingJustice avec @IFJGloba…
-21,1.521779344498119e+18,2022-05-04 09:10:43+00:00,['1521779344498118656'],"Grand merci à @StellaMoris1 pour sa venue et son témoignage, et à l'ensemble des intervenants @abellanger49 pour @IFJGlobal, le député @VillaniCedric, @BourdonWilliam2, @davduf 👏👏👏 
+https://t.co/ed99CpOOXm https://t.co/3Pm93pSUeN",vous journaliste prenez minute pour rpondre nouvelle enqute sur l'volution condition travail dans profession,True
+1.5221114258624143e+18,2022-05-05 07:10:18+00:00,['1522111425862414337'],C'EST DEMAIN ! 📢 https://t.co/dJ0U7NHcE7 https://t.co/uSMqLf9yQV,c'est demain,True
+1.5218773214347387e+18,2022-05-04 15:40:03+00:00,['1521877321434738689'],"J - 2 🥁🥁🥁 
+Colloque ""L'Etat de droit en France : le temps de la démocrature"" https://t.co/lEp23EyP7K https://t.co/uSMqLf9yQV",colloque l'etat droit france temp dmocrature,True
+1.5217815667200655e+18,2022-05-04 09:19:33+00:00,['1521781566720065536'],"#FreeAssange 
+⬇️ https://t.co/ZBSuS0cTsQ",,
+1.521779344498119e+18,2022-05-04 09:10:43+00:00,['1521779344498118656'],"Grand merci à @StellaMoris1 pour sa venue et son témoignage, et à l'ensemble des intervenants @abellanger49 pour @IFJGlobal, le député @VillaniCedric, @BourdonWilliam2, @davduf 👏👏👏 
 et à @dpradalie à l'animation du débat pour @SNJ_national  
-#WPFD2022 https://t.co/50wiPuuIPd"
-22,1.5215627099758715e+18,2022-05-03 18:49:53+00:00,['1521562709975871493'],"RT @SylvainErnault: La violation du code du travail par Sud Ouest a causé un préjudice à l'ensemble de la profession, juge le tribunal des…"
-23,1.5215625927198228e+18,2022-05-03 18:49:26+00:00,['1521562592719822848'],"RT @chdauriac: Liberté de la presse : la situation se dégrade fortement en Chine et en Russie, selon Reporters sans frontières https://t.co…"
-24,1.5215618243989176e+18,2022-05-03 18:46:22+00:00,['1521561824398917635'],"RT @pressfreedom: At least 7 journalists have been killed covering the war in Ukraine
-
-These are their names and stories...
-
-CPJ is investi…"
-25,1.521561561323778e+18,2022-05-03 18:45:20+00:00,['1521561561323778048'],RT @IFJGlobal: #France 🇫🇷 IFJ General Secretary @abellanger49 marking #WPFD2022 with French affiliates @SNJ_national https://t.co/GHMRY6WL6N
-26,1.521561441698042e+18,2022-05-03 18:44:51+00:00,['1521561441698041858'],"RT @EFJEUROPE: #WPFD2022 : 84 journalists are currently in prison in Europe, just for doing their job. And 11 journalists have been killed…"
-27,1.521559158549631e+18,2022-05-03 18:35:47+00:00,['1521559158549630976'],"""La profession a été en dessous de tout"" estime @abellanger49 à propos du ""scandale"" Assange. L'avocat @BourdonWilliam2 souligne le ""paradoxe incroyable"" de ""quelqu'un qui a rendu service à la liberté d'informer et qui se trouve criminalisé avec une détermination absolue"" 
-#WPFD https://t.co/s7imlY0EKt"
-28,1.521556434806362e+18,2022-05-03 18:24:57+00:00,['1521556434806362115'],"""Très probablement, à la fin, cette affaire sera démêlée devant la cour européenne des droits de l'homme. Ce procès contre Julian est une attaque contre la liberté de la presse (...) mais aussi contre le cœur d'une démocratie libre et ouverte"" (Stella Morris-Assange) 
-#WPFD2022 https://t.co/dVcZMi6OFN"
-29,1.5215524213103163e+18,2022-05-03 18:09:00+00:00,['1521552421310316544'],"RT @JeanLucRomero: En cette journée mondiale de la liberté de la presse, le @SNJ_national et la Fédération Internationale des Journalistes…"
-30,1.521552318428332e+18,2022-05-03 18:08:36+00:00,['1521552318428332033'],"Soirée-débat en soutien à Julian Assange à l'auditorium de l'Hôtel de ville de Paris, après la diffusion du documentaire ""Hacking Justice"" ✊ 
+#WPFD2022 https://t.co/50wiPuuIPd",grand merci pour venue son tmoignage l'ensemble intervenants pour dput l'animation dbat pour,True
+1.521559158549631e+18,2022-05-03 18:35:47+00:00,['1521559158549630976'],"""La profession a été en dessous de tout"" estime @abellanger49 à propos du ""scandale"" Assange. L'avocat @BourdonWilliam2 souligne le ""paradoxe incroyable"" de ""quelqu'un qui a rendu service à la liberté d'informer et qui se trouve criminalisé avec une détermination absolue"" 
+#WPFD https://t.co/s7imlY0EKt",profession dessous tout estime propos scandale assange l'avocat souligne paradoxe incroyable quelqu'un qui rendu service libert d'informer qui trouve criminalis avec une dtermination absolue,True
+1.521556434806362e+18,2022-05-03 18:24:57+00:00,['1521556434806362115'],"""Très probablement, à la fin, cette affaire sera démêlée devant la cour européenne des droits de l'homme. Ce procès contre Julian est une attaque contre la liberté de la presse (...) mais aussi contre le cœur d'une démocratie libre et ouverte"" (Stella Morris-Assange) 
+#WPFD2022 https://t.co/dVcZMi6OFN",trs probablement fin cette affaire serum dmle devant cour europenne droits l'homme procs contre julian est une attaque contre libert presse mais aussi contre cur d'une dmocratie libre ouverte stella morrisassange,True
+1.521552318428332e+18,2022-05-03 18:08:36+00:00,['1521552318428332033'],"Soirée-débat en soutien à Julian Assange à l'auditorium de l'Hôtel de ville de Paris, après la diffusion du documentaire ""Hacking Justice"" ✊ 
 De gauche à droite : Cédric Villani, Stella Morris-Assange, Me William Bourdon, Anthony Bellanger @IFJGlobal et David Dufresne 
-#WPFD2022 https://t.co/csA2T2fid5"
-31,1.5215494206255964e+18,2022-05-03 17:57:05+00:00,['1521549420625596422'],"RT @SNJ_national: Hommage aux journalistes afghans,  ukrainiens, africains ou russes, au rôle des reporters de terrain, plusieurs prises de…"
-32,1.5215493592125522e+18,2022-05-03 17:56:50+00:00,['1521549359212552193'],"RT @SNJ_national: Et en France ? ""Un vent mauvais a soufflé sur la liberté de la presse ces dernières années, alors que l'état de la profes…"
-33,1.521549244104069e+18,2022-05-03 17:56:23+00:00,['1521549244104069122'],RT @SNJ_national: @abellanger49 secrétaire général de @IFJGlobal a dressé un état des lieux préoccupant de la liberté de la presse dans le…
-34,1.5215490915824927e+18,2022-05-03 17:55:47+00:00,['1521549091582492672'],"RT @SNJ_national: Très émouvante cérémonie en hommage aux journalistes ""morts pour l'information"" ce mardi 3 mai sur la place Ghislaine Dup…"
-35,1.5215124801822638e+18,2022-05-03 15:30:18+00:00,['1521512480182263808'],"RT @VRipoche: A l’occasion de la journée mondiale de la liberté de la presse, le SNJ se souvient de Ghislaine Dupont, Claude Verlon et Cami…"
-36,1.5215124375178486e+18,2022-05-03 15:30:08+00:00,['1521512437517848579'],"RT @mlalerte: #WorldPressFreedomDay 
-À l'occasion de la journée mondiale de la liberté de la presse, rappelons nos 5 conseils aux #journali…"
-37,1.521512400964436e+18,2022-05-03 15:29:59+00:00,['1521512400964435968'],"RT @davduf: En route ! #JulianAssange doit être libéré, réhabilité et indemnisé ! #LibertéDeLaPresse
-🔴 Projection/débat de #HackingJustice…"
-38,1.521512153320235e+18,2022-05-03 15:29:00+00:00,['1521512153320235008'],"Hommage aux journalistes afghans,  ukrainiens, africains ou russes, au rôle des reporters de terrain, plusieurs prises de paroles ont également évoqué Olivier Dubois, notre confrère retenu en otage au Mali depuis un an 
+#WPFD2022 https://t.co/csA2T2fid5",soiredbat soutien julian assange l'auditorium l'htel ville paris apr diffusion documentaire hacking justice gauche droite cdric villani stella morrisassange william bourdon anthony bellanger david dufresne,True
+1.521512153320235e+18,2022-05-03 15:29:00+00:00,['1521512153320235008'],"Hommage aux journalistes afghans,  ukrainiens, africains ou russes, au rôle des reporters de terrain, plusieurs prises de paroles ont également évoqué Olivier Dubois, notre confrère retenu en otage au Mali depuis un an 
 #freeolivierdubois
  #Afghanjournalists 
-#WPFD https://t.co/Lsbl6vevO4"
-39,1.5215105941044677e+18,2022-05-03 15:22:48+00:00,['1521510594104467456'],"""Loi Sécurité globale, procédures-bâillons, des journalistes entravés dans leur travail, espionnés par un logiciel, convoqués par la DGSE (...), la dégradation des conditions d'exercice du métier est une réalité palpable ressentie tous les jours dans les rédactions"" 
-@vinclanier https://t.co/HH5VHFGoAe"
-40,1.5215093844378337e+18,2022-05-03 15:18:00+00:00,['1521509384437833729'],"Et en France ? ""Un vent mauvais a soufflé sur la liberté de la presse ces dernières années, alors que l'état de la profession, minée par une précarité endémique, ne cesse de se détériorer"" à rappelé @vinclanier pour le @SNJ_national ⬇️ https://t.co/hXE47EI03x"
-41,1.5215053607455703e+18,2022-05-03 15:02:00+00:00,['1521505360745570309'],"@abellanger49 secrétaire général de @IFJGlobal a dressé un état des lieux préoccupant de la liberté de la presse dans le monde 🌎 et rappelé l'importance de lutter contre le poison de l'impunité des meurtriers et leurs commanditaires 
-#WPFD2022 https://t.co/gruVwORjdh"
-42,1.521503756004868e+18,2022-05-03 14:55:38+00:00,['1521503756004868096'],"Pour Maryvonne Lepage, la maman de Camille (association Camille Lepage - On est ensemble), il est très important que les journalistes continuent de témoigner de ce qu'il se passe sur les zones de conflit à travers le monde 
-#WPFD2022 https://t.co/DeLeCGwBxK"
-43,1.521502406428799e+18,2022-05-03 14:50:16+00:00,['1521502406428798977'],"Les Amis de Ghislaine et Claude, par la voix de Laurence Lacour, ont rappelé que la vérité judiciaire n'était toujours pas connue, le secret défense n'ayant pas été levé sur les assassinats des deux envoyés spéciaux de @RFI au Mali en 2013 😠 https://t.co/OvIB4aWGjW"
-44,1.5215006257621934e+18,2022-05-03 14:43:11+00:00,['1521500625762193421'],"Très émouvante cérémonie en hommage aux journalistes ""morts pour l'information"" ce mardi 3 mai sur la place Ghislaine Dupont - Claude Verlon - Camille Lepage, à Paris, dans le cadre du #WPFD2022 https://t.co/VTSnJ9tCXq"
-45,1.5214928702466744e+18,2022-05-03 14:12:22+00:00,['1521492870246674432'],RT @chdauriac: C’est ce soir ! @SNJ_national @IFJGlobal @mlalerte
-46,1.5214920966156902e+18,2022-05-03 14:09:18+00:00,['1521492096615690240'],"RT @SNJ_Sudouest: Un jugement du Conseil des prud'hommes de Bordeaux a condamné la Sapeso à requalifier une consoeur en CDI, après 7 ans de…"
-47,1.521481753017426e+18,2022-05-03 13:28:12+00:00,['1521481753017425923'],"RT @afvt_org: AfVT présente à l'hommage à Ghislaine Dupont, Claude Verlon et Camille Lepage, organisé à l'occasion de la journée mondiale d…"
-48,1.5214814883861176e+18,2022-05-03 13:27:09+00:00,['1521481488386117637'],"RT @JeanLucRomero: Paris défendra toujours la liberté de la presse !
-
-J’étais présent pour représenter @Anne_Hidalgo à la commémoration pou…"
-49,1.5214812490633298e+18,2022-05-03 13:26:12+00:00,['1521481249063329793'],"RT @CoE_HRightsRLaw: Journée 🌍de la #libertédelapresse ✒️ La violence contre les #journalistes et les #médias s'est aggravée et, dans certa…"
-50,1.5214811690570342e+18,2022-05-03 13:25:53+00:00,['1521481169057034246'],"RT @Buisine_Alex: 📣✊
-Avec @SNJ_014269 et @SNJ_national, c'est ce soir. Avis aux Lyonnais"
-51,1.521365047833989e+18,2022-05-03 05:44:27+00:00,['1521365047833989123'],"RT @UNESCO: It's time to defend information as a common good.
-
-It's time to defend #PressFreedom!
-
-3 May is #WorldPressFreedomDay.
-
-✊  http…"
-52,1.5213643670898893e+18,2022-05-03 05:41:45+00:00,['1521364367089889280'],"AUJOURD'HUI 🥁🥁🥁 
-#WPFD2022 https://t.co/dqRZ88cbqt"
-53,1.5211910280358298e+18,2022-05-02 18:12:58+00:00,['1521191028035829760'],"RT @BLeQuerrec: Vendredi prochain, je reviendrai sur l'état de la démocratie en France, aux côtés de Darius Mazur, Eric Alt, @Etienne_Ambro…"
-54,1.5211906806343025e+18,2022-05-02 18:11:35+00:00,['1521190680634302466'],RT @chdauriac: C’est demain mardi ! #FreeAssange @SNJ_national @IFJGlobal @mlalerte
-55,1.521113041244504e+18,2022-05-02 13:03:04+00:00,['1521113041244504065'],"RT @SNJ_national: DEMAIN, mardi 3 mai, journée mondiale de la liberté de la presse 🌎 
-Deux événements à Paris : 
-✅ 12h30, hommage à Ghislai…"
-56,1.5211127251491717e+18,2022-05-02 13:01:49+00:00,['1521112725149171713'],"@cp_philbo A Montpellier aussi, le @SNJlanguedocR était là ! 
+#WPFD https://t.co/Lsbl6vevO4",hommage aux journalistes afghan ukrainiens africains rus rle reporter terrain plusieurs prises parole ont galement voqu olivier dubois notre confrre retenu otage mali depuis,True
+1.5215105941044677e+18,2022-05-03 15:22:48+00:00,['1521510594104467456'],"""Loi Sécurité globale, procédures-bâillons, des journalistes entravés dans leur travail, espionnés par un logiciel, convoqués par la DGSE (...), la dégradation des conditions d'exercice du métier est une réalité palpable ressentie tous les jours dans les rédactions"" 
+@vinclanier https://t.co/HH5VHFGoAe",loi scurit globale procduresbillons journalistes entravs dans leur travail espionns par logiciel convoqus par dgse dgradation condition d'exercice mtier est une ralit palpable ressentie tous jours dans rdactions,True
+1.5215093844378337e+18,2022-05-03 15:18:00+00:00,['1521509384437833729'],"Et en France ? ""Un vent mauvais a soufflé sur la liberté de la presse ces dernières années, alors que l'état de la profession, minée par une précarité endémique, ne cesse de se détériorer"" à rappelé @vinclanier pour le @SNJ_national ⬇️ https://t.co/hXE47EI03x",france vent mauvais souffl sur libert presse dernires anne alors que l'tat profession mine par une prcarit endmique cesse dtriorer rappel pour,True
+1.5215053607455703e+18,2022-05-03 15:02:00+00:00,['1521505360745570309'],"@abellanger49 secrétaire général de @IFJGlobal a dressé un état des lieux préoccupant de la liberté de la presse dans le monde 🌎 et rappelé l'importance de lutter contre le poison de l'impunité des meurtriers et leurs commanditaires 
+#WPFD2022 https://t.co/gruVwORjdh",secrtaire gnral dress tat lieux proccupant libert presse dans monde rappel l'importance lutter contre poison l'impunit meurtriers leurs commanditaires,True
+1.521503756004868e+18,2022-05-03 14:55:38+00:00,['1521503756004868096'],"Pour Maryvonne Lepage, la maman de Camille (association Camille Lepage - On est ensemble), il est très important que les journalistes continuent de témoigner de ce qu'il se passe sur les zones de conflit à travers le monde 
+#WPFD2022 https://t.co/DeLeCGwBxK",pour maryvonne lepage maman camille association camille lepage est ensemble est trs important que journalistes continuent tmoigner qu'il passe sur zone conflit travers monde,True
+1.521502406428799e+18,2022-05-03 14:50:16+00:00,['1521502406428798977'],"Les Amis de Ghislaine et Claude, par la voix de Laurence Lacour, ont rappelé que la vérité judiciaire n'était toujours pas connue, le secret défense n'ayant pas été levé sur les assassinats des deux envoyés spéciaux de @RFI au Mali en 2013 😠 https://t.co/OvIB4aWGjW",amis ghislaine claude par voix laurence lacour ont rappel que vrit judiciaire n'tait toujours connue secret dfense n'ayant lev sur assassinats deux envoy spciaux mali,True
+1.5215006257621934e+18,2022-05-03 14:43:11+00:00,['1521500625762193421'],"Très émouvante cérémonie en hommage aux journalistes ""morts pour l'information"" ce mardi 3 mai sur la place Ghislaine Dupont - Claude Verlon - Camille Lepage, à Paris, dans le cadre du #WPFD2022 https://t.co/VTSnJ9tCXq",trs mouvante crmonie hommage aux journalistes morts pour l'information mardi mai sur place ghislaine dupont claude verlon camille lepage paris dans cadre,True
+1.5213643670898893e+18,2022-05-03 05:41:45+00:00,['1521364367089889280'],"AUJOURD'HUI 🥁🥁🥁 
+#WPFD2022 https://t.co/dqRZ88cbqt",aujourd'hui,True
+1.5211127251491717e+18,2022-05-02 13:01:49+00:00,['1521112725149171713'],"@cp_philbo A Montpellier aussi, le @SNJlanguedocR était là ! 
 👍 
-#1ermai2022 https://t.co/CvY57oR2wA"
-57,1.521096343774761e+18,2022-05-02 11:56:43+00:00,['1521096343774760960'],RT @IFJGlobal: 📢#WPFD2022: On World Press Freedom Day we demand strict regulations that prohibit the surveillance of #journalists and recog…
-58,1.521095915360199e+18,2022-05-02 11:55:01+00:00,['1521095915360198657'],"DEMAIN, mardi 3 mai, journée mondiale de la liberté de la presse 🌎 
+#1ermai2022 https://t.co/CvY57oR2wA",montpellier aussi tait,True
+1.521095915360199e+18,2022-05-02 11:55:01+00:00,['1521095915360198657'],"DEMAIN, mardi 3 mai, journée mondiale de la liberté de la presse 🌎 
 Deux événements à Paris : 
 ✅ 12h30, hommage à Ghislaine Dupont, Claude Verlon, Camille Lepage 
 ✅ 18 heures, soirée-débat autour du film documentaire ""Hacking Justice"", en soutien à Julian Assange 
 
-#WPFD2022 https://t.co/A9DzJhHQHQ"
-59,1.521083824645542e+18,2022-05-02 11:06:58+00:00,['1521083824645541889'],RT @MarcLarge: Le journal @sudouest vient d’être condamné pour avoir fait travailler une journaliste durant 7 ans avec 101 CDD cumulés !!!…
-60,1.5210836885739684e+18,2022-05-02 11:06:26+00:00,['1521083688573968387'],"RT @Aziz_Oguzz: Fier de vous dire que depuis quelques mois, je suis élu au bureau national du @SNJ_national, l'exécutif du syndicat, et du…"
-61,1.5210222926288404e+18,2022-05-02 07:02:28+00:00,['1521022292628840449'],"RT @LaCroix: 💼 Être heureux au travail, idéal ou illusion ? 
-
-👉Le bonheur au travail est encensé par nombre de coachs et de livres en dével…"
-62,1.5207011129402163e+18,2022-05-01 09:46:13+00:00,['1520701112940216320'],"RT @cp_philbo: 1er mai, comme d’hab
-@SNJ_national https://t.co/LBnLwWy77B"
-63,1.520684349036839e+18,2022-05-01 08:39:36+00:00,['1520684349036838912'],"RT @outremers360: C'est la fin d'une époque en #Polynésie ! Sauf reprise de la société fin mai, La Dépêche de Tahiti paraîtra pour la derni…"
-64,1.5206831888966042e+18,2022-05-01 08:34:59+00:00,['1520683188896604161'],RT @ornikkar: Joyeux 1er mai. (Par Charb) https://t.co/qX7BExXta2
-65,1.5206829786864271e+18,2022-05-01 08:34:09+00:00,['1520682978686427137'],"RT @RFI: Louis Witter, photojournaliste et «petit caillou dans la chaussure» de l'État à Calais https://t.co/5bYlS86XGf https://t.co/SXFj7n…"
-66,1.5206687757833175e+18,2022-05-01 07:37:43+00:00,['1520668775783317505'],RT @chdauriac: Plus que 3 jours ! #FreeAssange @SNJ_national @IFJGlobal @mlalerte
-67,1.5204940192892232e+18,2022-04-30 20:03:18+00:00,['1520494019289223172'],"RT @v_brengarth: Présent mardi pour participer à l’occasion de la Journée mondiale de la liberté de la presse, à la soirée organisée par @S…"
-68,1.5203372642909755e+18,2022-04-30 09:40:24+00:00,['1520337264290975744'],"RT @edwyplenel: Pour la Journée mondiale de la liberté de la presse, @SNJ_national et @IFJGlobal vous invitent mardi 3 mai à une soirée de…"
-69,1.5203058120103772e+18,2022-04-30 07:35:26+00:00,['1520305812010377216'],RT @LDH_Fr: Menace sur la protection des données perso. en Belgique : la société civile européenne s'inquiète ! Une lanceuse d'alerte dénon…
-70,1.5203034482894193e+18,2022-04-30 07:26:02+00:00,['1520303448289419265'],RT @IFJGlobal: #Ukraine 🇺🇦: Radio Free Europe journalist and producer Vera Gyrych was killed yesterday in the missile attack in Kyiv.
-71,1.5203030223116247e+18,2022-04-30 07:24:21+00:00,['1520303022311624704'],"RT @afpfr: [A LA UNE 20H] Une journaliste ukrainienne de Radio Liberty a été tuée jeudi dans la frappe russe sur Kiev, survenue pendant la…"
-72,1.5203025973447393e+18,2022-04-30 07:22:39+00:00,['1520302597344739328'],"RT @lorisguemart: ""Pendant la réunion actant la reprise d'activité, la patronne de RT France, Xenia Fedorova [...] a annoncé qu'à l'avenir,…"
-73,1.5203024353482342e+18,2022-04-30 07:22:01+00:00,['1520302435348234240'],Et ça continue @GDarmanin ... 😡 https://t.co/ML5hNM4WBz
-74,1.5201481466381804e+18,2022-04-29 21:08:55+00:00,['1520148146638180352'],"RT @FredGouis: Après Les Nouvelles de Tahiti en 2014, c’est l’autre quotidien de #Polynésie, La Dépêche de Tahiti qui s’arrête… Deux ancien…"
-75,1.5200552167286497e+18,2022-04-29 14:59:39+00:00,['1520055216728649728'],"RT @vinclanier: J - 4 
-⬇️"
-76,1.5199587574422075e+18,2022-04-29 08:36:21+00:00,['1519958757442207746'],"RT @SNJ_national: Et le vendredi 6 mai, 8h30 -13h30, colloque organisé avec @syndicatavocats et @SMagistrature au tribunal judiciaire de Pa…"
-77,1.519958589145817e+18,2022-04-29 08:35:41+00:00,['1519958589145817088'],"RT @radiofrance: Radio France tient à apporter son soutien total à la journaliste de France Bleu Creuse, victime d'une agression verbale et…"
-78,1.5199572110904115e+18,2022-04-29 08:30:13+00:00,['1519957211090411522'],"RT @LesAssises: 📍Les Assises c’est aussi des formations professionnelles de haute qualité.
-Profitez-en ! C’est gratuit ! C’est passionnant…"
-79,1.5199570007921992e+18,2022-04-29 08:29:23+00:00,['1519957000792199168'],"RT @cabinetSecafi: #VendrediLecture 🗞
-NAO, santé mentale des salariés #SSCT, bilan de mandat du #CSE, stratégie financière... autant de suj…"
-80,1.519956947642028e+18,2022-04-29 08:29:10+00:00,['1519956947642028032'],👍 https://t.co/PlkwBmUBWS
-81,1.5199561230796472e+18,2022-04-29 08:25:53+00:00,['1519956123079647235'],"RT @SNJ_national: Ne manquez pas le 3 mai, à partir de 18 heures à l'Auditorium de l'Hôtel de ville de Paris, la soirée-débat autour du fil…"
-82,1.5199560161584128e+18,2022-04-29 08:25:28+00:00,['1519956016158412801'],"RT @SNJ_national: Rendez-vous à 12h30 le 3 mai, pour la journée mondiale de la liberté de la presse, sur la place ""Ghislaine Dupont, Claude…"
-83,1.5199537456180306e+18,2022-04-29 08:16:26+00:00,['1519953745618030594'],"RT @mlalerte: 4️⃣ « L’UE s’attaque à ceux qui veulent faire taire lanceurs d’alerte et journalistes » à lire dans @LaCroix ⬇️
-
-https://t.co…"
-84,1.519775345217622e+18,2022-04-28 20:27:33+00:00,['1519775345217622020'],RT @chdauriac: Menace sur la protection des données personnelles en Belgique : la société civile européenne s'inquiète via @MediapartBlogs…
-85,1.5196872764182405e+18,2022-04-28 14:37:35+00:00,['1519687276418240513'],RT @sdjrfi: Communiqué de la @sdjrfi - suspension définitive de #RFI au Mali https://t.co/f6bVH93sEr
-86,1.519657840633389e+18,2022-04-28 12:40:37+00:00,['1519657840633389056'],"RT @SNJ_national: Rachat de Twitter par Elon Musk : une mauvaise nouvelle pour la liberté de la presse, selon la fédération internationale…"
-87,1.5196383599577252e+18,2022-04-28 11:23:13+00:00,['1519638359957725184'],RT @chdauriac: Plus que 5 jours ! @SNJ_national @IFJGlobal @mlalerte
-88,1.5196383004992676e+18,2022-04-28 11:22:59+00:00,['1519638300499267586'],"RT @MatMolard: 🗓️ Vendredi 06 mai je participerais à une table ronde dans le cadre de la 3e université commune du @syndicatavocats (SAF), l…"
-89,1.5195741952308838e+18,2022-04-28 07:08:15+00:00,['1519574195230883840'],"RT @SNJ_national: PLUS QUE JAMAIS mobilisés pour nos libertés ✊✊✊ 
-Ce mois de mai sera combatif et revendicatif ⬇️ 
-https://t.co/lONJY2ar2N…"
-90,1.5195728878663352e+18,2022-04-28 07:03:03+00:00,['1519572887866335232'],"RT @StevenJambot: ""France Médias Monde conteste avec force la décision définitive de suspension de @RFI et @France24 au #Mali par la Haute…"
-91,1.519572803233751e+18,2022-04-28 07:02:43+00:00,['1519572803233751041'],RT @dorianmalovic: A Hong Kong 🇭🇰 La liberté de la presse agonise. Le club de la presse étrangère @fcchk annule son prix des droits de l’ho…
-92,1.519571472607494e+18,2022-04-28 06:57:25+00:00,['1519571472607494144'],"RT @chdauriac: Une journaliste de France bleu Creuse, agressée dimanche par un militant du RN, porte plainte ⁦@SNJ_national⁩
-via @le_Parisi…"
-93,1.5195708284967076e+18,2022-04-28 06:54:52+00:00,['1519570828496707584'],"RT @mlalerte: 📆ÉVÉNEMENT 
-Le @SNJ_national et la @IFJGlobal organisent une projection-débat. La @mlalerte sera présente pour parler des enj…"
-94,1.5194104550553231e+18,2022-04-27 20:17:36+00:00,['1519410455055323141'],RT @France_MM: 🔴 France Médias Monde conteste avec force la décision définitive de suspension de @RFI et @FRANCE24 au #Mali et utilisera to…
-95,1.5194103375393628e+18,2022-04-27 20:17:08+00:00,['1519410337539362817'],RT @chdauriac: La France et l’Europe ont créé un précédent dangereux avec en mars dernier l’interdiction de la chaîne RT France…les gouvern…
-96,1.5193745606714573e+18,2022-04-27 17:54:58+00:00,['1519374560671457280'],"RT @SNJ_national: Réaction de la section SNJ de Radio France @snj_rf après l'agression d'une consœur de France Bleu Creuse, dimanche à Guér…"
-97,1.519374481390809e+18,2022-04-27 17:54:39+00:00,['1519374481390809089'],"RT @mlalerte: ""Un premier pas crucial"" : cette directive est une bonne nouvelle pour aller vers la fin des poursuites abusives #SLAPP qui é…"
-98,1.519354977382191e+18,2022-04-27 16:37:09+00:00,['1519354977382191105'],"Rachat de Twitter par Elon Musk : une mauvaise nouvelle pour la liberté de la presse, selon la fédération internationale des journalistes @IFJGlobal 
+#WPFD2022 https://t.co/A9DzJhHQHQ",demain mardi mai journe mondiale libert presse deux vnements paris hommage ghislaine dupont claude verlon camille lepage heures soiredbat autour film documentaire hacking justice soutien julian assange,True
+1.5203024353482342e+18,2022-04-30 07:22:01+00:00,['1520302435348234240'],Et ça continue @GDarmanin ... 😡 https://t.co/ML5hNM4WBz,continue,True
+1.519956947642028e+18,2022-04-29 08:29:10+00:00,['1519956947642028032'],👍 https://t.co/PlkwBmUBWS,,
+1.519354977382191e+18,2022-04-27 16:37:09+00:00,['1519354977382191105'],"Rachat de Twitter par Elon Musk : une mauvaise nouvelle pour la liberté de la presse, selon la fédération internationale des journalistes @IFJGlobal 
 ⬇️ 
-https://t.co/5ekJN3JeGI"
-99,1.5193540250991163e+18,2022-04-27 16:33:22+00:00,['1519354025099116545'],RT @presidentftv: Soutien total !!
-100,1.5193539120416072e+18,2022-04-27 16:32:55+00:00,['1519353912041607168'],"RT @lemondefr: La Commission européenne veut protéger les journalistes, lanceurs d’alerte et autres activistes contre les procédures-bâillo…"
-101,1.5193517231602235e+18,2022-04-27 16:24:13+00:00,['1519351723160223744'],RT @conseildeonto: La Commission européenne s’attaque au harcèlement juridique des journalistes - La Libre  https://t.co/lmyWM6orXE
-102,1.519351421962961e+18,2022-04-27 16:23:01+00:00,['1519351421962960896'],"Et le vendredi 6 mai, 8h30 -13h30, colloque organisé avec @syndicatavocats et @SMagistrature au tribunal judiciaire de Paris sur le thème ""L'Etat de droit en France : le temps de la démocrature"" 
+https://t.co/5ekJN3JeGI",rachat twitter par elon musk une mauvaise nouvelle pour libert presse selon fdration internationale journalistes,True
+1.519351421962961e+18,2022-04-27 16:23:01+00:00,['1519351421962960896'],"Et le vendredi 6 mai, 8h30 -13h30, colloque organisé avec @syndicatavocats et @SMagistrature au tribunal judiciaire de Paris sur le thème ""L'Etat de droit en France : le temps de la démocrature"" 
 👮‍♂️👮‍♀️👮‍♂️👨‍✈️👮‍♂️👮‍♀️👮‍♂️👨‍✈️👮‍♀️👮‍♂️👮‍♂️
 Inscriptions ici ⬇️ 
-https://t.co/ph7QXfWZx5 https://t.co/KSKeZnjnCF"
-103,1.5193493241022136e+18,2022-04-27 16:14:41+00:00,['1519349324102213632'],"Ne manquez pas le 3 mai, à partir de 18 heures à l'Auditorium de l'Hôtel de ville de Paris, la soirée-débat autour du film documentaire ""Hacking Justice"", en soutien à Julian Assange ✊ 
+https://t.co/ph7QXfWZx5 https://t.co/KSKeZnjnCF",vendredi mai colloque organis avec tribunal judiciaire paris sur thme l'etat droit france temp dmocrature inscription ici,True
+1.5193493241022136e+18,2022-04-27 16:14:41+00:00,['1519349324102213632'],"Ne manquez pas le 3 mai, à partir de 18 heures à l'Auditorium de l'Hôtel de ville de Paris, la soirée-débat autour du film documentaire ""Hacking Justice"", en soutien à Julian Assange ✊ 
 Avec @IFJGlobal 🌎 
 #FreeAssange 
-@DefendAssange https://t.co/VW2Of9sTd6"
-104,1.5193482050367488e+18,2022-04-27 16:10:14+00:00,['1519348205036748802'],"Rendez-vous à 12h30 le 3 mai, pour la journée mondiale de la liberté de la presse, sur la place ""Ghislaine Dupont, Claude Verlon et Camille Lepage"" (angle Aboukir/Montmartre, Paris 2e), pour un hommage à ces trois travailleurs des médias ""morts pour l'information"" 
-#WPFD https://t.co/FMddIvkE3H"
-105,1.5193466311157391e+18,2022-04-27 16:03:59+00:00,['1519346631115739137'],"PLUS QUE JAMAIS mobilisés pour nos libertés ✊✊✊ 
+@DefendAssange https://t.co/VW2Of9sTd6",manquez mai partir heures l'auditorium l'htel ville paris soiredbat autour film documentaire hacking justice soutien julian assange avec,True
+1.5193482050367488e+18,2022-04-27 16:10:14+00:00,['1519348205036748802'],"Rendez-vous à 12h30 le 3 mai, pour la journée mondiale de la liberté de la presse, sur la place ""Ghislaine Dupont, Claude Verlon et Camille Lepage"" (angle Aboukir/Montmartre, Paris 2e), pour un hommage à ces trois travailleurs des médias ""morts pour l'information"" 
+#WPFD https://t.co/FMddIvkE3H",rendezvous mai pour journe mondiale libert presse sur place ghislaine dupont claude verlon camille lepage angle aboukirmontmartre paris pour hommage trois travailleurs mdias morts pour l'information,True
+1.5193466311157391e+18,2022-04-27 16:03:59+00:00,['1519346631115739137'],"PLUS QUE JAMAIS mobilisés pour nos libertés ✊✊✊ 
 Ce mois de mai sera combatif et revendicatif ⬇️ 
 https://t.co/lONJY2ar2N 
 
-Ça commence ce dimanche 1er mai : tous dans les cortèges pour réclamer plus de justice sociale 📢📢 https://t.co/tNgVThN3FX"
-106,1.5192720544444088e+18,2022-04-27 11:07:39+00:00,['1519272054444408836'],"RT @SDJradiofrance: Une journaliste de @FBCreuse agressée lors de la soirée électorale. La @SDJradiofrance dénonce cet acte odieux, clairem…"
-107,1.5192714144985293e+18,2022-04-27 11:05:06+00:00,['1519271414498529280'],"Réaction de la section SNJ de Radio France @snj_rf après l'agression d'une consœur de France Bleu Creuse, dimanche à Guéret, au soir du second tour de la présidentielle 
+Ça commence ce dimanche 1er mai : tous dans les cortèges pour réclamer plus de justice sociale 📢📢 https://t.co/tNgVThN3FX",plus que jamais mobiliss pour liberts mois mai serum combatif revendicatif commence dimanche mai tous dans cortges pour rclamer plus justice sociale,True
+1.5192714144985293e+18,2022-04-27 11:05:06+00:00,['1519271414498529280'],"Réaction de la section SNJ de Radio France @snj_rf après l'agression d'une consœur de France Bleu Creuse, dimanche à Guéret, au soir du second tour de la présidentielle 
 😠 
 @SNJ_national sera à ses côtés 
 ⬇️ 
-https://t.co/U28na1puxr https://t.co/ZaouXK7apJ"
-108,1.5192697944905564e+18,2022-04-27 10:58:40+00:00,['1519269794490556416'],"RT @ScolastikeB: Aujourd'hui, j'ai porté plainte. Pour violence avec usage d'une arme. J'ai été agressée parce que je suis #journaliste. ""J…"
-109,1.5192695292217467e+18,2022-04-27 10:57:37+00:00,['1519269529221746688'],"RT @MDJournalistes: #en_construction 
-J-6 avant le vernissage de l’exposition📸 « Portrait(s) d’une #résistance. #Ukraine 2004-2022 » 
-✏️ Sa…"
-110,1.5192694556117115e+18,2022-04-27 10:57:19+00:00,['1519269455611711488'],RT @chdauriac: Une lanceuse d’alerte de l’APD jugée au Parlement: une première «inquiétante» dans une Belgique qui n’a toujours pas transpo…
-111,1.5192693535181578e+18,2022-04-27 10:56:55+00:00,['1519269353518157825'],"RT @oliviertesquet: Selon un document interne, les ingénieurs de Facebook ne savent pas ce qu’ils font de nos données personnelles. Sachant…"
-112,1.5192400076340183e+18,2022-04-27 09:00:18+00:00,['1519240007634018304'],"RT @snj_idf: Mai, le mois des libertés : 4 événements à ne pas manquer ! https://t.co/oqFPcilnLh"
-113,1.5192399168818545e+18,2022-04-27 08:59:56+00:00,['1519239916881854469'],RT @Rodolphp: Les dangers de la maquette équivoque... #presse #medias #journalisme https://t.co/D3VtvvL0ug
-114,1.519239042457645e+18,2022-04-27 08:56:28+00:00,['1519239042457645059'],RT @JustineJankows1: THREAD Florilège d'altercations durant notre tournage du sujet diffusé hier soir @TF1Info sur les tests de masse à #Pé…
-115,1.519238551266861e+18,2022-04-27 08:54:31+00:00,['1519238551266861056'],"RT @mlalerte: TRIBUNE 🗣️ | Dans cette tribune, publiée en 🇧🇪 par @lesoir, un collectif d'organisations 🇪🇺, dont la @mlalerte fait partie, s…"
-116,1.5192082503690609e+18,2022-04-27 06:54:07+00:00,['1519208250369060864'],"RT @MahmoodiNegina: Afghan journalists vulnerable to No fate in Pakistan 🚨! Today,a group of journalists who had been threatened by the Tal…"
-117,1.5192079777225564e+18,2022-04-27 06:53:02+00:00,['1519207977722556417'],"RT @amin_arman99: Where is Milad Mehrad?
- #MiladMehrad freelance journalist and photographer; The general manager of a press conference ent…"
-118,1.5192075023232737e+18,2022-04-27 06:51:08+00:00,['1519207502323273729'],"RT @UNESCO: 🔴 BREAKING!
-
-Belarusian Association of Journalists (@baj_by) has been named as the laureate of the 2022 @UNESCO / Guillermo Can…"
-119,1.519207460548055e+18,2022-04-27 06:50:58+00:00,['1519207460548055040'],RT @lemondefr: Rachat de #Twitter par Elon Musk : pourquoi la « liberté d’expression » défendue par le milliardaire inquiète 👇 | par @Pommi…
-120,1.519207097409413e+18,2022-04-27 06:49:32+00:00,['1519207097409413120'],RT @Aziz_Oguzz: L’ancien rédacteur en chef du Journal de Saint-Denis travaille depuis quelques semaines au cabinet du maire (PS) Mathieu Ha…
-121,1.5190441398154732e+18,2022-04-26 20:02:00+00:00,['1519044139815473157'],"RT @IFJGlobal: #TwitterTakeover : Twitter is an extension of journalists’ offices. This is where #journalists promote their work, express i…"
-122,1.519043874714493e+18,2022-04-26 20:00:56+00:00,['1519043874714492928'],"RT @lemondefr: Au Maroc, quatre ans de prison pour un militant et journaliste citoyen accusé d’avoir critiqué le roi https://t.co/aY53Lp4glH"
-123,1.5189372403066593e+18,2022-04-26 12:57:13+00:00,['1518937240306659330'],"RT @chdauriac: Au Maroc, quatre ans de prison pour un militant et journaliste citoyen accusé d’avoir critiqué le roi ! ⁦@IFJGlobal⁩ ⁦@SNJ_n…"
-124,1.518937145481773e+18,2022-04-26 12:56:50+00:00,['1518937145481773063'],RT @IFJGlobal: Paris. #WPFD22. Liberté pour Julian #Assange : le 3 mai à 18h à l’auditorium de l’hôtel de ville de @Paris avec @IFJGlobal @…
-125,1.5188643704906588e+18,2022-04-26 08:07:39+00:00,['1518864370490658816'],"RT @SNJ_national: 📢📢📢 
-Plus que jamais mobilisés pour la défense des libertés ✊✊✊ 
-Rdv le 6 mai au Tribunal judiciaire de Paris pour le col…"
-126,1.5188630554882335e+18,2022-04-26 08:02:26+00:00,['1518863055488233472'],"RT @VoxEuropFR: 🇧🇾 🖋 La rédactrice en chef du journal indépendant biélorusse @novychas, Aksana Kolb, a été arrêtée par le régime de #Loukac…"
-127,1.5188629946456023e+18,2022-04-26 08:02:11+00:00,['1518862994645602306'],"RT @ECPMF: Last week we have joined a collection of international press freedom, freedom of expression, and journalists’ organisations to c…"
-128,1.518862253491114e+18,2022-04-26 07:59:14+00:00,['1518862253491113985'],"RT @LaCNMJ: Inscrivez-vous ! La #CNMJ 2022 c'est le jeudi 5 mai ! 
-
-►► Programme complet  https://t.co/rVbFOWXbPy   
-►► Inscription https:/…"
-129,1.5188620596178534e+18,2022-04-26 07:58:28+00:00,['1518862059617853440'],"RT @mlalerte: 🎙Le podcast « Je te crois » a choisi de donner la parole à @_MarineMartin et à la @mlalerte, pour illustrer le combat et quot…"
-130,1.518860744909017e+18,2022-04-26 07:53:15+00:00,['1518860744909017088'],"RT @INA_RevueMedias: Les élèves de la @3emedias se frottent à l’analyse d’images avec des photos prises en Ukraine.
-
-Nouvel épisode de notr…"
-131,1.518860460757504e+18,2022-04-26 07:52:07+00:00,['1518860460757504001'],RT @SouffrTravail: Questionnaire d'auto-évaluation de l'épuisement professionnel - Test de propagation du burn-out | Souffrance et Travail…
-132,1.518858182768173e+18,2022-04-26 07:43:04+00:00,['1518858182768173057'],"RT @SNJ_national: Le 3 mai, journée mondiale de la liberté de la presse, hommage à Ghislaine Dupont, Claude Verlon et Camille Lepage, et to…"
-133,1.5188555316576666e+18,2022-04-26 07:32:32+00:00,['1518855531657666560'],"RT @SNJ_national: Le 3 mai, pour la journée mondiale de la liberté de la presse, à 18 heures, projection du film ""Hacking Justice"" et soiré…"
-134,1.518855181785518e+18,2022-04-26 07:31:08+00:00,['1518855181785518081'],"RT @Technologia_Gr: Vous êtes éditeur, auteur, ou avez récemment lu une œuvre – roman ou BD – qui traite des sujets de l'entreprise ou du m…"
-135,1.518854601629487e+18,2022-04-26 07:28:50+00:00,['1518854601629487104'],"RT @chdauriac: Les motojournalistes traquent Macron, on traque le journalisme - Par Loris Guémart | Arrêt sur images https://t.co/Ty7IcvL7i2"
-136,1.5188512190280745e+18,2022-04-26 07:15:24+00:00,['1518851219028074498'],RT @UnionSolidaires: La retraite c'est 60 ans max ! https://t.co/KYBY1ttX1k
-137,1.5188495558397297e+18,2022-04-26 07:08:47+00:00,['1518849555839729664'],"RT @maresca_franco: RUSSIA:REPRESSIONE INFINITA DELLA LIBERTÀ DEI MEDIA
-La repressione dei giornalisti e la censura si stanno intensificand…"
-138,1.5188494138793738e+18,2022-04-26 07:08:13+00:00,['1518849413879373825'],"RT @IFJGlobal: #Russia: 🇷🇺: Censorship laws, foreign media blocked, local journalists attacked, prosecuted, arrested or labelled foreign ag…"
-139,1.5188476769426268e+18,2022-04-26 07:01:19+00:00,['1518847676942626818'],"RT @SNJ_national: Cette place, et cette plaque, avaient été inaugurées le 3 mai 2019, à l'initiative des ""Amis de Ghislaine Dupont et Claud…"
-140,1.5188470594613535e+18,2022-04-26 06:58:52+00:00,['1518847059461353472'],"RT @SNJ_FTV: Le SNJ a été reçu par la direction de @francetele suite au communiqué du 13 avril, à propos du refus de Marine #Lepen et Emman…"
-141,1.518846998782296e+18,2022-04-26 06:58:37+00:00,['1518846998782296064'],"RT @davduf: 3 mai 2022, Paris : Débat Liberté, réhabilitation et indemnisation #FreeAssange avec @a_bellanger @VillaniCedric @BourdonWillia…"
-142,1.5188468486053435e+18,2022-04-26 06:58:02+00:00,['1518846848605343745'],"RT @dovalfon: Hommage prochain à l’équipe de Radio France Internationale @RFI tuée  au Mali pour le devoir d’informer, et pensée pour notre…"
-143,1.5186904815883428e+18,2022-04-25 20:36:41+00:00,['1518690481588342784'],"Le 3 mai, pour la journée mondiale de la liberté de la presse, à 18 heures, projection du film ""Hacking Justice"" et soirée-débat à l'Auditorium de l'Hôtel de ville de Paris, pour réclamer la libération de Julian Assange ✊✊✊ 
+https://t.co/U28na1puxr https://t.co/ZaouXK7apJ",raction section snj radio france apr l'agression d'une consur france bleu creuse dimanche guret soir second tour prsidentielle serum,True
+1.5186904815883428e+18,2022-04-25 20:36:41+00:00,['1518690481588342784'],"Le 3 mai, pour la journée mondiale de la liberté de la presse, à 18 heures, projection du film ""Hacking Justice"" et soirée-débat à l'Auditorium de l'Hôtel de ville de Paris, pour réclamer la libération de Julian Assange ✊✊✊ 
 Avec @IFJGlobal 
-#FreeAssange #WPFD2022 https://t.co/bfU7ajtJqi"
-144,1.5186868449631437e+18,2022-04-25 20:22:14+00:00,['1518686844963143680'],"Cette place, et cette plaque, avaient été inaugurées le 3 mai 2019, à l'initiative des ""Amis de Ghislaine Dupont et Claude Verlon"", de l'association ""Camille Lepage - On est ensemble"" et du @SNJ_national 
-Sur ces meurtres, nous recherchons toujours la vérité. Venez nombreux ! https://t.co/2KhmP9jYNT"
-145,1.518685054469382e+18,2022-04-25 20:15:07+00:00,['1518685054469382145'],"Le 3 mai, journée mondiale de la liberté de la presse, hommage à Ghislaine Dupont, Claude Verlon et Camille Lepage, et toutes celles et ceux qui sont ""morts pour l'information"". De 12h30 à 15h, sur la place qui porte leurs noms, Paris 2e (angle Aboukir, Louvre, Montmartre) https://t.co/KLGXlgIWRq"
-146,1.5186616083560735e+18,2022-04-25 18:41:57+00:00,['1518661608356073475'],"@ErgeCR @pigist @SnjCgt @USJCFDT @PigistesCFDT Un syndicat, des syndicaux, bien vu ! 😉😄"
-147,1.5186612527127347e+18,2022-04-25 18:40:32+00:00,['1518661252712734722'],"📢📢📢 
+#FreeAssange #WPFD2022 https://t.co/bfU7ajtJqi",mai pour journe mondiale libert presse heures projection film hacking justice soiredbat l'auditorium l'htel ville paris pour rclamer libration julian assange avec,True
+1.5186868449631437e+18,2022-04-25 20:22:14+00:00,['1518686844963143680'],"Cette place, et cette plaque, avaient été inaugurées le 3 mai 2019, à l'initiative des ""Amis de Ghislaine Dupont et Claude Verlon"", de l'association ""Camille Lepage - On est ensemble"" et du @SNJ_national 
+Sur ces meurtres, nous recherchons toujours la vérité. Venez nombreux ! https://t.co/2KhmP9jYNT",cette place cette plaque avaient inaugures mai l'initiative amis ghislaine dupont claude verlon l'association camille lepage est ensemble sur meurtres nous recherchons toujours vrit venez nombreux,True
+1.518685054469382e+18,2022-04-25 20:15:07+00:00,['1518685054469382145'],"Le 3 mai, journée mondiale de la liberté de la presse, hommage à Ghislaine Dupont, Claude Verlon et Camille Lepage, et toutes celles et ceux qui sont ""morts pour l'information"". De 12h30 à 15h, sur la place qui porte leurs noms, Paris 2e (angle Aboukir, Louvre, Montmartre) https://t.co/KLGXlgIWRq",mai journe mondiale libert presse hommage ghislaine dupont claude verlon camille lepage toutes celles ceux qui sont morts pour l'information sur place qui porte leurs noms paris angle aboukir louvre montmartre,True
+1.5186616083560735e+18,2022-04-25 18:41:57+00:00,['1518661608356073475'],"@ErgeCR @pigist @SnjCgt @USJCFDT @PigistesCFDT Un syndicat, des syndicaux, bien vu ! 😉😄",syndicat syndicaux bien,True
+1.5186612527127347e+18,2022-04-25 18:40:32+00:00,['1518661252712734722'],"📢📢📢 
 Plus que jamais mobilisés pour la défense des libertés ✊✊✊ 
-Rdv le 6 mai au Tribunal judiciaire de Paris pour le colloque ""L'Etat de droit en France : le temps de la DÉMOCRATURE"", IIIe université organisée en commun par @syndicatavocats @SMagistrature &amp; @SNJ_national https://t.co/NGzcx0tAHL https://t.co/sKyGaxYc0i"
-148,1.5186559586621972e+18,2022-04-25 18:19:30+00:00,['1518655958662197249'],"RT @pigist: Ensemble on est plus fort !💪🏻
-C'est le thème du prochain Apéro Pigistes qui aura lieu à Lyon le mardi 3 mai, où seront présents…"
-149,1.5185038996987085e+18,2022-04-25 08:15:16+00:00,['1518503899698708480'],"RT @mlalerte: [2] La Maison des Lanceurs d’Alerte a été saisie de plus de 250 demandes. 72% constituaient des alertes étayées, sérieuses, d…"
-150,1.518501650729689e+18,2022-04-25 08:06:20+00:00,['1518501650729689088'],"RT @UnionSolidaires: Tract 1er mai. Par nos luttes construisons un autre avenir
- https://t.co/1VXlI0R6MO https://t.co/fuAi0xTpXf"
-151,1.5185015621838193e+18,2022-04-25 08:05:59+00:00,['1518501562183819264'],RT @IFJGlobal: #FreeJulianAssange #WPFD Nous serons aux côtés de nos affiliés français du @SNJ_national le 3 mai en soutien à #JulianAssang…
-152,1.5184902791076127e+18,2022-04-25 07:21:09+00:00,['1518490279107612674'],RT @chdauriac: Qu’on se le dise ! C’est dans 8 jours mardi prochain. #FreeAssange ⁦@SNJ_national⁩ ⁦@IFJGlobal⁩ https://t.co/aKxUtsPIAX
-153,1.518312636777173e+18,2022-04-24 19:35:16+00:00,['1518312636777172993'],"RT @presidentftv: 🔴Après l’#annonce du résultat de la #présidentielle c’est maintenant clair , il faudra donc se battre pour défendre un fi…"
-154,1.5182318938415268e+18,2022-04-24 14:14:25+00:00,['1518231893841526785'],"RT @chdauriac: « Radio Londres », estimations et résultats définitifs, tout comprendre aux chiffres de l’élection présidentielle 2022 et la…"
-155,1.518137098708136e+18,2022-04-24 07:57:44+00:00,['1518137098708135938'],RT @SoAnn: Appel mondial au soutien des journalistes ukrainiens | Réseau international des journalistes https://t.co/t8uZWSCJB6
-156,1.5181367007734825e+18,2022-04-24 07:56:09+00:00,['1518136700773482496'],RT @ThomasBaietto: Je relaye rarement les commentaires climatosceptiques que l'on reçoit sur @franceinfoplus mais celui-ci est une pépite (…
-157,1.518135367756624e+18,2022-04-24 07:50:51+00:00,['1518135367756623873'],"RT @FreeOlivierDub1: Chaque jour est un jour de trop. 
-Cela fait 380 jours qu'Olivier Dubois est otage.
-#FreeOlivierDubois https://t.co/an0…"
-158,1.5177994881020475e+18,2022-04-23 09:36:11+00:00,['1517799488102047747'],"RT @libe: 🇫🇷 Emmanuel Macron chemise ouverte, Marine Le Pen au combat avec une éolienne... Avant le second tour, @Cocoboer  dévoile les cou…"
-159,1.517799332556284e+18,2022-04-23 09:35:34+00:00,['1517799332556283904'],"RT @Germany4Assange: Kristinn Hrafnsson: „Vor 16 Monaten hat dieses Gericht entschieden, dass #Assange s Auslieferung ein Risiko für sein L…"
-160,1.5177986690425242e+18,2022-04-23 09:32:56+00:00,['1517798669042524160'],"RT @IFJGlobal: #Afghanistan🇦🇫: This is a story of solidarity, but also one of mixed results and frustration, as the inaction of many govern…"
-161,1.5177979470644388e+18,2022-04-23 09:30:04+00:00,['1517797947064438784'],"RT @libe: À la une de @Libe ce week-end : 
-
-🔴 Contre l'extrême droite : votons
-
-https://t.co/nj2k4mQp7h
-#Présidentielle2022 https://t.co/mw…"
-162,1.517797200968958e+18,2022-04-23 09:27:06+00:00,['1517797200968957952'],RT @conseildeonto: [ Revue de presse ] À quoi servent la radio et la télévision publiques ? https://t.co/XBOSQpZ66a
-163,1.517796522083197e+18,2022-04-23 09:24:24+00:00,['1517796522083196932'],RT @mauricedecroix: La presse régionale s'engage aussi...  L'éditorial d'@OuestFrance . Éditorial co-écrit par le directeur de la publicati…
-164,1.517795481740583e+18,2022-04-23 09:20:16+00:00,['1517795481740582912'],"RT @chdauriac: Haine en ligne, contrefaçons… L’UE achève une réforme historique contre les dérives d’Internet: 
- https://t.co/3CHvsaY8CV"
-165,1.5177952550258156e+18,2022-04-23 09:19:22+00:00,['1517795255025815552'],RT @Molenews1: Conférence de #Szeged: les chiffres de la plateforme @CoEMediaFreedom objectivent le déclin de la #LibertéDeLaPresse en Euro…
-166,1.5177950171878564e+18,2022-04-23 09:18:26+00:00,['1517795017187856386'],"RT @PascalBoniface: 📽️ Suite à la parution d'un article du Monde relayant le rapport de l'IRSEM sur la stratégie d'influence chinoise, et m…"
-167,1.5177914413675766e+18,2022-04-23 09:04:13+00:00,['1517791441367576576'],"RT @lachance_media: Ça y est 🎉 ! Les candidatures pour la promotion 2023 de la prépa La Chance sont ouvertes ! Étudiant·e boursier·ère, tu…"
-168,1.5177913680175473e+18,2022-04-23 09:03:55+00:00,['1517791368017547265'],"RT @mediaeducFr: Annonce 🗣
-Vous êtes journaliste spécialisé dans l’#EMI ? Vous recherchez du travail ?
-La communauté urbaine de Dunkerque G…"
-169,1.5177911485338542e+18,2022-04-23 09:03:03+00:00,['1517791148533854213'],"RT @snj_rf: Le mouvement se poursuit à #FranceBleu avec une 5e semaine blanche. Dans la négociation à venir sur le numérique, la direction…"
-170,1.5177910173821665e+18,2022-04-23 09:02:32+00:00,['1517791017382166529'],RT @lemondefr: « Malgré la colère... éviter le chaos » : le magazine « Marianne » en ébullition après sa « une » pro-Macron et un titre cha…
-171,1.5177907747626066e+18,2022-04-23 09:01:34+00:00,['1517790774762606592'],"RT @Lesjoursfr: Comme pour le premier tour, @MLP_officiel refuse @Lesjoursfr d'accès à son QG dimanche. La semaine dernière elle avait assu…"
-172,1.517790624396759e+18,2022-04-23 09:00:58+00:00,['1517790624396759043'],"RT @humanite_fr: #Assange Mercredi, un tribunal britannique a expédié en quelques minutes le sort du fondateur de #WikiLeaks C’est désormai…"
-173,1.5175603179197809e+18,2022-04-22 17:45:49+00:00,['1517560317919780870'],"RT @SNJ_national: Et en Der, un hommage à notre regretté camarade José Navarro dit Pépé, ancien délégué syndical emblématique du SNJ à @mid…"
-174,1.5174672486419497e+18,2022-04-22 11:35:59+00:00,['1517467248641949698'],"RT @SNJ_national: Des rédactions en grève, des luttes payantes, et la nécessaire mobilisation de la profession face à un appauvrissement or…"
-175,1.5174668773998182e+18,2022-04-22 11:34:31+00:00,['1517466877399818240'],RT @SNJ_national: Le thème de l'information a été le grand absent de cette campagne présidentielle. Il y aura une session de rattrapage aux…
-176,1.5174567197225247e+18,2022-04-22 10:54:09+00:00,['1517456719722524672'],RT @LesAssises: Amis journalistes cette annonce peut vous intéresser 🫵
-177,1.5174566971362263e+18,2022-04-22 10:54:04+00:00,['1517456697136226305'],"RT @LeMediaTV: LEMÉDIA EST À DEUX DOIGTS D'ÊTRE SAUVÉ ! 
-
-Et avec lui sa liberté de ton, ses engagements, ses contenus et ses travailleurs…"
-178,1.5174309880575918e+18,2022-04-22 09:11:54+00:00,['1517430988057591809'],"Et en Der, un hommage à notre regretté camarade José Navarro dit Pépé, ancien délégué syndical emblématique du SNJ à @midilibre, disparu le 11 janvier dernier 😥 
-RIP Pépé https://t.co/eUcB1UcMJV"
-179,1.5174289747371418e+18,2022-04-22 09:03:54+00:00,['1517428974737141760'],"Des rédactions en grève, des luttes payantes, et la nécessaire mobilisation de la profession face à un appauvrissement organisé des salariés au niveau de la branche professionnelle, également au sommaire de ce nouveau numéro du ""Journaliste"" ✊✊✊ https://t.co/BOj2erontq"
-180,1.5174256381095977e+18,2022-04-22 08:50:39+00:00,['1517425638109597696'],"✅ Nouveaux seuils anti-concentration 
+Rdv le 6 mai au Tribunal judiciaire de Paris pour le colloque ""L'Etat de droit en France : le temps de la DÉMOCRATURE"", IIIe université organisée en commun par @syndicatavocats @SMagistrature &amp; @SNJ_national https://t.co/NGzcx0tAHL https://t.co/sKyGaxYc0i",plus que jamais mobiliss pour dfense liberts rdv mai tribunal judiciaire paris pour colloque l'etat droit france temp dmocrature iiie universit organise commun par amp,True
+1.5174309880575918e+18,2022-04-22 09:11:54+00:00,['1517430988057591809'],"Et en Der, un hommage à notre regretté camarade José Navarro dit Pépé, ancien délégué syndical emblématique du SNJ à @midilibre, disparu le 11 janvier dernier 😥 
+RIP Pépé https://t.co/eUcB1UcMJV",der hommage notre regrett camarade jos navarro dit ancien dlgu syndical emblmatique snj disparu janvier dernier rip,True
+1.5174289747371418e+18,2022-04-22 09:03:54+00:00,['1517428974737141760'],"Des rédactions en grève, des luttes payantes, et la nécessaire mobilisation de la profession face à un appauvrissement organisé des salariés au niveau de la branche professionnelle, également au sommaire de ce nouveau numéro du ""Journaliste"" ✊✊✊ https://t.co/BOj2erontq",rdactions grve luttes payantes ncessaire mobilisation profession face appauvrissement organis salaris niveau branche professionnelle galement sommaire nouveau numro journaliste,True
+1.5174256381095977e+18,2022-04-22 08:50:39+00:00,['1517425638109597696'],"✅ Nouveaux seuils anti-concentration 
 ✅ Indépendance des rédactions 
 ✅ Refonte des aides publiques à la presse 
 ✅ Éthique de l'information 
 ✅ Lutte contre la précarité 
 ✅ Politique d'éducation aux médias 
-Le chantier est immense et réclame  volontarisme et courage politique https://t.co/JPEvKEh0zU"
-181,1.5174240442992435e+18,2022-04-22 08:44:19+00:00,['1517424044299243520'],"Le thème de l'information a été le grand absent de cette campagne présidentielle. Il y aura une session de rattrapage aux législatives. Retrouvez le programme du @SNJ_national dans ""Le Journaliste"", notre revue trimestrielle ⬇️  
-https://t.co/8EEPrmkq3c https://t.co/G6rKykHFJG"
-182,1.517408368377348e+18,2022-04-22 07:42:01+00:00,['1517408368377348097'],"RT @Reporterre: 📰 Les médias seront-ils libres en cas de victoire de Marine Le Pen à la présidentielle ? 
-
- https://t.co/Z9IUuSzkM8"
-183,1.517408225448145e+18,2022-04-22 07:41:27+00:00,['1517408225448144896'],"RT @Telerama: Le dessin du jour, par @JulienCouty https://t.co/7GH4zq5I6q"
-184,1.5174079874591416e+18,2022-04-22 07:40:30+00:00,['1517407987459141632'],"RT @DEAcampaign: ""The UK has no obligation to extradite Julian to USA, in fact it is required by its international obligations to stop this…"
-185,1.5172223843061146e+18,2022-04-21 19:22:59+00:00,['1517222384306114561'],"RT @chdauriac: Hanouna, CNews, ""Marianne""...: dis-moi comment tu t'informes, je te dirai pour qui tu votes !
-https://t.co/xfq9Esb499 https:…"
-186,1.5172223458737644e+18,2022-04-21 19:22:50+00:00,['1517222345873764353'],"RT @libe: 🟢 Les réseaux sociaux épinglés pour leur lutte insuffisante contre la désinformation climatique 
-
-👉 Que font Twitter, YouTube, Fa…"
-187,1.5171404735628124e+18,2022-04-21 13:57:30+00:00,['1517140473562812416'],RT @SoniaReyne: La famille d’Olivier Dubois demande l’ouverture d’une instruction sur son enlèvement https://t.co/j4SNyHeyzZ
-188,1.517139904991404e+18,2022-04-21 13:55:15+00:00,['1517139904991404032'],RT @conseildeonto: Le New York Times demande à ses journalistes de lever le pied sur Twitter  https://t.co/l6l6DaUm8U
-189,1.5168808922155827e+18,2022-04-20 20:46:01+00:00,['1516880892215582725'],"@lemondefr @AudeDassonville @sandrinecassini ⬇️ 
-https://t.co/8EEPrmkq3c https://t.co/nN2w9U5BMJ"
-190,1.5168796510958592e+18,2022-04-20 20:41:05+00:00,['1516879651095859200'],RT @lemondefr: #Présidentielle2022 🗳️ | « Dans aucun des deux programmes les mots “presse” et “médias” n’apparaissent » : quelles ambitions…
-191,1.516875974549381e+18,2022-04-20 20:26:29+00:00,['1516875974549381122'],"RT @mauricedecroix: #Algerie  Le dessinateur de presse algérien Dilem illustre la fin du journal ""Liberté"". ""Bouclage"" c'était le mot qui c…"
-192,1.516751943531733e+18,2022-04-20 12:13:37+00:00,['1516751943531732995'],#FreeAssangeNOW https://t.co/mHXBeyhWHK
-193,1.5167517200130458e+18,2022-04-20 12:12:44+00:00,['1516751720013045766'],"RT @SNJ_national: Facebook News : quand @EBRApresse trop pressé de conclure avec le géant du web, s'asseoit sur les droits d'auteur des 150…"
-194,1.5167512898158633e+18,2022-04-20 12:11:02+00:00,['1516751289815863297'],"RT @SNJ_national: En ce jour de grand débat de l'entre deux tours, rappel de la position @SNJ_national @SNJ_FTV après la mise à l'écart d'A…"
-195,1.5167396479085527e+18,2022-04-20 11:24:46+00:00,['1516739647908552713'],"Coup dur pour la protection des lanceurs d'alerte et la liberté d'informer 😡 😠 
-La ministre britannique de l'Intérieur @pritipatel peut encore décider de rejeter l'ordonnance d'extradition. Just stop it ! ⛔ ⛔ ⛔ https://t.co/2eGkoF0mKZ"
-196,1.5167380136064205e+18,2022-04-20 11:18:16+00:00,['1516738013606420487'],"RT @JM_Lafon: Nous sommes le 20 avril 2022. Le journaliste français Olivier Dubois, enlevé par des jihadistes au Mali, est captif depuis 37…"
-197,1.5167360067703355e+18,2022-04-20 11:10:18+00:00,['1516736006770335744'],"RT @pigist: 48H de la Pige
-Save the date !
-
-Comme les + attentifs le savent déjà, les prochaines 48H de la Pige auront lieu à Nantes les 16…"
-198,1.516731108355887e+18,2022-04-20 10:50:50+00:00,['1516731108355887107'],"RT @PlumesdP: D'un côté: + 20% de CA depuis 2001
-De l'autre: des salaires qui ne suivent pas l'inflation. L'Humanité raconte comment @Infop…"
-199,1.5167310635397448e+18,2022-04-20 10:50:39+00:00,['1516731063539744768'],"RT @UnionSolidaires: DELIVEROO CONDAMNÉ POUR TRAVAIL DISSIMULÉ, UNE VICTOIRE POUR LE MONDE DU TRAVAIL ! Solidaires et la @fdSUDcommerces ,…"
-200,1.5167306395250688e+18,2022-04-20 10:48:58+00:00,['1516730639525068802'],"Facebook News : quand @EBRApresse trop pressé de conclure avec le géant du web, s'asseoit sur les droits d'auteur des 1500 journalistes du groupe 😠 
-https://t.co/4qT1cx4aMn https://t.co/j1IqUkmmXn"
-201,1.5167284613684795e+18,2022-04-20 10:40:19+00:00,['1516728461368479744'],"RT @mlalerte: Faciliter la révélation d'informations d'intérêt général ne devrait pas coûter à #JulianAssange sa liberté !
-
-Cette décision…"
-202,1.5167284439285637e+18,2022-04-20 10:40:15+00:00,['1516728443928563712'],RT @khaleddrareni: La justice britannique a autorisé formellement mercredi l'extradition du fondateur de #WikiLeaks #JulianAssange aux Etat…
-203,1.516727454383186e+18,2022-04-20 10:36:19+00:00,['1516727454383185926'],"En ce jour de grand débat de l'entre deux tours, rappel de la position @SNJ_national @SNJ_FTV après la mise à l'écart d'Anne-Sophie Lapix : ce ""droit de récusation"" doit être aboli car il met à mal l'indépendance de l'audiovisuel public ⬇️ 
-https://t.co/PmQdO1KyMz https://t.co/jPDLsFjECK"
-204,1.5167234741438874e+18,2022-04-20 10:20:30+00:00,['1516723474143887363'],RT @100journalists: #Journalists who went to the #AbdulRahimShahidHighSchool &amp; the #MumtazEducationalCenter yesterday to cover the blasts w…
-205,1.5167216660968653e+18,2022-04-20 10:13:19+00:00,['1516721666096865282'],RT @IFJGlobal: #FreeAssange Personne ne devrait être sanctionné pour avoir défendu l'intérêt général. Ni #JulianAssange ni tous ceux qui fa…
-206,1.5167213809554104e+18,2022-04-20 10:12:11+00:00,['1516721380955410438'],"RT @SNJ_national: Avec @mlalerte @IFJGlobal @SnjCgt @Collectif_INPD @RSF_inter, nous appelons 
-✅ les États-Unis à retirer leur demande d'ex…"
-207,1.5167213625215304e+18,2022-04-20 10:12:06+00:00,['1516721362521530373'],"RT @SNJ_national: Alors que la justice britannique doit se pencher à nouveau sur le sort de Julian Assange, @SNJ_national au côté de la Mai…"
-208,1.5167211269526118e+18,2022-04-20 10:11:10+00:00,['1516721126952611840'],"RT @mlalerte: ""Resterions-nous indifférents si de telles accusations étaient portées à l’encontre des personnes qui permettent de documente…"
-209,1.516701285319418e+18,2022-04-20 08:52:20+00:00,['1516701285319417857'],"Rendez-vous le mardi 3 mai, pour la journée mondiale de la liberté de la presse, avec la projection du documentaire ""Hacking Justice"" + soirée-débat avec @SNJ_national et @IFJGlobal à l'Auditorium de l'Hôtel de Ville de Paris ⬇️ https://t.co/zi8WEiiEZE"
-210,1.516699315984552e+18,2022-04-20 08:44:30+00:00,['1516699315984551943'],"Avec @mlalerte @IFJGlobal @SnjCgt @Collectif_INPD @RSF_inter, nous appelons 
+Le chantier est immense et réclame  volontarisme et courage politique https://t.co/JPEvKEh0zU",nouveaux seuils anticoncentration indpendance rdactions refonte aide publiques presse thique l'information lutte contre prcarit politique d'ducation aux mdias chantier est immense rclame volontarisme courage politique,True
+1.5174240442992435e+18,2022-04-22 08:44:19+00:00,['1517424044299243520'],"Le thème de l'information a été le grand absent de cette campagne présidentielle. Il y aura une session de rattrapage aux législatives. Retrouvez le programme du @SNJ_national dans ""Le Journaliste"", notre revue trimestrielle ⬇️  
+https://t.co/8EEPrmkq3c https://t.co/G6rKykHFJG",thme l'information grand absent cette campagne prsidentielle aura une session rattrapage aux lgislatives retrouvez programme dans journaliste notre revue trimestrielle,True
+1.5168808922155827e+18,2022-04-20 20:46:01+00:00,['1516880892215582725'],"@lemondefr @AudeDassonville @sandrinecassini ⬇️ 
+https://t.co/8EEPrmkq3c https://t.co/nN2w9U5BMJ",,
+1.516751943531733e+18,2022-04-20 12:13:37+00:00,['1516751943531732995'],#FreeAssangeNOW https://t.co/mHXBeyhWHK,,
+1.5167396479085527e+18,2022-04-20 11:24:46+00:00,['1516739647908552713'],"Coup dur pour la protection des lanceurs d'alerte et la liberté d'informer 😡 😠 
+La ministre britannique de l'Intérieur @pritipatel peut encore décider de rejeter l'ordonnance d'extradition. Just stop it ! ⛔ ⛔ ⛔ https://t.co/2eGkoF0mKZ",coup dur pour protection lanceurs d'alerte libert d'informer ministre britannique l'intrieur peut encore dcider rejeter l'ordonnance d'extradition stop,True
+1.5167306395250688e+18,2022-04-20 10:48:58+00:00,['1516730639525068802'],"Facebook News : quand @EBRApresse trop pressé de conclure avec le géant du web, s'asseoit sur les droits d'auteur des 1500 journalistes du groupe 😠 
+https://t.co/4qT1cx4aMn https://t.co/j1IqUkmmXn",facebook news quand trop press conclure avec gant web s'asseoit sur droits d'auteur journalistes groupe,True
+1.516727454383186e+18,2022-04-20 10:36:19+00:00,['1516727454383185926'],"En ce jour de grand débat de l'entre deux tours, rappel de la position @SNJ_national @SNJ_FTV après la mise à l'écart d'Anne-Sophie Lapix : ce ""droit de récusation"" doit être aboli car il met à mal l'indépendance de l'audiovisuel public ⬇️ 
+https://t.co/PmQdO1KyMz https://t.co/jPDLsFjECK",jour grand dbat l'entre deux tour rappel position apr mise l'cart d'annesophie lapix droit rcusation doit tre aboli car met mal l'indpendance l'audiovisuel public,True
+1.516701285319418e+18,2022-04-20 08:52:20+00:00,['1516701285319417857'],"Rendez-vous le mardi 3 mai, pour la journée mondiale de la liberté de la presse, avec la projection du documentaire ""Hacking Justice"" + soirée-débat avec @SNJ_national et @IFJGlobal à l'Auditorium de l'Hôtel de Ville de Paris ⬇️ https://t.co/zi8WEiiEZE",rendezvous mardi mai pour journe mondiale libert presse avec projection documentaire hacking justice soiredbat avec l'auditorium l'htel ville paris,True
+1.516699315984552e+18,2022-04-20 08:44:30+00:00,['1516699315984551943'],"Avec @mlalerte @IFJGlobal @SnjCgt @Collectif_INPD @RSF_inter, nous appelons 
 ✅ les États-Unis à retirer leur demande d'extradition
 ✅ le Royaume-Uni à libérer immédiatement Julian Assange
 ✅la France à lui accorder l'asile politique 
-@DefendAssange #FreeAssange https://t.co/VqF5OcVA2O"
-211,1.5166971812181238e+18,2022-04-20 08:36:01+00:00,['1516697181218123779'],"Alors que la justice britannique doit se pencher à nouveau sur le sort de Julian Assange, @SNJ_national au côté de la Maison des Lanceurs d'Alerte @mlalerte et de 10 autres organisations, réaffirme son soutien au fondateur Wikileaks, dans une tribune ⬇️ 
-https://t.co/OQ9HTy8kjR https://t.co/b3t6bh2gbc"
-212,1.5166760958311547e+18,2022-04-20 07:12:14+00:00,['1516676095831154689'],"RT @GrablyR: Le blog France Soir a remis en place une collecte de dons défiscalisés.
-
-Les fonds sont désormais collectés par l'Association…"
-213,1.5165269599536865e+18,2022-04-19 21:19:37+00:00,['1516526959953686537'],"RT @anticor_org: Si aujourd'hui, un journaliste révélait au monde entier les images de crimes de guerre commis en Ukraine, finirait-il comm…"
-214,1.516495993579184e+18,2022-04-19 19:16:34+00:00,['1516495993579184128'],RT @DarkJack999: @SNJ_national
-215,1.516495519857746e+18,2022-04-19 19:14:41+00:00,['1516495519857745921'],"RT @mlalerte: TRIBUNE 🗣️ I ""Il nous apparaît crucial de rappeler au Royaume-Uni que ce qui se joue dans la demande d'extradition qu'elle ét…"
-216,1.5164383752087347e+18,2022-04-19 15:27:37+00:00,['1516438375208734723'],"RT @jpmarthoz: Si vous voulez comprendre comment @lemondefr cherche à vérifier les infos d'Ukraine, cet ""en direct"" est très éclairant. Mer…"
-217,1.516437313538216e+18,2022-04-19 15:23:24+00:00,['1516437313538215938'],"RT @mlalerte: 🔔 L’Assemblée générale de la @mlalerte c’est ce soir ! 🤩
-
-Rendez-vous par ici si vous souhaitez y participer 👉🏽 https://t.co/…"
-218,1.5162938318508687e+18,2022-04-19 05:53:15+00:00,['1516293831850868736'],"RT @IFJGlobal: 💡Reporting that is accurate, factual, and impartial—the hallmarks of good journalism—is critical for society to be informed…"
-219,1.5162934566075228e+18,2022-04-19 05:51:46+00:00,['1516293456607522816'],"RT @conseildeonto: Le CDJM a d’ailleurs publié l’an dernier une recommandation consacrée aux bonnes pratiques en la matière, une lecture qu…"
-220,1.5162923069109084e+18,2022-04-19 05:47:11+00:00,['1516292306910908420'],RT @deslandes: Au sujet du RN et de la presse... https://t.co/woFnmsYnEa
-221,1.5162919679860613e+18,2022-04-19 05:45:51+00:00,['1516291967986061315'],"RT @SouffrTravail: EN DIRECT: Reconnaître le #BURNOUT en maladie professionnelle, pour quoi faire ?
-Webinaire en direct avec Marie PEZÉ mer…"
-222,1.5159466185451889e+18,2022-04-18 06:53:33+00:00,['1515946618545188866'],RT @lemondefr: Chronique | « Les grands médias audiovisuels ont rendu presque impossible l’affirmation d’un débat politique sur l’environne…
-223,1.5155955306840474e+18,2022-04-17 07:38:27+00:00,['1515595530684047361'],"RT @IFJGlobal: Good news from #Ukraine🇺🇦!
-The IFJ, @EFJEUROPE and their Ukrainian affiliates @nsju_org and @profspilka_nmpu have opened thr…"
-224,1.5155813732848558e+18,2022-04-17 06:42:12+00:00,['1515581373284855809'],"RT @naweed_kawish: Afghan journalists are not safe!
-Unidentified gunmen severely beat Rasa TV in Kabul.
-#Help_Afghan_journalists 
-@SNJ_nati…"
-225,1.515581268527878e+18,2022-04-17 06:41:47+00:00,['1515581268527878147'],"RT @presidentftv: Une délégation du @SNJ_FTV sera reçue mardi , veille du débat , par @laurentguimier !!"
-226,1.5154345339901133e+18,2022-04-16 20:58:42+00:00,['1515434533990113284'],"RT @MarionVanR: Pour ceux qui se demandent pourquoi Marine Le Pen ne veut plus être interviewée par Anne-Sophie Lapix, ce rappel de 2012👇ht…"
-227,1.5154333256447263e+18,2022-04-16 20:53:54+00:00,['1515433325644726273'],"RT @_Solitaris972_: Il y a quelque temps, j'avais évoqué la mise en place d'une réunion avec le @SNJ_national pour nous former sur nos droi…"
-228,1.515250671951483e+18,2022-04-16 08:48:06+00:00,['1515250671951482885'],"RT @SNJ_national: Contre l'extrême droite, manifestations partout en France ce samedi 16 avril ✊✊✊ 
+@DefendAssange #FreeAssange https://t.co/VqF5OcVA2O",avec nous appelons tatsunis retirer leur demande d'extradition royaumeuni librer immdiatement julian assange france lui accorder l'asile politique,True
+1.5166971812181238e+18,2022-04-20 08:36:01+00:00,['1516697181218123779'],"Alors que la justice britannique doit se pencher à nouveau sur le sort de Julian Assange, @SNJ_national au côté de la Maison des Lanceurs d'Alerte @mlalerte et de 10 autres organisations, réaffirme son soutien au fondateur Wikileaks, dans une tribune ⬇️ 
+https://t.co/OQ9HTy8kjR https://t.co/b3t6bh2gbc",alors que justice britannique doit pencher nouveau sur sort julian assange maison lanceurs d'alerte autres organisation raffirme son soutien fondateur wikileaks dans une tribune,True
+1.5152228402026455e+18,2022-04-16 06:57:31+00:00,['1515222840202645511'],"Contre l'extrême droite, manifestations partout en France ce samedi 16 avril ✊✊✊ 
 ⬇️ 
-https://t.co/ea8rpgMefa https://t.c…"
-229,1.5152506077199565e+18,2022-04-16 08:47:51+00:00,['1515250607719956484'],"RT @Lesjoursfr: Déjà entamée sur Europe 1 avec une soirée électorale commune avec CNews, la bolloréisation des médias Lagardère s'accélère:…"
-230,1.5152505301126554e+18,2022-04-16 08:47:33+00:00,['1515250530112655367'],RT @edwyplenel: L’entourage de Marine Le Pen avec les journalistes : des années de menaces et de violences. Utile rappel de @mhajdenberg da…
-231,1.515250496067588e+18,2022-04-16 08:47:24+00:00,['1515250496067588099'],"RT @libe: Anne-Sophie Lapix était envisagée pour animer le débat, avant que Marine Le Pen n’y oppose son véto, la jugeant, comme Emmanuel M…"
-232,1.5152228402026455e+18,2022-04-16 06:57:31+00:00,['1515222840202645511'],"Contre l'extrême droite, manifestations partout en France ce samedi 16 avril ✊✊✊ 
-⬇️ 
-https://t.co/ea8rpgMefa https://t.co/ANqENG4zWg https://t.co/CDHhZ2hiW8"
-233,1.51522111309321e+18,2022-04-16 06:50:39+00:00,['1515221113093210117'],"RT @AzilizLeB: Je reviens aux sources ce week-end : 14h30, place de la Lib' à Brest, à d'main ! (Oui, je suis de retour, je vais donc ellip…"
-234,1.515077317990703e+18,2022-04-15 21:19:16+00:00,['1515077317990703104'],"RT @agnesbriancon: A #Annecy, rassemblement à 14h30, square des Martyrs de la Déportation, ce samedi."
-235,1.5150772080873513e+18,2022-04-15 21:18:49+00:00,['1515077208087351304'],"RT @Thomas_Lemahieu: À Paris, rendez-vous à 14h, place de la Nation, avec @SNJ_national, @LDH_Fr, @UnionSolidaires, @lacgtcommunique  et be…"
-236,1.5150257132036588e+18,2022-04-15 17:54:12+00:00,['1515025713203658754'],"Le @SNJ_national appelle à la mobilisation, avec plusieurs associations et mouvements, ce samedi, contre l'extrême droite et ses idées.
-https://t.co/9gfw4NdFU7"
-237,1.5149992672991396e+18,2022-04-15 16:09:07+00:00,['1514999267299139589'],RT @IFJGlobal: #Tunisie🇹🇳: Le syndicat des journalistes @SnjtTunisia a dénoncé la détention du journaliste Chahrazed Akacha qui avait criti…
-238,1.5149990855222108e+18,2022-04-15 16:08:23+00:00,['1514999085522210822'],"RT @afpfr: La Russie a bloqué le site internet de la radio française RFI, qui diffuse des informations en une quinzaine de langues, dont le…"
-239,1.514998976654762e+18,2022-04-15 16:07:58+00:00,['1514998976654761984'],"RT @StevenJambot: On était passés entre les gouttes, mais ça devait arriver : 
-Le site internet de RFI est maintenant bloqué en Russie 
-➡️…"
-240,1.5149988650276004e+18,2022-04-15 16:07:31+00:00,['1514998865027600384'],RT @conseildeonto: Ça mérite un “Pan sur le bec !” : le @canardenchaine a commis une grossière erreur dans un texte consacré au @conseildeo…
-241,1.514997022872453e+18,2022-04-15 16:00:12+00:00,['1514997022872453124'],RT @ThomasDerais: La rédaction de @larep_fr est en grève aujourd'hui pour réclamer de meilleures revalorisations générales des salaires. Un…
-242,1.514996719343354e+18,2022-04-15 15:58:59+00:00,['1514996719343353862'],"RT @guibeline: La quasi totalité des salariés de @larep_fr au planning ce jour sont en grève. 1% de hausse de salaire, c'est insuffisant. ""…"
-243,1.5149965405610476e+18,2022-04-15 15:58:17+00:00,['1514996540561047552'],"RT @FGueroult: ""L'information a un coût"", rappellent les journalistes de @larep_fr"
-244,1.5149961085603226e+18,2022-04-15 15:56:34+00:00,['1514996108560322568'],RT @libe: Marine Le Pen et les médias sont dans un bateau... Par @Cocoboer ✏️ https://t.co/shTBFaBqjC
-245,1.514995791315841e+18,2022-04-15 15:55:18+00:00,['1514995791315841026'],RT @SNJ_FTV: Quand la direction impose une interview de 10 minutes de #MarineLePen à tout le réseau #France3 pour le 19/20 de ce soir. Et d…
-246,1.514994754219565e+18,2022-04-15 15:51:11+00:00,['1514994754219565056'],"RT @GThivat: A La République du Centre, titre du groupe Centre France, on veut une augmentation salariale digne de ce nom !
-Tout mon soutie…"
-247,1.5149946219480842e+18,2022-04-15 15:50:39+00:00,['1514994621948084231'],"RT @A2LJ: La quasi-totalité des salariés de @larep_fr sont en grève. Dans un contexte d’inflation galopante, la direction accorde seulement…"
-248,1.514994547964719e+18,2022-04-15 15:50:22+00:00,['1514994547964719116'],RT @MaudeML: Pas à la une de @larep_fr ce vendredi 15 avril : la quasi-totalité des salariés au planning sont en grève pour demander une re…
-249,1.5149943110913393e+18,2022-04-15 15:49:25+00:00,['1514994311091339267'],"RT @FBOrleans: Salaires et conditions de travail : une grève très suivie ce vendredi à la République du Centre
-➡️ https://t.co/QfBP5yRN3s h…"
-250,1.514874627146797e+18,2022-04-15 07:53:50+00:00,['1514874627146797057'],"RT @Lesjoursfr: Une interview de Marine Le Pen pour la première fois, une chronique de Philippe Labro, une autre proposée à Agnès Verdier-M…"
-251,1.51486856987981e+18,2022-04-15 07:29:46+00:00,['1514868569879810062'],RT @IFJGlobal: #Algérie 🇩🇿: Dernier numéro du quotidien algérien Liberté. L'indépendance des médias est encore une fois durement mise à l'é…
-252,1.5148682170633912e+18,2022-04-15 07:28:22+00:00,['1514868217063391241'],RT @paul_denton: Votre édition de 20 Minutes ne paraîtra pas aujourd'hui. Les salariés étaient en grève ce jeudi pour protester contre le p…
-253,1.514868140043391e+18,2022-04-15 07:28:04+00:00,['1514868140043390977'],RT @jpmarthoz: L'exclusion d'Anne-Sophie Lapix (par Marine Le Pen et Emmanuel Macron) du débat du second tour est un hommage à son indépend…
-254,1.514867750291886e+18,2022-04-15 07:26:31+00:00,['1514867750291886086'],"RT @Technologia_Gr: #NosDroit
-
-L’hybridation du travail lié à la crise sanitaire pose la question du cadre légal de la supervision des télé…"
-255,1.5148672787723756e+18,2022-04-15 07:24:38+00:00,['1514867278772375558'],RT @chdauriac: Audiovisuel public : une bonne lecture pour #Macron qui veut supprimer la redevance en France et #LePen qui veut le privatis…
-256,1.5146987224747008e+18,2022-04-14 20:14:51+00:00,['1514698722474700810'],RT @libe: Les journalistes au contact de Marine Le Pen sont régulièrement l’objet de pressions. La candidate a pour habitude de nommer les…
-257,1.514667604467671e+18,2022-04-14 18:11:12+00:00,['1514667604467671046'],RT @SNJ_national: SOUTIEN aux salariés de @20Minutes en grève ce jeudi ✊✊✊
-258,1.514667479452291e+18,2022-04-14 18:10:42+00:00,['1514667479452291074'],RT @sabkhl: Décidément la presse est en pleine forme
-259,1.514661697646211e+18,2022-04-14 17:47:44+00:00,['1514661697646211085'],"RT @SNJ_national: TOUS en grève ce vendredi 15 avril à la La République du Centre @larep_fr  ✊✊✊ 
-Au terme de l’AG de ce jour, les syndicat…"
-260,1.514661592180441e+18,2022-04-14 17:47:19+00:00,['1514661592180441093'],SOUTIEN aux salariés de @20Minutes en grève ce jeudi ✊✊✊ https://t.co/CVxx3KVL4D
-261,1.5146609328106496e+18,2022-04-14 17:44:42+00:00,['1514660932810649616'],"RT @SNJ_014269: 📢✊
-#greve #journalistes
-Comme @SNJ_national, @SNJ_014269 soutient les consoeurs et confrères de @larep_fr en grève pour leu…"
-262,1.5146608704959035e+18,2022-04-14 17:44:27+00:00,['1514660870495903744'],"RT @alexcharrier: Les salariés @larep_fr, à qui on demande toujours plus avec moins de personnel, attendaient depuis 2013 une augmentation…"
-263,1.5146301764365394e+18,2022-04-14 15:42:29+00:00,['1514630176436539392'],"TOUS en grève ce vendredi 15 avril à la La République du Centre @larep_fr  ✊✊✊ 
+https://t.co/ea8rpgMefa https://t.co/ANqENG4zWg https://t.co/CDHhZ2hiW8",contre l'extrme droite manifestation partout france samedi avril,True
+1.5150257132036588e+18,2022-04-15 17:54:12+00:00,['1515025713203658754'],"Le @SNJ_national appelle à la mobilisation, avec plusieurs associations et mouvements, ce samedi, contre l'extrême droite et ses idées.
+https://t.co/9gfw4NdFU7",appelle mobilisation avec plusieurs association mouvements samedi contre l'extrme droite ides,True
+1.514661592180441e+18,2022-04-14 17:47:19+00:00,['1514661592180441093'],SOUTIEN aux salariés de @20Minutes en grève ce jeudi ✊✊✊ https://t.co/CVxx3KVL4D,soutien aux salaris grve jeudi,True
+1.5146301764365394e+18,2022-04-14 15:42:29+00:00,['1514630176436539392'],"TOUS en grève ce vendredi 15 avril à la La République du Centre @larep_fr  ✊✊✊ 
 Au terme de l’AG de ce jour, les syndicats CFDT et SNJ appellent à la grève pour obtenir une revalorisation salariale bien supérieure aux 1% lâchés par Centre France 💰 💰 
-https://t.co/OhLuV7Ax1V https://t.co/buq2a5TF7s"
-264,1.514598115885699e+18,2022-04-14 13:35:05+00:00,['1514598115885699073'],"RT @acrimed_info: Le climat social est délétère dans de nombreuses rédactions, où les mobilisations des salariés se multiplient. De France…"
-265,1.5145976192297656e+18,2022-04-14 13:33:06+00:00,['1514597619229765634'],RT @conseildeonto: [Revue de presse ] «Il n’y a pas de journalistes chez “Quotidien”»: Marine Le Pen s’en prend à Yann Barthès et son équip…
-266,1.5145940522887455e+18,2022-04-14 13:18:56+00:00,['1514594052288745472'],"RT @CollectifAvanti: Nous évoquerons la menace #Bolloré lors du débat ""JOURNALISME : L'ENQUÊTE EN DANGER"" ce vendredi 15 Avril, 19h30, café…"
-267,1.5145074428597494e+18,2022-04-14 07:34:47+00:00,['1514507442859749381'],"RT @mlalerte: Le 8 avril, le @Conseil_Etat a décidé d’ouvrir plus largement l’accès aux documents réclamé par @lemondefr dans l’affaire des…"
-268,1.514507395438887e+18,2022-04-14 07:34:35+00:00,['1514507395438886914'],RT @presidentftv: Mais …On accepte les choix des candidats ! La blague ! https://t.co/aiLkmRXggk
-269,1.5145070372370268e+18,2022-04-14 07:33:10+00:00,['1514507037237026823'],RT @chdauriac: OPA de Vivendi sur Lagardère: l’opération édition entre Hachette et Editis ⁦@SNJ_national⁩  https://t.co/h9958kYP6I
-270,1.5143590796234056e+18,2022-04-13 21:45:14+00:00,['1514359079623405583'],RT @SNJ_national: 🙄🤢😠
-271,1.5143018836403937e+18,2022-04-13 17:57:58+00:00,['1514301883640393730'],"RT @mauricedecroix: Le groupe EBRA , un nouveau Netflix de l'information locale? Les journalistes du @Le_Progres  @lestrepublicain @lerepu…"
-272,1.5142742931899064e+18,2022-04-13 16:08:20+00:00,['1514274293189906436'],RT @SNJ_FTV: La position du SNJ face au refus de #Lepen et #Macron d'être interrogés par Anne-Sophie #Lapix au débat de l'entre-deux-tours.…
-273,1.5142740123140915e+18,2022-04-13 16:07:13+00:00,['1514274012314091538'],"RT @paul_denton: La direction du groupe Ebra (L'Est Républicain, Le Bien public etc.) opère un virage éditorial qui se résume à deux mots:…"
-274,1.5142734556545516e+18,2022-04-13 16:05:00+00:00,['1514273455654551555'],"RT @SNJ_014269: ✊📣💲
-Des moyens pour @Le_Progres 
-https://t.co/sS1cVlLGj3
-Avec @SNJ_national"
-275,1.5142691517239337e+18,2022-04-13 15:47:54+00:00,['1514269151723933697'],RT @SNJ_FTV: Qui sont ces #candidats à la fonction suprême de cette 5ème république pour bafouer ainsi des principes fondateurs comme la li…
-276,1.5142691431130317e+18,2022-04-13 15:47:52+00:00,['1514269143113031690'],"RT @AudeDassonville: ""Ce n'est pas aux politiques de choisir les journalistes qui les interrogent."""
-277,1.5142282461659955e+18,2022-04-13 13:05:21+00:00,['1514228246165995523'],"RT @SNJ_national: ""Nos lecteurs attendent des informations de qualité sur le fond et la forme. Les journalistes attendent des moyens pour e…"
-278,1.5142282031828664e+18,2022-04-13 13:05:11+00:00,['1514228203182866437'],"RT @edwyplenel: À Castres, au pays de Jean Jaurès, ce mercredi le Cinema Le Lido organise deux projections débats de #MediaCrash, le film d…"
-279,1.5142281661093724e+18,2022-04-13 13:05:02+00:00,['1514228166109372421'],"RT @LeMediaTV: 🔴 LE MÉDIA RISQUE DE MOURIR... VOICI POURQUOI.
-
-L'heure est grave. Aujourd'hui, vous êtes un peu plus de 6400 personnes à no…"
-280,1.5142277546481009e+18,2022-04-13 13:03:24+00:00,['1514227754648100873'],RT @SdjFrance2: La @SdjFrance2 condamne toutes les pressions exercées par les candidats portant atteinte à la liberté de la presse. Soirée…
-281,1.5142190596587725e+18,2022-04-13 12:28:51+00:00,['1514219059658772484'],"""Nos lecteurs attendent des informations de qualité sur le fond et la forme. Les journalistes attendent des moyens pour exercer correctement leur métier"" écrivent les élus @SNJ_national à Philippe Carli, patron du groupe @EBRApresse ⬇️ https://t.co/TSSSHK13Ml https://t.co/e9aaiviUgk"
-282,1.5141851541090017e+18,2022-04-13 10:14:07+00:00,['1514185154109001733'],"Après les mouvements de grève au @lerepu @lestrepublicain et au @Le_Progres la semaine dernière, Philippe Carli, le patron du groupe @EBRApresse est à Lyon aujourd'hui. Les élus @SNJ_national lui souhaitent la bienvenue avec cette lettre ouverte 
+https://t.co/OhLuV7Ax1V https://t.co/buq2a5TF7s",tous grve vendredi avril rpublique centre terme lag jour syndicats cfdt snj appellent grve pour obtenir une revalorisation salariale bien suprieure aux lchs par centre france,True
+1.5142190596587725e+18,2022-04-13 12:28:51+00:00,['1514219059658772484'],"""Nos lecteurs attendent des informations de qualité sur le fond et la forme. Les journalistes attendent des moyens pour exercer correctement leur métier"" écrivent les élus @SNJ_national à Philippe Carli, patron du groupe @EBRApresse ⬇️ https://t.co/TSSSHK13Ml https://t.co/e9aaiviUgk",lecteurs attendent information qualit sur fond forme journalistes attendent moyens pour exercer correctement leur mtier crivent philippe carli patron groupe,True
+1.5141851541090017e+18,2022-04-13 10:14:07+00:00,['1514185154109001733'],"Après les mouvements de grève au @lerepu @lestrepublicain et au @Le_Progres la semaine dernière, Philippe Carli, le patron du groupe @EBRApresse est à Lyon aujourd'hui. Les élus @SNJ_national lui souhaitent la bienvenue avec cette lettre ouverte 
 🌺🌻🌿🌹
-https://t.co/0AZ6T6H5Sw"
-283,1.514182572904956e+18,2022-04-13 10:03:52+00:00,['1514182572904955906'],RT @chdauriac: Marine Le Pen fait pression sur France 2 pour choisir les journalistes qui l’interrogent ⁦@SNJ_national⁩ – via @lemondefr  h…
-284,1.5141824935320005e+18,2022-04-13 10:03:33+00:00,['1514182493532000258'],RT @asso_jetsdencre: Prêts pour le festival survitaminé de la presse jeune ? Expresso sera de retour le 25 et 26 juin et son défi contre-la…
-285,1.513950369847591e+18,2022-04-12 18:41:10+00:00,['1513950369847590913'],"RT @odalage: Si les deux prétendants à la présidence ont peur d’Anne-Sophie Lapix, ça laisse songeur. On pense aussi à la colonne vertébral…"
-286,1.5139503581832315e+18,2022-04-12 18:41:07+00:00,['1513950358183231500'],RT @NassiraELM: C'est certes un hommage à la pugnacité des interviews d'Anne-Sophie Lapix mais quelle défaite démocratique de laisser deux…
-287,1.5139263392204104e+18,2022-04-12 17:05:41+00:00,['1513926339220410374'],"RT @Tristan_Brtloot: Cette réponse, donnée mardi en conférence de presse, illustre parfaitement les pressions subies par les journalistes a…"
-288,1.5139262679591854e+18,2022-04-12 17:05:24+00:00,['1513926267959185409'],🙄🤢😠 https://t.co/FBiT56tbVV
-289,1.5138082330429563e+18,2022-04-12 09:16:22+00:00,['1513808233042956290'],RT @chdauriac: La journaliste russe qui avait brandi une pancarte antiguerre à l’antenne du JT devient correspondante pour « die Welt » le…
-290,1.513808182098944e+18,2022-04-12 09:16:10+00:00,['1513808182098944002'],"RT @PlumesdP: 🤔@MagazineCapital !
-En 2022, vous classez @InfoproDigital parmi les meilleurs employeurs en High Tech #LOL
-Saviez-vous qu’il…"
-291,1.513806557858906e+18,2022-04-12 09:09:43+00:00,['1513806557858906115'],"RT @PlumesdP: Plusieurs centaines de salariés d'@InfoproDigital (groupes @Territorial, @Moniteur, @GISI, @ETAI...) ont décidé de débrayer d…"
-292,1.513806523872469e+18,2022-04-12 09:09:35+00:00,['1513806523872468998'],"RT @clubdelapresse: Mutation des médias, précarité, perte de sens, burn-out : pourquoi les #journalistes quittent-ils leur métier? RDV jeud…"
-293,1.5137772061069312e+18,2022-04-12 07:13:05+00:00,['1513777206106931202'],"RT @L_heguiaphal: Suite à la publication de cet article, la préfecture a appelé ⁦⁦⁦@lobs⁩ pour s’excuser et dire qu’il n’y aurait pas de ve…"
-294,1.5137771441403863e+18,2022-04-12 07:12:50+00:00,['1513777144140386309'],"RT @AJDPresse: Le bureau de l’AJD tient à exprimer sa solidarité envers Michel Cabirol,l’un de ses membres, poursuivi en diffamation par un…"
-295,1.5136064208470753e+18,2022-04-11 19:54:26+00:00,['1513606420847075330'],"RT @N_Hervieu: Comportement policier parfaitement illégal. 
-
-Le @Conseil_Etat a jugé que « la présence de la presse et des journalistes lor…"
-296,1.5135595055435162e+18,2022-04-11 16:48:01+00:00,['1513559505543516163'],RT @conseildeonto: [Revue de presse] #Sénégal : Accès à l’information pour les journalistes : Quand le verrouillage des sources freine l’in…
-297,1.513559359812522e+18,2022-04-11 16:47:26+00:00,['1513559359812521985'],"RT @IFJGlobal: Not an IFJ International Press Card holder yet? Check out our web site and keep sending us good vibes! ✊
-👉https://t.co/mOdZl…"
-298,1.5135575293763092e+18,2022-04-11 16:40:10+00:00,['1513557529376309260'],Et ça continue dans le n'importe quoi @GDarmanin ! 😬 https://t.co/Vo5BLE968b
-299,1.5134190614426296e+18,2022-04-11 07:29:56+00:00,['1513419061442629632'],RT @conseildeonto: Santé publique : la liberté d’informer progresse face au secret des affaires  https://t.co/5kW0N8yztI
-300,1.513417808826278e+18,2022-04-11 07:24:58+00:00,['1513417808826277891'],"RT @mlalerte: 🔔 J-2 | L’Assemblée générale de la Maison des Lanceurs d’Alerte, c’est pour bientôt ! Il  est encore temps de vous inscrire p…"
-301,1.51308996915746e+18,2022-04-10 09:42:15+00:00,['1513089969157459969'],"RT @Atelier_medias: Ignace Sossou, journaliste béninois: «Le journalisme est un engagement que rien ne doit arrêter»
-Écoutez en #podcast no…"
-302,1.513085619362308e+18,2022-04-10 09:24:58+00:00,['1513085619362308097'],"RT @chdauriac: Mali : la famille d'Olivier Dubois, journaliste retenu en otage depuis un an, déplore ""le silence le plus total"" sur sa situ…"
-303,1.513085496494334e+18,2022-04-10 09:24:28+00:00,['1513085496494333957'],"RT @IFJGlobal: #Algérie 🇩🇿: La fermeture du journal Liberté est un grave coup porté au pluralisme des médias algériens @IFJ_AR 
-https://t.c…"
-304,1.513084390921982e+18,2022-04-10 09:20:05+00:00,['1513084390921981957'],"RT @Rodolphp: Il n'y a pas que des mauvaises nouvelles... #presse #medias #journalisme 
-https://t.co/uZmtJj05hc"
-305,1.5130839030992486e+18,2022-04-10 09:18:08+00:00,['1513083903099248650'],"RT @libe: 🌎 Le climat n’a occupé que 3,6% du temps médiatique ces deux derniers mois https://t.co/FROFP023D2"
-306,1.5130826719325266e+18,2022-04-10 09:13:15+00:00,['1513082671932526595'],RT @chdauriac: #RadioLondres: pourquoi les médias belges peuvent diffuser les résultats de la présidentielle avant 20h | Présidentielle 202…
-307,1.513081837769433e+18,2022-04-10 09:09:56+00:00,['1513081837769433091'],"RT @sderoyer: Au « Journal du dimanche », l’inquiétude d’une « bollorisation » monte dans la rédaction ⁦@sandrinecassini⁩ ⁦@lemondefr⁩  htt…"
-308,1.513081814616789e+18,2022-04-10 09:09:50+00:00,['1513081814616789000'],"RT @mauricedecroix: [#Presse] Le quotidien @lavoixdunord offre à chaque personne de moins de 25 ans votant pour la première fois,  un abonn…"
-309,1.5130806786315878e+18,2022-04-10 09:05:20+00:00,['1513080678631587842'],"Depuis trois semaines,les rédactions du groupe @EBRApresse sont mobilisées pour leurs effectifs, leurs conditions de travail et les salaires ✊ 
-Après @lerepu @lestrepublicain et @Le_Progres à qui le tour ? https://t.co/wXEhmRERB3"
-310,1.513079304971772e+18,2022-04-10 08:59:52+00:00,['1513079304971771904'],"RT @Je_Morin: Grève «historique» au @Le_Progres  pour dénoncer les conditions de travail
- https://t.co/WWgly3gIhJ"
-311,1.5130788228869448e+18,2022-04-10 08:57:57+00:00,['1513078822886944770'],"RT @franceinfoplus: 🇲🇱 La famille d'Olivier Dubois, seul otage français dans le monde, déplore ""le silence le plus total"" depuis son enlève…"
-312,1.512688017034695e+18,2022-04-09 07:05:02+00:00,['1512688017034694657'],RT @SNJ_national: Le travail des journalistes professionnels est aussi menacé par l'attitude des patrons de presse @Alliance_Presse qui dét…
-313,1.512687538615554e+18,2022-04-09 07:03:08+00:00,['1512687538615554051'],https://t.co/jr2FOEd5Ky
-314,1.5126869651493765e+18,2022-04-09 07:00:51+00:00,['1512686965149376514'],https://t.co/pPZDZRNqLh
-315,1.512685345422422e+18,2022-04-09 06:54:25+00:00,['1512685345422422016'],RT @chdauriac: Santé publique : la liberté d’informer a progressé hier au Conseil d’Etat face au secret des affaires – via @lemondefr ⁦@SNJ…
-316,1.5125121583614405e+18,2022-04-08 19:26:14+00:00,['1512512158361440261'],RT @agnesbriancon: 👏👏
-317,1.512511991293829e+18,2022-04-08 19:25:34+00:00,['1512511991293829124'],Le travail des journalistes professionnels est aussi menacé par l'attitude des patrons de presse @Alliance_Presse qui détruisent des emplois et fragilisent les rédactions tout en percevant des aides publiques 🤫 https://t.co/SiWkFGK6Mv https://t.co/r1XDduhyFd
-318,1.5124718038804234e+18,2022-04-08 16:45:53+00:00,['1512471803880423431'],"RT @Rodolphp: Le feuilleton se relance... #presse #medias #journalisme #LaProvence #PQR #XavierNiel #RodolpheSaade @laprovence @Xavier75 
-h…"
-319,1.512471174583931e+18,2022-04-08 16:43:23+00:00,['1512471174583930881'],RT @courrierinter: 🇹🇷  Le meurtre du journaliste et opposant saoudien en 2018 à Istanbul avait déclenché une vague de condamnations interna…
-320,1.5124696520724562e+18,2022-04-08 16:37:20+00:00,['1512469652072456204'],"RT @GThivat: L’augmentation au ras des pâquerettes, à l’issue des NAO à La Montagne, après 8 ans de gel des salaires, ça ne se passe pas !…"
-321,1.5124516181927365e+18,2022-04-08 15:25:40+00:00,['1512451618192736261'],"RT @Je_Morin: A NOS LECTEURS
-Ce jeudi 7 avril, une majorité des journalistes de la rédaction du @Le_Progres à Lyon, dans le Rhône, dans l’A…"
-322,1.5124515181921403e+18,2022-04-08 15:25:16+00:00,['1512451518192140288'],RT @FreeOlivierDub1: Un an. Une échéance douloureuse mais qui n’éteint pas notre espoir ardent d’un retour prochain d’Olivier parmi les sie…
-323,1.5124462693436457e+18,2022-04-08 15:04:25+00:00,['1512446269343645696'],"RT @MustafaAminzada: Do not forget #Afghan #journalists in danger, many journalists outside #Afghanistan are still waiting for their depart…"
-324,1.5123244725771428e+18,2022-04-08 07:00:26+00:00,['1512324472577142784'],RT @Je_Morin: Grève « historique » au journal ⁦@Le_Progres⁩ pour dénoncer les conditions de travail à l’appel du ⁦@SNJ_014269⁩ ⁦@SNJ_nation…
-325,1.512324194767364e+18,2022-04-08 06:59:20+00:00,['1512324194767364096'],"RT @O_DuboisFamille: @chdauriac @SNJ_national @IFJGlobal Notre pétition est en ligne ici, c'est une vraie action de mobilisation. 1 signatu…"
-326,1.5123240984661975e+18,2022-04-08 06:58:57+00:00,['1512324098466197510'],"RT @franceinfo: Mali : la famille d'Olivier Dubois, journaliste retenu en otage depuis un an, déplore ""le silence le plus total"" sur sa sit…"
-327,1.512323870535127e+18,2022-04-08 06:58:03+00:00,['1512323870535127040'],"RT @SJPLibe: [Tribune] Un an après l’enlèvement au Mali d’Olivier Dubois, 42 sociétés de journalistes, dont celle de @libe, et @RSF_inter a…"
-328,1.5123238390569124e+18,2022-04-08 06:57:55+00:00,['1512323839056912384'],"RT @FreeOlivierDub1: Olivier Dubois est un marcheur, un voyageur. Faisons vivre ses valeurs et sa personnalité en marchant sur une boucle d…"
-329,1.5123237557118116e+18,2022-04-08 06:57:35+00:00,['1512323755711811585'],"RT @khaleddrareni: Porte-parole de l’Union européenne : 
-«La disparition annoncée du journal #Liberté risque de limiter davantage la libert…"
-330,1.5121139698545623e+18,2022-04-07 17:03:58+00:00,['1512113969854562319'],"RT @SNJ_national: Thread de grève à l'intention des lecteurs du @Le_Progres 
-A dérouler ⬇️"
-331,1.5120933796723016e+18,2022-04-07 15:42:09+00:00,['1512093379672301569'],"RT @libe: Olivier Dubois a été enlevé il y a un an. Plus de 40 sociétés de journalistes, dont celle de @Libe, et @RSF_inter appellent le ou…"
-332,1.5120933517760348e+18,2022-04-07 15:42:03+00:00,['1512093351776034816'],"RT @afpfr: Seul otage français recensé dans le monde, le journaliste Olivier Dubois, collaborateur du quotidien Libération, est retenu par…"
-333,1.512091477089915e+18,2022-04-07 15:34:36+00:00,['1512091477089914882'],"RT @Je_Morin: Cette mobilisation sans précédent (86,5 % de journalistes grévistes) au @Le_Progres ce jeudi ne doit pas rester sans réponse…"
-334,1.512091365731152e+18,2022-04-07 15:34:09+00:00,['1512091365731151874'],"Thread de grève à l'intention des lecteurs du @Le_Progres 
-A dérouler ⬇️ https://t.co/zgDadi3vr1"
-335,1.512049489875542e+18,2022-04-07 12:47:45+00:00,['1512049489875542023'],"RT @vinclanier: Enorme mobilisation des #journalistes au @Le_Progres pour les effectifs, les conditions de travail et les salaires ! Merci…"
-336,1.5120492825511035e+18,2022-04-07 12:46:56+00:00,['1512049282551103488'],"Concentration des médias : à quand une réforme ambitieuse des aides à la presse ? 
+https://t.co/0AZ6T6H5Sw",apr mouvements grve semaine dernire philippe carli patron groupe est lyon aujourd'hui lui souhaitent bienvenue avec cette lettre ouverte,True
+1.5139262679591854e+18,2022-04-12 17:05:24+00:00,['1513926267959185409'],🙄🤢😠 https://t.co/FBiT56tbVV,,
+1.5135575293763092e+18,2022-04-11 16:40:10+00:00,['1513557529376309260'],Et ça continue dans le n'importe quoi @GDarmanin ! 😬 https://t.co/Vo5BLE968b,continue dans n'importe quoi,True
+1.5130806786315878e+18,2022-04-10 09:05:20+00:00,['1513080678631587842'],"Depuis trois semaines,les rédactions du groupe @EBRApresse sont mobilisées pour leurs effectifs, leurs conditions de travail et les salaires ✊ 
+Après @lerepu @lestrepublicain et @Le_Progres à qui le tour ? https://t.co/wXEhmRERB3",depuis trois semainesles rdactions groupe sont mobilises pour leurs effectifs leurs condition travail salaires apr qui tour,True
+1.512687538615554e+18,2022-04-09 07:03:08+00:00,['1512687538615554051'],https://t.co/jr2FOEd5Ky,,
+1.5126869651493765e+18,2022-04-09 07:00:51+00:00,['1512686965149376514'],https://t.co/pPZDZRNqLh,,
+1.512511991293829e+18,2022-04-08 19:25:34+00:00,['1512511991293829124'],Le travail des journalistes professionnels est aussi menacé par l'attitude des patrons de presse @Alliance_Presse qui détruisent des emplois et fragilisent les rédactions tout en percevant des aides publiques 🤫 https://t.co/SiWkFGK6Mv https://t.co/r1XDduhyFd,travail journalistes professionnels est aussi menac par l'attitude patron presse qui dtruisent emplois fragilisent rdactions tout percevant aide publiques,True
+1.512091365731152e+18,2022-04-07 15:34:09+00:00,['1512091365731151874'],"Thread de grève à l'intention des lecteurs du @Le_Progres 
+A dérouler ⬇️ https://t.co/zgDadi3vr1",thread grve l'intention lecteurs drouler,True
+1.5120492825511035e+18,2022-04-07 12:46:56+00:00,['1512049282551103488'],"Concentration des médias : à quand une réforme ambitieuse des aides à la presse ? 
 COMMUNIQUÉ @SNJ_national
-⬇️ https://t.co/SOqdcRcNfd https://t.co/WEodz84dGJ"
-337,1.5120454780027576e+18,2022-04-07 12:31:49+00:00,['1512045478002757639'],RT @vinclanier: 90% de grévistes à la rédaction @Le_Progres 💪💪💪 dans quatre départements sur cinq mais la direction va bricoler un journal…
-338,1.5120452420479468e+18,2022-04-07 12:30:52+00:00,['1512045242047946761'],"RT @Je_Morin: Mobilisation historique au @Le_Progres à l’appel du @SNJ_national. 100% de grévistes dans de nombreux services !
-
-🛑 Stop à la…"
-339,1.5120412511803228e+18,2022-04-07 12:15:01+00:00,['1512041251180322822'],"RT @vinclanier: Parce que nos journées de travail ne doivent plus ressembler à ça ⬇️ 
-#jesuisengreve
-@Le_Progres https://t.co/0OoxeozgD5"
-340,1.512041217714008e+18,2022-04-07 12:14:53+00:00,['1512041217714008070'],"RT @SNJ_014269: Mobilisation historique des journalistes du Progrès #engrève pour leurs conditions de travail, des postes, des hausses de s…"
-341,1.5120401506410906e+18,2022-04-07 12:10:38+00:00,['1512040150641090561'],RT @SNJlanguedocR: @SNJ_national @lerepu @lestrepublicain @EBRApresse @Le_Progres Bravo. Tout notre soutien. On se retrouve tous dans votre…
-342,1.5120384524973015e+18,2022-04-07 12:03:54+00:00,['1512038452497301510'],RT @geraldinetaboni: Soutien à nos consoeurs et confrères du Progrès !
-343,1.5119738340768645e+18,2022-04-07 07:47:07+00:00,['1511973834076864513'],"RT @SNJ_014269: @leprogreslyon Cet article est publié dans des conditions inhabituelles, en raison d’un mouvement de grève des journalistes…"
-344,1.5119735040355328e+18,2022-04-07 07:45:49+00:00,['1511973504035532800'],RT @EliseColin13: Le site du journal @Le_Progres aujourd'hui et nos éditions papier de demain ne présenteront pas leur physionomie habituel…
-345,1.5119732162810511e+18,2022-04-07 07:44:40+00:00,['1511973216281051137'],"RT @VRipoche: Après l’Est Republicain, le républicain lorrain, la mobilisation des rédactions s’étend maintenant au Progrès."
-346,1.511970831911506e+18,2022-04-07 07:35:12+00:00,['1511970831911505923'],"RT @lorisguemart: Ça tangue pas mal dans la #PQR, ici avec les journaux du groupe @EBRApresse, propriété de la banque @CreditMutuel."
-347,1.5119706450384896e+18,2022-04-07 07:34:27+00:00,['1511970645038489606'],RT @hugofrances_bfm: Soutien aux consœurs et confrères du @Le_Progres qui font tous les jours un boulot de dingue ✊
-348,1.511968575032021e+18,2022-04-07 07:26:13+00:00,['1511968575032020992'],RT @annelaurewynar: Le site du journal @Le_Progres aujourd'hui et nos éditions papier de demain ne présenteront pas leur physionomie habitu…
-349,1.5119685518040187e+18,2022-04-07 07:26:08+00:00,['1511968551804018688'],"RT @SNJ_national: Après @lerepu et @lestrepublicain la semaine dernière, la grève des rédactions s'étend au sein du groupe @EBRApresse 💥💥…"
-350,1.511968452059222e+18,2022-04-07 07:25:44+00:00,['1511968452059222022'],"RT @leiladeco: Multiplication des tâches, charge de travail inappropriée, effectifs en baisse, organisation du travail défaillante, outils…"
-351,1.5119634648262984e+18,2022-04-07 07:05:55+00:00,['1511963464826298370'],"Après @lerepu et @lestrepublicain la semaine dernière, la grève des rédactions s'étend au sein du groupe @EBRApresse 💥💥 
-Aujourd'hui 7 avril c'est au @Le_Progres que ça se passe avec un taux de grévistes qui s'annonce ÉNORME ! ✊ https://t.co/wkt7lqHNO5"
-352,1.5119604598885048e+18,2022-04-07 06:53:59+00:00,['1511960459888504836'],RT @agnesbriancon: ✊✊
-353,1.5119603163888108e+18,2022-04-07 06:53:24+00:00,['1511960316388810756'],RT @Je_Morin: Le site du journal @Le_Progres aujourd'hui et nos éditions papier de demain ne présenteront pas leur physionomie habituelle e…
-354,1.511942213734908e+18,2022-04-07 05:41:28+00:00,['1511942213734907905'],RT @thierry_c: Soutien aux consœurs et confrères de la presse écrite.
-355,1.5119420948263977e+18,2022-04-07 05:41:00+00:00,['1511942094826397696'],SOUTIEN aux camarades de La Montagne ! ✊ https://t.co/fruFhkNsNL
-356,1.51194179085679e+18,2022-04-07 05:39:48+00:00,['1511941790856790017'],RT @chdauriac: Présidentielle 2022 : fièvre préélectorale à France 2 après la déprogrammation surprise de « Complément d’enquête » ⁦@sdjfra…
-357,1.5117699798631137e+18,2022-04-06 18:17:05+00:00,['1511769979863113739'],👏👏👏 https://t.co/iSKrKY8K7G
-358,1.5117697443906929e+18,2022-04-06 18:16:09+00:00,['1511769744390692872'],"RT @vinclanier: Les carottes sont cuites, mes lapins, je répète, les carottes sont cuites 
-🐇🥕🥕🐰🥕🥕 
-#onnestpasdeslapins 
-#engrevedemain 
-#Le…"
-359,1.511730829336187e+18,2022-04-06 15:41:30+00:00,['1511730829336186885'],RT @MyriamFigureau: De tout cœur avec nos collègues du @Le_Progres du @ledauphine et tutti quanti! @SNJ_national @SNJ_FTV
-360,1.5116624814076314e+18,2022-04-06 11:09:55+00:00,['1511662481407631369'],"RT @vinclanier: Les sangliers sont dans les maïs, je répète, les sangliers sont dans les maïs 🐗🐗🐗"
-361,1.511634098355323e+18,2022-04-06 09:17:08+00:00,['1511634098355322886'],"RT @Francois_Jobard: ""mauvais temps"", ""dégradation pluvieuse""...
-Ne pas savoir se réjouir de la pluie est un des symptômes les plus frappan…"
-362,1.5116338843829043e+18,2022-04-06 09:16:17+00:00,['1511633884382904320'],"RT @SomersetBean: Europe Free Julian Assange Rally &amp; Concert! SAT 23rd APRIL—2pm—Place De La Monnaie—Brussels
-
-With @StellaMoris1 @jeremyco…"
-363,1.5116334119701504e+18,2022-04-06 09:14:24+00:00,['1511633411970150401'],"RT @INA_RevueMedias: Parfois plus que des publications traditionnelles, les « posts » des reporters suscitent l’émotion, touchent un autre…"
-364,1.5116206581695283e+18,2022-04-06 08:23:44+00:00,['1511620658169528321'],🤔 https://t.co/3A60aQxXc0
-365,1.511619693899096e+18,2022-04-06 08:19:54+00:00,['1511619693899096065'],"RT @SNJ_national: Effectifs, conditions de travail, salaires, un vent de révolte souffle sur les rédactions du groupe @Ebrapresse 💥💥💥 
- Apr…"
-366,1.5116076047615713e+18,2022-04-06 07:31:51+00:00,['1511607604761571330'],RT @SouffrTravail: Guide des violences sexistes et sexuelles au travail - Souffrance et Travail https://t.co/e4DpPAHjYx
-367,1.5114481969119724e+18,2022-04-05 20:58:26+00:00,['1511448196911972358'],"Effectifs, conditions de travail, salaires, un vent de révolte souffle sur les rédactions du groupe @Ebrapresse 💥💥💥 
+⬇️ https://t.co/SOqdcRcNfd https://t.co/WEodz84dGJ",concentration mdias quand une rforme ambitieuse aide presse communiqu,True
+1.5119634648262984e+18,2022-04-07 07:05:55+00:00,['1511963464826298370'],"Après @lerepu et @lestrepublicain la semaine dernière, la grève des rédactions s'étend au sein du groupe @EBRApresse 💥💥 
+Aujourd'hui 7 avril c'est au @Le_Progres que ça se passe avec un taux de grévistes qui s'annonce ÉNORME ! ✊ https://t.co/wkt7lqHNO5",apr semaine dernire grve rdactions s'tend sein groupe aujourd'hui avril c'est que passe avec taux grvistes qui s'annonce norme,True
+1.5119420948263977e+18,2022-04-07 05:41:00+00:00,['1511942094826397696'],SOUTIEN aux camarades de La Montagne ! ✊ https://t.co/fruFhkNsNL,soutien aux camarades montagne,True
+1.5117699798631137e+18,2022-04-06 18:17:05+00:00,['1511769979863113739'],👏👏👏 https://t.co/iSKrKY8K7G,,
+1.5116206581695283e+18,2022-04-06 08:23:44+00:00,['1511620658169528321'],🤔 https://t.co/3A60aQxXc0,,
+1.5114481969119724e+18,2022-04-05 20:58:26+00:00,['1511448196911972358'],"Effectifs, conditions de travail, salaires, un vent de révolte souffle sur les rédactions du groupe @Ebrapresse 💥💥💥 
  Après @lerepu et @lestrepublicain un nouveau mouvement de grève est annoncé cette fois au @leprogreslyon jeudi 7 avril, à l'appel du @SNJ_national 
-@SNJ_014269 https://t.co/uWZS1tBKhO"
-368,1.511445047618769e+18,2022-04-05 20:45:55+00:00,['1511445047618768903'],"RT @INA_RevueMedias: On a mesuré l'effet de la guerre en Ukraine sur la médiatisation des candidats à la présidentielle.
-
-👇
-https://t.co/LK…"
-369,1.5112617536105472e+18,2022-04-05 08:37:34+00:00,['1511261753610547201'],"RT @AJE_France: Amis et collègues à #Bruxelles ou pas loin, ne perdez pas l'occasion d'assister à un spectacle unique, où l'on apprend plus…"
-370,1.5112189620796252e+18,2022-04-05 05:47:32+00:00,['1511218962079625216'],"RT @jpmarthoz: President Erdogan dropping his friend. Geopolitics and the economy trump the fight for justice. Well, Europe has not been be…"
-371,1.5112175461077563e+18,2022-04-05 05:41:54+00:00,['1511217546107756545'],"RT @SdjFrance2: À 6 jours du 1er tour et face au refus d'@EmmanuelMacron de participer aux rendez-vous politiques de @France2tv, la @SdjFra…"
-372,1.5112158655423652e+18,2022-04-05 05:35:14+00:00,['1511215865542365188'],"RT @IFJGlobal: #Ukraine🇺🇦: Photojournalist Maks Levin, who went missing since 13 March while documenting the Russian invasion of Ukraine ne…"
-373,1.5109370725337416e+18,2022-04-04 11:07:24+00:00,['1510937072533741570'],"RT @stopponsbollore: 🔴Le Collectif STOP BOLLORÉ débute sa tournée des régions ! 
-
-Lundi 4 avril à 20h, retrouvez @AA_Avocats à Toulouse, au…"
-374,1.5108598418956452e+18,2022-04-04 06:00:31+00:00,['1510859841895645186'],"RT @presidentftv: Ces propos ne nous représentent pas ! Nous #salariés nous ne nous reconnaissons pas dans ces propos #horssol , loin des #…"
-375,1.5106765585241293e+18,2022-04-03 17:52:13+00:00,['1510676558524129284'],"RT @AgnesVahramian: L’une des plus belles photos de Maks Levin, photographe ukrainien tué le 13 mars près de Kyiv. Son corps a été retrouvé…"
-376,1.5106762504693146e+18,2022-04-03 17:50:59+00:00,['1510676250469314563'],RT @sylviazappi: Cette photo des salariés d’un entrepôt new-yorkais d’Amazone fêtant la création de leur syndicat va faire mon week end htt…
-377,1.5105378503154934e+18,2022-04-03 08:41:02+00:00,['1510537850315493384'],RT @SNJ_national: .@SNJ_national y sera présent comme chaque année 🖐
-378,1.5105376668105523e+18,2022-04-03 08:40:18+00:00,['1510537666810552321'],RT @jpmarthoz: #Journalisme. Comment le @nytimes vérifie l'info sur la guerre en Ukraine. https://t.co/uqXh7Ct9Wr @EjL_ORM @ESJLille @Infoc…
-379,1.5105336614222438e+18,2022-04-03 08:24:23+00:00,['1510533661422243844'],"RT @ArianeChemin: Cliché de Max Levin, photo-journaliste ukrainien porté disparu aux alentours de Kiev le 13 mars, dont la mort vient d’êtr…"
-380,1.5105325144562156e+18,2022-04-03 08:19:50+00:00,['1510532514456215553'],"RT @Mediapart: Le journaliste ukrainien Stanislav Asseyev fut détenu 28 mois dans un centre de torture de la province de Donetsk, contrôlée…"
-381,1.510532468960637e+18,2022-04-03 08:19:39+00:00,['1510532468960636929'],"RT @AfGjournalist11: Nafisa Balkhi, a young #Hazara midwife and Mohammad Ghulammi have been kidnapped and brutally killed by the Taliban fi…"
-382,1.5105323309050798e+18,2022-04-03 08:19:06+00:00,['1510532330905079808'],RT @EFJEUROPE: Photojournalist Maks Levin was unarmed and wearing a press jacket.  He was killed like six other journalists since the start…
-383,1.5105320978527803e+18,2022-04-03 08:18:11+00:00,['1510532097852780544'],RT @mlalerte: Grande nouvelle : la BD « Lanceurs d’alerte » sera disponible en vente lors de notre AG… et sa scénariste @FloreTalamon sera…
-384,1.5103184476154266e+18,2022-04-02 18:09:12+00:00,['1510318447615426560'],"RT @afpfr: Maks Levine, photographe ukrainien chevronné dont on était sans nouvelles depuis trois semaines, a été retrouvé mort, tué par ba…"
-385,1.510318429559042e+18,2022-04-02 18:09:08+00:00,['1510318429559042059'],"RT @Desinfox2022: Aujourd'hui, c'est la journée internationale du fact-checking! 
-Deux mois après le lancement de notre coalition, retour s…"
-386,1.510316930326057e+18,2022-04-02 18:03:11+00:00,['1510316930326056966'],RT @CallGate74: Bonjour @LicraOrleans @PHILCOQ1 Pensez-vous à un moment réagir à ces attaques de l'extrême droite contre des journalistes o…
-387,1.5103169018970565e+18,2022-04-02 18:03:04+00:00,['1510316901897056270'],RT @FredMetzo: Faux @gwgoldnadel J'ai rendu compte de l'attentat de Bnei Brak dans le journal de 6h30 puis interviewé une habitante à 8h00.…
-388,1.51031581814759e+18,2022-04-02 17:58:46+00:00,['1510315818147590149'],"RT @SDJRTL: Un journaliste de @RTLFrance a été victime d'intimidation et d'agression physique ce matin, en couvrant la marche blanche d'Aul…"
-389,1.5103153525295557e+18,2022-04-02 17:56:55+00:00,['1510315352529555463'],😠 https://t.co/ttPunW6zBf
-390,1.5103141928925307e+18,2022-04-02 17:52:18+00:00,['1510314192892530688'],RT @chdauriac: La Turquie tire un trait sur l’affaire Khashoggi et satisfait ainsi les exigences saoudiennes ! https://t.co/4Yq4rfJ200
-391,1.5102219185862615e+18,2022-04-02 11:45:38+00:00,['1510221918586261509'],"RT @Molenews1: Ukraine: photojournalist Maks Levin found dead in Kyiv region
-
-@EFJEUROPE @IFJGlobal @nsju_org @profspilka_nmpu @Stommedia…"
-392,1.5102218844530117e+18,2022-04-02 11:45:30+00:00,['1510221884453011461'],"RT @pierrehaski: Terrible nouvelle, le corps de Mark Levin, un documentariste ukrainien disparu, retrouvé mort. Sixième journaliste tué dep…"
-393,1.510221723106427e+18,2022-04-02 11:44:52+00:00,['1510221723106426891'],"RT @SylvainErnault: Vous n'avez toujours pas vu Media crash ? Rendez-vous ce lundi 4 avril, à #Lannion, aux Baladins, à 20 h 30, avec @Spla…"
-394,1.5102213068050678e+18,2022-04-02 11:43:12+00:00,['1510221306805067778'],RT @SolidairesParis: Le 3 avril à 14h - République 📢 Manifestation contre l’extrême-droite et ses idées ✊ Voilà des mois que l’on voit se m…
-395,1.510185994368299e+18,2022-04-02 09:22:53+00:00,['1510185994368299019'],"RT @KfeSanteTravail: #RENCONTRE : ""Le monde du travail est-il devenu fou ?"" Café Santé Travail 14 avril, 20h avec Marielle DUMORTIER, Médec…"
-396,1.5101858709047255e+18,2022-04-02 09:22:24+00:00,['1510185870904725508'],🤦‍♂️ https://t.co/CbmQmNtsyd
-397,1.510185136394064e+18,2022-04-02 09:19:29+00:00,['1510185136394063872'],"RT @UNESCO_fr: À travers son travail, le photojournaliste brésilien Sebastião Salgado met en lumière la nature profonde de l'humanité et so…"
-398,1.5101842760205844e+18,2022-04-02 09:16:03+00:00,['1510184276020584450'],"RT @Mediapart: Depuis 4 mois, Mediapart &amp; un de ses journalistes sont la cible de messages virulents et très réguliers d’un groupe qui n’a…"
-399,1.5101791184485786e+18,2022-04-02 08:55:34+00:00,['1510179118448578564'],"RT @SNJ_national: SOUTIEN à la grève des travailleurs des médias en Tunisie ✊
-#FreeSpeech 
-⬇️"
-400,1.5101787529359114e+18,2022-04-02 08:54:07+00:00,['1510178752935911426'],#Afghanjournalists https://t.co/INbOh650Ld
-401,1.5101784031603712e+18,2022-04-02 08:52:43+00:00,['1510178403160371205'],😯 https://t.co/9kKCJDP2NE
-402,1.5101770185619415e+18,2022-04-02 08:47:13+00:00,['1510177018561941509'],"RT @chdauriac: Presse : le quotidien « Midi Libre » absent des kiosques pour la première fois depuis 11 ans: ⁦@SNJ_national⁩
- https://t.co/…"
-403,1.5101769618465628e+18,2022-04-02 08:47:00+00:00,['1510176961846562817'],"RT @SNJ_national: Les quotidiens @Midilibre
-@lindependant et @CPAveyron
-absents des kiosques aujourd'hui à l'issue d'un mouvement pour une…"
-404,1.5101768459704812e+18,2022-04-02 08:46:32+00:00,['1510176845970481152'],.@SNJ_national y sera présent comme chaque année 🖐 https://t.co/X20jPuvGGE
-405,1.509925568732713e+18,2022-04-01 16:08:03+00:00,['1509925568732712966'],"✊✊✊ 
-https://t.co/w5QlK6amdu"
-406,1.5099250338205286e+18,2022-04-01 16:05:55+00:00,['1509925033820528646'],"Les quotidiens @Midilibre
+@SNJ_014269 https://t.co/uWZS1tBKhO",effectifs condition travail salaires vent rvolte souffle sur rdactions groupe apr nouveau mouvement grve est annonc cette fois jeudi avril l'appel,True
+1.5103153525295557e+18,2022-04-02 17:56:55+00:00,['1510315352529555463'],😠 https://t.co/ttPunW6zBf,,
+1.5101858709047255e+18,2022-04-02 09:22:24+00:00,['1510185870904725508'],🤦‍♂️ https://t.co/CbmQmNtsyd,,
+1.5101787529359114e+18,2022-04-02 08:54:07+00:00,['1510178752935911426'],#Afghanjournalists https://t.co/INbOh650Ld,,
+1.5101784031603712e+18,2022-04-02 08:52:43+00:00,['1510178403160371205'],😯 https://t.co/9kKCJDP2NE,,
+1.5101768459704812e+18,2022-04-02 08:46:32+00:00,['1510176845970481152'],.@SNJ_national y sera présent comme chaque année 🖐 https://t.co/X20jPuvGGE,serum prsent comme chaque anne,True
+1.509925568732713e+18,2022-04-01 16:08:03+00:00,['1509925568732712966'],"✊✊✊ 
+https://t.co/w5QlK6amdu",,
+1.5099250338205286e+18,2022-04-01 16:05:55+00:00,['1509925033820528646'],"Les quotidiens @Midilibre
 @lindependant et @CPAveyron
 absents des kiosques aujourd'hui à l'issue d'un mouvement pour une augmentation générale des salaires 
-💰💰💰  https://t.co/mQNUhoGnW6"
-407,1.5099203296736256e+18,2022-04-01 15:47:14+00:00,['1509920329673625610'],RT @chdauriac: TVA sur la presse : une bataille perdue mais une guerre gagnée via @MediapartBlogs https://t.co/9GwcB8mcsk
-408,1.5098439767104635e+18,2022-04-01 10:43:50+00:00,['1509843976710463488'],"RT @SNJ_national: Après la grève historique au Républicain Lorrain @lerepu le combat continue avec une AG prévue le 8 avril ✊✊✊ 
-Pour les s…"
-409,1.509843866052186e+18,2022-04-01 10:43:23+00:00,['1509843866052186113'],"SOUTIEN à la grève des travailleurs des médias en Tunisie ✊
+💰💰💰  https://t.co/mQNUhoGnW6",quotidiens absents kiosques aujourd'hui l'issue d'un mouvement pour une augmentation gnrale salaires,True
+1.509843866052186e+18,2022-04-01 10:43:23+00:00,['1509843866052186113'],"SOUTIEN à la grève des travailleurs des médias en Tunisie ✊
 #FreeSpeech 
-⬇️ https://t.co/HBJ9OXMVXE"
-410,1.5098432863111987e+18,2022-04-01 10:41:05+00:00,['1509843286311198721'],RT @IFJGlobal: #Urgent Turkish prosecutor handling the killing of #JamalKhashoggi asked to suspend proceedings and transfer the case to #Sa…
-411,1.5098429470424187e+18,2022-04-01 10:39:44+00:00,['1509842947042418690'],RT @phensmans: #Turquie Le procureur chargé de l'affaire des 26 ressortissants saoudiens accusés du meurtre du journaliste Jamal #Khashoggi…
-412,1.5098429191796283e+18,2022-04-01 10:39:38+00:00,['1509842919179628545'],"RT @jpmarthoz: ""The travesty of justice continues. This time Turkey is betraying #JamalKhashoggi and justice. Nothing surprising though. Tu…"
-413,1.509841981001851e+18,2022-04-01 10:35:54+00:00,['1509841981001850896'],RT @mauricedecroix: Le gratuit @20Minutes est la propriété d'@OuestFrance et du groupe Rossel à 50/50
-414,1.5098413072078766e+18,2022-04-01 10:33:13+00:00,['1509841307207876609'],"RT @puremedias: ""Beaucoup de bruit pour rien"" : Un sénateur regrette les conclusions de la commission d'enquête sur les médias https://t.co…"
-415,1.5098404675837174e+18,2022-04-01 10:29:53+00:00,['1509840467583717376'],RT @A_Influences: Concentration des médias : les sénateurs s’accordent sur un texte consensuel #concentration #media #pluralisme #democrati…
-416,1.5098402861507052e+18,2022-04-01 10:29:10+00:00,['1509840286150705155'],"RT @LesAssises: Un mois après l’élection présidentielle, un mois avant les législatives…
-Rendez-vous du 9 au 13 mai à Tours pour la quinziè…"
-417,1.5097799917388595e+18,2022-04-01 06:29:35+00:00,['1509779991738859520'],RT @agnesbriancon: 👏👏👏
-418,1.5097790341625815e+18,2022-04-01 06:25:46+00:00,['1509779034162581504'],"RT @PlumesdP: A gauche                  À droite
-les bénéfices          l’enveloppe dédiée
-d’@InfoproDigital  aux augmentations
-en 2021…"
-419,1.5096406085787812e+18,2022-03-31 21:15:43+00:00,['1509640608578781194'],"Après la grève historique au Républicain Lorrain @lerepu le combat continue avec une AG prévue le 8 avril ✊✊✊ 
-Pour les salaires et les conditions de travail dans tous les services ! Pour que les choses changent ! https://t.co/0vzrI7l0CT"
-420,1.5096273204071506e+18,2022-03-31 20:22:55+00:00,['1509627320407150597'],"RT @SNJ_national: Mouvement social en cours pour les salaires et les conditions de travail à @Midilibre et aussi @CPAveyron
-et @lindependan…"
-421,1.5095646136790958e+18,2022-03-31 16:13:44+00:00,['1509564613679095816'],"RT @PlumesdP: #NAO chez @InfoProDigital : plus de la moitié des salariés vont perdre en pouvoir d’achat, suite aux dernières décisions de l…"
-422,1.5095639925990605e+18,2022-03-31 16:11:16+00:00,['1509563992599060485'],Grève et rassemblement au siège à Saint-Jean-de-Védas à l'appel de l'intersyndicale SNJ - Filpac-CGT - FO - CFDT ✌ https://t.co/J9wPMnR9yM
-423,1.5095611179867668e+18,2022-03-31 15:59:51+00:00,['1509561117986766858'],"Mouvement social en cours pour les salaires et les conditions de travail à @Midilibre et aussi @CPAveyron
-et @lindependant ✊  https://t.co/WMZJQHV3Qx"
-424,1.5095456441004032e+18,2022-03-31 14:58:22+00:00,['1509545644100403204'],RT @yvonnickgauchet: Le gratuit @20Minutes annonce un plan social #medias  https://t.co/lRG6rKJ4wy
-425,1.5095455779520266e+18,2022-03-31 14:58:06+00:00,['1509545577952026631'],RT @agnesbriancon: ✊✊
-426,1.5095409914554368e+18,2022-03-31 14:39:52+00:00,['1509540991455436813'],"RT @mauricedecroix: ""La sourde oreille et le mépris, ça suffit ! ""
-Pas d'augmentation de salaire depuis 10 ans @Midilibre #PQR"
-427,1.5095407723700756e+18,2022-03-31 14:39:00+00:00,['1509540772370075654'],"RT @chdauriac: Presse : plan social à 20 Minutes, les éditions locales imprimées supprimées: ⁦@SNJ_national⁩
- https://t.co/9U1LwrTOLo"
-428,1.5095194403413115e+18,2022-03-31 13:14:14+00:00,['1509519440341311492'],RT @snj_rf: Plus de 61% des journalistes en grève ce jeudi à #Francebleu https://t.co/bU2jxHygG7
-429,1.5095193592947794e+18,2022-03-31 13:13:55+00:00,['1509519359294779398'],RT @MyriamFigureau: Courage à nos confrères et consœurs des #FranceBleu qui contribuent à leurs sites internets en plus de leurs #reportage…
-430,1.5095173134685102e+18,2022-03-31 13:05:47+00:00,['1509517313468510209'],RT @SNJ_national: SOUTIEN du @SNJ_national aux consoeurs et confrères du @Midilibre qui se battent pour une revalorisation salariale justif…
-431,1.5095172323716465e+18,2022-03-31 13:05:28+00:00,['1509517232371646465'],"RT @SNJ_national: TOTAL SOUTIEN aux journalistes des locales de @francebleu en grève ✊ 
+⬇️ https://t.co/HBJ9OXMVXE",soutien grve travailleurs mdias tunisie,True
+1.5096406085787812e+18,2022-03-31 21:15:43+00:00,['1509640608578781194'],"Après la grève historique au Républicain Lorrain @lerepu le combat continue avec une AG prévue le 8 avril ✊✊✊ 
+Pour les salaires et les conditions de travail dans tous les services ! Pour que les choses changent ! https://t.co/0vzrI7l0CT",apr grve historique rpublicain lorrain combat continue avec une prvue avril pour salaires condition travail dans tous service pour que choses changent,True
+1.5095639925990605e+18,2022-03-31 16:11:16+00:00,['1509563992599060485'],Grève et rassemblement au siège à Saint-Jean-de-Védas à l'appel de l'intersyndicale SNJ - Filpac-CGT - FO - CFDT ✌ https://t.co/J9wPMnR9yM,grve rassemblement sige saintjeandevdas l'appel l'intersyndicale snj filpaccgt cfdt,True
+1.5095611179867668e+18,2022-03-31 15:59:51+00:00,['1509561117986766858'],"Mouvement social en cours pour les salaires et les conditions de travail à @Midilibre et aussi @CPAveyron
+et @lindependant ✊  https://t.co/WMZJQHV3Qx",mouvement social cours pour salaires condition travail aussi,True
+1.5094846833478328e+18,2022-03-31 10:56:08+00:00,['1509484683347832832'],"SOUTIEN du @SNJ_national aux consoeurs et confrères du @Midilibre qui se battent pour une revalorisation salariale justifiée !!! https://t.co/WMZJQHV3Qx
+✊✊",soutien aux consoeurs confrres qui battent pour une revalorisation salariale justifie,True
+1.5094331170015314e+18,2022-03-31 07:31:13+00:00,['1509433117001531392'],"TOTAL SOUTIEN aux journalistes des locales de @francebleu en grève ✊ 
 Semaine blanche et journée noire @snj_rf 😠😠😠 
-@fran…"
-432,1.5095168439412572e+18,2022-03-31 13:03:55+00:00,['1509516843941257222'],"RT @73Jbois: Au DL, 24 CDD en 24 mois. Au Messager, pas une seule hausse de salaire (une prime, en 2017) en 8 ans. Fallait être journaliste…"
-433,1.5094846833478328e+18,2022-03-31 10:56:08+00:00,['1509484683347832832'],"SOUTIEN du @SNJ_national aux consoeurs et confrères du @Midilibre qui se battent pour une revalorisation salariale justifiée !!! https://t.co/WMZJQHV3Qx
-✊✊"
-434,1.5094331170015314e+18,2022-03-31 07:31:13+00:00,['1509433117001531392'],"TOTAL SOUTIEN aux journalistes des locales de @francebleu en grève ✊ 
-Semaine blanche et journée noire @snj_rf 😠😠😠 
-@francebleuparis @Francebleubzh @francebleuDA @francebleuisere @FranceBleuOuest @francebleuazur https://t.co/8Ij7TT7lv9"
-435,1.5094312427642675e+18,2022-03-31 07:23:46+00:00,['1509431242764267522'],"RT @L_Philippot: J'écris régulièrement des articles sur https://t.co/H4ZOtOpn75, prolongement des reportages 📻 et j'adore ça. 784 articles…"
-436,1.5094310644476273e+18,2022-03-31 07:23:04+00:00,['1509431064447627267'],RT @presidentftv: Message pour @JY_LeDrian @francediplo !! @SNJ_national
-437,1.5094309973304156e+18,2022-03-31 07:22:48+00:00,['1509430997330415621'],"RT @Sabrina_bmk: 🗞Soutien aux journalistes en grève ! 
-@EBRApresse 
-
-Conséquences de la marchandisation de l’information d’abord sur les sa…"
-438,1.509430959753638e+18,2022-03-31 07:22:39+00:00,['1509430959753637895'],"RT @MathieuCasanov4: Total soutien aux journalistes du groupe @EBRApresse ✊
-
-L'information est essentielle pour tous"
-439,1.50943032416136e+18,2022-03-31 07:20:07+00:00,['1509430324161359875'],"RT @SouffrTravail: 41% des salariés français sont en situation de détresse psychologique, dont un tiers en #burnout (13% en forme sévère).…"
+@francebleuparis @Francebleubzh @francebleuDA @francebleuisere @FranceBleuOuest @francebleuazur https://t.co/8Ij7TT7lv9",total soutien aux journalistes locale grve semaine blanche journe noire,True

@@ -1,973 +1,696 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.5128419901945692e+18,2022-04-09 17:16:52+00:00,['1512841990194569219'],"RT @roamwithrakhee: From walking the F1 Grand Prix track and visiting the famous Casino de Monte Carlo, to admiring superyachts, mountains…"
-1,1.5030366449868636e+18,2022-03-13 15:53:55+00:00,['1503036644986863619'],"RT @roamwithrakhee: Maltese balconies ~ a photo blog of these architectural wonders 😍🇲🇹 
-
-https://t.co/CDBexsLVPq
-
-#malta #visitmalta #vall…"
-2,1.4729256835465298e+18,2021-12-20 13:43:43+00:00,['1472925683546529803'],"RT @StevoLaughton: On the left is the last photo I have of my mum alive in May 2020. Living alone with serious illness, she faced the pande…"
-3,1.466381714251567e+18,2021-12-02 12:20:19+00:00,['1466381714251567104'],"RT @roamwithrakhee: It’s December! After a few months of not blogging due to a hectic COP26 schedule, I’m back! Check out this year’s best…"
-4,1.4349039652132332e+18,2021-09-06 15:38:59+00:00,['1434903965213233158'],"A great victory for #India - winning by 157 runs against #England.
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english
+1.4349039652132332e+18,2021-09-06 15:38:59+00:00,['1434903965213233158'],"A great victory for #India - winning by 157 runs against #England.
 99 runs behind at the start of 2nd innings and then winning the match at Oval is just incredible. 
-Well played #india. #INDvENG #Ovaltest #Oval #stunningvictory"
-5,1.418112070764073e+18,2021-07-22 07:33:59+00:00,['1418112070764072963'],@ianandmj @guardian @AlamyNews Well done.
-6,1.3840401917954908e+18,2021-04-19 07:04:30+00:00,['1384040191795490818'],RT @Paritlfc: @LFC https://t.co/39mPpocvhW
-7,1.3837194729098772e+18,2021-04-18 09:50:05+00:00,['1383719472909877253'],@PohleRichard @thesundaytimes @RoyalFamily Well done.
-8,1.3708398506230456e+18,2021-03-13 20:51:04+00:00,['1370839850623045633'],@AJogee I have sent you a DM.
-9,1.3534492278804603e+18,2021-01-24 21:06:56+00:00,['1353449227880460288'],RT @roamwithrakhee: The snow brightened up another lockdown Sunday and brought with it some much needed cheer and happiness! Here are some…
-10,1.3442795225989325e+18,2020-12-30 13:49:48+00:00,['1344279522598932480'],"RT @roamwithrakhee: The COVID-19 pandemic turned 2020 into the lost year for travel. 
-
-In my final blog post of the year, I discuss how I a…"
-11,1.343611701007184e+18,2020-12-28 17:36:07+00:00,['1343611701007183873'],"RT @roamwithrakhee: Introducing Roam with Rakhee’s travel from home...cooking edition! I’m sharing recipes from around the world, which you…"
-12,1.341387412283519e+18,2020-12-22 14:17:35+00:00,['1341387412283518977'],@ianandmj Hope you are well and safe.
-13,1.3410367068925542e+18,2020-12-21 15:04:00+00:00,['1341036706892554245'],"Number of countries are banning #travel from the #UK and the #stockmarkets are down, due to new virus strain.
+Well played #india. #INDvENG #Ovaltest #Oval #stunningvictory",great victory winning run run behind start inning winning match oval incredible well played,False
+1.418112070764073e+18,2021-07-22 07:33:59+00:00,['1418112070764072963'],@ianandmj @guardian @AlamyNews Well done.,well done,True
+1.3837194729098772e+18,2021-04-18 09:50:05+00:00,['1383719472909877253'],@PohleRichard @thesundaytimes @RoyalFamily Well done.,well done,True
+1.3708398506230456e+18,2021-03-13 20:51:04+00:00,['1370839850623045633'],@AJogee I have sent you a DM.,sent,True
+1.341387412283519e+18,2020-12-22 14:17:35+00:00,['1341387412283518977'],@ianandmj Hope you are well and safe.,hope well safe,False
+1.3410367068925542e+18,2020-12-21 15:04:00+00:00,['1341036706892554245'],"Number of countries are banning #travel from the #UK and the #stockmarkets are down, due to new virus strain.
 #UKlockdown #virusstrain
-#newvariant"
-14,1.3399555169703322e+18,2020-12-18 15:27:45+00:00,['1339955516970332160'],Just posted a photo https://t.co/C5sd9HfBEa
-15,1.3366297292318597e+18,2020-12-09 11:12:15+00:00,['1336629729231859712'],"RT @McVities: Sharing biscuits is tricky right now, but our Chocolate Digestives are #TooGoodNotToShare
-
-So, just FOLLOW US and RETWEET thi…"
-16,1.3359009520591217e+18,2020-12-07 10:56:21+00:00,['1335900952059121666'],RT @Paritlfc: @LFC Me watching this for the thousandth time today https://t.co/Lm9uCI9dr5
-17,1.3254873050507633e+18,2020-11-08 17:16:14+00:00,['1325487305050763265'],Great #blog. https://t.co/XDGnSScPvf
-18,1.320031703864275e+18,2020-10-24 15:57:37+00:00,['1320031703864274944'],"'Best photo spots in #LosAngeles' - a #travelblogger
+#newvariant",number country banning due new virus strain,False
+1.3399555169703322e+18,2020-12-18 15:27:45+00:00,['1339955516970332160'],Just posted a photo https://t.co/C5sd9HfBEa,posted photo,False
+1.3254873050507633e+18,2020-11-08 17:16:14+00:00,['1325487305050763265'],Great #blog. https://t.co/XDGnSScPvf,great,True
+1.320031703864275e+18,2020-10-24 15:57:37+00:00,['1320031703864274944'],"'Best photo spots in #LosAngeles' - a #travelblogger
 https://t.co/N9mvNNTYRt
-#blogger #blogging #Travelblogging #travelblogger"
-19,1.3199936902160837e+18,2020-10-24 13:26:34+00:00,['1319993690216083460'],"RT @roamwithrakhee: A year ago today, I jetted off to LA ~ a photographer’s heaven 😍📸🇺🇸
-
-In my new blog post, check out my top recommended…"
-20,1.314290891109077e+18,2020-10-08 19:45:41+00:00,['1314290891109076992'],"RT @roamwithrakhee: Today has been another sad day for the aviation industry, with the two final BA 747s taking off for their last flights…"
-21,1.314261466141397e+18,2020-10-08 17:48:45+00:00,['1314261466141397004'],@BigJetTVLIVE live on TV speaking about the #britishairways 747. https://t.co/Wnf94DBQGg
-22,1.314108879157039e+18,2020-10-08 07:42:26+00:00,['1314108879157039104'],Farewell to @BritishAirways #747 taking off @Heathrow.
-23,1.3134874707644703e+18,2020-10-06 14:33:11+00:00,['1313487470764470272'],RT @ianandmj: 400 strong orchestra protest in Parliament Square asking for work or Government support. .@AlamyNews #LetMusicLive  .@weareth…
-24,1.3128479919512945e+18,2020-10-04 20:12:07+00:00,['1312847991951294466'],RT @roamwithrakhee: How to take the perfect puddlegram! 😍 #reflection #reflectiongram #photography #photohack #howto #tutorial #travelblog…
-25,1.31283163294097e+18,2020-10-04 19:07:07+00:00,['1312831632940969988'],"Check this out - 'How to take a perfect #puddlegram'
+#blogger #blogging #Travelblogging #travelblogger",'best photo spot,False
+1.314261466141397e+18,2020-10-08 17:48:45+00:00,['1314261466141397004'],@BigJetTVLIVE live on TV speaking about the #britishairways 747. https://t.co/Wnf94DBQGg,live speaking,False
+1.314108879157039e+18,2020-10-08 07:42:26+00:00,['1314108879157039104'],Farewell to @BritishAirways #747 taking off @Heathrow.,farewell taking,False
+1.31283163294097e+18,2020-10-04 19:07:07+00:00,['1312831632940969988'],"Check this out - 'How to take a perfect #puddlegram'
 https://t.co/gseZgCLEsj
-#Instagram"
-26,1.3102522330413588e+18,2020-09-27 16:17:30+00:00,['1310252233041358849'],"RT @roamwithrakhee: The COVID-19 pandemic has quickly changed the way cities now look and operate. In my new blog post, I’ve documented som…"
-27,1.3069988146041324e+18,2020-09-18 16:49:34+00:00,['1306998814604132353'],RT @Paritlfc: @LFC @Thiago6 Waited 2 months for a transfer and get 2 in a day https://t.co/jTRFRjVqzX
-28,1.3048922671954002e+18,2020-09-12 21:18:54+00:00,['1304892267195400194'],RT @SkyNewsBreak: Former prime ministers Sir John Major and Tony Blair have written a joint article in the Sunday Times telling Prime Minis…
-29,1.304089291245654e+18,2020-09-10 16:08:10+00:00,['1304089291245654019'],RT @Mr_Sam_Stewart: The difference in coverage we get when @StefanRousseau  (a press pool photographer) is allowed to cover the press brief…
-30,1.296105548476285e+18,2020-08-19 15:23:37+00:00,['1296105548476284935'],"$APPL market value tops $2 trillion for the first time. 
-https://t.co/cdNzBoo5M4"
-31,1.2959902232524677e+18,2020-08-19 07:45:22+00:00,['1295990223252467717'],@ianandmj @TheParachuteReg Well done.
-32,1.2917515809418568e+18,2020-08-07 15:02:31+00:00,['1291751580941856768'],@ianandmj @SouthendOnSea_ @SouthendBC @AlamyNews Great set!
-33,1.283421597400019e+18,2020-07-15 15:22:08+00:00,['1283421597400018945'],"RT @HeathrowAirport: Our city is quite breath taking.😍
-
-As a gateway to London and the rest of the UK, we can’t wait to welcome you back.…"
-34,1.2801286944435446e+18,2020-07-06 13:17:19+00:00,['1280128694443544576'],@ioannisAlexopo3 @thesundaytimes Well done. Great work.
-35,1.2800844091992678e+18,2020-07-06 10:21:20+00:00,['1280084409199267841'],@vickieflores @epaphotos Well done.
-36,1.2775969822326497e+18,2020-06-29 13:37:11+00:00,['1277596982232649729'],"@emirates at @HeathrowAirport.
+#Instagram",check 'how take perfect,False
+1.296105548476285e+18,2020-08-19 15:23:37+00:00,['1296105548476284935'],"$APPL market value tops $2 trillion for the first time. 
+https://t.co/cdNzBoo5M4",appl market value top trillion first time,False
+1.2959902232524677e+18,2020-08-19 07:45:22+00:00,['1295990223252467717'],@ianandmj @TheParachuteReg Well done.,well done,True
+1.2917515809418568e+18,2020-08-07 15:02:31+00:00,['1291751580941856768'],@ianandmj @SouthendOnSea_ @SouthendBC @AlamyNews Great set!,great set,True
+1.2801286944435446e+18,2020-07-06 13:17:19+00:00,['1280128694443544576'],@ioannisAlexopo3 @thesundaytimes Well done. Great work.,well done great work,True
+1.2800844091992678e+18,2020-07-06 10:21:20+00:00,['1280084409199267841'],@vickieflores @epaphotos Well done.,well done,True
+1.2775969822326497e+18,2020-06-29 13:37:11+00:00,['1277596982232649729'],"@emirates at @HeathrowAirport.
 Thank you @BigJetTVLIVE 
-#Emirates #expo2020 @boeing #Boeing777 https://t.co/sdrb8EGnfZ"
-37,1.2775954033330504e+18,2020-06-29 13:30:55+00:00,['1277595403333050369'],"@qatarairways at @HeathrowAirport 
+#Emirates #expo2020 @boeing #Boeing777 https://t.co/sdrb8EGnfZ",thank,False
+1.2775954033330504e+18,2020-06-29 13:30:55+00:00,['1277595403333050369'],"@qatarairways at @HeathrowAirport 
 Thank you @BigJetTVLIVE 
 #bigjet #QatarAirways #heathrow 
-#takeoff https://t.co/5PtSNc92Tb"
-38,1.2769040592330138e+18,2020-06-27 15:43:46+00:00,['1276904059233013765'],RT @roamwithrakhee: Greece is one of the first countries to allow tourists back in following Covid-19. Are you thinking about visiting and…
-39,1.2768929575017226e+18,2020-06-27 14:59:39+00:00,['1276892957501722624'],"Heading to #Athens - check out the best place to stay.
+#takeoff https://t.co/5PtSNc92Tb",thank,False
+1.2768929575017226e+18,2020-06-27 14:59:39+00:00,['1276892957501722624'],"Heading to #Athens - check out the best place to stay.
 https://t.co/6gGsI5X33t
 #travelblogger #Travel #Greece #blogging #athensgatehotel #hotel
-@roamwithrakhee"
-40,1.2764512817045504e+18,2020-06-26 09:44:35+00:00,['1276451281704550401'],"""We are Liverpool - Champions of England"" Jürgen Klopp.
+@roamwithrakhee",heading check best place stay,False
+1.2764512817045504e+18,2020-06-26 09:44:35+00:00,['1276451281704550401'],"""We are Liverpool - Champions of England"" Jürgen Klopp.
 https://t.co/QejVO6WoeD
-#LFC #Liverpool #Liverpoolchampions #champions #ChampionsOfEngland"
-41,1.266819391158727e+18,2020-05-30 19:50:53+00:00,['1266819391158726661'],https://t.co/WJk0PUOsMy
-42,1.264546539185361e+18,2020-05-24 13:19:23+00:00,['1264546539185360896'],"Didn't #dominiccummimgs not see this message from @BorisJohnson at the start of #lockdown?
-#dominicsgoings #dominicsgoings #COVID19 #coronavirus #Covid19UK https://t.co/N9sdxwbwVr"
-43,1.264545651729318e+18,2020-05-24 13:15:52+00:00,['1264545651729317888'],"@DawnButlerBrent To add on the T-Shirt ""Job Centre Plus on 26 May""."
-44,1.2645441751246152e+18,2020-05-24 13:10:00+00:00,['1264544175124615168'],@DanielsonWayne @PippaCrerar Job Centre Plus on 26 May?
-45,1.2642497879200686e+18,2020-05-23 17:40:12+00:00,['1264249787920068609'],"Visit 'My favourite photography props' a travel blog by @roamwithrakhee
+#LFC #Liverpool #Liverpoolchampions #champions #ChampionsOfEngland",liverpool champion england jrgen klopp,False
+1.266819391158727e+18,2020-05-30 19:50:53+00:00,['1266819391158726661'],https://t.co/WJk0PUOsMy,,
+1.264546539185361e+18,2020-05-24 13:19:23+00:00,['1264546539185360896'],"Didn't #dominiccummimgs not see this message from @BorisJohnson at the start of #lockdown?
+#dominicsgoings #dominicsgoings #COVID19 #coronavirus #Covid19UK https://t.co/N9sdxwbwVr",see message start,False
+1.264545651729318e+18,2020-05-24 13:15:52+00:00,['1264545651729317888'],"@DawnButlerBrent To add on the T-Shirt ""Job Centre Plus on 26 May"".",add tshirt job centre plus may,False
+1.2645441751246152e+18,2020-05-24 13:10:00+00:00,['1264544175124615168'],@DanielsonWayne @PippaCrerar Job Centre Plus on 26 May?,job centre plus may,True
+1.2642497879200686e+18,2020-05-23 17:40:12+00:00,['1264249787920068609'],"Visit 'My favourite photography props' a travel blog by @roamwithrakhee
 https://t.co/Zicis32Z5q
 #travelphotography
-#travelblogger #Travel #blogger #blogging #bloggers #scrabble #glassball https://t.co/Vj7WKSHwRY"
-46,1.2642486456895283e+18,2020-05-23 17:35:40+00:00,['1264248645689528320'],RT @roamwithrakhee: Check out my new blog post on the photography props I use to create unique photos! https://t.co/nZPlFk6nrs 📸🌍 #travel #…
-47,1.2593891672571617e+18,2020-05-10 07:45:50+00:00,['1259389167257161728'],"A travel blog on how to take the perfect #puddlegram by @roamwithrakhee
+#travelblogger #Travel #blogger #blogging #bloggers #scrabble #glassball https://t.co/Vj7WKSHwRY",visit 'my favourite photography props' travel blog,False
+1.2593891672571617e+18,2020-05-10 07:45:50+00:00,['1259389167257161728'],"A travel blog on how to take the perfect #puddlegram by @roamwithrakhee
 https://t.co/e7i5vC2Z03
 #Travel #travelblogger #travelphotography #Instagram #travelbloging #travelsunday
-@DailyMailUK @DailyMirror @guardian @Independent @TimesPictures @Daily_Express @thetimes https://t.co/p6uZl8eHD1"
-48,1.2592216203523113e+18,2020-05-09 20:40:04+00:00,['1259221620352311298'],RT @roamwithrakhee: Puddlegrams are one of my favourite kind of shots ~ they provide a whole new perspective to photography and are a great…
-49,1.2588523704878735e+18,2020-05-08 20:12:48+00:00,['1258852370487873537'],"@eddiemulh True.
-Great photo @PohleRichard"
-50,1.2588514820714373e+18,2020-05-08 20:09:16+00:00,['1258851482071437314'],"""Never give up, never despair"" Her Majesty the Queen.
+@DailyMailUK @DailyMirror @guardian @Independent @TimesPictures @Daily_Express @thetimes https://t.co/p6uZl8eHD1",travel blog take perfect,False
+1.2588523704878735e+18,2020-05-08 20:12:48+00:00,['1258852370487873537'],"@eddiemulh True.
+Great photo @PohleRichard",true great photo,False
+1.2588514820714373e+18,2020-05-08 20:09:16+00:00,['1258851482071437314'],"""Never give up, never despair"" Her Majesty the Queen.
 #VEDay #VE75 #VE75Day #NeverGiveUp #neverdispair
-#TheQueen #lockdown #COVID19 #coronavirus"
-51,1.2562211281519616e+18,2020-05-01 13:57:11+00:00,['1256221128151961602'],"A double rainbow appears just before people take part in the weekly 'Clap For Our Carers'.  
+#TheQueen #lockdown #COVID19 #coronavirus",never give never despair majesty queen,False
+1.2562211281519616e+18,2020-05-01 13:57:11+00:00,['1256221128151961602'],"A double rainbow appears just before people take part in the weekly 'Clap For Our Carers'.  
 #rainbow #doublerainbow #happydaysarecoming #ClapForCarers
 #ClapForOurCarers #ClapForTheNHS
 #clapforourkeyworkers
-#coronavirus #virus #covid19 #health #staysafe #epidemic https://t.co/QqX2r7Ye94"
-52,1.2562195696828744e+18,2020-05-01 13:50:59+00:00,['1256219569682874370'],"A double rainbow appears just before people take part in the weekly 'Clap For Our Carers'. Every Thursday members of public across UK take part in 'Clap For Our Carers' by applauding NHS staff, carers and key… https://t.co/C6ZKgmvbvO"
-53,1.2557689489576878e+18,2020-04-30 08:00:23+00:00,['1255768948957687808'],"In two days #Bollywood looses 
+#coronavirus #virus #covid19 #health #staysafe #epidemic https://t.co/QqX2r7Ye94",double rainbow appears people take part weekly 'clap carers',False
+1.2562195696828744e+18,2020-05-01 13:50:59+00:00,['1256219569682874370'],"A double rainbow appears just before people take part in the weekly 'Clap For Our Carers'. Every Thursday members of public across UK take part in 'Clap For Our Carers' by applauding NHS staff, carers and key… https://t.co/C6ZKgmvbvO",double rainbow appears people take part weekly 'clap carers' every thursday member public across take part 'clap carers' applauding staff carers key,False
+1.2557689489576878e+18,2020-04-30 08:00:23+00:00,['1255768948957687808'],"In two days #Bollywood looses 
 two legendary actors.
 #riprishikapoor
 #ripirfankhan
-May their souls rest in peace. https://t.co/SIOBLmFMkh"
-54,1.2554229605817098e+18,2020-04-29 09:05:33+00:00,['1255422960581709824'],"British Prime Minister Boris Johnson and Carrie Symonds announce birth of son at London hospital. Congratulations  to the couple.
+May their souls rest in peace. https://t.co/SIOBLmFMkh",two day loos two legendary actor may soul rest peace,False
+1.2554229605817098e+18,2020-04-29 09:05:33+00:00,['1255422960581709824'],"British Prime Minister Boris Johnson and Carrie Symonds announce birth of son at London hospital. Congratulations  to the couple.
 #johnsonbaby #babyjohnson
-#littleboris #BorisJohnson #carriesymonds @carriesymonds"
-55,1.255421749707096e+18,2020-04-29 09:00:44+00:00,['1255421749707096064'],@ianandmj @BorisJohnson @AlamyNews Baby boy. #johnsonbaby
-56,1.2544538290657485e+18,2020-04-26 16:54:34+00:00,['1254453829065748481'],RT @roamwithrakhee: Do you miss exploring the world around you? Whether you’re after a bustling city atmosphere or a relaxing beach setting…
-57,1.254319607525126e+18,2020-04-26 08:01:13+00:00,['1254319607525126145'],@guardian @Independent @TheSun @Daily_Express @DailyMirror @dailystar @MirrorPolitics @DailyMailUK @MailOnline @IndyPicdesk @Independent @TimesPictures @thetimes
-58,1.2540760022103736e+18,2020-04-25 15:53:13+00:00,['1254076002210373632'],"""Families have been able to see one another"" says #PritiPatel
-Home Secretary really? You or other cabinet members may have been but your government has ordered not to visit family members. #Covid_19 #lockdown https://t.co/wEIr22zoZb"
-59,1.2540750972054075e+18,2020-04-25 15:49:37+00:00,['1254075097205407746'],Did anyone tell the Home Secretary that the government had ordered the shops to close to slow down the spread of covid-19. Despite this #PritiPatel says that the shoplifting has dropped over the past few weeks. #Covid19UK #Covid_19 #lockdown https://t.co/xj5vHFxhir
-60,1.2530409630118707e+18,2020-04-22 19:20:20+00:00,['1253040963011870721'],"A woman wearing a 'Union Jack' design face mask. 
+#littleboris #BorisJohnson #carriesymonds @carriesymonds",british prime minister boris johnson carrie symonds announce birth son london hospital congratulation couple,False
+1.255421749707096e+18,2020-04-29 09:00:44+00:00,['1255421749707096064'],@ianandmj @BorisJohnson @AlamyNews Baby boy. #johnsonbaby,baby boy,True
+1.254319607525126e+18,2020-04-26 08:01:13+00:00,['1254319607525126145'],@guardian @Independent @TheSun @Daily_Express @DailyMirror @dailystar @MirrorPolitics @DailyMailUK @MailOnline @IndyPicdesk @Independent @TimesPictures @thetimes,,
+1.2540760022103736e+18,2020-04-25 15:53:13+00:00,['1254076002210373632'],"""Families have been able to see one another"" says #PritiPatel
+Home Secretary really? You or other cabinet members may have been but your government has ordered not to visit family members. #Covid_19 #lockdown https://t.co/wEIr22zoZb",family able see one another say home secretary really cabinet member may government ordered visit family member,False
+1.2540750972054075e+18,2020-04-25 15:49:37+00:00,['1254075097205407746'],Did anyone tell the Home Secretary that the government had ordered the shops to close to slow down the spread of covid-19. Despite this #PritiPatel says that the shoplifting has dropped over the past few weeks. #Covid19UK #Covid_19 #lockdown https://t.co/xj5vHFxhir,anyone tell home secretary government ordered shop close slow spread covid despite say shoplifting dropped past week,False
+1.2530409630118707e+18,2020-04-22 19:20:20+00:00,['1253040963011870721'],"A woman wearing a 'Union Jack' design face mask. 
 Members of the public will be asked to wear face masks in public to stop spread of covid-19.
-#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #unionjack #unionjackfacemask https://t.co/jA1trWrMjb"
-61,1.2510750942203535e+18,2020-04-17 09:08:40+00:00,['1251075094220353537'],"@HaringeyLFB I would like to send you a DM. Grateful if you could follow me, pls. Thank you."
-62,1.249416809264173e+18,2020-04-12 19:19:15+00:00,['1249416809264173062'],"RT @roamwithrakhee: In my new blog post, I show you how to create the perfect travel itinerary! Use some of this down time to start plannin…"
-63,1.2492692317132431e+18,2020-04-12 09:32:49+00:00,['1249269231713243137'],@stephenbudd It's Mark Titchner.
-64,1.2492690239315968e+18,2020-04-12 09:32:00+00:00,['1249269023931596800'],"Please believe these days will pass.' - an artwork attributed to Mark Titchner.
-#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #Easter #art #artwork #pleasebelievethesedayswillpass #pandemic #stayhomethisbankholidayweekend #Epidemic https://t.co/Q0DBhdQ61x"
-65,1.248706246426927e+18,2020-04-10 20:15:43+00:00,['1248706246426927104'],"'Stay home this bank holiday weekend' - a coronavirus public information campaign billboard in London.
+#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #unionjack #unionjackfacemask https://t.co/jA1trWrMjb",woman wearing 'union jack' design face mask member public asked wear face mask public stop spread covid,False
+1.2510750942203535e+18,2020-04-17 09:08:40+00:00,['1251075094220353537'],"@HaringeyLFB I would like to send you a DM. Grateful if you could follow me, pls. Thank you.",would like send grateful could follow pls thank,False
+1.2492692317132431e+18,2020-04-12 09:32:49+00:00,['1249269231713243137'],@stephenbudd It's Mark Titchner.,mark titchner,False
+1.2492690239315968e+18,2020-04-12 09:32:00+00:00,['1249269023931596800'],"Please believe these days will pass.' - an artwork attributed to Mark Titchner.
+#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #Easter #art #artwork #pleasebelievethesedayswillpass #pandemic #stayhomethisbankholidayweekend #Epidemic https://t.co/Q0DBhdQ61x",please believe day pass' artwork attributed mark titchner,False
+1.248706246426927e+18,2020-04-10 20:15:43+00:00,['1248706246426927104'],"'Stay home this bank holiday weekend' - a coronavirus public information campaign billboard in London.
 
-#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #Easter #bankholiday #easterbankholiday  #stayhomethisbankholiday #pandemic #stayhomethisbankholidayweekend https://t.co/RBgD5TRkFn"
-66,1.2487018249468436e+18,2020-04-10 19:58:09+00:00,['1248701824946843653'],"'Stay home this bank holiday weekend' - a coronavirus public information campaign billboard in London.
+#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #Easter #bankholiday #easterbankholiday  #stayhomethisbankholiday #pandemic #stayhomethisbankholidayweekend https://t.co/RBgD5TRkFn",'stay home bank holiday weekend' coronavirus public information campaign billboard london,False
+1.2487018249468436e+18,2020-04-10 19:58:09+00:00,['1248701824946843653'],"'Stay home this bank holiday weekend' - a coronavirus public information campaign billboard in London.
 
-#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #Easter #bankholiday #easterbankholiday… https://t.co/tN6FFktsn8"
-67,1.24724225057015e+18,2020-04-06 19:18:19+00:00,['1247242250570149889'],"UK Prime Minister Boris Johnson, who has coronavirus, has been taken to intensive care."
-68,1.2468811058039153e+18,2020-04-05 19:23:16+00:00,['1246881105803915267'],"""We will be with our friends again; we will be with our families again, we will meet again."" The Queen."
-69,1.2468776583838966e+18,2020-04-05 19:09:34+00:00,['1246877658383896576'],We will meet again.
-70,1.2468279139887145e+18,2020-04-05 15:51:54+00:00,['1246827913988714497'],RT @roamwithrakhee: It’s been a difficult few weeks for all of us due to the coronavirus pandemic. We are unable to travel and are homeboun…
-71,1.2417325847296983e+18,2020-03-22 14:24:53+00:00,['1241732584729698312'],UK Parliament: Create an emergency fund to support freelancers with Coronavirus income loss - Sign the Petition! https://t.co/ClxhqOPkYg via @UKChange
-72,1.2378609334576865e+18,2020-03-11 22:00:19+00:00,['1237860933457686529'],RT @SkyNewsBreak: An unnamed cabinet minister is self-isolating along with health minister Ed Argar after having dinner with Nadine Dorries…
-73,1.2366178869507195e+18,2020-03-08 11:40:54+00:00,['1236617886950719489'],RT @roamwithrakhee: Athens is the perfect destination for the gram - check out my latest blog on the most Instagrammable spots in the Greek…
-74,1.236334878553256e+18,2020-03-07 16:56:19+00:00,['1236334878553255937'],"Travel blog - The Greek capital is the perfect destination for the gram.https://t.co/osb4Gvwne9 🇬🇷 #travel #travelblog #greece #athens #visitgreece https://t.co/H4rBH8QlzQ
+#coronavirus #virus #facemask #covid19 #keepsafe #health #staysafe #Easter #bankholiday #easterbankholiday… https://t.co/tN6FFktsn8",'stay home bank holiday weekend' coronavirus public information campaign billboard london,False
+1.24724225057015e+18,2020-04-06 19:18:19+00:00,['1247242250570149889'],"UK Prime Minister Boris Johnson, who has coronavirus, has been taken to intensive care.",prime minister boris johnson coronavirus taken intensive care,False
+1.2468811058039153e+18,2020-04-05 19:23:16+00:00,['1246881105803915267'],"""We will be with our friends again; we will be with our families again, we will meet again."" The Queen.",friend family meet queen,False
+1.2468776583838966e+18,2020-04-05 19:09:34+00:00,['1246877658383896576'],We will meet again.,meet,True
+1.2417325847296983e+18,2020-03-22 14:24:53+00:00,['1241732584729698312'],UK Parliament: Create an emergency fund to support freelancers with Coronavirus income loss - Sign the Petition! https://t.co/ClxhqOPkYg via @UKChange,parliament create emergency fund support freelancer coronavirus income loss sign petition via,False
+1.236334878553256e+18,2020-03-07 16:56:19+00:00,['1236334878553255937'],"Travel blog - The Greek capital is the perfect destination for the gram.https://t.co/osb4Gvwne9 🇬🇷 #travel #travelblog #greece #athens #visitgreece https://t.co/H4rBH8QlzQ
 
  https://t.co/osb4Gvwne9
 
-#travelphotography #TRAVELNEWS #travelblogger #travelblog #Athenes"
-75,1.2363341346304983e+18,2020-03-07 16:53:22+00:00,['1236334134630498304'],"RT @roamwithrakhee: I just got back from visiting Athens! The Greek capital is the perfect destination for the gram, so look no further as…"
-76,1.2356903017479496e+18,2020-03-05 22:15:00+00:00,['1235690301747949568'],@virginmedia Yep affecting both wired and wireless connection. On the router there is only 1 light. No light for the incoming signal - so no connection.
-77,1.2356829660320768e+18,2020-03-05 21:45:51+00:00,['1235682966032076800'],@virginmedia @randomtweetor Service Status line say not faults. But broadband isn't working.
-78,1.2356776235037778e+18,2020-03-05 21:24:37+00:00,['1235677623503777802'],@virginmedia is #virginmediadown?
-79,1.232664014964101e+18,2020-02-26 13:49:37+00:00,['1232664014964101120'],"RT @roamwithrakhee: @British_Airways Yeah I've come to Athens!! The flight was great, loved flying on the A321neo! Beautiful views during l…"
-80,1.2326639830076416e+18,2020-02-26 13:49:29+00:00,['1232663983007641600'],"RT @British_Airways: @roamwithrakhee Hi there, great photos! Thanks so much for sharing! Tom"
-81,1.2319086757003633e+18,2020-02-24 11:48:10+00:00,['1231908675700363265'],RT @roamwithrakhee: First adventure of the decade! ✈🌍 @HeathrowAirport @British_Airways #travel #travelblogger https://t.co/MZ04PaFo2d
-82,1.231349254867882e+18,2020-02-22 22:45:14+00:00,['1231349254867881986'],"In pics - Don't Extradite Assange Protest In London. 
+#travelphotography #TRAVELNEWS #travelblogger #travelblog #Athenes",travel blog greek capital perfect destination gram,False
+1.2356903017479496e+18,2020-03-05 22:15:00+00:00,['1235690301747949568'],@virginmedia Yep affecting both wired and wireless connection. On the router there is only 1 light. No light for the incoming signal - so no connection.,yep affecting wired wireless connection router light light incoming signal connection,False
+1.2356829660320768e+18,2020-03-05 21:45:51+00:00,['1235682966032076800'],@virginmedia @randomtweetor Service Status line say not faults. But broadband isn't working.,service status line say fault broadband working,False
+1.2356776235037778e+18,2020-03-05 21:24:37+00:00,['1235677623503777802'],@virginmedia is #virginmediadown?,,True
+1.231349254867882e+18,2020-02-22 22:45:14+00:00,['1231349254867881986'],"In pics - Don't Extradite Assange Protest In London. 
 More pics at 
 https://t.co/vKr076sVie
-#AssangeCase #JulianAssange #Assange #ExtraditionHearing #protest #demonstration #londonprotest #DontExtraditeAssange https://t.co/8GUZcslqih"
-83,1.231247929014399e+18,2020-02-22 16:02:36+00:00,['1231247929014398977'],RT @roamwithrakhee: Happy weekend! Check out my latest blog on Tokyo to Mount Fuji in a day! https://t.co/IEkxWzTyQj 🇯🇵⛰ #travel #travelblo…
-84,1.2309738216430387e+18,2020-02-21 21:53:24+00:00,['1230973821643038727'],RT @roamwithrakhee: From Tokyo to Mount Fuji in a day...check out my latest blog! https://t.co/IEkxWzTyQj 🇯🇵🗻#travel #travelblogger #Tokyo…
-85,1.2309567725061857e+18,2020-02-21 20:45:39+00:00,['1230956772506185728'],"#TravelBlog - Day trip from #tokyo to #MountFuji 
+#AssangeCase #JulianAssange #Assange #ExtraditionHearing #protest #demonstration #londonprotest #DontExtraditeAssange https://t.co/8GUZcslqih",pic extradite assange protest london pic,False
+1.2309567725061857e+18,2020-02-21 20:45:39+00:00,['1230956772506185728'],"#TravelBlog - Day trip from #tokyo to #MountFuji 
 
-https://t.co/nlZOnnSTKt"
-86,1.2309564095184814e+18,2020-02-21 20:44:12+00:00,['1230956409518481408'],https://t.co/nlZOnnSTKt
-87,1.230441230775079e+18,2020-02-20 10:37:04+00:00,['1230441230775078914'],RT @SkyNewsBreak: The Fire Brigades Union has criticised the “shambles” of Prime Minister Boris Johnson’s flooding response saying he shoul…
-88,1.2297519863645266e+18,2020-02-18 12:58:15+00:00,['1229751986364526592'],"RT @roamwithrakhee: @HeathrowAirport You too, have a fly-tastic day!! ✈️🙌"
-89,1.2297116993615872e+18,2020-02-18 10:18:10+00:00,['1229711699361587201'],RT @roamwithrakhee: Happy Tuesday from the London Underground 😐 @TfL @victorialine #rushhour #London #tube #VictoriaLine #tfl https://t.co/…
-90,1.2294987807032402e+18,2020-02-17 20:12:06+00:00,['1229498780703240194'],RT @KateEMcCann: No10 confirms Andrew Sabiski has resigned from the Government. He was understood to have been on a short contract after Do…
-91,1.229498588666962e+18,2020-02-17 20:11:21+00:00,['1229498588666961922'],"RT @tnewtondunn: The inevitable, Sabisky resigns/gets pushed. No10 would have saved themselves two days of bad headlines if they'd done thi…"
-92,1.2291316746146734e+18,2020-02-16 19:53:22+00:00,['1229131674614673414'],"RT @bluehost: @roamwithrakhee Congrats on your new website, looks amazing!"
-93,1.2287848949245092e+18,2020-02-15 20:55:23+00:00,['1228784894924509184'],RT @visitdubai: @roamwithrakhee #Dubai loves you too! &lt;3 &lt;3
-94,1.2286255944742257e+18,2020-02-15 10:22:23+00:00,['1228625594474225664'],RT @roamwithrakhee: Happy Saturday! Check out my latest blog on 10 reasons why I love Dubai!🏝️ https://t.co/3Q3y2W39lO #travelblog #travelb…
-95,1.2284402167358136e+18,2020-02-14 22:05:45+00:00,['1228440216735813632'],"Pics of #streetstyle at #LondonFashionWeek 
+https://t.co/nlZOnnSTKt",day trip,False
+1.2309564095184814e+18,2020-02-21 20:44:12+00:00,['1230956409518481408'],https://t.co/nlZOnnSTKt,,
+1.2284402167358136e+18,2020-02-14 22:05:45+00:00,['1228440216735813632'],"Pics of #streetstyle at #LondonFashionWeek 
 More pics at 
 https://t.co/EUa3ClqQLU
-#fashionblogger #fashiontrend #fashionaddict https://t.co/770vanCzps"
-96,1.2284314877725696e+18,2020-02-14 21:31:04+00:00,['1228431487772569603'],"RT @roamwithrakhee: Roses are red, violets are blue, I love Dubai, and here's why you should too! ♥️ https://t.co/3Q3y2W39lO #ValentinesDay…"
-97,1.2284313811618245e+18,2020-02-14 21:30:39+00:00,['1228431381161824257'],RT @roamwithrakhee: It’s #ValentinesDay! So what better day to share my next blog on the place I love most?! 10 reasons why I love Dubai!…
-98,1.2283663731240264e+18,2020-02-14 17:12:19+00:00,['1228366373124026369'],"RT @roamwithrakhee: It’s #ValentinesDay! So what better day to share my next blog on the place I love most, than today?! https://t.co/3Q3y2…"
-99,1.2283547766661816e+18,2020-02-14 16:26:15+00:00,['1228354776666181633'],"This makes interesting reading
+#fashionblogger #fashiontrend #fashionaddict https://t.co/770vanCzps",pic pic,False
+1.2283547766661816e+18,2020-02-14 16:26:15+00:00,['1228354776666181633'],"This makes interesting reading
 
 Blog - Ten reasons why I Love Dubai 
 https://t.co/7erJKAKaha
-#dubia  #ValentinesDay  #travelblogger #travelblog #travelblogging #dubiatravel"
-100,1.228056638428504e+18,2020-02-13 20:41:33+00:00,['1228056638428504075'],"RT @BethRigby: Was told that number of women in full cabinet would stay at 7/22. But it hasn't, it's 5/21 - Patel, Truss, Coffey, Trevelyan…"
-101,1.227923895010898e+18,2020-02-13 11:54:04+00:00,['1227923895010897920'],Sajid RESIGNS #reshuffle
-102,1.2275692460850135e+18,2020-02-12 12:24:50+00:00,['1227569246085013505'],Chinese Grand Prix has been postponed due to the coronavirus outbreak.
-103,1.2273509309721846e+18,2020-02-11 21:57:19+00:00,['1227350930972184583'],"David Hockney's 'The Splash' sells for £23.1 million /$29.8 million @Sothebys
-#davidhockney #thesplash #splash #auction #auctionhouse #painting #artist #sothebys https://t.co/3KaXBdefGw"
-104,1.22726673292399e+18,2020-02-11 16:22:45+00:00,['1227266732923990017'],RT @roamwithrakhee: Check out my new travel blog! https://t.co/OLI88f9BHu 🌏✈#traveltuesday #travelblog #travelblogger #blogger @theclique_u…
-105,1.2268798674231624e+18,2020-02-10 14:45:29+00:00,['1226879867423162368'],RT @HeathrowAirport: @roamwithrakhee It is incredible!! 💜
-106,1.2268798012539126e+18,2020-02-10 14:45:13+00:00,['1226879801253912582'],RT @roamwithrakhee: @VirginAtlantic That's air-mazing!! Just plane awesome! ✈ #UKPunDay
-107,1.2268009558506783e+18,2020-02-10 09:31:55+00:00,['1226800955850678272'],@ianandmj @AlamyNews Great work 🖒
-108,1.2266010833441628e+18,2020-02-09 20:17:42+00:00,['1226601083344162816'],RT @Keir_Starmer: No words can express the depth of our thanks to all the incredible staff at St Mary’s Hospital intensive care unit for th…
-109,1.2265528405812552e+18,2020-02-09 17:06:00+00:00,['1226552840581255170'],"RT @roamwithrakhee: [EXCITING NEWS: https://t.co/OLI88f9BHu] 
-I’m super excited to announce the launch of my travel blog ‘roamwithrakhee’ w…"
-110,1.2264884905332818e+18,2020-02-09 12:50:17+00:00,['1226488490533281794'],@Radical8Games Whereabout is this?
-111,1.226238840127574e+18,2020-02-08 20:18:16+00:00,['1226238840127574016'],RT @roamwithrakhee: Exciting news is on its way... https://t.co/ntHyvHgaIk
-112,1.2255277298623898e+18,2020-02-06 21:12:34+00:00,['1225527729862389766'],"In pics -  preview of the #KewOrchids at @kewgardens
+#dubia  #ValentinesDay  #travelblogger #travelblog #travelblogging #dubiatravel",make interesting reading blog ten reason love dubai,False
+1.227923895010898e+18,2020-02-13 11:54:04+00:00,['1227923895010897920'],Sajid RESIGNS #reshuffle,sajid resigns,True
+1.2275692460850135e+18,2020-02-12 12:24:50+00:00,['1227569246085013505'],Chinese Grand Prix has been postponed due to the coronavirus outbreak.,chinese grand prix postponed due coronavirus outbreak,False
+1.2273509309721846e+18,2020-02-11 21:57:19+00:00,['1227350930972184583'],"David Hockney's 'The Splash' sells for £23.1 million /$29.8 million @Sothebys
+#davidhockney #thesplash #splash #auction #auctionhouse #painting #artist #sothebys https://t.co/3KaXBdefGw",david hockney's 'the splash' sell million million,False
+1.2268009558506783e+18,2020-02-10 09:31:55+00:00,['1226800955850678272'],@ianandmj @AlamyNews Great work 🖒,great work,True
+1.2264884905332818e+18,2020-02-09 12:50:17+00:00,['1226488490533281794'],@Radical8Games Whereabout is this?,whereabout,False
+1.2255277298623898e+18,2020-02-06 21:12:34+00:00,['1225527729862389766'],"In pics -  preview of the #KewOrchids at @kewgardens
 #orchids #orchidshare
-More pics at https://t.co/GFngXAo6XD https://t.co/erOQq6Rz64"
-113,1.2255172806767124e+18,2020-02-06 20:31:03+00:00,['1225517280676712452'],https://t.co/9A9iFleVGx
-114,1.224450598776406e+18,2020-02-03 21:52:26+00:00,['1224450598776406021'],"RT @TracyBrabin: Today some journalists were locked out of an important briefing by a civil servant. 
-
-Press access to senior figures is vi…"
-115,1.2244377170286305e+18,2020-02-03 21:01:15+00:00,['1224437717028630528'],"RT @paulwaugh: I can safely say that in 22 years of being a political journalist, I've never experienced a day like today.
-No.10 sources no…"
-116,1.2244373204319846e+18,2020-02-03 20:59:40+00:00,['1224437320431984646'],RT @KateEMcCann: Lobby journalists have walked out of a Number 10 briefing after a senior aide tried to prevent some publications from atte…
-117,1.224424887038677e+18,2020-02-03 20:10:16+00:00,['1224424887038676996'],Political reporters stage boycott of Downing Street Brexit briefing https://t.co/IJ5QHEqDyb via @MailOnline
-118,1.224355334120186e+18,2020-02-03 15:33:53+00:00,['1224355334120185856'],"RT @ashcowburn: ""Asked to explain why Downing Street was denying access to some publications - including The Independent - he replied: “We…"
-119,1.2229876438830817e+18,2020-01-30 20:59:10+00:00,['1222987643883081728'],"In pics - @SecPompeo (U.S. Secretary of State Mike Pompeo) departs from No 10 Downing Street following a meeting with @BorisJohnson. 
+More pics at https://t.co/GFngXAo6XD https://t.co/erOQq6Rz64",pic preview pic,False
+1.2255172806767124e+18,2020-02-06 20:31:03+00:00,['1225517280676712452'],https://t.co/9A9iFleVGx,,
+1.224424887038677e+18,2020-02-03 20:10:16+00:00,['1224424887038676996'],Political reporters stage boycott of Downing Street Brexit briefing https://t.co/IJ5QHEqDyb via @MailOnline,political reporter stage boycott downing street brexit briefing via,False
+1.2229876438830817e+18,2020-01-30 20:59:10+00:00,['1222987643883081728'],"In pics - @SecPompeo (U.S. Secretary of State Mike Pompeo) departs from No 10 Downing Street following a meeting with @BorisJohnson. 
 #Huawei #downingstreet #MikePompeo #borisjohnson
-More pics at https://t.co/n0xyxm9BVY https://t.co/uB9am7xErV"
-120,1.222986138950021e+18,2020-01-30 20:53:12+00:00,['1222986138950021128'],"In pics - Pro-EU and @SODEMAction supporters protests outside Houses of Parliament on #BrexitEve 
+More pics at https://t.co/n0xyxm9BVY https://t.co/uB9am7xErV",pic secretary state mike pompeo departs downing street following meeting pic,False
+1.222986138950021e+18,2020-01-30 20:53:12+00:00,['1222986138950021128'],"In pics - Pro-EU and @SODEMAction supporters protests outside Houses of Parliament on #BrexitEve 
 #Brexit #BrexitDay #BrexitBritain #SODEM #LeaveEU #Remainer 
-More pics at https://t.co/Y0XMP6xtLY https://t.co/UKAckTsQR4"
-121,1.2226286142372782e+18,2020-01-29 21:12:31+00:00,['1222628614237278208'],"In pics - Impressionist, Modern &amp; Surrealist Art Sale Preview at @Sothebys 
+More pics at https://t.co/Y0XMP6xtLY https://t.co/UKAckTsQR4",pic proeu supporter protest outside house parliament pic,False
+1.2226286142372782e+18,2020-01-29 21:12:31+00:00,['1222628614237278208'],"In pics - Impressionist, Modern &amp; Surrealist Art Sale Preview at @Sothebys 
 #art #impressionistart #modernart #surrealist #Auctions #sothebys
- More pics at https://t.co/QefLWcypTe https://t.co/GWIE4sPxLn"
-122,1.2225727009731256e+18,2020-01-29 17:30:20+00:00,['1222572700973125632'],"In pics - Images of Salvador Dalí (1904-1989), Couple aux têtes de pleins nuages for auction at @bonhams1793 
+ More pics at https://t.co/QefLWcypTe https://t.co/GWIE4sPxLn",pic impressionist modern amp surrealist art sale preview pic,False
+1.2225727009731256e+18,2020-01-29 17:30:20+00:00,['1222572700973125632'],"In pics - Images of Salvador Dalí (1904-1989), Couple aux têtes de pleins nuages for auction at @bonhams1793 
 Est £7,000,000 – 10,000,000.
 #SalvadorDali #auction #bonhams #artwork #art #paintings #investment 
 More images at
-https://t.co/HzJj8DP9QG https://t.co/orjqjGkhu0"
-123,1.216678322559574e+18,2020-01-13 11:08:11+00:00,['1216678322559574016'],"Hundreds of Londoners took part in the annual #notrouserstuberide .
+https://t.co/HzJj8DP9QG https://t.co/orjqjGkhu0",pic image salvador dal couple aux ttes pleins nuages auction est image,True
+1.216678322559574e+18,2020-01-13 11:08:11+00:00,['1216678322559574016'],"Hundreds of Londoners took part in the annual #notrouserstuberide .
 #NoPantsSubwayRide #notrousersonthetube  #npsr #nopantsday  #London 
-More pics at https://t.co/MWhv43k37O https://t.co/eit2W9M73f"
-124,1.2157564689700332e+18,2020-01-10 22:05:04+00:00,['1215756468970033155'],"Video - Protesters in London demand drastic action to combat global climate crisis
+More pics at https://t.co/MWhv43k37O https://t.co/eit2W9M73f",hundred londoner took part annual pic,False
+1.2157564689700332e+18,2020-01-10 22:05:04+00:00,['1215756468970033155'],"Video - Protesters in London demand drastic action to combat global climate crisis
 #AustralianBushfireDisaster #AustraliaFires #ExtinctionRebellion
 #AustraliaOnFire
-  https://t.co/eU6rnsoS3o"
-125,1.2157441970488525e+18,2020-01-10 21:16:18+00:00,['1215744197048852480'],"In pics - #Campaigners from #ExtinctionRebellion #ClimateChange group protest outside @AusHouseLondon against the Australian government’s failure to respond to the #AustralianBushfireDisaster.
+  https://t.co/eU6rnsoS3o",video protester london demand drastic action combat global climate crisis,False
+1.2157441970488525e+18,2020-01-10 21:16:18+00:00,['1215744197048852480'],"In pics - #Campaigners from #ExtinctionRebellion #ClimateChange group protest outside @AusHouseLondon against the Australian government’s failure to respond to the #AustralianBushfireDisaster.
 #AustraliaFires #AustraliaOnFire 
-More pics at https://t.co/JLFHkdJh4H https://t.co/J9wgOK3k1a"
-126,1.2141215279286108e+18,2020-01-06 09:48:24+00:00,['1214121527928610816'],"Stock images of Labour Party leadership candidate, Sir Keir Starmer. More available from
-https://t.co/f3t7SuCQWT https://t.co/Ty8t7l3JQW"
-127,1.2135017170332426e+18,2020-01-04 16:45:29+00:00,['1213501717033242624'],"Video of @jeremycorbyn's visit to the #crimescene of a fatal #stabbing in #FinsburyPark in #NorthLondon.
+More pics at https://t.co/JLFHkdJh4H https://t.co/J9wgOK3k1a",pic group protest outside australian government failure respond pic,False
+1.2141215279286108e+18,2020-01-06 09:48:24+00:00,['1214121527928610816'],"Stock images of Labour Party leadership candidate, Sir Keir Starmer. More available from
+https://t.co/f3t7SuCQWT https://t.co/Ty8t7l3JQW",stock image labour party leadership candidate sir keir starmer available,False
+1.2135017170332426e+18,2020-01-04 16:45:29+00:00,['1213501717033242624'],"Video of @jeremycorbyn's visit to the #crimescene of a fatal #stabbing in #FinsburyPark in #NorthLondon.
 #JeremyCorbyn #murder #Londoncrime 
 https://t.co/BTXqmbiwnz
-@TheSun @guardian @SunPictureDesk @DailyMirror @Daily_Express @dailystar @Telegraph @thetimes @FT @thesundaytimes"
-128,1.212859634513535e+18,2020-01-02 22:14:05+00:00,['1212859634513534976'],"London Zoo annual stocktake.
+@TheSun @guardian @SunPictureDesk @DailyMirror @Daily_Express @dailystar @Telegraph @thetimes @FT @thesundaytimes",video visit fatal,False
+1.212859634513535e+18,2020-01-02 22:14:05+00:00,['1212859634513534976'],"London Zoo annual stocktake.
 #zsl #londonzoo #stocktake 
-@zsllondonzoo https://t.co/1Di0ltN5Ox"
-129,1.2128460798483988e+18,2020-01-02 21:20:13+00:00,['1212846079848398848'],"In pics - Animals are counted in @zsllondonzoo during the annual stocktake. 
+@zsllondonzoo https://t.co/1Di0ltN5Ox",london zoo annual stocktake,True
+1.2128460798483988e+18,2020-01-02 21:20:13+00:00,['1212846079848398848'],"In pics - Animals are counted in @zsllondonzoo during the annual stocktake. 
 #Londonzoo #zoo #animals #Penguins #Owl #Squirrelmonkeys #zsl #London 
-More pics at https://t.co/J4ymL7I34m https://t.co/JQQfyXso5m"
-130,1.2124884423760118e+18,2020-01-01 21:39:06+00:00,['1212488442376011776'],"In pics - Performers at the #LNYDP 
+More pics at https://t.co/J4ymL7I34m https://t.co/JQQfyXso5m",pic animal counted annual stocktake pic,False
+1.2124884423760118e+18,2020-01-01 21:39:06+00:00,['1212488442376011776'],"In pics - Performers at the #LNYDP 
 @VarsitySpirit @Lnydp @The_LSS @PearlySociety
 #NewYearsDay #newyearparade #Londonnewyeardayparade #Londonschoolofsamba 
-More photos at https://t.co/UsNX3jppY1 https://t.co/5rsPyVkUPJ"
-131,1.2116798019054715e+18,2019-12-30 16:05:51+00:00,['1211679801905471489'],"Dozens perform at the preview for the annual London New Year's day parade. 
+More photos at https://t.co/UsNX3jppY1 https://t.co/5rsPyVkUPJ",pic performer photo,False
+1.2116798019054715e+18,2019-12-30 16:05:51+00:00,['1211679801905471489'],"Dozens perform at the preview for the annual London New Year's day parade. 
 https://t.co/NpnmeEqefg
  @The_LSS, @Lnydp, @LSOD, @CarnavalPueblo, @GlenbrookBand
- #LNYDP #London #coventgarden #LSSdancinginthestreet"
-132,1.211678679216071e+18,2019-12-30 16:01:23+00:00,['1211678679216070656'],"In pics - Preview of London's New Year Day Parade in Covent Garden Piazza. 
+ #LNYDP #London #coventgarden #LSSdancinginthestreet",dozen perform preview annual london new year's day parade,False
+1.211678679216071e+18,2019-12-30 16:01:23+00:00,['1211678679216070656'],"In pics - Preview of London's New Year Day Parade in Covent Garden Piazza. 
  @The_LSS @Lnydp @LSOD @CarnavalPueblo @GlenbrookBand 
  #LNYDP #London #coventgarden #LSSdancinginthestreet 
 
- More pics at https://t.co/xc96Gu9kjP https://t.co/rECDaybgP3"
-133,1.2109731958991462e+18,2019-12-28 17:18:03+00:00,['1210973195899146240'],"Stock Images of Attorney General Geoffrey Cox available from https://t.co/TfdBUUuaoZ
+ More pics at https://t.co/xc96Gu9kjP https://t.co/rECDaybgP3",pic preview london's new year day parade covent garden piazza pic,False
+1.2109731958991462e+18,2019-12-28 17:18:03+00:00,['1210973195899146240'],"Stock Images of Attorney General Geoffrey Cox available from https://t.co/TfdBUUuaoZ
 
-#cox, #GeoffreyCox #AttorneyGeneral #brexit #cabinetreshuffle https://t.co/RZh9e5ZZKh"
-134,1.2101773036297626e+18,2019-12-26 12:35:27+00:00,['1210177303629762560'],Accident on M1 on Christmas Day :  https://t.co/lO3O2ixOHn
-135,1.2095206726339994e+18,2019-12-24 17:06:14+00:00,['1209520672633999365'],"Flooding in #haringay
-https://t.co/fEBTt68BRY"
-136,1.202992639207002e+18,2019-12-06 16:46:10+00:00,['1202992639207002119'],"In pics - @WiddecombeAnn speaking at @brexitparty_uk event in #Westminster
+#cox, #GeoffreyCox #AttorneyGeneral #brexit #cabinetreshuffle https://t.co/RZh9e5ZZKh",stock image attorney general geoffrey cox available,False
+1.2101773036297626e+18,2019-12-26 12:35:27+00:00,['1210177303629762560'],Accident on M1 on Christmas Day :  https://t.co/lO3O2ixOHn,accident christmas day,False
+1.2095206726339994e+18,2019-12-24 17:06:14+00:00,['1209520672633999365'],"Flooding in #haringay
+https://t.co/fEBTt68BRY",flooding,True
+1.202992639207002e+18,2019-12-06 16:46:10+00:00,['1202992639207002119'],"In pics - @WiddecombeAnn speaking at @brexitparty_uk event in #Westminster
 #GE2019 #BrexitParty #brexit #GeneralElection #UKPolitics 
 More pics at 
-https://t.co/s2qSJLBMJH https://t.co/78vkDkbSIP"
-137,1.2023440607632015e+18,2019-12-04 21:48:57+00:00,['1202344060763201536'],"In pics - A herd of 21 elephants on #MarbleArch. The sculpture, commissioned by @SheldrickTrust is the largest such sculpture of an elephant herd in the world. #elephantsoftomorrow #marblearch 
+https://t.co/s2qSJLBMJH https://t.co/78vkDkbSIP",pic speaking event pic,False
+1.2023440607632015e+18,2019-12-04 21:48:57+00:00,['1202344060763201536'],"In pics - A herd of 21 elephants on #MarbleArch. The sculpture, commissioned by @SheldrickTrust is the largest such sculpture of an elephant herd in the world. #elephantsoftomorrow #marblearch 
 @ZacGoldsmith @StanleyPJohnson @PeterEgan6 
-More pics at https://t.co/hvbCuDxuzQ https://t.co/htLhJu5c7V"
-138,1.2023432912216924e+18,2019-12-04 21:45:53+00:00,['1202343291221692421'],"In pics - A herd of 21 elephants on #MarbleArch. The sculpture, commissioned by @SheldrickTrust is the largest such sculpture of an elephant herd in the world. #elephantsoftomorrow #marblearch 
+More pics at https://t.co/hvbCuDxuzQ https://t.co/htLhJu5c7V",pic herd elephant sculpture commissioned largest sculpture elephant herd world pic,False
+1.2023432912216924e+18,2019-12-04 21:45:53+00:00,['1202343291221692421'],"In pics - A herd of 21 elephants on #MarbleArch. The sculpture, commissioned by @SheldrickTrust is the largest such sculpture of an elephant herd in the world. #elephantsoftomorrow #marblearch 
 @ZacGoldsmith @StanleyPJohnson
-https://t.co/Q9BjZRddHK https://t.co/7AZAG9ftfs"
-139,1.197264044639576e+18,2019-11-20 21:22:46+00:00,['1197264044639576065'],"In pics - Prime Minister @BorisJohnson at the @CBItweets conference in London.
+https://t.co/Q9BjZRddHK https://t.co/7AZAG9ftfs",pic herd elephant sculpture commissioned largest sculpture elephant herd world,False
+1.197264044639576e+18,2019-11-20 21:22:46+00:00,['1197264044639576065'],"In pics - Prime Minister @BorisJohnson at the @CBItweets conference in London.
 #BorisJohnson #GetBrexitDone #Conservatives #CBI2019 #PrimeMinister #brexit #GeneralElection 
-More pics at https://t.co/OFUzLvjXPb https://t.co/xv18ytKrfK"
-140,1.1972628632258028e+18,2019-11-20 21:18:05+00:00,['1197262863225802752'],"In pics - Leader of @UKLabour, @jeremycorbyn at the annual @CBItweets conference in London.
+More pics at https://t.co/OFUzLvjXPb https://t.co/xv18ytKrfK",pic prime minister conference london pic,False
+1.1972628632258028e+18,2019-11-20 21:18:05+00:00,['1197262863225802752'],"In pics - Leader of @UKLabour, @jeremycorbyn at the annual @CBItweets conference in London.
 More pics at https://t.co/brifWVDi6C
-#LabourParty #JeremyCorbyn #CBI2019 https://t.co/yIRmxDD2uK"
-141,1.19726168507938e+18,2019-11-20 21:13:24+00:00,['1197261685079379970'],"In pics - Leader of the @LibDems, @joswinson at the annual @CBItweets conference in London. 
+#LabourParty #JeremyCorbyn #CBI2019 https://t.co/yIRmxDD2uK",pic leader annual conference london pic,False
+1.19726168507938e+18,2019-11-20 21:13:24+00:00,['1197261685079379970'],"In pics - Leader of the @LibDems, @joswinson at the annual @CBItweets conference in London. 
 #CBI2019 #LibDems #LibDem #JoSwinson 
-More pics at https://t.co/V1oZ88kGdP https://t.co/IQEl6dNraR"
-142,1.1961802093488742e+18,2019-11-17 21:36:00+00:00,['1196180209348874241'],RT @standardsport: Powerful photograph from the #ATPFinals taken by Alberto Pezzali 👌 https://t.co/ArwAVWtf6e
-143,1.195454667758719e+18,2019-11-15 21:32:57+00:00,['1195454667758718977'],"In pics - #activists from #ExtinctionRebellion #ClimateChange group #protest outside the office of #Blackrock in #London. 
+More pics at https://t.co/V1oZ88kGdP https://t.co/IQEl6dNraR",pic leader annual conference london pic,False
+1.195454667758719e+18,2019-11-15 21:32:57+00:00,['1195454667758718977'],"In pics - #activists from #ExtinctionRebellion #ClimateChange group #protest outside the office of #Blackrock in #London. 
 @XRebellionUK 
-More pics at https://t.co/VJ0SVzJIIf https://t.co/m1ZM1TTdsS"
-144,1.19472498781662e+18,2019-11-13 21:13:28+00:00,['1194724987816620033'],"“The Eiffel Tower” comes to Kings Cross St Pancras International.
+More pics at https://t.co/VJ0SVzJIIf https://t.co/m1ZM1TTdsS",pic group outside office pic,False
+1.19472498781662e+18,2019-11-13 21:13:28+00:00,['1194724987816620033'],"“The Eiffel Tower” comes to Kings Cross St Pancras International.
 More pics at https://t.co/Ym51K5Ll22
 #TheEiffelTower #perfumebottles #KingsCross #Lancome, #ChristmasIsComing #ChristmasTree #christmasinLondon
-#kingscrossstpancras #Festiveseason #xmas2019 #xmasdecoration https://t.co/4GUAB2B02l"
-145,1.1939485228334694e+18,2019-11-11 17:48:04+00:00,['1193948522833469440'],"In pics - Preview of British artist Steve McQueen’s ""Year 3"" exhibition @Tate, featuring Year 3 pupils in 613 posters across London's 33 boroughs. 
+#kingscrossstpancras #Festiveseason #xmas2019 #xmasdecoration https://t.co/4GUAB2B02l",eiffel tower come king cross pancras international pic,False
+1.1939485228334694e+18,2019-11-11 17:48:04+00:00,['1193948522833469440'],"In pics - Preview of British artist Steve McQueen’s ""Year 3"" exhibition @Tate, featuring Year 3 pupils in 613 posters across London's 33 boroughs. 
 #SteveMcQueen #Exhibition #art #year3project 
-More pics at https://t.co/UVsMEtTEvF https://t.co/FkAJweqbLi"
-146,1.191314646868869e+18,2019-11-04 11:22:00+00:00,['1191314646868869120'],"RT @guardian: Guardian front page, Monday 4 November 2019: Obey me on Brexit, Corbyn warns cabinet dissenters https://t.co/cQjZ71U9LT"
-147,1.191102307263488e+18,2019-11-03 21:18:14+00:00,['1191102307263488001'],"Dancers in colourful saris and costumes perform an Annakut Dance -  traditional Gujarati folk dance in Trafalgar Square to celebrate #Diwali.
+More pics at https://t.co/UVsMEtTEvF https://t.co/FkAJweqbLi",pic preview british artist steve mcqueens year exhibition featuring year pupil poster across london's borough pic,False
+1.191102307263488e+18,2019-11-03 21:18:14+00:00,['1191102307263488001'],"Dancers in colourful saris and costumes perform an Annakut Dance -  traditional Gujarati folk dance in Trafalgar Square to celebrate #Diwali.
 #DiwaliLDN #Diwali2019 #Gaarba #DOTS #DIL2019 #FunAndFestivities
 @DiwaliLondon 
-More pics at https://t.co/6ZgXUawYb0 https://t.co/KCnINrG83v"
-148,1.1911014818413158e+18,2019-11-03 21:14:57+00:00,['1191101481841315842'],"Dancers in colourful saris and costumes perform an Annakut Dance -  traditional Gujarati folk dance in Trafalgar Square to celebrate #Diwali.
+More pics at https://t.co/6ZgXUawYb0 https://t.co/KCnINrG83v",dancer colourful sari costume perform annakut dance traditional gujarati folk dance trafalgar square celebrate pic,False
+1.1911014818413158e+18,2019-11-03 21:14:57+00:00,['1191101481841315842'],"Dancers in colourful saris and costumes perform an Annakut Dance -  traditional Gujarati folk dance in Trafalgar Square to celebrate #Diwali.
 #DiwaliLDN #Diwali2019 #Gaarba #DOTS #DIL2019 #FunAndFestivities
 @DiwaliLondon
 
-More pics at https://t.co/Eu8foUOe44 https://t.co/dwImDMGQWW"
-149,1.1852379184257802e+18,2019-10-18 16:55:15+00:00,['1185237918425780225'],RT @thatginamiller: In an attempt to explain how terrible the @BorisJohnson #BrexitDeal is - I've penned this article with expert legal inp…
-150,1.1771774703757967e+18,2019-09-26 11:05:54+00:00,['1177177470375796736'],"RT @BBCPolitics: Jo Cox's sister, Kim Leadbeater, says ""we don't want Jo's name to be used as a way of silencing this important discussion""…"
-151,1.1765254130588303e+18,2019-09-24 15:54:51+00:00,['1176525413058830337'],RT @thatginamiller: Our win in the Supreme Court still sinking in. No-one should allow @BorisJohnson to downplay the magnitude of it in ter…
-152,1.1751470675824026e+18,2019-09-20 20:37:48+00:00,['1175147067582402567'],"In pics - tens of thousands of #students take part in the #GlobalClimateStrike in London .
+More pics at https://t.co/Eu8foUOe44 https://t.co/dwImDMGQWW",dancer colourful sari costume perform annakut dance traditional gujarati folk dance trafalgar square celebrate pic,False
+1.1751470675824026e+18,2019-09-20 20:37:48+00:00,['1175147067582402567'],"In pics - tens of thousands of #students take part in the #GlobalClimateStrike in London .
 More pics at https://t.co/lsf4WPefTS
-#ClimateStrikelondon #ClimateStrikes #ClimateStrike #ClimateEmergency #StudentStrike4Climate #climateemergencyhour https://t.co/8UFI2Cwc5F"
-153,1.1742926254630953e+18,2019-09-18 12:02:33+00:00,['1174292625463095296'],"RT @BBCPolitics: ""There are not enough doctors, there are not enough nurses. The NHS is being destroyed, and now you come here for a press…"
-154,1.1736131504591135e+18,2019-09-16 15:02:34+00:00,['1173613150459113474'],"RT @bbclaurak: Whatever side you are on, having been outside the presser that never happened, it would have been total pandemonium if it ha…"
-155,1.1736130981938872e+18,2019-09-16 15:02:21+00:00,['1173613098193887233'],"RT @bbclaurak: So today, Number 10 and Luxembourg govt couldn't even agree on how and where to hold a press conference."
-156,1.1700284637697352e+18,2019-09-06 17:38:18+00:00,['1170028463769735169'],"@virginmedia I don't understand then what's the point of having you guys? @richardbranson 
-Whats your complaints procedure?"
-157,1.1700261305580708e+18,2019-09-06 17:29:02+00:00,['1170026130558070784'],@virginmedia I had to waitvfor 45 mins for someone to reply via that service. @richardbranson #poorservice #stopmessingabout
-158,1.1700258403626107e+18,2019-09-06 17:27:53+00:00,['1170025840362610694'],@virginmedia @richardbranson what? Joke in it self that you don't take dms. #poorservice
-159,1.1700211090157322e+18,2019-09-06 17:09:04+00:00,['1170021109015732224'],@virginmedia Can you follow me back so that I  can send you a dm.
-160,1.1700140612344013e+18,2019-09-06 16:41:04+00:00,['1170014061234401282'],@billy77483355 @virginmedia @richardbranson to note my tweet.
-161,1.17001207143143e+18,2019-09-06 16:33:10+00:00,['1170012071431430145'],@virginmedia one of the worst service I have received from a manager of Cable service department. #poorservice #unprofessional
-162,1.1689831730967757e+18,2019-09-03 20:24:41+00:00,['1168983173096775682'],"In pics - #StopTheCoup protest in #Westminster 
+#ClimateStrikelondon #ClimateStrikes #ClimateStrike #ClimateEmergency #StudentStrike4Climate #climateemergencyhour https://t.co/8UFI2Cwc5F",pic ten thousand take part london pic,False
+1.1700284637697352e+18,2019-09-06 17:38:18+00:00,['1170028463769735169'],"@virginmedia I don't understand then what's the point of having you guys? @richardbranson 
+Whats your complaints procedure?",understand what's point guy whats complaint procedure,False
+1.1700261305580708e+18,2019-09-06 17:29:02+00:00,['1170026130558070784'],@virginmedia I had to waitvfor 45 mins for someone to reply via that service. @richardbranson #poorservice #stopmessingabout,waitvfor min someone reply via service,False
+1.1700258403626107e+18,2019-09-06 17:27:53+00:00,['1170025840362610694'],@virginmedia @richardbranson what? Joke in it self that you don't take dms. #poorservice,joke self take,False
+1.1700211090157322e+18,2019-09-06 17:09:04+00:00,['1170021109015732224'],@virginmedia Can you follow me back so that I  can send you a dm.,follow back send,False
+1.1700140612344013e+18,2019-09-06 16:41:04+00:00,['1170014061234401282'],@billy77483355 @virginmedia @richardbranson to note my tweet.,note tweet,False
+1.17001207143143e+18,2019-09-06 16:33:10+00:00,['1170012071431430145'],@virginmedia one of the worst service I have received from a manager of Cable service department. #poorservice #unprofessional,one worst service received manager cable service department,False
+1.1689831730967757e+18,2019-09-03 20:24:41+00:00,['1168983173096775682'],"In pics - #StopTheCoup protest in #Westminster 
 #StopBrexit #StopTheBrexitCoup #StopBrexitSaveDemocracy #StopBrexitSaveBritain #protest 
-More pics at https://t.co/yQRVvnIhw7 https://t.co/0RY6h7ecsl"
-163,1.167718611450028e+18,2019-08-31 08:39:46+00:00,['1167718611450028033'],@ianandmj Well done.
-164,1.1667884351531622e+18,2019-08-28 19:03:35+00:00,['1166788435153162240'],RT @JackWynTaylor: Recent work with @joerwallen and @rebeccajconway on polyandry and the gender imbalance in Uttar Pradesh. An important st…
-165,1.16484722543394e+18,2019-08-23 10:29:55+00:00,['1164847225433939968'],RT @BBCVickiYoung: It’s not even 11.30! https://t.co/FuBUFIIZTc
-166,1.163739542433751e+18,2019-08-20 09:08:22+00:00,['1163739542433751040'],#openhouse website down already!!!!!
-167,1.1587469372956426e+18,2019-08-06 14:29:32+00:00,['1158746937295642624'],@imageplotter Well done.
-168,1.1554195022822687e+18,2019-07-28 10:07:30+00:00,['1155419502282268673'],RT @BethRigby: This is worth reading. A quality piece. But why is PM Johnson called Boris throughout? Other senior politicians are all addr…
-169,1.155384807238656e+18,2019-07-28 07:49:38+00:00,['1155384807238656000'],@sinisterpics @imageplotter And how is the new Home Secretary going to reduce such crime?
-170,1.154130507543851e+18,2019-07-24 20:45:30+00:00,['1154130507543851009'],@imageplotter @joswinson Thanks. It wasn't easy due to lack of space and poor lighting.
-171,1.1540734179996672e+18,2019-07-24 16:58:39+00:00,['1154073417999667205'],@BethRigby Mundell to be added.
-172,1.1533902455866368e+18,2019-07-22 19:43:58+00:00,['1153390245586636802'],"In pics - @joswinson elected as Liberal Democrats leader
+More pics at https://t.co/yQRVvnIhw7 https://t.co/0RY6h7ecsl",pic protest pic,False
+1.167718611450028e+18,2019-08-31 08:39:46+00:00,['1167718611450028033'],@ianandmj Well done.,well done,True
+1.163739542433751e+18,2019-08-20 09:08:22+00:00,['1163739542433751040'],#openhouse website down already!!!!!,website already,False
+1.1587469372956426e+18,2019-08-06 14:29:32+00:00,['1158746937295642624'],@imageplotter Well done.,well done,True
+1.155384807238656e+18,2019-07-28 07:49:38+00:00,['1155384807238656000'],@sinisterpics @imageplotter And how is the new Home Secretary going to reduce such crime?,new home secretary going reduce crime,False
+1.154130507543851e+18,2019-07-24 20:45:30+00:00,['1154130507543851009'],@imageplotter @joswinson Thanks. It wasn't easy due to lack of space and poor lighting.,thanks easy due lack space poor lighting,False
+1.1540734179996672e+18,2019-07-24 16:58:39+00:00,['1154073417999667205'],@BethRigby Mundell to be added.,mundell added,True
+1.1533902455866368e+18,2019-07-22 19:43:58+00:00,['1153390245586636802'],"In pics - @joswinson elected as Liberal Democrats leader
 #JoSwinson #LibDemLeadership #LibDems #Brexit #LibDem #politics 
 
-More pics at https://t.co/1zpeqxS3yV https://t.co/xPc1IhUmZ0"
-173,1.1528492007633265e+18,2019-07-21 07:54:03+00:00,['1152849200763326464'],RT @vickieflores: Don't forget to look up! Saw my first ever Red Kite yesterday (think it was looking for dinner) and such a lovely surpris…
-174,1.152673432334721e+18,2019-07-20 20:15:36+00:00,['1152673432334721025'],"In pics #MarchForChange protest in #London 
+More pics at https://t.co/1zpeqxS3yV https://t.co/xPc1IhUmZ0",pic elected liberal democrat leader pic,False
+1.152673432334721e+18,2019-07-20 20:15:36+00:00,['1152673432334721025'],"In pics #MarchForChange protest in #London 
 #StopBrexit #BollocksToBrexit #PeoplesVote #NoToBoris #Remain
 #YestoEurope #StopBrexitSaveBritain 
-More pics at https://t.co/57gMcHLO4N https://t.co/w63vejgOQ7"
-175,1.152604609019568e+18,2019-07-20 15:42:07+00:00,['1152604609019568128'],"In pics #MarchForChange protest in #London 
+More pics at https://t.co/57gMcHLO4N https://t.co/w63vejgOQ7",pic protest pic,False
+1.152604609019568e+18,2019-07-20 15:42:07+00:00,['1152604609019568128'],"In pics #MarchForChange protest in #London 
 #StopBrexit #BollocksToBrexit #PeoplesVote #NoToBoris #Remain
 #YestoEurope #StopBrexitSaveBritain 
-More pics at https://t.co/RMP1GMtnd2 https://t.co/byA7cVeKik"
-176,1.1515869279230936e+18,2019-07-17 20:18:13+00:00,['1151586927923093505'],"In pics - Former British boxer @mrdavidhaye in @PottersFieldsPa
+More pics at https://t.co/RMP1GMtnd2 https://t.co/byA7cVeKik",pic protest pic,False
+1.1515869279230936e+18,2019-07-17 20:18:13+00:00,['1151586927923093505'],"In pics - Former British boxer @mrdavidhaye in @PottersFieldsPa
 #boxer #boxing #sports #davidhaye #pottersfield
-More pics at https://t.co/vYUdzqJ7a8 https://t.co/i1PI2zbUo8"
-177,1.15158373174605e+18,2019-07-17 20:05:31+00:00,['1151583731746050048'],"RT @bbclaurak: Hunt says he'd have a budget first week of Sept but like Johnson, won't say when he'd have a Queen's Speech"
-178,1.151578714259501e+18,2019-07-17 19:45:35+00:00,['1151578714259501058'],"RT @bbclaurak: Hunt being introduced by a young activist, Elena Bunbury,  rather than one of his Cabinet mates ...she's a switcher"
-179,1.1515712174151188e+18,2019-07-17 19:15:48+00:00,['1151571217415118848'],"In pics - Preview of  #HeleneSchjerfbeck's first ever exhibition in the UK at @royalacademy. The exhibition opens this weekend. 
+More pics at https://t.co/vYUdzqJ7a8 https://t.co/i1PI2zbUo8",pic former british boxer pic,False
+1.1515712174151188e+18,2019-07-17 19:15:48+00:00,['1151571217415118848'],"In pics - Preview of  #HeleneSchjerfbeck's first ever exhibition in the UK at @royalacademy. The exhibition opens this weekend. 
 #art #exhibition #artexhibition #Finland 
 More pics at 
-https://t.co/kN9k667xEl https://t.co/rTfV3StXCg"
-180,1.1515670799774884e+18,2019-07-17 18:59:21+00:00,['1151567079977488385'],RT @ianandmj: A rally in Westminster for Shukri Abdi #JusticeForShukri a 12 year old killed in Bury   .@justice4shukri  Protesters alleged…
-181,1.1515662717980262e+18,2019-07-17 18:56:08+00:00,['1151566271798026240'],RT @BethRigby: The crowd love Johnson’s Brexit optimism and his promise to leave come what may on October 31. But just on the matter of Xma…
-182,1.1515642716225126e+18,2019-07-17 18:48:12+00:00,['1151564271622512643'],RT @BethRigby: Truss says “we’re ready for it” But I interviewed Steve Barclay the other week who said it was imperative that the govt step…
-183,1.1508561542071296e+18,2019-07-15 19:54:23+00:00,['1150856154207129604'],RT @imageplotter: I think the second cousin of Jeremy Corbyn's shouty Spanish lady is sitting opposite me on the train right now. I have ju…
-184,1.1503418121560228e+18,2019-07-14 09:50:34+00:00,['1150341812156022784'],RT @MusicTrespass: Awesome shots by #IanDavidson of @FleurEast from this years @evokefestival in #Brentwood #Essex - Please check out other…
-185,1.1500763238403644e+18,2019-07-13 16:15:37+00:00,['1150076323840364546'],RT @ianandmj: .@evokefestival The Kubricks on the main stage #Brentwood Festival; unique atmosphere; a mixed smell of toilets and cannabis…
-186,1.1493684764332892e+18,2019-07-11 17:22:53+00:00,['1149368476433289216'],"RT @ianandmj: Central Criminal Court, the Old Bailey,  This morning..... https://t.co/5K3mva6vbL"
-187,1.1493623264176742e+18,2019-07-11 16:58:27+00:00,['1149362326417674240'],RT @BBCNormanS: Hola ! Bizarre media moments.  This is what the woman shouting at reporters in Spanish outside Mr Corbyn's house said - “Th…
-188,1.1490321808128328e+18,2019-07-10 19:06:34+00:00,['1149032180812832768'],"RT @ianandmj: Mims Davies, .@mimsdavies  sports minister, opened and played in the .@netballengland International Parliamentary netball com…"
-189,1.1490320586034136e+18,2019-07-10 19:06:05+00:00,['1149032058603413504'],RT @ianandmj: Mims Davies MP  .@mimsdavies #fitgotreal #thisgirlcan  played in the .@netballengland .@SportsEngine International Parliament…
-190,1.1489485711835588e+18,2019-07-10 13:34:20+00:00,['1148948571183558656'],@BBCVickiYoung India requires 42 in 24 balls.
-191,1.1489483667741942e+18,2019-07-10 13:33:31+00:00,['1148948366774194176'],RT @BBCVickiYoung: I know there’s a lot going on in Westminster right now but....cricket. #INDvNZ #CWC
-192,1.1486888024346828e+18,2019-07-09 20:22:06+00:00,['1148688802434682880'],RT @BethRigby: Hunt. Says he should be PM cos he tells it how it is and gets things done. Points out he stuck up for May re Trump today (ap…
-193,1.1486887107639951e+18,2019-07-09 20:21:44+00:00,['1148688710763995137'],RT @BethRigby: Both sides in spin room are claiming victory but Hunt had edge in 2nd half. Rattled Johnson on tax cuts &amp; clearly won room o…
-194,1.1486824455643668e+18,2019-07-09 19:56:51+00:00,['1148682445564366849'],RT @BethRigby: Half time. I’d say they were evenly matched in round one. But big point of difference. Hunt won’t prorogue parliament while…
-195,1.1486818398565745e+18,2019-07-09 19:54:26+00:00,['1148681839856574466'],RT @BethRigby: So... May and Hunt clear that Sir Kim will stay in post and Johnson refuses to give that commitment. That is a very big deal…
-196,1.1486817764302356e+18,2019-07-09 19:54:11+00:00,['1148681776430235648'],RT @BethRigby: It’s shifting in the room now. Johnson seems to have lost the audience over his refusal to answer on whether he’ll back our…
-197,1.1486816527905423e+18,2019-07-09 19:53:42+00:00,['1148681652790542336'],RT @BethRigby: Julie tells them “enough”. She is having to treat two men who would be our prime minister like I have to treat my two childr…
-198,1.1486752395822816e+18,2019-07-09 19:28:13+00:00,['1148675239582281728'],RT @BethRigby: Johnson asked whether he’ll do a deal with Brexit party. Says he’s not about making deals for anyone and says Tories can do…
-199,1.1486751763238298e+18,2019-07-09 19:27:58+00:00,['1148675176323829762'],"RT @BethRigby: Will you prorogue parliament?
-- Hunt says No
-- Johnson “I’m not taking anything off the table just as I am not taking No Dea…"
-200,1.1486730513384448e+18,2019-07-09 19:19:31+00:00,['1148673051338444800'],RT @BethRigby: Johnson refuses to answer Hunt’s question on whether he’ll resign. Hunt says Johnson promised Do or Die but wouldn’t put his…
-201,1.1486730266967244e+18,2019-07-09 19:19:25+00:00,['1148673026696724480'],"RT @BethRigby: Hunt on No Deal:
-We can get through this but we can’t get through it if we don’t plan. Says he has a 10-point plan to help b…"
-202,1.1486726042759578e+18,2019-07-09 19:17:44+00:00,['1148672604275957762'],"RT @nickeardleybbc: This is feisty.
-
-Hunt to Johnson: “It’s not do or die, it’s just Boris Johnson in No 10 that matters”"
-203,1.1486720558119854e+18,2019-07-09 19:15:34+00:00,['1148672055811985410'],"RT @BethRigby: NI border plan.
-Hunt brandishes a 202-pg doco. Goes into detail: mobile checks, trusted traded scheme and use of technology.…"
-204,1.1486708464976896e+18,2019-07-09 19:10:45+00:00,['1148670846497689600'],"RT @BethRigby: Johnson: Says he will come out on Oct 31. 
-And says to concentrate the minds of those on continent must prepare for No Deal.…"
-205,1.1486702648609137e+18,2019-07-09 19:08:27+00:00,['1148670264860913664'],"RT @BethRigby: Tony Scrace wants Nigel Farage in No 10. Can you promise me we’ll leave Oct 31
-- Hunt: I’m as keen as you &amp; Boris to leave o…"
-206,1.1486697475690044e+18,2019-07-09 19:06:23+00:00,['1148669747569004544'],"RT @BethRigby: Hunt opening statement 
-- I will deliver Brexit but I’ll do so much more 
-- Touts his experience as health secretary
-- Tells…"
-207,1.1486695596348376e+18,2019-07-09 19:05:38+00:00,['1148669559634837505'],"RT @BethRigby: Johnson opening statement:
-- We have to get Brexit done by Oct 31 and then promises more money for schools, police. 
-- Attac…"
-208,1.148665762787287e+18,2019-07-09 18:50:33+00:00,['1148665762787287040'],RT @itvnews: At 8pm Boris Johnson and Jeremy Hunt will face questions from the public on Britain's Next Prime Minister: The ITV Debate. Wat…
-209,1.1486268049886863e+18,2019-07-09 16:15:45+00:00,['1148626804988686336'],Wimbledon spectator blasted by Meghan's aides was taking selfie https://t.co/0q8fsduMff via https://t.co/A9jngGL6I5
-210,1.1486221093520916e+18,2019-07-09 15:57:05+00:00,['1148622109352091650'],RT @ianandmj: I asked Liz Truss .@trussliz this morning if she was going to be the next ambassador to the USA: she seemed to think this was…
-211,1.1486212393191793e+18,2019-07-09 15:53:38+00:00,['1148621239319179264'],"RT @GreenhalghSarah: Diplomatic crisis deepens, but at 10 Downing Street - an anchor of stability. 🇬🇧 🇺🇸 🐾 @Number10cat https://t.co/lItwcx…"
-212,1.1485563723987396e+18,2019-07-09 11:35:52+00:00,['1148556372398739456'],Tennis fans were ordered not to take pictures of Meghan at Wimbledon https://t.co/SFr969dBfg via https://t.co/A9jngGL6I5
-213,1.1485554914942484e+18,2019-07-09 11:32:22+00:00,['1148555491494248449'],RT @ClaudeMontminy: Ma dernière peinture. Des toits anglais avant l’orage. D’après une formidable photo de @coloursphotos #peinture #anglet…
-214,1.1485523111045734e+18,2019-07-09 11:19:44+00:00,['1148552311104573441'],@ioannisAlexopo3 @DailyMirror Thank you.
-215,1.1483280719903375e+18,2019-07-08 20:28:41+00:00,['1148328071990337537'],"Great work @agrayphoto
-Puffins fight on Shetland nature reserve that is home to 50,000 pairs https://t.co/9c2AuWJb9q via https://t.co/A9jngGL6I5"
-216,1.1476116268347104e+18,2019-07-06 21:01:48+00:00,['1147611626834710528'],"Watch is #pridelondon2019 video 
+https://t.co/kN9k667xEl https://t.co/rTfV3StXCg",pic preview first ever exhibition exhibition open weekend pic,False
+1.1489485711835588e+18,2019-07-10 13:34:20+00:00,['1148948571183558656'],@BBCVickiYoung India requires 42 in 24 balls.,india requires ball,True
+1.1486268049886863e+18,2019-07-09 16:15:45+00:00,['1148626804988686336'],Wimbledon spectator blasted by Meghan's aides was taking selfie https://t.co/0q8fsduMff via https://t.co/A9jngGL6I5,wimbledon spectator blasted meghan's aide taking selfie via,False
+1.1485563723987396e+18,2019-07-09 11:35:52+00:00,['1148556372398739456'],Tennis fans were ordered not to take pictures of Meghan at Wimbledon https://t.co/SFr969dBfg via https://t.co/A9jngGL6I5,tennis fan ordered take picture meghan wimbledon via,False
+1.1485523111045734e+18,2019-07-09 11:19:44+00:00,['1148552311104573441'],@ioannisAlexopo3 @DailyMirror Thank you.,thank,False
+1.1483280719903375e+18,2019-07-08 20:28:41+00:00,['1148328071990337537'],"Great work @agrayphoto
+Puffins fight on Shetland nature reserve that is home to 50,000 pairs https://t.co/9c2AuWJb9q via https://t.co/A9jngGL6I5",great work puffin fight shetland nature reserve home pair via,False
+1.1476116268347104e+18,2019-07-06 21:01:48+00:00,['1147611626834710528'],"Watch is #pridelondon2019 video 
 https://t.co/ju5bhKQUgI
-#Pride #PrideJubilee #PrideMarch #PrideParade #pridelondon #loveislove #PrideMonth2019 #prideinLondon #pridelondon2019 @PrideInLondon"
-217,1.1474974827688018e+18,2019-07-06 13:28:14+00:00,['1147497482768801793'],"In pics - Over 30,000 participants take part in the annual #LondonPride Parade in London. Over 1 million people lined along the route  in support of the #LGBT community.
-#PrideInLondon #pridelondon2019 #PrideJubilee #Pride More pics at https://t.co/Pm12EOYd5c https://t.co/9D76Huk10z"
-218,1.1468851105512736e+18,2019-07-04 20:54:53+00:00,['1146885110551273476'],RT @TheBPPA: Photographers’ fury as British Basketball Federation demand free images – Sports Journalists' Association https://t.co/NmwsV9s…
-219,1.1468620863808266e+18,2019-07-04 19:23:23+00:00,['1146862086380826625'],RT @jesshurdphoto: Why have @PrideInLondon banned #press #photographers? They say it’s about “security” but I suspect it is about corporate…
-220,1.146857529848324e+18,2019-07-04 19:05:17+00:00,['1146857529848324099'],@imageplotter @ianandmj @MartinDaltonPix @PeteManningFoto @PrideInLondon @NUJPhoto And wire photographers.
-221,1.1468098564579246e+18,2019-07-04 15:55:51+00:00,['1146809856457924608'],"BPPA Response to Pride in London on the The BPPA Website: https://t.co/lN2dKxazrT #prideinlondon @MayorofLondon #freedomeofpress 
-@PrideInLondon act before the event please."
-222,1.1465235522852576e+18,2019-07-03 20:58:10+00:00,['1146523552285257729'],"An #airsidedriver is seen sleeping at the wheel of his vehicle on the tarmac at @TorontoPearsont, Canada. https://t.co/OolZySmyEh
-@DailyMailUK @Telegraph @TheSun @guardian @DailyMirror @Daily_Star @standardnews @cnni @BBCWorld @TorontoStar @globeandmail"
-223,1.1437910964489176e+18,2019-06-26 08:00:22+00:00,['1143791096448917504'],"RT @BBCPolitics: ""I shall be supporting Jeremy Hunt,"" says former Michael Gove supporter and Education Secretary Damian Hinds, ""It's not be…"
-224,1.1437770276124017e+18,2019-06-26 07:04:28+00:00,['1143777027612401665'],"RT @tamcohen: Boris Jphnson has boxed himself in to 31 October ""do or die"" - allowing his backers to make it all about the date 👇
-
-Big gamb…"
-225,1.1437747507470582e+18,2019-06-26 06:55:25+00:00,['1143774750747058176'],RT @MishalHusain: Rory Stewart confirms to #r4today he is now supporting Jeremy Hunt .. and says parliament will find ways to block a no de…
-226,1.1437725468248556e+18,2019-06-26 06:46:40+00:00,['1143772546824855552'],"RT @johnestevens: 🧦 The socks are from the @britishmuseum shop and cost £5.99 a pair
-
-👑 They depict King Ashurbanipal who called himself ""K…"
-227,1.1437725016270644e+18,2019-06-26 06:46:29+00:00,['1143772501627064320'],RT @johnestevens: I now believe Boris Johnson has worn the same socks on 3 of the last 4 days https://t.co/qrBjT32aPd
-228,1.1437724538161972e+18,2019-06-26 06:46:17+00:00,['1143772453816197120'],"RT @johnestevens: Has Boris Johnson only got one pair of socks?
-
-Pictured at the hustings on Saturday and during today's @talkRADIO intervi…"
-229,1.143168358612951e+18,2019-06-24 14:45:50+00:00,['1143168358612951040'],"RT @BBCPolitics: Jeremy Hunt says it's ""incredibly disappointing"" that rival Boris Johnson will not take part in Sky's Tory leadership deba…"
-230,1.1430959660667944e+18,2019-06-24 09:58:10+00:00,['1143095966066794497'],RT @SkyNews: Sky News postpones leadership debate after Johnson declines invite https://t.co/sIO0Gu3R5V
-231,1.1430950282622772e+18,2019-06-24 09:54:27+00:00,['1143095028262277120'],RT @Telegraph: Jeremy Hunt accuses Boris Johnson of being 'totally disrespectful' by avoiding head-to-head debate in next two weeks https:/…
-232,1.1430556392472288e+18,2019-06-24 07:17:56+00:00,['1143055639247228928'],"RT @tamcohen: On #Sunrise
-Gloves off: Jeremy Hunt accuses Johnson of being a ""coward"" and trying to ""rig"" the contest by avoiding scrutiny…"
-233,1.1427319629453516e+18,2019-06-23 09:51:45+00:00,['1142731962945351680'],RT @BBCPolitics: International Trade Secretary Liam Fox tells #Marr that Jeremy Hunt does have a “good chance” of getting a new #Brexit dea…
-234,1.1427307490424177e+18,2019-06-23 09:46:56+00:00,['1142730749042417666'],"RT @KateEMcCann: Liam Fox, who is not backing Boris Johnson for leader, tactfully avoiding saying anything negative about him on #Marr - on…"
-235,1.1424893652995686e+18,2019-06-22 17:47:45+00:00,['1142489365299568641'],"RT @ICC: What a way to end it @MdShami11! 🎩🎩🎩
-
-Nabi c Pandya b Shami
-Alam b Shami
-Ur Rahman b Shami
-
-India take an absolute thriller by 11…"
-236,1.1424720899009208e+18,2019-06-22 16:39:06+00:00,['1142472089900920833'],"RT @KateEMcCann: Aren’t you too nice? Iain Dale asks Jeremy Hunt in the context of EU negotiations. “No, I think it’s possible to be very p…"
-237,1.1424650568038276e+18,2019-06-22 16:11:10+00:00,['1142465056803827713'],RT @BethRigby: Hunt talks about the economic impact of No Deal. He says he will do that if that’s the only way. Says he’s a PM sincerely co…
-238,1.1424579207324876e+18,2019-06-22 15:42:48+00:00,['1142457920732487683'],RT @BethRigby: I’ve seen BJ own a room. Today he didn’t. Tough Qs from @IainDale (&amp; selected by him). Johnson upbeat at times &amp; humorous. B…
-239,1.1424465849255116e+18,2019-06-22 14:57:46+00:00,['1142446584925511680'],RT @BethRigby: Iain Dale heckled for asking a serious Q as to why the police were called to Johnson’s house. The Conservative party used to…
-240,1.1424440048035348e+18,2019-06-22 14:47:30+00:00,['1142444004803534849'],RT @BBCVickiYoung: Boris Johnson refusing to answer questions about police being called to his house - says “people are entitled to ask abo…
-241,1.142443913359364e+18,2019-06-22 14:47:09+00:00,['1142443913359364097'],"RT @BBCVickiYoung: Boris Johnson asked why the police were called to his flat? Answer
-“People don’t want to hear about that kind of thing..…"
-242,1.1424438482301583e+18,2019-06-22 14:46:53+00:00,['1142443848230158339'],"RT @BethRigby: Iain Dale asks the Q. Why was the police called to your house last night
-“I don’t think they want to hear about that kind of…"
-243,1.142361157757481e+18,2019-06-22 09:18:18+00:00,['1142361157757480961'],RT @EllenBarryNYT: This detail in Times story on Boris Johnsons: He parks illegally outside the flat and there were *three tickets* on his…
-244,1.142163766970409e+18,2019-06-21 20:13:57+00:00,['1142163766970408967'],"RT @SamCoatesSky: The Guardian say in its piece there is a recording of the row, allegedly between Boris Johnson and his partner Carrie Sym…"
-245,1.1421604107219026e+18,2019-06-21 20:00:36+00:00,['1142160410721902592'],Police are called to flat Boris Johnson shares with Carrie Symonds https://t.co/ycg1kvvKvf via https://t.co/A9jngGL6I5
-246,1.1416769439742404e+18,2019-06-20 11:59:29+00:00,['1141676943974240256'],"RT @BBCPolitics: Chuka Umunna MP has left Labour and Change UK
-
-“Three different parties in almost as many months, we have been on air now…"
-247,1.1413904763203544e+18,2019-06-19 17:01:10+00:00,['1141390476320354304'],RT @BBCVickiYoung: We’re ready https://t.co/5hcRY9RrLb
-248,1.1413882118744024e+18,2019-06-19 16:52:10+00:00,['1141388211874402304'],"RT @london_4_all: Connect | Discover | Create
-Photo: @roamwithrakhee 
-Session tag: #LDN4ALL_ShawdowBlockParty
-Session judge: @justefe2
-====…"
-249,1.1413434236785704e+18,2019-06-19 13:54:11+00:00,['1141343423678570496'],"Video - Man stabbed to death in Barnet, north London.
+#Pride #PrideJubilee #PrideMarch #PrideParade #pridelondon #loveislove #PrideMonth2019 #prideinLondon #pridelondon2019 @PrideInLondon",watch video,False
+1.1474974827688018e+18,2019-07-06 13:28:14+00:00,['1147497482768801793'],"In pics - Over 30,000 participants take part in the annual #LondonPride Parade in London. Over 1 million people lined along the route  in support of the #LGBT community.
+#PrideInLondon #pridelondon2019 #PrideJubilee #Pride More pics at https://t.co/Pm12EOYd5c https://t.co/9D76Huk10z",pic participant take part annual parade london million people lined along route support community pic,False
+1.146857529848324e+18,2019-07-04 19:05:17+00:00,['1146857529848324099'],@imageplotter @ianandmj @MartinDaltonPix @PeteManningFoto @PrideInLondon @NUJPhoto And wire photographers.,wire photographer,False
+1.1468098564579246e+18,2019-07-04 15:55:51+00:00,['1146809856457924608'],"BPPA Response to Pride in London on the The BPPA Website: https://t.co/lN2dKxazrT #prideinlondon @MayorofLondon #freedomeofpress 
+@PrideInLondon act before the event please.",bppa response pride london bppa website act event please,False
+1.1465235522852576e+18,2019-07-03 20:58:10+00:00,['1146523552285257729'],"An #airsidedriver is seen sleeping at the wheel of his vehicle on the tarmac at @TorontoPearsont, Canada. https://t.co/OolZySmyEh
+@DailyMailUK @Telegraph @TheSun @guardian @DailyMirror @Daily_Star @standardnews @cnni @BBCWorld @TorontoStar @globeandmail",seen sleeping wheel vehicle tarmac canada,False
+1.1421604107219026e+18,2019-06-21 20:00:36+00:00,['1142160410721902592'],Police are called to flat Boris Johnson shares with Carrie Symonds https://t.co/ycg1kvvKvf via https://t.co/A9jngGL6I5,police called flat boris johnson share carrie symonds via,False
+1.1413434236785704e+18,2019-06-19 13:54:11+00:00,['1141343423678570496'],"Video - Man stabbed to death in Barnet, north London.
  https://t.co/PdDz5fYAS2
 #stabbing ##londonknifecrime #murderinbarnet
-@TheSun @DailyMirror @Telegraph @Daily_Express @Daily_Star @guardian @BBCLondonNews @TimesPictures @guardiannews @guardian"
-250,1.1410130515520102e+18,2019-06-18 16:01:25+00:00,['1141013051552010242'],@imageplotter @AlfDubs @safepassageuk @HelpRefugees Lol
-251,1.1403548873997394e+18,2019-06-16 20:26:06+00:00,['1140354887399739395'],"Video -  #HareKrishna #pilgrims and #devotees celebrate the festival of #Rathayatra in London.  #lovelondon #culture  #krishnafortoday @iskconlondon
-https://t.co/gB2SmQw21X"
-252,1.140348602868523e+18,2019-06-16 20:01:08+00:00,['1140348602868523008'],"Check out this video -  #HareKrishna #pilgrims and #devotees celebrate the festival of #Rathayatra in London’s Trafalgar Square.  #lovelondon #culture  #krishnafortoday @iskconlondon
-https://t.co/sM6gegM9zI"
-253,1.140329073509589e+18,2019-06-16 18:43:32+00:00,['1140329073509588992'],RT @BethRigby: I’ve just tuned into the #C4debate. Can someone please answer the Q. Impatience &amp; restlessness 🙄
-254,1.1402931343851232e+18,2019-06-16 16:20:43+00:00,['1140293134385123328'],"In pics - Thousands of #HareKrishna #pilgrims &amp; #devotees celebrate the 51st anniversary event of #Rathayatra. The annual #KrishnaChariotfestival is celebrated all over the world. #lovelondon #culture #rathayatra #krishnafortoday @iskconlondon
-More pics at https://t.co/zHw0oxnekX https://t.co/nz2vdDUE0k"
-255,1.1402726694238084e+18,2019-06-16 14:59:24+00:00,['1140272669423808512'],"In pics - Thousands of #HareKrishna #pilgrims and #devotees celebrate the 51st anniversary event of #Rathayatra. The annual #KrishnaChariotfestival is celebrated all over the world. #lovelondon #culture  #rathayatra #krishnafortoday 
-More pics at https://t.co/DMGcNUtEWi https://t.co/EFVbVtp7P7"
-256,1.1400038340786708e+18,2019-06-15 21:11:08+00:00,['1140003834078670848'],"@fbunational takes part in #JusticeForGrenfell rally and march in Westminster. @officialJ4G #GrenfellNeverAgain #Grenfell
-https://t.co/Gmy1APxeww"
-257,1.1399802564236206e+18,2019-06-15 19:37:27+00:00,['1139980256423620611'],"Video - Campaigners take part in @officialJ4G rally and march in Westminster the day after 2nd anniversary of #GrenfellTowerFire #JusticeForGrenfell #Grenfell @GrenfellTrust @grenfellspeaks
-https://t.co/aP5dCLJLCR"
-258,1.1398924363297792e+18,2019-06-15 13:48:29+00:00,['1139892436329779200'],"In pics -  Hundreds of protesters take part in @officialJ4G demonstration in Westminster after the second anniversary of the #Grenfell fire which claimed the lives of 72 people, more than 70 others were injured and 223 people escaped. 
-More pics at https://t.co/n4cUpyNaLC https://t.co/niaBCleYP3"
-259,1.1395801884156724e+18,2019-06-14 17:07:43+00:00,['1139580188415672320'],"in pics - Survivors, family and friends of the victims take part in a #SilentWalk from #StHelen'sChurch to #GrenfellTower to commemorate the #secondanniversary of the #GrenfellTowerFire. 
+@TheSun @DailyMirror @Telegraph @Daily_Express @Daily_Star @guardian @BBCLondonNews @TimesPictures @guardiannews @guardian",video man stabbed death barnet north london,False
+1.1410130515520102e+18,2019-06-18 16:01:25+00:00,['1141013051552010242'],@imageplotter @AlfDubs @safepassageuk @HelpRefugees Lol,lol,True
+1.1403548873997394e+18,2019-06-16 20:26:06+00:00,['1140354887399739395'],"Video -  #HareKrishna #pilgrims and #devotees celebrate the festival of #Rathayatra in London.  #lovelondon #culture  #krishnafortoday @iskconlondon
+https://t.co/gB2SmQw21X",video celebrate festival london,False
+1.140348602868523e+18,2019-06-16 20:01:08+00:00,['1140348602868523008'],"Check out this video -  #HareKrishna #pilgrims and #devotees celebrate the festival of #Rathayatra in London’s Trafalgar Square.  #lovelondon #culture  #krishnafortoday @iskconlondon
+https://t.co/sM6gegM9zI",check video celebrate festival london trafalgar square,False
+1.1402931343851232e+18,2019-06-16 16:20:43+00:00,['1140293134385123328'],"In pics - Thousands of #HareKrishna #pilgrims &amp; #devotees celebrate the 51st anniversary event of #Rathayatra. The annual #KrishnaChariotfestival is celebrated all over the world. #lovelondon #culture #rathayatra #krishnafortoday @iskconlondon
+More pics at https://t.co/zHw0oxnekX https://t.co/nz2vdDUE0k",pic thousand amp celebrate anniversary event annual celebrated world pic,False
+1.1402726694238084e+18,2019-06-16 14:59:24+00:00,['1140272669423808512'],"In pics - Thousands of #HareKrishna #pilgrims and #devotees celebrate the 51st anniversary event of #Rathayatra. The annual #KrishnaChariotfestival is celebrated all over the world. #lovelondon #culture  #rathayatra #krishnafortoday 
+More pics at https://t.co/DMGcNUtEWi https://t.co/EFVbVtp7P7",pic thousand celebrate anniversary event annual celebrated world pic,False
+1.1400038340786708e+18,2019-06-15 21:11:08+00:00,['1140003834078670848'],"@fbunational takes part in #JusticeForGrenfell rally and march in Westminster. @officialJ4G #GrenfellNeverAgain #Grenfell
+https://t.co/Gmy1APxeww",take part rally march westminster,False
+1.1399802564236206e+18,2019-06-15 19:37:27+00:00,['1139980256423620611'],"Video - Campaigners take part in @officialJ4G rally and march in Westminster the day after 2nd anniversary of #GrenfellTowerFire #JusticeForGrenfell #Grenfell @GrenfellTrust @grenfellspeaks
+https://t.co/aP5dCLJLCR",video campaigner take part rally march westminster day anniversary,False
+1.1398924363297792e+18,2019-06-15 13:48:29+00:00,['1139892436329779200'],"In pics -  Hundreds of protesters take part in @officialJ4G demonstration in Westminster after the second anniversary of the #Grenfell fire which claimed the lives of 72 people, more than 70 others were injured and 223 people escaped. 
+More pics at https://t.co/n4cUpyNaLC https://t.co/niaBCleYP3",pic hundred protester take part demonstration westminster second anniversary fire claimed life people others injured people escaped pic,False
+1.1395801884156724e+18,2019-06-14 17:07:43+00:00,['1139580188415672320'],"in pics - Survivors, family and friends of the victims take part in a #SilentWalk from #StHelen'sChurch to #GrenfellTower to commemorate the #secondanniversary of the #GrenfellTowerFire. 
 @GrenfellHMNTY @officialJ4G @GrenfellUnited 
-More pics at  https://t.co/hywogensY6 https://t.co/q9nzohImZe"
-260,1.1394312837953988e+18,2019-06-14 07:16:02+00:00,['1139431283795398657'],RT @BBCSimonMcCoy: A true gentleman.. wishing you all the best  https://t.co/HenmxQxFqU
-261,1.139143325364228e+18,2019-06-13 12:11:47+00:00,['1139143325364228098'],"RT @BBCPolitics: Tory leadership first round result:
-
-• Boris Johnson 114
-• Jeremy Hunt 43
-• Michael Gove 37
-• Dominic Raab 27
-• Sajid Javi…"
-262,1.1388873961525536e+18,2019-06-12 19:14:49+00:00,['1138887396152553472'],"RT @guardian: Esther McVey claimed £8,750 in expenses for personal photographer https://t.co/hKcbabu3v1"
-263,1.1387601645118218e+18,2019-06-12 10:49:15+00:00,['1138760164511821830'],RT @KateEMcCann: He shakes his head when @PaulBrandITV follows up and says people don't trust him. This is the killer question for Boris Jo…
-264,1.1387600942068776e+18,2019-06-12 10:48:58+00:00,['1138760094206877697'],"RT @KateEMcCann: Brilliant Q from @BethRigby about Boris Johnson's use of language - audience boos, Johnson says the public want politician…"
-265,1.1381168975584708e+18,2019-06-10 16:13:08+00:00,['1138116897558470656'],"RT @vickieflores: The drama of the Tory leadership campaign begins: heckler &amp; Brexiteer, Graham Moore hijacks Esther McVey’s campaign launc…"
-266,1.138057389238829e+18,2019-06-10 12:16:40+00:00,['1138057389238829058'],"In pics - @EstherMcVey1 at #Brexit Leadership event in Westminster. 
+More pics at  https://t.co/hywogensY6 https://t.co/q9nzohImZe",pic survivor family friend victim take part 'schurch commemorate pic,False
+1.138057389238829e+18,2019-06-10 12:16:40+00:00,['1138057389238829058'],"In pics - @EstherMcVey1 at #Brexit Leadership event in Westminster. 
 More pics at https://t.co/mJNh5mVrWI
-#leadership #conservativeleadership #politics https://t.co/9tUUgYcATf"
-267,1.1376784543574508e+18,2019-06-09 11:10:55+00:00,['1137678454357450753'],"RT @ianandmj: .@GrenadierGds troop their colour, #TroopingTheColour https://t.co/lEtjMOBi6C"
-268,1.1376742815072708e+18,2019-06-09 10:54:20+00:00,['1137674281507270657'],"In pics - #WashingtonDC based #visualartist @VEkpuk puts finishing touches to his artwork in the new exhibition ""Get Up, Stand Up Now"" @SomersetHouse which opens to the public on 12 June 2019. 
-More pics at https://t.co/gjcgI3t66v https://t.co/KYbwOI3SHx"
-269,1.1374649853896008e+18,2019-06-08 21:02:40+00:00,['1137464985389600768'],"In pics - Hundreds of #nudecyclists take part in the 16th annual #nakedbikeride in central London as part of the #WorldNakedBikeRide event.
+#leadership #conservativeleadership #politics https://t.co/9tUUgYcATf",pic leadership event westminster pic,False
+1.1376742815072708e+18,2019-06-09 10:54:20+00:00,['1137674281507270657'],"In pics - #WashingtonDC based #visualartist @VEkpuk puts finishing touches to his artwork in the new exhibition ""Get Up, Stand Up Now"" @SomersetHouse which opens to the public on 12 June 2019. 
+More pics at https://t.co/gjcgI3t66v https://t.co/KYbwOI3SHx",pic based put finishing touch artwork new exhibition get stand open public june pic,False
+1.1374649853896008e+18,2019-06-08 21:02:40+00:00,['1137464985389600768'],"In pics - Hundreds of #nudecyclists take part in the 16th annual #nakedbikeride in central London as part of the #WorldNakedBikeRide event.
 More pics at
-https://t.co/VWVjkb2r9t https://t.co/0gatVLwwgZ"
-270,1.1374636218464911e+18,2019-06-08 20:57:15+00:00,['1137463621846491136'],"In pics - Meghan Duchess of Sussex on a carriage returning back to Buckingham Palace after attending #troopingthecolour2019.
-More pics at https://t.co/1JjHmodrX8 https://t.co/N6g4ZpHpRf"
-271,1.1374472397465436e+18,2019-06-08 19:52:09+00:00,['1137447239746543616'],"RT @imageplotter: Some picture from today's #Eid festival in Trafalgar Square, organised by @MayorofLondon . #EidMubarak https://t.co/ZRRig…"
-272,1.13741293623697e+18,2019-06-08 17:35:50+00:00,['1137412936236969984'],RT @ianandmj: Happy official birthday to Her Majesty The Queen #TroopingTheColour2019   With thanks to .@ArmyInLondon https://t.co/H9wz47E1…
-273,1.1374129076821402e+18,2019-06-08 17:35:43+00:00,['1137412907682140160'],RT @ianandmj: Man Down #TroopingTheColour #TroopingTheColour2019  I do hope this officer is OK. https://t.co/qEEpAsavbx
-274,1.1374128642249768e+18,2019-06-08 17:35:33+00:00,['1137412864224976896'],RT @ianandmj: #WNBRLondon Westminster Bridge https://t.co/gldofFLbMn
-275,1.1374127993013944e+18,2019-06-08 17:35:18+00:00,['1137412799301394432'],"RT @BlueflyPhoto: IMAGES: Eid Festival, Trafalgar Square, London
-#eidfestival #LondonIsOpen #EidLDN
-More images at: https://t.co/gAfkJIjS8B…"
-276,1.1361933982668964e+18,2019-06-05 08:49:50+00:00,['1136193398266896384'],Three Chinooks fly over north London. #TrumpUKVisit https://t.co/O2046YI5XQ
-277,1.1359646155511398e+18,2019-06-04 17:40:44+00:00,['1135964615551139841'],"In pics - @Number10cat having a mid-morning nap as @theresa_may welcomes @realDonaldTrump and @FLOTUS to @10DowningStreet on the second day of their #StateVisit
+https://t.co/VWVjkb2r9t https://t.co/0gatVLwwgZ",pic hundred take part annual central london part event pic,False
+1.1374636218464911e+18,2019-06-08 20:57:15+00:00,['1137463621846491136'],"In pics - Meghan Duchess of Sussex on a carriage returning back to Buckingham Palace after attending #troopingthecolour2019.
+More pics at https://t.co/1JjHmodrX8 https://t.co/N6g4ZpHpRf",pic meghan duchess sussex carriage returning back buckingham palace attending pic,False
+1.1361933982668964e+18,2019-06-05 08:49:50+00:00,['1136193398266896384'],Three Chinooks fly over north London. #TrumpUKVisit https://t.co/O2046YI5XQ,three chinook fly north london,False
+1.1359646155511398e+18,2019-06-04 17:40:44+00:00,['1135964615551139841'],"In pics - @Number10cat having a mid-morning nap as @theresa_may welcomes @realDonaldTrump and @FLOTUS to @10DowningStreet on the second day of their #StateVisit
 #TrumpUKVisit #USStateVisit 
-More pics at https://t.co/M3bImCLLFR https://t.co/gQstPuvmbx"
-278,1.135578569843839e+18,2019-06-03 16:06:43+00:00,['1135578569843838978'],"In pics - Members of the King’s Troop Royal Horse Artillery take part in a 82 gun salutes in Green Park, London. 
+More pics at https://t.co/M3bImCLLFR https://t.co/gQstPuvmbx",pic midmorning nap welcome second day pic,False
+1.135578569843839e+18,2019-06-03 16:06:43+00:00,['1135578569843838978'],"In pics - Members of the King’s Troop Royal Horse Artillery take part in a 82 gun salutes in Green Park, London. 
 #TrumpUKVisit #TrumpVisit #statevisit #gunsalutes  #horsegunners
 @KingsTroopRHA
-More pics at https://t.co/WhzKSfBuJ3 https://t.co/k10C9hAIrh"
-279,1.1355608289781556e+18,2019-06-03 14:56:13+00:00,['1135560828978155525'],"In pics - #MarineOne carrying the President of the United States of America, #DonaldJTrump and #MelaniaTrump, First Lady approaches to land in the grounds of #BuckinghamPalace.
+More pics at https://t.co/WhzKSfBuJ3 https://t.co/k10C9hAIrh",pic member king troop royal horse artillery take part gun salute green park london pic,False
+1.1355608289781556e+18,2019-06-03 14:56:13+00:00,['1135560828978155525'],"In pics - #MarineOne carrying the President of the United States of America, #DonaldJTrump and #MelaniaTrump, First Lady approaches to land in the grounds of #BuckinghamPalace.
 #TrumpUKVisit #TrumpVisitUK #TrumpVisit 
-More pics at https://t.co/8KUMkd8ZWJ https://t.co/cpBfNkjiNY"
-280,1.1352837861644288e+18,2019-06-02 20:35:21+00:00,['1135283786164428800'],"In pics - Protesters burn Israeli flag during a Al Quds Day protest in London.
+More pics at https://t.co/8KUMkd8ZWJ https://t.co/cpBfNkjiNY",pic carrying president united state america first lady approach land ground pic,False
+1.1352837861644288e+18,2019-06-02 20:35:21+00:00,['1135283786164428800'],"In pics - Protesters burn Israeli flag during a Al Quds Day protest in London.
 #AlQudsDay #AlQuds #Alquds2019 
-More pics at https://t.co/YDi1sBNPJs https://t.co/YX3VDu6LFO"
-281,1.1352828713489244e+18,2019-06-02 20:31:43+00:00,['1135282871348924418'],"In pics - #AlQudsDay protest in London.
+More pics at https://t.co/YDi1sBNPJs https://t.co/YX3VDu6LFO",pic protester burn israeli flag quds day protest london pic,False
+1.1352828713489244e+18,2019-06-02 20:31:43+00:00,['1135282871348924418'],"In pics - #AlQudsDay protest in London.
 #AlQuds #Alquds2019
-More pics at https://t.co/4bgI34CEIR https://t.co/KYpS0295v7"
-282,1.1348795662274764e+18,2019-06-01 17:49:08+00:00,['1134879566227476480'],"In pics - #TottenhamHotspur fans arrive for the Champions League Final at Spurs' new Stadium.
+More pics at https://t.co/4bgI34CEIR https://t.co/KYpS0295v7",pic protest london pic,False
+1.1348795662274764e+18,2019-06-01 17:49:08+00:00,['1134879566227476480'],"In pics - #TottenhamHotspur fans arrive for the Champions League Final at Spurs' new Stadium.
 #TottenhamLiverpool #TottenhamvsLiverpool #ChampionsLeague2019 #ChampionsLeagueFinal #Spurs 
-More pics at https://t.co/q45WRjc4kG https://t.co/UTQXQ2dN1N"
-283,1.1341534261269832e+18,2019-05-30 17:43:42+00:00,['1134153426126983170'],"Video of London protest held over lack of funding for special needs children. 
+More pics at https://t.co/q45WRjc4kG https://t.co/UTQXQ2dN1N",pic fan arrive champion league final spurs' new stadium pic,False
+1.1341534261269832e+18,2019-05-30 17:43:42+00:00,['1134153426126983170'],"Video of London protest held over lack of funding for special needs children. 
 @SendCrisis @send_action #SENDcrisis #SendNationalCrisis 
-@DailyMailUK @guardian @TimesPictures @TheSun @Daily_Express @DailyMirror @Telegraph @Daily_Star @standardnews https://t.co/V9J03Sgj6Y"
-284,1.1341208843299552e+18,2019-05-30 15:34:24+00:00,['1134120884329955328'],@imageplotter @PjrFoto Totally agree with you.
-285,1.134106821537534e+18,2019-05-30 14:38:31+00:00,['1134106821537533952'],@imageplotter @PjrFoto It's because you took her seat on the steps? 😃😃😃
-286,1.1340862160838124e+18,2019-05-30 13:16:38+00:00,['1134086216083812353'],"In pics - Hundreds of children, their families and supporters demonstrates in #Westminster for #SendNationalCrisis protesting about a #crisisineducation for young people with #SpecialEducationalNeeds
+@DailyMailUK @guardian @TimesPictures @TheSun @Daily_Express @DailyMirror @Telegraph @Daily_Star @standardnews https://t.co/V9J03Sgj6Y",video london protest held lack funding special need child,False
+1.1341208843299552e+18,2019-05-30 15:34:24+00:00,['1134120884329955328'],@imageplotter @PjrFoto Totally agree with you.,totally agree,False
+1.134106821537534e+18,2019-05-30 14:38:31+00:00,['1134106821537533952'],@imageplotter @PjrFoto It's because you took her seat on the steps? 😃😃😃,took seat step,False
+1.1340862160838124e+18,2019-05-30 13:16:38+00:00,['1134086216083812353'],"In pics - Hundreds of children, their families and supporters demonstrates in #Westminster for #SendNationalCrisis protesting about a #crisisineducation for young people with #SpecialEducationalNeeds
 @SendCrisis @PalmerstonFOCat 
-More pics at -https://t.co/d0eU19J1uw https://t.co/6lStnlF7NA"
-287,1.1340735684117544e+18,2019-05-30 12:26:23+00:00,['1134073568411754497'],@SendCrisis Hello what's the name of the MP who spoke outside Downing Street?
-288,1.1340376391312056e+18,2019-05-30 10:03:37+00:00,['1134037639131205632'],"In pics - @EdwardJDavey launches #LiberalDemocrats leadership campaign @LibDems #eddavey
-More pics at https://t.co/Ccjn4qfPSL https://t.co/ULdRRfLd6B"
-289,1.1334405170169652e+18,2019-05-28 18:30:52+00:00,['1133440517016965121'],"RT @ianandmj: Today is Menstrual Hygiene Day #MenstrualHygieneDay  #MHDAY2019 #MHMDay2019 and .@PlanUK ran a public ""Menstrual Cycle"" event…"
-290,1.1332736944769516e+18,2019-05-28 07:27:58+00:00,['1133273694476951553'],RT @ianandmj: It is reported that today #Brentwood gallery owner John Brandler .@BrandGalleries will be moving the Port Talbot  #banksy mur…
-291,1.1331080447606048e+18,2019-05-27 20:29:44+00:00,['1133108044760604680'],"In pics - In pics - @Nigel_Farage and newly elected @brexitparty_uk MEPs at the press conference in London. 
+More pics at -https://t.co/d0eU19J1uw https://t.co/6lStnlF7NA",pic hundred child family supporter demonstrates protesting young people pic,False
+1.1340735684117544e+18,2019-05-30 12:26:23+00:00,['1134073568411754497'],@SendCrisis Hello what's the name of the MP who spoke outside Downing Street?,hello what's name spoke outside downing street,False
+1.1340376391312056e+18,2019-05-30 10:03:37+00:00,['1134037639131205632'],"In pics - @EdwardJDavey launches #LiberalDemocrats leadership campaign @LibDems #eddavey
+More pics at https://t.co/Ccjn4qfPSL https://t.co/ULdRRfLd6B",pic launch leadership campaign pic,False
+1.1331080447606048e+18,2019-05-27 20:29:44+00:00,['1133108044760604680'],"In pics - In pics - @Nigel_Farage and newly elected @brexitparty_uk MEPs at the press conference in London. 
 #EuropeanElectionResults #EUElectionResults #BrexitParty_UK @WiddecombeAnn @zatzi
-More pics at https://t.co/aILZGRnqmS https://t.co/XwrueRGbtk"
-292,1.133092212584194e+18,2019-05-27 19:26:49+00:00,['1133092212584194050'],"RT @AlamyNews: @brexitparty_uk's Nigel Farage at EU election results presser, Westminster. Pic: Dinendra Haria https://t.co/DYdz1unWVO http…"
-293,1.1329404135836754e+18,2019-05-27 09:23:38+00:00,['1132940413583675392'],@ianandmj @Nigel_Farage @brexitparty_uk @thetimes @AlamyNews Well done
-294,1.1329403802179872e+18,2019-05-27 09:23:30+00:00,['1132940380217987072'],RT @ianandmj: One of my .@Nigel_Farage .@brexitparty_uk pictures In #Brentwood last week in .@thetimes .@AlamyNews https://t.co/xREBfQ0MXW
-295,1.1327560898109522e+18,2019-05-26 21:11:12+00:00,['1132756089810952192'],RT @bbclaurak: Tories and Labour both braced for pretty awful results in next few hours - could be historic lows for both - results might s…
-296,1.1327558953797428e+18,2019-05-26 21:10:25+00:00,['1132755895379742720'],"RT @ElectionMapsUK: #EP2019  Expected Final Results Timings in each Region:
-
-10:30PM
-North East
-
-11:00PM
-Yorkshire &amp; The Humber
-South West…"
-297,1.1327552099843318e+18,2019-05-26 21:07:42+00:00,['1132755209984331776'],"RT @imageplotter: Some pics from @MCMComicCon on Friday. Always nice to shoot this, going back today to snap some of the fun these #cosplay…"
-298,1.132754970946822e+18,2019-05-26 21:06:45+00:00,['1132754970946822144'],RT @BBCPolitics: Polls close as UK awaits EU vote results https://t.co/uj4rA8di5S
-299,1.1327495669341594e+18,2019-05-26 20:45:16+00:00,['1132749566934159360'],"RT @Telegraph: The front page of tomorrow’s Daily Telegraph: 'Boris makes Brexit vow in push for No 10' #tomorrowspaperstoday 
-https://t.co…"
-300,1.1326953222396764e+18,2019-05-26 17:09:43+00:00,['1132695322239676416'],"RT @BBCPolitics: Brexit: Change UK could form partnership with Lib Dems, Heidi Allen says https://t.co/ATFYT7D3se"
-301,1.1326537654321028e+18,2019-05-26 14:24:36+00:00,['1132653765432102912'],"In pics - A Scottish bagpiper leads a #ChelseaPensioner march at the RHS Chelsea Flower Show on the final day of the show.
+More pics at https://t.co/aILZGRnqmS https://t.co/XwrueRGbtk",pic pic newly elected meps press conference london pic,False
+1.1329404135836754e+18,2019-05-27 09:23:38+00:00,['1132940413583675392'],@ianandmj @Nigel_Farage @brexitparty_uk @thetimes @AlamyNews Well done,well done,True
+1.1326537654321028e+18,2019-05-26 14:24:36+00:00,['1132653765432102912'],"In pics - A Scottish bagpiper leads a #ChelseaPensioner march at the RHS Chelsea Flower Show on the final day of the show.
 #RHSChelsea #ChelseaFlowerShow #ChelseaFlowerShow2019 #bagpipes #piper 
 @RHChelsea ⁦@The_RHS⁩ 
-More pics at https://t.co/ZHIHr9O1Q4 https://t.co/v4fJShFXAp"
-302,1.1325681372017828e+18,2019-05-26 08:44:20+00:00,['1132568137201782784'],RT @imageplotter: Some flamenco pics from @FeriadeLondres yesterday. Very busy with people keen to try nice Spanish food &amp; wine and see the…
-303,1.1325488499088344e+18,2019-05-26 07:27:42+00:00,['1132548849908834304'],RT @ianandmj: #Brentwood #ATC cadets help out at the #raceforlife event yesterday.  Excellent work .@EssexWingATC https://t.co/vhfaCmE50O
-304,1.132396721496105e+18,2019-05-25 21:23:11+00:00,['1132396721496104970'],"In pics - Members of the public carry exhibitor's plants and a wide variety of flowers on the last day of the 2019 #ChelseaFlowerShow 
-@The_RHS #RHSChelsea #RHSChelsea2019 #RHSChelseaFlowerShow More pics at https://t.co/eAjg28U9il https://t.co/wu52aie8Ft"
-305,1.1323959906176124e+18,2019-05-25 21:20:17+00:00,['1132395990617612298'],"In pics - Members of the public carry exhibitor's plants and a wide variety of flowers on the last day of the 2019 #ChelseaFlowerShow 
-@The_RHS #RHSChelsea #RHSChelsea2019 #RHSChelseaFlowerShow More pics at https://t.co/Ha0vWn8rj7 https://t.co/YwU0285nep"
-306,1.132259247998292e+18,2019-05-25 12:16:55+00:00,['1132259247998291969'],"RT @imageplotter: A few pics from the Major General's Review (Major General Bathurst is the gentleman in the third picure), ahead of Troopi…"
-307,1.1322512285981532e+18,2019-05-25 11:45:03+00:00,['1132251228598153216'],RT @ianandmj: #Brentwood .@raceforlife .@CR_UK .@CRUKEventsEast Weald Country Park #Essex .@AlamyNews https://t.co/ZSENqxnCRb https://t.co/…
-308,1.1322337400994324e+18,2019-05-25 10:35:34+00:00,['1132233740099432448'],RT @AlamyNews: PM Theresa May breaks down in tears as she makes her resignation statement. Dinendra Haria/Alamy https://t.co/DqCJl7mfTO htt…
-309,1.1321845759150408e+18,2019-05-25 07:20:12+00:00,['1132184575915040769'],@imageplotter Will need to check. Thanks.
-310,1.1319315133926524e+18,2019-05-24 14:34:37+00:00,['1131931513392652288'],"In pics - The #YouthStrike4Climate #FridaysForFuture protesting against the effects of #climatechange in #London
+More pics at https://t.co/ZHIHr9O1Q4 https://t.co/v4fJShFXAp",pic scottish bagpiper lead march chelsea flower show final day show pic,False
+1.132396721496105e+18,2019-05-25 21:23:11+00:00,['1132396721496104970'],"In pics - Members of the public carry exhibitor's plants and a wide variety of flowers on the last day of the 2019 #ChelseaFlowerShow 
+@The_RHS #RHSChelsea #RHSChelsea2019 #RHSChelseaFlowerShow More pics at https://t.co/eAjg28U9il https://t.co/wu52aie8Ft",pic member public carry exhibitor's plant wide variety flower last day pic,False
+1.1323959906176124e+18,2019-05-25 21:20:17+00:00,['1132395990617612298'],"In pics - Members of the public carry exhibitor's plants and a wide variety of flowers on the last day of the 2019 #ChelseaFlowerShow 
+@The_RHS #RHSChelsea #RHSChelsea2019 #RHSChelseaFlowerShow More pics at https://t.co/Ha0vWn8rj7 https://t.co/YwU0285nep",pic member public carry exhibitor's plant wide variety flower last day pic,False
+1.1321845759150408e+18,2019-05-25 07:20:12+00:00,['1132184575915040769'],@imageplotter Will need to check. Thanks.,need check thanks,False
+1.1319315133926524e+18,2019-05-24 14:34:37+00:00,['1131931513392652288'],"In pics - The #YouthStrike4Climate #FridaysForFuture protesting against the effects of #climatechange in #London
  #ClimateStrike #ClimateAction #ClimateCrisis #ClimateEmergency 
 More pics at https://t.co/Cy6jvJaT7w
-@guardian @Independent @TimesPictures @Mirror_Pictures https://t.co/EbGHgvBmmw"
-311,1.1318672368499343e+18,2019-05-24 10:19:12+00:00,['1131867236849934336'],"In pics - A tearful #TheresaMay during her #resignation statement in #DowningStreet
+@guardian @Independent @TimesPictures @Mirror_Pictures https://t.co/EbGHgvBmmw",pic protesting effect pic,False
+1.1318672368499343e+18,2019-05-24 10:19:12+00:00,['1131867236849934336'],"In pics - A tearful #TheresaMay during her #resignation statement in #DowningStreet
 #TheresaMayResign #brexit 
-More pics at https://t.co/YbUUn3PKsp https://t.co/tSIboEmPpw"
-312,1.131655902573015e+18,2019-05-23 20:19:26+00:00,['1131655902573015044'],"Sums up about #Brexit ...
+More pics at https://t.co/YbUUn3PKsp https://t.co/tSIboEmPpw",pic tearful statement pic,False
+1.131655902573015e+18,2019-05-23 20:19:26+00:00,['1131655902573015044'],"Sums up about #Brexit ...
 #dogsatpollingstations #dogsatpollingstations2019 #EUelections2019 #EuropeanElection2019 #PollingDay #PollingStation 
-More pics at https://t.co/dPsXhamb9l https://t.co/h83eye1MVX"
-313,1.131612838693417e+18,2019-05-23 17:28:19+00:00,['1131612838693416960'],@imageplotter 7.
-314,1.131592699885314e+18,2019-05-23 16:08:18+00:00,['1131592699885314048'],RT @roamwithrakhee: Think the heat has got to you guys @standardnews! The weather forecast is 'slightly' wrong 😂 #eveningstandard #londonwe…
-315,1.1315757532613756e+18,2019-05-23 15:00:57+00:00,['1131575753261375489'],@imageplotter I have been to 5 polling station and haven't yet voted!
-316,1.131575446452224e+18,2019-05-23 14:59:44+00:00,['1131575446452224001'],RT @imageplotter: Doing a bit of part time protesting today at Parliament. https://t.co/oSvioMMSBu
-317,1.1314775238067732e+18,2019-05-23 08:30:38+00:00,['1131477523806773249'],"In pics - Dogs at polling station.
+More pics at https://t.co/dPsXhamb9l https://t.co/h83eye1MVX",sum pic,False
+1.131612838693417e+18,2019-05-23 17:28:19+00:00,['1131612838693416960'],@imageplotter 7.,,
+1.1315757532613756e+18,2019-05-23 15:00:57+00:00,['1131575753261375489'],@imageplotter I have been to 5 polling station and haven't yet voted!,polling station yet voted,False
+1.1314775238067732e+18,2019-05-23 08:30:38+00:00,['1131477523806773249'],"In pics - Dogs at polling station.
 #dogsatpollingstations #EuropeanElection2019 #PollingDay #PollingStation 
 @guardian @Telegraph @TimesPictures @TheSun @DailyMirror @standardnews @Daily_Express @Express_Pics @Daily_Star @Independent 
-More pics at https://t.co/ht04vTiIdk https://t.co/2D9Ae0FS9a"
-318,1.131447629269934e+18,2019-05-23 06:31:50+00:00,['1131447629269934081'],RT @ianandmj: An interesting couple of days in Downing Street ...... https://t.co/aittcbcMhq https://t.co/jdsvT57tAi
-319,1.13129478200798e+18,2019-05-22 20:24:29+00:00,['1131294782007980032'],"In pics - #TheresaMay in #downingstreet 
+More pics at https://t.co/ht04vTiIdk https://t.co/2D9Ae0FS9a",pic dog polling station pic,False
+1.13129478200798e+18,2019-05-22 20:24:29+00:00,['1131294782007980032'],"In pics - #TheresaMay in #downingstreet 
 #Brexit #PrimeMinister 
 @guardian @Independent @TimesPictures @Telegraph @DailyMirror @DStarPics @TheSun @Telegraph @Daily_Express 
-More pics at https://t.co/VSeV8YErnF https://t.co/tg3vi7NjJP"
-320,1.1312835029415772e+18,2019-05-22 19:39:39+00:00,['1131283502941577218'],"RT @bbclaurak: No 10-“Andrea Leadsom has served with distinction + great ability as a member of the government, and the Prime Minister is g…"
-321,1.1312834414026876e+18,2019-05-22 19:39:25+00:00,['1131283441402687491'],"RT @imageplotter: A lot of chasing of politicians going on outside Parliament and DS this afternoon and eve. Bit knackered now, going to ca…"
-322,1.1312750755446538e+18,2019-05-22 19:06:10+00:00,['1131275075544653824'],"#AndreaLeadsom has resigned as leader of the House of Commons
-More pics of #AndreaLeadsom at https://t.co/BM4SYnQ73q https://t.co/mK8xsUwZpz"
-323,1.1312461761986272e+18,2019-05-22 17:11:20+00:00,['1131246176198627328'],RT @iainjwatson: I am told by a reliable source that the chief whip told  @theresa_may that confidence amongst ministers was ebbing away bu…
-324,1.1312380386910412e+18,2019-05-22 16:39:00+00:00,['1131238038691041281'],RT @BBCVickiYoung: Theresa May refusing to see Cabinet Ministers tonight. Tory MP says “the sofa’s up against the door” #brexit
-325,1.1305738474414326e+18,2019-05-20 20:39:44+00:00,['1130573847441432577'],"RT @imageplotter: Love it when a shot comes together 'by accident'. This young lady isn't a model, she did just wander along in that fab ja…"
-326,1.1305703187860276e+18,2019-05-20 20:25:43+00:00,['1130570318786027521'],"In pics - #DuchessofCambridge visit her 'Back to Nature' garden at the #ChelseaFlowerShow2019. 
+More pics at https://t.co/VSeV8YErnF https://t.co/tg3vi7NjJP",pic pic,False
+1.1312750755446538e+18,2019-05-22 19:06:10+00:00,['1131275075544653824'],"#AndreaLeadsom has resigned as leader of the House of Commons
+More pics of #AndreaLeadsom at https://t.co/BM4SYnQ73q https://t.co/mK8xsUwZpz",resigned leader house common pic,False
+1.1305703187860276e+18,2019-05-20 20:25:43+00:00,['1130570318786027521'],"In pics - #DuchessofCambridge visit her 'Back to Nature' garden at the #ChelseaFlowerShow2019. 
 #backtonature #gardenshow
-More pics at https://t.co/HUywJdcCrd https://t.co/ZLurMfVc6d"
-327,1.1305692060539208e+18,2019-05-20 20:21:18+00:00,['1130569206053920769'],"In pics - Chelsea Flower Show Preview. 
+More pics at https://t.co/HUywJdcCrd https://t.co/ZLurMfVc6d",pic visit 'back nature' garden pic,False
+1.1305692060539208e+18,2019-05-20 20:21:18+00:00,['1130569206053920769'],"In pics - Chelsea Flower Show Preview. 
 #ChelseaFlowerShow #ChelseaFlowerShow2019 #FlowerShow #chelsea 
-More pics at https://t.co/YPrSeEG1rO https://t.co/b6h8FqVEJ1"
-328,1.1304466469475697e+18,2019-05-20 12:14:17+00:00,['1130446646947569664'],"In pics - #DuchessofCambridge visit her 'Back to Nature' garden at the #ChelseaFlowerShow2019. 
+More pics at https://t.co/YPrSeEG1rO https://t.co/b6h8FqVEJ1",pic chelsea flower show preview pic,False
+1.1304466469475697e+18,2019-05-20 12:14:17+00:00,['1130446646947569664'],"In pics - #DuchessofCambridge visit her 'Back to Nature' garden at the #ChelseaFlowerShow2019. 
 #backtonature #gardenshow
-More pics at https://t.co/r1d6oXFFoc https://t.co/sJ5259cadD"
-329,1.1301535956037386e+18,2019-05-19 16:49:49+00:00,['1130153595603738624'],"RT @ElspethElspeth: Oh hello.
-#StopBrexit
-https://t.co/e4flsm7xQw"
-330,1.1301533377127834e+18,2019-05-19 16:48:47+00:00,['1130153337712783360'],RT @brexitparty_uk: BREXIT PARTY RALLY - FRIMLEY https://t.co/ESLqdrAFiI
-331,1.13015154525594e+18,2019-05-19 16:41:40+00:00,['1130151545255940098'],"RT @ianandmj: Anonymous for the Voiceless animal rights #AnimalRights #AnimalRightsActivists protesters in #Brentwood #Essex, https://t.co/…"
-332,1.1300636755141508e+18,2019-05-19 10:52:30+00:00,['1130063675514150913'],RT @BlueflyPhoto: Image use: Models take to the catwalk in weird and wonderful face paint https://t.co/eOJTOZ4djH via @MailOnline
-333,1.1300536797872046e+18,2019-05-19 10:12:47+00:00,['1130053679787204608'],"RT @snb19692: Merchandise is available from Old Palace Yard too.
-Just ask Selly Sue or another one of the team.
-We also accept donations th…"
-334,1.130053221156905e+18,2019-05-19 10:10:57+00:00,['1130053221156904960'],RT @ianandmj: The latest The Ian Davidson Photography Daily! https://t.co/xRoQvMa95e Thanks to @RobinTilbrook @ApolloIso @sonerphoto #photo…
-335,1.1300530376267324e+18,2019-05-19 10:10:14+00:00,['1130053037626732549'],RT @ElspethElspeth: Love this thank you Dinendra @coloursphotos https://t.co/e4flsm7xQw
-336,1.1298545669740544e+18,2019-05-18 21:01:35+00:00,['1129854566974054400'],"RT @imageplotter: If you fancy watching some great sports action, why not come along to the @TheO2 to see the @BBLofficial British Basketba…"
-337,1.1298540510537032e+18,2019-05-18 20:59:32+00:00,['1129854051053703168'],"In pic - People in #Islington, north London takes part in the @LibDems #Brexitometer by choosing their preferred option on #Brexit 
+More pics at https://t.co/r1d6oXFFoc https://t.co/sJ5259cadD",pic visit 'back nature' garden pic,False
+1.1298540510537032e+18,2019-05-18 20:59:32+00:00,['1129854051053703168'],"In pic - People in #Islington, north London takes part in the @LibDems #Brexitometer by choosing their preferred option on #Brexit 
 #LibDems 🇪🇺 #StopBrexit #Brexit 
 @guardian @TimesPictures @Independent @DailyMirror @DailyMailUK @Telegraph 
-More pics at https://t.co/UUesXX84IP https://t.co/Y9YDNm9LNV"
-338,1.1298532332482642e+18,2019-05-18 20:56:17+00:00,['1129853233248264198'],"In pics - @Helen4LibDems campaigning in #Islington 
+More pics at https://t.co/UUesXX84IP https://t.co/Y9YDNm9LNV",pic people north london take part choosing preferred option pic,False
+1.1298532332482642e+18,2019-05-18 20:56:17+00:00,['1129853233248264198'],"In pics - @Helen4LibDems campaigning in #Islington 
 #LibDems 🇪🇺 #StopBrexit #Brexit 
 @guardian @TimesPictures @Independent @DailyMirror @DailyMailUK @Telegraph @Daily_Express @LibDems 
-More pics at https://t.co/7wSqZcr52k https://t.co/3EYMxnYPoJ"
-339,1.1298526516618732e+18,2019-05-18 20:53:58+00:00,['1129852651661873152'],"In pics - @Helen4LibDems @SarahLudford and @poth_kate campaigning in #Islington 
+More pics at https://t.co/7wSqZcr52k https://t.co/3EYMxnYPoJ",pic campaigning pic,False
+1.1298526516618732e+18,2019-05-18 20:53:58+00:00,['1129852651661873152'],"In pics - @Helen4LibDems @SarahLudford and @poth_kate campaigning in #Islington 
 #LibDems 🇪🇺 #StopBrexit #Brexit 
 @guardian @TimesPictures @Independent @DailyMirror @DailyMailUK @Telegraph @Daily_Express @LibDems 
-More pics at https://t.co/KCDMYeDIBM https://t.co/OX1dPnlfs9"
-340,1.129846501398782e+18,2019-05-18 20:29:32+00:00,['1129846501398781952'],"in pics - ""Biscuit"" sitting next to a placard saying 'Vote on 23 May"".
+More pics at https://t.co/KCDMYeDIBM https://t.co/OX1dPnlfs9",pic campaigning pic,False
+1.129846501398782e+18,2019-05-18 20:29:32+00:00,['1129846501398781952'],"in pics - ""Biscuit"" sitting next to a placard saying 'Vote on 23 May"".
 #Brexit #EUelections2019 #EUElections #EuElection2019 #EUelections19 
 #PeoplesVote #23May 
-More pics at https://t.co/CGD9cVVlA1 https://t.co/lTAnoIwjAd"
-341,1.1297137378192015e+18,2019-05-18 11:41:58+00:00,['1129713737819201536'],RT @ianandmj: .@JamesCleverly Minister of State for #Brexit campaigns in #Brentwood #Essex for the #EuropeanElections2019 .@AlamyNews .@bwd…
-342,1.1297032721163796e+18,2019-05-18 11:00:23+00:00,['1129703272116379650'],RT @ianandmj: .@JamesCleverly #Brexit Minister campaigning in #Brentwood for the Conservative party in #Brentwood #Essex .@tom_mclaren74 ht…
-343,1.1296917404562596e+18,2019-05-18 10:14:34+00:00,['1129691740456259584'],"RT @AngieCQuinn: If you see this book laying around today in #London make sure you pick it up! 
-#goldenticket #chessingtonn #roomonthebroom…"
-344,1.1296796104033362e+18,2019-05-18 09:26:22+00:00,['1129679610403336192'],"RT @brexitparty_uk: Next Thursday is our chance to be heard.
-
-https://t.co/dwSstI1WyC"
-345,1.1296625538382438e+18,2019-05-18 08:18:35+00:00,['1129662553838243840'],RT @vickieflores: Over the moon to have two pictures chosen for @TheBPPA Assignments 2019 exhibition - my lovely local @TowerBridge &amp; a pro…
-346,1.1296567055860122e+18,2019-05-18 07:55:21+00:00,['1129656705586012160'],"RT @imageplotter: Here's a question - why does the focus appear to be on the background, whilst the people in the foreground are a teeny bi…"
-347,1.129484322107474e+18,2019-05-17 20:30:21+00:00,['1129484322107473920'],"@Number10cat in Downing Street. 
-#LarryTheCat #Brexit  #10downingStreet 😽 https://t.co/cRVvg9eSbu"
-348,1.1290238297271542e+18,2019-05-16 14:00:31+00:00,['1129023829727154178'],RT @ianandmj: .@Nigel_Farage leader of .@brexitparty_uk  speaks at a rally at .@sugarhut #Brentwood #Essex .@AlamyNews  https://t.co/zzBdiP…
-349,1.1289977607101316e+18,2019-05-16 12:16:56+00:00,['1128997760710131713'],RT @ianandmj: .@Nigel_Farage  leader of .@brexitparty_uk  speaks at a rally at the .@sugarhut  #brentwood #Essex today #EuropeanElections20…
-350,1.1287629335200972e+18,2019-05-15 20:43:49+00:00,['1128762933520097282'],"Preview of @PhotoLondonFair at @SomersetHouse. Photo London 2019 opens tomorrow at Somerset House.
+More pics at https://t.co/CGD9cVVlA1 https://t.co/lTAnoIwjAd",pic biscuit sitting next placard saying 'vote may pic,False
+1.129484322107474e+18,2019-05-17 20:30:21+00:00,['1129484322107473920'],"@Number10cat in Downing Street. 
+#LarryTheCat #Brexit  #10downingStreet 😽 https://t.co/cRVvg9eSbu",downing street,True
+1.1287629335200972e+18,2019-05-15 20:43:49+00:00,['1128762933520097282'],"Preview of @PhotoLondonFair at @SomersetHouse. Photo London 2019 opens tomorrow at Somerset House.
 #PhotoLondonFair19 #PhotoLondonWeek
 @Telegraph @TimesPictures @guardian @DailyMirror @DailyMailUK @Daily_Express @ST_Newsroom @standardnews 
-More pics at https://t.co/LyMb0U43ir https://t.co/JAUnRmC9GP"
-351,1.1287599156804977e+18,2019-05-15 20:31:49+00:00,['1128759915680497668'],RT @ianandmj: Farage In #Brentwood tomorrow at the Sugar Hut.... https://t.co/h1WTbpyeB0
-352,1.1287176572540028e+18,2019-05-15 17:43:54+00:00,['1128717657254002691'],"Preview of @PhotoLondonFair at @SomersetHouse. Photo London 2019 opens tomorrow at Somerset House.
+More pics at https://t.co/LyMb0U43ir https://t.co/JAUnRmC9GP",preview photo london open tomorrow somerset house pic,False
+1.1287176572540028e+18,2019-05-15 17:43:54+00:00,['1128717657254002691'],"Preview of @PhotoLondonFair at @SomersetHouse. Photo London 2019 opens tomorrow at Somerset House.
 #PhotoLondonFair19 #PhotoLondonWeek
-More pics at https://t.co/DHDlrQbDGC https://t.co/mJXw1IlvIq"
-353,1.1285675415116718e+18,2019-05-15 07:47:24+00:00,['1128567541511671809'],RT @ianandmj: Bad hair day? Kingmaker Amber Rudd in Downing Street https://t.co/gLunK7qMAK
-354,1.128335785542017e+18,2019-05-14 16:26:29+00:00,['1128335785542017024'],No #virginmobile for the best part of the day. Must be a different type of weather 😃😃😃😃😃 that has brought the network down.
-355,1.1278292583600374e+18,2019-05-13 06:53:43+00:00,['1127829258360037381'],RT @vickieflores: A family stop to look at the new Sir David Attenborough mural by Jerome in Bethnal Green. “There is no question climate c…
-356,1.126832581419438e+18,2019-05-10 12:53:17+00:00,['1126832581419438081'],"in pics - @vincecable and @guyverhofstadt during @LibDems  #EUelections2019 campaign event in #Camden , #northLondon
+More pics at https://t.co/DHDlrQbDGC https://t.co/mJXw1IlvIq",preview photo london open tomorrow somerset house pic,False
+1.128335785542017e+18,2019-05-14 16:26:29+00:00,['1128335785542017024'],No #virginmobile for the best part of the day. Must be a different type of weather 😃😃😃😃😃 that has brought the network down.,best part day must different type weather brought network,False
+1.126832581419438e+18,2019-05-10 12:53:17+00:00,['1126832581419438081'],"in pics - @vincecable and @guyverhofstadt during @LibDems  #EUelections2019 campaign event in #Camden , #northLondon
 #IamEuropean #RenewEurope @openvld @AlamyNews 
-More pics at https://t.co/h8ycbPzqwY https://t.co/InEqyNJyBj"
-357,1.126539698300752e+18,2019-05-09 17:29:28+00:00,['1126539698300751873'],RT @ianandmj: #towie filming in #Brentwood #Essex High Street today https://t.co/5rSdsv19aS
-358,1.126230475738157e+18,2019-05-08 21:00:44+00:00,['1126230475738157057'],#ChampionsLeague finals  - #Liverpool  - v -#Spurs
-359,1.1261117131101756e+18,2019-05-08 13:08:49+00:00,['1126111713110175744'],"RT @PjrFoto: Got on the news this morning - more than any of my photos did, as far as I can tell https://t.co/y9EDtNw6mO"
-360,1.1260351300684718e+18,2019-05-08 08:04:30+00:00,['1126035130068471808'],RT @ianandmj: I am interested in photographing European election activity in #Brentwood #essex for the national media.  Please let me know…
-361,1.1258688579676406e+18,2019-05-07 21:03:48+00:00,['1125868857967640581'],"Jurgen Sussex?
+More pics at https://t.co/h8ycbPzqwY https://t.co/InEqyNJyBj",pic campaign event pic,False
+1.126230475738157e+18,2019-05-08 21:00:44+00:00,['1126230475738157057'],#ChampionsLeague finals  - #Liverpool  - v -#Spurs,final,True
+1.1258688579676406e+18,2019-05-07 21:03:48+00:00,['1125868857967640581'],"Jurgen Sussex?
 #LIVBAR #royalbaby #LiverpoolvsBarcelona 
-#BabySussex"
-362,1.125867713916756e+18,2019-05-07 20:59:15+00:00,['1125867713916755968'],"#LIVBAR the great night in Liverpool history. 
-#liverpoolvsbarcelona"
-363,1.1258674885735793e+18,2019-05-07 20:58:21+00:00,['1125867488573579265'],#LIVBAR what a night.
-364,1.1258669291080049e+18,2019-05-07 20:56:08+00:00,['1125866929108004866'],"#LIVBAR well done #Liverpool 
+#BabySussex",jurgen sussex,True
+1.125867713916756e+18,2019-05-07 20:59:15+00:00,['1125867713916755968'],"#LIVBAR the great night in Liverpool history. 
+#liverpoolvsbarcelona",great night liverpool history,False
+1.1258674885735793e+18,2019-05-07 20:58:21+00:00,['1125867488573579265'],#LIVBAR what a night.,night,False
+1.1258669291080049e+18,2019-05-07 20:56:08+00:00,['1125866929108004866'],"#LIVBAR well done #Liverpool 
 #liverpoolvsbarcelona 
 Liv 4 Bar 0 (4 -3)
-What a come back."
-365,1.1254432847032934e+18,2019-05-06 16:52:43+00:00,['1125443284703293440'],@ianandmj @Allaboutdogssho @BrentwoodCentre Yep.
-366,1.1254320173515244e+18,2019-05-06 16:07:57+00:00,['1125432017351524352'],RT @ianandmj: Second day at the .@Allaboutdogssho at the .@BrentwoodCentre #Brentwood #Essex #BankHolidayMonday https://t.co/8lGSn5NeRW
-367,1.12543200524263e+18,2019-05-06 16:07:54+00:00,['1125432005242630145'],@ianandmj @Allaboutdogssho @BrentwoodCentre Great pics.
-368,1.1250599297342996e+18,2019-05-05 15:29:24+00:00,['1125059929734299649'],"RT @ianandmj: .@Allaboutdogssho #Brentwood , #Essex #dogs #BankHolidayWeekend https://t.co/q3n2BP9sBO"
-369,1.1250598801786592e+18,2019-05-05 15:29:12+00:00,['1125059880178659330'],RT @ianandmj: .@Allaboutdogssho .@BrentwoodCentre #brentwood #BankHolidayWeekend https://t.co/TaE77mtLvX
-370,1.1245983039859424e+18,2019-05-04 08:55:04+00:00,['1124598303985942528'],@kongroove @KongurDesign Can you follow me bsck so that I can send you a dm?
-371,1.1245981078099068e+18,2019-05-04 08:54:17+00:00,['1124598107809906688'],@BenGBennett Can you pls follow me back so that I can send you a dm?
-372,1.124593255293825e+18,2019-05-04 08:35:00+00:00,['1124593255293825024'],@merrypedaller @TweedRun Are you able to follow me back as I have a question to ask?
-373,1.1239460121444884e+18,2019-05-02 13:43:05+00:00,['1123946012144488449'],RT @ianandmj: Nice new .@Brentwood_BC  polling station signs #LocalElections2019 #brentwood #Essex https://t.co/UQgr4oqxYY
-374,1.123941256764248e+18,2019-05-02 13:24:12+00:00,['1123941256764248072'],"RT @ianandmj: #LocalElections2019 Polling station at #Brentwood Roman Catholic Cathedral, holy voting! https://t.co/9g0PPmSPk4"
-375,1.1236615500474328e+18,2019-05-01 18:52:44+00:00,['1123661550047432704'],"RT @ianandmj: Newspapers are reporting that Gavin Williamson, Defence Secretary has been sacked by the Prime minister and replace with Penn…"
-376,1.1229649289257656e+18,2019-04-29 20:44:37+00:00,['1122964928925765637'],"Lukas Bates in his ""Big Ben"" 
+What a come back.",well done liv bar come back,False
+1.1254432847032934e+18,2019-05-06 16:52:43+00:00,['1125443284703293440'],@ianandmj @Allaboutdogssho @BrentwoodCentre Yep.,yep,True
+1.12543200524263e+18,2019-05-06 16:07:54+00:00,['1125432005242630145'],@ianandmj @Allaboutdogssho @BrentwoodCentre Great pics.,great pic,True
+1.1245983039859424e+18,2019-05-04 08:55:04+00:00,['1124598303985942528'],@kongroove @KongurDesign Can you follow me bsck so that I can send you a dm?,follow bsck send,False
+1.1245981078099068e+18,2019-05-04 08:54:17+00:00,['1124598107809906688'],@BenGBennett Can you pls follow me back so that I can send you a dm?,pls follow back send,False
+1.124593255293825e+18,2019-05-04 08:35:00+00:00,['1124593255293825024'],@merrypedaller @TweedRun Are you able to follow me back as I have a question to ask?,able follow back question ask,False
+1.1229649289257656e+18,2019-04-29 20:44:37+00:00,['1122964928925765637'],"Lukas Bates in his ""Big Ben"" 
 costume struggled to cross the finish line at the #LondonMarathon, has now lost the ""Big Ben"" outfit. 
 #ThanksaBillion #bigbenoutfit #londonmarathon2019  #runners #bigbenrunner  #instarunner
 #VirginMoneyLondonMarathon
-RT https://t.co/kFwBtB69zI"
-377,1.1227926681473516e+18,2019-04-29 09:20:07+00:00,['1122792668147351552'],"RT @ianandmj: Our biggest fans this week: @NickyHayesPhoto, @coloursphotos. Thank you! via https://t.co/i0spE350Vd https://t.co/iMocIJzI8g"
-378,1.122593893667754e+18,2019-04-28 20:10:15+00:00,['1122593893667753987'],"In pics - Fun runners at #LondonMaratho2019 
+RT https://t.co/kFwBtB69zI",lukas bates big ben costume struggled cross finish line lost big ben outfit,False
+1.122593893667754e+18,2019-04-28 20:10:15+00:00,['1122593893667753987'],"In pics - Fun runners at #LondonMaratho2019 
 #ThanksaBillion #runners #LondonMarathon #LondonMarathon19 
-More pics at https://t.co/CJTWZNreqd https://t.co/jEwCOFJLmY"
-379,1.1225929891744686e+18,2019-04-28 20:06:40+00:00,['1122592989174468610'],"In pics - Big Ben runner gets stuck at finish line at the #LondonMaratho2019 
+More pics at https://t.co/CJTWZNreqd https://t.co/jEwCOFJLmY",pic fun runner pic,False
+1.1225929891744686e+18,2019-04-28 20:06:40+00:00,['1122592989174468610'],"In pics - Big Ben runner gets stuck at finish line at the #LondonMaratho2019 
 #ThanksaBillion #LondonMarathon #LondonMarathon19 #runners 
-More pics at https://t.co/PLM3181l2x https://t.co/XLDWMBL18V"
-380,1.1221800854218712e+18,2019-04-27 16:45:56+00:00,['1122180085421871106'],"In pics - #VaisakhiLDN Festival celebrations in #TrafalgarSquare, #London 
+More pics at https://t.co/PLM3181l2x https://t.co/XLDWMBL18V",pic big ben runner get stuck finish line pic,False
+1.1221800854218712e+18,2019-04-27 16:45:56+00:00,['1122180085421871106'],"In pics - #VaisakhiLDN Festival celebrations in #TrafalgarSquare, #London 
 #Vaisakhi #Sikhism #TrafalgarSquare 
 More pics at https://t.co/4hiFKhikuS
-@Telegraph @TimesPictures @guardian @ST_Newsroom @DailyMailUK @Mailonlinepics @TheSun @DailyMirror @Express_Pics https://t.co/dvy4WgMZfY"
-381,1.1214960088973108e+18,2019-04-25 19:27:39+00:00,['1121496008897310721'],"In pics - #environmentalactivists from #ExtinctionRebellionLondon are arrested by the police in #FleetStreet 
+@Telegraph @TimesPictures @guardian @ST_Newsroom @DailyMailUK @Mailonlinepics @TheSun @DailyMirror @Express_Pics https://t.co/dvy4WgMZfY",pic festival celebration pic,False
+1.1214960088973108e+18,2019-04-25 19:27:39+00:00,['1121496008897310721'],"In pics - #environmentalactivists from #ExtinctionRebellionLondon are arrested by the police in #FleetStreet 
 #climatechangeprotest #ClimateEmergency #ClimateAction #londonprotest 
 @ExtinctionR 
-More pics at https://t.co/BRqTMfnJ45 https://t.co/eOO0ZI0hFp"
-382,1.1210583108563476e+18,2019-04-24 14:28:24+00:00,['1121058310856347653'],RT @ianandmj: Great #LondonMarathon2019 Elite Men's photocall today with .@Mo_Farah - a great character and saw my fellow tog .@NickyHayesP…
-383,1.1202555791911648e+18,2019-04-22 09:18:38+00:00,['1120255579191164928'],RT @ianandmj: The latest The Ian Davidson Photography Daily! https://t.co/QvFIWcNffT Thanks to @LeaBouchoucha @LondonMarathon @MeAndMyRemot…
-384,1.1202366990896252e+18,2019-04-22 08:03:36+00:00,['1120236699089625088'],"RT @ianandmj: Our biggest fans this week: @coloursphotos, @LoveFoodBK, @cathedralb1. Thank you! via https://t.co/i0spE350Vd https://t.co/qY…"
-385,1.1193405992729846e+18,2019-04-19 20:42:49+00:00,['1119340599272984581'],"In pics - #environmentalactivists are arrested by the police in #OxfordCircus on the fifth day of their #climatechangeprotest 
+More pics at https://t.co/BRqTMfnJ45 https://t.co/eOO0ZI0hFp",pic arrested police pic,False
+1.1193405992729846e+18,2019-04-19 20:42:49+00:00,['1119340599272984581'],"In pics - #environmentalactivists are arrested by the police in #OxfordCircus on the fifth day of their #climatechangeprotest 
 #ExtinctionRebellion #ExtinctionRebellionLondon #ClimateChange #activists 
-More pics at https://t.co/bpK1qmXRsZ https://t.co/WIvsvABcAF"
-386,1.1192722838839542e+18,2019-04-19 16:11:22+00:00,['1119272283883954176'],RT @ianandmj: #Easter #Goodfriday Walk of Witness in #Brentwood High Street .@cathedralb1 https://t.co/cDa54k6Pb6
-387,1.1189339726485914e+18,2019-04-18 17:47:02+00:00,['1118933972648591363'],"In pics - An #environmentalactivist is arrested by the police on #WaterlooBridge on the fourth day of their #climatechangeprotest 
+More pics at https://t.co/bpK1qmXRsZ https://t.co/WIvsvABcAF",pic arrested police fifth day pic,False
+1.1189339726485914e+18,2019-04-18 17:47:02+00:00,['1118933972648591363'],"In pics - An #environmentalactivist is arrested by the police on #WaterlooBridge on the fourth day of their #climatechangeprotest 
 #ExtinctionRebellion #ExtinctionRebellionLondon #ClimateChange #activists 
-More pics at https://t.co/CPhdzMTpZf https://t.co/YPVcaLLmiA"
-388,1.1185711502321704e+18,2019-04-17 17:45:18+00:00,['1118571150232170496'],"In pics - Two environmental activists from #ExtinctionRebellion #protests on the #DLR train at #CanaryWharf station. #ClimateChange #climatechangeprotest #tellthetruth #lifeordeath #ThisIsAnEmergency #ExtinctionRebellionLondon @ExtinctionR  
-https://t.co/CF5ihv9Oys https://t.co/3ughBXejyp"
-389,1.118566531582124e+18,2019-04-17 17:26:57+00:00,['1118566531582124032'],RT @ianandmj: I am looking forward to covering the #londonmarathon as an accredited photographer.    Anyone taking part from #Brentwood? ht…
-390,1.1178844979895992e+18,2019-04-15 20:16:48+00:00,['1117884497989599233'],"In pics - Environmental activists from #ExtinctionRebellion #protests in #parliamentsquare. #ClimateChange #climatechangeprotest #tellthetruth #lifeordeath #ThisIsAnEmergency  @ExtinctionR  RT
-More pics at https://t.co/lT120QkHdN https://t.co/tdqSTbmXRt"
-391,1.1178649691968266e+18,2019-04-15 18:59:12+00:00,['1117864969196826624'],"RT @DubaiFrame: سعادة حدودها السماء
-#برواز_دبي
- 
-Unlimited joy
- #DubaiFrame
-Photo By: @Roamwithrakhee https://t.co/ARFjZ5sJSC"
-392,1.1177539064345888e+18,2019-04-15 11:37:52+00:00,['1117753906434588673'],"In pics - Environmental activists from #ExtinctionRebellion block Oxford Circus. #ClimateChange #climatechangeprotest #tellthetruth @ExtinctionR 
-More pics at https://t.co/ai0KbcL48h https://t.co/CG04FbJYLI"
-393,1.1153462338271887e+18,2019-04-08 20:10:38+00:00,['1115346233827188743'],"In pics - A #Brexit message for @theresa_may &amp; @jeremycorbyn by @MadeleinaKay 
-#BrexitisBroken #BrexitBreaksBritain #StopBrexit #EUsupergirl #Brexitcast #weareaeurope  #Music4EU #selfiequeen #brexitstorm #BrexitShambles More pics at https://t.co/HFR0AL189u https://t.co/vcvYtXrhhh"
-394,1.1153373942811688e+18,2019-04-08 19:35:31+00:00,['1115337394281168896'],RT @LAS_NorthLdn: Early turn #Paramedics have had their personal belongings stolen from an #Ambulance whilst taking a patient into the #Hea…
-395,1.1153368687097078e+18,2019-04-08 19:33:26+00:00,['1115336868709707776'],"In pics - “Edvard Munch: love and angst” exhibition preview at @britishmuseum. @artistmunch @maxwellmuseums
+More pics at https://t.co/CPhdzMTpZf https://t.co/YPVcaLLmiA",pic arrested police fourth day pic,False
+1.1185711502321704e+18,2019-04-17 17:45:18+00:00,['1118571150232170496'],"In pics - Two environmental activists from #ExtinctionRebellion #protests on the #DLR train at #CanaryWharf station. #ClimateChange #climatechangeprotest #tellthetruth #lifeordeath #ThisIsAnEmergency #ExtinctionRebellionLondon @ExtinctionR  
+https://t.co/CF5ihv9Oys https://t.co/3ughBXejyp",pic two environmental activist train station,False
+1.1178844979895992e+18,2019-04-15 20:16:48+00:00,['1117884497989599233'],"In pics - Environmental activists from #ExtinctionRebellion #protests in #parliamentsquare. #ClimateChange #climatechangeprotest #tellthetruth #lifeordeath #ThisIsAnEmergency  @ExtinctionR  RT
+More pics at https://t.co/lT120QkHdN https://t.co/tdqSTbmXRt",pic environmental activist pic,False
+1.1177539064345888e+18,2019-04-15 11:37:52+00:00,['1117753906434588673'],"In pics - Environmental activists from #ExtinctionRebellion block Oxford Circus. #ClimateChange #climatechangeprotest #tellthetruth @ExtinctionR 
+More pics at https://t.co/ai0KbcL48h https://t.co/CG04FbJYLI",pic environmental activist block oxford circus pic,False
+1.1153462338271887e+18,2019-04-08 20:10:38+00:00,['1115346233827188743'],"In pics - A #Brexit message for @theresa_may &amp; @jeremycorbyn by @MadeleinaKay 
+#BrexitisBroken #BrexitBreaksBritain #StopBrexit #EUsupergirl #Brexitcast #weareaeurope  #Music4EU #selfiequeen #brexitstorm #BrexitShambles More pics at https://t.co/HFR0AL189u https://t.co/vcvYtXrhhh",pic message amp pic,False
+1.1153368687097078e+18,2019-04-08 19:33:26+00:00,['1115336868709707776'],"In pics - “Edvard Munch: love and angst” exhibition preview at @britishmuseum. @artistmunch @maxwellmuseums
 #Illustration #painting #Norway #art #EdvardMunch #britishmuseum #artist #artwork #norwegianart #munch #expressionism #MunchExhibition 
-More pics at https://t.co/o27WyJkkfJ https://t.co/LyVmmPWLEJ"
-396,1.1151768690815631e+18,2019-04-08 08:57:39+00:00,['1115176869081563136'],@ianandmj @PjrFoto Likewise
-397,1.114504079303172e+18,2019-04-06 12:24:13+00:00,['1114504079303172096'],"In pics - Video game fans dressed in iconic games characters take part in the 3rd London Games Festival Character Parade. 
+More pics at https://t.co/o27WyJkkfJ https://t.co/LyVmmPWLEJ",pic edvard munch love angst exhibition preview pic,False
+1.1151768690815631e+18,2019-04-08 08:57:39+00:00,['1115176869081563136'],@ianandmj @PjrFoto Likewise,likewise,True
+1.114504079303172e+18,2019-04-06 12:24:13+00:00,['1114504079303172096'],"In pics - Video game fans dressed in iconic games characters take part in the 3rd London Games Festival Character Parade. 
 @londongamesfest #LGF19 #cosplay 
-https://t.co/xuotBouAxM https://t.co/M3w2OqpfPu"
-398,1.1142774006013992e+18,2019-04-05 21:23:29+00:00,['1114277400601399296'],A campaign van for Wikileaks with a poster of #ChelseaManning and #JulianAssange drives past the #EcuadorianEmbassy in #London as media reports state that the #EcuadorianEmbassy plan to remove the #Wikileaksfounder from the embassy. https://t.co/LEKsDUWIBu
-399,1.114276357914202e+18,2019-04-05 21:19:20+00:00,['1114276357914202112'],A dog looks at a postet of Julian Assange outside Ecuadorian Embassy in London as media reports state that the Ecuadorian Embassy plan to remove the Wikileaks founder from the embassy.… https://t.co/HSeparRzc0
-400,1.1142763238354904e+18,2019-04-05 21:19:12+00:00,['1114276323835490304'],A campaign van for Wikileaks with a poster of Chelsea Manning and WikiLeaks founder Julian Assange drives past the Ecuadorian Embassy in London as media reports state that the Ecuadorian… https://t.co/DmFQdPoMZ6
-401,1.1142762787171288e+18,2019-04-05 21:19:01+00:00,['1114276278717128705'],Julian Assange’s supporter outside Ecuadorian Embassy in London as media reports state that the Ecuadorian Embassy plan to remove the Wikileaks founder from the… https://t.co/SKUWTUIHLs
-402,1.1138540125399654e+18,2019-04-04 17:21:05+00:00,['1113854012539965440'],"Tottenham Hotspur fans take a selfie with Spurs legend Robbie Keane outside the new stadium.
+https://t.co/xuotBouAxM https://t.co/M3w2OqpfPu",pic video game fan dressed iconic game character take part london game festival character parade,False
+1.1142774006013992e+18,2019-04-05 21:23:29+00:00,['1114277400601399296'],A campaign van for Wikileaks with a poster of #ChelseaManning and #JulianAssange drives past the #EcuadorianEmbassy in #London as media reports state that the #EcuadorianEmbassy plan to remove the #Wikileaksfounder from the embassy. https://t.co/LEKsDUWIBu,campaign van wikileaks poster drive past medium report state plan remove embassy,False
+1.114276357914202e+18,2019-04-05 21:19:20+00:00,['1114276357914202112'],A dog looks at a postet of Julian Assange outside Ecuadorian Embassy in London as media reports state that the Ecuadorian Embassy plan to remove the Wikileaks founder from the embassy.… https://t.co/HSeparRzc0,dog look postet julian assange outside ecuadorian embassy london medium report state ecuadorian embassy plan remove wikileaks founder embassy,False
+1.1142763238354904e+18,2019-04-05 21:19:12+00:00,['1114276323835490304'],A campaign van for Wikileaks with a poster of Chelsea Manning and WikiLeaks founder Julian Assange drives past the Ecuadorian Embassy in London as media reports state that the Ecuadorian… https://t.co/DmFQdPoMZ6,campaign van wikileaks poster chelsea manning wikileaks founder julian assange drive past ecuadorian embassy london medium report state ecuadorian,False
+1.1142762787171288e+18,2019-04-05 21:19:01+00:00,['1114276278717128705'],Julian Assange’s supporter outside Ecuadorian Embassy in London as media reports state that the Ecuadorian Embassy plan to remove the Wikileaks founder from the… https://t.co/SKUWTUIHLs,julian assanges supporter outside ecuadorian embassy london medium report state ecuadorian embassy plan remove wikileaks founder,False
+1.1138540125399654e+18,2019-04-04 17:21:05+00:00,['1113854012539965440'],"Tottenham Hotspur fans take a selfie with Spurs legend Robbie Keane outside the new stadium.
 .
 .
 .
-#spurs #tottenhamhotspur #robbiekeane #football #newstadium #spursfan #spursfans… https://t.co/sOtPXb3kbw"
-403,1.1138070831981444e+18,2019-04-04 14:14:36+00:00,['1113807083198144512'],"Sitting in House of Commons suspended - roof leaking......
+#spurs #tottenhamhotspur #robbiekeane #football #newstadium #spursfan #spursfans… https://t.co/sOtPXb3kbw",tottenham hotspur fan take selfie spur legend robbie keane outside new stadium,False
+1.1138070831981444e+18,2019-04-04 14:14:36+00:00,['1113807083198144512'],"Sitting in House of Commons suspended - roof leaking......
 #whatnext
 #Brexit
 #brexitleak 
 #BrexitShambles 
 #brexitstorm 
-#brexitrainfall"
-404,1.111997143076819e+18,2019-03-30 14:22:33+00:00,['1111997143076818944'],"Thousands of travellers at #LondonStPancras as #Eurostar suspends all trains to and from London. The travellers face severe delays and cancellations after a man spent the night on the roof of London's St Pancras Station. #eurostardelays 
-Video not to be used without permission. https://t.co/JEdQjkmr2J"
-405,1.1101123705573664e+18,2019-03-25 09:33:08+00:00,['1110112370557366272'],@roamwithrakhee @piccadillyline @victorialine @TfL #Travel #Delays #tfl #tubedelays @DailyMailPics @TheSun @guardian @Independent @BBCNews @Daily_Star @Daily_Star @DailyMirror @DStarPics @MailOnline
-406,1.1092064915281348e+18,2019-03-22 21:33:30+00:00,['1109206491528134656'],"In pics - Cherry blossoms bloom in #London
+#brexitrainfall",sitting house common suspended roof leaking,False
+1.111997143076819e+18,2019-03-30 14:22:33+00:00,['1111997143076818944'],"Thousands of travellers at #LondonStPancras as #Eurostar suspends all trains to and from London. The travellers face severe delays and cancellations after a man spent the night on the roof of London's St Pancras Station. #eurostardelays 
+Video not to be used without permission. https://t.co/JEdQjkmr2J",thousand traveller suspends train london traveller face severe delay cancellation man spent night roof london's pancras station video used without permission,False
+1.1101123705573664e+18,2019-03-25 09:33:08+00:00,['1110112370557366272'],@roamwithrakhee @piccadillyline @victorialine @TfL #Travel #Delays #tfl #tubedelays @DailyMailPics @TheSun @guardian @Independent @BBCNews @Daily_Star @Daily_Star @DailyMirror @DStarPics @MailOnline,,
+1.1092064915281348e+18,2019-03-22 21:33:30+00:00,['1109206491528134656'],"In pics - Cherry blossoms bloom in #London
  #cherryblossom #spring #nature #flowers #tree #pink #開花宣言 #springflowers #Japanese #japanesecherryblossoms￼ #pinkflowers #spring 
-More pics at https://t.co/885tWcS19Y https://t.co/1UrkPQlAgw"
-407,1.109042828833968e+18,2019-03-22 10:43:10+00:00,['1109042828833968128'],"In pics - #Purim2019 celebrations in #StamfordHill, #Hackney. 
+More pics at https://t.co/885tWcS19Y https://t.co/1UrkPQlAgw",pic cherry blossom bloom pic,False
+1.109042828833968e+18,2019-03-22 10:43:10+00:00,['1109042828833968128'],"In pics - #Purim2019 celebrations in #StamfordHill, #Hackney. 
 #Jewish #Purim 
-More pics at https://t.co/KZYXVc1ik7 https://t.co/6awvxC8mJd"
-408,1.1090418670422304e+18,2019-03-22 10:39:20+00:00,['1109041867042230273'],"In pics - #Purim2019 celebrations in #StamfordHill, #Hackney. 
+More pics at https://t.co/KZYXVc1ik7 https://t.co/6awvxC8mJd",pic celebration pic,False
+1.1090418670422304e+18,2019-03-22 10:39:20+00:00,['1109041867042230273'],"In pics - #Purim2019 celebrations in #StamfordHill, #Hackney. 
 #Jewish #Purim 
-More pics at https://t.co/auhMHTazcI https://t.co/rFP99tSfnY"
-409,1.108368003631063e+18,2019-03-20 14:01:39+00:00,['1108368003631063040'],"In pics - Pro-Brexit protesters demonstrating outside Houses of Parliament. 
+More pics at https://t.co/auhMHTazcI https://t.co/rFP99tSfnY",pic celebration pic,False
+1.108368003631063e+18,2019-03-20 14:01:39+00:00,['1108368003631063040'],"In pics - Pro-Brexit protesters demonstrating outside Houses of Parliament. 
 #brexit #probrexit #LeaveEU #leave #BrexitShamble #NoDealBrexit #NoDealNoProblem 
-https://t.co/BrvaygCHzT https://t.co/XLHxWTgZMt"
-410,1.1083511965893672e+18,2019-03-20 12:54:52+00:00,['1108351196589367296'],"In pics - #TheresaMay departs from Number 10 Downing Street to attend #PMQs in the #HouseofCommons 
+https://t.co/BrvaygCHzT https://t.co/XLHxWTgZMt",pic probrexit protester demonstrating outside house parliament,False
+1.1083511965893672e+18,2019-03-20 12:54:52+00:00,['1108351196589367296'],"In pics - #TheresaMay departs from Number 10 Downing Street to attend #PMQs in the #HouseofCommons 
 #BrexitMayhem #brexit #downingstreet #NoDealBrexit 
-More pics at https://t.co/sP9Xy8pnFs https://t.co/DFx1zuhmXA"
-411,1.1076547397292236e+18,2019-03-18 14:47:23+00:00,['1107654739729223681'],"In pics - Workmen put finishing touches to Tottenham's stadium as they will play the first game in their new stadium against Crystal Palace on Wednesday 3 April 2019. 
+More pics at https://t.co/sP9Xy8pnFs https://t.co/DFx1zuhmXA",pic departs number downing street attend pic,False
+1.1076547397292236e+18,2019-03-18 14:47:23+00:00,['1107654739729223681'],"In pics - Workmen put finishing touches to Tottenham's stadium as they will play the first game in their new stadium against Crystal Palace on Wednesday 3 April 2019. 
 #SpursNewStadium  #whitehartlane #NewWhiteHartLane #THFC #WHUFC
-More pics at https://t.co/dySUYfHeCn https://t.co/P9k6P98CbG"
-412,1.1072717022439548e+18,2019-03-17 13:25:20+00:00,['1107271702243954692'],"In pics - #StPatricksDay #parade in #London
+More pics at https://t.co/dySUYfHeCn https://t.co/P9k6P98CbG",pic workman put finishing touch tottenham's stadium play first game new stadium crystal palace wednesday april pic,False
+1.1072717022439548e+18,2019-03-17 13:25:20+00:00,['1107271702243954692'],"In pics - #StPatricksDay #parade in #London
 #Irish #quirky #celebrate #Celebrations #fun #StPatricksDayParade #StPatrickDay #StPatricksWeekend 
-More pics at https://t.co/AZk02wJNV4 https://t.co/zyqsGIDCUn"
-413,1.1065794172440124e+18,2019-03-15 15:34:26+00:00,['1106579417244012544'],"Hundreds of students take part during a #ClimateStrike protest in #London highlighting the dangers of climate change. RT
+More pics at https://t.co/AZk02wJNV4 https://t.co/zyqsGIDCUn",pic pic,False
+1.1065794172440124e+18,2019-03-15 15:34:26+00:00,['1106579417244012544'],"Hundreds of students take part during a #ClimateStrike protest in #London highlighting the dangers of climate change. RT
 #ClimateChangeStrike #climatechange #ClimateAction #londonprotest
 #StudentsForFuture #studentstrike 
-More pics - https://t.co/lYT7hg8MzI https://t.co/zMui1VYhqw"
-414,1.1063046841202606e+18,2019-03-14 21:22:45+00:00,['1106304684120260608'],"In pics Arctic: New Frontier by @YuriKozyrev and @mediakadir at @saatchi_gallery, opening on Friday 15 Mach. This project was the 9th laureate of the Prix Carmignac For Photojournalism, graciously supported by the @FdnCarmignac.
-More pics at https://t.co/9Y31StF15j https://t.co/ESlYf0scFM"
-415,1.1063033617401692e+18,2019-03-14 21:17:30+00:00,['1106303361740169222'],"In pics - In pics -@Laura_Buckley's Fata Morgana, a dazzling and disorientating large-scale kaleidoscope @saatchi_gallery which opens on Friday 15 March. 
+More pics - https://t.co/lYT7hg8MzI https://t.co/zMui1VYhqw",hundred student take part protest highlighting danger climate change pic,False
+1.1063046841202606e+18,2019-03-14 21:22:45+00:00,['1106304684120260608'],"In pics Arctic: New Frontier by @YuriKozyrev and @mediakadir at @saatchi_gallery, opening on Friday 15 Mach. This project was the 9th laureate of the Prix Carmignac For Photojournalism, graciously supported by the @FdnCarmignac.
+More pics at https://t.co/9Y31StF15j https://t.co/ESlYf0scFM",pic arctic new frontier opening friday mach project laureate prix carmignac photojournalism graciously supported pic,False
+1.1063033617401692e+18,2019-03-14 21:17:30+00:00,['1106303361740169222'],"In pics - In pics -@Laura_Buckley's Fata Morgana, a dazzling and disorientating large-scale kaleidoscope @saatchi_gallery which opens on Friday 15 March. 
 #SaatchiGallery #exhibition #kaleidoscope #londonart #artist #laurabuckley #FataMorgana
-More pics - https://t.co/O3vhscBlQD https://t.co/OJbMXgoKlF"
-416,1.106302513811198e+18,2019-03-14 21:14:08+00:00,['1106302513811197952'],"In pics -@Laura_Buckley's Fata Morgana, a dazzling and disorientating large-scale kaleidoscope @saatchi_gallery which opens on Friday 15 March. 
+More pics - https://t.co/O3vhscBlQD https://t.co/OJbMXgoKlF",pic pic fata morgana dazzling disorientating largescale kaleidoscope open friday march pic,False
+1.106302513811198e+18,2019-03-14 21:14:08+00:00,['1106302513811197952'],"In pics -@Laura_Buckley's Fata Morgana, a dazzling and disorientating large-scale kaleidoscope @saatchi_gallery which opens on Friday 15 March. 
 #SaatchiGallery #exhibition #kaleidoscope #londonart #artist #laurabuckley #FataMorgana
-More pics at https://t.co/27h0V8Rygx https://t.co/q9vcKKbk9M"
-417,1.1054182086123724e+18,2019-03-12 10:40:13+00:00,['1105418208612372483'],@Mailonlinepics @StMirrenDaft More pics of the tree and the damaged windscreen at @LondonNPictures
-418,1.1052125478447924e+18,2019-03-11 21:02:59+00:00,['1105212547844792321'],Shadow Chancellor John McDonnell delivers a speech to business leaders in Bloomberg Headquarters in London ahead of Chancellor Philip Hammond's Spring Statement later this… https://t.co/xxTHyuBswa
-419,1.1050925943994328e+18,2019-03-11 13:06:20+00:00,['1105092594399432706'],"In pics - #JohnMcDonnell delivers a Pre-Spring Statement speech at Bloomberg
+More pics at https://t.co/27h0V8Rygx https://t.co/q9vcKKbk9M",pic fata morgana dazzling disorientating largescale kaleidoscope open friday march pic,False
+1.1054182086123724e+18,2019-03-12 10:40:13+00:00,['1105418208612372483'],@Mailonlinepics @StMirrenDaft More pics of the tree and the damaged windscreen at @LondonNPictures,pic tree damaged windscreen,False
+1.1052125478447924e+18,2019-03-11 21:02:59+00:00,['1105212547844792321'],Shadow Chancellor John McDonnell delivers a speech to business leaders in Bloomberg Headquarters in London ahead of Chancellor Philip Hammond's Spring Statement later this… https://t.co/xxTHyuBswa,shadow chancellor john mcdonnell delivers speech business leader bloomberg headquarters london ahead chancellor philip hammond's spring statement later,False
+1.1050925943994328e+18,2019-03-11 13:06:20+00:00,['1105092594399432706'],"In pics - #JohnMcDonnell delivers a Pre-Spring Statement speech at Bloomberg
 #SpringStatement @Bloomberg 
-More pics at https://t.co/cUnaDCgTJo https://t.co/AonV5MxuyT"
-420,1.1050604577260012e+18,2019-03-11 10:58:38+00:00,['1105060457726001153'],@BBCVickiYoung @johnmcdonnellMP Covering this event. https://t.co/eIlmeECYS6
-421,1.1050334269761004e+18,2019-03-11 09:11:14+00:00,['1105033426976100352'],"In pics - A man was nearly crushed as the roof above Stokey Vintage Cafe on #StokeNewington #HighStreet, #Hackney, #collapsed in 65mph wind. Huge pile of fallen bricks and #debris littering the street is seen outside the cafe.
+More pics at https://t.co/cUnaDCgTJo https://t.co/AonV5MxuyT",pic delivers prespring statement speech bloomberg pic,False
+1.1050604577260012e+18,2019-03-11 10:58:38+00:00,['1105060457726001153'],@BBCVickiYoung @johnmcdonnellMP Covering this event. https://t.co/eIlmeECYS6,covering event,False
+1.1050334269761004e+18,2019-03-11 09:11:14+00:00,['1105033426976100352'],"In pics - A man was nearly crushed as the roof above Stokey Vintage Cafe on #StokeNewington #HighStreet, #Hackney, #collapsed in 65mph wind. Huge pile of fallen bricks and #debris littering the street is seen outside the cafe.
 More pics at https://t.co/IohoBHm4Dh
-#stormgareth https://t.co/S6SBTuS5RL"
-422,1.1046796484521124e+18,2019-03-10 09:45:26+00:00,['1104679648452112384'],"Hundreds of women took part in the 11th anniversary of Million Women Rise
+#stormgareth https://t.co/S6SBTuS5RL",pic man nearly crushed roof stokey vintage cafe mph wind huge pile fallen brick littering street seen outside cafe pic,False
+1.1046796484521124e+18,2019-03-10 09:45:26+00:00,['1104679648452112384'],"Hundreds of women took part in the 11th anniversary of Million Women Rise
 #InternationalWomansDay2019 #NeverForgotten  #millionwomenrisemarch #notinthenameofmyreligion  #StrongerTogether #womeninternationalday #millionwomensmarch
-More pics at https://t.co/t0VgAyzZ2l https://t.co/xbpRxlFArS"
-423,1.1046795758780292e+18,2019-03-10 09:45:09+00:00,['1104679575878029312'],"Hundreds of women took part in the 11th anniversary of Million Women Rise
+More pics at https://t.co/t0VgAyzZ2l https://t.co/xbpRxlFArS",hundred woman took part anniversary million woman rise pic,False
+1.1046795758780292e+18,2019-03-10 09:45:09+00:00,['1104679575878029312'],"Hundreds of women took part in the 11th anniversary of Million Women Rise
 #InternationalWomansDay2019 #NeverForgotten  #millionwomenrisemarch #notinthenameofmyreligion  #StrongerTogether #womeninternationalday #millionwomensmarch
-More pics at https://t.co/t0VgAyzZ2l https://t.co/E3LlJwVTCm"
-424,1.1046794488157798e+18,2019-03-10 09:44:39+00:00,['1104679448815779840'],"Hundreds of women took part in the 11th anniversary of Million Women Rise
+More pics at https://t.co/t0VgAyzZ2l https://t.co/E3LlJwVTCm",hundred woman took part anniversary million woman rise pic,False
+1.1046794488157798e+18,2019-03-10 09:44:39+00:00,['1104679448815779840'],"Hundreds of women took part in the 11th anniversary of Million Women Rise
 #InternationalWomansDay2019 #NeverForgotten  #millionwomenrisemarch #notinthenameofmyreligion  #StrongerTogether #womeninternationalday #millionwomensmarch
-More pics at https://t.co/t0VgAyzZ2l https://t.co/c18DqeZUiN"
-425,1.1045061989912207e+18,2019-03-09 22:16:13+00:00,['1104506198991220737'],"Hundreds of women took part in the 11th anniversary of Million Women Rise against gender based violence in central London. This years theme was 'never forgotten', in solidarity with those… https://t.co/DAJwGwdmb3"
-426,1.1044908626780364e+18,2019-03-09 21:15:16+00:00,['1104490862678036480'],"In pics Thousands of women take part in the Million Women Rise March in London
+More pics at https://t.co/t0VgAyzZ2l https://t.co/c18DqeZUiN",hundred woman took part anniversary million woman rise pic,False
+1.1045061989912207e+18,2019-03-09 22:16:13+00:00,['1104506198991220737'],"Hundreds of women took part in the 11th anniversary of Million Women Rise against gender based violence in central London. This years theme was 'never forgotten', in solidarity with those… https://t.co/DAJwGwdmb3",hundred woman took part anniversary million woman rise gender based violence central london year theme 'never forgotten' solidarity,False
+1.1044908626780364e+18,2019-03-09 21:15:16+00:00,['1104490862678036480'],"In pics Thousands of women take part in the Million Women Rise March in London
 #MWR12yrs #MWR2019 #InternationalWomansDay2019 #millionwomenrise #NeverForgotten  #millionwomenrisemarch #notinthenameofmyreligion  #StrongerTogether @MillionWomen 
-More pics at https://t.co/t0VgAyzZ2l https://t.co/f0a5oRcdvR"
-427,1.1044035475700326e+18,2019-03-09 15:28:19+00:00,['1104403547570032640'],"In pics Thousands of women take part in the Million Women Rise March in London
+More pics at https://t.co/t0VgAyzZ2l https://t.co/f0a5oRcdvR",pic thousand woman take part million woman rise march london pic,False
+1.1044035475700326e+18,2019-03-09 15:28:19+00:00,['1104403547570032640'],"In pics Thousands of women take part in the Million Women Rise March in London
 #MWR12yrs #MWR2019 #InternationalWomansDay2019 #millionwomenrise #NeverForgotten  #millionwomenrisemarch #notinthenameofmyreligion  #StrongerTogether @MillionWomen
-More pics at https://t.co/0FpQz4hHJ3 https://t.co/wuVD9MZrci"
-428,1.1043458935437804e+18,2019-03-09 11:39:13+00:00,['1104345893543780353'],"In pics - Final finishing touches to Tottenham’s new stadium.
+More pics at https://t.co/0FpQz4hHJ3 https://t.co/wuVD9MZrci",pic thousand woman take part million woman rise march london pic,False
+1.1043458935437804e+18,2019-03-09 11:39:13+00:00,['1104345893543780353'],"In pics - Final finishing touches to Tottenham’s new stadium.
 #WhiteHartLane #TottenhamHotspur #newstadium #football #northlondon
-More pics at https://t.co/xHwIx5Ogez https://t.co/dXmzBp38OR"
-429,1.1014400104006164e+18,2019-03-01 11:12:16+00:00,['1101440010400616448'],"The odd one out.
+More pics at https://t.co/xHwIx5Ogez https://t.co/dXmzBp38OR",pic final finishing touch tottenhams new stadium pic,False
+1.1014400104006164e+18,2019-03-01 11:12:16+00:00,['1101440010400616448'],"The odd one out.
 It's the first day of meteorological spring.
 .
 .
 .
-#stjamespark #hottestdaoftheyear #woman #Londonweather #spring #springtime #Firstdayofsummer #hellospring #happyspring… https://t.co/kWUnd8WnSI"
-430,1.1012339934023968e+18,2019-02-28 21:33:38+00:00,['1101233993402396672'],"A woman practices yoga in St James's Park on the hottest day (so far) this year. .
+#stjamespark #hottestdaoftheyear #woman #Londonweather #spring #springtime #Firstdayofsummer #hellospring #happyspring… https://t.co/kWUnd8WnSI",odd one first day meteorological spring,False
+1.1012339934023968e+18,2019-02-28 21:33:38+00:00,['1101233993402396672'],"A woman practices yoga in St James's Park on the hottest day (so far) this year. .
 .
 .
-#stjamespark #woman #yoga #yogoeverywhere #mindbodysoul #mindfulness #letsstartyoga #heatopeners… https://t.co/RWkV3ttn6r"
-431,1.1012339581828056e+18,2019-02-28 21:33:30+00:00,['1101233958182805504'],"Making the most of ""Summer in February"" amongst daffodils on the hottest day of the year (so far) at St James's Park. .
+#stjamespark #woman #yoga #yogoeverywhere #mindbodysoul #mindfulness #letsstartyoga #heatopeners… https://t.co/RWkV3ttn6r",woman practice yoga james's park hottest day far year,False
+1.1012339581828056e+18,2019-02-28 21:33:30+00:00,['1101233958182805504'],"Making the most of ""Summer in February"" amongst daffodils on the hottest day of the year (so far) at St James's Park. .
 .
 .
 
-#stjamespark #hottestdaoftheyear #woman… https://t.co/t7H3M2Rql7"
-432,1.1007199500319252e+18,2019-02-27 11:31:01+00:00,['1100719950031925250'],@IcelandFoods @DailyMailUK @Daily_Star @Daily_Express @TheSun @Independent @guardian @TimesPictures Pls do as this is not the first time that out of date products are on the shelf.
-433,1.1007138083965132e+18,2019-02-27 11:06:36+00:00,['1100713808396513283'],Harringay store of @IcelandFoods selling milk which is out of date. @DailyMailUK @Daily_Star @Daily_Express @TheSun @Independent @guardian @TimesPictures #outfitoftheday #sellbydategone https://t.co/bUyqDlsGfI
-434,1.100710080675238e+18,2019-02-27 10:51:48+00:00,['1100710080675237888'],@IcelandFoods your Haringey store is selling out of date products. #iceland #fairtrading #sellbydategone #outofdate https://t.co/OMu92HiSnk
-435,1.100709744212353e+18,2019-02-27 10:50:27+00:00,['1100709744212353024'],"@IcelandFoods very disappointed,  that after a long queue at the checkout in your Haringey store, when I asked a cashier (Prem) to open another checkout she responded ""No"". I understand that she particular doesn't like going to checkout. #poorservice #fairtrading #Iceland"
-436,1.09943558498313e+18,2019-02-23 22:27:24+00:00,['1099435584983130117'],"A woman relaxes among daffodils on a warm and sunny spring day in St James's Park.
+#stjamespark #hottestdaoftheyear #woman… https://t.co/t7H3M2Rql7",making summer february amongst daffodil hottest day year far james's park,False
+1.1007199500319252e+18,2019-02-27 11:31:01+00:00,['1100719950031925250'],@IcelandFoods @DailyMailUK @Daily_Star @Daily_Express @TheSun @Independent @guardian @TimesPictures Pls do as this is not the first time that out of date products are on the shelf.,pls first time date product shelf,False
+1.1007138083965132e+18,2019-02-27 11:06:36+00:00,['1100713808396513283'],Harringay store of @IcelandFoods selling milk which is out of date. @DailyMailUK @Daily_Star @Daily_Express @TheSun @Independent @guardian @TimesPictures #outfitoftheday #sellbydategone https://t.co/bUyqDlsGfI,harringay store selling milk date,False
+1.100710080675238e+18,2019-02-27 10:51:48+00:00,['1100710080675237888'],@IcelandFoods your Haringey store is selling out of date products. #iceland #fairtrading #sellbydategone #outofdate https://t.co/OMu92HiSnk,haringey store selling date product,False
+1.100709744212353e+18,2019-02-27 10:50:27+00:00,['1100709744212353024'],"@IcelandFoods very disappointed,  that after a long queue at the checkout in your Haringey store, when I asked a cashier (Prem) to open another checkout she responded ""No"". I understand that she particular doesn't like going to checkout. #poorservice #fairtrading #Iceland",disappointed long queue checkout haringey store asked cashier prem open another checkout responded understand particular like going checkout,False
+1.09943558498313e+18,2019-02-23 22:27:24+00:00,['1099435584983130117'],"A woman relaxes among daffodils on a warm and sunny spring day in St James's Park.
 .
 .
 .
-#daffoldils #Londonweather #spring #springtime #springflowers #flowers #springdaffodils #selfie… https://t.co/9zCDewcZlv"
-437,1.0994355605427324e+18,2019-02-23 22:27:18+00:00,['1099435560542732288'],"Women takes selfie with the daffodils in St James's Park during unseasonably warm weather in the UK.
+#daffoldils #Londonweather #spring #springtime #springflowers #flowers #springdaffodils #selfie… https://t.co/9zCDewcZlv",woman relaxes among daffodil warm sunny spring day james's park,False
+1.0994355605427324e+18,2019-02-23 22:27:18+00:00,['1099435560542732288'],"Women takes selfie with the daffodils in St James's Park during unseasonably warm weather in the UK.
 .
 .
 .
-#daffoldils #Londonweather #spring #springtime #springflowers #flowers… https://t.co/gfzVmP4brl"
-438,1.0994355235699016e+18,2019-02-23 22:27:10+00:00,['1099435523569901568'],"A woman walks among daffodils on a warm and sunny spring day in St James's Park.
+#daffoldils #Londonweather #spring #springtime #springflowers #flowers… https://t.co/gfzVmP4brl",woman take selfie daffodil james's park unseasonably warm weather,False
+1.0994355235699016e+18,2019-02-23 22:27:10+00:00,['1099435523569901568'],"A woman walks among daffodils on a warm and sunny spring day in St James's Park.
 .
 .
 .
-#daffoldils #Londonweather #spring #springtime #springflowers #flowers #springdaffodils… https://t.co/5iOxk4xpEy"
-439,1.0990548857340928e+18,2019-02-22 21:14:38+00:00,['1099054885734092800'],"In pics -A class of young people sitting outside the @educationgovuk waiting patiently for their lesson on the truth about the climate crisis. @ExtinctionR
+#daffoldils #Londonweather #spring #springtime #springflowers #flowers #springdaffodils… https://t.co/5iOxk4xpEy",woman walk among daffodil warm sunny spring day james's park,False
+1.0990548857340928e+18,2019-02-22 21:14:38+00:00,['1099054885734092800'],"In pics -A class of young people sitting outside the @educationgovuk waiting patiently for their lesson on the truth about the climate crisis. @ExtinctionR
 #TeachTheTruth #DfE #climatechange #FridaysForFuture #SchoolStrike #YouthStrike4Climate
-More pics at https://t.co/qDy0gUr9jP https://t.co/vdN3FMrkrP"
-440,1.0986954461664256e+18,2019-02-21 21:26:21+00:00,['1098695446166425600'],"#Sculptor #PhyllidaBarlow at her new exhibition #culdesac at the @royalacademy which opens on 23 February at the Royal Academy’s Gabrielle Jungels-Winkler Galleries, and runs until 23 June 2019.
+More pics at https://t.co/qDy0gUr9jP https://t.co/vdN3FMrkrP",pic class young people sitting outside waiting patiently lesson truth climate crisis pic,False
+1.0986954461664256e+18,2019-02-21 21:26:21+00:00,['1098695446166425600'],"#Sculptor #PhyllidaBarlow at her new exhibition #culdesac at the @royalacademy which opens on 23 February at the Royal Academy’s Gabrielle Jungels-Winkler Galleries, and runs until 23 June 2019.
 #sculpture #sculptor #artexhibition
-#artwork #artgallery https://t.co/pzGMmAi1HE"
-441,1.0986894613013094e+18,2019-02-21 21:02:34+00:00,['1098689461301309440'],"Sculptor Phyllida Barlow in front of her new exhibition ""cul-de-sac"" at the Royal Academy of Arts which opens on 23 February at the Royal Academy’s Gabrielle Jungels-Winkler Galleries, and… https://t.co/FUfoLx43fJ"
-442,1.0982377221274664e+18,2019-02-20 15:07:31+00:00,['1098237722127466500'],"In pics - @TheIndGroup press conference. 
+#artwork #artgallery https://t.co/pzGMmAi1HE",new exhibition open february royal academy gabrielle jungelswinkler gallery run june,False
+1.0986894613013094e+18,2019-02-21 21:02:34+00:00,['1098689461301309440'],"Sculptor Phyllida Barlow in front of her new exhibition ""cul-de-sac"" at the Royal Academy of Arts which opens on 23 February at the Royal Academy’s Gabrielle Jungels-Winkler Galleries, and… https://t.co/FUfoLx43fJ",sculptor phyllida barlow front new exhibition culdesac royal academy art open february royal academy gabrielle jungelswinkler gallery,False
+1.0982377221274664e+18,2019-02-20 15:07:31+00:00,['1098237722127466500'],"In pics - @TheIndGroup press conference. 
 @heidiallen75 @Anna_Soubry and @sarahwollaston #ChangePolitics
-More pics at https://t.co/NzoEN8rtk0 https://t.co/9Fs5bPIDGK"
-443,1.0981957572896892e+18,2019-02-20 12:20:46+00:00,['1098195757289689093'],"In pics - British artist #PhyllidaBarlow transforms @royalacademy's Gabrielle Jungels-Winkler Galleries with an exhibition of her new work, entitled ""cul-de-sac"".
-More pics at https://t.co/HbUv8ggoms https://t.co/VsLzi8FOcg"
-444,1.0979858432585482e+18,2019-02-19 22:26:39+00:00,['1097985843258548225'],"Jeremy Corbyn MP Leader of Labour Party at the 2019 National Manufacturing Conference in Queen Elizabeth II Centre. .
+More pics at https://t.co/NzoEN8rtk0 https://t.co/9Fs5bPIDGK",pic press conference pic,False
+1.0981957572896892e+18,2019-02-20 12:20:46+00:00,['1098195757289689093'],"In pics - British artist #PhyllidaBarlow transforms @royalacademy's Gabrielle Jungels-Winkler Galleries with an exhibition of her new work, entitled ""cul-de-sac"".
+More pics at https://t.co/HbUv8ggoms https://t.co/VsLzi8FOcg",pic british artist transforms gabrielle jungelswinkler gallery exhibition new work entitled culdesac pic,False
+1.0979858432585482e+18,2019-02-19 22:26:39+00:00,['1097985843258548225'],"Jeremy Corbyn MP Leader of Labour Party at the 2019 National Manufacturing Conference in Queen Elizabeth II Centre. .
 .
 .
-#corbyn #jeremycorbyn #Labourparty… https://t.co/ecBX62W4sh"
-445,1.0979719469212426e+18,2019-02-19 21:31:26+00:00,['1097971946921242624'],"Jeremy Corbyn MP Leader of Labour Party speaking at the 2019 National Manufacturing Conference in Queen Elizabeth II Centre. .
+#corbyn #jeremycorbyn #Labourparty… https://t.co/ecBX62W4sh",jeremy corbyn leader labour party national manufacturing conference queen elizabeth centre,False
+1.0979719469212426e+18,2019-02-19 21:31:26+00:00,['1097971946921242624'],"Jeremy Corbyn MP Leader of Labour Party speaking at the 2019 National Manufacturing Conference in Queen Elizabeth II Centre. .
 .
 .
-#corbyn #jeremycorbyn #Labourparty… https://t.co/gztV0bl350"
-446,1.0979659379391488e+18,2019-02-19 21:07:33+00:00,['1097965937939148800'],"In pics - @UKLabour leader @jeremycorbyn at @MakeUK_ conference #Mfg2019
-More pics at https://t.co/hXIycFnsEO https://t.co/zhEdqu2wTw"
-447,1.0974778261382922e+18,2019-02-18 12:47:58+00:00,['1097477826138292224'],@TheIndGroup it would help if your website is working.
-448,1.097473552830419e+18,2019-02-18 12:30:59+00:00,['1097473552830418949'],"It would help if your website is working!!
-https://t.co/9V101GAIIh  #ChangePolitics"
-449,1.0968713532680316e+18,2019-02-16 20:38:04+00:00,['1096871353268031492'],"In pics - Campaigners protest against BP sponsorship of @britishmuseum
+#corbyn #jeremycorbyn #Labourparty… https://t.co/gztV0bl350",jeremy corbyn leader labour party speaking national manufacturing conference queen elizabeth centre,False
+1.0979659379391488e+18,2019-02-19 21:07:33+00:00,['1097965937939148800'],"In pics - @UKLabour leader @jeremycorbyn at @MakeUK_ conference #Mfg2019
+More pics at https://t.co/hXIycFnsEO https://t.co/zhEdqu2wTw",pic leader conference pic,False
+1.0974778261382922e+18,2019-02-18 12:47:58+00:00,['1097477826138292224'],@TheIndGroup it would help if your website is working.,would help website working,True
+1.097473552830419e+18,2019-02-18 12:30:59+00:00,['1097473552830418949'],"It would help if your website is working!!
+https://t.co/9V101GAIIh  #ChangePolitics",would help website working,True
+1.0968713532680316e+18,2019-02-16 20:38:04+00:00,['1096871353268031492'],"In pics - Campaigners protest against BP sponsorship of @britishmuseum
  #NoWarNoWarming #DropBP #Ashurbanipal #fossilfree #ClimateStrike
 @ReclaimOurBard
-More pics available at https://t.co/128LkQGvvF https://t.co/AzD5TULMDr"
-450,1.096870429791273e+18,2019-02-16 20:34:23+00:00,['1096870429791272960'],"In pics - Campaigners protest against BP sponsorship of @britishmuseum
+More pics available at https://t.co/128LkQGvvF https://t.co/AzD5TULMDr",pic campaigner protest sponsorship pic available,False
+1.096870429791273e+18,2019-02-16 20:34:23+00:00,['1096870429791272960'],"In pics - Campaigners protest against BP sponsorship of @britishmuseum
  #NoWarNoWarming #DropBP #Ashurbanipal #fossilfree #ClimateStrike
 @ReclaimOurBard
-More pics available at https://t.co/uvcWTD2wj5 https://t.co/2BW8yRUNcx"
-451,1.0965245547579188e+18,2019-02-15 21:40:00+00:00,['1096524554757918720'],"In pics - Street fashion arrivals at @LondonFashionWk 
+More pics available at https://t.co/uvcWTD2wj5 https://t.co/2BW8yRUNcx",pic campaigner protest sponsorship pic available,False
+1.0965245547579188e+18,2019-02-15 21:40:00+00:00,['1096524554757918720'],"In pics - Street fashion arrivals at @LondonFashionWk 
 #LFW #PositiveFashion #streetphotography #streetfashion #StreetStyle #LondonFashionWeek #londonfashion 
-More pics at https://t.co/Nv6ckkq1V3 https://t.co/qbS7a4sTao"
-452,1.0965235151074673e+18,2019-02-15 21:35:53+00:00,['1096523515107467265'],"In pics - Street fashion arrivals at @LondonFashionWk 
+More pics at https://t.co/Nv6ckkq1V3 https://t.co/qbS7a4sTao",pic street fashion arrival pic,False
+1.0965235151074673e+18,2019-02-15 21:35:53+00:00,['1096523515107467265'],"In pics - Street fashion arrivals at @LondonFashionWk 
 #LFW #PositiveFashion #streetphotography #streetfashion #StreetStyle #LondonFashionWeek #londonfashion 
-More at https://t.co/UMfGc2V9ha https://t.co/we8Ho0U8RU"
-453,1.0961083265999668e+18,2019-02-14 18:06:04+00:00,['1096108326599966721'],"In pics - Hundreds of @peoplesvote_uk supporters wearing blindfolds and carrying placards demonstrates in Parliament Square. #breixt
-More pics at https://t.co/RtHAurH4Yt https://t.co/rbECGayPR0"
-454,1.0961076098563768e+18,2019-02-14 18:03:13+00:00,['1096107609856376832'],"In pics - Waxing Gibbous Moon over Big Ben under clear blue sky.
-More pics at https://t.co/PIH0NVN1he https://t.co/RwP3dlAQRT"
-455,1.0957953540443791e+18,2019-02-13 21:22:25+00:00,['1095795354044379144'],"In pic - An #A380 @EtihadAirways EY17 from @AUH to @HeathrowAirport flies in front of first quarter moon with 57% visibility over London. #LondonHeathrow #AbuDhabiAirport #Etihad #moon
-Pic at https://t.co/IC7Gl9N6ek https://t.co/DBjoFVav64"
-456,1.0950743425248502e+18,2019-02-11 21:37:23+00:00,['1095074342524850179'],"In pics - Models on catwalk at @PureLondonShow showcasing the latest designs from a mix of stylish labels aimed at a trend-led audience design. RT
+More at https://t.co/UMfGc2V9ha https://t.co/we8Ho0U8RU",pic street fashion arrival,False
+1.0961083265999668e+18,2019-02-14 18:06:04+00:00,['1096108326599966721'],"In pics - Hundreds of @peoplesvote_uk supporters wearing blindfolds and carrying placards demonstrates in Parliament Square. #breixt
+More pics at https://t.co/RtHAurH4Yt https://t.co/rbECGayPR0",pic hundred supporter wearing blindfold carrying placard demonstrates parliament square pic,False
+1.0961076098563768e+18,2019-02-14 18:03:13+00:00,['1096107609856376832'],"In pics - Waxing Gibbous Moon over Big Ben under clear blue sky.
+More pics at https://t.co/PIH0NVN1he https://t.co/RwP3dlAQRT",pic waxing gibbous moon big ben clear blue sky pic,False
+1.0957953540443791e+18,2019-02-13 21:22:25+00:00,['1095795354044379144'],"In pic - An #A380 @EtihadAirways EY17 from @AUH to @HeathrowAirport flies in front of first quarter moon with 57% visibility over London. #LondonHeathrow #AbuDhabiAirport #Etihad #moon
+Pic at https://t.co/IC7Gl9N6ek https://t.co/DBjoFVav64",pic fly front first quarter moon visibility london pic,False
+1.0950743425248502e+18,2019-02-11 21:37:23+00:00,['1095074342524850179'],"In pics - Models on catwalk at @PureLondonShow showcasing the latest designs from a mix of stylish labels aimed at a trend-led audience design. RT
 #PureLondon #fashion #lifestyle #powerofone #fashionblogger #Fashionista
-More pics at https://t.co/lvglEmC6hn https://t.co/0MSLRmRb9m"
-457,1.0949075802651772e+18,2019-02-11 10:34:44+00:00,['1094907580265177089'],All ready for #PureLondon catwalk https://t.co/AiszlvAvBI
-458,1.0947019627869472e+18,2019-02-10 20:57:41+00:00,['1094701962786947072'],"In pics - The Dragon and Flying Lions Dance during the Chinese New Year Celebrations - the Year of the Pig in Trafalgar Square
+More pics at https://t.co/lvglEmC6hn https://t.co/0MSLRmRb9m",pic model catwalk showcasing latest design mix stylish label aimed trendled audience design pic,False
+1.0949075802651772e+18,2019-02-11 10:34:44+00:00,['1094907580265177089'],All ready for #PureLondon catwalk https://t.co/AiszlvAvBI,ready catwalk,False
+1.0947019627869472e+18,2019-02-10 20:57:41+00:00,['1094701962786947072'],"In pics - The Dragon and Flying Lions Dance during the Chinese New Year Celebrations - the Year of the Pig in Trafalgar Square
  #ChineseNewYear  #CNYLondon #CNY #YearOfThePig  #CNY2019 #HappyChineseNewYear #liondance
-More pics at https://t.co/tmap9mlJBO https://t.co/0qAA8HfIFi"
-459,1.0939829729555825e+18,2019-02-08 21:20:40+00:00,['1093982972955582465'],"Today a 10 year old Sumatran tigress Melati was killed while being introduced to new 7 year old male Asim for the first time at London Zoo.
+More pics at https://t.co/tmap9mlJBO https://t.co/0qAA8HfIFi",pic dragon flying lion dance chinese new year celebration year pig trafalgar square pic,False
+1.0939829729555825e+18,2019-02-08 21:20:40+00:00,['1093982972955582465'],"Today a 10 year old Sumatran tigress Melati was killed while being introduced to new 7 year old male Asim for the first time at London Zoo.
 .
 .
 .
 #Sumatrantigress #tigress
-#Melati #Asim… https://t.co/6is3FBOF66"
-460,1.0934349288958484e+18,2019-02-07 09:02:56+00:00,['1093434928895848454'],"In pics - @KingsTroopRHA fire #41gunsalute to mark the 67th anniversary of Queen Elizabeth II's accession to the throne.@BritishArmy 
+#Melati #Asim… https://t.co/6is3FBOF66",today year old sumatran tigress melati killed introduced new year old male asim first time london zoo,False
+1.0934349288958484e+18,2019-02-07 09:02:56+00:00,['1093434928895848454'],"In pics - @KingsTroopRHA fire #41gunsalute to mark the 67th anniversary of Queen Elizabeth II's accession to the throne.@BritishArmy 
 #soldier #army #troops #KingsTroopRoyalHorseArtillery #London #greenpark  #gunsalute #artillery #kingstroops 
-More pics https://t.co/UNpcrgVON9 https://t.co/HkANvHhtTa"
-461,1.0934336270886912e+18,2019-02-07 08:57:46+00:00,['1093433627088691200'],"In pics -  Members of The King's Troop Royal Horse Artillery prepare their horses in Wellington Barracks
+More pics https://t.co/UNpcrgVON9 https://t.co/HkANvHhtTa",pic fire mark anniversary queen elizabeth ii's accession throne pic,False
+1.0934336270886912e+18,2019-02-07 08:57:46+00:00,['1093433627088691200'],"In pics -  Members of The King's Troop Royal Horse Artillery prepare their horses in Wellington Barracks
 More pics at https://t.co/mKJuC0UzeU
 @BritishArmy @KingsTroopRHA 
-#troops #KingsTroopRoyalHorseArtillery #London #artillery #kingstroops https://t.co/8fFa0krBfL"
-462,1.0934324962582732e+18,2019-02-07 08:53:16+00:00,['1093432496258273281'],"In pics - Preparations for Queen Elizabeth II Accession Anniversary,
+#troops #KingsTroopRoyalHorseArtillery #London #artillery #kingstroops https://t.co/8fFa0krBfL",pic member king's troop royal horse artillery prepare horse wellington barrack pic,False
+1.0934324962582732e+18,2019-02-07 08:53:16+00:00,['1093432496258273281'],"In pics - Preparations for Queen Elizabeth II Accession Anniversary,
 More pics at https://t.co/L9D7Id58ew
 @BritishArmy @KingsTroopRHA 
-#soldier #arm  #troops #KingsTroopRoyalHorseArtillery #London #greenpark #41gunsalute #gunsalute #artillery #kingstroops #queenelizabethii https://t.co/MsfAW0T2qw"
-463,1.0932719562735576e+18,2019-02-06 22:15:21+00:00,['1093271956273557505'],Lance Bombardier Grace Gostelow who broke her neck whilst stopping a runaway horse returns to duty for the first time as the King's Troop Royal Horse Artillery fire a 41-gun salute to mark… https://t.co/F6TWPxTYR3
-464,1.0932719326302332e+18,2019-02-06 22:15:15+00:00,['1093271932630233088'],Lance Bombardier Grace Gostelow who broke her neck whilst stopping a runaway horse returns to duty for the first time as the King's Troop Royal Horse Artillery fire a 41-gun salute to mark… https://t.co/L3YOYR7YJf
-465,1.0932614218639442e+18,2019-02-06 21:33:29+00:00,['1093261421863944198'],"Members of the Kings Troop Royal Horse Artillery fire a 41-gun salute to mark the 67th anniversary of the Queen Elizabeth II's accession to the throne.
+#soldier #arm  #troops #KingsTroopRoyalHorseArtillery #London #greenpark #41gunsalute #gunsalute #artillery #kingstroops #queenelizabethii https://t.co/MsfAW0T2qw",pic preparation queen elizabeth accession anniversary pic,False
+1.0932719562735576e+18,2019-02-06 22:15:21+00:00,['1093271956273557505'],Lance Bombardier Grace Gostelow who broke her neck whilst stopping a runaway horse returns to duty for the first time as the King's Troop Royal Horse Artillery fire a 41-gun salute to mark… https://t.co/F6TWPxTYR3,lance bombardier grace gostelow broke neck whilst stopping runaway horse return duty first time king's troop royal horse artillery fire gun salute mark,False
+1.0932719326302332e+18,2019-02-06 22:15:15+00:00,['1093271932630233088'],Lance Bombardier Grace Gostelow who broke her neck whilst stopping a runaway horse returns to duty for the first time as the King's Troop Royal Horse Artillery fire a 41-gun salute to mark… https://t.co/L3YOYR7YJf,lance bombardier grace gostelow broke neck whilst stopping runaway horse return duty first time king's troop royal horse artillery fire gun salute mark,False
+1.0932614218639442e+18,2019-02-06 21:33:29+00:00,['1093261421863944198'],"Members of the Kings Troop Royal Horse Artillery fire a 41-gun salute to mark the 67th anniversary of the Queen Elizabeth II's accession to the throne.
 .
 .
 .
 
-#soldier #troops… https://t.co/aBjncMNKFH"
-466,1.0932613792163062e+18,2019-02-06 21:33:19+00:00,['1093261379216306178'],"Members of the Kings Troop Royal Horse Artillery fire a 41-gun salute to mark the 67th anniversary of the Queen Elizabeth II's accession to the throne.
+#soldier #troops… https://t.co/aBjncMNKFH",member king troop royal horse artillery fire gun salute mark anniversary queen elizabeth ii's accession throne,False
+1.0932613792163062e+18,2019-02-06 21:33:19+00:00,['1093261379216306178'],"Members of the Kings Troop Royal Horse Artillery fire a 41-gun salute to mark the 67th anniversary of the Queen Elizabeth II's accession to the throne.
 .
 .
 .
 
-#soldier #troops… https://t.co/YbBmGcyMmH"
-467,1.0932613253068718e+18,2019-02-06 21:33:06+00:00,['1093261325306871808'],Members of the Kings Troop Royal Horse Artillery get ready before leaving for Green Park to fire a 41-gun salute to mark the 67th anniversary of Queen Elizabeth II's accession to the… https://t.co/W2vu0qnDAf
-468,1.0932612675469844e+18,2019-02-06 21:32:52+00:00,['1093261267546984448'],Members of the Kings Troop Royal Horse Artillery get ready before leaving for Green Park to fire a 41-gun salute to mark the 67th anniversary of Queen Elizabeth II's accession to the… https://t.co/eqEex62fKV
-469,1.0929020677300306e+18,2019-02-05 21:45:32+00:00,['1092902067730030593'],"The Prince of Wales and the Duchess of Cornwall arrive at the UK's highest court - the Supreme Court, to commemorate its 10th anniversary. The uksupremecourt
-Was opened by the Queen in… https://t.co/Iv3uj6rUVl"
-470,1.0921799836723036e+18,2019-02-03 21:56:14+00:00,['1092179983672303618'],"Photographers and clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of… https://t.co/CUBtm87IKx"
-471,1.0921799379545376e+18,2019-02-03 21:56:03+00:00,['1092179937954537473'],"Clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern clowning.… https://t.co/Gei8n5DvQz"
-472,1.0921798958018356e+18,2019-02-03 21:55:53+00:00,['1092179895801835520'],"Clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern clowning.… https://t.co/nhBnpwOf3q"
-473,1.0921798449333044e+18,2019-02-03 21:55:41+00:00,['1092179844933304320'],"Clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern clowning.… https://t.co/Lk09vE5qNu"
-474,1.092179818576298e+18,2019-02-03 21:55:35+00:00,['1092179818576297989'],"Young clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern… https://t.co/4YDiiYUMCe"
-475,1.0921282337667686e+18,2019-02-03 18:30:36+00:00,['1092128233766768641'],"In pics - Today's annual Joseph Grimaldi Clown Church Service at @trinitysaints1 
+#soldier #troops… https://t.co/YbBmGcyMmH",member king troop royal horse artillery fire gun salute mark anniversary queen elizabeth ii's accession throne,False
+1.0932613253068718e+18,2019-02-06 21:33:06+00:00,['1093261325306871808'],Members of the Kings Troop Royal Horse Artillery get ready before leaving for Green Park to fire a 41-gun salute to mark the 67th anniversary of Queen Elizabeth II's accession to the… https://t.co/W2vu0qnDAf,member king troop royal horse artillery get ready leaving green park fire gun salute mark anniversary queen elizabeth ii's accession,False
+1.0932612675469844e+18,2019-02-06 21:32:52+00:00,['1093261267546984448'],Members of the Kings Troop Royal Horse Artillery get ready before leaving for Green Park to fire a 41-gun salute to mark the 67th anniversary of Queen Elizabeth II's accession to the… https://t.co/eqEex62fKV,member king troop royal horse artillery get ready leaving green park fire gun salute mark anniversary queen elizabeth ii's accession,False
+1.0929020677300306e+18,2019-02-05 21:45:32+00:00,['1092902067730030593'],"The Prince of Wales and the Duchess of Cornwall arrive at the UK's highest court - the Supreme Court, to commemorate its 10th anniversary. The uksupremecourt
+Was opened by the Queen in… https://t.co/Iv3uj6rUVl",prince wale duchess cornwall arrive uk's highest court supreme court commemorate anniversary uksupremecourt opened queen,False
+1.0921799836723036e+18,2019-02-03 21:56:14+00:00,['1092179983672303618'],"Photographers and clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of… https://t.co/CUBtm87IKx",photographer clown grimaldi church service memory joseph grimaldi english actor comedian dancer widely considered father,False
+1.0921799379545376e+18,2019-02-03 21:56:03+00:00,['1092179937954537473'],"Clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern clowning.… https://t.co/Gei8n5DvQz",clown grimaldi church service memory joseph grimaldi english actor comedian dancer widely considered father modern clowning,False
+1.0921798958018356e+18,2019-02-03 21:55:53+00:00,['1092179895801835520'],"Clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern clowning.… https://t.co/nhBnpwOf3q",clown grimaldi church service memory joseph grimaldi english actor comedian dancer widely considered father modern clowning,False
+1.0921798449333044e+18,2019-02-03 21:55:41+00:00,['1092179844933304320'],"Clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern clowning.… https://t.co/Lk09vE5qNu",clown grimaldi church service memory joseph grimaldi english actor comedian dancer widely considered father modern clowning,False
+1.092179818576298e+18,2019-02-03 21:55:35+00:00,['1092179818576297989'],"Young clowns at the the Grimaldi Church Service in memory of Joseph Grimaldi (1778-1837), an English actor, comedian and dancer, who is widely considered to be the “Father” of modern… https://t.co/4YDiiYUMCe",young clown grimaldi church service memory joseph grimaldi english actor comedian dancer widely considered father modern,False
+1.0921282337667686e+18,2019-02-03 18:30:36+00:00,['1092128233766768641'],"In pics - Today's annual Joseph Grimaldi Clown Church Service at @trinitysaints1 
 #clowns #clownschurchservice #JosephGrimaldi 
-More pics at https://t.co/TG1c96knpj https://t.co/5yTpDo4mbf"
-476,1.0920188023201751e+18,2019-02-03 11:15:45+00:00,['1092018802320175104'],"In pics - Chinese lanterns hangs in London's China Town as it prepares for the Chinese New Year celebrations.
+More pics at https://t.co/TG1c96knpj https://t.co/5yTpDo4mbf",pic today's annual joseph grimaldi clown church service pic,False
+1.0920188023201752e+18,2019-02-03 11:15:45+00:00,['1092018802320175104'],"In pics - Chinese lanterns hangs in London's China Town as it prepares for the Chinese New Year celebrations.
 #ChineseNewYear #chinatown #chinesenewyear2019 
 @guardian @thetimes @Telegraph @DailyMailUK @DailyMirror @Independent 
-More pics - https://t.co/kdr4SYckyZ https://t.co/L45PzXDXae"
-477,1.0920177943785964e+18,2019-02-03 11:11:45+00:00,['1092017794378596352'],"In pics - New Chinese lanterns hangs in London's China Town as it prepares for the Chinese New Year celebrations - the Year of the Pig. 
+More pics - https://t.co/kdr4SYckyZ https://t.co/L45PzXDXae",pic chinese lantern hang london's china town prepares chinese new year celebration pic,False
+1.0920177943785964e+18,2019-02-03 11:11:45+00:00,['1092017794378596352'],"In pics - New Chinese lanterns hangs in London's China Town as it prepares for the Chinese New Year celebrations - the Year of the Pig. 
 #ChineseNewYear #chinatown #chinesenewyear2019 #YearOfThePig
-More pics - https://t.co/kdr4SYckyZ https://t.co/r1SCkAepe0"
-478,1.09143274331614e+18,2019-02-01 20:26:58+00:00,['1091432743316140039'],"A man reads a copy of today's Metro newspaper in a park covered in snow.
+More pics - https://t.co/kdr4SYckyZ https://t.co/r1SCkAepe0",pic new chinese lantern hang london's china town prepares chinese new year celebration year pig pic,False
+1.09143274331614e+18,2019-02-01 20:26:58+00:00,['1091432743316140039'],"A man reads a copy of today's Metro newspaper in a park covered in snow.
 .
 .
 .
-#snowfall #ukweather #metronewspaper #instanews #snowinlondon #instasnow #londonweather #winter… https://t.co/oBGSHQproo"
-479,1.0914097559549133e+18,2019-02-01 18:55:37+00:00,['1091409755954913282'],"Dogs playing in the snow.
+#snowfall #ukweather #metronewspaper #instanews #snowinlondon #instasnow #londonweather #winter… https://t.co/oBGSHQproo",man read copy today's metro newspaper park covered snow,False
+1.0914097559549132e+18,2019-02-01 18:55:37+00:00,['1091409755954913282'],"Dogs playing in the snow.
 .
 .
 .
@@ -976,8 +699,8 @@ More pics - https://t.co/kdr4SYckyZ https://t.co/r1SCkAepe0"
 #instasnow #snowpuppy
 #doglovers #instadogs
 #snowfall #ukweather #londonweather #winter
-#onepicperday2019… https://t.co/0fT3IPlBL0"
-480,1.091353502511702e+18,2019-02-01 15:12:06+00:00,['1091353502511702016'],"In pics - Dogs in snow.
+#onepicperday2019… https://t.co/0fT3IPlBL0",dog playing snow,False
+1.091353502511702e+18,2019-02-01 15:12:06+00:00,['1091353502511702016'],"In pics - Dogs in snow.
 #weather #snow #Snowdog #snowuk #snowlondon #dogs #dogsinsnow #ukweather #winter 
 @TheSun @Independent @guardian @thetimes @Daily_Express @DailyMailUK @Daily_Star @BenJonesPicEd
-More pics at https://t.co/tdjqAwrmie https://t.co/yGCrRMtLir"
+More pics at https://t.co/tdjqAwrmie https://t.co/yGCrRMtLir",pic dog snow pic,False

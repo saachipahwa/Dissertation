@@ -1,617 +1,382 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.5199823442157036e+18,2022-04-29 10:10:05+00:00,['1519982344215703554'],"RT @BBCEssex: A sell out screening of the new Downton Abbey will be shown at the Electric Palace cinema in Harwich tonight, which was used…"
-1,1.5142723734024397e+18,2022-04-13 16:00:42+00:00,['1514272373402439686'],"RT @PrincesTheatre: The 2022 Tendring Youth Awards are now open!
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english
+1.5117171374125097e+18,2022-04-06 14:47:06+00:00,['1511717137412509700'],Looking at this out of my window now! https://t.co/v1ToSoLITu,looking window,False
+1.509643544033735e+18,2022-03-31 21:27:23+00:00,['1509643544033734662'],"Loved Leadmill when at Uni. Had both my 21st birthday and Stag do here, and many other great nights and live music too! #WeCantLoseLeadmill https://t.co/k5XLhNVbof",loved leadmill uni birthday stag many great night live music,False
+1.5052188347179745e+18,2022-03-19 16:25:10+00:00,['1505218834717974532'],Viva Italia! 🇮🇹#SixNations #6N,viva italia,True
+1.502241672549253e+18,2022-03-11 11:14:59+00:00,['1502241672549253126'],"Delighted to have learnt yesterday that I passed the final unit of my CIPR Diploma and am now #CIPRQualified
 
-Tendring Youth Awards are keen to promote a positive image of young peopl…"
-2,1.5141311795067494e+18,2022-04-13 06:39:39+00:00,['1514131179506749450'],RT @Lindahill50Hill: I'm delighted to welcome @MichaelReporter to stay in with me and chat all about his thriller #Harvest today https://t.…
-3,1.5138764855049175e+18,2022-04-12 13:47:35+00:00,['1513876485504917511'],"RT @frazermerrick: FREE Historical Video Game Making Workshop (ages 9+)
-
-Join me @JaywickTower with @signalsmedia and learn how to make his…"
-4,1.5117171374125097e+18,2022-04-06 14:47:06+00:00,['1511717137412509700'],Looking at this out of my window now! https://t.co/v1ToSoLITu
-5,1.511330255881003e+18,2022-04-05 13:09:46+00:00,['1511330255881003013'],RT @Pandamoanimum: The opening credits to Fireman Sam but I’ve replaced the theme tune with 9 to 5 by Dolly Parton. https://t.co/JchzMUh4X9
-6,1.509643544033735e+18,2022-03-31 21:27:23+00:00,['1509643544033734662'],"Loved Leadmill when at Uni. Had both my 21st birthday and Stag do here, and many other great nights and live music too! #WeCantLoseLeadmill https://t.co/k5XLhNVbof"
-7,1.5094689102104986e+18,2022-03-31 09:53:27+00:00,['1509468910210498562'],"RT @CIPR_Global: Welcome to some of our new members:
-
-@JoMFranciscos
-@lauracmason_1
-@GinaDShaffer
-@scalisabelle
-@michaeljardine
-@Calacus_PR…"
-8,1.5052188347179745e+18,2022-03-19 16:25:10+00:00,['1505218834717974532'],Viva Italia! 🇮🇹#SixNations #6N
-9,1.502241672549253e+18,2022-03-11 11:14:59+00:00,['1502241672549253126'],"Delighted to have learnt yesterday that I passed the final unit of my CIPR Diploma and am now #CIPRQualified
-
-With big thanks to @pracademy who I studied with, and am looking forward to new things ahead! https://t.co/gXQXY8xKrz"
-10,1.5000489205793956e+18,2022-03-05 10:01:46+00:00,['1500048920579395585'],"RT @SkyAndyHughes: Everyone should watch this. Sky News team comes under fire from Russian forces in Kyiv, despite making it clear they’re…"
-11,1.4989258965809275e+18,2022-03-02 07:39:17+00:00,['1498925896580927492'],RT @Essex_Travel: A12 northbound – a sink hole has been reported just after J29 (A120/Ardleigh Crown). Police are holding traffic after som…
-12,1.498579375406596e+18,2022-03-01 08:42:20+00:00,['1498579375406596099'],Looking for a new book to read? Then I highly recommend Harvest by @MichaelReporter - it’s a cracking novel and available to buy now! https://t.co/lQA46UIooI
-13,1.4968990476213412e+18,2022-02-24 17:25:18+00:00,['1496899047621341189'],@bunnmj20 Pretty simple!
-14,1.4968820309063844e+18,2022-02-24 16:17:41+00:00,['1496882030906384384'],Scrambled (Creme) egg on toast. Daughter says it’s good. Wouldn’t recommend with salmon… #HowDoYouEatYours https://t.co/SbG32SJIU0
-15,1.4943352330380616e+18,2022-02-17 15:37:37+00:00,['1494335233038061571'],"@DannyMayzes @essexhighways @Tendring_DC Hello, would suggest trying parkingservices2@tendringdc.gov.uk in the first instance."
-16,1.4935781094672097e+18,2022-02-15 13:29:05+00:00,['1493578109467209729'],"The Tendring Youth Awards has opened its nominations for 2022.
+With big thanks to @pracademy who I studied with, and am looking forward to new things ahead! https://t.co/gXQXY8xKrz",delighted learnt yesterday passed final unit cipr diploma big thanks studied looking forward new thing ahead,False
+1.498579375406596e+18,2022-03-01 08:42:20+00:00,['1498579375406596099'],Looking for a new book to read? Then I highly recommend Harvest by @MichaelReporter - it’s a cracking novel and available to buy now! https://t.co/lQA46UIooI,looking new book read highly recommend harvest cracking novel available buy,False
+1.4968990476213412e+18,2022-02-24 17:25:18+00:00,['1496899047621341189'],@bunnmj20 Pretty simple!,pretty simple,True
+1.4968820309063844e+18,2022-02-24 16:17:41+00:00,['1496882030906384384'],Scrambled (Creme) egg on toast. Daughter says it’s good. Wouldn’t recommend with salmon… #HowDoYouEatYours https://t.co/SbG32SJIU0,scrambled creme egg toast daughter say good wouldnt recommend salmon,False
+1.4943352330380616e+18,2022-02-17 15:37:37+00:00,['1494335233038061571'],"@DannyMayzes @essexhighways @Tendring_DC Hello, would suggest trying parkingservices2@tendringdc.gov.uk in the first instance.",hello would suggest trying parkingservicesgovuk first instance,False
+1.4935781094672097e+18,2022-02-15 13:29:05+00:00,['1493578109467209729'],"The Tendring Youth Awards has opened its nominations for 2022.
 If you know an amazing young person who lives, works or studies in the district please put them forward for recognition!
-https://t.co/OjyGtRgbqj https://t.co/hHe1bLLGTi"
-17,1.493318362583249e+18,2022-02-14 20:16:56+00:00,['1493318362583248901'],RT @metoffice: In this weather snap special @clarenasir talks to Deputy Chief Meteorologist Dan Rudman on the risks and potential impacts o…
-18,1.487484705192784e+18,2022-01-29 17:56:04+00:00,['1487484705192783877'],"A little write up of our Big Garden Birdwatch for the Boxted Biodiversity Group today:
-https://t.co/7TF8lH4NBG @Natures_Voice #BigGardenBirdWatch"
-19,1.4859110741342822e+18,2022-01-25 09:43:01+00:00,['1485911074134282248'],"Interesting to see the government launch a new campaign 'Skills for Life'.
-Everyone in Scouting will be thinking: 'that sounds familiar' - ah yes, the strapline for Scouting UK launched a few years ago!"
-20,1.4844372305549517e+18,2022-01-21 08:06:29+00:00,['1484437230554951681'],"RT @AllieHBNews: PA: US singer Meat Loaf, whose hits included Bat Out of Hell, has died aged 74, according to a statement on his official F…"
-21,1.4811888242272256e+18,2022-01-12 08:58:29+00:00,['1481188824227225603'],"@DannyMayzes @OakleyTom @Tendring_DC @iancrdavidson Hello - this came up on my feed, but I think due to privacy settings unless TDC follows @OakleyTom they will not see his tweets..."
-22,1.472163204948181e+18,2021-12-18 11:13:54+00:00,['1472163204948180994'],"RT @MayorofGM: 📣 Today, Andy and Bev are launching the new campaign video.
-
-The campaign is aimed at men and boys to challenge problematic…"
-23,1.4674127723423498e+18,2021-12-05 08:37:22+00:00,['1467412772342349827'],Update the next morning: still no communication from @asda just an update if I go ok tracking to say it is cancelled. Then have to go to the FAQs/chatbot to find out what this means.
-24,1.467259947591344e+18,2021-12-04 22:30:06+00:00,['1467259947591344130'],"I worry for those who are isolated, or isolating, relying on a food delivery.
-As I said, things happen, I get that. But no updated tracking, not even an automated text or email when a system picks up it’s not been delivered… terrible"
-25,1.4672599417990554e+18,2021-12-04 22:30:05+00:00,['1467259941799055361'],"So what am I meant to about food for tomorrow? Lucky not everyone is having to isolate so I can pop to a shop (not @asda!)
+https://t.co/OjyGtRgbqj https://t.co/hHe1bLLGTi",tendring youth award opened nomination know amazing young person life work study district please put forward recognition,False
+1.487484705192784e+18,2022-01-29 17:56:04+00:00,['1487484705192783877'],"A little write up of our Big Garden Birdwatch for the Boxted Biodiversity Group today:
+https://t.co/7TF8lH4NBG @Natures_Voice #BigGardenBirdWatch",little write big garden birdwatch boxted biodiversity group today,False
+1.4859110741342822e+18,2022-01-25 09:43:01+00:00,['1485911074134282248'],"Interesting to see the government launch a new campaign 'Skills for Life'.
+Everyone in Scouting will be thinking: 'that sounds familiar' - ah yes, the strapline for Scouting UK launched a few years ago!",interesting see government launch new campaign 'skills life' everyone scouting thinking 'that sound familiar' yes strapline scouting launched year ago,False
+1.4811888242272256e+18,2022-01-12 08:58:29+00:00,['1481188824227225603'],"@DannyMayzes @OakleyTom @Tendring_DC @iancrdavidson Hello - this came up on my feed, but I think due to privacy settings unless TDC follows @OakleyTom they will not see his tweets...",hello came feed think due privacy setting unless tdc follows see tweet,False
+1.4674127723423498e+18,2021-12-05 08:37:22+00:00,['1467412772342349827'],Update the next morning: still no communication from @asda just an update if I go ok tracking to say it is cancelled. Then have to go to the FAQs/chatbot to find out what this means.,update next morning still communication update tracking say cancelled faqschatbot find mean,False
+1.467259947591344e+18,2021-12-04 22:30:06+00:00,['1467259947591344130'],"I worry for those who are isolated, or isolating, relying on a food delivery.
+As I said, things happen, I get that. But no updated tracking, not even an automated text or email when a system picks up it’s not been delivered… terrible",worry isolated isolating relying food delivery said thing happen get updated tracking even automated text email system pick delivered terrible,False
+1.4672599417990554e+18,2021-12-04 22:30:05+00:00,['1467259941799055361'],"So what am I meant to about food for tomorrow? Lucky not everyone is having to isolate so I can pop to a shop (not @asda!)
 Lucky we have some food in still.
-What a rubbish system."
-26,1.4672599389720494e+18,2021-12-04 22:30:04+00:00,['1467259938972049424'],"Worst: you won’t hold the delivery and just deliver it tomorrow. I am told you will just cancel it &amp; refund me. I have to do it all again…
-I mean, why would I want to?"
-27,1.467259935411032e+18,2021-12-04 22:30:03+00:00,['1467259935411032066'],"@asda so my £100+ online food shop is (so far) 2hrs late. Takes 15mins to get through to someone only to be advised they don’t know if it’s coming but it is unlikely.
+What a rubbish system.",meant food tomorrow lucky everyone isolate pop shop lucky food still rubbish system,False
+1.4672599389720494e+18,2021-12-04 22:30:04+00:00,['1467259938972049424'],"Worst: you won’t hold the delivery and just deliver it tomorrow. I am told you will just cancel it &amp; refund me. I have to do it all again…
+I mean, why would I want to?",worst wont hold delivery deliver tomorrow told cancel amp refund mean would want,False
+1.467259935411032e+18,2021-12-04 22:30:03+00:00,['1467259935411032066'],"@asda so my £100+ online food shop is (so far) 2hrs late. Takes 15mins to get through to someone only to be advised they don’t know if it’s coming but it is unlikely.
 I get that. Stuff happens.
-But the zero communication - terrible."
-28,1.46212665464243e+18,2021-11-20 18:32:14+00:00,['1462126654642429953'],"RT @abigail_barton: Well done @RoseAylingEllis @pernicegiovann1 we think you’re amazing 🙌
-
-Good luck for Saturday night 🍀 
-
-Here’s a messag…"
-29,1.4596123460165837e+18,2021-11-13 20:01:16+00:00,['1459612346016583688'],"RT @bbcstrictly: ""In this dance we have a very special moment, and I'm doing it for the deaf community."" 💖 So much power in the silence of…"
-30,1.459612301900845e+18,2021-11-13 20:01:05+00:00,['1459612301900845066'],This was just amazing. Words can’t do it justice. https://t.co/RGTiC3dGGK
-31,1.4594741315698117e+18,2021-11-13 10:52:03+00:00,['1459474131569811456'],"RT @EastEnglandAmb: Another fabulous photo taken by a member of #TeamEEAST last year whilst in Frinton, north Essex! 🌟
-#WeAreEEAST https://…"
-32,1.454486578454274e+18,2021-10-30 16:33:18+00:00,['1454486578454274056'],"That happy moment when you’re out on a hike with your Scouts and come across a checkpoint for another group in a different district, with leaders you work with in your day job, as a happy coincidence. All teaching #SkillsForLife @UKScouting 
-And a picture of a butterfly we saw! https://t.co/d0w66rr435"
-33,1.4489078056841257e+18,2021-10-15 07:05:14+00:00,['1448907805684125703'],As followers may know I enjoy birding as well as tweeting. A reminder last night you don’t have to go searching to experience nature - when last night a barn owl flew across the road in front of me. Beautiful!
-34,1.446222968992981e+18,2021-10-07 21:16:39+00:00,['1446222968992980994'],RT @ClactonAirshow: The racing action just keeps giving @thewomenstour - who knows who will be in the lead when Stage 5 comes to the Essex…
-35,1.4462229421327073e+18,2021-10-07 21:16:33+00:00,['1446222942132707334'],RT @Tendring_DC: It's tomorrow! Come and watch @thewomenstour Stage 5 from #Colchester to #Clacton tomorrow as we take on the mantle from @…
-36,1.446221801256784e+18,2021-10-07 21:12:01+00:00,['1446221801256783875'],"@EssexWeather Careful, you know what happened last time someone mentioned a shortage… now you’re saying there’s an issue with the supply of snow 😉"
-37,1.4457064373766922e+18,2021-10-06 11:04:09+00:00,['1445706437376692232'],"@CharlotteGRose On that analogy, if you’re the only left at the end do you become the next PM? 🤣"
-38,1.442980604874797e+18,2021-09-28 22:32:40+00:00,['1442980604874797061'],"Just watched @Nabilu at Palace Theatre #Southend - very funny, and also highly interesting and poignant. Definitely recommend you go and see him perform!"
-39,1.4387536814286848e+18,2021-09-17 06:36:23+00:00,['1438753681428684800'],@CharlotteGRose Haha! Does it also include a pre-rec to go with the live?
-40,1.434604203901694e+18,2021-09-05 19:47:50+00:00,['1434604203901693952'],@DougFaulknerG Congrats!!
-41,1.4345150394578903e+18,2021-09-05 13:53:32+00:00,['1434515039457890304'],And the last school trail ones that we missed first time round! @gemlucia https://t.co/DgyxhaoXLa
-42,1.4345046172374016e+18,2021-09-05 13:12:07+00:00,['1434504617237401607'],"Yes! #Octochampion @OctopusAhoy  what a beautiful sculpture on a gorgeous day in #Walton to finish off our tour of the #EssexSunshineCoast
-Just a few school trail ones to tick off to collect them all! https://t.co/faen6bo7CJ"
-43,1.4336764491401585e+18,2021-09-03 06:21:16+00:00,['1433676449140158466'],"In today’s @EADT24 you can see the final designs in the @thewomenstour jersey competition and vote for your favourite!
-You can also vote online here: https://t.co/FHqIGi8WpR #WomensTour #EssexSunshineCoast"
-44,1.430816594972844e+18,2021-08-26 08:57:14+00:00,['1430816594972844033'],Here comes the sun! https://t.co/Z4MzBRPYUz
-45,1.4308157771212595e+18,2021-08-26 08:53:59+00:00,['1430815777121259524'],Down in #Clacton setting up media area ready for @ClactonAirshow #Clacton150 Anniversary Flights https://t.co/ypBtp4L0X2
-46,1.429403721146962e+18,2021-08-22 11:22:58+00:00,['1429403721146961922'],LAST CHANCE: looking for a rainy day activity today? Why not design a jersey for @thewomenstour and you might see it made for real! https://t.co/Z6t2eac3zM
-47,1.42679441495817e+18,2021-08-15 06:34:31+00:00,['1426794414958170114'],@TravelJunkieGrl @OctopusAhoy @HistoricHarwich @Tendring_DC Yes it is - definitely worth a visit the Redoubt Fort is packed with history (as is the whole of @HistoricHarwich)
-48,1.426184626238894e+18,2021-08-13 14:11:26+00:00,['1426184626238894081'],Had fun today going Octopus hunting with @OctopusAhoy around @HistoricHarwich and #Dovercourt - plan to find the others on another day. Lots of great designs but I particularly like the one @Tendring_DC Dovercourt Bay Lifestyles https://t.co/nQmCsgjnyk
-49,1.4259682686580695e+18,2021-08-12 23:51:43+00:00,['1425968268658069508'],Just laid in the garden for 30mins enjoying the #PerseidMeteorShower - saw 12 decent meteors and just love contemplating our place in the universe
-50,1.4193919345530757e+18,2021-07-25 20:19:42+00:00,['1419391934553075718'],@sophhbarnett @EADT24 @ipswichstar24 Good luck in your new role!
-51,1.4177447594608722e+18,2021-07-21 07:14:25+00:00,['1417744759460872192'],"RT @thewomenstour: To mark 7⃣5⃣ days until our Oxfordshire Grand Départ, stage routes of this year's Women's Tour have today been revealed.…"
-52,1.4175021210465608e+18,2021-07-20 15:10:16+00:00,['1417502121046560774'],@CharlotteGRose @JamWaterhouse @rachaelvenables With one plug socket and some hastily purchased extension leads….
-53,1.4173759965090324e+18,2021-07-20 06:49:05+00:00,['1417375996509032448'],"RT @Tendring_DC: Time is running out to make nominations for this year’s Tendring Youth Awards!
-
-To nominate someone, complete an online no…"
-54,1.416480009376645e+18,2021-07-17 19:28:45+00:00,['1416480009376645126'],RT @CanDo_Together: Know anyone who has just left school or college and living in #Tendring? Please signpost them to the #YouCan Career Ses…
-55,1.416134070170538e+18,2021-07-16 20:34:07+00:00,['1416134070170538004'],"RT @PollyGates5: Max the cat, #Brightlingsea 's most famous resident, has gone missing 😱. It was the Regatta last weekend so he could easil…"
-56,1.4146075481671148e+18,2021-07-12 15:28:16+00:00,['1414607548167114758'],Want to work in our team? Now’s your chance! https://t.co/ObvmDIu4GN
-57,1.4117368456801034e+18,2021-07-04 17:21:07+00:00,['1411736845680103429'],I don’t have fancy camera kit but this little slow-mo of a tern fishing @RutlandWaterNR shows what amazing birds they are @Natures_Voice https://t.co/2jQji6JLwY
-58,1.4116189347180872e+18,2021-07-04 09:32:35+00:00,['1411618934718087168'],@katysandalls @rutlandospreys @LeicsWildlife Yes it was :-) fabulous place!
-59,1.4115973331087565e+18,2021-07-04 08:06:45+00:00,['1411597333108756481'],"Also a huge big up to the staff and volunteers @LeicsWildlife who were friendly, engaging and informative throughout"
-60,1.411597329921196e+18,2021-07-04 08:06:44+00:00,['1411597329921196034'],"So a cracking day in the hides @LeicsWildlife highlights being the Ospreys, Arctic Tern fishing right in front of us, a Goldeneye (v unusual for summer!) and Gt Crested Grebes with chicks on back and displaying for us. Plus lots to add to my birding list!"
-61,1.411215605844353e+18,2021-07-03 06:49:54+00:00,['1411215605844353024'],"Saw one! Plus plenty of cormorants, Canada geese, mute swans, few heron and little egrets, and a bonus red kite! Hide and seek time now!"
-62,1.4111708427599053e+18,2021-07-03 03:52:01+00:00,['1411170842759905281'],Off to hopefully see some @rutlandospreys this morning @LeicsWildlife - fingers crossed we get a view and the weather isn’t too bad!
-63,1.4074255402906624e+18,2021-06-22 19:49:32+00:00,['1407425540290662411'],@SimonPeach Oh no you haven’t!
-64,1.405241699962704e+18,2021-06-16 19:11:44+00:00,['1405241699962703875'],"RT @ABPtheatreshows: CHRISTMAS PANTO CASTING VACANCIES 
-We are now accepting submissions from DAMES and COMICS who are available to perform…"
-65,1.4052413659576443e+18,2021-06-16 19:10:24+00:00,['1405241365957644298'],"RT @BBCEssex: @sadienine Melanie Leahy, whose son died at Linden Centre mental health unit in Chelmsford in 2012, tells @sadienine the Gove…"
-66,1.4052408714031022e+18,2021-06-16 19:08:26+00:00,['1405240871403102215'],RT @UKWeatherLive: The storm that’s currently crossing the channel started as a supercell near #Bayeux in Northern France! An incredible ph…
-67,1.4052314567550116e+18,2021-06-16 18:31:01+00:00,['1405231456755011584'],"And if you don’t get enough of a fix from this interview, you can see him perform @PrincesTheatre this year! https://t.co/udpEQl3WqT"
-68,1.4039695794041733e+18,2021-06-13 06:56:46+00:00,['1403969579404173316'],Look at the incredible colours on this dragonfly! First pic taken by my daughter. @EssexWildlife #dragonfly #beautiful #colour #nofilterneeded https://t.co/cOHBM7ZOfC
-69,1.3962055749798216e+18,2021-05-22 20:45:23+00:00,['1396205574979821569'],@maktheknight And their key change too…
-70,1.395080910761046e+18,2021-05-19 18:16:23+00:00,['1395080910761046017'],"@BBCLookEast It’ll never take off.
-(Sorry, couldn’t help myself!)"
-71,1.395080590035194e+18,2021-05-19 18:15:06+00:00,['1395080590035193859'],RT @metofficeEEng: Yellow warning of wind affecting East of England https://t.co/Yue9xEzgYe https://t.co/9ZZCWk9eUP
-72,1.394640817130705e+18,2021-05-18 13:07:36+00:00,['1394640817130704899'],Did a talk for first year multimedia journalist students @Uni_of_Essex yesterday. Judging by the really insightful questions they put to me at the end we have a superb bunch of reporters coming through!
-73,1.3914644767303516e+18,2021-05-09 18:45:58+00:00,['1391464476730351622'],#brewdogandfriends @stewarthend @ryanjennings1 @Ewanfoz https://t.co/d2PbRs5Y7H
-74,1.3907553452328428e+18,2021-05-07 19:48:07+00:00,['1390755345232842752'],@stewarthend @NJN2017 @adamkeating1981 @frizzymum1 @garethdn @leonamurray Argh I missed this. But yes and hope all went well! Good luck tomorrow…
-75,1.388164386578174e+18,2021-04-30 16:12:35+00:00,['1388164386578173952'],@ryanjennings1 @UlsterRugby @Ewanfoz @jcoxwriter @JamesECalnan Yes I’m up for that!
-76,1.3771467354709445e+18,2021-03-31 06:32:22+00:00,['1377146735470944258'],@CInspDeex @EPMarine @EssexOSG @EPRoadsPolicing @EssexPoliceFSU @EPDogSection Where are you off to? Good luck!
-77,1.3737023996013568e+18,2021-03-21 18:25:48+00:00,['1373702399601356809'],"@CharlotteSulli 63% say watch, mention risk of spoilers...
-That’s the winner"
-78,1.3736257054524088e+18,2021-03-21 13:21:03+00:00,['1373625705452408833'],@stewarthend 🤨
-79,1.3736256471097098e+18,2021-03-21 13:20:49+00:00,['1373625647109709826'],@tommy12leggett Yes good point sir!
-80,1.373625587743531e+18,2021-03-21 13:20:35+00:00,['1373625587743531023'],@LynneMortimer Very good point!
-81,1.3736187918217544e+18,2021-03-21 12:53:35+00:00,['1373618791821754371'],Should we watch #LineOfDuty tonight or save up episodes to binge watch?
-82,1.3736185623849943e+18,2021-03-21 12:52:40+00:00,['1373618562384994305'],"@VictoriaPolley Yes! Debate in our house is whether to watch tonight, or save up a few episodes so we can binge it. Don’t know if we can go waiting a week between episodes!"
-83,1.3735376356926423e+18,2021-03-21 07:31:06+00:00,['1373537635692642304'],We’ve done our @Census2021 - have you done yours? @CensusNorthEssx https://t.co/OB8uV5XYqF
-84,1.362670492826665e+18,2021-02-19 07:48:57+00:00,['1362670492826664961'],I’m giggling at the Times front page today which has a big pic of Mars from the rover and a very indistinguishable break to the headline “Hope for holidays overseas”. Well that certainly is an overseas trip!
-85,1.3575859412427817e+18,2021-02-05 07:04:45+00:00,['1357585941242781697'],RT @Tendring_DC: Keep an eye on the forecast as @metofficeEEng warn of snow this weekend: https://t.co/N4pRgDUDO3
-86,1.3558311148170076e+18,2021-01-31 10:51:42+00:00,['1355831114817007618'],Female blackbird https://t.co/AmP5WLU4KY
-87,1.3558310464540754e+18,2021-01-31 10:51:26+00:00,['1355831046454075394'],Great Tit https://t.co/EjnVRmZ1kY
-88,1.355830984848126e+18,2021-01-31 10:51:11+00:00,['1355830984848125952'],Blue Tit https://t.co/h2oNmyGrTq
-89,1.355830568534073e+18,2021-01-31 10:49:32+00:00,['1355830568534073345'],"Some not great shots from our #BigGardenBirdWatch today; but what a weekend for long-tailed tits to return to our feeder (not pictured, sorry!) @Natures_Voice https://t.co/zN9ixHNQGz"
-90,1.355058746695811e+18,2021-01-29 07:42:35+00:00,['1355058746695811072'],"RT @EADT24: It’s a special edition of @EADT24 today. 
-
-We’ve teamed up with @NetflixUK for this front page promo, marking the release of #T…"
-91,1.354864291493638e+18,2021-01-28 18:49:53+00:00,['1354864291493638146'],"@essexlive This is shockingly unethical journalism. Go and read the Code of Conduct on reporting, and the @samaritans guide on reporting suicide. In the meantime delete this terrible tweet. Shame."
-92,1.3523281301748654e+18,2021-01-21 18:52:05+00:00,['1352328130174865414'],"RT @susie_dent: In the past, you could be reckful (considerate) as well as reckless. People were also gormful (careful); feckful (responsib…"
-93,1.349982845301891e+18,2021-01-15 07:32:46+00:00,['1349982845301891072'],"@CharlotteSulli My thoughts are with you. Well done for doing this, and speaking out about it. Inspiration to us all"
-94,1.3499827045746074e+18,2021-01-15 07:32:12+00:00,['1349982704574607360'],"RT @CharlotteSulli: I didn’t hug my dad or go within 2m of him all last year and he died in October... That was a struggle. 
-The constant t…"
-95,1.3474557419390812e+18,2021-01-08 08:10:58+00:00,['1347455741939081216'],Woke up this morning thinking it was Saturday. It is actually Friday. #sadtimes
-96,1.3473317774850253e+18,2021-01-07 23:58:22+00:00,['1347331777485025280'],"RT @doctor_oxford: Please don’t clap us. Just wear a mask, wash your hands and respect lockdown 🙏 https://t.co/ioKhNKljFZ"
-97,1.3469508221108795e+18,2021-01-06 22:44:35+00:00,['1346950822110879745'],RT @MidEssexCCG: Toni explains how the NHS111 Option 2 service can help you if you are experiencing a #MentalHealth Crisis. Call 111 and se…
-98,1.345313529751097e+18,2021-01-02 10:18:34+00:00,['1345313529751097346'],@dj__error @stewarthend I think the issue is if everyone takes that attitude and doesn’t follow the rules then they don’t work. For them to be effective you need a certain level of compliance.
-99,1.345303914200109e+18,2021-01-02 09:40:22+00:00,['1345303914200109056'],RT @stewarthend: After spending a week in hospital with COVID this upsets me so much - these people need to spend time on the wards to see…
-100,1.3449316158149222e+18,2021-01-01 09:00:59+00:00,['1344931615814922240'],@willows24 You too!
-101,1.344799023241306e+18,2021-01-01 00:14:06+00:00,['1344799023241306113'],"Loved the fireworks and drone display in London. Best yet in my opinion, thought the different locations were great! #NYE2020"
-102,1.344627242392019e+18,2020-12-31 12:51:31+00:00,['1344627242392018947'],"@ailecphoto @BBCAutumnwatch @Natures_Voice Thanks Celia, all good here. Hope you and your family are also well."
-103,1.34461691485798e+18,2020-12-31 12:10:28+00:00,['1344616914857979906'],Inspired by @BBCAutumnwatch here is a mindfulness moment for you all @Natures_Voice https://t.co/XOWuLSrA8n
-104,1.341780809074815e+18,2020-12-23 16:20:48+00:00,['1341780809074814976'],RT @Tendring_DC: From 00:01am Boxing Day morning Tendring will be moved up to tier 4 COVID-19 restrictions. https://t.co/CR4JvnqYub https:/…
-105,1.3342727896715346e+18,2020-12-02 23:06:37+00:00,['1334272789671534592'],@CharlotteSulli Thinking of you xx
-106,1.32978128625331e+18,2020-11-20 13:38:59+00:00,['1329781286253309957'],RT @Patsymwanza: Watch our exciting interview with @suffolkcc &amp; @Tendring_DC to hear the stories behind their powerful #OOH #marketing camp…
-107,1.315174768207954e+18,2020-10-11 06:17:54+00:00,['1315174768207953921'],"@alexdowsett Amazing, well done!"
-108,1.3112410010806313e+18,2020-09-30 09:46:30+00:00,['1311241001080631296'],RT @Tendring_DC: Anyone can catch coronavirus and anyone can spread it. We all have a crucial part to play in keeping the number of new inf…
-109,1.3112409716408648e+18,2020-09-30 09:46:23+00:00,['1311240971640864769'],"RT @HarwichTown: Lads Need Dads are currently seeking men from the #Harwich area, to be trained as mentors to be part of a team that delive…"
-110,1.3109140914946376e+18,2020-09-29 12:07:29+00:00,['1310914091494637568'],RT @ipswichstar24: £20k fundraiser launched to save historic ferry damaged in storm gales https://t.co/FAGFT59n6z
-111,1.310663596037333e+18,2020-09-28 19:32:06+00:00,['1310663596037332993'],@burrelm Yes! This!
-112,1.3094001475337175e+18,2020-09-25 07:51:37+00:00,['1309400147533717505'],@GenesisPRAnn Happy birthday!
-113,1.3090877465737175e+18,2020-09-24 11:10:15+00:00,['1309087746573717514'],RT @mayflower400uk: A new visitor trail has opened in #Harwich which allows you to explore the historic Essex town and discover more about…
-114,1.3090869754173727e+18,2020-09-24 11:07:11+00:00,['1309086975417372672'],RT @rhylmc: Excellent multi agency meeting of the Tendring Water Safety Forum today. So many positive projects &amp; demonstrates the power of…
-115,1.309022235605246e+18,2020-09-24 06:49:56+00:00,['1309022235605245954'],"RT @Tendring_DC: I’ve downloaded the #NHSCOVID19app to help protect the ones I love #HaveYouDownloaded
-
-Download the NHS COVID-19 App today…"
-116,1.308741274455937e+18,2020-09-23 12:13:29+00:00,['1308741274455937024'],"Anyone else think this is a rather unfortunate caption choice @BBCNews - which one is which, and is the other the colleague he had the relationship with? https://t.co/9EXicg4J69"
-117,1.3081099058789745e+18,2020-09-21 18:24:39+00:00,['1308109905878974468'],"RT @JamesECalnan: We're recruiting a Digital Communications Officer!
-
-We're looking for a digital native who can bring some flair and creat…"
-118,1.3078004733915546e+18,2020-09-20 21:55:05+00:00,['1307800473391554562'],RT @RNLI_Essex: Fantastic news from the team at #Clacton
-119,1.30699228949615e+18,2020-09-18 16:23:39+00:00,['1306992289496150016'],RT @Tendring_DC: A flood alert has been issued for part of our coastline - read more and stay up-to-date here: https://t.co/EClgreBH0B
-120,1.3066915630498447e+18,2020-09-17 20:28:40+00:00,['1306691563049844739'],"RT @NEECCG: Please do not call NHS 111 or your GP practice or visit  your hospital’s A&amp;E if you want a coronavirus test. 
-
-Tests should be…"
-121,1.3066913384071578e+18,2020-09-17 20:27:46+00:00,['1306691338407157763'],"@LewisBarber94 Well ask them...
-;-)"
-122,1.3066906240165233e+18,2020-09-17 20:24:56+00:00,['1306690624016523279'],@LewisBarber94 What do the other 16% think?
-123,1.3066900823977124e+18,2020-09-17 20:22:47+00:00,['1306690082397712385'],"@frostreports @itvanglia Was a lovely piece, thank you"
-124,1.3062107000087962e+18,2020-09-16 12:37:53+00:00,['1306210700008796160'],RT @VisitEssex: It’s the 400th anniversary of The Mayflower setting sail for America and it's believed it was built in Harwich. @HarwichSoc…
-125,1.3004049915810245e+18,2020-08-31 12:08:05+00:00,['1300404991581024256'],@ZoeForsey Worth a watch?
-126,1.2942400047771525e+18,2020-08-14 11:50:37+00:00,['1294240004777152512'],"Flurry of birds outside our house today; Great Tits, Long-tailed Tits, Chaffinch - not seen for a while.
-Have a delightful Robin in the garden too."
-127,1.2938450878819574e+18,2020-08-13 09:41:22+00:00,['1293845087881957376'],RT @ga_mainline: Disruption caused by heavy rain flooding the railway between #Colchester and Marks Tey has now ended
-128,1.2938146235028357e+18,2020-08-13 07:40:18+00:00,['1293814623502835713'],"RT @ga_mainline: 07:58 Harwich Town to London Liverpool Street will be terminated at Colchester.
-
-It will no longer call at Witham, Chelmsf…"
-129,1.2938141925422285e+18,2020-08-13 07:38:36+00:00,['1293814192542228480'],"A-level results day. One of two days in the year when I am particularly glad I am no longer a journalist.
+But the zero communication - terrible.",online food shop far late take min get someone advised dont know coming unlikely get stuff happens zero communication terrible,False
+1.459612301900845e+18,2021-11-13 20:01:05+00:00,['1459612301900845066'],This was just amazing. Words can’t do it justice. https://t.co/RGTiC3dGGK,amazing word cant justice,False
+1.454486578454274e+18,2021-10-30 16:33:18+00:00,['1454486578454274056'],"That happy moment when you’re out on a hike with your Scouts and come across a checkpoint for another group in a different district, with leaders you work with in your day job, as a happy coincidence. All teaching #SkillsForLife @UKScouting 
+And a picture of a butterfly we saw! https://t.co/d0w66rr435",happy moment youre hike scout come across checkpoint another group different district leader work day job happy coincidence teaching picture butterfly saw,False
+1.4489078056841257e+18,2021-10-15 07:05:14+00:00,['1448907805684125703'],As followers may know I enjoy birding as well as tweeting. A reminder last night you don’t have to go searching to experience nature - when last night a barn owl flew across the road in front of me. Beautiful!,follower may know enjoy birding well tweeting reminder last night dont searching experience nature last night barn owl flew across road front beautiful,False
+1.446221801256784e+18,2021-10-07 21:12:01+00:00,['1446221801256783875'],"@EssexWeather Careful, you know what happened last time someone mentioned a shortage… now you’re saying there’s an issue with the supply of snow 😉",careful know happened last time someone mentioned shortage youre saying issue supply snow,False
+1.4457064373766922e+18,2021-10-06 11:04:09+00:00,['1445706437376692232'],"@CharlotteGRose On that analogy, if you’re the only left at the end do you become the next PM? 🤣",analogy youre left end become next,False
+1.442980604874797e+18,2021-09-28 22:32:40+00:00,['1442980604874797061'],"Just watched @Nabilu at Palace Theatre #Southend - very funny, and also highly interesting and poignant. Definitely recommend you go and see him perform!",watched palace theatre funny also highly interesting poignant definitely recommend see perform,False
+1.4387536814286848e+18,2021-09-17 06:36:23+00:00,['1438753681428684800'],@CharlotteGRose Haha! Does it also include a pre-rec to go with the live?,haha doe also include prerec live,False
+1.434604203901694e+18,2021-09-05 19:47:50+00:00,['1434604203901693952'],@DougFaulknerG Congrats!!,congrats,True
+1.4345150394578903e+18,2021-09-05 13:53:32+00:00,['1434515039457890304'],And the last school trail ones that we missed first time round! @gemlucia https://t.co/DgyxhaoXLa,last school trail one missed first time round,False
+1.4345046172374016e+18,2021-09-05 13:12:07+00:00,['1434504617237401607'],"Yes! #Octochampion @OctopusAhoy  what a beautiful sculpture on a gorgeous day in #Walton to finish off our tour of the #EssexSunshineCoast
+Just a few school trail ones to tick off to collect them all! https://t.co/faen6bo7CJ",yes beautiful sculpture gorgeous day finish tour school trail one tick collect,False
+1.4336764491401585e+18,2021-09-03 06:21:16+00:00,['1433676449140158466'],"In today’s @EADT24 you can see the final designs in the @thewomenstour jersey competition and vote for your favourite!
+You can also vote online here: https://t.co/FHqIGi8WpR #WomensTour #EssexSunshineCoast",today see final design jersey competition vote favourite also vote online,False
+1.430816594972844e+18,2021-08-26 08:57:14+00:00,['1430816594972844033'],Here comes the sun! https://t.co/Z4MzBRPYUz,come sun,False
+1.4308157771212595e+18,2021-08-26 08:53:59+00:00,['1430815777121259524'],Down in #Clacton setting up media area ready for @ClactonAirshow #Clacton150 Anniversary Flights https://t.co/ypBtp4L0X2,setting medium area ready anniversary flight,False
+1.429403721146962e+18,2021-08-22 11:22:58+00:00,['1429403721146961922'],LAST CHANCE: looking for a rainy day activity today? Why not design a jersey for @thewomenstour and you might see it made for real! https://t.co/Z6t2eac3zM,last chance looking rainy day activity today design jersey might see made real,False
+1.42679441495817e+18,2021-08-15 06:34:31+00:00,['1426794414958170114'],@TravelJunkieGrl @OctopusAhoy @HistoricHarwich @Tendring_DC Yes it is - definitely worth a visit the Redoubt Fort is packed with history (as is the whole of @HistoricHarwich),yes definitely worth visit redoubt fort packed history whole,False
+1.426184626238894e+18,2021-08-13 14:11:26+00:00,['1426184626238894081'],Had fun today going Octopus hunting with @OctopusAhoy around @HistoricHarwich and #Dovercourt - plan to find the others on another day. Lots of great designs but I particularly like the one @Tendring_DC Dovercourt Bay Lifestyles https://t.co/nQmCsgjnyk,fun today going octopus hunting around plan find others another day lot great design particularly like one dovercourt bay lifestyle,False
+1.4259682686580695e+18,2021-08-12 23:51:43+00:00,['1425968268658069508'],Just laid in the garden for 30mins enjoying the #PerseidMeteorShower - saw 12 decent meteors and just love contemplating our place in the universe,laid garden min enjoying saw decent meteor love contemplating place universe,False
+1.4193919345530757e+18,2021-07-25 20:19:42+00:00,['1419391934553075718'],@sophhbarnett @EADT24 @ipswichstar24 Good luck in your new role!,good luck new role,True
+1.4175021210465608e+18,2021-07-20 15:10:16+00:00,['1417502121046560774'],@CharlotteGRose @JamWaterhouse @rachaelvenables With one plug socket and some hastily purchased extension leads….,one plug socket hastily purchased extension lead,False
+1.4146075481671148e+18,2021-07-12 15:28:16+00:00,['1414607548167114758'],Want to work in our team? Now’s your chance! https://t.co/ObvmDIu4GN,want work team chance,False
+1.4117368456801034e+18,2021-07-04 17:21:07+00:00,['1411736845680103429'],I don’t have fancy camera kit but this little slow-mo of a tern fishing @RutlandWaterNR shows what amazing birds they are @Natures_Voice https://t.co/2jQji6JLwY,dont fancy camera kit little slowmo tern fishing show amazing bird,False
+1.4116189347180872e+18,2021-07-04 09:32:35+00:00,['1411618934718087168'],@katysandalls @rutlandospreys @LeicsWildlife Yes it was :-) fabulous place!,yes fabulous place,False
+1.4115973331087565e+18,2021-07-04 08:06:45+00:00,['1411597333108756481'],"Also a huge big up to the staff and volunteers @LeicsWildlife who were friendly, engaging and informative throughout",also huge big staff volunteer friendly engaging informative throughout,False
+1.411597329921196e+18,2021-07-04 08:06:44+00:00,['1411597329921196034'],"So a cracking day in the hides @LeicsWildlife highlights being the Ospreys, Arctic Tern fishing right in front of us, a Goldeneye (v unusual for summer!) and Gt Crested Grebes with chicks on back and displaying for us. Plus lots to add to my birding list!",cracking day hide highlight osprey arctic tern fishing right front goldeneye unusual summer crested grebe chick back displaying plus lot add birding list,False
+1.411215605844353e+18,2021-07-03 06:49:54+00:00,['1411215605844353024'],"Saw one! Plus plenty of cormorants, Canada geese, mute swans, few heron and little egrets, and a bonus red kite! Hide and seek time now!",saw one plus plenty cormorant canada goose mute swan heron little egret bonus red kite hide seek time,False
+1.4111708427599053e+18,2021-07-03 03:52:01+00:00,['1411170842759905281'],Off to hopefully see some @rutlandospreys this morning @LeicsWildlife - fingers crossed we get a view and the weather isn’t too bad!,hopefully see morning finger crossed get view weather isnt bad,False
+1.4074255402906624e+18,2021-06-22 19:49:32+00:00,['1407425540290662411'],@SimonPeach Oh no you haven’t!,havent,True
+1.4052314567550116e+18,2021-06-16 18:31:01+00:00,['1405231456755011584'],"And if you don’t get enough of a fix from this interview, you can see him perform @PrincesTheatre this year! https://t.co/udpEQl3WqT",dont get enough fix interview see perform year,False
+1.4039695794041733e+18,2021-06-13 06:56:46+00:00,['1403969579404173316'],Look at the incredible colours on this dragonfly! First pic taken by my daughter. @EssexWildlife #dragonfly #beautiful #colour #nofilterneeded https://t.co/cOHBM7ZOfC,look incredible colour dragonfly first pic taken daughter,False
+1.3962055749798216e+18,2021-05-22 20:45:23+00:00,['1396205574979821569'],@maktheknight And their key change too…,key change,False
+1.395080910761046e+18,2021-05-19 18:16:23+00:00,['1395080910761046017'],"@BBCLookEast It’ll never take off.
+(Sorry, couldn’t help myself!)",itll never take sorry couldnt help,False
+1.394640817130705e+18,2021-05-18 13:07:36+00:00,['1394640817130704899'],Did a talk for first year multimedia journalist students @Uni_of_Essex yesterday. Judging by the really insightful questions they put to me at the end we have a superb bunch of reporters coming through!,talk first year multimedia journalist student yesterday judging really insightful question put end superb bunch reporter coming,False
+1.3914644767303516e+18,2021-05-09 18:45:58+00:00,['1391464476730351622'],#brewdogandfriends @stewarthend @ryanjennings1 @Ewanfoz https://t.co/d2PbRs5Y7H,,
+1.3907553452328428e+18,2021-05-07 19:48:07+00:00,['1390755345232842752'],@stewarthend @NJN2017 @adamkeating1981 @frizzymum1 @garethdn @leonamurray Argh I missed this. But yes and hope all went well! Good luck tomorrow…,argh missed yes hope went well good luck tomorrow,False
+1.388164386578174e+18,2021-04-30 16:12:35+00:00,['1388164386578173952'],@ryanjennings1 @UlsterRugby @Ewanfoz @jcoxwriter @JamesECalnan Yes I’m up for that!,yes,False
+1.3771467354709445e+18,2021-03-31 06:32:22+00:00,['1377146735470944258'],@CInspDeex @EPMarine @EssexOSG @EPRoadsPolicing @EssexPoliceFSU @EPDogSection Where are you off to? Good luck!,good luck,False
+1.3737023996013568e+18,2021-03-21 18:25:48+00:00,['1373702399601356809'],"@CharlotteSulli 63% say watch, mention risk of spoilers...
+That’s the winner",say watch mention risk spoiler thats winner,False
+1.3736257054524088e+18,2021-03-21 13:21:03+00:00,['1373625705452408833'],@stewarthend 🤨,,
+1.3736256471097098e+18,2021-03-21 13:20:49+00:00,['1373625647109709826'],@tommy12leggett Yes good point sir!,yes good point sir,False
+1.373625587743531e+18,2021-03-21 13:20:35+00:00,['1373625587743531023'],@LynneMortimer Very good point!,good point,False
+1.3736187918217544e+18,2021-03-21 12:53:35+00:00,['1373618791821754371'],Should we watch #LineOfDuty tonight or save up episodes to binge watch?,watch tonight save episode binge watch,False
+1.3736185623849943e+18,2021-03-21 12:52:40+00:00,['1373618562384994305'],"@VictoriaPolley Yes! Debate in our house is whether to watch tonight, or save up a few episodes so we can binge it. Don’t know if we can go waiting a week between episodes!",yes debate house whether watch tonight save episode binge dont know waiting week episode,False
+1.3735376356926423e+18,2021-03-21 07:31:06+00:00,['1373537635692642304'],We’ve done our @Census2021 - have you done yours? @CensusNorthEssx https://t.co/OB8uV5XYqF,weve done done,True
+1.362670492826665e+18,2021-02-19 07:48:57+00:00,['1362670492826664961'],I’m giggling at the Times front page today which has a big pic of Mars from the rover and a very indistinguishable break to the headline “Hope for holidays overseas”. Well that certainly is an overseas trip!,giggling time front page today big pic mar rover indistinguishable break headline hope holiday overseas well certainly overseas trip,False
+1.3558311148170076e+18,2021-01-31 10:51:42+00:00,['1355831114817007618'],Female blackbird https://t.co/AmP5WLU4KY,female blackbird,True
+1.3558310464540754e+18,2021-01-31 10:51:26+00:00,['1355831046454075394'],Great Tit https://t.co/EjnVRmZ1kY,great tit,True
+1.355830984848126e+18,2021-01-31 10:51:11+00:00,['1355830984848125952'],Blue Tit https://t.co/h2oNmyGrTq,blue tit,True
+1.355830568534073e+18,2021-01-31 10:49:32+00:00,['1355830568534073345'],"Some not great shots from our #BigGardenBirdWatch today; but what a weekend for long-tailed tits to return to our feeder (not pictured, sorry!) @Natures_Voice https://t.co/zN9ixHNQGz",great shot today weekend longtailed tit return feeder pictured sorry,False
+1.354864291493638e+18,2021-01-28 18:49:53+00:00,['1354864291493638146'],"@essexlive This is shockingly unethical journalism. Go and read the Code of Conduct on reporting, and the @samaritans guide on reporting suicide. In the meantime delete this terrible tweet. Shame.",shockingly unethical journalism read code conduct reporting guide reporting suicide meantime delete terrible tweet shame,False
+1.349982845301891e+18,2021-01-15 07:32:46+00:00,['1349982845301891072'],"@CharlotteSulli My thoughts are with you. Well done for doing this, and speaking out about it. Inspiration to us all",thought well done speaking inspiration,False
+1.3474557419390812e+18,2021-01-08 08:10:58+00:00,['1347455741939081216'],Woke up this morning thinking it was Saturday. It is actually Friday. #sadtimes,woke morning thinking saturday actually friday,False
+1.345313529751097e+18,2021-01-02 10:18:34+00:00,['1345313529751097346'],@dj__error @stewarthend I think the issue is if everyone takes that attitude and doesn’t follow the rules then they don’t work. For them to be effective you need a certain level of compliance.,think issue everyone take attitude doesnt follow rule dont work effective need certain level compliance,False
+1.3449316158149222e+18,2021-01-01 09:00:59+00:00,['1344931615814922240'],@willows24 You too!,,True
+1.344799023241306e+18,2021-01-01 00:14:06+00:00,['1344799023241306113'],"Loved the fireworks and drone display in London. Best yet in my opinion, thought the different locations were great! #NYE2020",loved firework drone display london best yet opinion thought different location great,False
+1.344627242392019e+18,2020-12-31 12:51:31+00:00,['1344627242392018947'],"@ailecphoto @BBCAutumnwatch @Natures_Voice Thanks Celia, all good here. Hope you and your family are also well.",thanks celia good hope family also well,False
+1.34461691485798e+18,2020-12-31 12:10:28+00:00,['1344616914857979906'],Inspired by @BBCAutumnwatch here is a mindfulness moment for you all @Natures_Voice https://t.co/XOWuLSrA8n,inspired mindfulness moment,False
+1.3342727896715346e+18,2020-12-02 23:06:37+00:00,['1334272789671534592'],@CharlotteSulli Thinking of you xx,thinking,False
+1.315174768207954e+18,2020-10-11 06:17:54+00:00,['1315174768207953921'],"@alexdowsett Amazing, well done!",amazing well done,True
+1.310663596037333e+18,2020-09-28 19:32:06+00:00,['1310663596037332993'],@burrelm Yes! This!,yes,False
+1.3094001475337175e+18,2020-09-25 07:51:37+00:00,['1309400147533717505'],@GenesisPRAnn Happy birthday!,happy birthday,False
+1.308741274455937e+18,2020-09-23 12:13:29+00:00,['1308741274455937024'],"Anyone else think this is a rather unfortunate caption choice @BBCNews - which one is which, and is the other the colleague he had the relationship with? https://t.co/9EXicg4J69",anyone else think rather unfortunate caption choice one colleague relationship,False
+1.3066913384071578e+18,2020-09-17 20:27:46+00:00,['1306691338407157763'],"@LewisBarber94 Well ask them...
+;-)",well ask,False
+1.3066906240165233e+18,2020-09-17 20:24:56+00:00,['1306690624016523279'],@LewisBarber94 What do the other 16% think?,think,False
+1.3066900823977124e+18,2020-09-17 20:22:47+00:00,['1306690082397712385'],"@frostreports @itvanglia Was a lovely piece, thank you",lovely piece thank,False
+1.3004049915810245e+18,2020-08-31 12:08:05+00:00,['1300404991581024256'],@ZoeForsey Worth a watch?,worth watch,False
+1.2942400047771525e+18,2020-08-14 11:50:37+00:00,['1294240004777152512'],"Flurry of birds outside our house today; Great Tits, Long-tailed Tits, Chaffinch - not seen for a while.
+Have a delightful Robin in the garden too.",flurry bird outside house today great tit longtailed tit chaffinch seen delightful robin garden,False
+1.2938141925422285e+18,2020-08-13 07:38:36+00:00,['1293814192542228480'],"A-level results day. One of two days in the year when I am particularly glad I am no longer a journalist.
 The other is GCSE results day.
-Congrats to everyone getting results, especially given the trials of this year"
-130,1.29351688556535e+18,2020-08-12 11:57:12+00:00,['1293516885565349892'],"@mrdavidboberesq @Tendring_DC An interesting concept - for a tourism boost though we'd want Europeans to come and spend three hours ashore in Tendring, not vice versa (or both would be offered). Presume this would need a commercial entity to take it on."
-131,1.2916431823720817e+18,2020-08-07 07:51:46+00:00,['1291643182372081665'],@emilyltownsend Too many paws-es ;-)
-132,1.2916133670236652e+18,2020-08-07 05:53:18+00:00,['1291613367023665153'],@emilyltownsend Idk have you tried editing their copy?
-133,1.2913567950642463e+18,2020-08-06 12:53:46+00:00,['1291356795064246272'],RT @fraerstevenson: Any folk in green🚑living in North East Essex with a long term condition - this is a great opportunity to learn TM for f…
-134,1.2884204088747295e+18,2020-07-29 10:25:37+00:00,['1288420408874729472'],"RT @Tendring_DC: We’re aware of an Instagram account pretending to be us. This is fake, not owned, operated or endorsed by us.
-We support r…"
-135,1.288376959186215e+18,2020-07-29 07:32:58+00:00,['1288376959186214912'],"@richsmithV @Henry_Spurgeon @BBCEssex @sonwatson Amazing! I was fortunate to visit Stansted’s control tower for an article once and loved it, in awe of that as an office!"
-136,1.2881459107116728e+18,2020-07-28 16:14:52+00:00,['1288145910711672833'],@vi_gayle @NQdataunit Best of luck for the future
-137,1.2873615047114506e+18,2020-07-26 12:17:55+00:00,['1287361504711450624'],@Ewanfoz @gemlucia @colchbrew Not sure. Not much of the Spitty left. Pogonophobia quite a bit gone. Others a fair bit left
-138,1.2873613314908938e+18,2020-07-26 12:17:14+00:00,['1287361331490893824'],@tommy12leggett @stewarthend @gemlucia @colchbrew Don’t know. But I think so. That is my experience anyway.
-139,1.2873066503076987e+18,2020-07-26 08:39:57+00:00,['1287306650307698688'],"@stewarthend @gemlucia @colchbrew I am fine! Was very responsible, and decent beer means no nasty chemicals to make you feel rough the next day"
-140,1.287293946650071e+18,2020-07-26 07:49:28+00:00,['1287293946650071040'],"My birthday this year was brought to me by the amazing @gemlucia with a little help from @colchbrew - delicious!
-#ididnotdrinkitall #pleasedrinkresponsibly https://t.co/EOcVp4Oxve"
-141,1.286231062008533e+18,2020-07-23 09:25:56+00:00,['1286231062008532992'],"This is an incredible powerful read, the life of a photographer in Syria: https://t.co/ooPPQ2Xsh6"
-142,1.2859689740276572e+18,2020-07-22 16:04:30+00:00,['1285968974027657216'],RT @danslee: If you are a comms person would you spare two minutes to complete this @NUJ_PRmembers survey? It's about working in PR in the…
-143,1.28490218164523e+18,2020-07-19 17:25:27+00:00,['1284902181645230081'],@cshimwell Ah yes they did for Clacton. Actually a positive piece but posed as a negative to properly prove that bad news sells better. No-one is denying that but where is the trust for the reader?
-144,1.2848245883844485e+18,2020-07-19 12:17:07+00:00,['1284824588384448513'],Further to this thread. This news organisation is providing some good/useful content: https://t.co/GS2KVXFKge https://t.co/j2vV6b5L3U
-145,1.284824286230913e+18,2020-07-19 12:15:55+00:00,['1284824286230913026'],@thepetechapman I agree with your principle. I wouldn’t blame the journalists per se. They are earning a crust and often incentivised with bonuses for web hits.
-146,1.2848182561514332e+18,2020-07-19 11:51:57+00:00,['1284818256151433217'],"So yes, don’t swim at Groyne 41. You shouldn’t swim around groynes anyway. But walk 100yards either way and swim in good or excellent water quality on award-winning beaches. Support small businesses by visiting the beach &amp; buying lunch, an ice cream, a drink."
-147,1.2848182547713884e+18,2020-07-19 11:51:57+00:00,['1284818254771388416'],"At a time when journalists across the country are losing their jobs, and others around the world face death for doing their job, I cannot feel sadder for what remaining ‘journalists’ are doing in some outlets.
-Scrutinise. Hold authorities to account. Share useful information!"
-148,1.2848182534628065e+18,2020-07-19 11:51:57+00:00,['1284818253462806528'],I mean I am all for historical context but leading on a single person’s experience from 4 decades ago breaks all the rules of what is ‘new’ and is actually not linked to the previous issues at this stretch of beach
-149,1.2848182514872934e+18,2020-07-19 11:51:56+00:00,['1284818251487293441'],"I am an avid supporter of local journalism. But @essexlive take the biscuit with this one. Refuse to share a link for this clickbait.
-What the headline doesn’t tell you (but the article does after you scroll a million miles down) is the headline refers to an event in the 1980s https://t.co/h9wzBwnCUQ"
-150,1.2842417789551616e+18,2020-07-17 21:41:14+00:00,['1284241778955161601'],Beautiful coastline #JaywickSands @JaywickTower @Tendring_DC @JSHClub1 @Essex_CC https://t.co/OY4buRORYR
-151,1.284011745086972e+18,2020-07-17 06:27:10+00:00,['1284011745086971904'],"RT @RNLI_Essex: Great news to those visiting beaches in the @Tendring_DC area, from Saturday the Beach Patrol will be operating 11-5 Mon-Fr…"
-152,1.2834679076540908e+18,2020-07-15 18:26:09+00:00,['1283467907654090752'],@MichaelReporter Angela will never retire!
-153,1.2834678651154964e+18,2020-07-15 18:25:59+00:00,['1283467865115496449'],RT @MichaelReporter: Wishing you the very best with your “almost retirement” Angela! X
-154,1.283172484381053e+18,2020-07-14 22:52:15+00:00,['1283172484381052929'],"Whatever your political views Rodney Bass was certainly a character, and a joy to interview. This was a fun article to put together when he retired from ECC a few years ago: https://t.co/uiBxurT7pJ https://t.co/xmSrzFiRbc"
-155,1.283171678743339e+18,2020-07-14 22:49:03+00:00,['1283171678743339018'],"RT @EssexFreemasons: It is with much sadness that we must report the passing to the Grand Lodge Above of our beloved ProvGM, RW Bro Rodney…"
-156,1.281479585729831e+18,2020-07-10 06:45:16+00:00,['1281479585729830912'],"RT @BraintreeDC: Recognise this face? We’re sure you do. It’s Greta Thunberg. 17-year-old climate change and environment activist. 
-
-You’re…"
-157,1.2805076178912911e+18,2020-07-07 14:23:01+00:00,['1280507617891291136'],RT @Tendring_DC: We've been made aware of a number of jellyfish in the waters around Brightlingsea (which may of course be carried elsewher…
-158,1.2794509176502886e+18,2020-07-04 16:24:04+00:00,['1279450917650288640'],"Credit to the @VeoliaUK staffat Colchester recycling centre, doing a fab job at managing traffic &amp; people.
-Disappointing to see people recycling glass/plastic/paper. Use your kerbsides people! @loveessexuk @Essex_CC"
-159,1.2794505242538598e+18,2020-07-04 16:22:30+00:00,['1279450524253859843'],@tommy12leggett @SJWilding @loveessexuk @Essex_CC Thanks. Got in :-)
-160,1.2794203557073551e+18,2020-07-04 14:22:37+00:00,['1279420355707355136'],RT @OctopusAhoy: Today marks the original launch day for Octopus Ahoy! which we sadly had to postpone due to the current situation… However…
-161,1.279419856966824e+18,2020-07-04 14:20:39+00:00,['1279419856966823938'],"RT @EssexPoliceUK: If you’re planning to go to an illegal rave or unlicensed event, please think again.
-
-We appreciate the want to enjoy yo…"
-162,1.2794196006989988e+18,2020-07-04 14:19:37+00:00,['1279419600698998785'],Hey @loveessexuk @Essex_CC is the Shrub End Recycling Centre open today please? Thanks
-163,1.27905177815219e+18,2020-07-03 13:58:02+00:00,['1279051778152189953'],"RT @stewarthend: This is sad on so many fronts - for those losing their jobs, for local communities losing a way of knowing about and chall…"
-164,1.2786154855553595e+18,2020-07-02 09:04:21+00:00,['1278615485555359744'],"@tamcohen As a parent, my first thought is how you tackle bullying; making victims sit with peer bullies is not ideal"
-165,1.2778503417159516e+18,2020-06-30 06:23:57+00:00,['1277850341715951618'],"@Colchesterviews @stewarthend @yourcolchester Local govt comms teams don’t exist to make things good or bad ideas. They are non political, there to inform residents eg of proposed service changes. If you don’t like an idea take it up with a politician."
-166,1.275159734446895e+18,2020-06-22 20:12:26+00:00,['1275159734446895108'],"RT @HarwichFestival: #HF2020 starts this Thursday ❤❤
-#Harwich #festival https://t.co/BNsFbTHXAF"
-167,1.2750140598768517e+18,2020-06-22 10:33:35+00:00,['1275014059876851713'],@CharlotteSulli Would be handy on a slow news day though...
-168,1.273656394194002e+18,2020-06-18 16:38:42+00:00,['1273656394194001921'],Oh no already :-( thanks though https://t.co/rw2b7nWyEr
-169,1.2736556717587538e+18,2020-06-18 16:35:50+00:00,['1273655671758753793'],@dynamicsjon Am worried they’ll be further south than usual as doing return route
-170,1.273655261966762e+18,2020-06-18 16:34:12+00:00,['1273655261966761986'],Have the #RedArrows gone over Colchester yet?
-171,1.272174545336775e+18,2020-06-14 14:30:22+00:00,['1272174545336774658'],"@ryanjennings1 @blurofficial The gig would be called Parklife, yes?!"
-172,1.271678140671238e+18,2020-06-13 05:37:50+00:00,['1271678140671238144'],@ryanjennings1 @maldonstandard @BW_Times @HalsteadGazette @TheGazette @EssexNewsPics @Essex_Echo #oneofus
-173,1.2714194317727212e+18,2020-06-12 12:29:49+00:00,['1271419431772721153'],@AureliaMoreaux @StaceyCosens Wishing you and the family all the best! And we're sure Stacey will do just fine :-)
-174,1.2710569290418504e+18,2020-06-11 12:29:21+00:00,['1271056929041850373'],Mum and chicks strolling down the road! https://t.co/G8wNRTPpna
-175,1.270973268581847e+18,2020-06-11 06:56:55+00:00,['1270973268581847040'],@JPH79 @ShebaBrand Can he/she run a behaviour change campaign to nudge my cat out of eating my breakfast? https://t.co/A4t5a9OtCX
-176,1.2709714901467013e+18,2020-06-11 06:49:51+00:00,['1270971490146701312'],"RT @ClactonAirshow: We regret to inform you that the Clacton Airshow 2020 will be postponed until 2021.
-
-The difficult decision to postpone…"
-177,1.270742628150186e+18,2020-06-10 15:40:26+00:00,['1270742628150185984'],@ColonelCamulos I got my pun on on Saturday with the lovely team @yourcolchester about walls. Was most enjoyable!
-178,1.2706673549644595e+18,2020-06-10 10:41:19+00:00,['1270667354964459521'],You'd be barking not to apply! https://t.co/a2IqwhRXqZ
-179,1.2696613188580516e+18,2020-06-07 16:03:42+00:00,['1269661318858051591'],"Not gonna lie, the Saturday Gateaux run @ChelmerCC was what got me hooked on cycling.
-Currently doing a lot more gateaux than cycling but love for the sport remains https://t.co/5fBkPUjyrJ"
-180,1.2696609958966518e+18,2020-06-07 16:02:25+00:00,['1269660995896651777'],RT @alexdowsett: What with social distancing and things being closed like cafe’s I’m finding it pretty mind blowing that 4hr rides are taki…
-181,1.2696604913261486e+18,2020-06-07 16:00:24+00:00,['1269660491326148608'],RT @Tendring_DC: We would like to say a huge #ThankyouEssex for the incredible people in all parts of the county who came together in #Covi…
-182,1.2692142956672123e+18,2020-06-06 10:27:23+00:00,['1269214295667212289'],@Tara_J_Rose Good luck in the new role... where are you off to?
-183,1.2692027973309235e+18,2020-06-06 09:41:42+00:00,['1269202797330923524'],"RT @yourcolchester: If you're planning a trip to the seaside this weekend, please consider the impact of your visit on the local community.…"
-184,1.269202521194627e+18,2020-06-06 09:40:36+00:00,['1269202521194627073'],@stewarthend @garethdn @yourcolchester Think they might end up bricking it up if you tried that!
-185,1.2691998497963172e+18,2020-06-06 09:29:59+00:00,['1269199849796317184'],@stewarthend @yourcolchester Oh. Does that mean I’ve hit the wall!
-186,1.2691992371846185e+18,2020-06-06 09:27:33+00:00,['1269199237184618497'],"@stewarthend @yourcolchester Just trying not to make a wall-y of myself.
-I’m done. I think...! #sorrynotsorry"
-187,1.2691979300508303e+18,2020-06-06 09:22:21+00:00,['1269197930050830337'],@stewarthend @yourcolchester There must be mor-tar life than this...
-188,1.269187176677466e+18,2020-06-06 08:39:37+00:00,['1269187176677466112'],"@stewarthend @yourcolchester Sorry Sam and Megan, am genuinely intrigued by what you will be tweeting today!"
-189,1.269187025393062e+18,2020-06-06 08:39:01+00:00,['1269187025393061888'],@stewarthend @yourcolchester But where do they get the materials from? Must be wall-mart...
-190,1.2691850535040123e+18,2020-06-06 08:31:11+00:00,['1269185053504012293'],"@yourcolchester Very good!
-Don’t worry, walls in other towns are bricking it..."
-191,1.2691806622354964e+18,2020-06-06 08:13:44+00:00,['1269180662235496450'],@yourcolchester Are you promising us wall-to-wall fun?
-192,1.2691709251377723e+18,2020-06-06 07:35:03+00:00,['1269170925137772544'],@jon_manning @deyabrewery @Ewanfoz @JamesECalnan @ryanjennings1 😝
-193,1.2691534130586993e+18,2020-06-06 06:25:28+00:00,['1269153413058699264'],@Ewanfoz @ryanjennings1 @two_brew @jcoxwriter @JamesDwan @JamesECalnan All those well-crafted chemical-free beers means I’m alright...
-194,1.2690462903122903e+18,2020-06-05 23:19:48+00:00,['1269046290312290305'],They were all tasty. The @deyabrewery first was probably the best. But the the best bit of all was catching up with friends.
-195,1.2690157932133417e+18,2020-06-05 21:18:36+00:00,['1269015793213341704'],"RT @ryanjennings1: What a bunch of... people. First time in a long, long time. Thank you @two_brew https://t.co/MHuyO1gsTZ"
-196,1.2689867361279918e+18,2020-06-05 19:23:09+00:00,['1268986736127991808'],Many of us using @colCAMRA beer festival tankards
-197,1.268986058483667e+18,2020-06-05 19:20:27+00:00,['1268986058483666947'],@MatthewHudITV @JamesDwan @jcoxwriter All thanks to @two_brew
-198,1.2689848908649308e+18,2020-06-05 19:15:49+00:00,['1268984890864930816'],@ryanjennings1 @two_brew Yes thanks @two_brew
-199,1.2689825648339354e+18,2020-06-05 19:06:34+00:00,['1268982564833935371'],Also catching up with @JamesDwan @jcoxwriter &amp; Adam who doesn’t seem to be on Twitter any more...
-200,1.26898147359769e+18,2020-06-05 19:02:14+00:00,['1268981473597689858'],"Doing a virtual mini-beer fest tonight with my good pals. Trying five new ones.
-First up: steady rolling man @deyabrewery https://t.co/0UKQg2pUkk"
-201,1.2684293305956805e+18,2020-06-04 06:28:13+00:00,['1268429330595680256'],"This. Everybody should read this. And shout out to all the great journalists, camera crew, producers/editors and the rest who do amazing things. https://t.co/WexOyW5XTL"
-202,1.2678448552853873e+18,2020-06-02 15:45:43+00:00,['1267844855285387264'],@AlexMooreNews @CharlotteGRose Now is surely the perfect opportunity to modernise the way Parliament works... particularly useful ahead of refurbishment project and potential relocation anyway...
-203,1.267844512212308e+18,2020-06-02 15:44:21+00:00,['1267844512212307968'],"RT @BTPEssex: Yesterday we had a call about a body within the railway boundary.
-
-Railway workers could only see a pair of feet but reported…"
-204,1.267337240470073e+18,2020-06-01 06:08:38+00:00,['1267337240470073345'],@stewarthend @ryanjennings1 Group outing?
-205,1.2659778100043858e+18,2020-05-28 12:06:45+00:00,['1265977810004385794'],@Ewanfoz I agree. I do like the food though
-206,1.2657417051202683e+18,2020-05-27 20:28:33+00:00,['1265741705120268290'],@CharlotteSulli Good point!
-207,1.2657408317990216e+18,2020-05-27 20:25:05+00:00,['1265740831799021573'],"@CharlotteSulli Lol my Essex park knowledge is restricted to pretty much two towns, so I’m out.
-I of course meant Central Park, New York (in your mind)"
-208,1.2657397035731927e+18,2020-05-27 20:20:36+00:00,['1265739703573192705'],@CharlotteSulli Central park right?
-209,1.2653664784356188e+18,2020-05-26 19:37:32+00:00,['1265366478435618816'],@Sascha_Williams @andyoddsock Did not know there was an album!!
-210,1.2634343129611387e+18,2020-05-21 11:39:48+00:00,['1263434312961138689'],"RT @NCTJ_news: 🌟The Awards for Excellence 2020 are open for applications!🌟
-
-Free to enter, students, trainees and apprentices can enter the…"
-211,1.2611931852352102e+18,2020-05-15 07:14:21+00:00,['1261193185235210240'],@LV8andrea 😜 good point
-212,1.261009357220823e+18,2020-05-14 19:03:53+00:00,['1261009357220823042'],@LV8andrea Branded clap spoons?
-213,1.2600990234254746e+18,2020-05-12 06:46:33+00:00,['1260099023425474560'],"RT @yourcolchester: If you’re on a Green Week on your recycling calendar this week, we’ll be collecting these items on your usual collectio…"
-214,1.259620311600939e+18,2020-05-10 23:04:19+00:00,['1259620311600939018'],@ColonelCamulos It is brilliant
-215,1.2594390025806395e+18,2020-05-10 11:03:52+00:00,['1259439002580639745'],@ryanjennings1 @stewarthend Yes my cousin’s fiancé has done it let me get deets
-216,1.2594384290976604e+18,2020-05-10 11:01:35+00:00,['1259438429097660416'],"@ryanjennings1 @stewarthend But in the safety of my home...
-Seriously though we should sign up for this as a group thing"
-217,1.259436971174355e+18,2020-05-10 10:55:47+00:00,['1259436971174354944'],@stewarthend Where do I sign up for this?!
-218,1.2594367592949146e+18,2020-05-10 10:54:57+00:00,['1259436759294914560'],"RT @HarwichRNLI: Important information about today’s high tide. If you’re out getting exercise, please keep clear of the water and anywhere…"
-219,1.2587273595465646e+18,2020-05-08 11:56:03+00:00,['1258727359546564608'],RT @HistoricHarwich: Please follow the social distancing guidelines that are in place this sunny bank holiday weekend. If you are popping o…
-220,1.258683912575955e+18,2020-05-08 09:03:24+00:00,['1258683912575954946'],Just seen the #RedArrows fly over. Fantastic sight
-221,1.2585160620284846e+18,2020-05-07 21:56:25+00:00,['1258516062028484609'],@stewarthend @adamkeating1981 @leonamurray @ryanjennings1 @NJN2017 I clearly need to up my game...
-222,1.2584743785699615e+18,2020-05-07 19:10:47+00:00,['1258474378569961472'],When you break the spoon doing #clapforourkeyworkers #ClapForOurCarers #ClapForTheNHS https://t.co/Yfs30modui
-223,1.2584232944008356e+18,2020-05-07 15:47:48+00:00,['1258423294400835586'],"RT @ColonelCamulos: What do you call a snake that is exactly 3.14 metres long?
-
-A πthon."
-224,1.2583417764542874e+18,2020-05-07 10:23:53+00:00,['1258341776454287365'],RT @Tendring_DC: Tomorrow we shall be hosting a virtual VE Day service from our facebook page. Please join us at 10:55am as we mark the 75t…
-225,1.2581354106283213e+18,2020-05-06 20:43:51+00:00,['1258135410628321283'],"@stewarthend @sheffielduni Ah it’s not much, mostly email exchanges and at least one Skype per term. It’s easy - mostly talking about myself, my favourite pastime!"
-226,1.258134303923409e+18,2020-05-06 20:39:27+00:00,['1258134303923408896'],"Just Skyped a @sheffielduni student I am mentoring this term. Really interesting discussion about media, Covid-19, transferable skills and much more."
-227,1.2569762743603282e+18,2020-05-03 15:57:51+00:00,['1256976274360328197'],"RT @yourcolchester: A  double rainbow stetches all the way over over the Colne, taken on Thursday evening by Katrina from Wivenhoe 🌈 https:…"
-228,1.2561437864739348e+18,2020-05-01 08:49:51+00:00,['1256143786473934849'],"RT @Tendring_DC: A pop-up Covid-19 testing site, run by the Army for key workers, will start in Dovercourt, EXTENDED TO FRIDAY 1ST MAY
-To b…"
-229,1.2548201389997425e+18,2020-04-27 17:10:09+00:00,['1254820138999742472'],RT @OctopusAhoy: Competition time! Enter our competition to be in with a chance of winning a free family swim… download the octopus colouri…
-230,1.2548107591057408e+18,2020-04-27 16:32:52+00:00,['1254810759105740800'],"RT @Tendring_DC: To celebrate the 75th Anniversary of VE Day, Tendring District Council and @PoppyLegion are holding a virtual service to m…"
-231,1.254686323245486e+18,2020-04-27 08:18:25+00:00,['1254686323245486081'],"@stewarthend @adamkeating1981 @PollyCziok @andyallsopp @em_cathryn @donnaveasey @DarrenHorsman1 @NJN2017 @leonamurray Not about forgetting people, about keeping the list going - how about @LHock83 and colleagues at acute care"
-232,1.253775038110675e+18,2020-04-24 19:57:17+00:00,['1253775038110674945'],RT @West_Suffolk: We wanted to share a tale for you #StayAtHomeHeroes. How doing the bear essentials is helping a well loved and essential…
-233,1.2532395149627228e+18,2020-04-23 08:29:19+00:00,['1253239514962722816'],"As it is St George’s Day, patron saint of #Scouting I am proudly wearing my scarf today while working from home #StayHomeSaveLives @UKScouting @essexscouts https://t.co/FH6HP1eMqb"
-234,1.251172752616276e+18,2020-04-17 15:36:44+00:00,['1251172752616275968'],"@VicLTucks First one is Pink Panther, apologies, but also good..."
-235,1.25116979550609e+18,2020-04-17 15:24:59+00:00,['1251169795506089985'],"@VicLTucks Loads on YouTube :-) 
+Congrats to everyone getting results, especially given the trials of this year",alevel result day one two day year particularly glad longer journalist gcse result day congrats everyone getting result especially given trial year,False
+1.29351688556535e+18,2020-08-12 11:57:12+00:00,['1293516885565349892'],"@mrdavidboberesq @Tendring_DC An interesting concept - for a tourism boost though we'd want Europeans to come and spend three hours ashore in Tendring, not vice versa (or both would be offered). Presume this would need a commercial entity to take it on.",interesting concept tourism boost though we'd want european come spend three hour ashore tendring vice versa would offered presume would need commercial entity take,False
+1.2916431823720817e+18,2020-08-07 07:51:46+00:00,['1291643182372081665'],@emilyltownsend Too many paws-es ;-),many paw,True
+1.2916133670236652e+18,2020-08-07 05:53:18+00:00,['1291613367023665153'],@emilyltownsend Idk have you tried editing their copy?,idk tried editing copy,False
+1.288376959186215e+18,2020-07-29 07:32:58+00:00,['1288376959186214912'],"@richsmithV @Henry_Spurgeon @BBCEssex @sonwatson Amazing! I was fortunate to visit Stansted’s control tower for an article once and loved it, in awe of that as an office!",amazing fortunate visit stansteds control tower article loved awe office,False
+1.2881459107116728e+18,2020-07-28 16:14:52+00:00,['1288145910711672833'],@vi_gayle @NQdataunit Best of luck for the future,best luck future,False
+1.2873615047114506e+18,2020-07-26 12:17:55+00:00,['1287361504711450624'],@Ewanfoz @gemlucia @colchbrew Not sure. Not much of the Spitty left. Pogonophobia quite a bit gone. Others a fair bit left,sure much spitty left pogonophobia quite bit gone others fair bit left,False
+1.2873613314908938e+18,2020-07-26 12:17:14+00:00,['1287361331490893824'],@tommy12leggett @stewarthend @gemlucia @colchbrew Don’t know. But I think so. That is my experience anyway.,dont know think experience anyway,False
+1.2873066503076987e+18,2020-07-26 08:39:57+00:00,['1287306650307698688'],"@stewarthend @gemlucia @colchbrew I am fine! Was very responsible, and decent beer means no nasty chemicals to make you feel rough the next day",fine responsible decent beer mean nasty chemical make feel rough next day,False
+1.287293946650071e+18,2020-07-26 07:49:28+00:00,['1287293946650071040'],"My birthday this year was brought to me by the amazing @gemlucia with a little help from @colchbrew - delicious!
+#ididnotdrinkitall #pleasedrinkresponsibly https://t.co/EOcVp4Oxve",birthday year brought amazing little help delicious,False
+1.286231062008533e+18,2020-07-23 09:25:56+00:00,['1286231062008532992'],"This is an incredible powerful read, the life of a photographer in Syria: https://t.co/ooPPQ2Xsh6",incredible powerful read life photographer syria,False
+1.28490218164523e+18,2020-07-19 17:25:27+00:00,['1284902181645230081'],@cshimwell Ah yes they did for Clacton. Actually a positive piece but posed as a negative to properly prove that bad news sells better. No-one is denying that but where is the trust for the reader?,yes clacton actually positive piece posed negative properly prove bad news sell better noone denying trust reader,False
+1.2848245883844485e+18,2020-07-19 12:17:07+00:00,['1284824588384448513'],Further to this thread. This news organisation is providing some good/useful content: https://t.co/GS2KVXFKge https://t.co/j2vV6b5L3U,thread news organisation providing gooduseful content,False
+1.284824286230913e+18,2020-07-19 12:15:55+00:00,['1284824286230913026'],@thepetechapman I agree with your principle. I wouldn’t blame the journalists per se. They are earning a crust and often incentivised with bonuses for web hits.,agree principle wouldnt blame journalist per earning crust often incentivised bonus web hit,False
+1.2848182561514332e+18,2020-07-19 11:51:57+00:00,['1284818256151433217'],"So yes, don’t swim at Groyne 41. You shouldn’t swim around groynes anyway. But walk 100yards either way and swim in good or excellent water quality on award-winning beaches. Support small businesses by visiting the beach &amp; buying lunch, an ice cream, a drink.",yes dont swim groyne shouldnt swim around groyne anyway walk yard either way swim good excellent water quality awardwinning beach support small business visiting beach amp buying lunch ice cream drink,False
+1.2848182547713884e+18,2020-07-19 11:51:57+00:00,['1284818254771388416'],"At a time when journalists across the country are losing their jobs, and others around the world face death for doing their job, I cannot feel sadder for what remaining ‘journalists’ are doing in some outlets.
+Scrutinise. Hold authorities to account. Share useful information!",time journalist across country losing job others around world face death job cannot feel sadder remaining journalist outlet scrutinise hold authority account share useful information,False
+1.2848182534628065e+18,2020-07-19 11:51:57+00:00,['1284818253462806528'],I mean I am all for historical context but leading on a single person’s experience from 4 decades ago breaks all the rules of what is ‘new’ and is actually not linked to the previous issues at this stretch of beach,mean historical context leading single person experience decade ago break rule new actually linked previous issue stretch beach,False
+1.2848182514872934e+18,2020-07-19 11:51:56+00:00,['1284818251487293441'],"I am an avid supporter of local journalism. But @essexlive take the biscuit with this one. Refuse to share a link for this clickbait.
+What the headline doesn’t tell you (but the article does after you scroll a million miles down) is the headline refers to an event in the 1980s https://t.co/h9wzBwnCUQ",avid supporter local journalism take biscuit one refuse share link clickbait headline doesnt tell article doe scroll million mile headline refers event,False
+1.2842417789551616e+18,2020-07-17 21:41:14+00:00,['1284241778955161601'],Beautiful coastline #JaywickSands @JaywickTower @Tendring_DC @JSHClub1 @Essex_CC https://t.co/OY4buRORYR,beautiful coastline,True
+1.2834679076540908e+18,2020-07-15 18:26:09+00:00,['1283467907654090752'],@MichaelReporter Angela will never retire!,angela never retire,True
+1.283172484381053e+18,2020-07-14 22:52:15+00:00,['1283172484381052929'],"Whatever your political views Rodney Bass was certainly a character, and a joy to interview. This was a fun article to put together when he retired from ECC a few years ago: https://t.co/uiBxurT7pJ https://t.co/xmSrzFiRbc",whatever political view rodney bass certainly character joy interview fun article put together retired ecc year ago,False
+1.2794509176502886e+18,2020-07-04 16:24:04+00:00,['1279450917650288640'],"Credit to the @VeoliaUK staffat Colchester recycling centre, doing a fab job at managing traffic &amp; people.
+Disappointing to see people recycling glass/plastic/paper. Use your kerbsides people! @loveessexuk @Essex_CC",credit staffat colchester recycling centre fab job managing traffic amp people disappointing see people recycling glassplasticpaper use kerbsides people,False
+1.2794505242538598e+18,2020-07-04 16:22:30+00:00,['1279450524253859843'],@tommy12leggett @SJWilding @loveessexuk @Essex_CC Thanks. Got in :-),thanks got,False
+1.2794196006989988e+18,2020-07-04 14:19:37+00:00,['1279419600698998785'],Hey @loveessexuk @Essex_CC is the Shrub End Recycling Centre open today please? Thanks,hey shrub end recycling centre open today please thanks,False
+1.2786154855553595e+18,2020-07-02 09:04:21+00:00,['1278615485555359744'],"@tamcohen As a parent, my first thought is how you tackle bullying; making victims sit with peer bullies is not ideal",parent first thought tackle bullying making victim sit peer bully ideal,False
+1.2778503417159516e+18,2020-06-30 06:23:57+00:00,['1277850341715951618'],"@Colchesterviews @stewarthend @yourcolchester Local govt comms teams don’t exist to make things good or bad ideas. They are non political, there to inform residents eg of proposed service changes. If you don’t like an idea take it up with a politician.",local govt comms team dont exist make thing good bad idea non political inform resident proposed service change dont like idea take politician,False
+1.2750140598768517e+18,2020-06-22 10:33:35+00:00,['1275014059876851713'],@CharlotteSulli Would be handy on a slow news day though...,would handy slow news day though,False
+1.273656394194002e+18,2020-06-18 16:38:42+00:00,['1273656394194001921'],Oh no already :-( thanks though https://t.co/rw2b7nWyEr,already thanks though,False
+1.2736556717587538e+18,2020-06-18 16:35:50+00:00,['1273655671758753793'],@dynamicsjon Am worried they’ll be further south than usual as doing return route,worried theyll south usual return route,False
+1.273655261966762e+18,2020-06-18 16:34:12+00:00,['1273655261966761986'],Have the #RedArrows gone over Colchester yet?,gone colchester yet,False
+1.272174545336775e+18,2020-06-14 14:30:22+00:00,['1272174545336774658'],"@ryanjennings1 @blurofficial The gig would be called Parklife, yes?!",gig would called parklife yes,False
+1.271678140671238e+18,2020-06-13 05:37:50+00:00,['1271678140671238144'],@ryanjennings1 @maldonstandard @BW_Times @HalsteadGazette @TheGazette @EssexNewsPics @Essex_Echo #oneofus,,
+1.2714194317727212e+18,2020-06-12 12:29:49+00:00,['1271419431772721153'],@AureliaMoreaux @StaceyCosens Wishing you and the family all the best! And we're sure Stacey will do just fine :-),wishing family best we're sure stacey fine,False
+1.2710569290418504e+18,2020-06-11 12:29:21+00:00,['1271056929041850373'],Mum and chicks strolling down the road! https://t.co/G8wNRTPpna,mum chick strolling road,False
+1.270973268581847e+18,2020-06-11 06:56:55+00:00,['1270973268581847040'],@JPH79 @ShebaBrand Can he/she run a behaviour change campaign to nudge my cat out of eating my breakfast? https://t.co/A4t5a9OtCX,heshe run behaviour change campaign nudge cat eating breakfast,False
+1.270742628150186e+18,2020-06-10 15:40:26+00:00,['1270742628150185984'],@ColonelCamulos I got my pun on on Saturday with the lovely team @yourcolchester about walls. Was most enjoyable!,got pun saturday lovely team wall enjoyable,False
+1.2706673549644595e+18,2020-06-10 10:41:19+00:00,['1270667354964459521'],You'd be barking not to apply! https://t.co/a2IqwhRXqZ,barking apply,False
+1.2696613188580516e+18,2020-06-07 16:03:42+00:00,['1269661318858051591'],"Not gonna lie, the Saturday Gateaux run @ChelmerCC was what got me hooked on cycling.
+Currently doing a lot more gateaux than cycling but love for the sport remains https://t.co/5fBkPUjyrJ",gonna lie saturday gateau run got hooked cycling currently lot gateau cycling love sport remains,False
+1.2692142956672123e+18,2020-06-06 10:27:23+00:00,['1269214295667212289'],@Tara_J_Rose Good luck in the new role... where are you off to?,good luck new role,False
+1.269202521194627e+18,2020-06-06 09:40:36+00:00,['1269202521194627073'],@stewarthend @garethdn @yourcolchester Think they might end up bricking it up if you tried that!,think might end bricking tried,False
+1.2691998497963172e+18,2020-06-06 09:29:59+00:00,['1269199849796317184'],@stewarthend @yourcolchester Oh. Does that mean I’ve hit the wall!,doe mean ive hit wall,False
+1.2691992371846185e+18,2020-06-06 09:27:33+00:00,['1269199237184618497'],"@stewarthend @yourcolchester Just trying not to make a wall-y of myself.
+I’m done. I think...! #sorrynotsorry",trying make wally done think,False
+1.2691979300508303e+18,2020-06-06 09:22:21+00:00,['1269197930050830337'],@stewarthend @yourcolchester There must be mor-tar life than this...,must mortar life,False
+1.269187176677466e+18,2020-06-06 08:39:37+00:00,['1269187176677466112'],"@stewarthend @yourcolchester Sorry Sam and Megan, am genuinely intrigued by what you will be tweeting today!",sorry sam megan genuinely intrigued tweeting today,False
+1.269187025393062e+18,2020-06-06 08:39:01+00:00,['1269187025393061888'],@stewarthend @yourcolchester But where do they get the materials from? Must be wall-mart...,get material must wallmart,False
+1.2691850535040123e+18,2020-06-06 08:31:11+00:00,['1269185053504012293'],"@yourcolchester Very good!
+Don’t worry, walls in other towns are bricking it...",good dont worry wall town bricking,False
+1.2691806622354964e+18,2020-06-06 08:13:44+00:00,['1269180662235496450'],@yourcolchester Are you promising us wall-to-wall fun?,promising walltowall fun,False
+1.2691709251377723e+18,2020-06-06 07:35:03+00:00,['1269170925137772544'],@jon_manning @deyabrewery @Ewanfoz @JamesECalnan @ryanjennings1 😝,,
+1.2691534130586993e+18,2020-06-06 06:25:28+00:00,['1269153413058699264'],@Ewanfoz @ryanjennings1 @two_brew @jcoxwriter @JamesDwan @JamesECalnan All those well-crafted chemical-free beers means I’m alright...,wellcrafted chemicalfree beer mean alright,False
+1.2690462903122903e+18,2020-06-05 23:19:48+00:00,['1269046290312290305'],They were all tasty. The @deyabrewery first was probably the best. But the the best bit of all was catching up with friends.,tasty first probably best best bit catching friend,False
+1.2689867361279918e+18,2020-06-05 19:23:09+00:00,['1268986736127991808'],Many of us using @colCAMRA beer festival tankards,many using beer festival tankard,False
+1.268986058483667e+18,2020-06-05 19:20:27+00:00,['1268986058483666947'],@MatthewHudITV @JamesDwan @jcoxwriter All thanks to @two_brew,thanks,False
+1.2689848908649308e+18,2020-06-05 19:15:49+00:00,['1268984890864930816'],@ryanjennings1 @two_brew Yes thanks @two_brew,yes thanks,False
+1.2689825648339354e+18,2020-06-05 19:06:34+00:00,['1268982564833935371'],Also catching up with @JamesDwan @jcoxwriter &amp; Adam who doesn’t seem to be on Twitter any more...,also catching amp adam doesnt seem twitter,False
+1.26898147359769e+18,2020-06-05 19:02:14+00:00,['1268981473597689858'],"Doing a virtual mini-beer fest tonight with my good pals. Trying five new ones.
+First up: steady rolling man @deyabrewery https://t.co/0UKQg2pUkk",virtual minibeer fest tonight good pal trying five new one first steady rolling man,False
+1.2684293305956805e+18,2020-06-04 06:28:13+00:00,['1268429330595680256'],"This. Everybody should read this. And shout out to all the great journalists, camera crew, producers/editors and the rest who do amazing things. https://t.co/WexOyW5XTL",everybody read shout great journalist camera crew producerseditors rest amazing thing,False
+1.2678448552853873e+18,2020-06-02 15:45:43+00:00,['1267844855285387264'],@AlexMooreNews @CharlotteGRose Now is surely the perfect opportunity to modernise the way Parliament works... particularly useful ahead of refurbishment project and potential relocation anyway...,surely perfect opportunity modernise way parliament work particularly useful ahead refurbishment project potential relocation anyway,False
+1.267337240470073e+18,2020-06-01 06:08:38+00:00,['1267337240470073345'],@stewarthend @ryanjennings1 Group outing?,group outing,False
+1.2659778100043858e+18,2020-05-28 12:06:45+00:00,['1265977810004385794'],@Ewanfoz I agree. I do like the food though,agree like food though,False
+1.2657417051202683e+18,2020-05-27 20:28:33+00:00,['1265741705120268290'],@CharlotteSulli Good point!,good point,True
+1.2657408317990216e+18,2020-05-27 20:25:05+00:00,['1265740831799021573'],"@CharlotteSulli Lol my Essex park knowledge is restricted to pretty much two towns, so I’m out.
+I of course meant Central Park, New York (in your mind)",lol essex park knowledge restricted pretty much two town course meant central park new york mind,False
+1.2657397035731927e+18,2020-05-27 20:20:36+00:00,['1265739703573192705'],@CharlotteSulli Central park right?,central park right,False
+1.2653664784356188e+18,2020-05-26 19:37:32+00:00,['1265366478435618816'],@Sascha_Williams @andyoddsock Did not know there was an album!!,know album,False
+1.2611931852352102e+18,2020-05-15 07:14:21+00:00,['1261193185235210240'],@LV8andrea 😜 good point,good point,True
+1.261009357220823e+18,2020-05-14 19:03:53+00:00,['1261009357220823042'],@LV8andrea Branded clap spoons?,branded clap spoon,False
+1.259620311600939e+18,2020-05-10 23:04:19+00:00,['1259620311600939018'],@ColonelCamulos It is brilliant,brilliant,False
+1.2594390025806395e+18,2020-05-10 11:03:52+00:00,['1259439002580639745'],@ryanjennings1 @stewarthend Yes my cousin’s fiancé has done it let me get deets,yes cousin fianc done let get deets,True
+1.2594384290976604e+18,2020-05-10 11:01:35+00:00,['1259438429097660416'],"@ryanjennings1 @stewarthend But in the safety of my home...
+Seriously though we should sign up for this as a group thing",safety home seriously though sign group thing,False
+1.259436971174355e+18,2020-05-10 10:55:47+00:00,['1259436971174354944'],@stewarthend Where do I sign up for this?!,sign,False
+1.258683912575955e+18,2020-05-08 09:03:24+00:00,['1258683912575954946'],Just seen the #RedArrows fly over. Fantastic sight,seen fly fantastic sight,False
+1.2585160620284846e+18,2020-05-07 21:56:25+00:00,['1258516062028484609'],@stewarthend @adamkeating1981 @leonamurray @ryanjennings1 @NJN2017 I clearly need to up my game...,clearly need game,False
+1.2584743785699615e+18,2020-05-07 19:10:47+00:00,['1258474378569961472'],When you break the spoon doing #clapforourkeyworkers #ClapForOurCarers #ClapForTheNHS https://t.co/Yfs30modui,break spoon,False
+1.2581354106283213e+18,2020-05-06 20:43:51+00:00,['1258135410628321283'],"@stewarthend @sheffielduni Ah it’s not much, mostly email exchanges and at least one Skype per term. It’s easy - mostly talking about myself, my favourite pastime!",much mostly email exchange least one skype per term easy mostly talking favourite pastime,False
+1.258134303923409e+18,2020-05-06 20:39:27+00:00,['1258134303923408896'],"Just Skyped a @sheffielduni student I am mentoring this term. Really interesting discussion about media, Covid-19, transferable skills and much more.",skyped student mentoring term really interesting discussion medium covid transferable skill much,False
+1.254686323245486e+18,2020-04-27 08:18:25+00:00,['1254686323245486081'],"@stewarthend @adamkeating1981 @PollyCziok @andyallsopp @em_cathryn @donnaveasey @DarrenHorsman1 @NJN2017 @leonamurray Not about forgetting people, about keeping the list going - how about @LHock83 and colleagues at acute care",forgetting people keeping list going colleague acute care,False
+1.2532395149627228e+18,2020-04-23 08:29:19+00:00,['1253239514962722816'],"As it is St George’s Day, patron saint of #Scouting I am proudly wearing my scarf today while working from home #StayHomeSaveLives @UKScouting @essexscouts https://t.co/FH6HP1eMqb",george day patron saint proudly wearing scarf today working home,False
+1.251172752616276e+18,2020-04-17 15:36:44+00:00,['1251172752616275968'],"@VicLTucks First one is Pink Panther, apologies, but also good...",first one pink panther apology also good,False
+1.25116979550609e+18,2020-04-17 15:24:59+00:00,['1251169795506089985'],"@VicLTucks Loads on YouTube :-) 
 
 https://t.co/E68JitVuhG
 
-https://t.co/14xDqP0lAh"
-236,1.2508850613119754e+18,2020-04-16 20:33:33+00:00,['1250885061311975424'],@VicLTucks Ska versions are incredible!
-237,1.2507592337773036e+18,2020-04-16 12:13:33+00:00,['1250759233777303552'],RT @Tendring_DC: A reminder that we are receiving increased reports of fly-tipping around the district and to also be considerate to staff…
-238,1.24758686891033e+18,2020-04-07 18:07:43+00:00,['1247586868910329862'],"Help me please Twitter. Anyone tell me the title of series of books about Einstein/physics. Is fiction, a child goes into like a miniature universe &amp; observes ant people learning eg drive car and they’re all shocked when car turns up behind them (teaching world is round)? Anyone?"
-239,1.2475434726781092e+18,2020-04-07 15:15:16+00:00,['1247543472678109184'],@EssexCanning Good luck mate
-240,1.2472633915442176e+18,2020-04-06 20:42:20+00:00,['1247263391544217604'],"RT @MyDoncaster: In November 1970, officials in Oregon, USA decided to blow up a rotting whale carcass. The whole thing went horribly wrong…"
-241,1.2467492034072658e+18,2020-04-05 10:39:08+00:00,['1246749203407265792'],#StayHomeSaveLives #sunsoutgunsout https://t.co/7dzL1UOq6x
-242,1.2467109726408294e+18,2020-04-05 08:07:13+00:00,['1246710972640829440'],"RT @HarwichRNLI: It might be tempting to head to the coast this weekend, but please remember to follow Government instructions: stay home t…"
-243,1.246710957180629e+18,2020-04-05 08:07:09+00:00,['1246710957180628992'],RT @rhylmc: Leisure Centre managers becoming specialists in food distribution to get supplies to the community. Theatre Managers devising I…
-244,1.246710905947259e+18,2020-04-05 08:06:57+00:00,['1246710905947258880'],RT @Tendring_DC: We've been overwhelmed at all the thanks and support from the public for our staff and contractors during this difficult t…
-245,1.2460456477462733e+18,2020-04-03 12:03:27+00:00,['1246045647746273280'],@HarwichStandard @rhylmc
-246,1.243278322852823e+18,2020-03-26 20:47:05+00:00,['1243278322852823045'],RT @Tendring_DC: Tonight we lit up Clacton Town Hall blue and white to show our support and appreciation for our wonderful #NHS #clapforNHS…
-247,1.2421584012258836e+18,2020-03-23 18:36:55+00:00,['1242158401225883648'],"RT @MyDoncaster: Hello. This man’s name was Stanislav Petrov.
-Stanislav was a hero, and if you want to – you can be just like him. Let us e…"
-248,1.241986970382893e+18,2020-03-23 07:15:43+00:00,['1241986970382893058'],"RT @SixesANDwickets: Hey @Channel4 if this tweet gets 20,000 retweets, will you air the full 2005 Ashes Series? https://t.co/M76NLxazIb"
-249,1.241986759048794e+18,2020-03-23 07:14:53+00:00,['1241986759048794117'],"RT @hedinghambuses: If you have a concessionary bus pass, you can now travel on our buses before 9.30am, helping you can get to the superma…"
-250,1.2419862970209812e+18,2020-03-23 07:13:02+00:00,['1241986297020981248'],RT @MattyChibambo: Social distances must be done.  No problem for my sons U9 team mates! Connect the right way in isolation! #LoveTheGame⚽…
-251,1.241686774180655e+18,2020-03-22 11:22:51+00:00,['1241686774180655104'],RT @NEECCG: Get an isolation note from NHS 111 Online - use this service if you have to stay at home because of coronavirus and you need a…
-252,1.2416779596579185e+18,2020-03-22 10:47:49+00:00,['1241677959657918464'],Time triallists when the peloton are told about social distancing... @alexdowsett https://t.co/usQZ217yMR
-253,1.2399528709272044e+18,2020-03-17 16:32:56+00:00,['1239952870927204354'],"RT @livewellLocal: We really like this! If you are self-isolating, creating a routine that prioritises looking after yourself is important…"
-254,1.2381184170828268e+18,2020-03-12 15:03:28+00:00,['1238118417082826754'],RT @Tendring_DC: If you have been in contact with someone with #Coronavirus or have returned from an affected area and you are feeling unwe…
-255,1.237522352654545e+18,2020-03-10 23:34:55+00:00,['1237522352654544898'],@SimonPeach Should have hitchhiked mate 😉 glad you’re ok
-256,1.2375219084567634e+18,2020-03-10 23:33:09+00:00,['1237521908456763392'],"RT @OctopusAhoy: SCHOOLS: Don’t miss out on this great opportunity to get involved with a mass appeal, large-scale public art and charity e…"
-257,1.2366011399337206e+18,2020-03-08 10:34:21+00:00,['1236601139933720577'],"RT @mayflower400uk: On #InternationalWomensDay, we take a closer look at some of the brave women and girls who boarded the #Mayflower some…"
-258,1.2359187139557704e+18,2020-03-06 13:22:38+00:00,['1235918713955770369'],"RT @NEECCG: We've got a job vacancy for a Communications Officer based in Colchester - https://t.co/NJO3Br8Cf0
-
-#StayWellEssex @HWEssex @li…"
-259,1.234889637639938e+18,2020-03-03 17:13:27+00:00,['1234889637639938049'],RT @essexhighways: 🚦Works to install a new toucan crossing on Northern Approach Rd #Colchester starts Monday for approx. 3 weeks. Lane rest…
-260,1.2348746254667817e+18,2020-03-03 16:13:48+00:00,['1234874625466781696'],@AllieHBNews Doesn't the Queen always wear gloves?!
-261,1.2311935874398003e+18,2020-02-22 12:26:40+00:00,['1231193587439800321'],RT @NHSuk: The Government and NHS are well prepared to deal with coronavirus.
-262,1.231193550597034e+18,2020-02-22 12:26:31+00:00,['1231193550597033989'],@stewarthend Just need a pheasant plucker
-263,1.2311867193508946e+18,2020-02-22 11:59:22+00:00,['1231186719350894593'],Officially live in the sticks... a pheasant has appeared outside our house!
-264,1.23052095526665e+18,2020-02-20 15:53:52+00:00,['1230520955266650113'],Nominations are now OPEN for the Tendring Youth Awards! Don't deadline and submit your entry today... but you do have until 24 April to get your nominations in. Visit https://t.co/pjuBz2QyJi for more info and to submit an entry. https://t.co/pN4TDdIvmF
-265,1.2298051528544748e+18,2020-02-18 16:29:31+00:00,['1229805152854474752'],"RT @HarwichStandard: An exciting year for Harwich, it will surely be busy!  https://t.co/jujFRw4miZ"
-266,1.2282765668887798e+18,2020-02-14 11:15:28+00:00,['1228276566888779776'],@riapforsyth @JamesECalnan Not in the Clacton one...
-267,1.2282521780091617e+18,2020-02-14 09:38:33+00:00,['1228252178009161730'],Just to add - respect for @elliot_hawkins for updating the article in light of discussions last night and after having time to reflect on his experiences. Takes a big person to do that and is a move which I am sure will be welcomed by the community and journalists alike. https://t.co/DURykboOKd
-268,1.228095144710353e+18,2020-02-13 23:14:34+00:00,['1228095144710352898'],"@elliot_hawkins ... will leave this for now as it is late, and I am only adding to your frustrating day now - have been there and it’s hard enough to switch off. Hope tomorrow is a better day for you."
-269,1.228094871539458e+18,2020-02-13 23:13:28+00:00,['1228094871539458048'],"@elliot_hawkins ... my guess, and it is purely a guess, is you’ve got to come back with a story. All been there. Disagree that is the way to go about it... could have picked up several news stories in Clacton today really affecting residents’ lives..."
-270,1.228094449156313e+18,2020-02-13 23:11:48+00:00,['1228094449156313088'],"@elliot_hawkins If this was a blog, “day in the life of a journalist” or your own personal piece I would get that. Even a tweet “what I day I had” yes. But a news article? What relevance does your frustrating day have on the angle of the piece, ‘living in streets with cheap houses’? ..."
-271,1.2280927391007375e+18,2020-02-13 23:05:00+00:00,['1228092739100737536'],"@elliot_hawkins Apologies, replied before you finished your thread. Amen to continuing to cover the area."
-272,1.2280924988678226e+18,2020-02-13 23:04:03+00:00,['1228092498867822593'],"@elliot_hawkins (2/2) and on the Clacton thing. Reporting that people didn’t answer the door... what? Shock, people have jobs, or maybe worked night shift, or maybe didn’t feel like answering the door. Journalist shunned doing vox pop... and? Worthy of an article? Blog, maybe..."
-273,1.2280920243285074e+18,2020-02-13 23:02:10+00:00,['1228092024328507393'],@elliot_hawkins Totally understand not feeling comfortable &amp; deciding to leave the area. Sensible decision for your own welfare. Don’t understand writing the whole thing up. Labelling a whole area based on one experience. (1/2)
-274,1.2280847287015547e+18,2020-02-13 22:33:10+00:00,['1228084728701554689'],"@Brad_Gray_ @elliot_hawkins And for anyone who doesn’t think I know the context: Jaywick Sands was my first patch as a junior reporter. I also now have family who live in the Brooklands area. And I know how much is being done by the community, and the authorities, to tackle the recognised challenges there."
-275,1.2280830154290422e+18,2020-02-13 22:26:22+00:00,['1228083015429042177'],"@Brad_Gray_ @elliot_hawkins Of course abuse &amp; threatened/actual violence should not be tolerated, especially against a journalist doing their job, to be clear. I am not condoning the behaviour witnessed. But walk away/report to police, go back to the story/job at hand."
-276,1.2280822011762235e+18,2020-02-13 22:23:08+00:00,['1228082201176223745'],"@Brad_Gray_ @elliot_hawkins Did it though? Contrast with this: https://t.co/HmrjuMCwip
-Same media outlet. Decries ‘dark tourism’ and ‘poor media portrayal’, speaks to multiple sources, comes to a balanced view. Doesn’t base entire article on a single interaction..."
-277,1.2280098535300997e+18,2020-02-13 17:35:39+00:00,['1228009853530099712'],"Ah 5.30pm Feb 13 - cue hoardes of men roaming Tesco wielding cards, flowers and chocolates. Good planning menfolk!
-(Not me. Am buying Scouting snacks.)"
-278,1.2268070765901169e+18,2020-02-10 09:56:14+00:00,['1226807076590116864'],"RT @EnvAgencyAnglia: We have issued a number of flood warnings⚠️
-
-They include the Essex coast from Clacton to and including Lee-over-sands…"
-279,1.2268070358802555e+18,2020-02-10 09:56:04+00:00,['1226807035880255490'],RT @EnvAgency: There are currently some flood warnings in place due to #StormCiara. Please stay safe and avoid driving through flood water.…
-280,1.226804930582864e+18,2020-02-10 09:47:43+00:00,['1226804930582863873'],Attending #EUSSConf20 today in this beautiful building in the heart of London https://t.co/aU9cmpQ4mZ
-281,1.2253296386642166e+18,2020-02-06 08:05:26+00:00,['1225329638664216577'],@VictoriaPolley Me too. Think I had Sims 3; and the Hot Dates expansion pack lol
-282,1.224635162627015e+18,2020-02-04 10:05:50+00:00,['1224635162627014656'],#FireItUp https://t.co/AcrUZp7DQp
-283,1.2242300417830953e+18,2020-02-03 07:16:01+00:00,['1224230041783095296'],"Another year, another Superbowl where I cave for my bed with 10mins to go; another Superbowl where I miss an amazing comeback!"
-284,1.2239802873837568e+18,2020-02-02 14:43:35+00:00,['1223980287383756803'],"Great time at Fingringhoe Wick today with the drop-in bushcraft from @EssexWildlife - I also got half hour in a hide over the lake, loads of ducks including some cheeky little grebe!"
-285,1.2218267333111685e+18,2020-01-27 16:06:08+00:00,['1221826733311168512'],"@JamesDwan @Natures_Voice @RSPBEssex Blimey, where was that!"
-286,1.2204660018396406e+18,2020-01-23 21:59:04+00:00,['1220466001839640578'],RT @VerneLewis: Come and join our award-winning dream team! #SquadGoals
-287,1.217795444971135e+18,2020-01-16 13:07:14+00:00,['1217795444971134976'],RT @mayflower400uk: There'll be eight-legged fun galore in Essex this summer when the Octopus Ahoy! trail takes over Harwich and the surrou…
-288,1.2177367498096558e+18,2020-01-16 09:14:00+00:00,['1217736749809655808'],@DBanksy But *sometimes* there is a nugget of gold in there... https://t.co/OqQKmYeTJl
-289,1.2167649652789002e+18,2020-01-13 16:52:28+00:00,['1216764965278900227'],"RT @Tendring_DC: There's still time to sign up for the Chairman's Quiz Night, taking place on Friday - always a fun evening, in aid of good…"
-290,1.2166487991726612e+18,2020-01-13 09:10:52+00:00,['1216648799172661249'],"@Wildlife1974 @loveessexuk @VeoliaUK @lovecleanstreet @itvcoastcountry @KeepBritainTidy @ExtinctionR Hello - can't be sure from the image but this *may* be our land. Please report it using the online tool here so we can investigate, and if it is our land get it cleared: https://t.co/XY9RRJAfOR thanks ^WL"
-291,1.216350169777787e+18,2020-01-12 13:24:13+00:00,['1216350169777786880'],RT @metofficeEEng: Yellow Warning of Wind affecting England (East of England) https://t.co/tvpkf9j4VB https://t.co/5OCzBQ1IIy
-292,1.2145622828536955e+18,2020-01-07 14:59:48+00:00,['1214562282853695490'],"RT @HistoricHarwich: Get involved in the Octopus trail and send in your artwork by this Friday!
-
-#EssexSunshineCoast #OctopusAhoy"
-293,1.214158422012248e+18,2020-01-06 12:15:00+00:00,['1214158422012248065'],RT @mayflower400uk: The Wampanoag people were the first to meet the Pilgrims who crossed the Atlantic almost 400 years ago. Without the hel…
-294,1.2141570806822134e+18,2020-01-06 12:09:40+00:00,['1214157080682213376'],"RT @mayflower400uk: Home to the Mayflower's captain, Christopher Jones, Harwich plays a hugely important part in the Pilgrims' story. The E…"
-295,1.2093950644237558e+18,2019-12-24 08:47:07+00:00,['1209395064423755777'],"RT @NEECCG: Urgent medical help is available 24/7 by calling NHS 111 or visiting NHS 111 Online https://t.co/TpGm5LqPcE
-
-#StayWellEssex #NE…"
-296,1.2093943580149391e+18,2019-12-24 08:44:19+00:00,['1209394358014939136'],@KatieSkingle @ryanjennings1 @stewarthend Merry Christmas! Am debating Die Hard 2 for the next round of wrapping...
-297,1.2092754580193034e+18,2019-12-24 00:51:51+00:00,['1209275458019303424'],Watching Die Hard &amp; Xmas prep. Everytime a terrorist dies I cross off someone’s wrapping. Yipee-kai ay! I am the John Maclane of wrapping
-298,1.206678666631172e+18,2019-12-16 20:53:07+00:00,['1206678666631172096'],RT @yourcolchester: Next week there will be no recycling and rubbish collections on Christmas or Boxing Day. Collections usually on a Tues…
-299,1.206589439612506e+18,2019-12-16 14:58:34+00:00,['1206589439612506120'],"RT @mayflower400uk: To celebrate Harwich's links to Captain Christopher Jones and the Pilgrims' story, The Pier hotel has unveiled a delici…"
-300,1.2054904188651233e+18,2019-12-13 14:11:27+00:00,['1205490418865123331'],Still time to apply for this role - deadline is Wednesday! https://t.co/T3FeXVuIH2
-301,1.205427427972911e+18,2019-12-13 10:01:09+00:00,['1205427427972911105'],Big thanks to media colleagues @JamesDwan @TeddyDwan @lianabridges @sophhbarnett @Danny_Booty &amp; David for their camaraderie last night at the #Clacton #GE2019 election count
-302,1.2051207878895002e+18,2019-12-12 13:42:40+00:00,['1205120787889500160'],@BBCEssex But puts his hand all over the table...
-303,1.2051099522238917e+18,2019-12-12 12:59:37+00:00,['1205109952223891457'],"@ryanjennings1 Ha ha! Wasn’t in great shape before I left but was no worse off when I returned.
-In better condition than I was that’s for sure! 😝"
-304,1.205075011922473e+18,2019-12-12 10:40:46+00:00,['1205075011922472960'],@Ewanfoz me too! thanks :-)
-305,1.2050670629908193e+18,2019-12-12 10:09:11+00:00,['1205067062990819329'],"I've voted - have you?
-Forgot to take a picture at my polling station - in my defence, my car is out of action so I had to cycle there (and it's been a while since I've been on a bike!)"
-306,1.204863945686827e+18,2019-12-11 20:42:04+00:00,['1204863945686827010'],@IreneKettle @ColonelCamulos What about PFCC elections...
-307,1.204861941145047e+18,2019-12-11 20:34:06+00:00,['1204861941145047041'],"@leonamurray @stewarthend @adamkeating1981 @garethdn @NJN2017 @garethjburton Sssh you’ll make the rest of us look bad!
-Can I come to your count please?"
-308,1.2026069776434176e+18,2019-12-05 15:13:41+00:00,['1202606977643417608'],Looking to gain an apprenticeship and get your first step into communications? Then why not join the team: https://t.co/6oj9OSs9Ah https://t.co/pzEaDyAbLc
-309,1.2018621628530524e+18,2019-12-03 13:54:03+00:00,['1201862162853052417'],RT @ElectoralCommUK: Want to know what to expect and what help is available when you go to vote in your polling station on #GE2019? Read ou…
-310,1.201847634643837e+18,2019-12-03 12:56:20+00:00,['1201847634643836928'],"RT @NCTJ_news: If you're hoping to study journalism at university, it's really important you make an informed choice and choose a course wh…"
-311,1.2014996700291768e+18,2019-12-02 13:53:38+00:00,['1201499670029176832'],@owenjbennett Tis a good song!
-312,1.2006973139136594e+18,2019-11-30 08:45:22+00:00,['1200697313913659395'],Had an incredible time @HistoricHarwich #HarwichIlluminate last night. Particularly loved the #WeareHarwich viddo https://t.co/3mo2UjcXXt
-313,1.1990126991763415e+18,2019-11-25 17:11:18+00:00,['1199012699176341504'],@GordonScammell Well it mostly stuck with me... just the name! I remember all of my Theatre Studies though ;-)
-314,1.1988986473096602e+18,2019-11-25 09:38:06+00:00,['1198898647309660160'],"@calmstresscalm That's not it, but thanks :-)"
-315,1.1987992823563428e+18,2019-11-25 03:03:16+00:00,['1198799282356342784'],"@willows24 No, more modern, but thank you"
-316,1.1986696063129887e+18,2019-11-24 18:27:59+00:00,['1198669606312988672'],RT @intergence: Sunday tech joke: I just got fired from my job at the keyboard factory -They told me I wasn’t putting in enough shifts ⌨️ #…
-317,1.1986690089560187e+18,2019-11-24 18:25:36+00:00,['1198669008956018688'],@mrjonphillips Don’t think so (after a Google) but thanks
-318,1.1986585794541896e+18,2019-11-24 17:44:09+00:00,['1198658579454189568'],"@ryanjennings1 Lol, thanks but no. They weren’t really abstract. Love Picasso though!"
-319,1.198658431156134e+18,2019-11-24 17:43:34+00:00,['1198658431156133888'],"The pictures were given very literal names, eg “Five people walk a dog underneath a moon”.
-#answersonatweet"
-320,1.1986582051125125e+18,2019-11-24 17:42:40+00:00,['1198658205112512514'],"Their pictures started off with one random line, which they then added characters and bits to to make the final image"
-321,1.1986579642797711e+18,2019-11-24 17:41:43+00:00,['1198657964279771136'],Please help me Twitter. In art class many moons ago we learnt about an artist and I can’t remember their name (thread to follow)
-322,1.1982365117470966e+18,2019-11-23 13:47:01+00:00,['1198236511747096581'],@MattMackayDJ @CharlotteGRose Snow White is on @PrincesTheatre this season... that’ll teach you about eating strangers’ apples!
-323,1.1978612579756073e+18,2019-11-22 12:55:53+00:00,['1197861257975607296'],RT @Tendring_DC: Today @rhylmc &amp; @essexwill went on @felixstoweradio to talk to @DungerRob about @HistoricHarwich &amp; #Illuminate Festival ht…
-324,1.1975301873380147e+18,2019-11-21 15:00:20+00:00,['1197530187338014726'],"@JimMFelton Agree with your sentiment, but this is basically a legal requirement. Court reporting must be ""fair, accurate and contemporaneous"". Fair means equally reporting prosecution AND defence (over course of trial). Quotes denotes this is assertion &amp; not presented as fact."
-325,1.1975200815861514e+18,2019-11-21 14:20:10+00:00,['1197520081586151425'],@PcAndyLong @EP_GTRET @EssexPoliceLPSU Did they prefer the swings or the slide?
-326,1.1972192049880517e+18,2019-11-20 18:24:36+00:00,['1197219204988051463'],"@ZoeForsey Colleague, not friend... ever!"
-327,1.1972188526246216e+18,2019-11-20 18:23:12+00:00,['1197218852624621568'],RT @Goubtube: So my video is going viral ahah https://t.co/6FpwbnKCNw
-328,1.1971496761868206e+18,2019-11-20 13:48:19+00:00,['1197149676186820608'],"RT @metoffice: Be #WeatherReady. 
-
-Consider:
- 
-1. Flu jab 
-2. Screen wash / tyres
-3. Backup plans
-4. Heating at 18 C
-5. Pack a grab-bag
-6.…"
-329,1.1968372292278927e+18,2019-11-19 17:06:46+00:00,['1196837229227892743'],"@EADT24 Come on, where are all the puns necessary for a fish story. Battering the opposition, taking first plaice...?!"
-330,1.1964576830852137e+18,2019-11-18 15:58:35+00:00,['1196457683085213696'],@FBerrynews We're going on holiday with them next year - here's hoping we're the 16 millionth passenger and get the same!
-331,1.195052582571577e+18,2019-11-14 18:55:13+00:00,['1195052582571577344'],@paulhunt25 Thanks. It did. Fancy coming back as a leader? We’re close to getting a new Scout hut...!
-332,1.195051491238826e+18,2019-11-14 18:50:53+00:00,['1195051491238825984'],It passed unanimously. Now onto reserved matters application.
-333,1.195036426372551e+18,2019-11-14 17:51:01+00:00,['1195036426372550656'],"Bringing back journo memories tonight: attending @yourcolchester Planning Committee meeting to show support for development in Gt Horkesley which includes plans for a new Scout Hut.
-Even got my pad and pen out... #onceajournoalwaysajourno"
-334,1.1945878344617042e+18,2019-11-13 12:08:28+00:00,['1194587834461704192'],"RT @rugbyworldcup: After a thrilling tournament in Japan, one moment was voted as the @DHLRugby Epic Moment of Rugby World Cup 2019.
-
-It wa…"
-335,1.1935137006674125e+18,2019-11-10 13:00:15+00:00,['1193513700667412480'],#RemembranceDay always poignant but this was the standout moment for me in Clacton https://t.co/6luqWsPd1r
-336,1.192876169550586e+18,2019-11-08 18:46:56+00:00,['1192876169550585857'],Enjoying fireworks at Alderwood Care Home https://t.co/vOJ4XvwcXd
-337,1.1921142798158277e+18,2019-11-06 16:19:27+00:00,['1192114279815827456'],Am @HistoricHarwich this afternoon looking at a variety of @mayflower400uk projects - so exciting! https://t.co/yxXfcu8ckq for all things #Mayflower400 in #Harwich https://t.co/GtrDPCvJz0
-338,1.1874300296612209e+18,2019-10-24 18:05:55+00:00,['1187430029661220864'],@stewarthend @NJN2017 @adamkeating1981 @leonamurray I hadn’t even considered mince pies! #bringiton #anyexcuseformincepies
-339,1.1854971323898511e+18,2019-10-19 10:05:16+00:00,['1185497132389851137'],@stewarthend @patjohn77 @adamkeating1981 A singing competition?
-340,1.1854841178588037e+18,2019-10-19 09:13:33+00:00,['1185484117858803713'],Sweet chariot!
-341,1.1854840600234967e+18,2019-10-19 09:13:19+00:00,['1185484060023496704'],@stewarthend Oh yes!
-342,1.1854412547730145e+18,2019-10-19 06:23:14+00:00,['1185441254773014528'],Swing low...
-343,1.185027329225089e+18,2019-10-18 02:58:26+00:00,['1185027329225089024'],RT @SarahMarshallJP: Was tasked with coming to youth court at Doncaster Magistrates’ Court this morning. Knowing it wouldn’t be straight fo…
-344,1.1848271115231273e+18,2019-10-17 13:42:51+00:00,['1184827111523127296'],@DungerRob Won't you stay another day [week/month/year]?
-345,1.1847877272728207e+18,2019-10-17 11:06:21+00:00,['1184787727272820736'],"RT @TendringCSP: A Hate Incident is when someone targets you because of your race, religion, gender identity, sexual orientation or disabil…"
-346,1.1837225371942666e+18,2019-10-14 12:33:40+00:00,['1183722537194266625'],"RT @essexhighways: Possible thunderstorms anywhere in Essex today 4pm-9pm. Local floods making it dangerous on the roads. Please slow down,…"
-347,1.182566170601427e+18,2019-10-11 07:58:40+00:00,['1182566170601426944'],@CharlotteGRose @EPMarine @aurora_row @CharlotteSulli You two will be presenting your own show soon...!
-348,1.1775480669766124e+18,2019-09-27 11:38:31+00:00,['1177548066976612352'],Supporting @macmillancancer with our #TeaDC cake sale @Tendring_DC #Clacton Town Hall #letuseatcake #macmillancoffeemorning #macmillancancersupport https://t.co/HQIGFpvRge
-349,1.1765991655913267e+18,2019-09-24 20:47:55+00:00,['1176599165591326720'],RT @JonWaldron1: The scene at the JCS after #colu knock Spurs out of the Carabao Cup on penalties https://t.co/Amc94YvwR5
-350,1.1765987374325268e+18,2019-09-24 20:46:13+00:00,['1176598737432526851'],Methinks there may be some sore heads in Colchester tomorrow...! Two Premier League teams in two rounds... wowzer #ColU https://t.co/nyb7CoH2DD
-351,1.1765927815754342e+18,2019-09-24 20:22:33+00:00,['1176592781575434241'],"Well #ColU fans are in full voice tonight, can hear them from my house. Come on the Us!"
-352,1.1760208378765435e+18,2019-09-23 06:29:51+00:00,['1176020837876543489'],"RT @rugbyworldcup: ""Just come here a second.....""
-
-😂😂😂
-
-@GeorgianRugby 
-
-Credit (on Instagram): @levanchilachava @vanokarkadze https://t.co…"
-353,1.174333820054778e+18,2019-09-18 14:46:15+00:00,['1174333820054777856'],Today I have been in London representing @Tendring_DC at #Mayflower400 Compact. Just like the #Mayflower story London brings history with a look to the future https://t.co/rzkebvvP0b
-354,1.1742465360348856e+18,2019-09-18 08:59:25+00:00,['1174246536034885632'],One of the things I love about London is the historic nestled in among the modern https://t.co/ITb5NFoocq
-355,1.173661116179911e+18,2019-09-16 18:13:10+00:00,['1173661116179910658'],"@CharlotteGRose I love heron, one of my favourite birds"
-356,1.1727653878696223e+18,2019-09-14 06:53:52+00:00,['1172765387869622272'],"RT @InspLily: A positive &amp; insightful visit to Jaywick this morning, meeting with Theresa &amp; Jamie. I hope to actively support them &amp; the co…"
-357,1.165520965322924e+18,2019-08-25 07:07:07+00:00,['1165520965322924032'],"@B1Lou @jodiehalford28 @sonwatson @yummybreakfast @BenFryer It made me realise how rare it is (across TV and radio as a whole) because it’s something I immediately noticed. To my mind it is irrelevant the gender, it is all about chemistry between presenters"
-358,1.1655163878985933e+18,2019-08-25 06:48:55+00:00,['1165516387898593281'],"@B1Lou Loved hearing @jodiehalford28 @sonwatson &amp; @yummybreakfast on Friday thought it was a great show.
-(Don’t worry @BenFryer love you too!)"
-359,1.1652696201331917e+18,2019-08-24 14:28:21+00:00,['1165269620133191684'],#Frinton #loveapanoramic #essexsunshinecoast https://t.co/ThQFtrq9RF
-360,1.163018556461736e+18,2019-08-18 09:23:26+00:00,['1163018556461735937'],What a beautiful morning in Jaywick Sands @Tendring_DC https://t.co/zF9jMiYMOM
-361,1.1629908765719634e+18,2019-08-18 07:33:26+00:00,['1162990876571963393'],@CharlotteGRose What does it say?!
-362,1.1623467194698138e+18,2019-08-16 12:53:47+00:00,['1162346719469813762'],@VisitColchester Haha yes poor effort from me. But truly am appreciating yours!
-363,1.1623457096659476e+18,2019-08-16 12:49:47+00:00,['1162345709665947649'],Am loving the #TellAJokeDay thread from @VisitColchester - right up my via https://t.co/9GWyp5zAKZ
-364,1.1620733605888369e+18,2019-08-15 18:47:34+00:00,['1162073360588836865'],⁦⁦@BBCNews⁩ think you have the wrong tweet embedded in this news story... https://t.co/8cU17DUg6H
-365,1.1600807582849352e+18,2019-08-10 06:49:40+00:00,['1160080758284935168'],@CharlotteGRose #parklife
-366,1.159881533618053e+18,2019-08-09 17:38:01+00:00,['1159881533618053123'],@mattyhudson Congrats!
-367,1.1557919785688556e+18,2019-07-29 10:47:35+00:00,['1155791978568855552'],Beautiful #Brightlingsea - crabbing with the Scouts then @BrightLido later https://t.co/aEjDlYxnxW
-368,1.1557128082410742e+18,2019-07-29 05:33:00+00:00,['1155712808241074177'],Want to keep your vote for future elections? Check out the household elector form when it drops on your doormat soon - you can use the details on the form and complete by text if there is no change. https://t.co/yBnTrU3Cv8
-369,1.1536580458949714e+18,2019-07-23 13:28:06+00:00,['1153658045894971394'],One of the reasons I love my job.... occasionally I get to go to the seafront and enjoy these views. Just wish I was in shorts! @LoveClacton https://t.co/2w5okAfWid
-370,1.15301362828041e+18,2019-07-21 18:47:25+00:00,['1153013628280410114'],"RT @nedboulting: This is brilliant 
-
-Dutch TV have made a short film about the TDF crew whose job it is to spot painted genitalia on the ro…"
-371,1.152542224611238e+18,2019-07-20 11:34:14+00:00,['1152542224611237889'],"RT @BJH251: Always here for people who need the police, but never ceases to amaze me about some of the bizarre calls ⁦@EssexPoliceUK⁩ take…"
-372,1.1524760494789592e+18,2019-07-20 07:11:16+00:00,['1152476049478959109'],@sadienine @BBCEssex @IanWyattEssex Ouch! Get well soon
-373,1.150717468593328e+18,2019-07-15 10:43:18+00:00,['1150717468593328129'],"Joys of home working again - another new visitor to our bird feeder, this time a wren! @RSPBEssex https://t.co/axtxLmRAUY"
-374,1.150323127995568e+18,2019-07-14 08:36:20+00:00,['1150323127995568128'],"RT @mayflower400uk: Do you know the seaside town where the Mayflower's Captain is from? ⚓️
-
-A new sculpture has been installed to honour th…"
-375,1.1503228345116632e+18,2019-07-14 08:35:10+00:00,['1150322834511663104'],"RT @lornak19: A very important storyline now being explored on  @bbceastenders , #chantelle #gray - if you need support because you are exp…"
-376,1.1503227578817946e+18,2019-07-14 08:34:52+00:00,['1150322757881794561'],Terrible picture snapped quickly on my phone - but latest addition to our feeder birds: hellp starling! @RSPBEssex https://t.co/dYpVl2O3sf
-377,1.1488309668546684e+18,2019-07-10 05:47:01+00:00,['1148830966854668288'],"RT @alexdowsett: Talked today for a long time about Haemophilia, being a pro athlete with Haemophilia, how I manage it and of course little…"
-378,1.1488304049479762e+18,2019-07-10 05:44:47+00:00,['1148830404947976193'],RT @EssexPoliceUK: Today #WeRemember PC Ian Dibell GM who was killed while off-duty in 2012. Ian was shot near his home after trying to sto…
-379,1.1486482191922996e+18,2019-07-09 17:40:50+00:00,['1148648219192299520'],RT @Tendring_DC: Did you know: you can put out your recycling in any appropriate plastic container for collection? Read more here: https://…
-380,1.1483325528533647e+18,2019-07-08 20:46:30+00:00,['1148332552853364739'],RT @Tendring_DC: Wow - what a busy day we had today as this beautiful Mayflower sculpture was installed on a roundabout near Harwich! Watch…
-381,1.1454285026337464e+18,2019-06-30 20:26:50+00:00,['1145428502633746434'],"@jon_manning Alas no, but I wasn’t last which is good enough for me!"
-382,1.1450627722433864e+18,2019-06-29 20:13:33+00:00,['1145062772243386373'],"Today I have discovered Peach Coke - where has this been all my life! #notpaidfor #genuineopinion
-(Also discovered sunburn after Sports Day yesterday - not so good!)"
-383,1.1425627548862874e+18,2019-06-22 22:39:23+00:00,['1142562754886287365'],What a wonderful evening seeing @billyjoel perform @wembleystadium - different playlist to past few years and some of our absolute favourites! Thankyou! https://t.co/HVyvWRibTi
-384,1.1391766592136068e+18,2019-06-13 14:24:15+00:00,['1139176659213606913'],"RT @Tendring_DC: Wow! The judges in the Tendring Youth Awards, which we support, had more than 100 nominations to choose from... well done…"
-385,1.1377781306330112e+18,2019-06-09 17:46:59+00:00,['1137778130633011200'],RT @metofficeEEng: Yellow Warning of Rain affecting England (East of England) https://t.co/vuVVPvlEev https://t.co/1k3OFV8Yjf
-386,1.1365702622316668e+18,2019-06-06 09:47:21+00:00,['1136570262231666688'],Benefits of working from home - finally seen &amp; got picture of elusive goldfinch spotted by my mum and daughter twice already! https://t.co/pE26kw9i3A
-387,1.1361710223303434e+18,2019-06-05 07:20:55+00:00,['1136171022330343426'],"@danslee Mercury, May, Taylor, Deacon..."
-388,1.1344243386382132e+18,2019-05-31 11:40:13+00:00,['1134424338638213121'],RT @danslee: Fascinating... https://t.co/2u15F9C4YD
-389,1.13442278518127e+18,2019-05-31 11:34:03+00:00,['1134422785181270016'],@ColonelCamulos I always have background music on (sometimes quietly to help me think) but don’t think you’re strange for having silence...
-390,1.134422183453909e+18,2019-05-31 11:31:39+00:00,['1134422183453908994'],Had the delight of seeing a Red Kite over my village earlier this week. Must have known I didn’t have binos with me as swooped low so I could get a close look. Also saw a buzzard :-)
-391,1.1336948403346392e+18,2019-05-29 11:21:27+00:00,['1133694840334639104'],"It’s SHOWTIME! Looking forward to seeing Colchester Gangshow tonight - it’s not too late for you to buy tickets too, on the door! @Colchesterviews https://t.co/sSsTxagF6R"
-392,1.1334417810419057e+18,2019-05-28 18:35:53+00:00,['1133441781041905670'],RT @ClactonAirshow: Enter this fantastic competition now for a chance to have your design on the cover of Clacton Airshow 2019 programme!ht…
-393,1.1334405903251456e+18,2019-05-28 18:31:09+00:00,['1133440590325145601'],Currently helping to judge the Tendring Youth Awards - so many inspiring young people (&amp; adults supporting them) and it is very difficult to choose! https://t.co/vN1RsypeJO
-394,1.1326128383489844e+18,2019-05-26 11:41:58+00:00,['1132612838348984320'],@stewarthend @ryanjennings1 Not watched it yet but I was filmed with computer action shots. Obviously they thought my face would compel viewers to keep watching!
-395,1.1323712940440044e+18,2019-05-25 19:42:09+00:00,['1132371294044004352'],@rubixcolchester checking out the newest bar in Colchester... seems good so far! https://t.co/CdrKlbc7vZ
-396,1.1310901611173436e+18,2019-05-22 06:51:23+00:00,['1131090161117343745'],A big thanks to @TheGazette for featuring one of our lovely Colchester Gang Show members in the Curtain Call today. Check it out - and buy your show tickets! https://t.co/NuYt4mvZt2
-397,1.1308676399145164e+18,2019-05-21 16:07:10+00:00,['1130867639914516481'],@BBCEssex @ClactonGazette @HarwichStandard https://t.co/9CqMA3mfRm
-398,1.1303505901339772e+18,2019-05-20 05:52:36+00:00,['1130350590133977088'],@ryanjennings1 @Colchesterviews Building - no clue. But I’ll help you break it in...
-399,1.1280137360343612e+18,2019-05-13 19:06:46+00:00,['1128013736034361345'],A big thankyou @BBCEssex &amp; @DaveMonkEssex for having me on this evening to talk about the Tendring Youth Awards. Find out more and make your nomination at https://t.co/pjuBz2QyJi https://t.co/giEXNdInka
-400,1.1279708324693852e+18,2019-05-13 16:16:17+00:00,['1127970832469385216'],RT @Tendring_DC: There's not long to go until nominations close for the Tendring Youth Awards - have you made your nomination? @harwichhave…
-401,1.1273395990119055e+18,2019-05-11 22:28:00+00:00,['1127339599011905539'],As featured on @BBCEssex &amp; @TheGazette Colchester Gang Show returns soon - have you bought your tickets yet? @Colchesterviews @UKScouting @Girlguiding @essexscouts @EssexNetwork https://t.co/wYj0ZfWybE
-402,1.1257629592701912e+18,2019-05-07 14:02:59+00:00,['1125762959270191105'],Reminding myself of how the voting system works for European elections - am now a bit gutted I can't vote for my favourite sweet/chocolate! https://t.co/SnqB2GmTvC
-403,1.124149860398248e+18,2019-05-03 03:13:07+00:00,['1124149860398247941'],@stewarthend Very kind but we’re good thanks. Have walkie talkies and everything...
-404,1.124148520326443e+18,2019-05-03 03:07:47+00:00,['1124148520326443009'],@stewarthend Was? Still in it mate! 18 of 46 seats done. None of this thirds malarkey!
-405,1.1238433417775392e+18,2019-05-02 06:55:07+00:00,['1123843341777539073'],No #dogsatpollingstations for me today - though a pooch and owner were heading in that direction as I left @yourcolchester https://t.co/OfLpj0HVjy
-406,1.1223763096262902e+18,2019-04-28 05:45:39+00:00,['1122376309626290176'],Huge thanks to @ColU_Official for promoting #Colchester Gang Show in today’s match programme. And what a cracking result too eh?! https://t.co/TajKjnK3UY
-407,1.1216952994315552e+18,2019-04-26 08:39:34+00:00,['1121695299431555073'],"Just had cause to ring the @yourcolchester elections hotline to check something. Very polite, professional and quick service from the team :-)"
-408,1.1214582157058172e+18,2019-04-25 16:57:28+00:00,['1121458215705817089'],RT @NEECCG: Prolonged periods of stress can have a negative impact on our mental health. Don’t suffer in silence and get help now. Visit @m…
-409,1.1200746073844982e+18,2019-04-21 21:19:31+00:00,['1120074607384498177'],"RT @Matt_Leat: ⚠️If you find yourself or see others in difficulty on/near cliffs, beaches, coastal rivers or at sea, do not delay by asking…"
-410,1.119959561086165e+18,2019-04-21 13:42:21+00:00,['1119959561086164992'],Watching a movie taking a break from the sun in middle of the day. Daughter (4-&amp;-a-half) for 1st time cries and properly follows the plot - Stuart Little is a winner then!
-411,1.118790032775635e+18,2019-04-18 08:15:04+00:00,['1118790032775634944'],"Big thanks to @TonyFisherLive &amp; @BBCEssex for having Colchester Gang Show on Monday’s show. Listen again here (about 3’16” in): https://t.co/p3GAPDXS1W 
+https://t.co/14xDqP0lAh",load youtube,False
+1.2508850613119754e+18,2020-04-16 20:33:33+00:00,['1250885061311975424'],@VicLTucks Ska versions are incredible!,ska version incredible,True
+1.24758686891033e+18,2020-04-07 18:07:43+00:00,['1247586868910329862'],"Help me please Twitter. Anyone tell me the title of series of books about Einstein/physics. Is fiction, a child goes into like a miniature universe &amp; observes ant people learning eg drive car and they’re all shocked when car turns up behind them (teaching world is round)? Anyone?",help please twitter anyone tell title series book einsteinphysics fiction child like miniature universe amp observes ant people learning drive car theyre shocked car turn behind teaching world round anyone,False
+1.2475434726781092e+18,2020-04-07 15:15:16+00:00,['1247543472678109184'],@EssexCanning Good luck mate,good luck mate,True
+1.2467492034072658e+18,2020-04-05 10:39:08+00:00,['1246749203407265792'],#StayHomeSaveLives #sunsoutgunsout https://t.co/7dzL1UOq6x,,
+1.2460456477462733e+18,2020-04-03 12:03:27+00:00,['1246045647746273280'],@HarwichStandard @rhylmc,,
+1.2416779596579185e+18,2020-03-22 10:47:49+00:00,['1241677959657918464'],Time triallists when the peloton are told about social distancing... @alexdowsett https://t.co/usQZ217yMR,time triallists peloton told social distancing,False
+1.237522352654545e+18,2020-03-10 23:34:55+00:00,['1237522352654544898'],@SimonPeach Should have hitchhiked mate 😉 glad you’re ok,hitchhiked mate glad youre,False
+1.2348746254667817e+18,2020-03-03 16:13:48+00:00,['1234874625466781696'],@AllieHBNews Doesn't the Queen always wear gloves?!,queen always wear glove,False
+1.231193550597034e+18,2020-02-22 12:26:31+00:00,['1231193550597033989'],@stewarthend Just need a pheasant plucker,need pheasant plucker,False
+1.2311867193508946e+18,2020-02-22 11:59:22+00:00,['1231186719350894593'],Officially live in the sticks... a pheasant has appeared outside our house!,officially live stick pheasant appeared outside house,False
+1.23052095526665e+18,2020-02-20 15:53:52+00:00,['1230520955266650113'],Nominations are now OPEN for the Tendring Youth Awards! Don't deadline and submit your entry today... but you do have until 24 April to get your nominations in. Visit https://t.co/pjuBz2QyJi for more info and to submit an entry. https://t.co/pN4TDdIvmF,nomination open tendring youth award deadline submit entry today april get nomination visit info submit entry,False
+1.2282765668887798e+18,2020-02-14 11:15:28+00:00,['1228276566888779776'],@riapforsyth @JamesECalnan Not in the Clacton one...,clacton one,False
+1.2282521780091617e+18,2020-02-14 09:38:33+00:00,['1228252178009161730'],Just to add - respect for @elliot_hawkins for updating the article in light of discussions last night and after having time to reflect on his experiences. Takes a big person to do that and is a move which I am sure will be welcomed by the community and journalists alike. https://t.co/DURykboOKd,add respect updating article light discussion last night time reflect experience take big person move sure welcomed community journalist alike,False
+1.228095144710353e+18,2020-02-13 23:14:34+00:00,['1228095144710352898'],"@elliot_hawkins ... will leave this for now as it is late, and I am only adding to your frustrating day now - have been there and it’s hard enough to switch off. Hope tomorrow is a better day for you.",leave late adding frustrating day hard enough switch hope tomorrow better day,False
+1.228094871539458e+18,2020-02-13 23:13:28+00:00,['1228094871539458048'],"@elliot_hawkins ... my guess, and it is purely a guess, is you’ve got to come back with a story. All been there. Disagree that is the way to go about it... could have picked up several news stories in Clacton today really affecting residents’ lives...",guess purely guess youve got come back story disagree way could picked several news story clacton today really affecting resident life,False
+1.228094449156313e+18,2020-02-13 23:11:48+00:00,['1228094449156313088'],"@elliot_hawkins If this was a blog, “day in the life of a journalist” or your own personal piece I would get that. Even a tweet “what I day I had” yes. But a news article? What relevance does your frustrating day have on the angle of the piece, ‘living in streets with cheap houses’? ...",blog day life journalist personal piece would get even tweet day yes news article relevance doe frustrating day angle piece living street cheap house,False
+1.2280927391007375e+18,2020-02-13 23:05:00+00:00,['1228092739100737536'],"@elliot_hawkins Apologies, replied before you finished your thread. Amen to continuing to cover the area.",apology replied finished thread amen continuing cover area,False
+1.2280924988678226e+18,2020-02-13 23:04:03+00:00,['1228092498867822593'],"@elliot_hawkins (2/2) and on the Clacton thing. Reporting that people didn’t answer the door... what? Shock, people have jobs, or maybe worked night shift, or maybe didn’t feel like answering the door. Journalist shunned doing vox pop... and? Worthy of an article? Blog, maybe...",clacton thing reporting people didnt answer door shock people job maybe worked night shift maybe didnt feel like answering door journalist shunned vox pop worthy article blog maybe,False
+1.2280920243285074e+18,2020-02-13 23:02:10+00:00,['1228092024328507393'],@elliot_hawkins Totally understand not feeling comfortable &amp; deciding to leave the area. Sensible decision for your own welfare. Don’t understand writing the whole thing up. Labelling a whole area based on one experience. (1/2),totally understand feeling comfortable amp deciding leave area sensible decision welfare dont understand writing whole thing labelling whole area based one experience,False
+1.2280847287015547e+18,2020-02-13 22:33:10+00:00,['1228084728701554689'],"@Brad_Gray_ @elliot_hawkins And for anyone who doesn’t think I know the context: Jaywick Sands was my first patch as a junior reporter. I also now have family who live in the Brooklands area. And I know how much is being done by the community, and the authorities, to tackle the recognised challenges there.",anyone doesnt think know context jaywick sand first patch junior reporter also family live brooklands area know much done community authority tackle recognised challenge,False
+1.2280830154290422e+18,2020-02-13 22:26:22+00:00,['1228083015429042177'],"@Brad_Gray_ @elliot_hawkins Of course abuse &amp; threatened/actual violence should not be tolerated, especially against a journalist doing their job, to be clear. I am not condoning the behaviour witnessed. But walk away/report to police, go back to the story/job at hand.",course abuse amp threatenedactual violence tolerated especially journalist job clear condoning behaviour witnessed walk awayreport police back storyjob hand,False
+1.2280822011762235e+18,2020-02-13 22:23:08+00:00,['1228082201176223745'],"@Brad_Gray_ @elliot_hawkins Did it though? Contrast with this: https://t.co/HmrjuMCwip
+Same media outlet. Decries ‘dark tourism’ and ‘poor media portrayal’, speaks to multiple sources, comes to a balanced view. Doesn’t base entire article on a single interaction...",though contrast medium outlet decries dark tourism poor medium portrayal speaks multiple source come balanced view doesnt base entire article single interaction,False
+1.2280098535300997e+18,2020-02-13 17:35:39+00:00,['1228009853530099712'],"Ah 5.30pm Feb 13 - cue hoardes of men roaming Tesco wielding cards, flowers and chocolates. Good planning menfolk!
+(Not me. Am buying Scouting snacks.)",feb cue hoardes men roaming tesco wielding card flower chocolate good planning menfolk buying scouting snack,False
+1.226804930582864e+18,2020-02-10 09:47:43+00:00,['1226804930582863873'],Attending #EUSSConf20 today in this beautiful building in the heart of London https://t.co/aU9cmpQ4mZ,attending today beautiful building heart london,False
+1.2253296386642166e+18,2020-02-06 08:05:26+00:00,['1225329638664216577'],@VictoriaPolley Me too. Think I had Sims 3; and the Hot Dates expansion pack lol,think sims hot date expansion pack lol,False
+1.224635162627015e+18,2020-02-04 10:05:50+00:00,['1224635162627014656'],#FireItUp https://t.co/AcrUZp7DQp,,
+1.2242300417830953e+18,2020-02-03 07:16:01+00:00,['1224230041783095296'],"Another year, another Superbowl where I cave for my bed with 10mins to go; another Superbowl where I miss an amazing comeback!",another year another superbowl cave bed min another superbowl miss amazing comeback,False
+1.2239802873837568e+18,2020-02-02 14:43:35+00:00,['1223980287383756803'],"Great time at Fingringhoe Wick today with the drop-in bushcraft from @EssexWildlife - I also got half hour in a hide over the lake, loads of ducks including some cheeky little grebe!",great time fingringhoe wick today dropin bushcraft also got half hour hide lake load duck including cheeky little grebe,False
+1.2218267333111685e+18,2020-01-27 16:06:08+00:00,['1221826733311168512'],"@JamesDwan @Natures_Voice @RSPBEssex Blimey, where was that!",blimey,False
+1.2177367498096558e+18,2020-01-16 09:14:00+00:00,['1217736749809655808'],@DBanksy But *sometimes* there is a nugget of gold in there... https://t.co/OqQKmYeTJl,sometimes nugget gold,False
+1.2166487991726612e+18,2020-01-13 09:10:52+00:00,['1216648799172661249'],"@Wildlife1974 @loveessexuk @VeoliaUK @lovecleanstreet @itvcoastcountry @KeepBritainTidy @ExtinctionR Hello - can't be sure from the image but this *may* be our land. Please report it using the online tool here so we can investigate, and if it is our land get it cleared: https://t.co/XY9RRJAfOR thanks ^WL",hello can't sure image may land please report using online tool investigate land get cleared thanks,False
+1.2093943580149391e+18,2019-12-24 08:44:19+00:00,['1209394358014939136'],@KatieSkingle @ryanjennings1 @stewarthend Merry Christmas! Am debating Die Hard 2 for the next round of wrapping...,merry christmas debating die hard next round wrapping,False
+1.2092754580193034e+18,2019-12-24 00:51:51+00:00,['1209275458019303424'],Watching Die Hard &amp; Xmas prep. Everytime a terrorist dies I cross off someone’s wrapping. Yipee-kai ay! I am the John Maclane of wrapping,watching die hard amp xmas prep everytime terrorist cross someone wrapping yipeekai john maclane wrapping,False
+1.2054904188651233e+18,2019-12-13 14:11:27+00:00,['1205490418865123331'],Still time to apply for this role - deadline is Wednesday! https://t.co/T3FeXVuIH2,still time apply role deadline wednesday,False
+1.205427427972911e+18,2019-12-13 10:01:09+00:00,['1205427427972911105'],Big thanks to media colleagues @JamesDwan @TeddyDwan @lianabridges @sophhbarnett @Danny_Booty &amp; David for their camaraderie last night at the #Clacton #GE2019 election count,big thanks medium colleague amp david camaraderie last night election count,False
+1.2051207878895002e+18,2019-12-12 13:42:40+00:00,['1205120787889500160'],@BBCEssex But puts his hand all over the table...,put hand table,False
+1.2051099522238917e+18,2019-12-12 12:59:37+00:00,['1205109952223891457'],"@ryanjennings1 Ha ha! Wasn’t in great shape before I left but was no worse off when I returned.
+In better condition than I was that’s for sure! 😝",wasnt great shape left worse returned better condition thats sure,False
+1.205075011922473e+18,2019-12-12 10:40:46+00:00,['1205075011922472960'],@Ewanfoz me too! thanks :-),thanks,False
+1.2050670629908193e+18,2019-12-12 10:09:11+00:00,['1205067062990819329'],"I've voted - have you?
+Forgot to take a picture at my polling station - in my defence, my car is out of action so I had to cycle there (and it's been a while since I've been on a bike!)",i've voted forgot take picture polling station defence car action cycle since i've bike,False
+1.204863945686827e+18,2019-12-11 20:42:04+00:00,['1204863945686827010'],@IreneKettle @ColonelCamulos What about PFCC elections...,pfcc election,False
+1.204861941145047e+18,2019-12-11 20:34:06+00:00,['1204861941145047041'],"@leonamurray @stewarthend @adamkeating1981 @garethdn @NJN2017 @garethjburton Sssh you’ll make the rest of us look bad!
+Can I come to your count please?",sssh youll make rest look bad come count please,False
+1.2026069776434176e+18,2019-12-05 15:13:41+00:00,['1202606977643417608'],Looking to gain an apprenticeship and get your first step into communications? Then why not join the team: https://t.co/6oj9OSs9Ah https://t.co/pzEaDyAbLc,looking gain apprenticeship get first step communication join team,False
+1.2014996700291768e+18,2019-12-02 13:53:38+00:00,['1201499670029176832'],@owenjbennett Tis a good song!,good song,False
+1.2006973139136594e+18,2019-11-30 08:45:22+00:00,['1200697313913659395'],Had an incredible time @HistoricHarwich #HarwichIlluminate last night. Particularly loved the #WeareHarwich viddo https://t.co/3mo2UjcXXt,incredible time last night particularly loved viddo,False
+1.1990126991763415e+18,2019-11-25 17:11:18+00:00,['1199012699176341504'],@GordonScammell Well it mostly stuck with me... just the name! I remember all of my Theatre Studies though ;-),well mostly stuck name remember theatre study though,False
+1.1988986473096602e+18,2019-11-25 09:38:06+00:00,['1198898647309660160'],"@calmstresscalm That's not it, but thanks :-)",that's thanks,False
+1.1987992823563428e+18,2019-11-25 03:03:16+00:00,['1198799282356342784'],"@willows24 No, more modern, but thank you",modern thank,False
+1.1986690089560187e+18,2019-11-24 18:25:36+00:00,['1198669008956018688'],@mrjonphillips Don’t think so (after a Google) but thanks,dont think google thanks,False
+1.1986585794541896e+18,2019-11-24 17:44:09+00:00,['1198658579454189568'],"@ryanjennings1 Lol, thanks but no. They weren’t really abstract. Love Picasso though!",lol thanks werent really abstract love picasso though,False
+1.198658431156134e+18,2019-11-24 17:43:34+00:00,['1198658431156133888'],"The pictures were given very literal names, eg “Five people walk a dog underneath a moon”.
+#answersonatweet",picture given literal name five people walk dog underneath moon,False
+1.1986582051125125e+18,2019-11-24 17:42:40+00:00,['1198658205112512514'],"Their pictures started off with one random line, which they then added characters and bits to to make the final image",picture started one random line added character bit make final image,False
+1.1986579642797711e+18,2019-11-24 17:41:43+00:00,['1198657964279771136'],Please help me Twitter. In art class many moons ago we learnt about an artist and I can’t remember their name (thread to follow),please help twitter art class many moon ago learnt artist cant remember name thread follow,False
+1.1982365117470966e+18,2019-11-23 13:47:01+00:00,['1198236511747096581'],@MattMackayDJ @CharlotteGRose Snow White is on @PrincesTheatre this season... that’ll teach you about eating strangers’ apples!,snow white season thatll teach eating stranger apple,False
+1.1975301873380147e+18,2019-11-21 15:00:20+00:00,['1197530187338014726'],"@JimMFelton Agree with your sentiment, but this is basically a legal requirement. Court reporting must be ""fair, accurate and contemporaneous"". Fair means equally reporting prosecution AND defence (over course of trial). Quotes denotes this is assertion &amp; not presented as fact.",agree sentiment basically legal requirement court reporting must fair accurate contemporaneous fair mean equally reporting prosecution defence course trial quote denotes assertion amp presented fact,False
+1.1975200815861514e+18,2019-11-21 14:20:10+00:00,['1197520081586151425'],@PcAndyLong @EP_GTRET @EssexPoliceLPSU Did they prefer the swings or the slide?,prefer swing slide,False
+1.1972192049880517e+18,2019-11-20 18:24:36+00:00,['1197219204988051463'],"@ZoeForsey Colleague, not friend... ever!",colleague friend ever,False
+1.1968372292278927e+18,2019-11-19 17:06:46+00:00,['1196837229227892743'],"@EADT24 Come on, where are all the puns necessary for a fish story. Battering the opposition, taking first plaice...?!",come pun necessary fish story battering opposition taking first plaice,False
+1.1964576830852137e+18,2019-11-18 15:58:35+00:00,['1196457683085213696'],@FBerrynews We're going on holiday with them next year - here's hoping we're the 16 millionth passenger and get the same!,we're going holiday next year here's hoping we're millionth passenger get,False
+1.195052582571577e+18,2019-11-14 18:55:13+00:00,['1195052582571577344'],@paulhunt25 Thanks. It did. Fancy coming back as a leader? We’re close to getting a new Scout hut...!,thanks fancy coming back leader close getting new scout hut,False
+1.195051491238826e+18,2019-11-14 18:50:53+00:00,['1195051491238825984'],It passed unanimously. Now onto reserved matters application.,passed unanimously onto reserved matter application,False
+1.195036426372551e+18,2019-11-14 17:51:01+00:00,['1195036426372550656'],"Bringing back journo memories tonight: attending @yourcolchester Planning Committee meeting to show support for development in Gt Horkesley which includes plans for a new Scout Hut.
+Even got my pad and pen out... #onceajournoalwaysajourno",bringing back journo memory tonight attending planning committee meeting show support development horkesley includes plan new scout hut even got pad pen,False
+1.1935137006674125e+18,2019-11-10 13:00:15+00:00,['1193513700667412480'],#RemembranceDay always poignant but this was the standout moment for me in Clacton https://t.co/6luqWsPd1r,always poignant standout moment clacton,False
+1.192876169550586e+18,2019-11-08 18:46:56+00:00,['1192876169550585857'],Enjoying fireworks at Alderwood Care Home https://t.co/vOJ4XvwcXd,enjoying firework alderwood care home,False
+1.1921142798158277e+18,2019-11-06 16:19:27+00:00,['1192114279815827456'],Am @HistoricHarwich this afternoon looking at a variety of @mayflower400uk projects - so exciting! https://t.co/yxXfcu8ckq for all things #Mayflower400 in #Harwich https://t.co/GtrDPCvJz0,afternoon looking variety project exciting thing,False
+1.1874300296612209e+18,2019-10-24 18:05:55+00:00,['1187430029661220864'],@stewarthend @NJN2017 @adamkeating1981 @leonamurray I hadn’t even considered mince pies! #bringiton #anyexcuseformincepies,hadnt even considered mince pie,False
+1.1854971323898511e+18,2019-10-19 10:05:16+00:00,['1185497132389851137'],@stewarthend @patjohn77 @adamkeating1981 A singing competition?,singing competition,False
+1.1854841178588037e+18,2019-10-19 09:13:33+00:00,['1185484117858803713'],Sweet chariot!,sweet chariot,True
+1.1854840600234967e+18,2019-10-19 09:13:19+00:00,['1185484060023496704'],@stewarthend Oh yes!,yes,True
+1.1854412547730145e+18,2019-10-19 06:23:14+00:00,['1185441254773014528'],Swing low...,swing low,False
+1.1848271115231273e+18,2019-10-17 13:42:51+00:00,['1184827111523127296'],@DungerRob Won't you stay another day [week/month/year]?,stay another day weekmonthyear,False
+1.182566170601427e+18,2019-10-11 07:58:40+00:00,['1182566170601426944'],@CharlotteGRose @EPMarine @aurora_row @CharlotteSulli You two will be presenting your own show soon...!,two presenting show soon,False
+1.1775480669766124e+18,2019-09-27 11:38:31+00:00,['1177548066976612352'],Supporting @macmillancancer with our #TeaDC cake sale @Tendring_DC #Clacton Town Hall #letuseatcake #macmillancoffeemorning #macmillancancersupport https://t.co/HQIGFpvRge,supporting cake sale town hall,False
+1.1765987374325268e+18,2019-09-24 20:46:13+00:00,['1176598737432526851'],Methinks there may be some sore heads in Colchester tomorrow...! Two Premier League teams in two rounds... wowzer #ColU https://t.co/nyb7CoH2DD,methinks may sore head colchester tomorrow two premier league team two round wowzer,False
+1.1765927815754342e+18,2019-09-24 20:22:33+00:00,['1176592781575434241'],"Well #ColU fans are in full voice tonight, can hear them from my house. Come on the Us!",well fan full voice tonight hear house come,False
+1.174333820054778e+18,2019-09-18 14:46:15+00:00,['1174333820054777856'],Today I have been in London representing @Tendring_DC at #Mayflower400 Compact. Just like the #Mayflower story London brings history with a look to the future https://t.co/rzkebvvP0b,today london representing compact like story london brings history look future,False
+1.1742465360348856e+18,2019-09-18 08:59:25+00:00,['1174246536034885632'],One of the things I love about London is the historic nestled in among the modern https://t.co/ITb5NFoocq,one thing love london historic nestled among modern,False
+1.173661116179911e+18,2019-09-16 18:13:10+00:00,['1173661116179910658'],"@CharlotteGRose I love heron, one of my favourite birds",love heron one favourite bird,False
+1.165520965322924e+18,2019-08-25 07:07:07+00:00,['1165520965322924032'],"@B1Lou @jodiehalford28 @sonwatson @yummybreakfast @BenFryer It made me realise how rare it is (across TV and radio as a whole) because it’s something I immediately noticed. To my mind it is irrelevant the gender, it is all about chemistry between presenters",made realise rare across radio whole something immediately noticed mind irrelevant gender chemistry presenter,False
+1.1655163878985933e+18,2019-08-25 06:48:55+00:00,['1165516387898593281'],"@B1Lou Loved hearing @jodiehalford28 @sonwatson &amp; @yummybreakfast on Friday thought it was a great show.
+(Don’t worry @BenFryer love you too!)",loved hearing amp friday thought great show dont worry love,False
+1.1652696201331917e+18,2019-08-24 14:28:21+00:00,['1165269620133191684'],#Frinton #loveapanoramic #essexsunshinecoast https://t.co/ThQFtrq9RF,,
+1.163018556461736e+18,2019-08-18 09:23:26+00:00,['1163018556461735937'],What a beautiful morning in Jaywick Sands @Tendring_DC https://t.co/zF9jMiYMOM,beautiful morning jaywick sand,False
+1.1629908765719634e+18,2019-08-18 07:33:26+00:00,['1162990876571963393'],@CharlotteGRose What does it say?!,doe say,False
+1.1623467194698138e+18,2019-08-16 12:53:47+00:00,['1162346719469813762'],@VisitColchester Haha yes poor effort from me. But truly am appreciating yours!,haha yes poor effort truly appreciating,False
+1.1623457096659476e+18,2019-08-16 12:49:47+00:00,['1162345709665947649'],Am loving the #TellAJokeDay thread from @VisitColchester - right up my via https://t.co/9GWyp5zAKZ,loving thread right via,False
+1.1620733605888369e+18,2019-08-15 18:47:34+00:00,['1162073360588836865'],⁦⁦@BBCNews⁩ think you have the wrong tweet embedded in this news story... https://t.co/8cU17DUg6H,think wrong tweet embedded news story,False
+1.1600807582849352e+18,2019-08-10 06:49:40+00:00,['1160080758284935168'],@CharlotteGRose #parklife,,
+1.159881533618053e+18,2019-08-09 17:38:01+00:00,['1159881533618053123'],@mattyhudson Congrats!,congrats,True
+1.1557919785688556e+18,2019-07-29 10:47:35+00:00,['1155791978568855552'],Beautiful #Brightlingsea - crabbing with the Scouts then @BrightLido later https://t.co/aEjDlYxnxW,beautiful crabbing scout later,False
+1.1557128082410742e+18,2019-07-29 05:33:00+00:00,['1155712808241074177'],Want to keep your vote for future elections? Check out the household elector form when it drops on your doormat soon - you can use the details on the form and complete by text if there is no change. https://t.co/yBnTrU3Cv8,want keep vote future election check household elector form drop doormat soon use detail form complete text change,False
+1.1536580458949714e+18,2019-07-23 13:28:06+00:00,['1153658045894971394'],One of the reasons I love my job.... occasionally I get to go to the seafront and enjoy these views. Just wish I was in shorts! @LoveClacton https://t.co/2w5okAfWid,one reason love job occasionally get seafront enjoy view wish short,False
+1.1524760494789592e+18,2019-07-20 07:11:16+00:00,['1152476049478959109'],@sadienine @BBCEssex @IanWyattEssex Ouch! Get well soon,ouch get well soon,True
+1.150717468593328e+18,2019-07-15 10:43:18+00:00,['1150717468593328129'],"Joys of home working again - another new visitor to our bird feeder, this time a wren! @RSPBEssex https://t.co/axtxLmRAUY",joy home working another new visitor bird feeder time wren,False
+1.1503227578817946e+18,2019-07-14 08:34:52+00:00,['1150322757881794561'],Terrible picture snapped quickly on my phone - but latest addition to our feeder birds: hellp starling! @RSPBEssex https://t.co/dYpVl2O3sf,terrible picture snapped quickly phone latest addition feeder bird hellp starling,False
+1.1454285026337464e+18,2019-06-30 20:26:50+00:00,['1145428502633746434'],"@jon_manning Alas no, but I wasn’t last which is good enough for me!",ala wasnt last good enough,False
+1.1450627722433864e+18,2019-06-29 20:13:33+00:00,['1145062772243386373'],"Today I have discovered Peach Coke - where has this been all my life! #notpaidfor #genuineopinion
+(Also discovered sunburn after Sports Day yesterday - not so good!)",today discovered peach coke life also discovered sunburn sport day yesterday good,False
+1.1425627548862874e+18,2019-06-22 22:39:23+00:00,['1142562754886287365'],What a wonderful evening seeing @billyjoel perform @wembleystadium - different playlist to past few years and some of our absolute favourites! Thankyou! https://t.co/HVyvWRibTi,wonderful evening seeing perform different playlist past year absolute favourite thankyou,False
+1.1365702622316668e+18,2019-06-06 09:47:21+00:00,['1136570262231666688'],Benefits of working from home - finally seen &amp; got picture of elusive goldfinch spotted by my mum and daughter twice already! https://t.co/pE26kw9i3A,benefit working home finally seen amp got picture elusive goldfinch spotted mum daughter twice already,False
+1.1361710223303434e+18,2019-06-05 07:20:55+00:00,['1136171022330343426'],"@danslee Mercury, May, Taylor, Deacon...",mercury may taylor deacon,False
+1.13442278518127e+18,2019-05-31 11:34:03+00:00,['1134422785181270016'],@ColonelCamulos I always have background music on (sometimes quietly to help me think) but don’t think you’re strange for having silence...,always background music sometimes quietly help think dont think youre strange silence,False
+1.134422183453909e+18,2019-05-31 11:31:39+00:00,['1134422183453908994'],Had the delight of seeing a Red Kite over my village earlier this week. Must have known I didn’t have binos with me as swooped low so I could get a close look. Also saw a buzzard :-),delight seeing red kite village earlier week must known didnt binos swooped low could get close look also saw buzzard,False
+1.1336948403346392e+18,2019-05-29 11:21:27+00:00,['1133694840334639104'],"It’s SHOWTIME! Looking forward to seeing Colchester Gangshow tonight - it’s not too late for you to buy tickets too, on the door! @Colchesterviews https://t.co/sSsTxagF6R",showtime looking forward seeing colchester gangshow tonight late buy ticket door,False
+1.1334405903251456e+18,2019-05-28 18:31:09+00:00,['1133440590325145601'],Currently helping to judge the Tendring Youth Awards - so many inspiring young people (&amp; adults supporting them) and it is very difficult to choose! https://t.co/vN1RsypeJO,currently helping judge tendring youth award many inspiring young people amp adult supporting difficult choose,False
+1.1326128383489844e+18,2019-05-26 11:41:58+00:00,['1132612838348984320'],@stewarthend @ryanjennings1 Not watched it yet but I was filmed with computer action shots. Obviously they thought my face would compel viewers to keep watching!,watched yet filmed computer action shot obviously thought face would compel viewer keep watching,False
+1.1323712940440044e+18,2019-05-25 19:42:09+00:00,['1132371294044004352'],@rubixcolchester checking out the newest bar in Colchester... seems good so far! https://t.co/CdrKlbc7vZ,checking newest bar colchester seems good far,False
+1.1310901611173436e+18,2019-05-22 06:51:23+00:00,['1131090161117343745'],A big thanks to @TheGazette for featuring one of our lovely Colchester Gang Show members in the Curtain Call today. Check it out - and buy your show tickets! https://t.co/NuYt4mvZt2,big thanks featuring one lovely colchester gang show member curtain call today check buy show ticket,False
+1.1308676399145164e+18,2019-05-21 16:07:10+00:00,['1130867639914516481'],@BBCEssex @ClactonGazette @HarwichStandard https://t.co/9CqMA3mfRm,,
+1.1303505901339772e+18,2019-05-20 05:52:36+00:00,['1130350590133977088'],@ryanjennings1 @Colchesterviews Building - no clue. But I’ll help you break it in...,building clue ill help break,False
+1.1280137360343612e+18,2019-05-13 19:06:46+00:00,['1128013736034361345'],A big thankyou @BBCEssex &amp; @DaveMonkEssex for having me on this evening to talk about the Tendring Youth Awards. Find out more and make your nomination at https://t.co/pjuBz2QyJi https://t.co/giEXNdInka,big thankyou amp evening talk tendring youth award find make nomination,False
+1.1273395990119055e+18,2019-05-11 22:28:00+00:00,['1127339599011905539'],As featured on @BBCEssex &amp; @TheGazette Colchester Gang Show returns soon - have you bought your tickets yet? @Colchesterviews @UKScouting @Girlguiding @essexscouts @EssexNetwork https://t.co/wYj0ZfWybE,featured amp colchester gang show return soon bought ticket yet,False
+1.1257629592701912e+18,2019-05-07 14:02:59+00:00,['1125762959270191105'],Reminding myself of how the voting system works for European elections - am now a bit gutted I can't vote for my favourite sweet/chocolate! https://t.co/SnqB2GmTvC,reminding voting system work european election bit gutted can't vote favourite sweetchocolate,False
+1.124149860398248e+18,2019-05-03 03:13:07+00:00,['1124149860398247941'],@stewarthend Very kind but we’re good thanks. Have walkie talkies and everything...,kind good thanks walkie talkie everything,False
+1.124148520326443e+18,2019-05-03 03:07:47+00:00,['1124148520326443009'],@stewarthend Was? Still in it mate! 18 of 46 seats done. None of this thirds malarkey!,still mate seat done none third malarkey,False
+1.1238433417775392e+18,2019-05-02 06:55:07+00:00,['1123843341777539073'],No #dogsatpollingstations for me today - though a pooch and owner were heading in that direction as I left @yourcolchester https://t.co/OfLpj0HVjy,today though pooch owner heading direction left,False
+1.1223763096262902e+18,2019-04-28 05:45:39+00:00,['1122376309626290176'],Huge thanks to @ColU_Official for promoting #Colchester Gang Show in today’s match programme. And what a cracking result too eh?! https://t.co/TajKjnK3UY,huge thanks promoting gang show today match programme cracking result,False
+1.1216952994315552e+18,2019-04-26 08:39:34+00:00,['1121695299431555073'],"Just had cause to ring the @yourcolchester elections hotline to check something. Very polite, professional and quick service from the team :-)",cause ring election hotline check something polite professional quick service team,False
+1.119959561086165e+18,2019-04-21 13:42:21+00:00,['1119959561086164992'],Watching a movie taking a break from the sun in middle of the day. Daughter (4-&amp;-a-half) for 1st time cries and properly follows the plot - Stuart Little is a winner then!,watching movie taking break sun middle day daughter ampahalf time cry properly follows plot stuart little winner,False
+1.118790032775635e+18,2019-04-18 08:15:04+00:00,['1118790032775634944'],"Big thanks to @TonyFisherLive &amp; @BBCEssex for having Colchester Gang Show on Monday’s show. Listen again here (about 3’16” in): https://t.co/p3GAPDXS1W 
 Tickets: https://t.co/A7StDvqnkS 
-@_RobynWallis"
-412,1.1180427681301544e+18,2019-04-16 06:45:42+00:00,['1118042768130154496'],RT @rugbyworldcup: If Monday was a tackle... https://t.co/AtY9kAREs1
-413,1.1167402027379343e+18,2019-04-12 16:29:47+00:00,['1116740202737934343'],@Geates @BBCPolitics There was a poll for the Evening Standard. But in polling terms not very accurate summary in the headline...
-414,1.1166665732537508e+18,2019-04-12 11:37:12+00:00,['1116666573253750784'],@BBCEssex songs about mums: Our House by @MadnessNews “Mother’s tired she needs a rest”
-415,1.1164369059047464e+18,2019-04-11 20:24:35+00:00,['1116436905904746502'],"This year #Colchester Gang Show is celebrating its 50th show. Come along, whether you’re in @UKScouting / @Girlguiding or not to support these great youngsters. @Colchesterviews @essexscouts @TheGazette @EADT24 https://t.co/eur8QBsEoV"
-416,1.1161065477996913e+18,2019-04-10 22:31:51+00:00,['1116106547799691265'],Maybe @RTTC2019 can link in on this? &amp; @ClactonPier https://t.co/DPq1NVX67L
-417,1.115936642093736e+18,2019-04-10 11:16:43+00:00,['1115936642093735936'],"#DefineYourMusicTasteIn7Bands bts 1. @MadnessNews 
+@_RobynWallis",big thanks amp colchester gang show monday show listen ticket,False
+1.1167402027379343e+18,2019-04-12 16:29:47+00:00,['1116740202737934343'],@Geates @BBCPolitics There was a poll for the Evening Standard. But in polling terms not very accurate summary in the headline...,poll evening standard polling term accurate summary headline,False
+1.1166665732537508e+18,2019-04-12 11:37:12+00:00,['1116666573253750784'],@BBCEssex songs about mums: Our House by @MadnessNews “Mother’s tired she needs a rest”,song mum house mother tired need rest,False
+1.1164369059047464e+18,2019-04-11 20:24:35+00:00,['1116436905904746502'],"This year #Colchester Gang Show is celebrating its 50th show. Come along, whether you’re in @UKScouting / @Girlguiding or not to support these great youngsters. @Colchesterviews @essexscouts @TheGazette @EADT24 https://t.co/eur8QBsEoV",year gang show celebrating show come along whether youre support great youngster,False
+1.1161065477996913e+18,2019-04-10 22:31:51+00:00,['1116106547799691265'],Maybe @RTTC2019 can link in on this? &amp; @ClactonPier https://t.co/DPq1NVX67L,maybe link amp,False
+1.115936642093736e+18,2019-04-10 11:16:43+00:00,['1115936642093735936'],"#DefineYourMusicTasteIn7Bands bts 1. @MadnessNews 
 2. @billyjoel 
 3. @QueenWillRock 
 4. @newtownkings 
 5. @DavidBowieReal 
 6. @coldplay 
-7. All the others too numerous to mention."
-418,1.1154995585350738e+18,2019-04-09 06:19:54+00:00,['1115499558535073792'],"@DBanksy Agree with issues you raise. Howevee would welcome the request to remove/moderate when reported, rather than at any time. Could that be passed to the accounts themselves?"
-419,1.115497862031401e+18,2019-04-09 06:13:09+00:00,['1115497862031400960'],"RT @JudyRimmer1: I'm working on a piece about musical instruments. Did you play an instrument at school, what did it mean to you and did yo…"
-420,1.114838040051114e+18,2019-04-07 10:31:16+00:00,['1114838040051113985'],Delighted to have @BBCEssex #Quest visit Colchester Gang Show rehearsals today. See pictures for the ticket details! https://t.co/Cl9o6Pj2LS
-421,1.1145188662212036e+18,2019-04-06 13:22:59+00:00,['1114518866221203456'],RT @Tendring_DC: You have until April 12 to register if you want to vote in the local elections on May 2 - it only takes 5 minutes. Visit t…
-422,1.1145186403495812e+18,2019-04-06 13:22:05+00:00,['1114518640349581313'],@KEGS_Chelmsford @HCav1660 Ah the traditional end of term Jerusalem as no-one needs their hymn books for it!
-423,1.1131032395856527e+18,2019-04-02 15:37:47+00:00,['1113103239585652737'],This is incredibly interesting... https://t.co/MPAkV10SAj
-424,1.1131025546222552e+18,2019-04-02 15:35:04+00:00,['1113102554622255106'],"RT @NCTJ_news: If you are hoping to study on an NCTJ-accredited course this year but are worried about the costs, apply to @The_JDF by tomo…"
-425,1.1120754730419324e+18,2019-03-30 19:33:48+00:00,['1112075473041932290'],@HannahDaykin Really? You must be barking...
-426,1.1120276662643466e+18,2019-03-30 16:23:50+00:00,['1112027666264346624'],"They called it a walk, but I heard there was a lot of daschund around #dadjoke https://t.co/iMFUnEXNPl"
-427,1.1120274463233596e+18,2019-03-30 16:22:58+00:00,['1112027446323359744'],#Mayflower400 #Mayflower2020 @mayflower400uk https://t.co/Sl3LnpE5ng
-428,1.1120250492493128e+18,2019-03-30 16:13:26+00:00,['1112025049249312770'],Lovely getting out into the garden in Spring. Saw a buzzard across the field and a new species for me to spot at home: Goldfinch on the roof!
-429,1.111655089348006e+18,2019-03-29 15:43:21+00:00,['1111655089348005893'],"RT @Tendring_DC: Have you got your poll card yet? If not it may be because you're not registered. You have until April 12 to register, and…"
-430,1.1110438291704054e+18,2019-03-27 23:14:25+00:00,['1111043829170405376'],@paulejhawkins https://t.co/KMZsTeHVLO
-431,1.1104423538761932e+18,2019-03-26 07:24:22+00:00,['1110442353876193282'],"RT @corbeaurally: We’ve launched details of spectator viewing and facilities today, including big screen TV coverage of the stages at the C…"
-432,1.1104422984023982e+18,2019-03-26 07:24:09+00:00,['1110442298402398208'],"RT @JPH79: It didn't get a vote or even have a referendum. But Jexit is happening!
-I've got myself a secondment, so if you or a Comms colle…"
-433,1.109470747452416e+18,2019-03-23 15:03:33+00:00,['1109470747452416006'],Great to see cast members from Colchester Gang Show bag packing to raise funds @Tesco Highwoods in #Colchester today. Have you bought your show tickets? https://t.co/pWNUhlcMBo
-434,1.1090478140872376e+18,2019-03-22 11:02:58+00:00,['1109047814087237632'],"RT @BBCEssex: Action Fraud investigating after reports of council tax refund scam in Tending district. Will Lodge, who's from @Tendring_DC,…"
-435,1.1087994326346506e+18,2019-03-21 18:35:59+00:00,['1108799432634650624'],RT @jmsclee: I'm absolutely crying at this. Sound on. https://t.co/BibRtM10sc
-436,1.108469740568236e+18,2019-03-20 20:45:55+00:00,['1108469740568236034'],Am I being thick or was there absolutely nothing new in that statement from Theresa May?
-437,1.1080515054819574e+18,2019-03-19 17:04:00+00:00,['1108051505481957377'],RT @Tendring_DC: We have received reports that some of our residents are receiving text messages stating to click on a link to receive a re…
-438,1.106150885346984e+18,2019-03-14 11:11:37+00:00,['1106150885346983936'],RT @Tendring_DC: We're currently experiencing a high number of calls about our council tax letter &amp; residents' parking permits. Please bear…
-439,1.10584352189286e+18,2019-03-13 14:50:15+00:00,['1105843521892859905'],"@PHalliday_LTD I agree that, and parenting as part of it, part of response. Tougher sentences as a deterrent could play a role too. Point remains though that neither of those things require extra policing."
-440,1.1058207200079668e+18,2019-03-13 13:19:39+00:00,['1105820720007966720'],This is not my area of expertise - but my view (for what it's worth) is that more money is needed for youth services and intervention/'diversionary' projects rather than police overtime. To me this is closing the stable door after the horse has bolted. https://t.co/pz8hdyY221
-441,1.1037260886042624e+18,2019-03-07 18:36:20+00:00,['1103726088604262402'],Excited that Great Horkesley features on @BBCEssex with @jodiehalford28 tonight - sadly I won’t be listening as I’ll be in Great Horkesley with the Scouts when it is on.
-442,1.102231318430208e+18,2019-03-03 15:36:39+00:00,['1102231318430208006'],@essexscouts https://t.co/aSzURDUbl7
-443,1.10223123534524e+18,2019-03-03 15:36:19+00:00,['1102231235345240065'],Having a fab afternoon filming at Colchester Gang Show for some promotional work. Had a snapshot of the show and I promise it will be well worth a watch. You can buy tickets now (see picture) https://t.co/BuZj96mj0V
-444,1.1019187146293617e+18,2019-03-02 18:54:28+00:00,['1101918714629361666'],"@VerneLewis ps I liked you tweet for its sentiment as you implied, not in appreciation it’s not Firefighter Sam"
-445,1.101917259637973e+18,2019-03-02 18:48:41+00:00,['1101917259637972994'],@VerneLewis Indeed. That would be a fun rebranding project to work on.
-446,1.1019073982672324e+18,2019-03-02 18:09:30+00:00,['1101907398267232256'],@sonwatson Was rather relieved when my daughter immediately spotted that matches were not to be played with!
-447,1.1018585266857329e+18,2019-03-02 14:55:18+00:00,['1101858526685732866'],"Watching an episode of the new-fangled Fireman Sam. It’s so inclusive: different ethnicities, disabled characters, female firefighter... but the naughty kid is still ginger! #prejudice #onlyaginger #lovetimminchin"
-448,1.100495980208767e+18,2019-02-26 20:41:02+00:00,['1100495980208766977'],@livewellLocal @DungerRob @Tendring_DC @felixstoweradio https://t.co/fxSwpMDfRX
-449,1.100495481376002e+18,2019-02-26 20:39:03+00:00,['1100495481376002050'],"Solidarity with any local radio presenters affected by the amalgamation of breakfast/drive shows. Not just the local press that is affected by this.
-Heartening as it is that BBC has invested in local radio, competition in this field is healthy I feel"
-450,1.1004949436158812e+18,2019-02-26 20:36:55+00:00,['1100494943615881216'],"@livewellLocal @DungerRob @Tendring_DC @felixstoweradio Apple, pear, medlar and mulberry"
-451,1.1004065028824024e+18,2019-02-26 14:45:29+00:00,['1100406502882402304'],RT @DungerRob: Will Lodge from @Tendring_DC joined be today on @felixstoweradio. Talking about the fantastic initiative planting fruit tree…
-452,1.0996984717607364e+18,2019-02-24 15:52:01+00:00,['1099698471760736256'],Well this game is closer than I expected! #ITAvIRE
-453,1.0992898147241615e+18,2019-02-23 12:48:10+00:00,['1099289814724161537'],Spring has sprung in Dedham https://t.co/YoJr0tBMlL
-454,1.0990232778492232e+18,2019-02-22 19:09:02+00:00,['1099023277849223169'],"RT @NEECCG: There are always lots of bugs around during winter, and one of the easiest ways to prevent catching and spreading anything is t…"
-455,1.0990231503675432e+18,2019-02-22 19:08:32+00:00,['1099023150367543299'],"RT @PCSOPaulBrassey: Please remember to put your fog lights on tonight,very misty in the Frinton and Walton areas."
-456,1.0989416119066092e+18,2019-02-22 13:44:32+00:00,['1098941611906609152'],"The bravery of callers @BBCEssex to share their stories never ceases to amaze me, along with the empathy &amp; resilience of @DaveMonkEssex - as all journalists - in handling such stories. Dave Monk show last night (21/2) circa 5.50pm worth listening to on iPlayer. Incredible."
-457,1.0978188251129364e+18,2019-02-19 11:22:59+00:00,['1097818825112936450'],"RT @BseaWinterFest: Weather looks fab for the weekend! How about going to @BrightlingseaSC for lunch, or cake and a cuppa with fab sea view…"
-458,1.0977808833298964e+18,2019-02-19 08:52:13+00:00,['1097780883329896448'],RT @BBCLookEast: QUICK... the application window is closing on the chance to become our Digital Journalism Apprentice. It’s the opportunity…
-459,1.0977808218622936e+18,2019-02-19 08:51:58+00:00,['1097780821862293504'],@DuncanJBrodie @Geates Redpoll - but wasn't certain
-460,1.0977556642171986e+18,2019-02-19 07:12:00+00:00,['1097755664217198595'],RT @Tendring_DC: Tendring District Council and @PrincesTheatre lit up Clacton Town Hall with @HelpforHeroes for Heroes' Stigma Clock as par…
-461,1.0970795021261004e+18,2019-02-17 10:25:10+00:00,['1097079502126100480'],@Geates PS - this is the reason I’ve driven across the country https://t.co/R3Vz0apz1s
-462,1.0970794035305882e+18,2019-02-17 10:24:47+00:00,['1097079403530588161'],@Geates Will have to try that. We have a menagerie in our garden but not Goldfinches
-463,1.097067544203137e+18,2019-02-17 09:37:39+00:00,['1097067544203137024'],"In Exeter and seeing a wealth of new birds (for me). Definitely a European Goldfinch, maybe a red poll? Along with robins, dunnock, blackbirds, magpies and collared doves. Attached a poor iPhone pic of the goldfinch https://t.co/5dius33gpj"
-464,1.0965079222454068e+18,2019-02-15 20:33:55+00:00,['1096507922245406722'],"RT @EnvAgencyAnglia: The weather is looking good for the weekend so if you are taking your dog for a walk on the beach, please remember tha…"
-465,1.0965069989322834e+18,2019-02-15 20:30:15+00:00,['1096506998932283392'],@BenFryer I love The One Where Joey speaks French in season 10...
-466,1.0964575295871264e+18,2019-02-15 17:13:40+00:00,['1096457529587126273'],Finally got a picture of one of our Long-tailed Tits in the garden today @Natures_Voice https://t.co/zKIgJ8otvk
-467,1.0964333065754748e+18,2019-02-15 15:37:25+00:00,['1096433306575474688'],RT @Tendring_DC: Down in Brightlingsea today - how beautiful is it?! It’s only February... https://t.co/Jb21nRgZZZ
-468,1.0960621237661736e+18,2019-02-14 15:02:28+00:00,['1096062123766173702'],"@jeremyhagon yes, quite possibly."
-469,1.095969224072282e+18,2019-02-14 08:53:19+00:00,['1095969224072282112'],I can’t believe how many drivers don’t have any lights on this morning when it is foggy! #besafebeseen
-470,1.094996856751489e+18,2019-02-11 16:29:29+00:00,['1094996856751489024'],RT @sportingpat: Hi there! I’m a senior #journalist who’s on the lookout for #freelance work. Skilled in #writing #news #sport #features #l…
-471,1.093156329638822e+18,2019-02-06 14:35:53+00:00,['1093156329638821890'],@PHalliday_LTD I didn't see what flavours there were ;-)
-472,1.0928555862559784e+18,2019-02-05 18:40:50+00:00,['1092855586255978497'],"Just heard what sounds like an ice cream van jingle - in Clacton, at 6.40pm in early February. Dress rehearsal for the summer or overly optimistic?!"
-473,1.092109813805396e+18,2019-02-03 17:17:24+00:00,['1092109813805395968'],@Colchesterviews Obviously a Sunderland fan...
-474,1.0914675168226756e+18,2019-02-01 22:45:09+00:00,['1091467516822675456'],@Jandouglan Maybe MoD Chinook/Apache flights? Hovering?
-475,1.0914653630349148e+18,2019-02-01 22:36:35+00:00,['1091465363034914816'],Anyone else hear deep bass rumbling in north Colchester right now? Like a really huge plane (but going on too long)? It’s really annoying both in sound and unknown cause
-476,1.0913310913010892e+18,2019-02-01 13:43:02+00:00,['1091331091301089280'],"RT @Joe_Gatto: Well U.K. and Ireland, we’re coming in October! So excited. 
-
-https://t.co/XqRBjTbr6i https://t.co/PsXiJNUnvH"
-477,1.0913094542288978e+18,2019-02-01 12:17:04+00:00,['1091309454228897792'],@Colchesterviews Oh I don't know - drinking tea out of my ColchesterViews mug while doing so would be an improvement ;-)
-478,1.0913031694334444e+18,2019-02-01 11:52:05+00:00,['1091303169433444352'],"Benefits of working from home - seeing a pair of Long Tailed Tits at your bird feeder (new addition to our local wildlife).
-Is it too late to amend my #BigGardenBirdWatch survey @Natures_Voice ?"
-479,1.0912592966487532e+18,2019-02-01 08:57:45+00:00,['1091259296648753153'],"@Ewanfoz @ryanjennings1 @SixNationsRugby @colCAMRA @JamesECalnan @adamcornell798 Apart from maybe the world cup?
-Have joined, picking my team in my lunchbreak"
-480,1.0912419105666376e+18,2019-02-01 07:48:40+00:00,['1091241910566637568'],Chris Patterson https://t.co/Cn6iXPH97O
+7. All the others too numerous to mention.",bts others numerous mention,False
+1.1154995585350738e+18,2019-04-09 06:19:54+00:00,['1115499558535073792'],"@DBanksy Agree with issues you raise. Howevee would welcome the request to remove/moderate when reported, rather than at any time. Could that be passed to the accounts themselves?",agree issue raise howevee would welcome request removemoderate reported rather time could passed account,False
+1.114838040051114e+18,2019-04-07 10:31:16+00:00,['1114838040051113985'],Delighted to have @BBCEssex #Quest visit Colchester Gang Show rehearsals today. See pictures for the ticket details! https://t.co/Cl9o6Pj2LS,delighted visit colchester gang show rehearsal today see picture ticket detail,False
+1.1145186403495812e+18,2019-04-06 13:22:05+00:00,['1114518640349581313'],@KEGS_Chelmsford @HCav1660 Ah the traditional end of term Jerusalem as no-one needs their hymn books for it!,traditional end term jerusalem noone need hymn book,False
+1.1131032395856527e+18,2019-04-02 15:37:47+00:00,['1113103239585652737'],This is incredibly interesting... https://t.co/MPAkV10SAj,incredibly interesting,False
+1.1120754730419324e+18,2019-03-30 19:33:48+00:00,['1112075473041932290'],@HannahDaykin Really? You must be barking...,really must barking,False
+1.1120276662643466e+18,2019-03-30 16:23:50+00:00,['1112027666264346624'],"They called it a walk, but I heard there was a lot of daschund around #dadjoke https://t.co/iMFUnEXNPl",called walk heard lot daschund around,False
+1.1120274463233596e+18,2019-03-30 16:22:58+00:00,['1112027446323359744'],#Mayflower400 #Mayflower2020 @mayflower400uk https://t.co/Sl3LnpE5ng,,
+1.1120250492493128e+18,2019-03-30 16:13:26+00:00,['1112025049249312770'],Lovely getting out into the garden in Spring. Saw a buzzard across the field and a new species for me to spot at home: Goldfinch on the roof!,lovely getting garden spring saw buzzard across field new specie spot home goldfinch roof,False
+1.1110438291704054e+18,2019-03-27 23:14:25+00:00,['1111043829170405376'],@paulejhawkins https://t.co/KMZsTeHVLO,,
+1.109470747452416e+18,2019-03-23 15:03:33+00:00,['1109470747452416006'],Great to see cast members from Colchester Gang Show bag packing to raise funds @Tesco Highwoods in #Colchester today. Have you bought your show tickets? https://t.co/pWNUhlcMBo,great see cast member colchester gang show bag packing raise fund highwoods today bought show ticket,False
+1.108469740568236e+18,2019-03-20 20:45:55+00:00,['1108469740568236034'],Am I being thick or was there absolutely nothing new in that statement from Theresa May?,thick absolutely nothing new statement theresa may,False
+1.10584352189286e+18,2019-03-13 14:50:15+00:00,['1105843521892859905'],"@PHalliday_LTD I agree that, and parenting as part of it, part of response. Tougher sentences as a deterrent could play a role too. Point remains though that neither of those things require extra policing.",agree parenting part part response tougher sentence deterrent could play role point remains though neither thing require extra policing,False
+1.1058207200079668e+18,2019-03-13 13:19:39+00:00,['1105820720007966720'],This is not my area of expertise - but my view (for what it's worth) is that more money is needed for youth services and intervention/'diversionary' projects rather than police overtime. To me this is closing the stable door after the horse has bolted. https://t.co/pz8hdyY221,area expertise view worth money needed youth service intervention'diversionary' project rather police overtime closing stable door horse bolted,False
+1.1037260886042624e+18,2019-03-07 18:36:20+00:00,['1103726088604262402'],Excited that Great Horkesley features on @BBCEssex with @jodiehalford28 tonight - sadly I won’t be listening as I’ll be in Great Horkesley with the Scouts when it is on.,excited great horkesley feature tonight sadly wont listening ill great horkesley scout,False
+1.102231318430208e+18,2019-03-03 15:36:39+00:00,['1102231318430208006'],@essexscouts https://t.co/aSzURDUbl7,,
+1.10223123534524e+18,2019-03-03 15:36:19+00:00,['1102231235345240065'],Having a fab afternoon filming at Colchester Gang Show for some promotional work. Had a snapshot of the show and I promise it will be well worth a watch. You can buy tickets now (see picture) https://t.co/BuZj96mj0V,fab afternoon filming colchester gang show promotional work snapshot show promise well worth watch buy ticket see picture,False
+1.1019187146293617e+18,2019-03-02 18:54:28+00:00,['1101918714629361666'],"@VerneLewis ps I liked you tweet for its sentiment as you implied, not in appreciation it’s not Firefighter Sam",liked tweet sentiment implied appreciation firefighter sam,False
+1.101917259637973e+18,2019-03-02 18:48:41+00:00,['1101917259637972994'],@VerneLewis Indeed. That would be a fun rebranding project to work on.,indeed would fun rebranding project work,False
+1.1019073982672324e+18,2019-03-02 18:09:30+00:00,['1101907398267232256'],@sonwatson Was rather relieved when my daughter immediately spotted that matches were not to be played with!,rather relieved daughter immediately spotted match played,False
+1.1018585266857329e+18,2019-03-02 14:55:18+00:00,['1101858526685732866'],"Watching an episode of the new-fangled Fireman Sam. It’s so inclusive: different ethnicities, disabled characters, female firefighter... but the naughty kid is still ginger! #prejudice #onlyaginger #lovetimminchin",watching episode newfangled fireman sam inclusive different ethnicity disabled character female firefighter naughty kid still ginger,False
+1.100495980208767e+18,2019-02-26 20:41:02+00:00,['1100495980208766977'],@livewellLocal @DungerRob @Tendring_DC @felixstoweradio https://t.co/fxSwpMDfRX,,
+1.100495481376002e+18,2019-02-26 20:39:03+00:00,['1100495481376002050'],"Solidarity with any local radio presenters affected by the amalgamation of breakfast/drive shows. Not just the local press that is affected by this.
+Heartening as it is that BBC has invested in local radio, competition in this field is healthy I feel",solidarity local radio presenter affected amalgamation breakfastdrive show local press affected heartening bbc invested local radio competition field healthy feel,False
+1.1004949436158812e+18,2019-02-26 20:36:55+00:00,['1100494943615881216'],"@livewellLocal @DungerRob @Tendring_DC @felixstoweradio Apple, pear, medlar and mulberry",apple pear medlar mulberry,False
+1.0996984717607364e+18,2019-02-24 15:52:01+00:00,['1099698471760736256'],Well this game is closer than I expected! #ITAvIRE,well game closer expected,False
+1.0992898147241615e+18,2019-02-23 12:48:10+00:00,['1099289814724161537'],Spring has sprung in Dedham https://t.co/YoJr0tBMlL,spring sprung dedham,True
+1.0989416119066092e+18,2019-02-22 13:44:32+00:00,['1098941611906609152'],"The bravery of callers @BBCEssex to share their stories never ceases to amaze me, along with the empathy &amp; resilience of @DaveMonkEssex - as all journalists - in handling such stories. Dave Monk show last night (21/2) circa 5.50pm worth listening to on iPlayer. Incredible.",bravery caller share story never cease amaze along empathy amp resilience journalist handling story dave monk show last night circa worth listening iplayer incredible,False
+1.0977808218622936e+18,2019-02-19 08:51:58+00:00,['1097780821862293504'],@DuncanJBrodie @Geates Redpoll - but wasn't certain,redpoll certain,False
+1.0970795021261004e+18,2019-02-17 10:25:10+00:00,['1097079502126100480'],@Geates PS - this is the reason I’ve driven across the country https://t.co/R3Vz0apz1s,reason ive driven across country,False
+1.0970794035305882e+18,2019-02-17 10:24:47+00:00,['1097079403530588161'],@Geates Will have to try that. We have a menagerie in our garden but not Goldfinches,try menagerie garden goldfinch,False
+1.097067544203137e+18,2019-02-17 09:37:39+00:00,['1097067544203137024'],"In Exeter and seeing a wealth of new birds (for me). Definitely a European Goldfinch, maybe a red poll? Along with robins, dunnock, blackbirds, magpies and collared doves. Attached a poor iPhone pic of the goldfinch https://t.co/5dius33gpj",exeter seeing wealth new bird definitely european goldfinch maybe red poll along robin dunnock blackbird magpie collared dove attached poor iphone pic goldfinch,False
+1.0965069989322834e+18,2019-02-15 20:30:15+00:00,['1096506998932283392'],@BenFryer I love The One Where Joey speaks French in season 10...,love one joey speaks french season,False
+1.0964575295871264e+18,2019-02-15 17:13:40+00:00,['1096457529587126273'],Finally got a picture of one of our Long-tailed Tits in the garden today @Natures_Voice https://t.co/zKIgJ8otvk,finally got picture one longtailed tit garden today,False
+1.0960621237661736e+18,2019-02-14 15:02:28+00:00,['1096062123766173702'],"@jeremyhagon yes, quite possibly.",yes quite possibly,True
+1.095969224072282e+18,2019-02-14 08:53:19+00:00,['1095969224072282112'],I can’t believe how many drivers don’t have any lights on this morning when it is foggy! #besafebeseen,cant believe many driver dont light morning foggy,False
+1.093156329638822e+18,2019-02-06 14:35:53+00:00,['1093156329638821890'],@PHalliday_LTD I didn't see what flavours there were ;-),see flavour,False
+1.0928555862559784e+18,2019-02-05 18:40:50+00:00,['1092855586255978497'],"Just heard what sounds like an ice cream van jingle - in Clacton, at 6.40pm in early February. Dress rehearsal for the summer or overly optimistic?!",heard sound like ice cream van jingle clacton early february dress rehearsal summer overly optimistic,False
+1.092109813805396e+18,2019-02-03 17:17:24+00:00,['1092109813805395968'],@Colchesterviews Obviously a Sunderland fan...,obviously sunderland fan,False
+1.0914675168226756e+18,2019-02-01 22:45:09+00:00,['1091467516822675456'],@Jandouglan Maybe MoD Chinook/Apache flights? Hovering?,maybe mod chinookapache flight hovering,False
+1.0914653630349148e+18,2019-02-01 22:36:35+00:00,['1091465363034914816'],Anyone else hear deep bass rumbling in north Colchester right now? Like a really huge plane (but going on too long)? It’s really annoying both in sound and unknown cause,anyone else hear deep bass rumbling north colchester right like really huge plane going long really annoying sound unknown cause,False
+1.0913094542288978e+18,2019-02-01 12:17:04+00:00,['1091309454228897792'],@Colchesterviews Oh I don't know - drinking tea out of my ColchesterViews mug while doing so would be an improvement ;-),know drinking tea colchesterviews mug would improvement,False
+1.0913031694334444e+18,2019-02-01 11:52:05+00:00,['1091303169433444352'],"Benefits of working from home - seeing a pair of Long Tailed Tits at your bird feeder (new addition to our local wildlife).
+Is it too late to amend my #BigGardenBirdWatch survey @Natures_Voice ?",benefit working home seeing pair long tailed tit bird feeder new addition local wildlife late amend survey,False
+1.0912592966487532e+18,2019-02-01 08:57:45+00:00,['1091259296648753153'],"@Ewanfoz @ryanjennings1 @SixNationsRugby @colCAMRA @JamesECalnan @adamcornell798 Apart from maybe the world cup?
+Have joined, picking my team in my lunchbreak",apart maybe world cup joined picking team lunchbreak,False
+1.0912419105666376e+18,2019-02-01 07:48:40+00:00,['1091241910566637568'],Chris Patterson https://t.co/Cn6iXPH97O,chris patterson,False
