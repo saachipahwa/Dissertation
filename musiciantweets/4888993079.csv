@@ -1,157 +1,103 @@
-,id,created_at,edit_history_tweet_ids,text
-0,1.2171279646404567e+18,2020-01-14 16:54:54+00:00,['1217127964640456707'],"Well 7 yrs ago today God took my freind, brother in law and one of the funniest characters I've ever met and gave him a pair of angel wings for a new beginning of many things, I miss this guy so much as he... https://t.co/QGSb10PL0H"
-1,1.2146090059826913e+18,2020-01-07 18:05:28+00:00,['1214609005982691329'],https://t.co/mx2uoTqldu
-2,1.21406105231863e+18,2020-01-06 05:48:05+00:00,['1214061052318629888'],"Happy birthday to my better half, my  rock, saviour, my everything. Hope you have a super day. I love you Michelle Roper ❤️"
-3,1.21371959905903e+18,2020-01-05 07:11:16+00:00,['1213719599059030016'],https://t.co/exxHWJqoiU
-4,1.2130191884339528e+18,2020-01-03 08:48:05+00:00,['1213019188433952768'],"@BeatBillionaire @ukMPG @ProducerZeph @BeatBillionaire @illmindPRODUCER #rappers #music #lyrics looking for a break,read bio in my rap https://t.co/w5quRFEr2j
-https://t.co/DMV7KOKZp2"
-5,1.2127216635545723e+18,2020-01-02 13:05:50+00:00,['1212721663554572293'],"@chancetherapper @RAPCITYTV @TheRealKoolGRap @UkRapOnTheMap @UKRap  
-https://t.co/w5quRFEr2j"
-6,1.2123389942410568e+18,2020-01-01 11:45:15+00:00,['1212338994241056768'],Wishing everyone a blessed and prosperous new year and hope everyone the success in reaching every target and goals you set. Cut away all the negativity and surround yourself with only positivity and keep going... https://t.co/C3psxBg0QA
-7,1.2115527085258056e+18,2019-12-30 07:40:49+00:00,['1211552708525805568'],@RapGameLifetime can you put me in touch with someone to work with my lyrics? https://t.co/w5quRFEr2j
-8,1.211552131649622e+18,2019-12-30 07:38:32+00:00,['1211552131649622017'],@UkRapOnTheMap @UKRap @ukrapmusic @RapGameLifetime can you help. Read my bio on YouTube 🙏 https://t.co/w5quRFEr2j
-9,1.2113105816612127e+18,2019-12-29 15:38:42+00:00,['1211310581661212673'],https://t.co/w5quRFEr2j https://t.co/LwvCUOsmza
-10,1.2112982293395128e+18,2019-12-29 14:49:37+00:00,['1211298229339512832'],@ukMPG  https://t.co/w5quRFEr2j I’m looking for someone to help me I want to write songs everyday. https://t.co/DMV7KOKZp2
-11,1.2111786186652303e+18,2019-12-29 06:54:19+00:00,['1211178618665230336'],"#songwriters #music #lyricalgeniusyoungk  @iamwill @SimonCowell . I’m looking for someone to help me https://t.co/w5quRFEr2j 
+id,created_at,edit_history_tweet_ids,text,clean_text,nouns
+1.2171279646404567e+18,2020-01-14 16:54:54+00:00,['1217127964640456707'],"Well 7 yrs ago today God took my freind, brother in law and one of the funniest characters I've ever met and gave him a pair of angel wings for a new beginning of many things, I miss this guy so much as he... https://t.co/QGSb10PL0H",well ago today god took freind brother law one funniest character i've ever met gave pair angel wing new beginning many thing miss guy much,today law character i pair angel thing guy 
+1.21406105231863e+18,2020-01-06 05:48:05+00:00,['1214061052318629888'],"Happy birthday to my better half, my  rock, saviour, my everything. Hope you have a super day. I love you Michelle Roper ❤️",happy birthday better half rock saviour everything hope super day love michelle roper,birthday half everything day michelle roper 
+1.2130191884339528e+18,2020-01-03 08:48:05+00:00,['1213019188433952768'],"@BeatBillionaire @ukMPG @ProducerZeph @BeatBillionaire @illmindPRODUCER #rappers #music #lyrics looking for a break,read bio in my rap https://t.co/w5quRFEr2j
+https://t.co/DMV7KOKZp2",looking breakread bio rap,bio rap 
+1.2123389942410568e+18,2020-01-01 11:45:15+00:00,['1212338994241056768'],Wishing everyone a blessed and prosperous new year and hope everyone the success in reaching every target and goals you set. Cut away all the negativity and surround yourself with only positivity and keep going... https://t.co/C3psxBg0QA,wishing everyone blessed prosperous new year hope everyone success reaching every target goal set cut away negativity surround positivity keep going,everyone year everyone success target goal negativity surround positivity 
+1.2115527085258056e+18,2019-12-30 07:40:49+00:00,['1211552708525805568'],@RapGameLifetime can you put me in touch with someone to work with my lyrics? https://t.co/w5quRFEr2j,put touch someone work lyric,someone work lyric 
+1.211552131649622e+18,2019-12-30 07:38:32+00:00,['1211552131649622017'],@UkRapOnTheMap @UKRap @ukrapmusic @RapGameLifetime can you help. Read my bio on YouTube 🙏 https://t.co/w5quRFEr2j,help read bio youtube,help bio youtube 
+1.2112982293395128e+18,2019-12-29 14:49:37+00:00,['1211298229339512832'],@ukMPG  https://t.co/w5quRFEr2j I’m looking for someone to help me I want to write songs everyday. https://t.co/DMV7KOKZp2,looking someone help want write song everyday,someone help write song everyday 
+1.2111786186652303e+18,2019-12-29 06:54:19+00:00,['1211178618665230336'],"#songwriters #music #lyricalgeniusyoungk  @iamwill @SimonCowell . I’m looking for someone to help me https://t.co/w5quRFEr2j 
  
-https://t.co/DMV7KOKZp2"
-12,1.2109518749642834e+18,2019-12-28 15:53:20+00:00,['1210951874964283397'],"@iamwill  @SimonCowell  @AmandaHolden  #rappers #music can anyone help me https://t.co/DMV7KOKZp2 
-https://t.co/w5quRFEr2j"
-13,1.20978439186355e+18,2019-12-25 10:34:10+00:00,['1209784391863549952'],"https://t.co/DMV7KOKZp2
-https://t.co/w5quRFEr2j"
-14,1.209734205099389e+18,2019-12-25 07:14:44+00:00,['1209734205099388928'],Does anyone know what time father Xmas is due this mince pie is gonna go cold 😂😂
-15,1.209611943004328e+18,2019-12-24 23:08:55+00:00,['1209611943004327937'],"It doesn’t matter if your my friend, family, black, white, Asian,English, foreign, old , young, male or female, love or hate me. I would like to wish everyone a very happy Xmas and prosperous 2020 I hope your... https://t.co/j1NwTw0l6l"
-16,1.2091823986945352e+18,2019-12-23 18:42:04+00:00,['1209182398694535175'],"@iamwill @stormzy @TheBugzyMalone  @Eminem is there anyway you can help me? https://t.co/w5quRFEr2j 
-https://t.co/DMV7KOKZp2"
-17,1.208991075223982e+18,2019-12-23 06:01:48+00:00,['1208991075223982081'],"@thisisheart  @AmandaHolden  @BGT  can you help me in any way? Please read my bio 🙏 https://t.co/w5quRFEr2j 
-https://t.co/DMV7KOKZp2"
-18,1.2087475866954424e+18,2019-12-22 13:54:16+00:00,['1208747586695442434'],Great story good luck lad I wish u all the success in the world 🌍 https://t.co/pFo75C1aOl
-19,1.205190616533078e+18,2019-12-12 18:20:08+00:00,['1205190616533078022'],@Newportfolkfest  https://t.co/DMV7KOKZp2
-20,1.20519032053273e+18,2019-12-12 18:18:58+00:00,['1205190320532729858'],@FolkCast  https://t.co/DMV7KOKZp2
-21,1.2044200766083768e+18,2019-12-10 15:18:17+00:00,['1204420076608376832'],"https://t.co/DMV7KOKZp2 
-https://t.co/w5quRFEr2j"
-22,1.204165012195025e+18,2019-12-09 22:24:45+00:00,['1204165012195024898'],https://t.co/w5quRFEr2j
-23,1.2041647911468155e+18,2019-12-09 22:23:53+00:00,['1204164791146815488'],"Listen to my lyrics and story 
+https://t.co/DMV7KOKZp2",looking someone help,someone help 
+1.2109518749642834e+18,2019-12-28 15:53:20+00:00,['1210951874964283397'],"@iamwill  @SimonCowell  @AmandaHolden  #rappers #music can anyone help me https://t.co/DMV7KOKZp2 
+https://t.co/w5quRFEr2j",anyone help,anyone help 
+1.209734205099389e+18,2019-12-25 07:14:44+00:00,['1209734205099388928'],Does anyone know what time father Xmas is due this mince pie is gonna go cold 😂😂,doe anyone know time father xmas due mince pie gonna cold,doe anyone time father xmas mince pie gon 
+1.209611943004328e+18,2019-12-24 23:08:55+00:00,['1209611943004327937'],"It doesn’t matter if your my friend, family, black, white, Asian,English, foreign, old , young, male or female, love or hate me. I would like to wish everyone a very happy Xmas and prosperous 2020 I hope your... https://t.co/j1NwTw0l6l",doesnt matter friend family black white asianenglish foreign old young male female love hate would like wish everyone happy xmas prosperous hope,matter family male love hate everyone hope 
+1.2091823986945352e+18,2019-12-23 18:42:04+00:00,['1209182398694535175'],"@iamwill @stormzy @TheBugzyMalone  @Eminem is there anyway you can help me? https://t.co/w5quRFEr2j 
+https://t.co/DMV7KOKZp2",anyway help,help 
+1.208991075223982e+18,2019-12-23 06:01:48+00:00,['1208991075223982081'],"@thisisheart  @AmandaHolden  @BGT  can you help me in any way? Please read my bio 🙏 https://t.co/w5quRFEr2j 
+https://t.co/DMV7KOKZp2",help way please read bio,help way bio 
+1.2087475866954424e+18,2019-12-22 13:54:16+00:00,['1208747586695442434'],Great story good luck lad I wish u all the success in the world 🌍 https://t.co/pFo75C1aOl,great story good luck lad wish success world,story luck success world 
+1.2041647911468155e+18,2019-12-09 22:23:53+00:00,['1204164791146815488'],"Listen to my lyrics and story 
 https://t.co/w5quRFEr2j 
-https://t.co/DMV7KOKZp2"
-24,1.20393779647975e+18,2019-12-09 07:21:53+00:00,['1203937796479750145'],https://t.co/DMV7KOKZp2
-25,1.2039318858497595e+18,2019-12-09 06:58:24+00:00,['1203931885849759744'],https://t.co/w5quRFEr2j
-26,1.2039318111240438e+18,2019-12-09 06:58:06+00:00,['1203931811124043778'],Anyone point me in the right direction https://t.co/w5quRFEr2j
-27,1.2026424959953388e+18,2019-12-05 17:34:49+00:00,['1202642495995338752'],https://t.co/w5quRFEr2j
-28,1.202632519096701e+18,2019-12-05 16:55:11+00:00,['1202632519096700930'],https://t.co/DMV7KOKZp2 https://t.co/DMV7KOKZp2
-29,1.202628895381631e+18,2019-12-05 16:40:47+00:00,['1202628895381630977'],https://t.co/j3avRNPeIH https://t.co/j3avRNPeIH
-30,1.2026273072713275e+18,2019-12-05 16:34:28+00:00,['1202627307271327749'],"RT @fearlessmotivat: Do you agree?
-FULL VIDEO: https://t.co/2pJ6E1MTUi https://t.co/R7NJjmwSmx"
-31,1.2024987019373158e+18,2019-12-05 08:03:26+00:00,['1202498701937315841'],Simply beautiful
-32,1.2019305849913754e+18,2019-12-03 18:25:56+00:00,['1201930584991375360'],https://t.co/w5quRFEr2j. Check the consistent poetic lyrics
-33,1.2015514863475507e+18,2019-12-02 17:19:32+00:00,['1201551486347550726'],https://t.co/w5quRFEr2j
-34,1.2012633341312082e+18,2019-12-01 22:14:31+00:00,['1201263334131208192'],"Check out this song I wrote as well. This could be a number one with the right person  singing it their own way 
-            F in lie (liFe)"
-35,1.2012322193957642e+18,2019-12-01 20:10:53+00:00,['1201232219395764224'],"11 YEARS CLEAN TODAY 1/12/2019
+https://t.co/DMV7KOKZp2",listen lyric story,story 
+1.2039318111240438e+18,2019-12-09 06:58:06+00:00,['1203931811124043778'],Anyone point me in the right direction https://t.co/w5quRFEr2j,anyone point right direction,anyone point direction 
+1.2024987019373158e+18,2019-12-05 08:03:26+00:00,['1202498701937315841'],Simply beautiful,simply beautiful,
+1.2019305849913754e+18,2019-12-03 18:25:56+00:00,['1201930584991375360'],https://t.co/w5quRFEr2j. Check the consistent poetic lyrics,check consistent poetic lyric,lyric 
+1.2012633341312082e+18,2019-12-01 22:14:31+00:00,['1201263334131208192'],"Check out this song I wrote as well. This could be a number one with the right person  singing it their own way 
+            F in lie (liFe)",check song wrote well could number one right person singing way lie life,check song number person way life 
+1.2012322193957642e+18,2019-12-01 20:10:53+00:00,['1201232219395764224'],"11 YEARS CLEAN TODAY 1/12/2019
 Right I’m doing this and stepping outside my comfort zone. 
 Either I’m permanently damaged from all the drug abuse and addictions, or I’m right and god blessed me with a natural gift.
-Im an ex 15yr... https://t.co/w5quRFEr2j"
-36,1.2001307541157765e+18,2019-11-28 19:14:03+00:00,['1200130754115776513'],I posted a new video to Facebook https://t.co/RJsHC6grlf
-37,1.19504931959595e+18,2019-11-14 18:42:15+00:00,['1195049319595950082'],I posted a new video to Facebook https://t.co/6crqAS4POY
-38,1.194191754335064e+18,2019-11-12 09:54:35+00:00,['1194191754335064064'],If anyone lost a little black dog it’s in Maryland industrial estate .
-39,1.1935439032171684e+18,2019-11-10 15:00:16+00:00,['1193543903217168384'],Quote day
-40,1.193297453061034e+18,2019-11-09 22:40:57+00:00,['1193297453061033984'],Quote night ha
-41,1.1912995850477158e+18,2019-11-04 10:22:09+00:00,['1191299585047715842'],I posted a new video to Facebook https://t.co/Rh1JC2wf6y
-42,1.1880575470785864e+18,2019-10-26 11:39:26+00:00,['1188057547078586368'],Create your own breakfast try up at Tommy's open sat and Sunday for collection or delivery call 07519067446
-43,1.1875969604355236e+18,2019-10-25 05:09:14+00:00,['1187596960435523584'],https://t.co/dQNIABC6sX
-44,1.1866808769120543e+18,2019-10-22 16:29:03+00:00,['1186680876912054272'],"Anyone know we’re there’s any 1 bedroom
-Flats to rent??? Asking for a friend"
-45,1.185542923615658e+18,2019-10-19 13:07:13+00:00,['1185542923615657986'],Create and order your breakfast/lunch for collection or delivery at Tommy's 7 days a week 07519067446
-46,1.1836360757823283e+18,2019-10-14 06:50:06+00:00,['1183636075782328320'],https://t.co/EmZyORsKgf
-47,1.1793896126843945e+18,2019-10-02 13:36:10+00:00,['1179389612684394496'],Michelle Roper https://t.co/hdZKFLHrvK
-48,1.1780337748079944e+18,2019-09-28 19:48:33+00:00,['1178033774807994374'],Breakfast delivery or collection 7 days a week 07519067446 https://t.co/VQmubq8u8Y
-49,1.1774642853682217e+18,2019-09-27 06:05:36+00:00,['1177464285368221697'],If you still haven’t tried Tommy's were the he’ll have you been hiding ha x
-50,1.1756676659748086e+18,2019-09-22 07:06:29+00:00,['1175667665974808582'],Breakfast/lunch delivery or collection  07519067446
-51,1.1743261555345695e+18,2019-09-18 14:15:48+00:00,['1174326155534569477'],Tommy's come and try Tommy's
-52,1.17399806826351e+18,2019-09-17 16:32:05+00:00,['1173998068263510017'],Tommy's steak/ chicken and cheese wraps
-53,1.1735033033444352e+18,2019-09-16 07:46:04+00:00,['1173503303344435200'],https://t.co/FZmfaDYXGA
-54,1.1729333208811274e+18,2019-09-14 18:01:10+00:00,['1172933320881127424'],7 days a week free delivery on orders over £8.00 tel 07519067446
-55,1.1721846636470518e+18,2019-09-12 16:26:16+00:00,['1172184663647051776'],Chicken and steak wraps
-56,1.172183504265896e+18,2019-09-12 16:21:40+00:00,['1172183504265895936'],"Come and try Tommys chicken and rice boxes 
+Im an ex 15yr... https://t.co/w5quRFEr2j",year clean today right stepping outside comfort zone either permanently damaged drug abuse addiction right god blessed natural gift,year clean today comfort zone drug abuse addiction god gift 
+1.2001307541157765e+18,2019-11-28 19:14:03+00:00,['1200130754115776513'],I posted a new video to Facebook https://t.co/RJsHC6grlf,posted new video facebook,video facebook 
+1.19504931959595e+18,2019-11-14 18:42:15+00:00,['1195049319595950082'],I posted a new video to Facebook https://t.co/6crqAS4POY,posted new video facebook,video facebook 
+1.194191754335064e+18,2019-11-12 09:54:35+00:00,['1194191754335064064'],If anyone lost a little black dog it’s in Maryland industrial estate .,anyone lost little black dog maryland industrial estate,anyone dog maryland estate 
+1.1935439032171684e+18,2019-11-10 15:00:16+00:00,['1193543903217168384'],Quote day,quote day,quote day 
+1.193297453061034e+18,2019-11-09 22:40:57+00:00,['1193297453061033984'],Quote night ha,quote night,quote night 
+1.1912995850477158e+18,2019-11-04 10:22:09+00:00,['1191299585047715842'],I posted a new video to Facebook https://t.co/Rh1JC2wf6y,posted new video facebook,video facebook 
+1.1880575470785864e+18,2019-10-26 11:39:26+00:00,['1188057547078586368'],Create your own breakfast try up at Tommy's open sat and Sunday for collection or delivery call 07519067446,create breakfast try tommy's open sat sunday collection delivery call,create breakfast try tommy sat sunday collection delivery call 
+1.1866808769120543e+18,2019-10-22 16:29:03+00:00,['1186680876912054272'],"Anyone know we’re there’s any 1 bedroom
+Flats to rent??? Asking for a friend",anyone know bedroom flat rent asking friend,anyone bedroom rent friend 
+1.185542923615658e+18,2019-10-19 13:07:13+00:00,['1185542923615657986'],Create and order your breakfast/lunch for collection or delivery at Tommy's 7 days a week 07519067446,create order breakfastlunch collection delivery tommy's day week,create order breakfastlunch collection delivery tommy day week 
+1.1793896126843945e+18,2019-10-02 13:36:10+00:00,['1179389612684394496'],Michelle Roper https://t.co/hdZKFLHrvK,michelle roper,roper 
+1.1780337748079944e+18,2019-09-28 19:48:33+00:00,['1178033774807994374'],Breakfast delivery or collection 7 days a week 07519067446 https://t.co/VQmubq8u8Y,breakfast delivery collection day week,breakfast delivery collection day week 
+1.1774642853682217e+18,2019-09-27 06:05:36+00:00,['1177464285368221697'],If you still haven’t tried Tommy's were the he’ll have you been hiding ha x,still havent tried tommy's hell hiding,tommy hell hiding 
+1.1756676659748086e+18,2019-09-22 07:06:29+00:00,['1175667665974808582'],Breakfast/lunch delivery or collection  07519067446,breakfastlunch delivery collection,breakfastlunch delivery collection 
+1.1743261555345695e+18,2019-09-18 14:15:48+00:00,['1174326155534569477'],Tommy's come and try Tommy's,tommy's come try tommy's,tommy try tommy 
+1.17399806826351e+18,2019-09-17 16:32:05+00:00,['1173998068263510017'],Tommy's steak/ chicken and cheese wraps,tommy's steak chicken cheese wrap,tommy steak chicken wrap 
+1.1729333208811274e+18,2019-09-14 18:01:10+00:00,['1172933320881127424'],7 days a week free delivery on orders over £8.00 tel 07519067446,day week free delivery order tel,day week delivery order tel 
+1.1721846636470518e+18,2019-09-12 16:26:16+00:00,['1172184663647051776'],Chicken and steak wraps,chicken steak wrap,chicken steak wrap 
+1.172183504265896e+18,2019-09-12 16:21:40+00:00,['1172183504265895936'],"Come and try Tommys chicken and rice boxes 
 open 630am-2pm mon-fri 
 challenge way WN50LD
-tel orders 07519067446"
-57,1.1717982045994148e+18,2019-09-11 14:50:37+00:00,['1171798204599414785'],if You haven’t tried my chicken wraps and other choices on the menu then maybe you should come and sample my food. I cook everything with love x
-58,1.1707284039741522e+18,2019-09-08 15:59:37+00:00,['1170728403974152204'],We are doing 7 days a week delivery’s to your home work place or pick up at Tommy's so check out my page for some tasty bargains and telephone your order on 07519067446
-59,1.169275193484857e+18,2019-09-04 15:45:04+00:00,['1169275193484857345'],https://t.co/N8kGbyzcou
-60,1.167164100142649e+18,2019-08-29 19:56:20+00:00,['1167164100142649345'],https://t.co/srtiIUyrOd
-61,1.1642630517066752e+18,2019-08-21 19:48:37+00:00,['1164263051706675200'],Come and try my tasty treats
-62,1.1633664259243827e+18,2019-08-19 08:25:44+00:00,['1163366425924382720'],https://t.co/3WSTZrzD2p
-63,1.162261310655959e+18,2019-08-16 07:14:24+00:00,['1162261310655959041'],Open  until 2pm
-64,1.1622609608929935e+18,2019-08-16 07:13:01+00:00,['1162260960892993537'],https://t.co/DboJNLV0a5
-65,1.1588250787773522e+18,2019-08-06 19:40:03+00:00,['1158825078777352194'],😎💙💙
-66,1.1569825253713224e+18,2019-08-01 17:38:24+00:00,['1156982525371322369'],Come and try my tasty food and check out my page at Tommy's  open from 630am
-67,1.1569774412625142e+18,2019-08-01 17:18:12+00:00,['1156977441262514176'],Come and try my food  and check out my page at Tommy's
-68,1.1567874650149765e+18,2019-08-01 04:43:18+00:00,['1156787465014976513'],"Good morning u beautiful people. Stay kind, strong, focused and positive and have a super day x"
-69,1.15428496897937e+18,2019-07-25 06:59:16+00:00,['1154284968979369984'],https://t.co/3ssyR4fuDp
-70,1.1542528390462546e+18,2019-07-25 04:51:36+00:00,['1154252839046254593'],Good morning everyone it’s gonna be a hot day so drink plenty of water and stay safe and hydrated and have a super day x
-71,1.153932093644247e+18,2019-07-24 07:37:04+00:00,['1153932093644247042'],Well 3yrs ago I turned my life around and turned to god to guide me to a better life and future. People was questioning my mental health and spreading rumours that my head had gone 😂😂 I started my own business... https://t.co/O5AwQ1vklC
-72,1.1535253697414267e+18,2019-07-23 04:40:54+00:00,['1153525369741426688'],26 yrs ago today my 2nd son Dazz Tomliinsonn was born 3 months premature. Time has flown by. Happy birthday son. Love you unconditionally. Have a super day x💙💙💙
-73,1.1532138242390548e+18,2019-07-22 08:02:56+00:00,['1153213824239054848'],https://t.co/x02GgnopG5
-74,1.151928118241878e+18,2019-07-18 18:53:59+00:00,['1151928118241878017'],https://t.co/D00eV3InZF
-75,1.1506665774377656e+18,2019-07-15 07:21:05+00:00,['1150666577437765632'],Wonderland is back this wk end bigger and better by the fast growing BTID Events https://t.co/NC1QAwN13j
-76,1.1474350211223592e+18,2019-07-06 09:20:02+00:00,['1147435021122359296'],https://t.co/8vuDTupKDJ
-77,1.146997763529478e+18,2019-07-05 04:22:31+00:00,['1146997763529478144'],Good morning everyone. It’s funky Friday. Have faith. Stay strong and always believe you will be blessed. Have a super wk end everyone x
-78,1.1444616321661706e+18,2019-06-28 04:24:50+00:00,['1144461632166170624'],Good morning and happy Friday. Enjoy the sun and have a fantastic wk end x
-79,1.1437799612176998e+18,2019-06-26 07:16:07+00:00,['1143779961217699841'],https://t.co/Fs4Kp55Roc
-80,1.143742536038662e+18,2019-06-26 04:47:24+00:00,['1143742536038662145'],"Good morning ppl. Stay kind, be blessed and have a superb day x"
-81,1.1435631748363428e+18,2019-06-25 16:54:41+00:00,['1143563174836342784'],Cooked with love
-82,1.1430621853562552e+18,2019-06-24 07:43:56+00:00,['1143062185356255232'],https://t.co/fuJXMDb1yq
-83,1.1428670400988364e+18,2019-06-23 18:48:30+00:00,['1142867040098836480'],Anyone recommend a good place and hotel to stay in Tenerife in January for a middle aged young at heart couple wishing to relax and recharge the batteries to go again so nothing to heavy duty please ha but... https://t.co/atYD4zEthr
-84,1.1427531874950676e+18,2019-06-23 11:16:05+00:00,['1142753187495067648'],Anyone know best place to get a single automatic shower boost pump from???
-85,1.1427077584935567e+18,2019-06-23 08:15:34+00:00,['1142707758493556736'],https://t.co/j6bm2kxVgq
-86,1.1419353172908196e+18,2019-06-21 05:06:10+00:00,['1141935317290819586'],Happy Friday futha muckiest. It’s gonna be a beautiful day so have fun and enjoy. Have a great day x
-87,1.1417539504142624e+18,2019-06-20 17:05:29+00:00,['1141753950414262275'],https://t.co/GJYMVdpefk
-88,1.1413414753446624e+18,2019-06-19 13:46:27+00:00,['1141341475344662528'],Extraordinary Mindset = Extraordinary Life https://t.co/QEuMx5awCW
-89,1.140590336194093e+18,2019-06-17 12:01:41+00:00,['1140590336194093056'],https://t.co/WhFb4WINSH
-90,1.1401792326577604e+18,2019-06-16 08:48:07+00:00,['1140179232657760256'],Love this one https://t.co/dWNkfDfQkH
-91,1.139598547303768e+18,2019-06-14 18:20:41+00:00,['1139598547303768065'],💙💙💙
-92,1.138165110848086e+18,2019-06-10 19:24:43+00:00,['1138165110848086018'],https://t.co/tiW9pS590q
-93,1.137610499267412e+18,2019-06-09 06:40:53+00:00,['1137610499267411971'],https://t.co/ypmwShPo07
-94,1.1373115733646172e+18,2019-06-08 10:53:03+00:00,['1137311573364617216'],https://t.co/HSXSXoow4E
-95,1.1362797037094748e+18,2019-06-05 14:32:47+00:00,['1136279703709474816'],https://t.co/E2tC6eFXBB
-96,1.1359727254560154e+18,2019-06-04 18:12:57+00:00,['1135972725456015360'],https://t.co/UoMq0D8FoC
-97,1.1358075926163988e+18,2019-06-04 07:16:47+00:00,['1135807592616398849'],https://t.co/5w6UaBm2eO
-98,1.13577683099947e+18,2019-06-04 05:14:32+00:00,['1135776830999470080'],https://t.co/f7LEaCMoCu
-99,1.1355621323874836e+18,2019-06-03 15:01:24+00:00,['1135562132387483648'],Come and try my very tasty large chicken wraps with peppers mushroom and onion £4.00 they are huge at Tommy's
-100,1.1352737397452064e+18,2019-06-02 19:55:26+00:00,['1135273739745206273'],My Bessie 💙
-101,1.13518297872273e+18,2019-06-02 13:54:47+00:00,['1135182978722729984'],Don’t under estimate your opponent https://t.co/7XhXEu4HSG
-102,1.135181855362298e+18,2019-06-02 13:50:19+00:00,['1135181855362297856'],How stupid do Liverpool fans sound when they singing champions of Europe when they’ve not even been champions of England for 30 years haha worse final in history x
-103,1.135097697109762e+18,2019-06-02 08:15:54+00:00,['1135097697109762048'],@anthonyfjoshua ur belt collection @Tyson_Fury is the real deal with no loss and schooled the most devastating finisher @BronzeBomber  and @Tyson_Fury  is the main man FACT https://t.co/l9OAYeFnKC
-104,1.1331196179106244e+18,2019-05-27 21:15:43+00:00,['1133119617910624256'],My little bro Martin Nitram Tomlinson rocking the show at Blackpool pier on the pier 2019 💙 https://t.co/YKWl4w5qzL
-105,1.1314670355888783e+18,2019-05-23 07:48:57+00:00,['1131467035588878338'],A big happy birthday to my little bro Martin Nitram Tomlinson hope you have a good one bro x
-106,1.1310580891495136e+18,2019-05-22 04:43:57+00:00,['1131058089149513729'],Hahaha this sums the scousers up https://t.co/GuQtf4YB03
-107,1.1309019595847516e+18,2019-05-21 18:23:32+00:00,['1130901959584751617'],New menu starting next week. We are now doing local deliveries and have added an healthy option on the menu with fresh fruit smoothies. Please check my FB page for delicious food Tommy's
-108,1.1294636820507976e+18,2019-05-17 19:08:20+00:00,['1129463682050797577'],Michelle Roper Lewy Ashcroft Kayleigh Tomlinson https://t.co/inRZSQIXbF
-109,1.1281657213961216e+18,2019-05-14 05:10:42+00:00,['1128165721396121600'],Those moaning that no jezza on tv is gonna ruin their daily routine haha. Go the job centre then and get in a proper routine. X
-110,1.127670943109845e+18,2019-05-12 20:24:38+00:00,['1127670943109844994'],https://t.co/DOJ0guGNN8
-111,1.1271551180827524e+18,2019-05-11 10:14:56+00:00,['1127155118082752512'],https://t.co/WkkOtRCVYs
-112,1.1259805910553436e+18,2019-05-08 04:27:47+00:00,['1125980591055343616'],As a utd fan it pains me to say it but credit were its due. And what a bit of genius to https://t.co/yhbyYDF0cd but u aint won.nowt yet ha
-113,1.1234516618994524e+18,2019-05-01 04:58:43+00:00,['1123451661899452416'],https://t.co/sjmzpIURAU https://t.co/OovyH8du5c
-114,1.123155087554224e+18,2019-04-30 09:20:14+00:00,['1123155087554224129'],https://t.co/w2rq0A7uvQ
-115,1.122516291212972e+18,2019-04-28 15:01:53+00:00,['1122516291212972035'],"Who us Sergio ,Aguero
-?????"
-116,1.1191402349422756e+18,2019-04-19 07:26:39+00:00,['1119140234942275584'],TOMMYS is open today for food on challenge way  wn50ld
-117,1.118041988367098e+18,2019-04-16 06:42:36+00:00,['1118041988367097856'],"Judge me at my worst
-Judge me at my best. I dont care how you judge me cos im.different from the rest x"
-118,1.1178178617776456e+18,2019-04-15 15:52:00+00:00,['1117817861777645568'],https://t.co/euxe2n6wqL
-119,1.116935167518675e+18,2019-04-13 05:24:30+00:00,['1116935167518674944'],Thank you to each and everyone of you that sent birthday wishes. Im touched and hope you are all.blessed. thanks again guys xxx
-120,1.1149795223135846e+18,2019-04-07 19:53:28+00:00,['1114979522313584640'],"It is what it is if its notbwhat it was
- Amd what will be. Will be. X"
-121,1.1109824148583628e+18,2019-03-27 19:10:23+00:00,['1110982414858362880'],Young poser https://t.co/gm3ebJvSvZ
-122,1.1098217336436696e+18,2019-03-24 14:18:15+00:00,['1109821733643669504'],Hahaha Sean Unsworth https://t.co/elBhAP0wfB
-123,1.106457144231166e+18,2019-03-15 07:28:34+00:00,['1106457144231165954'],https://t.co/wqJgQVHXUb
-124,1.1058339684636836e+18,2019-03-13 14:12:18+00:00,['1105833968463683584'],Comevand try my chicken wraps or salad boxws on challange way -WN50LD
-125,1.1044248241374863e+18,2019-03-09 16:52:51+00:00,['1104424824137486343'],Some people will believe the truth is  lie and beleive a lue is the truth
-126,1.1033431641721856e+18,2019-03-06 17:14:44+00:00,['1103343164172185601'],https://t.co/YQtP2lp19u
-127,1.097501594428543e+18,2019-02-18 14:22:25+00:00,['1097501594428542976'],https://t.co/0uy3u1BS8T
-128,1.095927744750338e+18,2019-02-14 06:08:30+00:00,['1095927744750338048'],Good morning everyone. Happy valentines day. Im sending my love to everyone of you that needs some love and needs a hug. X
-129,1.093437795186692e+18,2019-02-07 09:14:20+00:00,['1093437795186692097'],I posted a new video to Facebook https://t.co/Kv5TpEcFvZ
-130,1.0931814082548777e+18,2019-02-06 16:15:32+00:00,['1093181408254877696'],https://t.co/33N5BEipbN
-131,1.0919631735807836e+18,2019-02-03 07:34:42+00:00,['1091963173580783616'],Aassive happy birthday to the eldest of my 3 babies Lewy Ashcroft hope you have a great day lad. Love https://t.co/o8pfs1U3Wx all.x
-132,1.0919619450481828e+18,2019-02-03 07:29:50+00:00,['1091961945048182785'],morning everyone. Hope all good. No work today https://t.co/7j6Qpafi7k excited  i can go to GOD's house (church) its been.a while. Have a top day x
+tel orders 07519067446",come try tommys chicken rice box open ampm monfri challenge way wnld tel order,try tommys rice box ampm monfri challenge way tel order 
+1.1717982045994148e+18,2019-09-11 14:50:37+00:00,['1171798204599414785'],if You haven’t tried my chicken wraps and other choices on the menu then maybe you should come and sample my food. I cook everything with love x,havent tried chicken wrap choice menu maybe come sample food cook everything love,havent wrap choice menu sample food cook everything love 
+1.1707284039741522e+18,2019-09-08 15:59:37+00:00,['1170728403974152204'],We are doing 7 days a week delivery’s to your home work place or pick up at Tommy's so check out my page for some tasty bargains and telephone your order on 07519067446,day week delivery home work place pick tommy's check page tasty bargain telephone order,day week delivery home work place tommy check page bargain telephone order 
+1.1642630517066752e+18,2019-08-21 19:48:37+00:00,['1164263051706675200'],Come and try my tasty treats,come try tasty treat,try tasty treat 
+1.162261310655959e+18,2019-08-16 07:14:24+00:00,['1162261310655959041'],Open  until 2pm,open,
+1.1569825253713224e+18,2019-08-01 17:38:24+00:00,['1156982525371322369'],Come and try my tasty food and check out my page at Tommy's  open from 630am,come try tasty food check page tommy's open,try tasty food check page tommy 
+1.1569774412625142e+18,2019-08-01 17:18:12+00:00,['1156977441262514176'],Come and try my food  and check out my page at Tommy's,come try food check page tommy's,try food check page tommy 
+1.1567874650149765e+18,2019-08-01 04:43:18+00:00,['1156787465014976513'],"Good morning u beautiful people. Stay kind, strong, focused and positive and have a super day x",good morning beautiful people stay kind strong focused positive super day,morning kind day 
+1.1542528390462546e+18,2019-07-25 04:51:36+00:00,['1154252839046254593'],Good morning everyone it’s gonna be a hot day so drink plenty of water and stay safe and hydrated and have a super day x,good morning everyone gonna hot day drink plenty water stay safe hydrated super day,morning everyone gon day water stay day 
+1.153932093644247e+18,2019-07-24 07:37:04+00:00,['1153932093644247042'],Well 3yrs ago I turned my life around and turned to god to guide me to a better life and future. People was questioning my mental health and spreading rumours that my head had gone 😂😂 I started my own business... https://t.co/O5AwQ1vklC,well ago turned life around turned god guide better life future people questioning mental health spreading rumour head gone started business,life guide life health head business 
+1.1535253697414267e+18,2019-07-23 04:40:54+00:00,['1153525369741426688'],26 yrs ago today my 2nd son Dazz Tomliinsonn was born 3 months premature. Time has flown by. Happy birthday son. Love you unconditionally. Have a super day x💙💙💙,ago today son dazz tomliinsonn born month premature time flown happy birthday son love unconditionally super day,today son dazz tomliinsonn month premature time birthday son day 
+1.1506665774377656e+18,2019-07-15 07:21:05+00:00,['1150666577437765632'],Wonderland is back this wk end bigger and better by the fast growing BTID Events https://t.co/NC1QAwN13j,wonderland back end bigger better fast growing btid event,wonderland end event 
+1.146997763529478e+18,2019-07-05 04:22:31+00:00,['1146997763529478144'],Good morning everyone. It’s funky Friday. Have faith. Stay strong and always believe you will be blessed. Have a super wk end everyone x,good morning everyone funky friday faith stay strong always believe blessed super end everyone,morning everyone funky friday stay end everyone 
+1.1444616321661706e+18,2019-06-28 04:24:50+00:00,['1144461632166170624'],Good morning and happy Friday. Enjoy the sun and have a fantastic wk end x,good morning happy friday enjoy sun fantastic end,morning friday end 
+1.143742536038662e+18,2019-06-26 04:47:24+00:00,['1143742536038662145'],"Good morning ppl. Stay kind, be blessed and have a superb day x",good morning ppl stay kind blessed superb day,morning ppl stay kind day 
+1.1435631748363428e+18,2019-06-25 16:54:41+00:00,['1143563174836342784'],Cooked with love,cooked love,love 
+1.1428670400988364e+18,2019-06-23 18:48:30+00:00,['1142867040098836480'],Anyone recommend a good place and hotel to stay in Tenerife in January for a middle aged young at heart couple wishing to relax and recharge the batteries to go again so nothing to heavy duty please ha but... https://t.co/atYD4zEthr,anyone recommend good place hotel stay tenerife january middle aged young heart couple wishing relax recharge battery nothing heavy duty please,anyone place hotel stay middle heart couple recharge battery nothing duty please 
+1.1427531874950676e+18,2019-06-23 11:16:05+00:00,['1142753187495067648'],Anyone know best place to get a single automatic shower boost pump from???,anyone know best place get single automatic shower boost pump,anyone place get shower boost pump 
+1.1419353172908196e+18,2019-06-21 05:06:10+00:00,['1141935317290819586'],Happy Friday futha muckiest. It’s gonna be a beautiful day so have fun and enjoy. Have a great day x,happy friday futha muckiest gonna beautiful day fun enjoy great day,friday futha gon day fun day 
+1.1413414753446624e+18,2019-06-19 13:46:27+00:00,['1141341475344662528'],Extraordinary Mindset = Extraordinary Life https://t.co/QEuMx5awCW,extraordinary mindset extraordinary life,mindset life 
+1.1401792326577604e+18,2019-06-16 08:48:07+00:00,['1140179232657760256'],Love this one https://t.co/dWNkfDfQkH,love one,
+1.1355621323874836e+18,2019-06-03 15:01:24+00:00,['1135562132387483648'],Come and try my very tasty large chicken wraps with peppers mushroom and onion £4.00 they are huge at Tommy's,come try tasty large chicken wrap pepper mushroom onion huge tommy's,try chicken wrap pepper mushroom onion tommy 
+1.1352737397452064e+18,2019-06-02 19:55:26+00:00,['1135273739745206273'],My Bessie 💙,bessie,bessie 
+1.13518297872273e+18,2019-06-02 13:54:47+00:00,['1135182978722729984'],Don’t under estimate your opponent https://t.co/7XhXEu4HSG,dont estimate opponent,estimate opponent 
+1.135181855362298e+18,2019-06-02 13:50:19+00:00,['1135181855362297856'],How stupid do Liverpool fans sound when they singing champions of Europe when they’ve not even been champions of England for 30 years haha worse final in history x,stupid liverpool fan sound singing champion europe theyve even champion england year haha worse final history,liverpool fan sound champion europe champion england year haha history 
+1.135097697109762e+18,2019-06-02 08:15:54+00:00,['1135097697109762048'],@anthonyfjoshua ur belt collection @Tyson_Fury is the real deal with no loss and schooled the most devastating finisher @BronzeBomber  and @Tyson_Fury  is the main man FACT https://t.co/l9OAYeFnKC,belt collection real deal loss schooled devastating finisher main man fact,belt collection deal loss man fact 
+1.1331196179106244e+18,2019-05-27 21:15:43+00:00,['1133119617910624256'],My little bro Martin Nitram Tomlinson rocking the show at Blackpool pier on the pier 2019 💙 https://t.co/YKWl4w5qzL,little bro martin nitram tomlinson rocking show blackpool pier pier,bro martin tomlinson show blackpool pier pier 
+1.1314670355888783e+18,2019-05-23 07:48:57+00:00,['1131467035588878338'],A big happy birthday to my little bro Martin Nitram Tomlinson hope you have a good one bro x,big happy birthday little bro martin nitram tomlinson hope good one bro,birthday martin tomlinson bro 
+1.1310580891495136e+18,2019-05-22 04:43:57+00:00,['1131058089149513729'],Hahaha this sums the scousers up https://t.co/GuQtf4YB03,hahaha sum scouser,hahaha sum scouser 
+1.1309019595847516e+18,2019-05-21 18:23:32+00:00,['1130901959584751617'],New menu starting next week. We are now doing local deliveries and have added an healthy option on the menu with fresh fruit smoothies. Please check my FB page for delicious food Tommy's,new menu starting next week local delivery added healthy option menu fresh fruit smoothy please check page delicious food tommy's,menu week delivery option menu fruit please page food tommy 
+1.1294636820507976e+18,2019-05-17 19:08:20+00:00,['1129463682050797577'],Michelle Roper Lewy Ashcroft Kayleigh Tomlinson https://t.co/inRZSQIXbF,michelle roper lewy ashcroft kayleigh tomlinson,roper lewy tomlinson 
+1.1281657213961216e+18,2019-05-14 05:10:42+00:00,['1128165721396121600'],Those moaning that no jezza on tv is gonna ruin their daily routine haha. Go the job centre then and get in a proper routine. X,moaning jezza gonna ruin daily routine haha job centre get proper routine,jezza gon haha job routine 
+1.1259805910553436e+18,2019-05-08 04:27:47+00:00,['1125980591055343616'],As a utd fan it pains me to say it but credit were its due. And what a bit of genius to https://t.co/yhbyYDF0cd but u aint won.nowt yet ha,utd fan pain say credit due bit genius aint wonnowt yet,fan credit bit aint wonnowt 
+1.122516291212972e+18,2019-04-28 15:01:53+00:00,['1122516291212972035'],"Who us Sergio ,Aguero
+?????",sergio aguero,sergio aguero 
+1.1191402349422756e+18,2019-04-19 07:26:39+00:00,['1119140234942275584'],TOMMYS is open today for food on challenge way  wn50ld,tommys open today food challenge way wnld,tommys today food challenge way wnld 
+1.118041988367098e+18,2019-04-16 06:42:36+00:00,['1118041988367097856'],"Judge me at my worst
+Judge me at my best. I dont care how you judge me cos im.different from the rest x",judge worst judge best dont care judge imdifferent rest,judge judge dont care judge imdifferent rest 
+1.116935167518675e+18,2019-04-13 05:24:30+00:00,['1116935167518674944'],Thank you to each and everyone of you that sent birthday wishes. Im touched and hope you are all.blessed. thanks again guys xxx,thank everyone sent birthday wish touched hope allblessed thanks guy xxx,thank everyone hope guy xxx 
+1.1149795223135846e+18,2019-04-07 19:53:28+00:00,['1114979522313584640'],"It is what it is if its notbwhat it was
+ Amd what will be. Will be. X",notbwhat amd,amd 
+1.1109824148583628e+18,2019-03-27 19:10:23+00:00,['1110982414858362880'],Young poser https://t.co/gm3ebJvSvZ,young poser,poser 
+1.1098217336436696e+18,2019-03-24 14:18:15+00:00,['1109821733643669504'],Hahaha Sean Unsworth https://t.co/elBhAP0wfB,hahaha sean unsworth,unsworth 
+1.1058339684636836e+18,2019-03-13 14:12:18+00:00,['1105833968463683584'],Comevand try my chicken wraps or salad boxws on challange way -WN50LD,comevand try chicken wrap salad boxws challange way wnld,comevand wrap salad boxws challange way wnld 
+1.1044248241374863e+18,2019-03-09 16:52:51+00:00,['1104424824137486343'],Some people will believe the truth is  lie and beleive a lue is the truth,people believe truth lie beleive lue truth,truth lie lue truth 
+1.095927744750338e+18,2019-02-14 06:08:30+00:00,['1095927744750338048'],Good morning everyone. Happy valentines day. Im sending my love to everyone of you that needs some love and needs a hug. X,good morning everyone happy valentine day sending love everyone need love need hug,morning everyone valentine day everyone need need hug 
+1.093437795186692e+18,2019-02-07 09:14:20+00:00,['1093437795186692097'],I posted a new video to Facebook https://t.co/Kv5TpEcFvZ,posted new video facebook,video facebook 
+1.0919631735807836e+18,2019-02-03 07:34:42+00:00,['1091963173580783616'],Aassive happy birthday to the eldest of my 3 babies Lewy Ashcroft hope you have a great day lad. Love https://t.co/o8pfs1U3Wx all.x,aassive happy birthday eldest baby lewy ashcroft hope great day lad love allx,birthday baby lewy hope day allx 
+1.0919619450481828e+18,2019-02-03 07:29:50+00:00,['1091961945048182785'],morning everyone. Hope all good. No work today https://t.co/7j6Qpafi7k excited  i can go to GOD's house (church) its been.a while. Have a top day x,morning everyone hope good work today excited god's house church beena top day,morning everyone hope work today god house church day 

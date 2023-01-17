@@ -1,360 +1,281 @@
-Unnamed: 0,id,created_at,edit_history_tweet_ids,text,clean_text,non_english,whitespace
-0,1.5650318846057513e+18,2022-08-31 17:40:52+00:00,['1565031884605751297'],@Dunkiecan My lawyers will be in touch imminently., my lawyers will be in touch imminently,True,False
-7,1.5581205491586253e+18,2022-08-12 15:57:42+00:00,['1558120549158625283'],@Football__Tweet Nobby Solano., nobby solano,True,False
-11,1.5566851489423688e+18,2022-08-08 16:53:55+00:00,['1556685148942368771'],Land of the free! https://t.co/BukWrJvs10,land of the free ,True,False
-12,1.556376282119684e+18,2022-08-07 20:26:36+00:00,['1556376282119684098'],@CharlieBlake_ @jackfifield @lxthrdg Don't do it it's a trap x,   dont do it its a trap x,True,False
-15,1.5548274338695987e+18,2022-08-03 13:52:02+00:00,['1554827433869598720'],@Zack3O12 Justice 4 Gamu, justice 4 gamu,True,False
-24,1.5530963602028012e+18,2022-07-29 19:13:22+00:00,['1553096360202801152'],I think my favourite thing about being in America is the readily available supply of Mountain Dew and Dr Pepper.,i think my favourite thing about being in america is the readily available supply of mountain dew and dr pepper,True,False
-25,1.5526928341673e+18,2022-07-28 16:29:53+00:00,['1552692834167300098'],Excited to fly off to America tomorrow for two weeks (and see Gaga in Washington!!) before heading over to Canada for the Bingham Cup with the @KXSteelers https://t.co/VdnfOtKTme,excited to fly off to america tomorrow for two weeks and see gaga in washington before heading over to canada for the bingham cup with the  ,True,False
-34,1.5502181333818245e+18,2022-07-21 20:36:19+00:00,['1550218133381824512'],@CharlieBlake_ 6th form forms are the BEST, 6th form forms are the best,True,False
-36,1.5498152556012175e+18,2022-07-20 17:55:25+00:00,['1549815255601217540'],"To be fair Nadine, Boris hasn't had any achievements to applaud.. https://t.co/YzmHQnw2kG",to be fair nadine boris hasnt had any achievements to applaud ,True,False
-37,1.5490454432667402e+18,2022-07-18 14:56:28+00:00,['1549045443266740224'],Costa Del Romford 🌞 https://t.co/e3jALiXmdE,costa del romford  ,True,False
-40,1.5465317627084022e+18,2022-07-11 16:28:00+00:00,['1546531762708402176'],@harrydotcom_ Game changer haha https://t.co/2X8sM6tImG, game changer haha ,True,False
-41,1.545771745021395e+18,2022-07-09 14:07:57+00:00,['1545771745021394944'],Oh I do like to be by the seaside.. https://t.co/zK7qg4KVPJ,oh i do like to be by the seaside ,True,False
-49,1.5443243427833037e+18,2022-07-05 14:16:30+00:00,['1544324342783303680'],@TeamPangloss This aged badly., this aged badly,True,False
-53,1.542248239277265e+18,2022-06-29 20:46:48+00:00,['1542248239277264899'],@Dan_Cymru Oh I see what you mean., oh i see what you mean,True,False
-54,1.5422470774298706e+18,2022-06-29 20:42:11+00:00,['1542247077429870592'],@Dan_Cymru I mean the serve is the most important shot in tennis.. it's admittedly not great viewing but he used what he has., i mean the serve is the most important shot in tennis its admittedly not great viewing but he used what he has,True,False
-56,1.5418902230759014e+18,2022-06-28 21:04:10+00:00,['1541890223075901440'],"Serena's passion (literally in tears and on her knees) at breaking her opponents serve in Round 1 of Wimbledon is the same as the passion she shows in Grand Slam finals.
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
+1.5650318846057513e+18,2022-08-31 17:40:52+00:00,['1565031884605751297'],@Dunkiecan My lawyers will be in touch imminently.,lawyer touch imminently,True,lawyer touch 
+1.5581205491586253e+18,2022-08-12 15:57:42+00:00,['1558120549158625283'],@Football__Tweet Nobby Solano.,nobby solano,True,nobby solano 
+1.5566851489423688e+18,2022-08-08 16:53:55+00:00,['1556685148942368771'],Land of the free! https://t.co/BukWrJvs10,land free,True,land 
+1.556376282119684e+18,2022-08-07 20:26:36+00:00,['1556376282119684098'],@CharlieBlake_ @jackfifield @lxthrdg Don't do it it's a trap x,trap,True,trap 
+1.5548274338695987e+18,2022-08-03 13:52:02+00:00,['1554827433869598720'],@Zack3O12 Justice 4 Gamu,justice gamu,True,justice gamu 
+1.5530963602028012e+18,2022-07-29 19:13:22+00:00,['1553096360202801152'],I think my favourite thing about being in America is the readily available supply of Mountain Dew and Dr Pepper.,think favourite thing america readily available supply mountain dew pepper,True,thing supply mountain dew pepper 
+1.5526928341673e+18,2022-07-28 16:29:53+00:00,['1552692834167300098'],Excited to fly off to America tomorrow for two weeks (and see Gaga in Washington!!) before heading over to Canada for the Bingham Cup with the @KXSteelers https://t.co/VdnfOtKTme,excited fly america tomorrow two week see gaga washington heading canada bingham cup,True,fly tomorrow week washington canada bingham cup 
+1.5502181333818245e+18,2022-07-21 20:36:19+00:00,['1550218133381824512'],@CharlieBlake_ 6th form forms are the BEST,form form best,True,form form 
+1.5498152556012175e+18,2022-07-20 17:55:25+00:00,['1549815255601217540'],"To be fair Nadine, Boris hasn't had any achievements to applaud.. https://t.co/YzmHQnw2kG",fair nadine boris achievement applaud,True,boris achievement applaud 
+1.5490454432667402e+18,2022-07-18 14:56:28+00:00,['1549045443266740224'],Costa Del Romford 🌞 https://t.co/e3jALiXmdE,costa del romford,True,costa del romford 
+1.5465317627084022e+18,2022-07-11 16:28:00+00:00,['1546531762708402176'],@harrydotcom_ Game changer haha https://t.co/2X8sM6tImG,game changer haha,True,game changer haha 
+1.545771745021395e+18,2022-07-09 14:07:57+00:00,['1545771745021394944'],Oh I do like to be by the seaside.. https://t.co/zK7qg4KVPJ,like seaside,True,seaside 
+1.5443243427833037e+18,2022-07-05 14:16:30+00:00,['1544324342783303680'],@TeamPangloss This aged badly.,aged badly,True,
+1.542248239277265e+18,2022-06-29 20:46:48+00:00,['1542248239277264899'],@Dan_Cymru Oh I see what you mean.,see mean,True,
+1.5422470774298706e+18,2022-06-29 20:42:11+00:00,['1542247077429870592'],@Dan_Cymru I mean the serve is the most important shot in tennis.. it's admittedly not great viewing but he used what he has.,mean serve important shot tennis admittedly great viewing used,True,serve shot tennis viewing 
+1.5418902230759014e+18,2022-06-28 21:04:10+00:00,['1541890223075901440'],"Serena's passion (literally in tears and on her knees) at breaking her opponents serve in Round 1 of Wimbledon is the same as the passion she shows in Grand Slam finals.
 
 That's what great champions do.
 
-#Wimbledon2022","serenas passion literally in tears and on her knees at breaking her opponents serve in round 1 of wimbledon is the same as the passion she shows in grand slam finals
+#Wimbledon2022",serena's passion literally tear knee breaking opponent serve round wimbledon passion show grand slam final that's great champion,True,serena passion knee serve round passion show champion 
+1.5407887028965253e+18,2022-06-25 20:07:07+00:00,['1540788702896525312'],@adebradley @FluffehAdam Happened to me with my trip to Southampton for my birthday. Only thing left in price range is crap but just had to do it.,happened trip southampton birthday thing left price range crap,True,trip southampton thing price range crap 
+1.5404018311170294e+18,2022-06-24 18:29:50+00:00,['1540401831117029379'],@dylanhm @ShadyPinesSam Never met anyone who could understand the rules,never met anyone could understand rule,True,anyone rule 
+1.5403004077081887e+18,2022-06-24 11:46:49+00:00,['1540300407708188680'],@J_Holliss Well done my lovely x,well done lovely,True,
+1.5389087189344092e+18,2022-06-20 15:36:44+00:00,['1538908718934409216'],@daisyrichards Congratulations!,congratulation,True,congratulation 
+1.537746576021631e+18,2022-06-17 10:38:48+00:00,['1537746576021630976'],@JoshAlexCairo @scottygb Haven't Brighton had it? May be mistaken.,brighton may mistaken,True,brighton 
+1.536733563487408e+18,2022-06-14 15:33:27+00:00,['1536733563487408128'],"I can't remember the last time I was excited as today after I fixed the toilet. 
 
-thats what great champions do
+Is this what middle age is like?",can't remember last time excited today fixed toilet middle age like,True,time today toilet age 
+1.5363287383208182e+18,2022-06-13 12:44:49+00:00,['1536328738320818178'],@londonhotelso14 Hey! coming down for my Birthday in July. What time does cabaret start/finish on Saturdays? X https://t.co/rSa2TR8Qku,hey coming birthday july time doe cabaret startfinish saturday,True,hey time doe startfinish saturday 
+1.5344160837461688e+18,2022-06-08 06:04:37+00:00,['1534416083746168832'],@youngbuckeen Oh exciting! I'm sure we will be there then!,exciting i'm sure,True,
+1.5342915521465797e+18,2022-06-07 21:49:46+00:00,['1534291552146579456'],"@youngbuckeen Yeah my first one. Canada here I come!!
 
-",True,False
-58,1.5407887028965253e+18,2022-06-25 20:07:07+00:00,['1540788702896525312'],@adebradley @FluffehAdam Happened to me with my trip to Southampton for my birthday. Only thing left in price range is crap but just had to do it.,  happened to me with my trip to southampton for my birthday only thing left in price range is crap but just had to do it,True,False
-59,1.5404018311170294e+18,2022-06-24 18:29:50+00:00,['1540401831117029379'],@dylanhm @ShadyPinesSam Never met anyone who could understand the rules,  never met anyone who could understand the rules,True,False
-60,1.5403004077081887e+18,2022-06-24 11:46:49+00:00,['1540300407708188680'],@J_Holliss Well done my lovely x, well done my lovely x,True,False
-64,1.5389087189344092e+18,2022-06-20 15:36:44+00:00,['1538908718934409216'],@daisyrichards Congratulations!, congratulations,True,False
-69,1.537746576021631e+18,2022-06-17 10:38:48+00:00,['1537746576021630976'],@JoshAlexCairo @scottygb Haven't Brighton had it? May be mistaken.,  havent brighton had it may be mistaken,True,False
-73,1.536733563487408e+18,2022-06-14 15:33:27+00:00,['1536733563487408128'],"I can't remember the last time I was excited as today after I fixed the toilet. 
+What's union??",yeah first one canada come what's union,True,yeah canada union 
+1.5342803876351672e+18,2022-06-07 21:05:24+00:00,['1534280387635167236'],"@youngbuckeen Legit so happy to be back, getting ready for Bingham!",legit happy back getting ready bingham,True,legit bingham 
+1.5342779548507628e+18,2022-06-07 20:55:44+00:00,['1534277954850762753'],First rugby training session back. I cannot feel my limbs. https://t.co/DhjemWffeY,first rugby training session back cannot feel limb,True,training session limb 
+1.532343600918446e+18,2022-06-02 12:49:18+00:00,['1532343600918446082'],Trying to teach the cats to use the cat flap. They are so little we had to get them a step! https://t.co/aQqn5QUAla,trying teach cat use cat flap little get step,True,teach cat use cat flap step 
+1.5313653895942472e+18,2022-05-30 20:02:14+00:00,['1531365389594247170'],"In less glamorous news I slipped over twice at tennis in front of everyone. 🎾
 
-Is this what middle age is like?","i cant remember the last time i was excited as today after i fixed the toilet 
+Graceful as ever, only I could come away from tennis with bloodied knees.",glamorous news slipped twice tennis front everyone graceful ever could come away tennis bloodied knee,True,news everyone tennis knee 
+1.531330369487786e+18,2022-05-30 17:43:05+00:00,['1531330369487785990'],@benjaminbutter Hope you're okay. Sorry this happened xx,hope okay sorry happened,True,hope okay sorry 
+1.5312662102178284e+18,2022-05-30 13:28:08+00:00,['1531266210217828359'],@Zack3O12 Thanks!,thanks,True,
+1.5312635070013932e+18,2022-05-30 13:17:24+00:00,['1531263507001393153'],@DanEv Thanks!,thanks,True,
+1.5312285943992156e+18,2022-05-30 10:58:40+00:00,['1531228594399215616'],"Just accepted a new job for September as a Head of Year! Excited to get back into Pastoral and teach PE in a new setting.
 
-is this what middle age is like",True,False
-75,1.5363287383208182e+18,2022-06-13 12:44:49+00:00,['1536328738320818178'],@londonhotelso14 Hey! coming down for my Birthday in July. What time does cabaret start/finish on Saturdays? X https://t.co/rSa2TR8Qku, hey coming down for my birthday in july what time does cabaret startfinish on saturdays x ,True,False
-84,1.5344160837461688e+18,2022-06-08 06:04:37+00:00,['1534416083746168832'],@youngbuckeen Oh exciting! I'm sure we will be there then!, oh exciting im sure we will be there then,True,False
-85,1.5342915521465797e+18,2022-06-07 21:49:46+00:00,['1534291552146579456'],"@youngbuckeen Yeah my first one. Canada here I come!!
+Bring on September!",accepted new job september head year excited get back pastoral teach new setting bring september,True,job year teach september 
+1.529857168031228e+18,2022-05-26 16:09:06+00:00,['1529857168031227905'],@benjaminbutter @ABBAVoyage Cannot wait for tomorrow!!,cannot wait tomorrow,True,tomorrow 
+1.5291049672394547e+18,2022-05-24 14:20:08+00:00,['1529104967239454721'],@JackEORobinson @SamCoatesSky What happened??,happened,True,
+1.5283663404693012e+18,2022-05-22 13:25:05+00:00,['1528366340469301248'],@CharlieBlake_ @ax_ferg Where you guys watching it?,guy watching,True,guy 
+1.5236537537985454e+18,2022-05-09 13:18:57+00:00,['1523653753798545408'],@CharlieBlake_ @alexjb24 I like to think I'm lovely 😊,like think i'm lovely,True,
+1.5226691294293115e+18,2022-05-06 20:06:24+00:00,['1522669129429311489'],@natehiggins Well done you deserve it x,well done deserve,True,deserve 
+1.5224604005787034e+18,2022-05-06 06:17:00+00:00,['1522460400578703361'],I LOVE British politics. https://t.co/UaEBoEjsGM,love british politics,True,
+1.5145066593428316e+18,2022-04-14 07:31:40+00:00,['1514506659342831618'],@Dunkiecan @CharlieBlake_ @samueljenkinson Wrong,wrong,True,
+1.5137788777594266e+18,2022-04-12 07:19:43+00:00,['1513778877759426560'],@ScottishScouse Can confirm this is categorically untrue 😂,confirm categorically untrue,True,confirm 
+1.5135902491543962e+18,2022-04-11 18:50:11+00:00,['1513590249154396162'],@rhysrmann @hnjsamuels We were front row literally less than 20cm away and oh my god you will never see anything as good. See it whatever the price honestly you will not regret it!,front row literally away god never see anything good see whatever price honestly regret,True,row anything see price 
+1.5135615206130852e+18,2022-04-11 16:56:01+00:00,['1513561520613085187'],@benjaminbutter Absolutely love it!,absolutely love,True,
+1.5135441737811476e+18,2022-04-11 15:47:05+00:00,['1513544173781147650'],"Petra's stunning, who knew? https://t.co/4bzFIvpASR",petra's stunning knew,True,petra knew 
+1.5123636291019205e+18,2022-04-08 09:36:02+00:00,['1512363629101920256'],Stoned to death or beheaded? Choices. https://t.co/054uXx94vl,stoned death beheaded choice,True,death choice 
+1.5115856719699722e+18,2022-04-06 06:04:42+00:00,['1511585671969972227'],Starting the morning with a float in the dead sea and dip in infinity pool 🌞 https://t.co/Zv4HPNEsh1,starting morning float dead sea dip infinity pool,True,morning float sea dip infinity pool 
+1.5092009627574764e+18,2022-03-30 16:08:43+00:00,['1509200962757476357'],@alexjb24 Going Jordan next week. Any must sees?,going jordan next week must see,True,jordan week 
+1.50624220951074e+18,2022-03-22 12:11:42+00:00,['1506242209510739970'],Shock. https://t.co/uIsj3xQ4k9 https://t.co/GBcPa9CaDN,shock,True,shock 
+1.505578545283846e+18,2022-03-20 16:14:32+00:00,['1505578545283846144'],@SecretScot Read that as shag,read shag,True,read shag 
+1.5052140154333184e+18,2022-03-19 16:06:01+00:00,['1505214015433318408'],Amazing scenes as Italy beat Wales in the dying seconds! #6nations2022,amazing scene italy beat wale dying second,True,scene beat 
+1.5045847096612086e+18,2022-03-17 22:25:23+00:00,['1504584709661208582'],@CharlieBlake_ Jealous,jealous,True,
+1.503476646338257e+18,2022-03-14 21:02:20+00:00,['1503476646338256899'],@CharlieBlake_ Call the police,call police,True,police 
+1.502700930193576e+18,2022-03-12 17:39:55+00:00,['1502700930193575936'],@Dunkiecan Can we have some onion rings? Thanks,onion ring thanks,True,onion 
+1.502567149482791e+18,2022-03-12 08:48:19+00:00,['1502567149482790913'],People doing pre park run laps. Why? Have some respect for us little tubsters.,people pre park run lap respect little tubsters,True,run lap respect 
+1.502345310391124e+18,2022-03-11 18:06:48+00:00,['1502345310391123970'],@CharlieBlake_ London supporting our NHS https://t.co/C8xaUswgkI,london supporting,True,london 
+1.5013150577114194e+18,2022-03-08 21:52:57+00:00,['1501315057711419394'],I seem to be the only person that thought Baga should have got the win against Mo?,seem person thought baga got win,True,person baga 
+1.498597797708374e+18,2022-03-01 09:55:32+00:00,['1498597797708374017'],@SecretScot I guess it stops when they attack a NATO country?,guess stop attack nato country,True,guess attack country 
+1.4980444290929377e+18,2022-02-27 21:16:38+00:00,['1498044429092937740'],@mikey_QC @alexjb24 They regularly have like 12+ officers at Romford station. Don't see the point.,regularly like officer romford station see point,True,officer romford station point 
+1.4966079099874304e+18,2022-02-23 22:08:26+00:00,['1496607909987430400'],"@Huwniverse @FluffehAdam Also got one E but went on to get a 2:1, PGCE and a decent career.
 
-What's union??"," yeah my first one canada here i come
+Everyones journey is different. Blanket approaches don't really seem suitable. https://t.co/sJsuWpFpfG",also got one went get pgce decent career everyones journey different blanket approach really seem suitable,True,career blanket approach 
+1.4962355307485798e+18,2022-02-22 21:28:43+00:00,['1496235530748579842'],"@ScottEmery92 @DanEv I mean, I hope LDs take take more than a handful of seats from the Conservatives but I see nothing to change the fact we just haven't in a significant amount of time. Labour is clearly the only option to get rid of them. Very much hope Labour and LDs work together 🙂",mean hope lds take take handful seat conservative see nothing change fact significant amount time labour clearly option get rid much hope labour lds work together,True,hope seat see nothing change fact amount time option hope labour 
+1.4962332724221583e+18,2022-02-22 21:19:45+00:00,['1496233272422158346'],"@CJLittlemore There's only so many times you can ask yourself ""what's the point?"" before leaving &amp; I just want to put this govt into the garbage of history. But I'm sure I shall return at some point, but not under Ed Davey. https://t.co/rhtTpLJvwp",there's many time ask what's point leaving amp want put govt garbage history i'm sure shall return point davey,True,time point want garbage history i point davey 
+1.496233068029522e+18,2022-02-22 21:18:56+00:00,['1496233068029521925'],"@DanEv There's only so many times you can ask yourself ""what's the point?"" before leaving &amp; I just want to put this govt into the garbage of history. But I'm sure I shall return at some point, but not under Ed Davey.",there's many time ask what's point leaving amp want put govt garbage history i'm sure shall return point davey,True,time point want garbage history i point davey 
+1.496229946569732e+18,2022-02-22 21:06:32+00:00,['1496229946569732103'],My Labour membership has finally been approved yay! https://t.co/x2QyItqvep,labour membership finally approved yay,True,membership 
+1.4962090568470815e+18,2022-02-22 19:43:32+00:00,['1496209056847081474'],@JoshMitte @rhysrmann @CharlieBlake_ is clearly used to provoke this sort of response. Which I find quite strange and clearly this woman is a huge narcissist.,clearly used provoke sort response find quite strange clearly woman huge narcissist,True,provoke sort response woman narcissist 
+1.4962087713952973e+18,2022-02-22 19:42:23+00:00,['1496208771395297281'],@JoshMitte @rhysrmann @CharlieBlake_ The SEN support is clearly strong in her school. The point she is trying to make is that pupils with certain educational needs won't receive certain supports when they leave school so she is trying to give them tools now that they can use when they leave. The language she uses,sen support clearly strong school point trying make pupil certain educational need receive certain support leave school trying give tool use leave language,True,support school point pupil need support school tool use language 
+1.4954637541123236e+18,2022-02-20 18:21:58+00:00,['1495463754112323586'],Cabaret tomorrow! https://t.co/UqAS2nCSIa,cabaret tomorrow,True,cabaret tomorrow 
+1.4943075207264215e+18,2022-02-17 13:47:30+00:00,['1494307520726421508'],Don’t want to come home ☹️ https://t.co/P2fjlDKnUd,dont want come home,True,dont home 
+1.494045009510912e+18,2022-02-16 20:24:22+00:00,['1494045009510912004'],Can’t believe I waited this long to go Barcelona! 🇪🇸 https://t.co/fZCOgxId4g,cant believe waited long barcelona,True,barcelona 
+1.493322800458875e+18,2022-02-14 20:34:34+00:00,['1493322800458874887'],Valentines in Barcelona with this one 💓 https://t.co/KlyPNhl45g,valentine barcelona one,True,valentine barcelona 
+1.491065282387116e+18,2022-02-08 15:04:00+00:00,['1491065282387116033'],Wimbledon tickets for 4th year in a row yaas. 🎾,wimbledon ticket year row yaas,True,wimbledon ticket year row yaas 
+1.4877379683160678e+18,2022-01-30 10:42:27+00:00,['1487737968316067840'],@hnjsamuels Cricket.,cricket,True,cricket 
+1.4877069613281935e+18,2022-01-30 08:39:14+00:00,['1487706961328193536'],@Dobbln This is absolutely the energy.,absolutely energy,True,energy 
+1.487703434048512e+18,2022-01-30 08:25:13+00:00,['1487703434048512003'],"I was so wise at 15. 
 
-whats union",True,False
-86,1.5342803876351672e+18,2022-06-07 21:05:24+00:00,['1534280387635167236'],"@youngbuckeen Legit so happy to be back, getting ready for Bingham!", legit so happy to be back getting ready for bingham,True,False
-87,1.5342779548507628e+18,2022-06-07 20:55:44+00:00,['1534277954850762753'],First rugby training session back. I cannot feel my limbs. https://t.co/DhjemWffeY,first rugby training session back i cannot feel my limbs ,True,False
-97,1.532343600918446e+18,2022-06-02 12:49:18+00:00,['1532343600918446082'],Trying to teach the cats to use the cat flap. They are so little we had to get them a step! https://t.co/aQqn5QUAla,trying to teach the cats to use the cat flap they are so little we had to get them a step ,True,False
-99,1.5313653895942472e+18,2022-05-30 20:02:14+00:00,['1531365389594247170'],"In less glamorous news I slipped over twice at tennis in front of everyone. 🎾
+The fuck am i saying?? https://t.co/lUnMrB4G8E",wise fuck saying,True,wise fuck 
+1.4856367713041613e+18,2022-01-24 15:33:02+00:00,['1485636771304161285'],"Buzzing for this years holidays to Barcelona 🇪🇸, Jordan 🇯🇴 and Canada 🇨🇦 
 
-Graceful as ever, only I could come away from tennis with bloodied knees.","in less glamorous news i slipped over twice at tennis in front of everyone 
-
-graceful as ever only i could come away from tennis with bloodied knees",True,False
-100,1.531330369487786e+18,2022-05-30 17:43:05+00:00,['1531330369487785990'],@benjaminbutter Hope you're okay. Sorry this happened xx, hope youre okay sorry this happened xx,True,False
-101,1.5312662102178284e+18,2022-05-30 13:28:08+00:00,['1531266210217828359'],@Zack3O12 Thanks!, thanks,True,False
-102,1.5312635070013932e+18,2022-05-30 13:17:24+00:00,['1531263507001393153'],@DanEv Thanks!, thanks,True,False
-103,1.5312285943992156e+18,2022-05-30 10:58:40+00:00,['1531228594399215616'],"Just accepted a new job for September as a Head of Year! Excited to get back into Pastoral and teach PE in a new setting.
-
-Bring on September!","just accepted a new job for september as a head of year excited to get back into pastoral and teach pe in a new setting
-
-bring on september",True,False
-107,1.529857168031228e+18,2022-05-26 16:09:06+00:00,['1529857168031227905'],@benjaminbutter @ABBAVoyage Cannot wait for tomorrow!!,  cannot wait for tomorrow,True,False
-119,1.5291049672394547e+18,2022-05-24 14:20:08+00:00,['1529104967239454721'],@JackEORobinson @SamCoatesSky What happened??,  what happened,True,False
-121,1.5283663404693012e+18,2022-05-22 13:25:05+00:00,['1528366340469301248'],@CharlieBlake_ @ax_ferg Where you guys watching it?,  where you guys watching it,True,False
-148,1.5236537537985454e+18,2022-05-09 13:18:57+00:00,['1523653753798545408'],@CharlieBlake_ @alexjb24 I like to think I'm lovely 😊,  i like to think im lovely ,True,False
-160,1.5226691294293115e+18,2022-05-06 20:06:24+00:00,['1522669129429311489'],@natehiggins Well done you deserve it x, well done you deserve it x,True,False
-165,1.5224604005787034e+18,2022-05-06 06:17:00+00:00,['1522460400578703361'],I LOVE British politics. https://t.co/UaEBoEjsGM,i love british politics ,True,False
-210,1.5145066593428316e+18,2022-04-14 07:31:40+00:00,['1514506659342831618'],@Dunkiecan @CharlieBlake_ @samueljenkinson Wrong,   wrong,True,False
-238,1.5137788777594266e+18,2022-04-12 07:19:43+00:00,['1513778877759426560'],@ScottishScouse Can confirm this is categorically untrue 😂, can confirm this is categorically untrue ,True,False
-240,1.5135902491543962e+18,2022-04-11 18:50:11+00:00,['1513590249154396162'],@rhysrmann @hnjsamuels We were front row literally less than 20cm away and oh my god you will never see anything as good. See it whatever the price honestly you will not regret it!,  we were front row literally less than 20cm away and oh my god you will never see anything as good see it whatever the price honestly you will not regret it,True,False
-242,1.5135615206130852e+18,2022-04-11 16:56:01+00:00,['1513561520613085187'],@benjaminbutter Absolutely love it!, absolutely love it,True,False
-243,1.5135441737811476e+18,2022-04-11 15:47:05+00:00,['1513544173781147650'],"Petra's stunning, who knew? https://t.co/4bzFIvpASR",petras stunning who knew ,True,False
-255,1.5123636291019205e+18,2022-04-08 09:36:02+00:00,['1512363629101920256'],Stoned to death or beheaded? Choices. https://t.co/054uXx94vl,stoned to death or beheaded choices ,True,False
-261,1.5115856719699722e+18,2022-04-06 06:04:42+00:00,['1511585671969972227'],Starting the morning with a float in the dead sea and dip in infinity pool 🌞 https://t.co/Zv4HPNEsh1,starting the morning with a float in the dead sea and dip in infinity pool  ,True,False
-272,1.5092009627574764e+18,2022-03-30 16:08:43+00:00,['1509200962757476357'],@alexjb24 Going Jordan next week. Any must sees?, going jordan next week any must sees,True,False
-287,1.50624220951074e+18,2022-03-22 12:11:42+00:00,['1506242209510739970'],Shock. https://t.co/uIsj3xQ4k9 https://t.co/GBcPa9CaDN,shock  ,True,False
-293,1.505578545283846e+18,2022-03-20 16:14:32+00:00,['1505578545283846144'],@SecretScot Read that as shag, read that as shag,True,False
-303,1.5052140154333184e+18,2022-03-19 16:06:01+00:00,['1505214015433318408'],Amazing scenes as Italy beat Wales in the dying seconds! #6nations2022,amazing scenes as italy beat wales in the dying seconds ,True,False
-305,1.5045847096612086e+18,2022-03-17 22:25:23+00:00,['1504584709661208582'],@CharlieBlake_ Jealous, jealous,True,False
-315,1.503476646338257e+18,2022-03-14 21:02:20+00:00,['1503476646338256899'],@CharlieBlake_ Call the police, call the police,True,False
-331,1.502700930193576e+18,2022-03-12 17:39:55+00:00,['1502700930193575936'],@Dunkiecan Can we have some onion rings? Thanks, can we have some onion rings thanks,True,False
-333,1.502567149482791e+18,2022-03-12 08:48:19+00:00,['1502567149482790913'],People doing pre park run laps. Why? Have some respect for us little tubsters.,people doing pre park run laps why have some respect for us little tubsters,True,False
-336,1.502345310391124e+18,2022-03-11 18:06:48+00:00,['1502345310391123970'],@CharlieBlake_ London supporting our NHS https://t.co/C8xaUswgkI, london supporting our nhs ,True,False
-346,1.5013150577114194e+18,2022-03-08 21:52:57+00:00,['1501315057711419394'],I seem to be the only person that thought Baga should have got the win against Mo?,i seem to be the only person that thought baga should have got the win against mo,True,False
-401,1.498597797708374e+18,2022-03-01 09:55:32+00:00,['1498597797708374017'],@SecretScot I guess it stops when they attack a NATO country?, i guess it stops when they attack a nato country,True,False
-405,1.4982849935289344e+18,2022-02-28 13:12:33+00:00,['1498284993528934400'],@pvtDunc Who, who,True,False
-411,1.4980444290929377e+18,2022-02-27 21:16:38+00:00,['1498044429092937740'],@mikey_QC @alexjb24 They regularly have like 12+ officers at Romford station. Don't see the point.,  they regularly have like 12 officers at romford station dont see the point,True,False
-460,1.4966079099874304e+18,2022-02-23 22:08:26+00:00,['1496607909987430400'],"@Huwniverse @FluffehAdam Also got one E but went on to get a 2:1, PGCE and a decent career.
-
-Everyones journey is different. Blanket approaches don't really seem suitable. https://t.co/sJsuWpFpfG","  also got one e but went on to get a 21 pgce and a decent career
-
-everyones journey is different blanket approaches dont really seem suitable ",True,False
-462,1.4962355307485798e+18,2022-02-22 21:28:43+00:00,['1496235530748579842'],"@ScottEmery92 @DanEv I mean, I hope LDs take take more than a handful of seats from the Conservatives but I see nothing to change the fact we just haven't in a significant amount of time. Labour is clearly the only option to get rid of them. Very much hope Labour and LDs work together 🙂",  i mean i hope lds take take more than a handful of seats from the conservatives but i see nothing to change the fact we just havent in a significant amount of time labour is clearly the only option to get rid of them very much hope labour and lds work together ,True,False
-463,1.4962332724221583e+18,2022-02-22 21:19:45+00:00,['1496233272422158346'],"@CJLittlemore There's only so many times you can ask yourself ""what's the point?"" before leaving &amp; I just want to put this govt into the garbage of history. But I'm sure I shall return at some point, but not under Ed Davey. https://t.co/rhtTpLJvwp", theres only so many times you can ask yourself whats the point before leaving amp i just want to put this govt into the garbage of history but im sure i shall return at some point but not under ed davey ,True,False
-464,1.496233068029522e+18,2022-02-22 21:18:56+00:00,['1496233068029521925'],"@DanEv There's only so many times you can ask yourself ""what's the point?"" before leaving &amp; I just want to put this govt into the garbage of history. But I'm sure I shall return at some point, but not under Ed Davey.", theres only so many times you can ask yourself whats the point before leaving amp i just want to put this govt into the garbage of history but im sure i shall return at some point but not under ed davey,True,False
-465,1.496229946569732e+18,2022-02-22 21:06:32+00:00,['1496229946569732103'],My Labour membership has finally been approved yay! https://t.co/x2QyItqvep,my labour membership has finally been approved yay ,True,False
-466,1.4962090568470815e+18,2022-02-22 19:43:32+00:00,['1496209056847081474'],@JoshMitte @rhysrmann @CharlieBlake_ is clearly used to provoke this sort of response. Which I find quite strange and clearly this woman is a huge narcissist.,   is clearly used to provoke this sort of response which i find quite strange and clearly this woman is a huge narcissist,True,False
-467,1.4962087713952973e+18,2022-02-22 19:42:23+00:00,['1496208771395297281'],@JoshMitte @rhysrmann @CharlieBlake_ The SEN support is clearly strong in her school. The point she is trying to make is that pupils with certain educational needs won't receive certain supports when they leave school so she is trying to give them tools now that they can use when they leave. The language she uses,   the sen support is clearly strong in her school the point she is trying to make is that pupils with certain educational needs wont receive certain supports when they leave school so she is trying to give them tools now that they can use when they leave the language she uses,True,False
-471,1.4954637541123236e+18,2022-02-20 18:21:58+00:00,['1495463754112323586'],Cabaret tomorrow! https://t.co/UqAS2nCSIa,cabaret tomorrow ,True,False
-472,1.4943075207264215e+18,2022-02-17 13:47:30+00:00,['1494307520726421508'],Don’t want to come home ☹️ https://t.co/P2fjlDKnUd,don’t want to come home  ,True,False
-473,1.494045009510912e+18,2022-02-16 20:24:22+00:00,['1494045009510912004'],Can’t believe I waited this long to go Barcelona! 🇪🇸 https://t.co/fZCOgxId4g,can’t believe i waited this long to go barcelona  ,True,False
-474,1.493322800458875e+18,2022-02-14 20:34:34+00:00,['1493322800458874887'],Valentines in Barcelona with this one 💓 https://t.co/KlyPNhl45g,valentines in barcelona with this one  ,True,False
-475,1.4928963317483192e+18,2022-02-13 16:19:56+00:00,['1492896331748319232'],40.. 🤷‍♂️ https://t.co/lJwnlfyjwG,40  ,True,False
-479,1.491065282387116e+18,2022-02-08 15:04:00+00:00,['1491065282387116033'],Wimbledon tickets for 4th year in a row yaas. 🎾,wimbledon tickets for 4th year in a row yaas ,True,False
-496,1.4877379683160678e+18,2022-01-30 10:42:27+00:00,['1487737968316067840'],@hnjsamuels Cricket., cricket,True,False
-498,1.4877069613281935e+18,2022-01-30 08:39:14+00:00,['1487706961328193536'],@Dobbln This is absolutely the energy., this is absolutely the energy,True,False
-499,1.487703434048512e+18,2022-01-30 08:25:13+00:00,['1487703434048512003'],"I was so wise at 15. 
-
-The fuck am i saying?? https://t.co/lUnMrB4G8E","i was so wise at 15 
-
-the fuck am i saying ",True,False
-505,1.4856367713041613e+18,2022-01-24 15:33:02+00:00,['1485636771304161285'],"Buzzing for this years holidays to Barcelona 🇪🇸, Jordan 🇯🇴 and Canada 🇨🇦 
-
-I’m sure some mutant variant on steroids will come along and ruin it 👀","buzzing for this years holidays to barcelona  jordan  and canada  
-
-i’m sure some mutant variant on steroids will come along and ruin it ",True,False
-510,1.484869681139921e+18,2022-01-22 12:44:54+00:00,['1484869681139920897'],A lovely welcome to Birmingham. https://t.co/Yll69Y6gDp,a lovely welcome to birmingham ,True,False
-513,1.483570514325082e+18,2022-01-18 22:42:28+00:00,['1483570514325082115'],@TeamPangloss @JSHiggins_ Indeed.,  indeed,True,False
-514,1.4835700849374454e+18,2022-01-18 22:40:46+00:00,['1483570084937445383'],@JSHiggins_ One rumour is he could call a House of Commons vote of confidence in himself which would be public., one rumour is he could call a house of commons vote of confidence in himself which would be public,True,False
-515,1.4835693074518917e+18,2022-01-18 22:37:40+00:00,['1483569307451891717'],@JSHiggins_ Tory triggered one is private., tory triggered one is private,True,False
-528,1.4806258724534886e+18,2022-01-10 19:41:31+00:00,['1480625872453488640'],@Josh__B_xx Make it make sense., make it make sense,True,False
-530,1.4805893301964063e+18,2022-01-10 17:16:18+00:00,['1480589330196406280'],@CharlieBlake_ Link?, link,True,False
-531,1.4802332777179914e+18,2022-01-09 17:41:29+00:00,['1480233277717991428'],"0-18 Leicester
+I’m sure some mutant variant on steroids will come along and ruin it 👀",buzzing year holiday barcelona jordan canada sure mutant variant steroid come along ruin,True,year holiday jordan canada variant steroid ruin 
+1.484869681139921e+18,2022-01-22 12:44:54+00:00,['1484869681139920897'],A lovely welcome to Birmingham. https://t.co/Yll69Y6gDp,lovely welcome birmingham,True,birmingham 
+1.483570514325082e+18,2022-01-18 22:42:28+00:00,['1483570514325082115'],@TeamPangloss @JSHiggins_ Indeed.,indeed,True,
+1.4835700849374454e+18,2022-01-18 22:40:46+00:00,['1483570084937445383'],@JSHiggins_ One rumour is he could call a House of Commons vote of confidence in himself which would be public.,one rumour could call house common vote confidence would public,True,rumour house vote confidence 
+1.4835693074518917e+18,2022-01-18 22:37:40+00:00,['1483569307451891717'],@JSHiggins_ Tory triggered one is private.,tory triggered one private,True,tory 
+1.4806258724534886e+18,2022-01-10 19:41:31+00:00,['1480625872453488640'],@Josh__B_xx Make it make sense.,make make sense,True,make sense 
+1.4805893301964063e+18,2022-01-10 17:16:18+00:00,['1480589330196406280'],@CharlieBlake_ Link?,link,True,link 
+1.4802332777179914e+18,2022-01-09 17:41:29+00:00,['1480233277717991428'],"0-18 Leicester
 19-21 Royal Leamington Spa
 21-26+ London
 
-🤷‍♂️ https://t.co/CE6xlwhz87","018 leicester
-1921 royal leamington spa
-2126 london
+🤷‍♂️ https://t.co/CE6xlwhz87",leicester royal leamington spa london,True,leicester royal leamington spa london 
+1.4798870724041646e+18,2022-01-08 18:45:47+00:00,['1479887072404164608'],@CJLittlemore You’re always welcome x,youre always welcome,True,youre 
+1.4798868132968407e+18,2022-01-08 18:44:45+00:00,['1479886813296840705'],@CJLittlemore Haha tbf we planned to go Soho but there are central line strikes which would be irritating.,haha tbf planned soho central line strike would irritating,True,haha tbf line strike 
+1.479886553723945e+18,2022-01-08 18:43:44+00:00,['1479886553723944966'],@CJLittlemore You’re in Wales?! 😂,youre wale,True,youre wale 
+1.4798657979841126e+18,2022-01-08 17:21:15+00:00,['1479865797984112651'],Dominos and wine night. https://t.co/TGTWOiUB31,domino wine night,True,domino wine night 
+1.479593593845293e+18,2022-01-07 23:19:36+00:00,['1479593593845293062'],@rhysrmann This brings my great sadness.,brings great sadness,True,sadness 
+1.4788419165822075e+18,2022-01-05 21:32:43+00:00,['1478841916582207493'],Hahahaha bye 👋 https://t.co/42jK4NIhOq,hahahaha bye,True,hahahaha bye 
+1.4776998337586913e+18,2022-01-02 17:54:29+00:00,['1477699833758691337'],"Sugar daddy, wealth, money.
 
- ",True,False
-532,1.4798870724041646e+18,2022-01-08 18:45:47+00:00,['1479887072404164608'],@CJLittlemore You’re always welcome x, you’re always welcome x,True,False
-533,1.4798868132968407e+18,2022-01-08 18:44:45+00:00,['1479886813296840705'],@CJLittlemore Haha tbf we planned to go Soho but there are central line strikes which would be irritating., haha tbf we planned to go soho but there are central line strikes which would be irritating,True,False
-534,1.479886553723945e+18,2022-01-08 18:43:44+00:00,['1479886553723944966'],@CJLittlemore You’re in Wales?! 😂, you’re in wales ,True,False
-535,1.4798657979841126e+18,2022-01-08 17:21:15+00:00,['1479865797984112651'],Dominos and wine night. https://t.co/TGTWOiUB31,dominos and wine night ,True,False
-536,1.479593593845293e+18,2022-01-07 23:19:36+00:00,['1479593593845293062'],@rhysrmann This brings my great sadness., this brings my great sadness,True,False
-538,1.4788419165822075e+18,2022-01-05 21:32:43+00:00,['1478841916582207493'],Hahahaha bye 👋 https://t.co/42jK4NIhOq,hahahaha bye  ,True,False
-544,1.4776998337586913e+18,2022-01-02 17:54:29+00:00,['1477699833758691337'],"Sugar daddy, wealth, money.
+Here’s hoping! 💰 https://t.co/2abO8A3wtL",sugar daddy wealth money hoping,True,sugar daddy wealth money 
+1.4776986611403407e+18,2022-01-02 17:49:49+00:00,['1477698661140340738'],@CharlieBlake_ @rhysrmann They don’t exist.,dont exist,True,
+1.4776983389381345e+18,2022-01-02 17:48:32+00:00,['1477698338938134530'],@CharlieBlake_ Very accurate lol I love her 😂 but no do not post that haha.,accurate lol love post haha,True,post haha 
+1.477696530236719e+18,2022-01-02 17:41:21+00:00,['1477696530236719108'],@CharlieBlake_ What’s the video lol,whats video lol,True,lol 
+1.477613287441326e+18,2022-01-02 12:10:35+00:00,['1477613287441326080'],@LeicesterTigers Is it on any tv channel live? Can’t seem to find a channel that is.,channel live cant seem find channel,True,cant channel 
+1.4774162186509804e+18,2022-01-01 23:07:30+00:00,['1477416218650980352'],@pingualoty I can help x,help,True,help 
+1.4774159761907548e+18,2022-01-01 23:06:32+00:00,['1477415976190754822'],@pingualoty How did this happen,happen,True,
+1.4773189625642844e+18,2022-01-01 16:41:02+00:00,['1477318962564284417'],@GarethLShelton Well done!!,well done,True,
+1.4762632230369444e+18,2021-12-29 18:45:54+00:00,['1476263223036944390'],@J_Holliss Choices. Choices were made.,choice choice made,True,choice choice 
+1.4762621638745252e+18,2021-12-29 18:41:42+00:00,['1476262163874525187'],@J_Holliss Talk about glow down 😉,talk glow,True,talk glow 
+1.4762619902303724e+18,2021-12-29 18:41:00+00:00,['1476261990230372352'],@harrydotcom_ Obsessed with those candles,obsessed candle,True,candle 
+1.476177730454569e+18,2021-12-29 13:06:11+00:00,['1476177730454568970'],"Ocado delivery man just asked if the shopping was for my mum.
 
-Here’s hoping! 💰 https://t.co/2abO8A3wtL","sugar daddy wealth money
+Still got it, never lost it.",ocado delivery man asked shopping mum still got never lost,True,delivery man mum 
+1.4746542474468844e+18,2021-12-25 08:12:24+00:00,['1474654247446884355'],Presents opened. Now time for some bubbly in the hot tub with some tunes.,present opened time bubbly hot tub tune,True,present time tub tune 
+1.4740362015522363e+18,2021-12-23 15:16:31+00:00,['1474036201552236551'],"@dylanhm I forgot your heart is overflowing with hatred.
 
-here’s hoping  ",True,False
-545,1.4776986611403407e+18,2022-01-02 17:49:49+00:00,['1477698661140340738'],@CharlieBlake_ @rhysrmann They don’t exist.,  they don’t exist,True,False
-546,1.4776983389381345e+18,2022-01-02 17:48:32+00:00,['1477698338938134530'],@CharlieBlake_ Very accurate lol I love her 😂 but no do not post that haha., very accurate lol i love her  but no do not post that haha,True,False
-547,1.477696530236719e+18,2022-01-02 17:41:21+00:00,['1477696530236719108'],@CharlieBlake_ What’s the video lol, what’s the video lol,True,False
-548,1.477613287441326e+18,2022-01-02 12:10:35+00:00,['1477613287441326080'],@LeicesterTigers Is it on any tv channel live? Can’t seem to find a channel that is., is it on any tv channel live can’t seem to find a channel that is,True,False
-549,1.4774162186509804e+18,2022-01-01 23:07:30+00:00,['1477416218650980352'],@pingualoty I can help x, i can help x,True,False
-550,1.4774159761907548e+18,2022-01-01 23:06:32+00:00,['1477415976190754822'],@pingualoty How did this happen, how did this happen,True,False
-551,1.4773189625642844e+18,2022-01-01 16:41:02+00:00,['1477318962564284417'],@GarethLShelton Well done!!, well done,True,False
-554,1.4762632230369444e+18,2021-12-29 18:45:54+00:00,['1476263223036944390'],@J_Holliss Choices. Choices were made., choices choices were made,True,False
-555,1.4762621638745252e+18,2021-12-29 18:41:42+00:00,['1476262163874525187'],@J_Holliss Talk about glow down 😉, talk about glow down ,True,False
-556,1.4762619902303724e+18,2021-12-29 18:41:00+00:00,['1476261990230372352'],@harrydotcom_ Obsessed with those candles, obsessed with those candles,True,False
-557,1.476177730454569e+18,2021-12-29 13:06:11+00:00,['1476177730454568970'],"Ocado delivery man just asked if the shopping was for my mum.
-
-Still got it, never lost it.","ocado delivery man just asked if the shopping was for my mum
-
-still got it never lost it",True,False
-562,1.4746542474468844e+18,2021-12-25 08:12:24+00:00,['1474654247446884355'],Presents opened. Now time for some bubbly in the hot tub with some tunes.,presents opened now time for some bubbly in the hot tub with some tunes,True,False
-563,1.4740362015522363e+18,2021-12-23 15:16:31+00:00,['1474036201552236551'],"@dylanhm I forgot your heart is overflowing with hatred.
-
-*whispers* I love it.."," i forgot your heart is overflowing with hatred
-
-whispers i love it",True,False
-564,1.4740359247868887e+18,2021-12-23 15:15:25+00:00,['1474035924786888716'],@dylanhm Why do you hate Christmas?, why do you hate christmas,True,False
-565,1.4737825104380436e+18,2021-12-22 22:28:26+00:00,['1473782510438043648'],@Dunkiecan Moved in then ffs. Debby downer., moved in then ffs debby downer,True,False
-566,1.4737354162432778e+18,2021-12-22 19:21:18+00:00,['1473735416243277841'],@harrydotcom_ Living for your domestic vibes, living for your domestic vibes,True,False
-567,1.4737352144846643e+18,2021-12-22 19:20:30+00:00,['1473735214484664329'],"1. Bought a house 🏡 
+*whispers* I love it..",forgot heart overflowing hatred whisper love,True,heart love 
+1.4740359247868887e+18,2021-12-23 15:15:25+00:00,['1474035924786888716'],@dylanhm Why do you hate Christmas?,hate christmas,True,hate 
+1.4737825104380436e+18,2021-12-22 22:28:26+00:00,['1473782510438043648'],@Dunkiecan Moved in then ffs. Debby downer.,moved ffs debby downer,True,downer 
+1.4737354162432778e+18,2021-12-22 19:21:18+00:00,['1473735416243277841'],@harrydotcom_ Living for your domestic vibes,living domestic vibe,True,vibe 
+1.4737352144846643e+18,2021-12-22 19:20:30+00:00,['1473735214484664329'],"1. Bought a house 🏡 
 2. Promotion at work 🏫 
-3. Rescued two adorable cats 🐈 https://t.co/PMwwVwRTQv","1 bought a house  
-2 promotion at work  
-3 rescued two adorable cats  ",True,False
-574,1.4730041562396877e+18,2021-12-20 18:55:32+00:00,['1473004156239687692'],6. https://t.co/kRCJ2cdycS,6 ,True,False
-575,1.472998089007018e+18,2021-12-20 18:31:26+00:00,['1472998089007017997'],@Jordan_Lee AMAZING well done!!, amazing well done,True,False
-588,1.471836816743481e+18,2021-12-17 13:36:57+00:00,['1471836816743481347'],I’m so hungover I didn’t have the brain capacity to do 22+25 so loaded my calculator.,i’m so hungover i didn’t have the brain capacity to do 2225 so loaded my calculator,True,False
-591,1.4711695295313224e+18,2021-12-15 17:25:23+00:00,['1471169529531322369'],"@gavindrawsstuff Omicron, apparently.", omicron apparently,True,False
-592,1.4711657180832932e+18,2021-12-15 17:10:14+00:00,['1471165718083293194'],@JackEORobinson He said 780k lll, he said 780k lll,True,False
-595,1.470096965308498e+18,2021-12-12 18:23:24+00:00,['1470096965308497922'],@harrydotcom_ He’s not announcing new restrictions don’t worry., he’s not announcing new restrictions don’t worry,True,False
-602,1.4697978470086984e+18,2021-12-11 22:34:48+00:00,['1469797847008698380'],"He is clearly just going to give some bullshit response and just say he’s committed to tackling the pandemic and the matter is closed. 
+3. Rescued two adorable cats 🐈 https://t.co/PMwwVwRTQv",bought house promotion work rescued two adorable cat,True,house promotion work cat 
+1.472998089007018e+18,2021-12-20 18:31:26+00:00,['1472998089007017997'],@Jordan_Lee AMAZING well done!!,amazing well done,True,
+1.471836816743481e+18,2021-12-17 13:36:57+00:00,['1471836816743481347'],I’m so hungover I didn’t have the brain capacity to do 22+25 so loaded my calculator.,hungover didnt brain capacity loaded calculator,True,hungover didnt brain capacity calculator 
+1.4711695295313224e+18,2021-12-15 17:25:23+00:00,['1471169529531322369'],"@gavindrawsstuff Omicron, apparently.",omicron apparently,True,omicron 
+1.4711657180832932e+18,2021-12-15 17:10:14+00:00,['1471165718083293194'],@JackEORobinson He said 780k lll,said lll,True,lll 
+1.470096965308498e+18,2021-12-12 18:23:24+00:00,['1470096965308497922'],@harrydotcom_ He’s not announcing new restrictions don’t worry.,announcing new restriction dont worry,True,restriction dont worry 
+1.4697978470086984e+18,2021-12-11 22:34:48+00:00,['1469797847008698380'],"He is clearly just going to give some bullshit response and just say he’s committed to tackling the pandemic and the matter is closed. 
 
-He is not going to go quietly, torys need to oust him. Not sure they will 🤷‍♂️","he is clearly just going to give some bullshit response and just say he’s committed to tackling the pandemic and the matter is closed 
+He is not going to go quietly, torys need to oust him. Not sure they will 🤷‍♂️",clearly going give bullshit response say committed tackling pandemic matter closed going quietly tory need oust sure,True,bullshit response matter need sure 
+1.4683274008491704e+18,2021-12-07 21:11:47+00:00,['1468327400849170438'],Jesus Christ. https://t.co/M8h8PVZJJJ,jesus christ,True,jesus christ 
+1.467632983582679e+18,2021-12-05 23:12:25+00:00,['1467632983582679043'],@JuliaHB1 @afneil Hmm 🤔 https://t.co/5YXUrRN7nS,hmm,True,hmm 
+1.4658100726097306e+18,2021-11-30 22:28:49+00:00,['1465810072609730560'],"I’ve been watching Duncan try and open a drumstick lolly for 7 minutes. (I wish I was joking).
 
-he is not going to go quietly torys need to oust him not sure they will ",True,False
-610,1.4683274008491704e+18,2021-12-07 21:11:47+00:00,['1468327400849170438'],Jesus Christ. https://t.co/M8h8PVZJJJ,jesus christ ,True,False
-617,1.467632983582679e+18,2021-12-05 23:12:25+00:00,['1467632983582679043'],@JuliaHB1 @afneil Hmm 🤔 https://t.co/5YXUrRN7nS,  hmm  ,True,False
-620,1.4658100726097306e+18,2021-11-30 22:28:49+00:00,['1465810072609730560'],"I’ve been watching Duncan try and open a drumstick lolly for 7 minutes. (I wish I was joking).
+Still not open.",ive watching duncan try open drumstick lolly minute wish joking still open,True,watching try drumstick joking 
+1.464897876656595e+18,2021-11-28 10:04:04+00:00,['1464897876656594949'],@LeydenLisa @BBCFergusWalsh @fact_covid But old guidance wasn’t to isolate so im presuming we don’t have to still? Nothing says we have to. I’m a teacher so WFH not an option.,old guidance wasnt isolate presuming dont still nothing say teacher wfh option,True,guidance wasnt isolate presuming dont nothing teacher wfh option 
+1.4648906728136827e+18,2021-11-28 09:35:27+00:00,['1464890672813682688'],@adebradley @thatjohn @WhichUK Im just glad it’s clear 😂,glad clear,True,glad 
+1.4648898605069883e+18,2021-11-28 09:32:13+00:00,['1464889860506988546'],@adebradley @thatjohn @WhichUK Lateral flow on day 2. But I don’t know if we isolate until that?,lateral flow day dont know isolate,True,day isolate 
+1.4648891009939743e+18,2021-11-28 09:29:12+00:00,['1464889100993974280'],@thatjohn @adebradley @WhichUK If we arrive on Monday do we isolate until negative lateral flow?,arrive monday isolate negative lateral flow,True,monday flow 
+1.4648889820394168e+18,2021-11-28 09:28:44+00:00,['1464888982039416834'],@roryboland If we arrive Monday do we need to isolate??,arrive monday need isolate,True,monday isolate 
+1.464888645605892e+18,2021-11-28 09:27:24+00:00,['1464888645605892097'],@BBCFergusWalsh @fact_covid So if we arrive on Monday we don’t need to isolate?,arrive monday dont need isolate,True,monday isolate 
+1.46486091432747e+18,2021-11-28 07:37:12+00:00,['1464860914327470091'],@Garrett__Jon @grantshapps Let us know if you get an answer!!,let know get answer,True,
+1.464270735275397e+18,2021-11-26 16:32:02+00:00,['1464270735275397122'],Strangers have complimented my jumper and scarf today. https://t.co/KBogoxZMr0,stranger complimented jumper scarf today,True,stranger scarf today 
+1.463771109271163e+18,2021-11-25 07:26:42+00:00,['1463771109271162883'],@gavindrawsstuff @Olliez0r We have this Friday and Monday off. Not for Black Friday though haha. Not sure why to be honest.. I wasn’t willing to question it 😂,friday monday black friday though haha sure honest wasnt willing question,True,friday friday wasnt question 
+1.4623686764186706e+18,2021-11-21 10:33:56+00:00,['1462368676418670593'],Can’t wait for our trip to Amsterdam on Thursday 😂 https://t.co/J36jQtXifX,cant wait trip amsterdam thursday,True,wait trip amsterdam thursday 
+1.453655202557571e+18,2021-10-28 09:29:42+00:00,['1453655202557571073'],Gold Circle for Adele!!,gold circle adele,True,gold circle adele 
+1.4522271333093253e+18,2021-10-24 10:55:04+00:00,['1452227133309325313'],@cumkinggg Snap https://t.co/Y1Mq3TW5ro,snap,True,snap 
+1.448372841569735e+18,2021-10-13 19:39:29+00:00,['1448372841569734663'],@dylanhm @WorrallJack Only Libs can win here.,libs win,True,libs win 
+1.448371816171516e+18,2021-10-13 19:35:25+00:00,['1448371816171515907'],@WorrallJack Errrr should we?!,errrr,True,errrr 
+1.446555081902592e+18,2021-10-08 19:16:21+00:00,['1446555081902592018'],Why does Duncan keep taking me to the wrong venue at every event we go to? Which results in manic Uber rides to make it on time?!,doe duncan keep taking wrong venue every event result manic uber ride make time,True,doe venue event result uber make time 
+1.4425460906084024e+18,2021-09-27 17:46:03+00:00,['1442546090608402436'],"It took me 2.5 hours to do my usual 30 min drive to work this morning &amp; then I absolutely stacked it in front of all the kids on the way to my A Level class because I was running to be on time. 
 
-Still not open.","i’ve been watching duncan try and open a drumstick lolly for 7 minutes i wish i was joking
+Finally home and poured myself a disaranno.",took hour usual min drive work morning amp absolutely stacked front kid way level class running time finally home poured disaranno,True,hour min drive work morning amp way class time disaranno 
+1.4421584511032525e+18,2021-09-26 16:05:43+00:00,['1442158451103252481'],Can always rely on Spurs lifting my mood. #AFC,always rely spur lifting mood,True,mood 
+1.4405938222625792e+18,2021-09-22 08:28:26+00:00,['1440593822262579205'],Jurgen and Maggie are my favourites. Sorry not sorry. #BakeOff,jurgen maggie favourite sorry sorry,True,jurgen maggie favourite sorry sorry 
+1.4401977310042604e+18,2021-09-21 06:14:31+00:00,['1440197731004260359'],"Officially 2 years since my last flight, to Kenya ☹️ https://t.co/gHf98LoiPC",officially year since last flight kenya,True,year flight kenya 
+1.4385195251634258e+18,2021-09-16 15:05:55+00:00,['1438519525163425806'],Watching white gammons lose their shit on the Havering community Facebook group is my favourite thing. A Debenhams was rumoured to be turning into a Bangladeshi banquet hall &amp; you would think they had an announced Havering was being ejected into space.,watching white gammon lose shit havering community facebook group favourite thing debenhams rumoured turning bangladeshi banquet hall amp would think announced havering ejected space,True,gammon lose shit community facebook group thing bangladeshi banquet hall amp space 
+1.437175788529496e+18,2021-09-12 22:06:24+00:00,['1437175788529496067'],Watching Djokovic lose sparks joy. #USOpen,watching djokovic lose spark joy,True,djokovic spark joy 
+1.4370947138452357e+18,2021-09-12 16:44:14+00:00,['1437094713845235713'],"Is there anything more soul destroying than going to get your dinner out of the oven, to discover you haven’t turned it on? 😢",anything soul destroying going get dinner oven discover havent turned,True,anything get dinner havent 
+1.4368043219880264e+18,2021-09-11 21:30:19+00:00,['1436804321988026371'],The amount of depth and power she consistently produces is unbelievable.,amount depth power consistently produce unbelievable,True,amount depth power 
+1.4368012990607565e+18,2021-09-11 21:18:18+00:00,['1436801299060756480'],Let’s go Emma!! #USOpenFinal,let emma,True,emma 
+1.4356726038181356e+18,2021-09-08 18:33:16+00:00,['1435672603818135554'],@TeamPangloss Got to have money to sue init. Spent it all on new shit.,got money sue init spent new shit,True,money sue shit 
+1.4356706006142853e+18,2021-09-08 18:25:19+00:00,['1435670600614285327'],"ITS A TRAP. I’ve gone from having two bathrooms to essentially having a sink and toilet.
 
-still not open",True,False
-622,1.464897876656595e+18,2021-11-28 10:04:04+00:00,['1464897876656594949'],@LeydenLisa @BBCFergusWalsh @fact_covid But old guidance wasn’t to isolate so im presuming we don’t have to still? Nothing says we have to. I’m a teacher so WFH not an option.,   but old guidance wasn’t to isolate so im presuming we don’t have to still nothing says we have to i’m a teacher so wfh not an option,True,False
-623,1.4648906728136827e+18,2021-11-28 09:35:27+00:00,['1464890672813682688'],@adebradley @thatjohn @WhichUK Im just glad it’s clear 😂,   im just glad it’s clear ,True,False
-624,1.4648898605069883e+18,2021-11-28 09:32:13+00:00,['1464889860506988546'],@adebradley @thatjohn @WhichUK Lateral flow on day 2. But I don’t know if we isolate until that?,   lateral flow on day 2 but i don’t know if we isolate until that,True,False
-625,1.4648891009939743e+18,2021-11-28 09:29:12+00:00,['1464889100993974280'],@thatjohn @adebradley @WhichUK If we arrive on Monday do we isolate until negative lateral flow?,   if we arrive on monday do we isolate until negative lateral flow,True,False
-626,1.4648889820394168e+18,2021-11-28 09:28:44+00:00,['1464888982039416834'],@roryboland If we arrive Monday do we need to isolate??, if we arrive monday do we need to isolate,True,False
-627,1.464888645605892e+18,2021-11-28 09:27:24+00:00,['1464888645605892097'],@BBCFergusWalsh @fact_covid So if we arrive on Monday we don’t need to isolate?,  so if we arrive on monday we don’t need to isolate,True,False
-629,1.46486091432747e+18,2021-11-28 07:37:12+00:00,['1464860914327470091'],@Garrett__Jon @grantshapps Let us know if you get an answer!!,  let us know if you get an answer,True,False
-632,1.46464258986129e+18,2021-11-27 17:09:39+00:00,['1464642589861289992'],@antoguerrera From when?, from when,True,False
-633,1.464642273107399e+18,2021-11-27 17:08:24+00:00,['1464642273107398659'],@Peston @BorisJohnson From when?,  from when,True,False
-637,1.464270735275397e+18,2021-11-26 16:32:02+00:00,['1464270735275397122'],Strangers have complimented my jumper and scarf today. https://t.co/KBogoxZMr0,strangers have complimented my jumper and scarf today ,True,False
-639,1.463771109271163e+18,2021-11-25 07:26:42+00:00,['1463771109271162883'],@gavindrawsstuff @Olliez0r We have this Friday and Monday off. Not for Black Friday though haha. Not sure why to be honest.. I wasn’t willing to question it 😂,  we have this friday and monday off not for black friday though haha not sure why to be honest i wasn’t willing to question it ,True,False
-640,1.463770738402472e+18,2021-11-25 07:25:14+00:00,['1463770738402471942'],@Olliez0r @gavindrawsstuff Same 😂,  same ,True,False
-645,1.4623686764186706e+18,2021-11-21 10:33:56+00:00,['1462368676418670593'],Can’t wait for our trip to Amsterdam on Thursday 😂 https://t.co/J36jQtXifX,can’t wait for our trip to amsterdam on thursday  ,True,False
-651,1.453655202557571e+18,2021-10-28 09:29:42+00:00,['1453655202557571073'],Gold Circle for Adele!!,gold circle for adele,True,False
-653,1.4522271333093253e+18,2021-10-24 10:55:04+00:00,['1452227133309325313'],@cumkinggg Snap https://t.co/Y1Mq3TW5ro, snap ,True,False
-654,1.448372841569735e+18,2021-10-13 19:39:29+00:00,['1448372841569734663'],@dylanhm @WorrallJack Only Libs can win here.,  only libs can win here,True,False
-655,1.448371816171516e+18,2021-10-13 19:35:25+00:00,['1448371816171515907'],@WorrallJack Errrr should we?!, errrr should we,True,False
-656,1.446555081902592e+18,2021-10-08 19:16:21+00:00,['1446555081902592018'],Why does Duncan keep taking me to the wrong venue at every event we go to? Which results in manic Uber rides to make it on time?!,why does duncan keep taking me to the wrong venue at every event we go to which results in manic uber rides to make it on time,True,False
-661,1.4425460906084024e+18,2021-09-27 17:46:03+00:00,['1442546090608402436'],"It took me 2.5 hours to do my usual 30 min drive to work this morning &amp; then I absolutely stacked it in front of all the kids on the way to my A Level class because I was running to be on time. 
-
-Finally home and poured myself a disaranno.","it took me 25 hours to do my usual 30 min drive to work this morning amp then i absolutely stacked it in front of all the kids on the way to my a level class because i was running to be on time 
-
-finally home and poured myself a disaranno",True,False
-663,1.4421584511032525e+18,2021-09-26 16:05:43+00:00,['1442158451103252481'],Can always rely on Spurs lifting my mood. #AFC,can always rely on spurs lifting my mood ,True,False
-665,1.4405938222625792e+18,2021-09-22 08:28:26+00:00,['1440593822262579205'],Jurgen and Maggie are my favourites. Sorry not sorry. #BakeOff,jurgen and maggie are my favourites sorry not sorry ,True,False
-666,1.4401977310042604e+18,2021-09-21 06:14:31+00:00,['1440197731004260359'],"Officially 2 years since my last flight, to Kenya ☹️ https://t.co/gHf98LoiPC",officially 2 years since my last flight to kenya  ,True,False
-667,1.4385195251634258e+18,2021-09-16 15:05:55+00:00,['1438519525163425806'],Watching white gammons lose their shit on the Havering community Facebook group is my favourite thing. A Debenhams was rumoured to be turning into a Bangladeshi banquet hall &amp; you would think they had an announced Havering was being ejected into space.,watching white gammons lose their shit on the havering community facebook group is my favourite thing a debenhams was rumoured to be turning into a bangladeshi banquet hall amp you would think they had an announced havering was being ejected into space,True,False
-668,1.437175788529496e+18,2021-09-12 22:06:24+00:00,['1437175788529496067'],Watching Djokovic lose sparks joy. #USOpen,watching djokovic lose sparks joy ,True,False
-669,1.4370947138452357e+18,2021-09-12 16:44:14+00:00,['1437094713845235713'],"Is there anything more soul destroying than going to get your dinner out of the oven, to discover you haven’t turned it on? 😢",is there anything more soul destroying than going to get your dinner out of the oven to discover you haven’t turned it on ,True,False
-672,1.4368043219880264e+18,2021-09-11 21:30:19+00:00,['1436804321988026371'],The amount of depth and power she consistently produces is unbelievable.,the amount of depth and power she consistently produces is unbelievable,True,False
-673,1.4368012990607565e+18,2021-09-11 21:18:18+00:00,['1436801299060756480'],Let’s go Emma!! #USOpenFinal,let’s go emma ,True,False
-676,1.4356726038181356e+18,2021-09-08 18:33:16+00:00,['1435672603818135554'],@TeamPangloss Got to have money to sue init. Spent it all on new shit., got to have money to sue init spent it all on new shit,True,False
-677,1.4356706006142853e+18,2021-09-08 18:25:19+00:00,['1435670600614285327'],"ITS A TRAP. I’ve gone from having two bathrooms to essentially having a sink and toilet.
-
-Send help and cash x","its a trap i’ve gone from having two bathrooms to essentially having a sink and toilet
-
-send help and cash x",True,False
-678,1.4356704624036823e+18,2021-09-08 18:24:46+00:00,['1435670462403682304'],"Don’t buy a house kids. Lived here 6 months and had problems with/had to replace:
+Send help and cash x",trap ive gone two bathroom essentially sink toilet send help cash,True,trap bathroom toilet help cash 
+1.4356704624036823e+18,2021-09-08 18:24:46+00:00,['1435670462403682304'],"Don’t buy a house kids. Lived here 6 months and had problems with/had to replace:
 
 - A whole downstairs bathroom
 - Dishwasher
 - Washing machine
 - The bath/upstairs toilet
 - Roof leaking twice
-- Many little things I am blocking out","don’t buy a house kids lived here 6 months and had problems withhad to replace
+- Many little things I am blocking out",dont buy house kid lived month problem withhad replace whole downstairs bathroom dishwasher washing machine bathupstairs toilet roof leaking twice many little thing blocking,True,buy house kid month problem bathroom machine toilet roof thing 
+1.4344881464446198e+18,2021-09-05 12:06:40+00:00,['1434488146444619783'],Hoopla was fun! 🌈 https://t.co/l2Xs1le57v,hoopla fun,True,hoopla fun 
+1.4344621317060076e+18,2021-09-05 10:23:17+00:00,['1434462131706007562'],"@M_IsardMcNulty I was literally in a boiler suit and had people grabbing at me, you must of had it next level. The sense of entitlement is gross.",literally boiler suit people grabbing must next level sense entitlement gross,True,suit level sense entitlement 
+1.4342822183697326e+18,2021-09-04 22:28:23+00:00,['1434282218369732611'],@underthenettle I was on the phone to the USA like please save me from these left wing extremists. They hung up.,phone usa like please save left wing extremist hung,True,phone please extremist hung 
+1.4342811838278574e+18,2021-09-04 22:24:16+00:00,['1434281183827857411'],@underthenettle We had to stop a military coup from our own army because we had joined the Soviet Union because the socialist economy we built obviously imploded.. so almost failed I guess?,stop military coup army joined soviet union socialist economy built obviously imploded almost failed guess,True,coup army union socialist economy guess 
+1.4329530126794998e+18,2021-09-01 06:26:35+00:00,['1432953012679499778'],@Andrew4BW But you are also in France where it is ultimately just nicer.,also france ultimately nicer,True,france 
+1.432950266186412e+18,2021-09-01 06:15:41+00:00,['1432950266186412033'],Back to school. https://t.co/GZvjIN9EuT,back school,True,school 
+1.4324775644765348e+18,2021-08-30 22:57:20+00:00,['1432477564476534785'],@TeamPangloss What channel is it?,channel,True,
+1.431192161790333e+18,2021-08-27 09:49:36+00:00,['1431192161790332928'],Never related so much to a tweet. Speaks to me on a deep spiritual level. https://t.co/MUqfvrgvK2,never related much tweet speaks deep spiritual level,True,tweet level 
+1.4309460824738406e+18,2021-08-26 17:31:46+00:00,['1430946082473840642'],If anyone’s going to #ManchesterPride for the first time and feeling anxious or nervous because they don’t know anyone or feeling any sort of way then feel free to drop us a message and we can help you out 🌈,anyones going first time feeling anxious nervous dont know anyone feeling sort way feel free drop message help,True,time dont anyone way drop message help 
+1.4300943503992545e+18,2021-08-24 09:07:17+00:00,['1430094350399254545'],"“Young people would see gay pride parades in London or see couples marry in different parts of the world and think: ‘We have something to live for.”
 
- a whole downstairs bathroom
- dishwasher
- washing machine
- the bathupstairs toilet
- roof leaking twice
- many little things i am blocking out",True,False
-680,1.4344881464446198e+18,2021-09-05 12:06:40+00:00,['1434488146444619783'],Hoopla was fun! 🌈 https://t.co/l2Xs1le57v,hoopla was fun  ,True,False
-681,1.4344621317060076e+18,2021-09-05 10:23:17+00:00,['1434462131706007562'],"@M_IsardMcNulty I was literally in a boiler suit and had people grabbing at me, you must of had it next level. The sense of entitlement is gross.", i was literally in a boiler suit and had people grabbing at me you must of had it next level the sense of entitlement is gross,True,False
-682,1.4342822183697326e+18,2021-09-04 22:28:23+00:00,['1434282218369732611'],@underthenettle I was on the phone to the USA like please save me from these left wing extremists. They hung up., i was on the phone to the usa like please save me from these left wing extremists they hung up,True,False
-683,1.4342811838278574e+18,2021-09-04 22:24:16+00:00,['1434281183827857411'],@underthenettle We had to stop a military coup from our own army because we had joined the Soviet Union because the socialist economy we built obviously imploded.. so almost failed I guess?, we had to stop a military coup from our own army because we had joined the soviet union because the socialist economy we built obviously imploded so almost failed i guess,True,False
-685,1.4329530126794998e+18,2021-09-01 06:26:35+00:00,['1432953012679499778'],@Andrew4BW But you are also in France where it is ultimately just nicer., but you are also in france where it is ultimately just nicer,True,False
-686,1.432950266186412e+18,2021-09-01 06:15:41+00:00,['1432950266186412033'],Back to school. https://t.co/GZvjIN9EuT,back to school ,True,False
-687,1.4324775644765348e+18,2021-08-30 22:57:20+00:00,['1432477564476534785'],@TeamPangloss What channel is it?, what channel is it,True,False
-689,1.431192161790333e+18,2021-08-27 09:49:36+00:00,['1431192161790332928'],Never related so much to a tweet. Speaks to me on a deep spiritual level. https://t.co/MUqfvrgvK2,never related so much to a tweet speaks to me on a deep spiritual level ,True,False
-691,1.4309460824738406e+18,2021-08-26 17:31:46+00:00,['1430946082473840642'],If anyone’s going to #ManchesterPride for the first time and feeling anxious or nervous because they don’t know anyone or feeling any sort of way then feel free to drop us a message and we can help you out 🌈,if anyone’s going to  for the first time and feeling anxious or nervous because they don’t know anyone or feeling any sort of way then feel free to drop us a message and we can help you out ,True,False
-693,1.4300943503992545e+18,2021-08-24 09:07:17+00:00,['1430094350399254545'],"“Young people would see gay pride parades in London or see couples marry in different parts of the world and think: ‘We have something to live for.”
+Pride is and will always be a protest. https://t.co/tWSXjPbCKQ",young people would see gay pride parade london see couple marry different part world think something live pride always protest,True,pride couple part world something pride 
+1.4298339625291162e+18,2021-08-23 15:52:36+00:00,['1429833962529116162'],"@tjrnichols @gavindrawsstuff Spent last week in Newcastle, £3.49 doubles. That is living.",spent last week newcastle double living,True,week 
+1.4297894477348946e+18,2021-08-23 12:55:43+00:00,['1429789447734894597'],@DanEv Nope,nope,True,nope 
+1.4288188137185157e+18,2021-08-20 20:38:46+00:00,['1428818813718515721'],@natehiggins Towards the shower right..?,towards shower right,True,right 
+1.42869763716796e+18,2021-08-20 12:37:15+00:00,['1428697637167960068'],@bradleygbooth @natehiggins Have they been kicked out of the party?,kicked party,True,party 
+1.4283620776016036e+18,2021-08-19 14:23:51+00:00,['1428362077601603584'],"In my 26th year on earth I have only just realised that hay is dried out grass.
 
-Pride is and will always be a protest. https://t.co/tWSXjPbCKQ","“young people would see gay pride parades in london or see couples marry in different parts of the world and think ‘we have something to live for”
-
-pride is and will always be a protest ",True,False
-694,1.4298339625291162e+18,2021-08-23 15:52:36+00:00,['1429833962529116162'],"@tjrnichols @gavindrawsstuff Spent last week in Newcastle, £3.49 doubles. That is living.",  spent last week in newcastle £349 doubles that is living,True,False
-695,1.4297894477348946e+18,2021-08-23 12:55:43+00:00,['1429789447734894597'],@DanEv Nope, nope,True,False
-698,1.4288188137185157e+18,2021-08-20 20:38:46+00:00,['1428818813718515721'],@natehiggins Towards the shower right..?, towards the shower right,True,False
-699,1.42869763716796e+18,2021-08-20 12:37:15+00:00,['1428697637167960068'],@bradleygbooth @natehiggins Have they been kicked out of the party?,  have they been kicked out of the party,True,False
-700,1.4283620776016036e+18,2021-08-19 14:23:51+00:00,['1428362077601603584'],"In my 26th year on earth I have only just realised that hay is dried out grass.
-
-This is how my old person brain works now.","in my 26th year on earth i have only just realised that hay is dried out grass
-
-this is how my old person brain works now",True,False
-702,1.4283532312650097e+18,2021-08-19 13:48:42+00:00,['1428353231265009687'],@jjajsm @dylanhm You’re right. We are men’s men.,  you’re right we are men’s men,True,False
-703,1.4283531637953864e+18,2021-08-19 13:48:26+00:00,['1428353163795386370'],@jjajsm @dylanhm We can’t all live up to Dylans mincing and jazz hand standards can we?!,  we can’t all live up to dylans mincing and jazz hand standards can we,True,False
-704,1.4283527876040745e+18,2021-08-19 13:46:56+00:00,['1428352787604074506'],@dylanhm What are these things you speak of?, what are these things you speak of,True,False
-713,1.4266137338124943e+18,2021-08-14 18:36:33+00:00,['1426613733812494338'],@BenProcter Cute, cute,True,False
-714,1.424871097804206e+18,2021-08-09 23:11:57+00:00,['1424871097804206081'],Tonight was EVERYTHING. https://t.co/QEr6brbYY6,tonight was everything ,True,False
-717,1.4233790106843382e+18,2021-08-05 20:22:55+00:00,['1423379010684338183'],@Jordan_Lee This is perfect thanks!!, this is perfect thanks,True,False
-718,1.4233760044756664e+18,2021-08-05 20:10:59+00:00,['1423376004475666433'],More suggestions please 😊,more suggestions please ,True,False
-719,1.4233313362077164e+18,2021-08-05 17:13:29+00:00,['1423331336207716354'],"The independent Government commissioned report on DfE  handling of the pandemic 
+This is how my old person brain works now.",year earth realised hay dried grass old person brain work,True,year earth hay grass person brain work 
+1.4283532312650097e+18,2021-08-19 13:48:42+00:00,['1428353231265009687'],@jjajsm @dylanhm You’re right. We are men’s men.,youre right men men,True,youre 
+1.4283531637953864e+18,2021-08-19 13:48:26+00:00,['1428353163795386370'],@jjajsm @dylanhm We can’t all live up to Dylans mincing and jazz hand standards can we?!,cant live dylan mincing jazz hand standard,True,dylan jazz hand standard 
+1.4283527876040745e+18,2021-08-19 13:46:56+00:00,['1428352787604074506'],@dylanhm What are these things you speak of?,thing speak,True,thing speak 
+1.4266137338124943e+18,2021-08-14 18:36:33+00:00,['1426613733812494338'],@BenProcter Cute,cute,True,cute 
+1.424871097804206e+18,2021-08-09 23:11:57+00:00,['1424871097804206081'],Tonight was EVERYTHING. https://t.co/QEr6brbYY6,tonight everything,True,tonight everything 
+1.4233790106843382e+18,2021-08-05 20:22:55+00:00,['1423379010684338183'],@Jordan_Lee This is perfect thanks!!,perfect thanks,True,
+1.4233760044756664e+18,2021-08-05 20:10:59+00:00,['1423376004475666433'],More suggestions please 😊,suggestion please,True,suggestion please 
+1.4233313362077164e+18,2021-08-05 17:13:29+00:00,['1423331336207716354'],"The independent Government commissioned report on DfE  handling of the pandemic 
 
 First paragraph sums it up nicely.
 
-   “The government's failure – indeed refusal – to make contingency plans for schools and exams in the summer of 2020 is the most “unforgiveable aspect”","the independent government commissioned report on dfe  handling of the pandemic 
+   “The government's failure – indeed refusal – to make contingency plans for schools and exams in the summer of 2020 is the most “unforgiveable aspect”",independent government commissioned report dfe handling pandemic first paragraph sum nicely government's failure indeed refusal make contingency plan school exam summer unforgiveable aspect,True,government report dfe paragraph sum government failure contingency plan school summer aspect 
+1.4233000759257743e+18,2021-08-05 15:09:16+00:00,['1423300075925774348'],@thebwoods Oo yeah that’s a good option,yeah thats good option,True,yeah option 
+1.4232583854708654e+18,2021-08-05 12:23:36+00:00,['1423258385470865409'],@dannynasah This looks great!,look great,True,look 
+1.4232556213365432e+18,2021-08-05 12:12:37+00:00,['1423255621336543233'],"@axelk This looks good actually, looking for more restaurant as opposed to cafe though.",look good actually looking restaurant opposed cafe though,True,restaurant 
+1.4232550887102628e+18,2021-08-05 12:10:30+00:00,['1423255088710262792'],"Soho restaurant suggestions please.
 
-first paragraph sums it up nicely
+Mix of vegan and non vegan options available?",soho restaurant suggestion please mix vegan non vegan option available,True,soho restaurant suggestion please non vegan option 
+1.4210749160703345e+18,2021-07-30 11:47:16+00:00,['1421074916070334465'],@dylanhm Currently have Andrew Rosindell. Count yourself lucky.,currently andrew rosindell count lucky,True,rosindell count 
+1.4195523388896133e+18,2021-07-26 06:57:06+00:00,['1419552338889613314'],YES GO ON TOM AND MATTY! #Olympics,yes tom matty,True,tom matty 
+1.4178964229350482e+18,2021-07-21 17:17:05+00:00,['1417896422935048202'],6 weeks off come at me! https://t.co/Hi8BFWcTjW,week come,True,week 
+1.4170025581875814e+18,2021-07-19 06:05:11+00:00,['1417002558187581443'],"Sat here with the fan directly next to my face looking at everyone’s Insta stories at Heaven, thinking god it must have been so bloody hot. https://t.co/sStiu5zQDS",sat fan directly next face looking everyones insta story heaven thinking god must bloody hot,True,fan face story god 
+1.4168571712292823e+18,2021-07-18 20:27:28+00:00,['1416857171229282314'],@anton_georgiou @RSPCA_official @Natures_Voice Chanel! Chanel!,chanel chanel,True,
+1.416472588671402e+18,2021-07-17 18:59:16+00:00,['1416472588671401987'],@FKAHeather Tbf we got lucky with interception. See you next year haha,tbf got lucky interception see next year haha,True,tbf interception year haha 
+1.4164716187469906e+18,2021-07-17 18:55:25+00:00,['1416471618746990594'],@FKAHeather Sorry for beating you 😂 was a good game!,sorry beating good game,True,sorry game 
+1.416279790643032e+18,2021-07-17 06:13:09+00:00,['1416279790643032064'],On route to Birmingham for @TouchMyBrum with the @KXSteelers 😊,route birmingham,True,route birmingham 
+1.414483743033729e+18,2021-07-12 07:16:18+00:00,['1414483743033729026'],@JordanDayAutism Thanks!,thanks,True,
+1.414477040619819e+18,2021-07-12 06:49:40+00:00,['1414477040619819009'],Naturally the day the country is mourning and feeling down on itself also happens to be my birthday 😂 🍰,naturally day country mourning feeling also happens birthday,True,day country birthday 
+1.414140618624934e+18,2021-07-11 08:32:51+00:00,['1414140618624933888'],"Quote of the evening:
 
-   “the governments failure – indeed refusal – to make contingency plans for schools and exams in the summer of 2020 is the most “unforgiveable aspect”",True,False
-720,1.4233000759257743e+18,2021-08-05 15:09:16+00:00,['1423300075925774348'],@thebwoods Oo yeah that’s a good option, oo yeah that’s a good option,True,False
-721,1.4232583854708654e+18,2021-08-05 12:23:36+00:00,['1423258385470865409'],@dannynasah This looks great!, this looks great,True,False
-722,1.4232556213365432e+18,2021-08-05 12:12:37+00:00,['1423255621336543233'],"@axelk This looks good actually, looking for more restaurant as opposed to cafe though.", this looks good actually looking for more restaurant as opposed to cafe though,True,False
-723,1.4232550887102628e+18,2021-08-05 12:10:30+00:00,['1423255088710262792'],"Soho restaurant suggestions please.
+Does it smell of shit or is it Parmesan?",quote evening doe smell shit parmesan,True,quote doe smell 
+1.413605869120598e+18,2021-07-09 21:07:57+00:00,['1413605869120598020'],@gavindrawsstuff @_ken91 That picture still haunts me.,picture still haunt,True,picture 
+1.4136054970564198e+18,2021-07-09 21:06:28+00:00,['1413605497056419843'],"@texceptional Side note, have you gone to the new pasta place. Duncan went today and said it was to die for.",side note gone new pasta place duncan went today said die,True,side note place today die 
+1.4136033035277844e+18,2021-07-09 20:57:45+00:00,['1413603303527784452'],@texceptional That’s a question for Latricia. It was outside Slug and Lettuce lol,thats question latricia outside slug lettuce lol,True,slug lettuce lol 
+1.4135952082148516e+18,2021-07-09 20:25:35+00:00,['1413595208214851585'],"I’ve just watched a lost soul drop their cheesy chips.
 
-Mix of vegan and non vegan options available?","soho restaurant suggestions please
+Thoughts and prayers etc",ive watched lost soul drop cheesy chip thought prayer etc,True,soul drop cheesy chip prayer etc 
+1.4113976130653143e+18,2021-07-03 18:53:08+00:00,['1411397613065314309'],@milkypirate Romford 😊,romford,True,romford 
+1.4113777049062072e+18,2021-07-03 17:34:01+00:00,['1411377704906207237'],I tried to look like I was being eaten but it just looks like im having a rave. https://t.co/smLjh40voK,tried look like eaten look like rave,True,look rave 
+1.4113720808227348e+18,2021-07-03 17:11:40+00:00,['1411372080822734855'],Living my best life at crazy golf ⛳️ https://t.co/LMuktn46oV,living best life crazy golf,True,living life crazy golf 
+1.4099498337089372e+18,2021-06-29 19:00:10+00:00,['1409949833708937216'],"Absolutely devastating to see Serena physically and emotionally break down on centre court. She could barely stand up, crying her eyes out and trying to play on.
 
-mix of vegan and non vegan options available",True,False
-724,1.4210749160703345e+18,2021-07-30 11:47:16+00:00,['1421074916070334465'],@dylanhm Currently have Andrew Rosindell. Count yourself lucky., currently have andrew rosindell count yourself lucky,True,False
-727,1.4195523388896133e+18,2021-07-26 06:57:06+00:00,['1419552338889613314'],YES GO ON TOM AND MATTY! #Olympics,yes go on tom and matty ,True,False
-729,1.4178964229350482e+18,2021-07-21 17:17:05+00:00,['1417896422935048202'],6 weeks off come at me! https://t.co/Hi8BFWcTjW,6 weeks off come at me ,True,False
-730,1.4170025581875814e+18,2021-07-19 06:05:11+00:00,['1417002558187581443'],"Sat here with the fan directly next to my face looking at everyone’s Insta stories at Heaven, thinking god it must have been so bloody hot. https://t.co/sStiu5zQDS",sat here with the fan directly next to my face looking at everyone’s insta stories at heaven thinking god it must have been so bloody hot ,True,False
-731,1.4168571712292823e+18,2021-07-18 20:27:28+00:00,['1416857171229282314'],@anton_georgiou @RSPCA_official @Natures_Voice Chanel! Chanel!,   chanel chanel,True,False
-732,1.416472588671402e+18,2021-07-17 18:59:16+00:00,['1416472588671401987'],@FKAHeather Tbf we got lucky with interception. See you next year haha, tbf we got lucky with interception see you next year haha,True,False
-733,1.4164716187469906e+18,2021-07-17 18:55:25+00:00,['1416471618746990594'],@FKAHeather Sorry for beating you 😂 was a good game!, sorry for beating you  was a good game,True,False
-734,1.416279790643032e+18,2021-07-17 06:13:09+00:00,['1416279790643032064'],On route to Birmingham for @TouchMyBrum with the @KXSteelers 😊,on route to birmingham for  with the  ,True,False
-739,1.414483743033729e+18,2021-07-12 07:16:18+00:00,['1414483743033729026'],@JordanDayAutism Thanks!, thanks,True,False
-740,1.414477040619819e+18,2021-07-12 06:49:40+00:00,['1414477040619819009'],Naturally the day the country is mourning and feeling down on itself also happens to be my birthday 😂 🍰,naturally the day the country is mourning and feeling down on itself also happens to be my birthday  ,True,False
-743,1.414140618624934e+18,2021-07-11 08:32:51+00:00,['1414140618624933888'],"Quote of the evening:
-
-Does it smell of shit or is it Parmesan?","quote of the evening
-
-does it smell of shit or is it parmesan",True,False
-745,1.413605869120598e+18,2021-07-09 21:07:57+00:00,['1413605869120598020'],@gavindrawsstuff @_ken91 That picture still haunts me.,  that picture still haunts me,True,False
-746,1.4136054970564198e+18,2021-07-09 21:06:28+00:00,['1413605497056419843'],"@texceptional Side note, have you gone to the new pasta place. Duncan went today and said it was to die for.", side note have you gone to the new pasta place duncan went today and said it was to die for,True,False
-747,1.4136033035277844e+18,2021-07-09 20:57:45+00:00,['1413603303527784452'],@texceptional That’s a question for Latricia. It was outside Slug and Lettuce lol, that’s a question for latricia it was outside slug and lettuce lol,True,False
-748,1.4135952082148516e+18,2021-07-09 20:25:35+00:00,['1413595208214851585'],"I’ve just watched a lost soul drop their cheesy chips.
-
-Thoughts and prayers etc","i’ve just watched a lost soul drop their cheesy chips
-
-thoughts and prayers etc",True,False
-751,1.4113976130653143e+18,2021-07-03 18:53:08+00:00,['1411397613065314309'],@milkypirate Romford 😊, romford ,True,False
-752,1.4113777049062072e+18,2021-07-03 17:34:01+00:00,['1411377704906207237'],I tried to look like I was being eaten but it just looks like im having a rave. https://t.co/smLjh40voK,i tried to look like i was being eaten but it just looks like im having a rave ,True,False
-753,1.4113720808227348e+18,2021-07-03 17:11:40+00:00,['1411372080822734855'],Living my best life at crazy golf ⛳️ https://t.co/LMuktn46oV,living my best life at crazy golf  ,True,False
-755,1.4099498337089372e+18,2021-06-29 19:00:10+00:00,['1409949833708937216'],"Absolutely devastating to see Serena physically and emotionally break down on centre court. She could barely stand up, crying her eyes out and trying to play on.
-
-#Wimbledon","absolutely devastating to see serena physically and emotionally break down on centre court she could barely stand up crying her eyes out and trying to play on
-
-",True,False
-756,1.4095634239611372e+18,2021-06-28 17:24:43+00:00,['1409563423961137160'],@FluffehAdam Really enjoying her commentary, really enjoying her commentary,True,False
-757,1.4087359729850163e+18,2021-06-26 10:36:43+00:00,['1408735972985016320'],"Trains cancelled, Uber cancelled at last second and now a car has broken down in front of the bus.
+#Wimbledon",absolutely devastating see serena physically emotionally break centre court could barely stand cry eye trying play,True,court cry eye play 
+1.4095634239611372e+18,2021-06-28 17:24:43+00:00,['1409563423961137160'],@FluffehAdam Really enjoying her commentary,really enjoying commentary,True,commentary 
+1.4087359729850163e+18,2021-06-26 10:36:43+00:00,['1408735972985016320'],"Trains cancelled, Uber cancelled at last second and now a car has broken down in front of the bus.
 
 ALL I WANT TO DO IS GO TO BUFF BINGO AND BOTTOMLESS BRUNCH AND BE SERVED BY HOT GUYS IN THEIR PANTS.
 
-It’s clearly not meant to be.","trains cancelled uber cancelled at last second and now a car has broken down in front of the bus
+It’s clearly not meant to be.",train cancelled uber cancelled last second car broken front bus want buff bingo bottomless brunch served hot guy pant clearly meant,True,train car bus buff bingo bottomless brunch guy 
+1.4085073018923295e+18,2021-06-25 19:28:04+00:00,['1408507301892329472'],@AzzyChill The East is wet af,east wet,True,wet 
+1.4085041294844723e+18,2021-06-25 19:15:27+00:00,['1408504129484472335'],"It’s June.. 
 
-all i want to do is go to buff bingo and bottomless brunch and be served by hot guys in their pants
+Why is there hail in my garden?! https://t.co/qfl0SfEaTq",june hail garden,True,june hail garden 
+1.408334023013831e+18,2021-06-25 07:59:31+00:00,['1408334023013830657'],@Dunkiecan We’ve all done it.,weve done,True,weve 
+1.407422214127956e+18,2021-06-22 19:36:19+00:00,['1407422214127955969'],@hnjsamuels Hate ITV commentary so much. They offer no expertise whatsoever.,hate itv commentary much offer expertise whatsoever,True,hate itv expertise whatsoever 
+1.405987528646267e+18,2021-06-18 20:35:23+00:00,['1405987528646266882'],@dylanhm Some people hate themselves.,people hate,True,
+1.4057802586626294e+18,2021-06-18 06:51:46+00:00,['1405780258662629377'],@rhysrmann Yaaas! Cannot wait.,yaaas cannot wait,True,
+1.4057796590616986e+18,2021-06-18 06:49:23+00:00,['1405779659061698561'],Duncan got us tickets to the Women’s Wimbledon Final! 🎾,duncan got ticket woman wimbledon final,True,woman 
+1.4054542286136484e+18,2021-06-17 09:16:14+00:00,['1405454228613648384'],@joshuasullyvan Whaaaat,whaaaat,True,whaaaat 
+1.4048794227847864e+18,2021-06-15 19:12:10+00:00,['1404879422784786433'],"2.5 freddos. 
 
-it’s clearly not meant to be",True,False
-758,1.4085073018923295e+18,2021-06-25 19:28:04+00:00,['1408507301892329472'],@AzzyChill The East is wet af, the east is wet af,True,False
-759,1.4085041294844723e+18,2021-06-25 19:15:27+00:00,['1408504129484472335'],"It’s June.. 
+What a thrill. https://t.co/ZNSae5SE5T",freddos thrill,True,thrill 
+1.4048085668931666e+18,2021-06-15 14:30:37+00:00,['1404808566893166594'],"It’s been a year and she still can’t get my name right. My response is to now never reply. 
 
-Why is there hail in my garden?! https://t.co/qfl0SfEaTq","it’s june 
+Wish John would reply.. https://t.co/PPeP8QzWI4",year still cant get name right response never reply wish john would reply,True,year get response john 
+1.404055744727638e+18,2021-06-13 12:39:10+00:00,['1404055744727638023'],@ScottishScouse @ScottEmery92 @FluffehAdam He’s a very good right back.. no doubt.,good right back doubt,True,right doubt 
+1.4040553384086282e+18,2021-06-13 12:37:33+00:00,['1404055338408628225'],@ScottEmery92 @ScottishScouse @FluffehAdam And the Champions League winner LB 😂,champion league winner,True,champion league winner 
+1.4040461529374474e+18,2021-06-13 12:01:03+00:00,['1404046152937447424'],@FluffehAdam @ScottEmery92 Trippier also more defensive minded. Still odd.,trippier also defensive minded still odd,True,trippier 
+1.403748761466282e+18,2021-06-12 16:19:19+00:00,['1403748761466281986'],@gavindrawsstuff Your hair looks awesome!,hair look awesome,True,hair 
+1.402198100547154e+18,2021-06-08 09:37:33+00:00,['1402198100547153923'],"There was 3 teams left in the sweepstake at work, England, Portugal and Slovakia.
 
-why is there hail in my garden ",True,False
-761,1.408334023013831e+18,2021-06-25 07:59:31+00:00,['1408334023013830657'],@Dunkiecan We’ve all done it., we’ve all done it,True,False
-763,1.407422214127956e+18,2021-06-22 19:36:19+00:00,['1407422214127955969'],@hnjsamuels Hate ITV commentary so much. They offer no expertise whatsoever., hate itv commentary so much they offer no expertise whatsoever,True,False
-765,1.405987528646267e+18,2021-06-18 20:35:23+00:00,['1405987528646266882'],@dylanhm Some people hate themselves., some people hate themselves,True,False
-766,1.4057802586626294e+18,2021-06-18 06:51:46+00:00,['1405780258662629377'],@rhysrmann Yaaas! Cannot wait., yaaas cannot wait,True,False
-767,1.4057796590616986e+18,2021-06-18 06:49:23+00:00,['1405779659061698561'],Duncan got us tickets to the Women’s Wimbledon Final! 🎾,duncan got us tickets to the women’s wimbledon final ,True,False
-768,1.4054542286136484e+18,2021-06-17 09:16:14+00:00,['1405454228613648384'],@joshuasullyvan Whaaaat, whaaaat,True,False
-769,1.4048794227847864e+18,2021-06-15 19:12:10+00:00,['1404879422784786433'],"2.5 freddos. 
-
-What a thrill. https://t.co/ZNSae5SE5T","25 freddos 
-
-what a thrill ",True,False
-770,1.4048085668931666e+18,2021-06-15 14:30:37+00:00,['1404808566893166594'],"It’s been a year and she still can’t get my name right. My response is to now never reply. 
-
-Wish John would reply.. https://t.co/PPeP8QzWI4","it’s been a year and she still can’t get my name right my response is to now never reply 
-
-wish john would reply ",True,False
-771,1.404055744727638e+18,2021-06-13 12:39:10+00:00,['1404055744727638023'],@ScottishScouse @ScottEmery92 @FluffehAdam He’s a very good right back.. no doubt.,   he’s a very good right back no doubt,True,False
-772,1.4040553384086282e+18,2021-06-13 12:37:33+00:00,['1404055338408628225'],@ScottEmery92 @ScottishScouse @FluffehAdam And the Champions League winner LB 😂,   and the champions league winner lb ,True,False
-773,1.4040461529374474e+18,2021-06-13 12:01:03+00:00,['1404046152937447424'],@FluffehAdam @ScottEmery92 Trippier also more defensive minded. Still odd.,  trippier also more defensive minded still odd,True,False
-774,1.403748761466282e+18,2021-06-12 16:19:19+00:00,['1403748761466281986'],@gavindrawsstuff Your hair looks awesome!, your hair looks awesome,True,False
-776,1.402198100547154e+18,2021-06-08 09:37:33+00:00,['1402198100547153923'],"There was 3 teams left in the sweepstake at work, England, Portugal and Slovakia.
-
-So of course I got Slovakia🇸🇰","there was 3 teams left in the sweepstake at work england portugal and slovakia
-
-so of course i got slovakia",True,False
-777,1.4016173332029153e+18,2021-06-06 19:09:47+00:00,['1401617333202915328'],Cruella was camp as tits.,cruella was camp as tits,True,False
-778,1.4015473312255017e+18,2021-06-06 14:31:37+00:00,['1401547331225501700'],Going to the cinema for the first time in near 2 years. What a thrill. 🎥,going to the cinema for the first time in near 2 years what a thrill ,True,False
-781,1.400134372171436e+18,2021-06-02 16:57:02+00:00,['1400134372171436037'],@SpoorJack Gross., gross,True,False
+So of course I got Slovakia🇸🇰",team left sweepstake work england portugal slovakia course got slovakia,True,team work england course 
+1.4016173332029153e+18,2021-06-06 19:09:47+00:00,['1401617333202915328'],Cruella was camp as tits.,cruella camp tit,True,cruella camp tit 
+1.4015473312255017e+18,2021-06-06 14:31:37+00:00,['1401547331225501700'],Going to the cinema for the first time in near 2 years. What a thrill. 🎥,going cinema first time near year thrill,True,cinema time year thrill 
+1.400134372171436e+18,2021-06-02 16:57:02+00:00,['1400134372171436037'],@SpoorJack Gross.,gross,True,

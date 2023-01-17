@@ -1,20 +1,18 @@
-Unnamed: 0,id,created_at,edit_history_tweet_ids,text,clean_text,non_english,whitespace
-0,1.5650812294557737e+18,2022-08-31 20:56:57+00:00,['1565081229455773700'],"@CarolineLawrenc @SkyNews The bear was fine afterwards, at least!🍯",  the bear was fine afterwards at least,True,False
-4,1.5650487436107858e+18,2022-08-31 18:47:52+00:00,['1565048743610785792'],"@SkyNews @CarolineLawrenc I'm sure you saw this, but just in case...",  im sure you saw this but just in case,True,False
-11,1.5650262441645711e+18,2022-08-31 17:18:28+00:00,['1565026244164571136'],"@GoldCaro Says he, kicking the pieces under the sofa", says he kicking the pieces under the sofa,True,False
-13,1.5650255877684677e+18,2022-08-31 17:15:51+00:00,['1565025587768467456'],@Lucy_cat_lady This is awful!, this is awful,True,False
-21,1.5649939645199565e+18,2022-08-31 15:10:11+00:00,['1564993964519956480'],@BylinesBot @BylinesEast Hello! I draw cartoons for @BylinesEast,  hello i draw cartoons for ,True,False
-43,1.564592523057709e+18,2022-08-30 12:35:00+00:00,['1564592523057709057'],@GoldCaro Better to chain him to a radiator...maybe one on the front of a tractor?, better to chain him to a radiatormaybe one on the front of a tractor,True,False
-143,1.5626895841271603e+18,2022-08-25 06:33:24+00:00,['1562689584127160324'],@19Averil I can't imagine that turning out well..., i cant imagine that turning out well,True,False
-232,1.5613514280814264e+18,2022-08-21 13:56:03+00:00,['1561351428081426433'],@AngelaRayner Let's all have a seaside #SewageParty https://t.co/a2CeLKc1Lq, lets all have a seaside  ,True,False
-245,1.5613292453344748e+18,2022-08-21 12:27:54+00:00,['1561329245334474757'],@Nurseborisbash ...or sewage, or sewage,True,False
-344,1.5609427914962698e+18,2022-08-20 10:52:17+00:00,['1560942791496269824'],"@g_gosden Our West Suffolk MP @MattHancock did not vote to stop sewage, nor did Bury St Edmunds MP @Jochurchill_MP (who was an environment minister).", our west suffolk mp  did not vote to stop sewage nor did bury st edmunds mp  who was an environment minister,True,False
-345,1.5609416097008026e+18,2022-08-20 10:47:35+00:00,['1560941609700802561'],@Jennife94501468 @garrylayden @SueASmith571 @pow_rebecca She was an environment minister!,    she was an environment minister,True,False
-390,1.5606089226328635e+18,2022-08-19 12:45:36+00:00,['1560608922632863746'],"@LEJenksBrown Very important questions. Where's the research?
-(anyway, here's a pair of reverse harpies) https://t.co/jsLW3QQumX"," very important questions wheres the research
-anyway heres a pair of reverse harpies ",True,False
-425,1.5603075864481997e+18,2022-08-18 16:48:12+00:00,['1560307586448199680'],@RevRichardColes Love the poem! https://t.co/xVJu9LBqSv, love the poem ,True,False
-436,1.560200912018219e+18,2022-08-18 09:44:19+00:00,['1560200912018219010'],@mikegalsworthy @poorscousertom This was from last year for @BylinesEast ...why is it still relevant? https://t.co/hoaZ1bDqW8,  this was from last year for  why is it still relevant ,True,False
-438,1.5601988934255493e+18,2022-08-18 09:36:17+00:00,['1560198893425549313'],"Lovely fresh sea air? 
-#Sewage https://t.co/6n1pzuWJmJ","lovely fresh sea air 
- ",True,False
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
+1.5650812294557737e+18,2022-08-31 20:56:57+00:00,['1565081229455773700'],"@CarolineLawrenc @SkyNews The bear was fine afterwards, at least!🍯",bear fine afterwards least,True,
+1.5650487436107858e+18,2022-08-31 18:47:52+00:00,['1565048743610785792'],"@SkyNews @CarolineLawrenc I'm sure you saw this, but just in case...",i'm sure saw case,True,i saw case 
+1.5650262441645711e+18,2022-08-31 17:18:28+00:00,['1565026244164571136'],"@GoldCaro Says he, kicking the pieces under the sofa",say kicking piece sofa,True,sofa 
+1.5650255877684677e+18,2022-08-31 17:15:51+00:00,['1565025587768467456'],@Lucy_cat_lady This is awful!,awful,True,awful 
+1.5649939645199565e+18,2022-08-31 15:10:11+00:00,['1564993964519956480'],@BylinesBot @BylinesEast Hello! I draw cartoons for @BylinesEast,hello draw cartoon,True,draw cartoon 
+1.564592523057709e+18,2022-08-30 12:35:00+00:00,['1564592523057709057'],@GoldCaro Better to chain him to a radiator...maybe one on the front of a tractor?,better chain radiatormaybe one front tractor,True,chain front tractor 
+1.5626895841271603e+18,2022-08-25 06:33:24+00:00,['1562689584127160324'],@19Averil I can't imagine that turning out well...,can't imagine turning well,True,
+1.5613514280814264e+18,2022-08-21 13:56:03+00:00,['1561351428081426433'],@AngelaRayner Let's all have a seaside #SewageParty https://t.co/a2CeLKc1Lq,let's seaside,True,let seaside 
+1.5613292453344748e+18,2022-08-21 12:27:54+00:00,['1561329245334474757'],@Nurseborisbash ...or sewage,sewage,True,sewage 
+1.5609427914962698e+18,2022-08-20 10:52:17+00:00,['1560942791496269824'],"@g_gosden Our West Suffolk MP @MattHancock did not vote to stop sewage, nor did Bury St Edmunds MP @Jochurchill_MP (who was an environment minister).",west suffolk vote stop sewage bury edmunds environment minister,True,vote sewage bury environment minister 
+1.5609416097008026e+18,2022-08-20 10:47:35+00:00,['1560941609700802561'],@Jennife94501468 @garrylayden @SueASmith571 @pow_rebecca She was an environment minister!,environment minister,True,environment minister 
+1.5606089226328635e+18,2022-08-19 12:45:36+00:00,['1560608922632863746'],"@LEJenksBrown Very important questions. Where's the research?
+(anyway, here's a pair of reverse harpies) https://t.co/jsLW3QQumX",important question where's research anyway here's pair reverse harpy,True,question research reverse harpy 
+1.5603075864481997e+18,2022-08-18 16:48:12+00:00,['1560307586448199680'],@RevRichardColes Love the poem! https://t.co/xVJu9LBqSv,love poem,True,love poem 
+1.560200912018219e+18,2022-08-18 09:44:19+00:00,['1560200912018219010'],@mikegalsworthy @poorscousertom This was from last year for @BylinesEast ...why is it still relevant? https://t.co/hoaZ1bDqW8,last year still relevant,True,year 
+1.5601988934255493e+18,2022-08-18 09:36:17+00:00,['1560198893425549313'],"Lovely fresh sea air? 
+#Sewage https://t.co/6n1pzuWJmJ",lovely fresh sea air,True,sea air 

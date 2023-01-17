@@ -4,6 +4,7 @@ import os
 import pandas as pd
 
 #To remove tweet files of bots or private users
+#This is done in filter_following for rail workers, musicians and journalists
 
 directory = "teachertweets"
 df = pd.read_csv("data/bots/privateNEUfollowers.csv")

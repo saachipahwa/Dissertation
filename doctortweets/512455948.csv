@@ -1,39 +1,25 @@
-Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,id,created_at,edit_history_tweet_ids,text,clean_text,non_english,whitespace
-2,2,2,1.4678847829819474e+18,2021-12-06 15:52:58+00:00,['1467884782981947399'],@whiteleyclinic Thank you very much - honoured to be joining the excellent team @whiteleyclinic, thank you very much  honoured to be joining the excellent team ,True,False
-12,12,12,1.344079449529135e+18,2020-12-30 00:34:47+00:00,['1344079449529135104'],"@DrSergot @amycewilson @ImperialNHS How awful - I’m so sorry to hear this
+id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
+1.4678847829819474e+18,2021-12-06 15:52:58+00:00,['1467884782981947399'],@whiteleyclinic Thank you very much - honoured to be joining the excellent team @whiteleyclinic,thank much honoured joining excellent team,True,joining excellent team 
+1.344079449529135e+18,2020-12-30 00:34:47+00:00,['1344079449529135104'],"@DrSergot @amycewilson @ImperialNHS How awful - I’m so sorry to hear this
 
-Sending you and all your family lots of love","   how awful  i’m so sorry to hear this
-
-sending you and all your family lots of love",True,False
-59,59,59,1.2526913455185388e+18,2020-04-21 20:11:05+00:00,['1252691345518538753'],"Amazing work from @GSTTnhs St Thomas' Hospital staff choir
+Sending you and all your family lots of love",awful sorry hear sending family lot love,True,hear family lot love 
+1.2526913455185388e+18,2020-04-21 20:11:05+00:00,['1252691345518538753'],"Amazing work from @GSTTnhs St Thomas' Hospital staff choir
 
 https://t.co/27QWRmYSDI
 
-@GSTTCharity @BreatheAHR #covidresponse https://t.co/AUQo6Px8fj","amazing work from  st thomas hospital staff choir
-
-
-
-   ",True,False
-64,64,64,1.1870872045747937e+18,2019-10-23 19:23:39+00:00,['1187087204574793735'],"Thank you @goldstone_tony for excellent talk re: pensions today
+@GSTTCharity @BreatheAHR #covidresponse https://t.co/AUQo6Px8fj",amazing work thomas' hospital staff choir,True,work thomas staff choir 
+1.1870872045747937e+18,2019-10-23 19:23:39+00:00,['1187087204574793735'],"Thank you @goldstone_tony for excellent talk re: pensions today
 
 Thank you very much for raising awareness and lobbying
 
-Everyone needs to know about this! @Channel4News","thank you  for excellent talk re pensions today
-
-thank you very much for raising awareness and lobbying
-
-everyone needs to know about this ",True,False
-78,78,78,1.118617319893291e+18,2019-04-17 20:48:46+00:00,['1118617319893291011'],"Excellent work by our IR Consultant colleague @GSTTnhs 
+Everyone needs to know about this! @Channel4News",thank excellent talk pension today thank much raising awareness lobbying everyone need know,True,thank talk pension today everyone need 
+1.118617319893291e+18,2019-04-17 20:48:46+00:00,['1118617319893291011'],"Excellent work by our IR Consultant colleague @GSTTnhs 
 
 #venous
-#CX2019 https://t.co/hC47pXsgcX","excellent work by our ir consultant colleague  
-
-
- ",True,False
-81,81,81,1.1164309673701458e+18,2019-04-11 20:00:59+00:00,['1116430967370145792'],@Dr_PhilippaW,,True,False
-82,82,82,1.1164307506000404e+18,2019-04-11 20:00:07+00:00,['1116430750600040448'],Sensible Europeans @RenewParty @NicolaSturgeon @CarolineLucas https://t.co/JHTIbyuXK7,sensible europeans    ,True,False
-90,90,90,1.1153825535177276e+18,2019-04-08 22:34:58+00:00,['1115382553517727745'],@grounds4riots @GSTTnhs @cirse @BSIR_News @ADiamantop @mo_hamady @NHSMillion @Channel4News Narayanan Thulasidasan (@gstt IR Cons) stars in the news package 😂,        narayanan thulasidasan  ir cons stars in the news package ,True,False
-91,91,91,1.1153727708278292e+18,2019-04-08 21:56:05+00:00,['1115372770827829248'],"https://t.co/yLHNXd7w2b
+#CX2019 https://t.co/hC47pXsgcX",excellent work consultant colleague,True,work consultant colleague 
+1.1164307506000404e+18,2019-04-11 20:00:07+00:00,['1116430750600040448'],Sensible Europeans @RenewParty @NicolaSturgeon @CarolineLucas https://t.co/JHTIbyuXK7,sensible european,True,
+1.1153825535177276e+18,2019-04-08 22:34:58+00:00,['1115382553517727745'],@grounds4riots @GSTTnhs @cirse @BSIR_News @ADiamantop @mo_hamady @NHSMillion @Channel4News Narayanan Thulasidasan (@gstt IR Cons) stars in the news package 😂,narayanan thulasidasan con star news package,True,con star news package 
+1.1153727708278292e+18,2019-04-08 21:56:05+00:00,['1115372770827829248'],"https://t.co/yLHNXd7w2b
 
 Well done @GSTTnhs !
 
@@ -41,21 +27,11 @@ Well done @GSTTnhs !
 #withoutascalpel 
 #VenousDisease 
 
-@cirse @BSIR_News @grounds4riots @ADiamantop @mo_hamady @NHSMillion @Channel4News","
+@cirse @BSIR_News @grounds4riots @ADiamantop @mo_hamady @NHSMillion @Channel4News",well done,True,
+1.1091871815313162e+18,2019-03-22 20:16:46+00:00,['1109187181531316229'],IRs need parity with other medical and surgical specialties in particular with the routine ability to admit patients and review in out patients #withoutascalpel ⁦@ADiamantop⁩ ⁦@mo_hamady⁩ ⁦@grounds4riots⁩ ⁦@DrAAlsafi⁩  https://t.co/1M0TPZ5ExV,irs need parity medical surgical specialty particular routine ability admit patient review patient,True,parity specialty ability review patient 
+1.1091850204288e+18,2019-03-22 20:08:11+00:00,['1109185020428800002'],Baston you mean? https://t.co/VGH7iyOLGs,baston mean,True,baston mean 
+1.1091845602465464e+18,2019-03-22 20:06:21+00:00,['1109184560246546433'],Fantastic news! https://t.co/CZFvXZ8evv,fantastic news,True,news 
+1.1084753475054632e+18,2019-03-20 21:08:11+00:00,['1108475347505463299'],Thank you @mo_hamady it was a real pleasure to be back at my Alma mater @BSIR_News @grounds4riots https://t.co/lqjwwFKgD5,thank real pleasure back alma mater,True,pleasure mater 
+1.1066623126839378e+18,2019-03-15 21:03:50+00:00,['1106662312683937793'],"@mo_hamady @BSIR_News @ImperialNHS @imperialcollege Excellent course @mo_hamady thank you very much for the kind invitation 
 
-well done  
-
-
- 
- 
-
-      ",True,False
-102,102,102,1.1091871815313162e+18,2019-03-22 20:16:46+00:00,['1109187181531316229'],IRs need parity with other medical and surgical specialties in particular with the routine ability to admit patients and review in out patients #withoutascalpel ⁦@ADiamantop⁩ ⁦@mo_hamady⁩ ⁦@grounds4riots⁩ ⁦@DrAAlsafi⁩  https://t.co/1M0TPZ5ExV,irs need parity with other medical and surgical specialties in particular with the routine ability to admit patients and review in out patients  ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩  ,True,False
-103,103,103,1.1091850204288e+18,2019-03-22 20:08:11+00:00,['1109185020428800002'],Baston you mean? https://t.co/VGH7iyOLGs,baston you mean ,True,False
-106,106,106,1.1091845602465464e+18,2019-03-22 20:06:21+00:00,['1109184560246546433'],Fantastic news! https://t.co/CZFvXZ8evv,fantastic news ,True,False
-112,112,112,1.1084753475054632e+18,2019-03-20 21:08:11+00:00,['1108475347505463299'],Thank you @mo_hamady it was a real pleasure to be back at my Alma mater @BSIR_News @grounds4riots https://t.co/lqjwwFKgD5,thank you  it was a real pleasure to be back at my alma mater   ,True,False
-115,115,115,1.1066623126839378e+18,2019-03-15 21:03:50+00:00,['1106662312683937793'],"@mo_hamady @BSIR_News @ImperialNHS @imperialcollege Excellent course @mo_hamady thank you very much for the kind invitation 
-
-Hope our trainees all enjoyed it 😊","    excellent course  thank you very much for the kind invitation 
-
-hope our trainees all enjoyed it ",True,False
+Hope our trainees all enjoyed it 😊",excellent course thank much kind invitation hope trainee enjoyed,True,course kind invitation hope 
