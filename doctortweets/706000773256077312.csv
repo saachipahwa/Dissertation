@@ -1,13 +1,17 @@
-id,created_at,edit_history_tweet_ids,text,clean_text,nouns
-1.5050824942319206e+18,2022-03-19 07:23:24+00:00,['1505082494231920643'],@Donny_beek6 @Everton Please return to Ajax. Ajax needs players like you,please return ajax ajax need player like,return player 
-1.498829960605479e+18,2022-03-02 01:18:04+00:00,['1498829960605478912'],"@rishibagree Mahakaleshwar
+Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,id,created_at,edit_history_tweet_ids,text,clean_text,non_english,whitespace
+522,522,522,1.5050824942319206e+18,2022-03-19 07:23:24+00:00,['1505082494231920643'],@Donny_beek6 @Everton Please return to Ajax. Ajax needs players like you,  please return to ajax ajax needs players like you,True,False
+660,660,660,1.498829960605479e+18,2022-03-02 01:18:04+00:00,['1498829960605478912'],"@rishibagree Mahakaleshwar
 Omkareshwar
 Bhimashankar
 Trayambakeshwar
-Grishneshwar",mahakaleshwar omkareshwar bhimashankar trayambakeshwar grishneshwar,bhimashankar trayambakeshwar grishneshwar 
-1.4951238335225897e+18,2022-02-19 19:51:14+00:00,['1495123833522589696'],@BesuraTaansane And still gets elected. So voters are at fault.,still get elected voter fault,voter fault 
-1.4925414906182533e+18,2022-02-12 16:49:56+00:00,['1492541490618253313'],@Ankur_IIS @GabbbarSingh Telegram pe sab web series free mein dekho,telegram sab web series free mein dekho,telegram sab web series mein dekho 
-1.4801380058221158e+18,2022-01-09 11:22:54+00:00,['1480138005822115842'],"Tweet it
+Grishneshwar"," mahakaleshwar
+omkareshwar
+bhimashankar
+trayambakeshwar
+grishneshwar",True,False
+793,793,793,1.4951238335225897e+18,2022-02-19 19:51:14+00:00,['1495123833522589696'],@BesuraTaansane And still gets elected. So voters are at fault., and still gets elected so voters are at fault,True,False
+910,910,910,1.4925414906182533e+18,2022-02-12 16:49:56+00:00,['1492541490618253313'],@Ankur_IIS @GabbbarSingh Telegram pe sab web series free mein dekho,  telegram pe sab web series free mein dekho,True,False
+1048,1048,1048,1.4801380058221158e+18,2022-01-09 11:22:54+00:00,['1480138005822115842'],"Tweet it
 
 via Gaurav Pradhan
 
@@ -19,31 +23,53 @@ Romeo next
 
 Efficient Energy System Ltd. CPSE of Power ministry grant certificate to EV
 
-@RajKSinghIndia @narendramodi @AmitShahOffice",tweet via gaurav pradhan romeo juliet dump juliet went ceo eesl moneyminting power education department romeo next efficient energy system ltd cpse power ministry grant certificate,tweet gaurav pradhan dump eesl power education department romeo efficient energy system power ministry grant certificate 
-1.4294464358004244e+18,2021-08-22 14:12:42+00:00,['1429446435800424453'],"It was sad that Mr Yajuvendra Mahajan was given only 3.2 lakhs as a donation in KBC Marathi aired on 21st Aug 2021. We would have loved to see him get around 12.5 lakhs at least. He takes care of 272 differently abled kids, whose each kid's maintenance is around a lakh/year.",sad yajuvendra mahajan given lakh donation kbc marathi aired aug would loved see get around lakh least take care differently abled kid whose kid's maintenance around lakhyear,yajuvendra mahajan donation kbc marathi care kid maintenance 
-1.422759119937622e+18,2021-08-04 03:19:42+00:00,['1422759119937622016'],@TheWayfarerSoul What took you so long,took long,
-1.4199671805867008e+18,2021-07-27 10:25:32+00:00,['1419967180586700806'],@MashraniVivek @Manesha76 Very well said,well said,
-1.41886514144623e+18,2021-07-24 09:26:25+00:00,['1418865141446230020'],@drpratiksha1 Our fault,fault,fault 
-1.4145115539870228e+18,2021-07-12 09:06:49+00:00,['1414511553987022848'],@EUROfantasy2020 Watching the ugliness of racism and intolerance of England fans - these are supposedly most civilized people on earth.,watching ugliness racism intolerance england fan supposedly civilized people earth,racism intolerance england fan 
-1.4145107954219295e+18,2021-07-12 09:03:48+00:00,['1414510795421929477'],"@EUROfantasy2020 why send Saka, Sancho for penalties when you have Stones, Shaw, Sterling, Walker?",send saka sancho penalty stone shaw sterling walker,saka sancho penalty stone walker 
-1.4137984080164577e+18,2021-07-10 09:53:02+00:00,['1413798408016457729'],"@EUROfantasy2020 *There are approximately 4200 pubs in London.*
+@RajKSinghIndia @narendramodi @AmitShahOffice","tweet it
+
+via gaurav pradhan
+
+romeo juliet dumps uk
+
+juliet went as ceo of eesl moneyminting same she did in power n education department uk
+
+romeo next
+
+efficient energy system ltd cpse of power ministry grant certificate to ev
+
+  ",True,False
+1553,1553,1553,1.4294464358004244e+18,2021-08-22 14:12:42+00:00,['1429446435800424453'],"It was sad that Mr Yajuvendra Mahajan was given only 3.2 lakhs as a donation in KBC Marathi aired on 21st Aug 2021. We would have loved to see him get around 12.5 lakhs at least. He takes care of 272 differently abled kids, whose each kid's maintenance is around a lakh/year.",it was sad that mr yajuvendra mahajan was given only 32 lakhs as a donation in kbc marathi aired on 21st aug 2021 we would have loved to see him get around 125 lakhs at least he takes care of 272 differently abled kids whose each kids maintenance is around a lakhyear,True,False
+1708,1708,1708,1.422759119937622e+18,2021-08-04 03:19:42+00:00,['1422759119937622016'],@TheWayfarerSoul What took you so long, what took you so long,True,False
+1775,1775,1775,1.4199671805867008e+18,2021-07-27 10:25:32+00:00,['1419967180586700806'],@MashraniVivek @Manesha76 Very well said,  very well said,True,False
+1823,1823,1823,1.41886514144623e+18,2021-07-24 09:26:25+00:00,['1418865141446230020'],@drpratiksha1 Our fault, our fault,True,False
+1858,1858,1858,1.4145115539870228e+18,2021-07-12 09:06:49+00:00,['1414511553987022848'],@EUROfantasy2020 Watching the ugliness of racism and intolerance of England fans - these are supposedly most civilized people on earth., watching the ugliness of racism and intolerance of england fans  these are supposedly most civilized people on earth,True,False
+1859,1859,1859,1.4145107954219295e+18,2021-07-12 09:03:48+00:00,['1414510795421929477'],"@EUROfantasy2020 why send Saka, Sancho for penalties when you have Stones, Shaw, Sterling, Walker?", why send saka sancho for penalties when you have stones shaw sterling walker,True,False
+1885,1885,1885,1.4137984080164577e+18,2021-07-10 09:53:02+00:00,['1413798408016457729'],"@EUROfantasy2020 *There are approximately 4200 pubs in London.*
 *Not a single one has a table available for Sunday's final England vs. Italy*
-*An estimated £3 billion will be pumped into the nation’s economy from bets, food, and celebrations in one single day! Economic recovery*",approximately pub london single one table available sunday's final england italy estimated billion pumped nation economy bet food celebration one single day economic recovery,london table sunday england italy nation economy food celebration day recovery 
-1.4127104048877486e+18,2021-07-07 09:49:42+00:00,['1412710404887748614'],"Do me a favor, copy paste this message and post on twitter
+*An estimated £3 billion will be pumped into the nation’s economy from bets, food, and celebrations in one single day! Economic recovery*"," there are approximately 4200 pubs in london
+not a single one has a table available for sundays final england vs italy
+an estimated £3 billion will be pumped into the nation’s economy from bets food and celebrations in one single day economic recovery",True,False
+1894,1894,1894,1.4127104048877486e+18,2021-07-07 09:49:42+00:00,['1412710404887748614'],"Do me a favor, copy paste this message and post on twitter
 
 Dear @anil_baluni, will you tell people of uttrakhand and India who is ""The Romeo &amp; Juliet of Dehradun and The Bombay Brother Upit?""
 
-@narendramodi @PMOIndia @AmitShah @BJP4UK",favor copy paste message post twitter dear tell people uttrakhand india romeo amp juliet dehradun bombay brother upit,favor copy paste message post twitter tell romeo amp dehradun bombay brother upit 
-1.41155259323981e+18,2021-07-04 05:08:58+00:00,['1411552593239810050'],@__mishra_ Fake handles by dara hua samaj,fake handle dara hua samaj,dara hua samaj 
-1.4115515073762632e+18,2021-07-04 05:04:39+00:00,['1411551507376263170'],"@EUROfantasy2020 this is disgusting. No one to cheer but English people. 
+@narendramodi @PMOIndia @AmitShah @BJP4UK","do me a favor copy paste this message and post on twitter
+
+dear  will you tell people of uttrakhand and india who is the romeo amp juliet of dehradun and the bombay brother upit
+
+   ",True,False
+1936,1936,1936,1.41155259323981e+18,2021-07-04 05:08:58+00:00,['1411552593239810050'],@__mishra_ Fake handles by dara hua samaj, fake handles by dara hua samaj,True,False
+1941,1941,1941,1.4115515073762632e+18,2021-07-04 05:04:39+00:00,['1411551507376263170'],"@EUROfantasy2020 this is disgusting. No one to cheer but English people. 
 If England beats Italy or Spain in the finals, means they have become champions of Europe without facing Switzerland, Belgium Netherlands, Sweden, Portugal or France. 
 
-I think this tournament was tailor made for England",disgusting one cheer english people england beat italy spain final mean become champion europe without facing switzerland belgium netherlands sweden portugal france think tournament tailor made england,cheer spain mean become champion europe switzerland belgium france tailor england 
-1.3952920439586488e+18,2021-05-20 08:15:21+00:00,['1395292043958648835'],@IFTWC Why can't Indian footballers play outside India in one of the best Asian club teams or European club teams?,can't indian footballer play outside india one best asian club team european club team,footballer play club team club team 
-1.394653627084464e+18,2021-05-18 13:58:30+00:00,['1394653627084464132'],"@IFTWC In football, India cannot defeat even Afghanistan",football india cannot defeat even afghanistan,football india 
-1.3945834926971044e+18,2021-05-18 09:19:49+00:00,['1394583492697104388'],@ChampionsLeague Monaco Vs Porto,monaco porto,monaco porto 
-1.37436185740689e+18,2021-03-23 14:06:15+00:00,['1374361857406889985'],@rightwingchora We need them,need,need 
-1.3735146672224625e+18,2021-03-21 05:59:49+00:00,['1373514667222462468'],@Panther7112 Just 2 ?,,nan 
-1.3735137760628204e+18,2021-03-21 05:56:17+00:00,['1373513776062820352'],"@vijaygajera This has been the things since ages; immaterial of who is at which position, in hush hush whispers . Now it has started coming in public platform.",thing since age immaterial position hush hush whisper started coming public platform,thing age position hush hush whisper platform 
-1.352849215207035e+18,2021-01-23 05:22:42+00:00,['1352849215207034882'],"@GemsOfBollywood Join telegram 
-Create your work there",join telegram create work,join telegram create work 
+I think this tournament was tailor made for England"," this is disgusting no one to cheer but english people 
+if england beats italy or spain in the finals means they have become champions of europe without facing switzerland belgium netherlands sweden portugal or france 
+
+i think this tournament was tailor made for england",True,False
+2138,2138,2138,1.3952920439586488e+18,2021-05-20 08:15:21+00:00,['1395292043958648835'],@IFTWC Why can't Indian footballers play outside India in one of the best Asian club teams or European club teams?, why cant indian footballers play outside india in one of the best asian club teams or european club teams,True,False
+2180,2180,2180,1.394653627084464e+18,2021-05-18 13:58:30+00:00,['1394653627084464132'],"@IFTWC In football, India cannot defeat even Afghanistan", in football india cannot defeat even afghanistan,True,False
+2194,2194,2194,1.3945834926971044e+18,2021-05-18 09:19:49+00:00,['1394583492697104388'],@ChampionsLeague Monaco Vs Porto, monaco vs porto,True,False
+2316,2316,2316,1.37436185740689e+18,2021-03-23 14:06:15+00:00,['1374361857406889985'],@rightwingchora We need them, we need them,True,False
+2380,2380,2380,1.3735146672224625e+18,2021-03-21 05:59:49+00:00,['1373514667222462468'],@Panther7112 Just 2 ?, just 2 ,True,False
+2386,2386,2386,1.3735137760628204e+18,2021-03-21 05:56:17+00:00,['1373513776062820352'],"@vijaygajera This has been the things since ages; immaterial of who is at which position, in hush hush whispers . Now it has started coming in public platform.", this has been the things since ages immaterial of who is at which position in hush hush whispers  now it has started coming in public platform,True,False
+2483,2483,2483,1.352849215207035e+18,2021-01-23 05:22:42+00:00,['1352849215207034882'],"@GemsOfBollywood Join telegram 
+Create your work there"," join telegram 
+create your work there",True,False

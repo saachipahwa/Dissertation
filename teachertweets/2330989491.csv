@@ -1,67 +1,89 @@
-id,created_at,edit_history_tweet_ids,text,clean_text,nouns
-1.557681277129597e+18,2022-08-11 10:52:11+00:00,['1557681277129596929'],@GOV2UK I'm so tired of it all. #ToriesOut35 #JohnsonOut199 #GeneralElectionNow,i'm tired,i 
-1.556591042173993e+18,2022-08-08 10:39:59+00:00,['1556591042173992961'],"We must get #JohnsonOut196 and #ToriesOut32 
-#GeneralElectionNow",must get,
-1.556585246468227e+18,2022-08-08 10:16:57+00:00,['1556585246468227072'],@SydesJokes @LookBehindYou20 @TheAllKnowingHe @dexsissyslave @EM96929853 @FionaSaveourNHS @tad123 @hoopfrood344 @ALP258 @saltydogashore @LaughingSmurf @VoodooBollocks @JohnWojtowycz @the_narv @permachumbaria @jzr_jill Cheers. Followed.👍,cheer followed,cheer 
-1.554763852633473e+18,2022-08-03 09:39:23+00:00,['1554763852633473024'],@charleshymas @PoliceInspForum @NotThatBigIan @CEGroupUK @FightExtremism @Telegraph @TerrorismPolice @DefeatExtremism @UK_CAGE @PoliceChiefs @the_police_fdn Fascist state.,fascist state,state 
-1.554745135942058e+18,2022-08-03 08:25:00+00:00,['1554745135942057985'],@MPrepuce @alex_kovaleski All the above,,nan 
-1.5547428296243118e+18,2022-08-03 08:15:50+00:00,['1554742829624311808'],@Peston Unfortunately that would mean targeting government supporters! #ToriesOut27,unfortunately would mean targeting government supporter,government supporter 
-1.5547415182582743e+18,2022-08-03 08:10:38+00:00,['1554741518258274304'],"@LGalloway77 I am afraid, very afraid........for this country, our democracy, our NHS and that people will keep supporting this corrupt cabal of a government.
+Unnamed: 0,id,created_at,edit_history_tweet_ids,text,clean_text,non_english,whitespace
+49,1.557681277129597e+18,2022-08-11 10:52:11+00:00,['1557681277129596929'],@GOV2UK I'm so tired of it all. #ToriesOut35 #JohnsonOut199 #GeneralElectionNow, im so tired of it all   ,True,False
+87,1.556591042173993e+18,2022-08-08 10:39:59+00:00,['1556591042173992961'],"We must get #JohnsonOut196 and #ToriesOut32 
+#GeneralElectionNow","we must get  and  
+",True,False
+106,1.556585246468227e+18,2022-08-08 10:16:57+00:00,['1556585246468227072'],@SydesJokes @LookBehindYou20 @TheAllKnowingHe @dexsissyslave @EM96929853 @FionaSaveourNHS @tad123 @hoopfrood344 @ALP258 @saltydogashore @LaughingSmurf @VoodooBollocks @JohnWojtowycz @the_narv @permachumbaria @jzr_jill Cheers. Followed.👍,                cheers followed,True,False
+218,1.554763852633473e+18,2022-08-03 09:39:23+00:00,['1554763852633473024'],@charleshymas @PoliceInspForum @NotThatBigIan @CEGroupUK @FightExtremism @Telegraph @TerrorismPolice @DefeatExtremism @UK_CAGE @PoliceChiefs @the_police_fdn Fascist state.,           fascist state,True,False
+240,1.554745135942058e+18,2022-08-03 08:25:00+00:00,['1554745135942057985'],@MPrepuce @alex_kovaleski All the above,  all the above,True,False
+256,1.5547428296243118e+18,2022-08-03 08:15:50+00:00,['1554742829624311808'],@Peston Unfortunately that would mean targeting government supporters! #ToriesOut27, unfortunately that would mean targeting government supporters ,True,False
+263,1.5547415182582743e+18,2022-08-03 08:10:38+00:00,['1554741518258274304'],"@LGalloway77 I am afraid, very afraid........for this country, our democracy, our NHS and that people will keep supporting this corrupt cabal of a government.
 #ToriesOut27 
-#GeneralElectionNow #JohnsonOut191",afraid afraidfor country democracy nh people keep supporting corrupt cabal government,country democracy corrupt government 
-1.5537624292046643e+18,2022-07-31 15:20:05+00:00,['1553762429204664320'],@campbellclaret @nulasuchet Exactly.,exactly,
-1.553761925259055e+18,2022-07-31 15:18:05+00:00,['1553761925259055105'],"@JolyonMaugham @AndrewF937 So why does @UKLabour and @Keir_Starmer keep going down the same track of appeasing brexit voters, rather than saying we can all see #BrexitShambles, why don't they tell the truth,  we need FOM SM and CU. Maybe even eventually #RejoinEU",doe keep going track appeasing brexit voter rather saying see tell truth need fom sm cu maybe even eventually,doe brexit voter sm cu 
-1.5537577375568732e+18,2022-07-31 15:01:26+00:00,['1553757737556873222'],@ChillaxBcn @gouldie7 This just this.... exactly what we want to hear.,exactly want hear,hear 
-1.553752268612182e+18,2022-07-31 14:39:42+00:00,['1553752268612182018'],"@CockertonMark @Dougmbe97 That's what we would like to believe.  But the turkeys keep voting for Christmas.  If you can scrape together the money you need to pay for an operation because you're in pain, you're gonna pay.  Thus is how they keep drip feeding privatisation.
- #SaveOurNHS  #ToriesOut24",that's would like believe turkey keep voting christmas scrape together money need pay operation pain gonna pay thus keep drip feeding privatisation,voting christmas scrape money operation pain gon drip feeding privatisation 
-1.5537507951448146e+18,2022-07-31 14:33:51+00:00,['1553750795144814592'],"@lindambroadley @ChirpyChet You're right. As long as they keep supporting this corrupt tory cabal, they are part of it @JulianSturdy 
+#GeneralElectionNow #JohnsonOut191"," i am afraid very afraidfor this country our democracy our nhs and that people will keep supporting this corrupt cabal of a government
+ 
+ ",True,False
+337,1.5537624292046643e+18,2022-07-31 15:20:05+00:00,['1553762429204664320'],@campbellclaret @nulasuchet Exactly.,  exactly,True,False
+343,1.553761925259055e+18,2022-07-31 15:18:05+00:00,['1553761925259055105'],"@JolyonMaugham @AndrewF937 So why does @UKLabour and @Keir_Starmer keep going down the same track of appeasing brexit voters, rather than saying we can all see #BrexitShambles, why don't they tell the truth,  we need FOM SM and CU. Maybe even eventually #RejoinEU",  so why does  and  keep going down the same track of appeasing brexit voters rather than saying we can all see  why dont they tell the truth  we need fom sm and cu maybe even eventually ,True,False
+371,1.5537577375568732e+18,2022-07-31 15:01:26+00:00,['1553757737556873222'],@ChillaxBcn @gouldie7 This just this.... exactly what we want to hear.,  this just this exactly what we want to hear,True,False
+408,1.553752268612182e+18,2022-07-31 14:39:42+00:00,['1553752268612182018'],"@CockertonMark @Dougmbe97 That's what we would like to believe.  But the turkeys keep voting for Christmas.  If you can scrape together the money you need to pay for an operation because you're in pain, you're gonna pay.  Thus is how they keep drip feeding privatisation.
+ #SaveOurNHS  #ToriesOut24","  thats what we would like to believe  but the turkeys keep voting for christmas  if you can scrape together the money you need to pay for an operation because youre in pain youre gonna pay  thus is how they keep drip feeding privatisation
+   ",True,False
+419,1.5537507951448146e+18,2022-07-31 14:33:51+00:00,['1553750795144814592'],"@lindambroadley @ChirpyChet You're right. As long as they keep supporting this corrupt tory cabal, they are part of it @JulianSturdy 
 I'm scared for the UK and our democracy.
-#ToriesOut24 #JohnsonOut188 #GeneralElectionNow",right long keep supporting corrupt tory cabal part i'm scared uk democracy,tory part i democracy 
-1.553748233645613e+18,2022-07-31 14:23:40+00:00,['1553748233645613056'],@MFeijota @maryamtie54 Couldn't be a more accurate term for this tory cabal.,accurate term tory cabal,term tory cabal 
-1.5537463932395356e+18,2022-07-31 14:16:22+00:00,['1553746393239535617'],@AndyBurnhamGM @gullssinceaboy But they can make them happen if they continue to run roughshod over our democracy.  Its very scary and where is the opposition?  Why aren't they screaming that this is a real shitshow if a country under this corrupt tory cabal? #ToriesOut24 #GeneralElectionNow #JohnsonOut188,make happen continue run roughshod democracy scary opposition screaming real shitshow country corrupt tory cabal,continue roughshod democracy opposition country cabal 
-1.5537428741639455e+18,2022-07-31 14:02:23+00:00,['1553742874163945479'],"@LGalloway77 @maryamtie54 Why isn't @UKLabour and @Keir_Starmer absolutely slamming the gov on the stste if the NHS?  No to privatisation and where is the money from track and trace, the increase in NIC and the brexit bonus?  #SaveOurNHS #ToriesOut24 #JohnsonOut188 
-#GeneralElectionNow",absolutely slamming gov stste nh privatisation money track trace increase nic brexit bonus,stste privatisation money track trace increase brexit bonus 
-1.5537418823495598e+18,2022-07-31 13:58:26+00:00,['1553741882349559810'],"@LGalloway77 @KarinaKarinaMR It goes from bad to worse with this corrupt @Conservatives cabal. We need the #ToriesOut24 but first we need to see #JohnsonOut188
+#ToriesOut24 #JohnsonOut188 #GeneralElectionNow","  youre right as long as they keep supporting this corrupt tory cabal they are part of it  
+im scared for the uk and our democracy
+  ",True,False
+431,1.553748233645613e+18,2022-07-31 14:23:40+00:00,['1553748233645613056'],@MFeijota @maryamtie54 Couldn't be a more accurate term for this tory cabal.,  couldnt be a more accurate term for this tory cabal,True,False
+459,1.5537463932395356e+18,2022-07-31 14:16:22+00:00,['1553746393239535617'],@AndyBurnhamGM @gullssinceaboy But they can make them happen if they continue to run roughshod over our democracy.  Its very scary and where is the opposition?  Why aren't they screaming that this is a real shitshow if a country under this corrupt tory cabal? #ToriesOut24 #GeneralElectionNow #JohnsonOut188,  but they can make them happen if they continue to run roughshod over our democracy  its very scary and where is the opposition  why arent they screaming that this is a real shitshow if a country under this corrupt tory cabal   ,True,False
+493,1.5537428741639455e+18,2022-07-31 14:02:23+00:00,['1553742874163945479'],"@LGalloway77 @maryamtie54 Why isn't @UKLabour and @Keir_Starmer absolutely slamming the gov on the stste if the NHS?  No to privatisation and where is the money from track and trace, the increase in NIC and the brexit bonus?  #SaveOurNHS #ToriesOut24 #JohnsonOut188 
+#GeneralElectionNow","  why isnt  and  absolutely slamming the gov on the stste if the nhs  no to privatisation and where is the money from track and trace the increase in nic and the brexit bonus     
+",True,False
+496,1.5537418823495598e+18,2022-07-31 13:58:26+00:00,['1553741882349559810'],"@LGalloway77 @KarinaKarinaMR It goes from bad to worse with this corrupt @Conservatives cabal. We need the #ToriesOut24 but first we need to see #JohnsonOut188
 We need a strong voice in opposition, @Keir_Starmer and @UKLabour need to stop appeasing the brexit crowd.
-#GeneralElectionNow",go bad worse corrupt cabal need first need see need strong voice opposition need stop appeasing brexit crowd,corrupt voice opposition brexit crowd 
-1.553738638856536e+18,2022-07-31 13:45:33+00:00,['1553738638856536065'],@EmilyThornberry @NibblerRat Bloody scary ain't it? We need the opposition to be screaming and raging.,bloody scary ain't need opposition screaming raging,bloody opposition 
-1.5537378463218235e+18,2022-07-31 13:42:24+00:00,['1553737846321823746'],"@GordonBrown @NibblerRat What a scary time we live in.  Where is the outrage from the opposition, how the hell do we end the coup!!!",scary time live outrage opposition hell end coup,time outrage opposition hell end coup 
-1.5523369009245143e+18,2022-07-27 16:55:32+00:00,['1552336900924514305'],@BBCLauraKT @Cami_bekind If only......,,nan 
-1.5522241296879944e+18,2022-07-27 09:27:26+00:00,['1552224129687994369'],@Matthew82069336 @DavidWCummins @BorisJohnson Fair asessment🤔,fair asessment,asessment 
-1.55158368777864e+18,2022-07-25 15:02:32+00:00,['1551583687778639875'],@RishiSunak Evil policy.  Evil party. #ToriesOut18,evil policy evil party,policy evil party 
-1.5515835644451471e+18,2022-07-25 15:02:03+00:00,['1551583564445147137'],@trussliz Then you're just as fecking evil as Patel and no different to that lying barsteward Johnson.,fecking evil patel different lying barsteward johnson,patel barsteward johnson 
-1.5515818030514668e+18,2022-07-25 14:55:03+00:00,['1551581803051466754'],@GregHands And would you have??,would,
-1.5500420629632123e+18,2022-07-21 08:56:40+00:00,['1550042062963212290'],"@LGalloway77 @ExasperatedTory They have no shame, otherwise he'd have been long gone.
-#ToriesOut14 #JohnsonOut178",shame otherwise he'd long gone,shame 
-1.5491169088505815e+18,2022-07-18 19:40:26+00:00,['1549116908850581507'],"@Bren4Bassetlaw @Conservatives @Keir_Starmer Idiot
+#GeneralElectionNow","  it goes from bad to worse with this corrupt  cabal we need the  but first we need to see 
+we need a strong voice in opposition  and  need to stop appeasing the brexit crowd
+",True,False
+520,1.553738638856536e+18,2022-07-31 13:45:33+00:00,['1553738638856536065'],@EmilyThornberry @NibblerRat Bloody scary ain't it? We need the opposition to be screaming and raging.,  bloody scary aint it we need the opposition to be screaming and raging,True,False
+532,1.5537378463218235e+18,2022-07-31 13:42:24+00:00,['1553737846321823746'],"@GordonBrown @NibblerRat What a scary time we live in.  Where is the outrage from the opposition, how the hell do we end the coup!!!",  what a scary time we live in  where is the outrage from the opposition how the hell do we end the coup,True,False
+618,1.5523369009245143e+18,2022-07-27 16:55:32+00:00,['1552336900924514305'],@BBCLauraKT @Cami_bekind If only......,  if only,True,False
+673,1.5522241296879944e+18,2022-07-27 09:27:26+00:00,['1552224129687994369'],@Matthew82069336 @DavidWCummins @BorisJohnson Fair asessment🤔,   fair asessment,True,False
+761,1.55158368777864e+18,2022-07-25 15:02:32+00:00,['1551583687778639875'],@RishiSunak Evil policy.  Evil party. #ToriesOut18, evil policy  evil party ,True,False
+762,1.5515835644451471e+18,2022-07-25 15:02:03+00:00,['1551583564445147137'],@trussliz Then you're just as fecking evil as Patel and no different to that lying barsteward Johnson., then youre just as fecking evil as patel and no different to that lying barsteward johnson,True,False
+769,1.5515818030514668e+18,2022-07-25 14:55:03+00:00,['1551581803051466754'],@GregHands And would you have??, and would you have,True,False
+844,1.5500420629632123e+18,2022-07-21 08:56:40+00:00,['1550042062963212290'],"@LGalloway77 @ExasperatedTory They have no shame, otherwise he'd have been long gone.
+#ToriesOut14 #JohnsonOut178","  they have no shame otherwise hed have been long gone
+ ",True,False
+864,1.5491169088505815e+18,2022-07-18 19:40:26+00:00,['1549116908850581507'],"@Bren4Bassetlaw @Conservatives @Keir_Starmer Idiot
 #JohnsonOut175 
-#GeneralElectionNow",idiot,idiot 
-1.548618467011711e+18,2022-07-17 10:39:49+00:00,['1548618467011710977'],@martinradio @BenKentish The point is they are using the trans rights issues to divide and distract.,point using trans right issue divide distract,point issue distract 
-1.548611128984486e+18,2022-07-17 10:10:39+00:00,['1548611128984485889'],@BlokeOnWheels Unfortunately the whole cabal from the PM down don't and have never given a flying feck.  That's why he country is a fecking mess. #GeneralElectionNow #JohnsonOut174 #ToriesOut10,unfortunately whole cabal pm never given flying feck that's country fecking mess,cabal pm feck country mess 
-1.5486103952875602e+18,2022-07-17 10:07:44+00:00,['1548610395287560193'],@AugersMonster @GarethFbpe It's awful isn't it.  So hard being the only one in a crowd. No one wants to feel different. #CovidIsNotOver #WearAMask,awful hard one crowd one want feel different,feel 
-1.5485610617997926e+18,2022-07-17 06:51:42+00:00,['1548561061799792640'],@LGalloway77 Agree we really need a #GeneralElectionNow #JohnsonOut174 #ToriesOut10,agree really need,
-1.548262772877566e+18,2022-07-16 11:06:25+00:00,['1548262772877565952'],"@snb19692 @Artemitzi Oh yes we really need to #ProsecuteJohnson
-But first we must evict the no 10 squatter.. #JohnsonOut173 and we need a #GeneralElectionNow so we can get #ToriesOut9",oh yes really need first must evict squatter need get,need 
-1.5482575362554675e+18,2022-07-16 10:45:36+00:00,['1548257536255467523'],"@PippaCrerar When will the corrupting and abuse end? #JohnsonOut173 A man without honour shouldn't be anywhere near a honours list.
+#GeneralElectionNow","   idiot
+ 
+",True,False
+879,1.548618467011711e+18,2022-07-17 10:39:49+00:00,['1548618467011710977'],@martinradio @BenKentish The point is they are using the trans rights issues to divide and distract.,  the point is they are using the trans rights issues to divide and distract,True,False
+937,1.548611128984486e+18,2022-07-17 10:10:39+00:00,['1548611128984485889'],@BlokeOnWheels Unfortunately the whole cabal from the PM down don't and have never given a flying feck.  That's why he country is a fecking mess. #GeneralElectionNow #JohnsonOut174 #ToriesOut10, unfortunately the whole cabal from the pm down dont and have never given a flying feck  thats why he country is a fecking mess   ,True,False
+941,1.5486103952875602e+18,2022-07-17 10:07:44+00:00,['1548610395287560193'],@AugersMonster @GarethFbpe It's awful isn't it.  So hard being the only one in a crowd. No one wants to feel different. #CovidIsNotOver #WearAMask,  its awful isnt it  so hard being the only one in a crowd no one wants to feel different  ,True,False
+1020,1.5485610617997926e+18,2022-07-17 06:51:42+00:00,['1548561061799792640'],@LGalloway77 Agree we really need a #GeneralElectionNow #JohnsonOut174 #ToriesOut10, agree we really need a   ,True,False
+1077,1.548262772877566e+18,2022-07-16 11:06:25+00:00,['1548262772877565952'],"@snb19692 @Artemitzi Oh yes we really need to #ProsecuteJohnson
+But first we must evict the no 10 squatter.. #JohnsonOut173 and we need a #GeneralElectionNow so we can get #ToriesOut9","  oh yes we really need to 
+but first we must evict the no 10 squatter  and we need a  so we can get ",True,False
+1113,1.5482575362554675e+18,2022-07-16 10:45:36+00:00,['1548257536255467523'],"@PippaCrerar When will the corrupting and abuse end? #JohnsonOut173 A man without honour shouldn't be anywhere near a honours list.
 #ToriesOut9 
-#GeneralElectionNow",corrupting abuse end man without honour anywhere near honour list,abuse end man honour list 
-1.548255759699284e+18,2022-07-16 10:38:32+00:00,['1548255759699283968'],"@AngelaRayner So tired of this corrupt and useless government.  #JohnsonOut173
-#ToriesOut9 #GeneralElectionNow",tired corrupt useless government,government 
-1.548253053698003e+18,2022-07-16 10:27:47+00:00,['1548253053698002945'],@Beany_1 It's scary... #ToriesOut9 #JohnsonOut173  #GeneralElectionNow,scary,
-1.5482488768296632e+18,2022-07-16 10:11:11+00:00,['1548248876829663232'],"@BettinaSRoss1 @LIZSIMM45341967 Yep
+#GeneralElectionNow"," when will the corrupting and abuse end  a man without honour shouldnt be anywhere near a honours list
+ 
+",True,False
+1128,1.548255759699284e+18,2022-07-16 10:38:32+00:00,['1548255759699283968'],"@AngelaRayner So tired of this corrupt and useless government.  #JohnsonOut173
+#ToriesOut9 #GeneralElectionNow"," so tired of this corrupt and useless government  
+ ",True,False
+1145,1.548253053698003e+18,2022-07-16 10:27:47+00:00,['1548253053698002945'],@Beany_1 It's scary... #ToriesOut9 #JohnsonOut173  #GeneralElectionNow, its scary    ,True,False
+1181,1.5482488768296632e+18,2022-07-16 10:11:11+00:00,['1548248876829663232'],"@BettinaSRoss1 @LIZSIMM45341967 Yep
 #JohnsonOut173
-#ToriesOut",yep,yep 
-1.548247653829382e+18,2022-07-16 10:06:20+00:00,['1548247653829382145'],@diddlydav What is normal? #CovidIsNotOver it's about taking precautions.  #Wearadamnmask,normal taking precaution,precaution 
-1.5480771563196703e+18,2022-07-15 22:48:50+00:00,['1548077156319670273'],@MPrepuce @maryamtie54 Lucky bugger🥺,lucky bugger,bugger 
-1.5478747411128689e+18,2022-07-15 09:24:31+00:00,['1547874741112868867'],"@Jo6952 When he actually goes😡  bloody squatting in no10
+#ToriesOut","  yep
+
+",True,False
+1184,1.548247653829382e+18,2022-07-16 10:06:20+00:00,['1548247653829382145'],@diddlydav What is normal? #CovidIsNotOver it's about taking precautions.  #Wearadamnmask, what is normal  its about taking precautions  ,True,False
+1212,1.5480771563196703e+18,2022-07-15 22:48:50+00:00,['1548077156319670273'],@MPrepuce @maryamtie54 Lucky bugger🥺,  lucky bugger,True,False
+1244,1.5478747411128689e+18,2022-07-15 09:24:31+00:00,['1547874741112868867'],"@Jo6952 When he actually goes😡  bloody squatting in no10
 #JohnsonOut172 #ToriesOut8 
-#GeneralElectionNow",actually go bloody squatting,
-1.5478716628208886e+18,2022-07-15 09:12:17+00:00,['1547871662820888579'],"@snowleopardess Worryingly @UKLabour and @Keir_Starmer don't challenge this and sat they'll 'make ie work'.  The majority of us don't want that, we want to move closer to the EU- SM CU FOM and ultimately #RejoinEU",worryingly challenge sat they'll 'make ie work' majority u want want move closer eu sm cu fom ultimately,work majority move eu sm cu fom 
-1.5478705795453665e+18,2022-07-15 09:07:58+00:00,['1547870579545366536'],"@YvonneBurdett3 Exactly my thoughts.  No longer needed to cover up his lying and corruption, he's git her leadership farce to do that.  What is he up to, whilst we're looking elsewhere?  #JohnsonOut172 #ToriesOut8",exactly thought longer needed cover lying corruption he's git leadership farce whilst we're looking elsewhere,cover corruption leadership farce whilst 
-1.5478680162510234e+18,2022-07-15 08:57:47+00:00,['1547868016251023360'],"@dem_cath I agree. I just don't understand @Keir_Starmer and @UKLabour  not supporting a move towards SM CU and eventual #RejoinEU 
-Brexit is so wrong and damaging.",agree understand supporting move towards sm cu eventual brexit wrong damaging,understand move brexit damaging 
-1.547737293980545e+18,2022-07-15 00:18:21+00:00,['1547737293980545027'],@P74Y3D @gus1955 The day can't come soon enough for us to get #JohnsonOut172 and the rest of the #ToriesOut8,day can't come soon enough u get rest,day rest 
-1.547594181073285e+18,2022-07-14 14:49:40+00:00,['1547594181073285121'],"@RachelDEdwards I just can't believe people are like this.  Why, just why????",can't believe people like,
-1.5475051496016118e+18,2022-07-14 08:55:53+00:00,['1547505149601611777'],@LGalloway77 Evil personified.... #JohnsonOut171 #ToriesOut7 #GeneralElectionNow,evil personified,
-1.5471469054273167e+18,2022-07-13 09:12:21+00:00,['1547146905427316736'],"@snowleopardess That's the problem. They're won't be a fresh start until a GE is held. #JohnsonOut170 #GetExitDone #ToriesOut6
-#GeneralElectionNow",that's problem they're fresh start ge held,problem start ge 
+#GeneralElectionNow"," when he actually goes  bloody squatting in no10
+  
+",True,False
+1271,1.5478716628208886e+18,2022-07-15 09:12:17+00:00,['1547871662820888579'],"@snowleopardess Worryingly @UKLabour and @Keir_Starmer don't challenge this and sat they'll 'make ie work'.  The majority of us don't want that, we want to move closer to the EU- SM CU FOM and ultimately #RejoinEU", worryingly  and  dont challenge this and sat theyll make ie work  the majority of us dont want that we want to move closer to the eu sm cu fom and ultimately ,True,False
+1281,1.5478705795453665e+18,2022-07-15 09:07:58+00:00,['1547870579545366536'],"@YvonneBurdett3 Exactly my thoughts.  No longer needed to cover up his lying and corruption, he's git her leadership farce to do that.  What is he up to, whilst we're looking elsewhere?  #JohnsonOut172 #ToriesOut8", exactly my thoughts  no longer needed to cover up his lying and corruption hes git her leadership farce to do that  what is he up to whilst were looking elsewhere   ,True,False
+1306,1.5478680162510234e+18,2022-07-15 08:57:47+00:00,['1547868016251023360'],"@dem_cath I agree. I just don't understand @Keir_Starmer and @UKLabour  not supporting a move towards SM CU and eventual #RejoinEU 
+Brexit is so wrong and damaging."," i agree i just dont understand  and   not supporting a move towards sm cu and eventual  
+brexit is so wrong and damaging",True,False
+1345,1.547737293980545e+18,2022-07-15 00:18:21+00:00,['1547737293980545027'],@P74Y3D @gus1955 The day can't come soon enough for us to get #JohnsonOut172 and the rest of the #ToriesOut8,  the day cant come soon enough for us to get  and the rest of the ,True,False
+1417,1.547594181073285e+18,2022-07-14 14:49:40+00:00,['1547594181073285121'],"@RachelDEdwards I just can't believe people are like this.  Why, just why????", i just cant believe people are like this  why just why,True,False
+1452,1.5475051496016118e+18,2022-07-14 08:55:53+00:00,['1547505149601611777'],@LGalloway77 Evil personified.... #JohnsonOut171 #ToriesOut7 #GeneralElectionNow, evil personified   ,True,False
+1659,1.5471469054273167e+18,2022-07-13 09:12:21+00:00,['1547146905427316736'],"@snowleopardess That's the problem. They're won't be a fresh start until a GE is held. #JohnsonOut170 #GetExitDone #ToriesOut6
+#GeneralElectionNow"," thats the problem theyre wont be a fresh start until a ge is held   
+",True,False
