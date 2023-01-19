@@ -1,6 +1,8 @@
 import os
 from bertopic import BERTopic
 import pandas as pd
+from sentence_transformers import SentenceTransformer
+from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
@@ -11,9 +13,8 @@ def get_all_tweets(directory = None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-def get_topics_from(df=None, directory_name = "nursetweets", nr_topics=None):
-    tweet_text = df['nouns'].astype(str).tolist()
-    print("got df")
+def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=None):
+    #set up model parameters
     topic_model = BERTopic(language="english",
                            calculate_probabilities=False,
                            verbose=True,
@@ -22,8 +23,11 @@ def get_topics_from(df=None, directory_name = "nursetweets", nr_topics=None):
                            nr_topics=nr_topics
                            )
     print("set up topic model. about to fit model")
-    topics, probabilities = topic_model.fit_transform(tweet_text)
-    # topic_model.save("{}_model".format(directory_name))
+
+    #fit transform
+    topics, probabilities = topic_model.fit_transform(tweet_text, embeddings)
+    topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
+
     print("fit model")
     freq = topic_model.get_topic_info()
     print(type(freq))
@@ -31,7 +35,7 @@ def get_topics_from(df=None, directory_name = "nursetweets", nr_topics=None):
 
     details_list = []
     for i in freq['Topic']:
-        if i>-1:
+        if i > -1:
             details_list.append(topic_model.get_topic(i))
         else:
             details_list.append([])
@@ -40,8 +44,36 @@ def get_topics_from(df=None, directory_name = "nursetweets", nr_topics=None):
     freq.to_csv('topics/{}_topics_{}.csv'.format(directory_name, nr_topics))
     print("saved to csv")
 
-directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
+    return topic_model
 
-df = get_all_tweets(directories[4])
-print(len(df))
-nurse_freq = get_topics_from(df, directory_name="nursetweets", nr_topics=5)
+#get tweets
+directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
+df = get_all_tweets(directories[0])
+print("tweet count", len(df))
+
+#get tweet text
+tweet_text = df['nouns'].astype(str).tolist()
+print("got df")
+
+#set up evaluation spreadsheet
+data= {'nr_topics': [5, 10, 15, 20], 'topic_diversity': []}
+evaluation_df = pd.DataFrame(data)
+evaluation_df.set_index('nr_topics')
+evaluation_df.to_csv("topics/topic_evaluation.csv")
+
+#pre-compute embeddings
+sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+embeddings = sentence_model.encode(tweet_text, show_progress_bar=False)
+model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
+model_10 = get_topics_from( directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
+model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
+model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
+
+#evaluation
+metric = TopicDiversity(topk=10)
+evaluation_df.at[5,'topic_diversity'] = metric.score(model_5)
+evaluation_df.at[10,'topic_diversity'] = metric.score(model_10)
+evaluation_df.at[15,'topic_diversity'] = metric.score(model_15)
+evaluation_df.at[20,'topic_diversity'] = metric.score(model_20)
+
+evaluation_df.to_csv("topics/topic_evaluation.csv")
