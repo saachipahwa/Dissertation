@@ -56,7 +56,7 @@ tweet_text = df['nouns'].astype(str).tolist()
 print("got df")
 
 #set up evaluation spreadsheet
-data= {'nr_topics': [5, 10, 15, 20], 'topic_diversity': []}
+data= {'nr_topics': [5, 10, 15, 20], 'topic_diversity': [None, None]}
 evaluation_df = pd.DataFrame(data)
 evaluation_df.set_index('nr_topics')
 evaluation_df.to_csv("topics/topic_evaluation.csv")
