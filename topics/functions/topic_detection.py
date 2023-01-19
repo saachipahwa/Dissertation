@@ -3,6 +3,7 @@ from bertopic import BERTopic
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
