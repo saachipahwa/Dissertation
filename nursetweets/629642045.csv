@@ -8,5 +8,4 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.1193504128454944e+18,2019-04-19 21:21:49+00:00,['1119350412845494277'],@ShineMyShit @CeriCf @Dionne_121 the golden days,golden day,True,day 
 1.118278688527745e+18,2019-04-16 22:23:10+00:00,['1118278688527745027'],@0deanpaget0 @__chloeclinton @_NicoleRedmond6 well then,well,True,
 1.1077541207510508e+18,2019-03-18 21:22:18+00:00,['1107754120751050752'],@is_mise_jessica @Emmet_2011 I’m alright bro,alright bro,True,alright bro 
-1.1063284551159562e+18,2019-03-14 22:57:12+00:00,['1106328455115956224'],"@_NicoleRedmond6 “How do you say your name”
-E F A",say name,True,name 
+1.1063284551159562e+18,2019-03-14 22:57:12+00:00,['1106328455115956224'],@_NicoleRedmond6 “How do you say your name” E F A,say name,True,name 

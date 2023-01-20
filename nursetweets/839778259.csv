@@ -30,7 +30,7 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.5642676724639826e+18,2022-08-29 15:04:10+00:00,['1564267672463982595'],Taxi dog https://t.co/Wjs8g1iyuF,taxi dog,True,taxi dog 
 1.5641975063213588e+18,2022-08-29 10:25:21+00:00,['1564197506321358848'],@MAW_H It was supposed to be thrown!,supposed thrown,True,
 1.564179644835926e+18,2022-08-29 09:14:23+00:00,['1564179644835926023'],@sistermusan You love your Sensorites!,love sensorites,True,love 
-1.5641790817464156e+18,2022-08-29 09:12:08+00:00,['1564179081746415616'],"As a kid I had the first ever issue of 2000AD, which I coloured in and threw away…  which was somewhat foolish in retrospect https://t.co/JqoXnX8HFf",kid first ever issue coloured threw away somewhat foolish retrospect,True,kid retrospect 
+1.5641790817464156e+18,2022-08-29 09:12:08+00:00,['1564179081746415616'],"As a kid I had the first ever issue of 2000AD, which I coloured in and threw away… which was somewhat foolish in retrospect https://t.co/JqoXnX8HFf",kid first ever issue coloured threw away somewhat foolish retrospect,True,kid retrospect 
 1.5641780842402816e+18,2022-08-29 09:08:10+00:00,['1564178084240281601'],"@thomrell It was supposed to be a comedy but they played it straight, the opposite of late 70’s Who",supposed comedy played straight opposite late,True,comedy 
 1.5641754015005125e+18,2022-08-29 08:57:31+00:00,['1564175401500512256'],"@Hypnogoria It’s been a really good series, thanks",really good series thanks,True,series 
 1.564147827906941e+18,2022-08-29 07:07:57+00:00,['1564147827906940929'],"@SeventiesLegend @archivetvmus71 I remember that one, Peggy becoming a yellow coat just before it shut!",remember one peggy becoming yellow coat shut,True,peggy coat shut 
@@ -42,7 +42,7 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.5639320308319273e+18,2022-08-28 16:50:27+00:00,['1563932030831927298'],"@archivetvmus71 i never realised they had a concluding episode , most series just stop",never realised concluding episode series stop,True,episode series stop 
 1.5639291877229527e+18,2022-08-28 16:39:09+00:00,['1563929187722952709'],i think i understood that https://t.co/v3gCtolMsi,think understood,True,understood 
 1.56391109695991e+18,2022-08-28 15:27:16+00:00,['1563911096959909888'],@SpaceyBox unoccupied i hope,unoccupied hope,True,hope 
-1.5638901488987054e+18,2022-08-28 14:04:01+00:00,['1563890148898705410'],Check out Doctor Who: The Ninth Doctor Adventures: Into the Stars  from Big Finish. https://t.co/NDwXNwvWvS https://t.co/jSQhCmy9QG,check doctor ninth doctor adventure star big finish,True,check doctor doctor adventure star finish 
+1.5638901488987054e+18,2022-08-28 14:04:01+00:00,['1563890148898705410'],Check out Doctor Who: The Ninth Doctor Adventures: Into the Stars from Big Finish. https://t.co/NDwXNwvWvS https://t.co/jSQhCmy9QG,check doctor ninth doctor adventure star big finish,True,check doctor doctor adventure star finish 
 1.5638411673929974e+18,2022-08-28 10:49:23+00:00,['1563841167392997376'],Really enjoyed this set,really enjoyed set,True,set 
 1.5638401607222968e+18,2022-08-28 10:45:23+00:00,['1563840160722296833'],@fitgeek_uk Proof!,proof,True,proof 
 1.5638377123769915e+18,2022-08-28 10:35:39+00:00,['1563837712376991745'],@MrsRemingtonFan Stones 😊,stone,True,stone 
@@ -69,7 +69,7 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.563124357320192e+18,2022-08-26 11:21:02+00:00,['1563124357320192002'],no more Covid tests before work from Tuesday https://t.co/xAba5rDEGo,covid test work tuesday,True,test work tuesday 
 1.563111758054576e+18,2022-08-26 10:30:58+00:00,['1563111758054576130'],@richcoastrican Batman Forever,batman forever,True,batman forever 
 1.563063176152748e+18,2022-08-26 07:17:56+00:00,['1563063176152748033'],@SkinTrader2 @HorrorOrman How was Lair?,lair,True,lair 
-1.5629145983359386e+18,2022-08-25 21:27:32+00:00,['1562914598335938561'],@ScarredForLife2 The poisoned girls  screams really spooked me as a kid,poisoned girl scream really spooked kid,True,scream kid 
+1.5629145983359386e+18,2022-08-25 21:27:32+00:00,['1562914598335938561'],@ScarredForLife2 The poisoned girls screams really spooked me as a kid,poisoned girl scream really spooked kid,True,scream kid 
 1.5628194889236603e+18,2022-08-25 15:09:36+00:00,['1562819488923660289'],@amypond4ever I just bought two tracks for which I hold you entirely responsible!,bought two track hold entirely responsible,True,track hold 
 1.5628185144019722e+18,2022-08-25 15:05:44+00:00,['1562818514401972225'],@amypond4ever Actually I really like The Black Hole version !,actually really like black hole version,True,hole version 
 1.5628182174413988e+18,2022-08-25 15:04:33+00:00,['1562818217441398784'],@amypond4ever Omg listen to the previews 😂,omg listen preview,True,preview 
@@ -189,11 +189,7 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.5598386805834916e+18,2022-08-17 09:44:56+00:00,['1559838680583491584'],"@Greebohobbes Could do, probably won’t",could probably wont,True,
 1.5598385499686216e+18,2022-08-17 09:44:25+00:00,['1559838549968621568'],@Grumpy20001 Lol … no,lol,True,lol 
 1.5598375764496916e+18,2022-08-17 09:40:33+00:00,['1559837576449691650'],@Greebohobbes Exactly! Anyway we are probably meeting for lunch,exactly anyway probably meeting lunch,True,lunch 
-1.5598369517668598e+18,2022-08-17 09:38:04+00:00,['1559836951766859776'],"I was discussing my friend’s Anne’s upcoming birthday with her.
-“How do you always remember my birthday?”
-“It’s the date the Moon was blown out of Earths orbit”
-“What?”
-“Never mind “ https://t.co/2qUJnxfi3y",discussing friend anne upcoming birthday always remember birthday date moon blown earth orbit never mind,True,friend anne birthday date moon earth orbit mind 
+1.5598369517668598e+18,2022-08-17 09:38:04+00:00,['1559836951766859776'],I was discussing my friend’s Anne’s upcoming birthday with her. “How do you always remember my birthday?” “It’s the date the Moon was blown out of Earths orbit” “What?” “Never mind “ https://t.co/2qUJnxfi3y,discussing friend anne upcoming birthday always remember birthday date moon blown earth orbit never mind,True,friend anne birthday date moon earth orbit mind 
 1.559820623106478e+18,2022-08-17 08:33:11+00:00,['1559820623106478085'],"@ColinPayn I adored that as a kid , I still have the annual",adored kid still annual,True,kid 
 1.5597684078007951e+18,2022-08-17 05:05:42+00:00,['1559768407800795137'],@amypond4ever He is hard to warm too,hard warm,True,warm 
 1.559655098359468e+18,2022-08-16 21:35:27+00:00,['1559655098359468035'],@DarkMarkRises @SkinTrader2 I hope he got out again,hope got,True,hope 
@@ -206,8 +202,7 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.559603288429011e+18,2022-08-16 18:09:34+00:00,['1559603288429010954'],@coxmatthew5 Won’t be out for a while I’m guessing,wont guessing,True,wont 
 1.559601442356433e+18,2022-08-16 18:02:14+00:00,['1559601442356432896'],@HorrorOrman I was way off 😂,way,True,way 
 1.5595954082544435e+18,2022-08-16 17:38:15+00:00,['1559595408254443525'],@HorrorOrman Anthropologothus or however you spell it !?!,anthropologothus however spell,True,
-1.5595803137639424e+18,2022-08-16 16:38:17+00:00,['1559580313763942400'],"Daleks' Invasion Earth Movie Commentary ft Richard Bignell https://t.co/Zy3wCezYwT via @YouTube 
-this is marvelous",daleks' invasion earth movie commentary richard bignell via marvelous,True,daleks invasion earth movie richard bignell 
+1.5595803137639424e+18,2022-08-16 16:38:17+00:00,['1559580313763942400'],Daleks' Invasion Earth Movie Commentary ft Richard Bignell https://t.co/Zy3wCezYwT via @YouTube this is marvelous,daleks' invasion earth movie commentary richard bignell via marvelous,True,daleks invasion earth movie richard bignell 
 1.5595704332588032e+18,2022-08-16 15:59:01+00:00,['1559570433258803201'],@SpaceyBox Or just have the massive boxes which are gorgeous https://t.co/fAHfKWIp6l,massive box gorgeous,True,box 
 1.5595681599963546e+18,2022-08-16 15:49:59+00:00,['1559568159996354561'],@SpaceyBox What if they don’t ?,dont,True,dont 
 1.559557952033407e+18,2022-08-16 15:09:25+00:00,['1559557952033406977'],@SpaceyBox I will probably buy that too 🙄,probably buy,True,
@@ -308,7 +303,7 @@ this is marvelous",daleks' invasion earth movie commentary richard bignell via m
 1.5551259967472026e+18,2022-08-04 09:38:25+00:00,['1555125996747202561'],gosh i*m tired today https://t.co/gYn2YBy6e7,gosh tired today,True,gosh today 
 1.5551082751920087e+18,2022-08-04 08:27:59+00:00,['1555108275192008704'],@SkinTrader2 @DarkMarkRises I am feeling left out https://t.co/BiYJtSvqOF,feeling left,True,feeling 
 1.5551077802935296e+18,2022-08-04 08:26:01+00:00,['1555107780293529600'],@SkinTrader2 The reshoots meant that it could apparently never turn a profit after the Promotion,reshoots meant could apparently never turn profit promotion,True,meant profit promotion 
-1.5551073682617797e+18,2022-08-04 08:24:23+00:00,['1555107368261779456'],"@SkinTrader2 Maybe the latter , apparently the effects and PR would push it into Solo levels of  unrecoupability",maybe latter apparently effect would push solo level unrecoupability,True,effect level unrecoupability 
+1.5551073682617797e+18,2022-08-04 08:24:23+00:00,['1555107368261779456'],"@SkinTrader2 Maybe the latter , apparently the effects and PR would push it into Solo levels of unrecoupability",maybe latter apparently effect would push solo level unrecoupability,True,effect level unrecoupability 
 1.5551061398676808e+18,2022-08-04 08:19:30+00:00,['1555106139867680768'],@SkinTrader2 It’s more financially viable to not release a film than it is to release one 🤷‍♂️,financially viable release film release one,True,release film release 
 1.5550959982586184e+18,2022-08-04 07:39:12+00:00,['1555095998258618369'],@SkinTrader2 looks like Keaton’s Batman reappearance is doomed,look like keaton batman reappearance doomed,True,look batman reappearance 
 1.5549435076133396e+18,2022-08-03 21:33:16+00:00,['1554943507613339649'],The Winners https://t.co/LLwAwTDxEM,winner,True,winner 
@@ -361,7 +356,7 @@ this is marvelous",daleks' invasion earth movie commentary richard bignell via m
 1.551529647296467e+18,2022-07-25 11:27:48+00:00,['1551529647296466946'],@Greebohobbes Erm….. 😂,erm,True,erm 
 1.5515295549210993e+18,2022-07-25 11:27:26+00:00,['1551529554921099265'],@colin_neal Spare yourself 😱,spare,True,spare 
 1.551484818206212e+18,2022-07-25 08:29:40+00:00,['1551484818206212098'],@SkinTrader2 Slipback casserole would just be Saward nicking Robert Holmes Recipe and Douglas Adams ingredients,slipback casserole would saward nicking robert holmes recipe douglas adam ingredient,True,slipback casserole ingredient 
-1.5514830601761587e+18,2022-07-25 08:22:41+00:00,['1551483060176158721'],"@SkinTrader2 I have the cassette (auto correct tried to change it to casserole) CD’s , novel and now on Blu-ray…  I need help",cassette auto correct tried change casserole novel bluray need help,True,cassette auto change casserole novel bluray need help 
+1.5514830601761587e+18,2022-07-25 08:22:41+00:00,['1551483060176158721'],"@SkinTrader2 I have the cassette (auto correct tried to change it to casserole) CD’s , novel and now on Blu-ray… I need help",cassette auto correct tried change casserole novel bluray need help,True,cassette auto change casserole novel bluray need help 
 1.551479835209261e+18,2022-07-25 08:09:52+00:00,['1551479835209261057'],@morganjeffery Moonraker,moonraker,True,moonraker 
 1.5514792855794524e+18,2022-07-25 08:07:41+00:00,['1551479285579452418'],Trying to find Slipback first broadcast today in 1985 😱 was a challenge 😂🎂 https://t.co/U9K6Ji9ozi,trying find slipback first broadcast today challenge,True,slipback today challenge 
 1.5512943358991073e+18,2022-07-24 19:52:45+00:00,['1551294335899107329'],@SpaceyBox I still think the hayride scene is the funniest thing I had ever seen,still think hayride scene funniest thing ever seen,True,scene thing 
@@ -404,8 +399,7 @@ this is marvelous",daleks' invasion earth movie commentary richard bignell via m
 1.5475985981744292e+18,2022-07-14 15:07:13+00:00,['1547598598174429190'],@DarkMarkRises You were warned !!!,warned,True,
 1.54759586863881e+18,2022-07-14 14:56:22+00:00,['1547595868638810113'],The Munsters trailer.. oh dear god https://t.co/YGrnJQnPNR,munsters trailer dear god,True,god 
 1.5475936308308255e+18,2022-07-14 14:47:29+00:00,['1547593630830825474'],@MarkCockram A sentence rarely uttered !,sentence rarely uttered,True,sentence 
-1.5475930011316552e+18,2022-07-14 14:44:59+00:00,['1547593001131655169'],"Rest of the UK - heatwave 
-Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rain 
+1.5475930011316552e+18,2022-07-14 14:44:59+00:00,['1547593001131655169'],Rest of the UK - heatwave Carlisle- rain 😂,rest heatwave carlisle rain,True,rest heatwave carlisle rain 
 1.547574433207894e+18,2022-07-14 13:31:12+00:00,['1547574433207894019'],@LibraryPlayer That must be it !!!,must,True,
 1.5475712398870528e+18,2022-07-14 13:18:30+00:00,['1547571239887052800'],"Just read Fires of Pompeii in a couple of hours ,really enjoyed it",read fire pompeii couple hour really enjoyed,True,fire hour 
 1.5475662682695434e+18,2022-07-14 12:58:45+00:00,['1547566268269543424'],Twitter seems to be working again https://t.co/7FlzdS0gee,twitter seems working,True,twitter 
@@ -490,7 +484,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.544270692614652e+18,2022-07-05 10:43:18+00:00,['1544270692614651904'],"Just finished rereading Dracula , the last third is still boring no wonder adaptations always change it 🤷‍♂️ https://t.co/LEP0eKkPe1",finished rereading dracula last third still boring wonder adaptation always change,True,dracula adaptation change 
 1.5442658263999324e+18,2022-07-05 10:23:58+00:00,['1544265826399932416'],"@SpaceyBox @YouTube yes, the making of even more bizarre than the actual film",yes making even bizarre actual film,True,film 
 1.5442515934318428e+18,2022-07-05 09:27:25+00:00,['1544251593431842816'],@SkinTrader2 @PETERDOHERTY8 @YouTube thats quite odd too,thats quite odd,True,
-1.5442489286731735e+18,2022-07-05 09:16:50+00:00,['1544248928673173505'],@PETERDOHERTY8 @YouTube @SkinTrader2  odd sort of sequel to the Nosferatu remake,odd sort sequel nosferatu remake,True,sort sequel nosferatu remake 
+1.5442489286731735e+18,2022-07-05 09:16:50+00:00,['1544248928673173505'],@PETERDOHERTY8 @YouTube @SkinTrader2 odd sort of sequel to the Nosferatu remake,odd sort sequel nosferatu remake,True,sort sequel nosferatu remake 
 1.54424775915443e+18,2022-07-05 09:12:11+00:00,['1544247759154429953'],Nosferatu in Venice 📽️ CULT HORROR MOVIE https://t.co/Et9rf5tH2n via @YouTube,nosferatu venice cult horror movie via,True,venice cult horror movie 
 1.5442447717193728e+18,2022-07-05 09:00:18+00:00,['1544244771719372801'],@SkinTrader2 @ILoveHorror7 The only consistently entertaining franchise is Friday 13th,consistently entertaining franchise friday,True,franchise friday 
 1.5442439250195128e+18,2022-07-05 08:56:57+00:00,['1544243925019512833'],@SkinTrader2 @ILoveHorror7 I’m missing allot of sequels !,missing allot sequel,True,allot sequel 
@@ -607,10 +601,10 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.5388734267897733e+18,2022-06-20 13:16:30+00:00,['1538873426789773318'],"@Greebohobbes Yes, excellent work",yes excellent work,True,work 
 1.538640250913833e+18,2022-06-19 21:49:57+00:00,['1538640250913832961'],@DarkMarkRises It was rather,rather,True,
 1.5386401891778724e+18,2022-06-19 21:49:42+00:00,['1538640189177872386'],@fitgeek_uk The virus cliffhanger really scared me as a kid,virus cliffhanger really scared kid,True,virus cliffhanger kid 
-1.5386393391519334e+18,2022-06-19 21:46:19+00:00,['1538639339151933440'],"Have finished Redacted , rather enjoyed the weekly instalments  #redacted https://t.co/0WYSqWOnQH",finished redacted rather enjoyed weekly instalment,True,instalment 
+1.5386393391519334e+18,2022-06-19 21:46:19+00:00,['1538639339151933440'],"Have finished Redacted , rather enjoyed the weekly instalments #redacted https://t.co/0WYSqWOnQH",finished redacted rather enjoyed weekly instalment,True,instalment 
 1.538606013359829e+18,2022-06-19 19:33:54+00:00,['1538606013359828992'],@DarkMarkRises You could get a Netflix series out of that,could get netflix series,True,series 
 1.5386057298332754e+18,2022-06-19 19:32:46+00:00,['1538605729833275392'],@KrynoidPodCast eek!,eek,True,eek 
-1.5386051993209285e+18,2022-06-19 19:30:40+00:00,['1538605199320928257'],"@DarkMarkRises Ah ,  ever thought of that , takes an expert eye …",ever thought take expert eye,True,eye 
+1.5386051993209285e+18,2022-06-19 19:30:40+00:00,['1538605199320928257'],"@DarkMarkRises Ah , ever thought of that , takes an expert eye …",ever thought take expert eye,True,eye 
 1.5386040877589545e+18,2022-06-19 19:26:15+00:00,['1538604087758954503'],Fire instead of murder for a change https://t.co/Fs5W0quoKy,fire instead murder change,True,fire murder change 
 1.5385142229211873e+18,2022-06-19 13:29:09+00:00,['1538514222921187328'],Happy Fathers Day https://t.co/ATYq2qQ019,happy father day,True,father day 
 1.5382619746933391e+18,2022-06-18 20:46:48+00:00,['1538261974693339137'],"@GerardGroves Yes, you realise he is on trial and take it from there",yes realise trial take,True,trial take 
@@ -669,7 +663,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.5353630286229217e+18,2022-06-10 20:47:26+00:00,['1535363028622921741'],@amypond4ever Scary to think I remember them@the first time around,scary think remember first time around,True,time 
 1.535358231073198e+18,2022-06-10 20:28:22+00:00,['1535358231073198086'],@amypond4ever I only just read the # how very sad 😞,read sad,True,sad 
 1.5353563934898422e+18,2022-06-10 20:21:04+00:00,['1535356393489842178'],"@amypond4ever Adore that record , so nostalgic now !",adore record nostalgic,True,adore record nostalgic 
-1.5353485161045852e+18,2022-06-10 19:49:46+00:00,['1535348516104585218'],Hate my job  👍 https://t.co/lqBobzMy2d,hate job,True,hate job 
+1.5353485161045852e+18,2022-06-10 19:49:46+00:00,['1535348516104585218'],Hate my job 👍 https://t.co/lqBobzMy2d,hate job,True,hate job 
 1.5349093911866696e+18,2022-06-09 14:44:50+00:00,['1534909391186669568'],@SkinTrader2 What are the extras like?,extra like,True,
 1.534909179378516e+18,2022-06-09 14:44:00+00:00,['1534909179378515972'],@MetalMal I assumed it was on backwards,assumed backwards,True,
 1.5348989219438428e+18,2022-06-09 14:03:14+00:00,['1534898921943842816'],@amypond4ever Nice,nice,True,
@@ -888,7 +882,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.5264794745518244e+18,2022-05-17 08:27:22+00:00,['1526479474551824384'],"@TYDPodcast @bigfinish Still love this , the nostalgia is overwhelming, I have a complete set of Big Finish main range… and no money",still love nostalgia overwhelming complete set big finish main range money,True,set finish range money 
 1.5264792267187896e+18,2022-05-17 08:26:22+00:00,['1526479226718789633'],@TYDPodcast Still one of my favourite audios,still one favourite audio,True,favourite audio 
 1.5264791506550948e+18,2022-05-17 08:26:04+00:00,['1526479150655094784'],"@TYDPodcast As a massive Colin fan so cruelly deprived of my favourite Dr Who I was so thrilled when this came out , thanks for the podcast",massive colin fan cruelly deprived favourite thrilled came thanks podcast,True,colin fan podcast 
-1.5264784913608212e+18,2022-05-17 08:23:27+00:00,['1526478491360821248'],"This really terrified me as a kid and had a massive effect on my life, I was rather mystified and disgruntled later  to discover everyone else considers it a jolly romp https://t.co/jB0S24QtiN",really terrified kid massive effect life rather mystified disgruntled later discover everyone else considers jolly romp,True,kid effect life everyone 
+1.5264784913608212e+18,2022-05-17 08:23:27+00:00,['1526478491360821248'],"This really terrified me as a kid and had a massive effect on my life, I was rather mystified and disgruntled later to discover everyone else considers it a jolly romp https://t.co/jB0S24QtiN",really terrified kid massive effect life rather mystified disgruntled later discover everyone else considers jolly romp,True,kid effect life everyone 
 1.5264542495881544e+18,2022-05-17 06:47:07+00:00,['1526454249588154368'],@spacemandylan @theDWshow And how terrifyingly poor Chibs and co were at publicity,terrifyingly poor chibs publicity,True,publicity 
 1.5264415600444457e+18,2022-05-17 05:56:42+00:00,['1526441560044445696'],@chelsiewrath Jaws,jaw,True,jaw 
 1.5264340560234496e+18,2022-05-17 05:26:53+00:00,['1526434056023449600'],"@ScarredForLife2 I remember watching that at the time, gosh it was boring but nothing else on in those days",remember watching time gosh boring nothing else day,True,time gosh nothing day 
@@ -922,7 +916,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.5251356084815176e+18,2022-05-13 15:27:19+00:00,['1525135608481517573'],@DarkMarkRises They built one over the motorway near our local mental hospital…,built one motorway near local mental hospital,True,motorway hospital 
 1.525133161553965e+18,2022-05-13 15:17:35+00:00,['1525133161553965061'],@DarkMarkRises A high bridge in Derby ?,high bridge derby,True,bridge derby 
 1.5251164365443643e+18,2022-05-13 14:11:08+00:00,['1525116436544364544'],@BatQuinn5801 Lord President of Gallifrey! Cool,lord president gallifrey cool,True,lord president gallifrey cool 
-1.5249917145361326e+18,2022-05-13 05:55:32+00:00,['1524991714536132610'],Dr Who and the Chase gets a mention and a clip !  https://t.co/FSOEme4fla,chase get mention clip,True,chase mention clip 
+1.5249917145361326e+18,2022-05-13 05:55:32+00:00,['1524991714536132610'],Dr Who and the Chase gets a mention and a clip ! https://t.co/FSOEme4fla,chase get mention clip,True,chase mention clip 
 1.524979321068208e+18,2022-05-13 05:06:17+00:00,['1524979321068208128'],@Greebohobbes Yes,yes,True,
 1.5249668517004657e+18,2022-05-13 04:16:44+00:00,['1524966851700465664'],Happy Jason Day to all of you at home https://t.co/Yd6hQCyM6n,happy jason day home,True,jason day home 
 1.524871228925829e+18,2022-05-12 21:56:46+00:00,['1524871228925829126'],@claytonhickman excellent,excellent,True,excellent 
@@ -951,7 +945,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.524395421254226e+18,2022-05-11 14:26:04+00:00,['1524395421254225921'],@SkinTrader2 i like how by the last episode they do not even mention curses after discrediting so many,like last episode even mention curse discrediting many,True,episode mention 
 1.524372849343058e+18,2022-05-11 12:56:23+00:00,['1524372849343057921'],"@SkinTrader2 if you have Shudder ""Behind the Monsters"" is worth a watch",shudder behind monster worth watch,True,shudder watch 
 1.5243688471213015e+18,2022-05-11 12:40:29+00:00,['1524368847121301512'],@SkinTrader2 Robowoof,robowoof,True,robowoof 
-1.5243634989685678e+18,2022-05-11 12:19:14+00:00,['1524363498968567808'],"@SkinTrader2 Not alien , oh no  not that",alien,True,alien 
+1.5243634989685678e+18,2022-05-11 12:19:14+00:00,['1524363498968567808'],"@SkinTrader2 Not alien , oh no not that",alien,True,alien 
 1.5243152148120005e+18,2022-05-11 09:07:22+00:00,['1524315214812000256'],@cockneycomic eventually you will hear it !,eventually hear,True,
 1.5243098155683471e+18,2022-05-11 08:45:54+00:00,['1524309815568347143'],@iknowthezarbi @Greebohobbes Sensibly stored to! That would have made life much easier!,sensibly stored would made life much easier,True,life 
 1.5243068767033836e+18,2022-05-11 08:34:14+00:00,['1524306876703383552'],@PETERDOHERTY8 Morning https://t.co/YoMw97eDz2,morning,True,morning 
@@ -986,7 +980,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.5230221238200115e+18,2022-05-07 19:29:05+00:00,['1523022123820011521'],@ABZQuine Omg really?!?! I would have said five years if you had asked !,omg really would said five year asked,True,omg year 
 1.5230216252889293e+18,2022-05-07 19:27:06+00:00,['1523021625288929280'],@ABZQuine Makes you wonder how often it’s happening?,make wonder often happening,True,wonder 
 1.5230215056383386e+18,2022-05-07 19:26:37+00:00,['1523021505638338560'],@Greebohobbes Looks pretty,look pretty,True,look 
-1.5230212523984443e+18,2022-05-07 19:25:37+00:00,['1523021252398444545'],"Worrying today that a carer clearly unwell said her lateral flow was fine   I made her do another and she was covid positive, admitted she can’t afford to be off, felt a shit having to send her home ☹️",worrying today carer clearly unwell said lateral flow fine made another covid positive admitted cant afford felt shit send home,True,today flow fine covid afford send home 
+1.5230212523984443e+18,2022-05-07 19:25:37+00:00,['1523021252398444545'],"Worrying today that a carer clearly unwell said her lateral flow was fine I made her do another and she was covid positive, admitted she can’t afford to be off, felt a shit having to send her home ☹️",worrying today carer clearly unwell said lateral flow fine made another covid positive admitted cant afford felt shit send home,True,today flow fine covid afford send home 
 1.5226716165887508e+18,2022-05-06 20:16:17+00:00,['1522671616588750848'],@DarkMarkRises @SkinTrader2 do you think vampires are scary ?,think vampire scary,True,think vampire scary 
 1.5226707698006303e+18,2022-05-06 20:12:56+00:00,['1522670769800630273'],"@SkinTrader2 It is , I’m curious about it , getting a cinema release but I doubt it will get up here",curious getting cinema release doubt get,True,cinema release doubt 
 1.522670420800979e+18,2022-05-06 20:11:32+00:00,['1522670420800978944'],@SkinTrader2 Have you seen Dashcam ?,seen dashcam,True,dashcam 
@@ -1042,8 +1036,7 @@ Carlisle- rain 😂",rest heatwave carlisle rain,True,rest heatwave carlisle rai
 1.5201286268046377e+18,2022-04-29 19:51:21+00:00,['1520128626804637699'],Today’s TOB 😊 https://t.co/e3BC5PNLVE,today tob,True,today tob 
 1.519911950376919e+18,2022-04-29 05:30:22+00:00,['1519911950376919041'],Duty calls https://t.co/2Xjfi41gfa,duty call,True,duty call 
 1.51979268226415e+18,2022-04-28 21:36:26+00:00,['1519792682264150019'],@SkinTrader2 Good documentary about it on Shudder at the moment in the Cursed Films Season 2,good documentary shudder moment cursed film season,True,documentary shudder moment film season 
-1.5197860353365934e+18,2022-04-28 21:10:01+00:00,['1519786035336593409'],"friend : “Whose that dead bloke who wrote the stories?”
-Turns out he meant Shakespeare",friend whose dead bloke wrote story turn meant shakespeare,True,friend bloke story turn shakespeare 
+1.5197860353365934e+18,2022-04-28 21:10:01+00:00,['1519786035336593409'],friend : “Whose that dead bloke who wrote the stories?” Turns out he meant Shakespeare,friend whose dead bloke wrote story turn meant shakespeare,True,friend bloke story turn shakespeare 
 1.5197195880150548e+18,2022-04-28 16:45:59+00:00,['1519719588015054848'],@DarkMarkRises my the shade of Charles Fort forgive you,shade charles fort forgive,True,shade 
 1.5197184482968248e+18,2022-04-28 16:41:27+00:00,['1519718448296824832'],@DarkMarkRises You will have to go to the shops then grandad !,shop grandad,True,shop grandad 
 1.5197182680298783e+18,2022-04-28 16:40:44+00:00,['1519718268029878274'],@Greebohobbes Oh yo have such influence!,influence,True,influence 
@@ -1140,10 +1133,7 @@ Turns out he meant Shakespeare",friend whose dead bloke wrote story turn meant s
 1.5160761764139663e+18,2022-04-18 15:28:22+00:00,['1516076176413966341'],@DarkMarkRises @SkinTrader2 I’m so bored I could scream,bored could scream,True,
 1.5160747775130092e+18,2022-04-18 15:22:48+00:00,['1516074777513009165'],"@DarkMarkRises @SkinTrader2 It can be the only explanation, or the taxi running late again because of the football",explanation taxi running late football,True,explanation taxi football 
 1.516068061354287e+18,2022-04-18 14:56:07+00:00,['1516068061354287107'],@SkinTrader2 Stuck in a cottage in Scotland 😳,stuck cottage scotland,True,cottage scotland 
-1.5159914840294564e+18,2022-04-18 09:51:50+00:00,['1515991484029456388'],"@Bigfinishrevie1 Time War ,
-Faction Paradox , 
-Time Crack 
-Lots of ways for things to be canon and not !",time war faction paradox time crack lot way thing canon,True,time war faction paradox time crack lot way thing canon 
+1.5159914840294564e+18,2022-04-18 09:51:50+00:00,['1515991484029456388'],"@Bigfinishrevie1 Time War , Faction Paradox , Time Crack Lots of ways for things to be canon and not !",time war faction paradox time crack lot way thing canon,True,time war faction paradox time crack lot way thing canon 
 1.5159873438487552e+18,2022-04-18 09:35:23+00:00,['1515987343848755204'],@DarkMarkRises My mothers plumber is 6’8 seems excessively tall for that job,mother plumber seems excessively tall job,True,mother plumber job 
 1.515985795143897e+18,2022-04-18 09:29:13+00:00,['1515985795143897097'],@DarkMarkRises Get some potatoes and make soup?,get potato make soup,True,make soup 
 1.515983681613144e+18,2022-04-18 09:20:49+00:00,['1515983681613144067'],@cavanscott Cronelogical order,cronelogical order,True,order 
@@ -1160,8 +1150,7 @@ Lots of ways for things to be canon and not !",time war faction paradox time cra
 1.5159668988355338e+18,2022-04-18 08:14:08+00:00,['1515966898835533824'],@DarkMarkRises Not having any sort of rush https://t.co/C8kfRToeVJ,sort rush,True,sort rush 
 1.5159657873701435e+18,2022-04-18 08:09:43+00:00,['1515965787370143744'],@KrynoidPodCast Chocolate orange flavour too!,chocolate orange flavour,True,chocolate orange flavour 
 1.515965621107839e+18,2022-04-18 08:09:04+00:00,['1515965621107838978'],@AAARJ12 Wow excellent,wow excellent,True,wow excellent 
-1.5159654129362412e+18,2022-04-18 08:08:14+00:00,['1515965412936241154'],"@FinishBigTube @bigfinish Fave- Stones of Venice 
-Least - Nekromantia",fave stone venice least nekromantia,True,stone venice nekromantia 
+1.5159654129362412e+18,2022-04-18 08:08:14+00:00,['1515965412936241154'],@FinishBigTube @bigfinish Fave- Stones of Venice Least - Nekromantia,fave stone venice least nekromantia,True,stone venice nekromantia 
 1.5159650302982676e+18,2022-04-18 08:06:43+00:00,['1515965030298267651'],Coffee and Easter egg for breakfast https://t.co/Z9HFeUJ1kO,coffee easter egg breakfast,True,coffee easter egg breakfast 
 1.5158039377979845e+18,2022-04-17 21:26:35+00:00,['1515803937797984265'],Rather enjoying this,rather enjoying,True,
 1.5157914651877868e+18,2022-04-17 20:37:02+00:00,['1515791465187786755'],got home from work and managed to see #DoctorWho unspoiled,got home work managed see unspoiled,True,home work 
@@ -1199,7 +1188,7 @@ Least - Nekromantia",fave stone venice least nekromantia,True,stone venice nekro
 1.5141810005275566e+18,2022-04-13 09:57:37+00:00,['1514181000527556609'],@SkinTrader2 Yes I have heard that 😂,yes heard,True,heard 
 1.514175555318522e+18,2022-04-13 09:35:59+00:00,['1514175555318521859'],"@SkinTrader2 Not the gate, definitely not the gate",gate definitely gate,True,gate gate 
 1.5141754725859123e+18,2022-04-13 09:35:39+00:00,['1514175472585912321'],Evil has a new face https://t.co/oQhxQ9TH2s,evil new face,True,face 
-1.5141739880329912e+18,2022-04-13 09:29:45+00:00,['1514173988032991237'],"@Jacob_Rees_Mogg Hiding behind dead Ukrainians  , contemptible",hiding behind dead ukrainian contemptible,True,contemptible 
+1.5141739880329912e+18,2022-04-13 09:29:45+00:00,['1514173988032991237'],"@Jacob_Rees_Mogg Hiding behind dead Ukrainians , contemptible",hiding behind dead ukrainian contemptible,True,contemptible 
 1.514095278231597e+18,2022-04-13 04:16:59+00:00,['1514095278231597059'],@MakingBlakes7 You need another lockdown,need another lockdown,True,need lockdown 
 1.5140014105637435e+18,2022-04-12 22:03:59+00:00,['1514001410563743750'],Watching season 24 extras with friend sort of day https://t.co/a87tX4EN8s,watching season extra friend sort day,True,season friend sort day 
 1.5138603744241746e+18,2022-04-12 12:43:34+00:00,['1513860374424174593'],@HeyJay2000 It certainly remains relevant,certainly remains relevant,True,
@@ -1277,7 +1266,7 @@ Least - Nekromantia",fave stone venice least nekromantia,True,stone venice nekro
 1.5110788643693732e+18,2022-04-04 20:30:50+00:00,['1511078864369373198'],2nd in the quiz,quiz,True,quiz 
 1.5108993524028047e+18,2022-04-04 08:37:31+00:00,['1510899352402804736'],"@Si_Hart Planet is the most comforting , get well soon",planet comforting get well soon,True,planet 
 1.5108987503902474e+18,2022-04-04 08:35:07+00:00,['1510898750390247425'],@SkinTrader2 😂 apparently I have underpaid and plod will be informed if I don’t give them a payment quick sticks,apparently underpaid plod informed dont give payment quick stick,True,plod payment quick stick 
-1.5108978962662482e+18,2022-04-04 08:31:44+00:00,['1510897896266248193'],Oh no ! I just had an email warning me that there  is a problem with my car tax… good job I don’t own a car ! 🙄 https://t.co/flJlp6zDFE,email warning problem car tax good job dont car,True,email warning problem car tax job dont car 
+1.5108978962662482e+18,2022-04-04 08:31:44+00:00,['1510897896266248193'],Oh no ! I just had an email warning me that there is a problem with my car tax… good job I don’t own a car ! 🙄 https://t.co/flJlp6zDFE,email warning problem car tax good job dont car,True,email warning problem car tax job dont car 
 1.5108868691643392e+18,2022-04-04 07:47:55+00:00,['1510886869164339202'],@SkinTrader2 Oddly beautiful score considering the films content,oddly beautiful score considering film content,True,score film content 
 1.5107274682227548e+18,2022-04-03 21:14:31+00:00,['1510727468222754823'],"@sogallifrey enjoyed the Flux/Eve podcast, thanks",enjoyed fluxeve podcast thanks,True,podcast 
 1.5103588886752666e+18,2022-04-02 20:49:54+00:00,['1510358888675266572'],@DarkMarkRises Space 1999 the moon goes the other way!,space moon way,True,space moon way 
@@ -1432,8 +1421,7 @@ Least - Nekromantia",fave stone venice least nekromantia,True,stone venice nekro
 1.5071429819707638e+18,2022-03-24 23:51:02+00:00,['1507142981970763778'],@SkinTrader2 No idea it even existed,idea even existed,True,idea 
 1.507142761702699e+18,2022-03-24 23:50:10+00:00,['1507142761702699010'],"@DarkMarkRises I found a spring , no idea what it’s from 🤷‍♂️",found spring idea,True,spring idea 
 1.5070939860618322e+18,2022-03-24 20:36:21+00:00,['1507093986061832194'],@SkinTrader2 i think my father had a book version of that,think father book version,True,book version 
-1.5070832243416924e+18,2022-03-24 19:53:35+00:00,['1507083224341692422'],"@DarkMarkRises Generic 
-Title",generic title,True,title 
+1.5070832243416924e+18,2022-03-24 19:53:35+00:00,['1507083224341692422'],@DarkMarkRises Generic Title,generic title,True,title 
 1.5070553540683244e+18,2022-03-24 18:02:50+00:00,['1507055354068324358'],@TygerWhoCame2T I am unexpectedly available!,unexpectedly available,True,
 1.507055236183167e+18,2022-03-24 18:02:22+00:00,['1507055236183166979'],@Greebohobbes @CommanderHales1 Bit harsh on Louise Jameson…,bit harsh louise jameson,True,bit louise jameson 
 1.507052671848665e+18,2022-03-24 17:52:11+00:00,['1507052671848665097'],@Greebohobbes @CommanderHales1 Actually your right he did ! https://t.co/nYtvmo7ybR,actually right,True,
