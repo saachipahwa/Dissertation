@@ -34,8 +34,8 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
     print("model has been fit")
 
     open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
-    topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
-    print("model has been saved", nr_topics)
+    # topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
+    # print("model has been saved", nr_topics)
 
     freq = topic_model.get_topic_info()
     print(type(freq))
