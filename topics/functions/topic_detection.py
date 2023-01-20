@@ -4,6 +4,9 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+# directory_name = "nursetweets"
+# nr_topics=5
+# open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
@@ -13,6 +16,7 @@ def get_all_tweets(directory = None):
         user_df = pd.read_csv(f, index_col=0)
         df = pd.concat([df, user_df], ignore_index=True)
     return df
+
 
 def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=None):
     #set up model parameters
@@ -28,6 +32,8 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
     #fit transform
     topics, probabilities = topic_model.fit_transform(tweet_text, embeddings)
     print("model has been fit")
+
+    open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
     topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
     print("model has been saved", nr_topics)
 
