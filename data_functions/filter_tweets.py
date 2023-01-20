@@ -62,6 +62,11 @@ def lemmatizer(text):
     lemm_text = [wordnet_lemmatizer.lemmatize(word) for word in tokens]
     return(' '.join(lemm_text))
 
+def remove_and_bug(text):
+    wordslist = text.split()
+    output= [i for i in wordslist if i != "&amp;"]
+    return ' '.join(output)
+
 def delete_whitespace_tweets(df):
     df['whitespace'] = df['clean_text'].apply(lambda x:str(str(x).isspace()))
     df = df[df['whitespace'].str.contains('False') == True]
@@ -77,11 +82,13 @@ def get_nouns(text):
             new_text = new_text + a + " "
     return new_text
 
+
 def remove_wordle(df):
     df['wordle'] = df['text'].apply(lambda x:str(True if 'wordle' in x else False))
     df = df[df['wordle'].str.contains('False') == True]
     df = df.drop('wordle', axis=1)
     return df
+
 
 def text_preprocessing(directory = "nursetweets"):
     for filename in os.listdir(directory):
@@ -91,9 +98,16 @@ def text_preprocessing(directory = "nursetweets"):
         if os.path.isfile(f):
             print(f)
             df = pd.read_csv(f)
+
+            #remove tweets with 'wordle' in it
             df = remove_wordle(df)
+
             #make RT's empty
             df['text'] = df['text'].loc[~df['text'].str.startswith('RT ', na=False)] #remove RT's
+
+            #remove and bug where & turns into "&amp;"
+            df['text'] = df['text'].apply(lambda x:remove_and_bug(x))
+
             #remove empty tweets
             df['text'].replace('', np.nan, inplace=True)
             df.dropna(subset=['text'], inplace=True)
