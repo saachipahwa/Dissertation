@@ -21,10 +21,6 @@ from nltk.corpus import treebank
 #Text preprocessing
 #REFERENCE: https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/
 
-
-
-detector_factory.seed = 30
-
 # Removing URLs
 def remove_URL(text):
     """Remove URLs from a sample string"""
@@ -77,12 +73,17 @@ def get_nouns(text):
     tags = nltk.pos_tag(text)
     new_text = ""
     for a,b in tags:
-        print(b)
         if b=="NN":
             new_text = new_text + a + " "
     return new_text
 
-def text_preprocessing(directory = "railtweets"):
+def remove_wordle(df):
+    df['wordle'] = df['text'].apply(lambda x:str(True if 'wordle' in x else False))
+    df = df[df['wordle'].str.contains('False') == True]
+    df = df.drop('wordle', axis=1)
+    return df
+
+def text_preprocessing(directory = "nursetweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -90,7 +91,7 @@ def text_preprocessing(directory = "railtweets"):
         if os.path.isfile(f):
             print(f)
             df = pd.read_csv(f)
-
+            df = remove_wordle(df)
             #make RT's empty
             df['text'] = df['text'].loc[~df['text'].str.startswith('RT ', na=False)] #remove RT's
             #remove empty tweets
