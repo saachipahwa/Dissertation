@@ -33,24 +33,24 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
     topics, probabilities = topic_model.fit_transform(tweet_text, embeddings)
     print("model has been fit")
 
-    open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
-    # topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
-    # print("model has been saved", nr_topics)
+    # open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
+    topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
+    print("model has been saved", nr_topics)
 
-    freq = topic_model.get_topic_info()
-    print(type(freq))
-    print(freq)
+    # freq = topic_model.get_topic_info()
+    # print(type(freq))
+    # print(freq)
+    #
+    # details_list = []
+    # for i in freq['Topic']:
+    #     if i > -1:
+    #         details_list.append(topic_model.get_topic(i))
+    #     else:
+    #         details_list.append([])
+    # freq['details'] = details_list
 
-    details_list = []
-    for i in freq['Topic']:
-        if i > -1:
-            details_list.append(topic_model.get_topic(i))
-        else:
-            details_list.append([])
-    freq['details'] = details_list
-
-    freq.to_csv('topics/{}_topics_{}.csv'.format(directory_name, nr_topics))
-    print("info saved to csv")
+    # freq.to_csv('topics/{}_topics_{}.csv'.format(directory_name, nr_topics))
+    # print("info saved to csv")
 
     return topic_model
 
@@ -77,22 +77,22 @@ embeddings = sentence_model.encode(tweet_text, show_progress_bar=False)
 print("getting topics ", "5")
 model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
 print("getting topics ", "10")
-model_10 = get_topics_from( directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
-print("getting topics ", "15")
-model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
-print("getting topics for", "20")
-model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
+# model_10 = get_topics_from( directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
+# print("getting topics ", "15")
+# model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
+# print("getting topics for", "20")
+# model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
 
 #evaluation
 print("starting evaluation")
 metric = TopicDiversity(topk=10)
 print("doing evaluation for", "5")
-evaluation_df.at[5,'topic_diversity'] = metric.score(model_5)
-print("doing evaluation for", "10")
-evaluation_df.at[10,'topic_diversity'] = metric.score(model_10)
-print("doing evaluation for", "15")
-evaluation_df.at[15,'topic_diversity'] = metric.score(model_15)
-print("doing evaluation for", "20")
-evaluation_df.at[20,'topic_diversity'] = metric.score(model_20)
+print(metric.score(model_5))
+# print("doing evaluation for", "10")
+# evaluation_df.at[10,'topic_diversity'] = metric.score(model_10)
+# print("doing evaluation for", "15")
+# evaluation_df.at[15,'topic_diversity'] = metric.score(model_15)
+# print("doing evaluation for", "20")
+# evaluation_df.at[20,'topic_diversity'] = metric.score(model_20)
 
 evaluation_df.to_csv("topics/topic_evaluation.csv")
