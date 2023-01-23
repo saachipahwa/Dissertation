@@ -51,7 +51,5 @@ score_20 = metric.score({"topics":get_words_from_model(model_20)})
 print("model 20 score", score_20)
 evaluation_df.loc[len(evaluation_df)] = [20, score_20]
 
-#KL_model
-
 
 evaluation_df.to_csv("topics/topic_evaluation.csv")
