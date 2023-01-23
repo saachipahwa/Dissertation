@@ -5,9 +5,6 @@ from sentence_transformers import SentenceTransformer
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-# directory_name = "nursetweets"
-# nr_topics=5
-# open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
@@ -18,8 +15,7 @@ def get_all_tweets(directory = None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-
-def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=None):
+def get_topics_from(directory_name = "doctortweets", nr_topics=None, embeddings=None):
     #set up model parameters
     topic_model = BERTopic(language="english",
                            calculate_probabilities=False,
@@ -35,8 +31,8 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
     print("model has been fit")
 
     # open("topics/models/{}_{}_model".format(directory_name, nr_topics), 'w+')
-    topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
-    print("model has been saved", nr_topics)
+    # topic_model.save("topics/models/{}_{}_model".format(directory_name, nr_topics))
+    # print("model has been saved", nr_topics)
 
     freq = topic_model.get_topic_info()
     print(type(freq))
@@ -57,7 +53,7 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
 
 #get tweets
 directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
-df = get_all_tweets(directories[0])
+df = get_all_tweets(directories[1])
 print("tweet count", len(df))
 
 #get tweet text
@@ -68,12 +64,14 @@ print("got df")
 print("computing embeddings")
 sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
 embeddings = sentence_model.encode(tweet_text, show_progress_bar=False)
-# print("getting topics ", "5")
-# model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
+
+#get topics
+print("getting topics ", "5")
+model_5 = get_topics_from(directory_name="doctortweets", nr_topics=5, embeddings=embeddings)
 print("getting topics ", "10")
-model_10 = get_topics_from( directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
+model_10 = get_topics_from(directory_name="doctortweets", nr_topics=10, embeddings=embeddings)
 print("getting topics ", "15")
-model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
+model_15 = get_topics_from(directory_name="doctortweets", nr_topics=15, embeddings=embeddings)
 print("getting topics for", "20")
-model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
+model_20 = get_topics_from(directory_name="doctortweets", nr_topics=20, embeddings=embeddings)
 
