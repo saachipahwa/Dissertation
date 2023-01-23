@@ -90,7 +90,7 @@ def remove_wordle(df):
     return df
 
 
-def text_preprocessing(directory = "nursetweets"):
+def text_preprocessing(directory = "doctortweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file

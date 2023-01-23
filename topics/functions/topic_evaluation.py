@@ -54,5 +54,4 @@ evaluation_df.loc[len(evaluation_df)] = [20, score_20]
 #KL_model
 
 
-
 evaluation_df.to_csv("topics/topic_evaluation.csv")
