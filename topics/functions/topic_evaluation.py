@@ -16,7 +16,7 @@ def get_words_from_topic(topic):
     return words
 
 def get_words_from_model(model):
-    topics_list = model_5.get_topics().values()
+    topics_list = model.get_topics().values()
     list_of_word_lists = []
     for topic in topics_list:
         list_of_word_lists.append(get_words_from_topic(topic))
