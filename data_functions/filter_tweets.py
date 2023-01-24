@@ -88,7 +88,7 @@ def remove_wordle(df):
     df = df.drop('wordle', axis=1)
     return df
 
-def remove_empty_tweets(directory = "doctortweets"):
+def remove_empty_tweets(directory = "nursetweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -99,7 +99,7 @@ def remove_empty_tweets(directory = "doctortweets"):
             df.dropna(subset=['text'], inplace=True)
             df.to_csv(f, index=False)
 
-def text_preprocessing(directory = "doctortweets"):
+def text_preprocessing(directory = "nursetweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
