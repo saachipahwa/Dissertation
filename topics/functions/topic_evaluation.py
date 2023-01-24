@@ -56,10 +56,10 @@ model_20_dict = {"topics":get_words_from_model(model_20)}
 # print("model 20 score", TD_score_20)
 
 #turn models into matrices
-model_5_matrix = {"topic_word_matrix": model_5.topic_sizes_}
-model_10_matrix = {"topic_word_matrix": model_10.topic_sizes_}
-model_15_matrix = {"topic_word_matrix": model_15.topic_sizes_}
-model_20_matrix = {"topic_word_matrix": model_20.topic_sizes_}
+model_5_matrix = {"topic_word_matrix": list(model_5.topic_sizes_.values())}
+model_10_matrix = {"topic_word_matrix": list(model_10.topic_sizes_.values())}
+model_15_matrix = {"topic_word_matrix": list(model_15.topic_sizes_.values())}
+model_20_matrix = {"topic_word_matrix": list(model_20.topic_sizes_.values())}
 
 #KL metrics
 KLu_metric = KL_uniform()
