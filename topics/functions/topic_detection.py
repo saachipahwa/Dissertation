@@ -75,7 +75,7 @@ from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 # print("getting topics for", "20")
 # model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
 model_5 = BERTopic.load("nursetweets_5_model")
-with open('topics/nursetweets_5_docs.txt', 'w+') as f:
+with open('Dissertation/topics/nursetweets_5_docs.txt', 'w+') as f:
     f.write(model_5.get_representative_docs())
 # print(model_10.get_representative_docs())
 # print(model_15.get_representative_docs())
