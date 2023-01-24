@@ -82,13 +82,22 @@ def get_nouns(text):
             new_text = new_text + a + " "
     return new_text
 
-
 def remove_wordle(df):
-    df['wordle'] = df['text'].apply(lambda x:str(True if 'wordle' in x else False))
+    df['wordle'] = df['text'].apply(lambda x:str(True if 'Wordle' in x else False))
     df = df[df['wordle'].str.contains('False') == True]
     df = df.drop('wordle', axis=1)
     return df
 
+def remove_empty_tweets(directory = "doctortweets"):
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        # checking if it is a file
+        if os.path.isfile(f):
+            print(f)
+            df = pd.read_csv(f)
+            df['text'].replace('', np.nan, inplace=True)
+            df.dropna(subset=['text'], inplace=True)
+            df.to_csv(f, index=False)
 
 def text_preprocessing(directory = "doctortweets"):
     for filename in os.listdir(directory):
@@ -137,7 +146,6 @@ def text_preprocessing(directory = "doctortweets"):
             df['clean_text'] = df['clean_text'].apply(lambda x:remove_2char_words(str(x)))
 
             #remove now empty tweets
-
             df['clean_text'].replace('', np.nan, inplace=True)
             df.dropna(subset=['clean_text'], inplace=True)
 
@@ -155,31 +163,3 @@ def text_preprocessing(directory = "doctortweets"):
 #run remove_empty before this
 text_preprocessing()
 #run remove_empty after this
-
-
-#
-# def nouns_column(directory):
-#     for filename in os.listdir(directory):
-#         f = os.path.join(directory, filename)
-#         # checking if it is a file
-#
-#         if os.path.isfile(f):
-#             print(f)
-#             df = pd.read_csv(f)
-#             # df['nouns'] = df['clean_text']
-#             df['nouns'] = df['clean_text'].apply(lambda x:get_nouns(str(x)))
-#             df.to_csv(f, index=False)
-
-def remove_empty_tweets(directory = "doctortweets"):
-    for filename in os.listdir(directory):
-        f = os.path.join(directory, filename)
-        # checking if it is a file
-        if os.path.isfile(f):
-            print(f)
-            df = pd.read_csv(f)
-            df['text'].replace('', np.nan, inplace=True)
-            df.dropna(subset=['text'], inplace=True)
-            df.to_csv(f, index=False)
-
-
-
