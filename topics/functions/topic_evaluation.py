@@ -5,7 +5,7 @@ import pandas as pd
 #set up evaluation spreadsheet
 evaluation_df = pd.DataFrame(columns=['nr_topics', 'topic_diversity'])
 evaluation_df.set_index('nr_topics')
-evaluation_df.to_csv("topics/topic_evaluation.csv")
+evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
 print("set up evaluation csv")
 
 def get_words_from_topic(topic):
@@ -54,4 +54,4 @@ evaluation_df.loc[len(evaluation_df)] = [20, score_20]
 
 #KL
 
-evaluation_df.to_csv("topics/topic_evaluation.csv")
+evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
