@@ -29,10 +29,10 @@ def print_topic_words(model):
 #topic diversity evaluation
 metric = TopicDiversity(topk=10)
 
-model_5 = BERTopic.load("nursetweets_5_model")
-score_5 = metric.score({"topics":get_words_from_model(model_5)})
-print("model 5 score", score_5)
-evaluation_df.loc[len(evaluation_df)] = [5, score_5]
+# model_5 = BERTopic.load("nursetweets_5_model")
+# score_5 = metric.score({"topics":get_words_from_model(model_5)})
+# print("model 5 score", score_5)
+# evaluation_df.loc[len(evaluation_df)] = [5, score_5]
 
 model_10 = BERTopic.load("nursetweets_10_model")
 print("doing evaluation for", "10")
