@@ -9,10 +9,10 @@ def print_topic_words(model):
         print('topic {}:'.format(i), model.get_topic(i))
 
 #set up evaluation spreadsheet
-evaluation_df = pd.DataFrame(columns=['nr_topics', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
-evaluation_df.set_index('nr_topics')
-evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
-print("set up evaluation csv")
+# evaluation_df = pd.DataFrame(columns=['nr_topics', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
+# evaluation_df.set_index('nr_topics')
+# evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
+# print("set up evaluation csv")
 
 #load models
 model_5 = BERTopic.load("nursetweets_5_model")
@@ -21,24 +21,24 @@ model_15 = BERTopic.load("nursetweets_15_model")
 model_20 =  BERTopic.load("nursetweets_20_model")
 
 #turn models into dictionaries
-def get_words_from_topic(topic):
-    #get words without probabilities
-    words = []
-    for x,y in topic:
-        words.append(x)
-    return words
+# def get_words_from_topic(topic):
+#     #get words without probabilities
+#     words = []
+#     for x,y in topic:
+#         words.append(x)
+#     return words
+#
+# def get_words_from_model(model):
+#     topics_list = model.get_topics().values()
+#     list_of_word_lists = []
+#     for topic in topics_list:
+#         list_of_word_lists.append(get_words_from_topic(topic))
+#     return list_of_word_lists
 
-def get_words_from_model(model):
-    topics_list = model.get_topics().values()
-    list_of_word_lists = []
-    for topic in topics_list:
-        list_of_word_lists.append(get_words_from_topic(topic))
-    return list_of_word_lists
-
-model_5_dict = {"topics":get_words_from_model(model_5)}
-model_10_dict = {"topics":get_words_from_model(model_10)}
-model_15_dict= {"topics":get_words_from_model(model_15)}
-model_20_dict = {"topics":get_words_from_model(model_20)}
+# model_5_dict = {"topics":get_words_from_model(model_5)}
+# model_10_dict = {"topics":get_words_from_model(model_10)}
+# model_15_dict= {"topics":get_words_from_model(model_15)}
+# model_20_dict = {"topics":get_words_from_model(model_20)}
 
 # #topic diversity evaluation
 # TD_metric = TopicDiversity(topk=10)
@@ -57,9 +57,10 @@ model_20_dict = {"topics":get_words_from_model(model_20)}
 
 #turn models into matrices
 model_5_matrix = {"topic_word_matrix": list(model_5.topic_sizes_.values())}
-model_10_matrix = {"topic_word_matrix": list(model_10.topic_sizes_.values())}
-model_15_matrix = {"topic_word_matrix": list(model_15.topic_sizes_.values())}
-model_20_matrix = {"topic_word_matrix": list(model_20.topic_sizes_.values())}
+print("matrix", model_5_matrix)
+# model_10_matrix = {"topic_word_matrix": list(model_10.topic_sizes_.values())}
+# model_15_matrix = {"topic_word_matrix": list(model_15.topic_sizes_.values())}
+# model_20_matrix = {"topic_word_matrix": list(model_20.topic_sizes_.values())}
 
 #KL metrics
 KLu_metric = KL_uniform()
