@@ -40,31 +40,34 @@ model_10_dict = {"topics":get_words_from_model(model_10)}
 model_15_dict= {"topics":get_words_from_model(model_15)}
 model_20_dict = {"topics":get_words_from_model(model_20)}
 
-#topic diversity evaluation
-TD_metric = TopicDiversity(topk=10)
-
-TD_score_5 = TD_metric.score(model_5_dict)
-print("model 5 score", TD_score_5)
-
-TD_score_10 = TD_metric.score(model_10_dict)
-print("model 10 score", TD_score_10)
-
-TD_score_15 = TD_metric.score(model_15_dict)
-print("model 15 score", TD_score_15)
-
-TD_score_20 = TD_metric.score(model_20_dict)
-print("model 20 score", TD_score_20)
+# #topic diversity evaluation
+# TD_metric = TopicDiversity(topk=10)
+#
+# TD_score_5 = TD_metric.score(model_5_dict)
+# print("model 5 score", TD_score_5)
+#
+# TD_score_10 = TD_metric.score(model_10_dict)
+# print("model 10 score", TD_score_10)
+#
+# TD_score_15 = TD_metric.score(model_15_dict)
+# print("model 15 score", TD_score_15)
+#
+# TD_score_20 = TD_metric.score(model_20_dict)
+# print("model 20 score", TD_score_20)
 
 #turn models into matrices
-print(model_5.topic_sizes_)
+model_5_matrix = model_5.topic_sizes_
+model_10_matrix = model_10.topic_sizes_
+model_15_matrix = model_15.topic_sizes_
+model_20_matrix = model_20.topic_sizes_
 
 #KL metrics
 KLu_metric = KL_uniform()
 KLv_metric = KL_vacuous()
 KLb_metric = KL_background()
 
-# KL_scores_5 = [KLu_metric.score(model_5_dict), KLv_metric.score(model_5_dict), KLb_metric.score(model_5_dict)]
-# print("KL metrics for 5 topics", KL_scores_5)
+KL_scores_5 = [KLu_metric.score(model_5_matrix), KLv_metric.score(model_5_matrix), KLb_metric.score(model_5_matrix)]
+print("KL metrics for 5 topics", KL_scores_5)
 # KL_scores_10 = [KLu_metric.score(model_10_dict), KLv_metric.score(model_10_dict), KLb_metric.score(model_10_dict)]
 # print("KL metrics for 10 topics", KL_scores_10)
 # KL_scores_15 = [KLu_metric.score(model_15_dict), KLv_metric.score(model_15_dict), KLb_metric.score(model_15_dict)]
