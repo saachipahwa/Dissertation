@@ -8,8 +8,8 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
-    for filename in os.listdir(directory):
-        f = os.path.join(directory, filename)
+    for filename in os.listdir("Dissertation/"+directory):
+        f = os.path.join("Dissertation/"+directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
         df = pd.concat([df, user_df], ignore_index=True)
@@ -46,14 +46,14 @@ def get_topics_from(directory_name = "doctortweets", nr_topics=None, embeddings=
             details_list.append([])
     freq['details'] = details_list
 
-    freq.to_csv('topics/{}_topics_{}.csv'.format(directory_name, nr_topics))
+    freq.to_csv('Dissertation/topics/{}_topics_{}.csv'.format(directory_name, nr_topics))
     print("info saved to csv")
 
     return topic_model
 
 #get tweets
 directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
-df = get_all_tweets(directories[1])
+df = get_all_tweets(directories[0])
 print("tweet count", len(df))
 
 #get tweet text
@@ -75,3 +75,7 @@ model_15 = get_topics_from(directory_name="doctortweets", nr_topics=15, embeddin
 print("getting topics for", "20")
 model_20 = get_topics_from(directory_name="doctortweets", nr_topics=20, embeddings=embeddings)
 
+print(model_5.get_representative_docs())
+print(model_10.get_representative_docs())
+print(model_15.get_representative_docs())
+print(model_20.get_representative_docs())
