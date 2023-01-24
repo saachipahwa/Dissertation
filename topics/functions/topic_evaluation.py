@@ -56,7 +56,7 @@ model_20 =  BERTopic.load("nursetweets_20_model")
 # print("model 20 score", TD_score_20)
 
 #turn models into matrices
-model_5_matrix = {"topic_word_matrix": list(model_5.topic_sizes_.values())}
+model_5_matrix = {"topic-word-matrix": list(model_5.topic_sizes_.values())}
 print("matrix", model_5_matrix)
 # model_10_matrix = {"topic_word_matrix": list(model_10.topic_sizes_.values())}
 # model_15_matrix = {"topic_word_matrix": list(model_15.topic_sizes_.values())}
