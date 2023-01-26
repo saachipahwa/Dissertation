@@ -65,7 +65,9 @@ def lemmatizer(text):
 def remove_and_bug(text):
     wordslist = text.split()
     output= [i for i in wordslist if i != "&amp;"]
-    return ' '.join(output)
+    pattern = re.compile("x+")
+    output2 = [i for i in output if not pattern.match(i)]
+    return ' '.join(output2)
 
 def delete_whitespace_tweets(df):
     df['whitespace'] = df['clean_text'].apply(lambda x:str(str(x).isspace()))
@@ -78,16 +80,14 @@ def get_nouns(text):
     tags = nltk.pos_tag(text)
     new_text = ""
     for a,b in tags:
-        if a=="khan" and b=="NN":
-            print(text)
         if b=="NN":
             new_text = new_text + a + " "
     return new_text
 
-def remove_wordle_xxx(df):
-    df['wordle_xxx'] = df['text'].apply(lambda x:str(True if 'Wordle' in x or 'xxx' in x else False))
-    df = df[df['wordle_xxx'].str.contains('False') == True]
-    df = df.drop('wordle_xxx', axis=1)
+def remove_wordle(df):
+    df['wordle'] = df['text'].apply(lambda x:str(True if 'Wordle' in x else False))
+    df = df[df['wordle'].str.contains('False') == True]
+    df = df.drop('wordle', axis=1)
     return df
 
 def remove_empty_tweets(directory = "nursetweets"):
@@ -107,11 +107,12 @@ def text_preprocessing(directory = "nursetweets"):
         # checking if it is a file
 
         if os.path.isfile(f):
-            # print(f)
+            print(f)
             df = pd.read_csv(f)
 
             #remove tweets with 'wordle' in it
-            df = remove_wordle_xxx(df)
+            df = remove_wordle(df)
+
 
             #make RT's empty
             df['text'] = df['text'].loc[~df['text'].str.startswith('RT ', na=False)] #remove RT's

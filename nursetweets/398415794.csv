@@ -45,7 +45,7 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.4642840706287985e+18,2021-11-26 17:25:02+00:00,['1464284070628798468'],Hey James Nussbaumer thanks for the follow!,hey james nussbaumer thanks follow,True,hey 
 1.464041467652055e+18,2021-11-26 01:21:01+00:00,['1464041467652055043'],@thanksgoose Thank you,thank,True,thank 
 1.463136384043135e+18,2021-11-23 13:24:32+00:00,['1463136384043134987'],Hey First Class Eye Care thanks for the follow!,hey first class eye care thanks follow,True,hey class eye care 
-1.4614151055020646e+18,2021-11-18 19:24:47+00:00,['1461415105502064648'],Hey emotional support xenomorph AGAIN thanks for the follow!,hey emotional support xenomorph thanks follow,True,support 
+1.4614151055020646e+18,2021-11-18 19:24:47+00:00,['1461415105502064648'],Hey emotional support AGAIN thanks for the follow!,hey emotional support thanks follow,True,support 
 1.4604486555305124e+18,2021-11-16 03:24:27+00:00,['1460448655530512384'],Hey ZeaMed thanks for the follow!,hey zeamed thanks follow,True,hey 
 1.4583348087324836e+18,2021-11-10 07:24:47+00:00,['1458334808732483584'],Hey Guiniack thanks for the follow!,hey guiniack thanks follow,True,guiniack 
 1.4582008992732488e+18,2021-11-09 22:32:41+00:00,['1458200899273248780'],Hey the corgi from cowboy bebop thanks for the follow!,hey corgi cowboy bebop thanks follow,True,hey cowboy bebop 
@@ -200,7 +200,6 @@ id,created_at,edit_history_tweet_ids,text,clean_text,non_english,nouns
 1.4045814630566052e+18,2021-06-14 23:28:11+00:00,['1404581463056605191'],@hannahamtmann @shesinscrubs Especially in The Sunshine State,especially sunshine state,True,state 
 1.4041074723826074e+18,2021-06-13 16:04:43+00:00,['1404107472382607361'],This is 100% true. I have patients denied life saving treatment or diagnosis because the insurance company doesn’t think it’s necessary. Just wrong. https://t.co/Wx0GLPHfmc,true patient denied life saving treatment diagnosis insurance company doesnt think necessary wrong,True,patient life treatment diagnosis insurance company 
 1.4029955415087227e+18,2021-06-10 14:26:18+00:00,['1402995541508722689'],Hey Heart Disease Fix thanks for the follow!,hey heart disease fix thanks follow,True,heart disease 
-1.402331103244034e+18,2021-06-08 18:26:03+00:00,['1402331103244034049'],Hey xrp@4ever2 thanks for the follow!,hey xrp thanks follow,True,hey 
 1.4020265270054953e+18,2021-06-07 22:15:47+00:00,['1402026527005495302'],"@robmarki @jdillardwright Not the only thing, but it's where it should start.",thing start,True,thing start 
 1.4002432172961997e+18,2021-06-03 00:09:32+00:00,['1400243217296199688'],@Aoretta @DGlaucomflecken Ditto!,ditto,True,ditto 
 1.3987136603657544e+18,2021-05-29 18:51:38+00:00,['1398713660365754371'],@GMNahn @UMassWalker @mclemoremr Pretty much what it means if it comes from those in position of power.,pretty much mean come position power,True,mean position power 
