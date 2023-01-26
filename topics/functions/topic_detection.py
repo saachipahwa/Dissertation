@@ -85,30 +85,13 @@ def pad_out_dict(dict):
         if len(dict[k])>maxlength:
             maxlength=len(dict[k])
 
-    print("maxlength", maxlength)
-
     for k in dict.keys():
         if len(dict[k]) < maxlength:
             dict[k] = dict[k] + list([0] * (maxlength - len(dict[k])))
-        print("key", k)
-        print("length", len(dict[k]))
-        print("length of dictk", len(dict[k]))
 
     return dict
 
 pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_5_docs.csv')
-# pd.DataFrame(model_10.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_10_docs.csv')
-# pd.DataFrame(model_15.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_15_docs.csv')
-# pd.DataFrame(model_20.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_20_docs.csv')
-
-# with open('Dissertation/topics/nursetweets_5_docs.txt', 'w+') as f:
-#     f.write(str(model_5.get_representative_docs()))
-#
-# with open('Dissertation/topics/nursetweets_10_docs.txt', 'w+') as f:
-#     f.write(str(model_10.get_representative_docs()))
-#
-# with open('Dissertation/topics/nursetweets_15_docs.txt', 'w+') as f:
-#     f.write(str(model_15.get_representative_docs()))
-#
-# with open('Dissertation/topics/nursetweets_20_docs.txt', 'w+') as f:
-#     f.write(str(model_20.get_representative_docs()))
+pd.DataFrame(model_10.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_10_docs.csv')
+pd.DataFrame(model_15.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_15_docs.csv')
+pd.DataFrame(model_20.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_20_docs.csv')
