@@ -92,10 +92,10 @@ def pad_out_dict(dict):
             v = v + list([0] * (maxlength - len(v)))
         print("key", k)
         print("length", len(v))
-
+        print("length of dictk", len(dict[k]))
     return dict
 
-pd.DataFrame(pad_out_dict(model_5.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_5_docs.csv')
+pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_5_docs.csv')
 # pd.DataFrame(model_10.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_10_docs.csv')
 # pd.DataFrame(model_15.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_15_docs.csv')
 # pd.DataFrame(model_20.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_20_docs.csv')
