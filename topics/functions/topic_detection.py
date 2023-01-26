@@ -41,7 +41,7 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
     details_list = []
     for i in freq['Topic']:
         if i > -1:
-            details_list.append(topic_model.get_topic(i))
+            details_list.append([x for x,y in topic_model.get_topic(i)])
         else:
             details_list.append([])
     freq['details'] = details_list
@@ -51,33 +51,29 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
 
     return topic_model
 
-# #get tweets
-# directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
-# df = get_all_tweets(directories[0])
-# print("tweet count", len(df))
-#
-# #get tweet text
-# tweet_text = df['nouns'].astype(str).tolist()
-# print("got df")
-#
-# #pre-compute embeddings
-# print("computing embeddings")
-# sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
-# embeddings = sentence_model.encode(tweet_text, show_progress_bar=False)
-#
-# #get topics
-# print("getting topics ", "5")
-# model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
-# print("getting topics ", "10")
-# model_10 = get_topics_from(directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
-# print("getting topics ", "15")
-# model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
-# print("getting topics for", "20")
-# model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
-model_5 = BERTopic.load("nursetweets_5_model")
-model_10 = BERTopic.load("nursetweets_10_model")
-model_15 = BERTopic.load("nursetweets_15_model")
-model_20 =  BERTopic.load("nursetweets_20_model")
+#get tweets
+directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
+df = get_all_tweets(directories[0])
+print("tweet count", len(df))
+
+#get tweet text
+tweet_text = df['nouns'].astype(str).tolist()
+print("got df")
+
+#pre-compute embeddings
+print("computing embeddings")
+sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+embeddings = sentence_model.encode(tweet_text, show_progress_bar=False)
+
+#get topics
+print("getting topics ", "5")
+model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
+print("getting topics ", "10")
+model_10 = get_topics_from(directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
+print("getting topics ", "15")
+model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
+print("getting topics for", "20")
+model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
 
 def pad_out_dict(dict):
     maxlength = 0
