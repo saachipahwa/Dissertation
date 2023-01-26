@@ -85,10 +85,13 @@ def pad_out_dict(dict):
         if len(v)>maxlength:
             maxlength=len(v)
 
+    print(maxlength)
+
     for k,v in dict.items():
         if len(v) < maxlength:
             v = v + list([0] * (maxlength - len(v)))
-        print(v)
+        print(v, "\n")
+        print("length", len(v))
 
     return dict
 
