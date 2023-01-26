@@ -132,7 +132,6 @@ def text_preprocessing(directory = "nursetweets"):
             #remove non alphabet chars
             df['clean_text'] = df['clean_text'].apply(lambda x:remove_nonalphabet(x))
 
-
             #lower case
             df['clean_text'] = df['clean_text'].apply(lambda x: x.lower())
 
@@ -158,6 +157,11 @@ def text_preprocessing(directory = "nursetweets"):
 
             #add column of only nouns
             df['nouns'] = df['clean_text'].apply(lambda x:get_nouns(str(x)))
+
+            #remove now empty tweets
+            df['nouns'].replace('', np.nan, inplace=True)
+            df.dropna(subset=['nouns'], inplace=True)
+
             df.to_csv(f, index=False)
 
 #run remove_empty before this
