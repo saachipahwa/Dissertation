@@ -79,7 +79,20 @@ model_10 = BERTopic.load("nursetweets_10_model")
 model_15 = BERTopic.load("nursetweets_15_model")
 model_20 =  BERTopic.load("nursetweets_20_model")
 
-pd.DataFrame.from_dict(model_5.get_representative_docs(), orient="index").to_csv('Dissertation/topics/nursetweets_5_docs.csv')
+def pad_out_dict(dict):
+    maxlength = 0
+    for k,v in dict.items():
+        if len(v)>maxlength:
+            maxlength=v
+
+    for k,v in dict.items():
+        if len(v) < maxlength:
+            v = v + list([0] * (maxlength - len(v)))
+        print(v)
+
+    return dict
+
+pd.DataFrame(pad_out_dict(model_5.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_5_docs.csv')
 # pd.DataFrame(model_10.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_10_docs.csv')
 # pd.DataFrame(model_15.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_15_docs.csv')
 # pd.DataFrame(model_20.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_20_docs.csv')
