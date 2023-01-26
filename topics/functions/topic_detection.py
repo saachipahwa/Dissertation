@@ -75,9 +75,9 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
 # print("getting topics for", "20")
 # model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
 model_5 = BERTopic.load("nursetweets_5_model")
-# model_10 = BERTopic.load("nursetweets_10_model")
-# model_15 = BERTopic.load("nursetweets_15_model")
-# model_20 =  BERTopic.load("nursetweets_20_model")
+model_10 = BERTopic.load("nursetweets_10_model")
+model_15 = BERTopic.load("nursetweets_15_model")
+model_20 =  BERTopic.load("nursetweets_20_model")
 
 def pad_out_dict(dict):
     maxlength = 0
@@ -91,10 +91,11 @@ def pad_out_dict(dict):
 
     return dict
 
-model5docs = pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs()))
-model5docs = model5docs.sort_index(axis=1)
+model5docs = pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs())).sort_index(axis=1)
 model5docs.to_csv('Dissertation/topics/nursetweets_5_docs.csv')
-# pd.DataFrame.from_dict(pad_out_dict(model_10.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_10_docs.csv')
-# pd.DataFrame.from_dict(pad_out_dict(model_15.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_15_docs.csv')
-# pd.DataFrame.from_dict(pad_out_dict(model_20.get_representative_docs())).to_csv('Dissertation/topics/nursetweets_20_docs.csv')
-
+model10docs = pd.DataFrame.from_dict(pad_out_dict(model_10.get_representative_docs())).sort_index(axis=1)
+model10docs.to_csv('Dissertation/topics/nursetweets_10_docs.csv')
+model15docs = pd.DataFrame.from_dict(pad_out_dict(model_15.get_representative_docs())).sort_index(axis=1)
+model15docs.to_csv('Dissertation/topics/nursetweets_15_docs.csv')
+model20docs = pd.DataFrame.from_dict(pad_out_dict(model_20.get_representative_docs())).sort_index(axis=1)
+model20docs.to_csv('Dissertation/topics/nursetweets_20_docs.csv')
