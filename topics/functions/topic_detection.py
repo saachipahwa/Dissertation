@@ -79,10 +79,10 @@ model_10 = BERTopic.load("nursetweets_10_model")
 model_15 = BERTopic.load("nursetweets_15_model")
 model_20 =  BERTopic.load("nursetweets_20_model")
 
-pd.DataFrame(model_5.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_5_docs.txt')
-pd.DataFrame(model_10.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_10_docs.txt')
-pd.DataFrame(model_15.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_15_docs.txt')
-pd.DataFrame(model_20.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_20_docs.txt')
+pd.DataFrame(model_5.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_5_docs.csv')
+pd.DataFrame(model_10.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_10_docs.csv')
+pd.DataFrame(model_15.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_15_docs.csv')
+pd.DataFrame(model_20.get_representative_docs()).to_csv('Dissertation/topics/nursetweets_20_docs.csvt')
 
 # with open('Dissertation/topics/nursetweets_5_docs.txt', 'w+') as f:
 #     f.write(str(model_5.get_representative_docs()))
