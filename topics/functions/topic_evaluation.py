@@ -21,7 +21,7 @@ model_15 = BERTopic.load("nursetweets_15_model")
 model_20 =  BERTopic.load("nursetweets_20_model")
 
 #load topic dictionaries
-topics_5 = pd.load_csv("topics/nursetweets/topics_5.csv")
+topics_5 = pd.read_csv("topics/nursetweets/topics_5.csv")
 
 #turn models into dictionaries
 def get_words_from_topic(topic):
