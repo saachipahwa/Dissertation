@@ -67,13 +67,13 @@ KLu_metric = KL_uniform()
 KLv_metric = KL_vacuous()
 KLb_metric = KL_background()
 
-KL_scores_5 = [KLu_metric.score(model_5_matrix), KLv_metric.score(model_5_matrix), KLb_metric.score(model_5_matrix)]
+KL_scores_5 = [KLu_metric.score(model_5_matrix), 0, 0]
 print("KL metrics for 5 topics", KL_scores_5)
-KL_scores_10 = [KLu_metric.score(model_10_matrix), KLv_metric.score(model_10_matrix), KLb_metric.score(model_10_matrix)]
+KL_scores_10 = [KLu_metric.score(model_10_matrix), 0, 0]
 print("KL metrics for 10 topics", KL_scores_10)
-KL_scores_15 = [KLu_metric.score(model_15_matrix), KLv_metric.score(model_15_matrix), KLb_metric.score(model_15_matrix)]
+KL_scores_15 = [KLu_metric.score(model_15_matrix), 0, 0]
 print("KL metrics for 15 topics", KL_scores_15)
-KL_scores_20 = [KLu_metric.score(model_20_matrix), KLv_metric.score(model_20_matrix), KLb_metric.score(model_20_matrix)]
+KL_scores_20 = [KLu_metric.score(model_20_matrix), 0, 0]
 print("KL metrics for 20 topics", KL_scores_20)
 
 evaluation_df.loc[len(evaluation_df)] = [5, TD_score_5, KL_scores_5[0], KL_scores_5[1], KL_scores_5[2]]
