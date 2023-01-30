@@ -1,3 +1,5 @@
+import os
+
 from bertopic import BERTopic
 from octis.evaluation_metrics.topic_significance_metrics import KL_uniform, KL_vacuous, KL_background
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
