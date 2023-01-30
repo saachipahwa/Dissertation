@@ -3,7 +3,6 @@ from bertopic import BERTopic
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
-import topic_evaluation
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
@@ -55,12 +54,10 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
 
     return topic_model
 
-
 def get_tweets():
     df = get_all_tweets(directories[directory_index])
     print("tweet count", len(df))
     return df['nouns'].astype(str).tolist()
-
 
 def get_embeddings():
     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")

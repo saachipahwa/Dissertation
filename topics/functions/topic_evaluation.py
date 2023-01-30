@@ -2,7 +2,6 @@ from bertopic import BERTopic
 from octis.evaluation_metrics.topic_significance_metrics import KL_uniform, KL_vacuous, KL_background
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 import pandas as pd
-from topic_detection import get_tweets
 
 directories = ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 directory_index = 0
@@ -20,6 +19,20 @@ def make_csv():
     print("set up evaluation csv")
     return evaluation_df
 
+def get_all_tweets(directory = None):
+    df = pd.DataFrame()
+    for filename in os.listdir("Dissertation/"+directory):
+        f = os.path.join("Dissertation/"+directory, filename)
+        print(f)
+        user_df = pd.read_csv(f, index_col=0)
+        df = pd.concat([df, user_df], ignore_index=True)
+    return df
+
+def get_tweets():
+    df = get_all_tweets(directories[directory_index])
+    print("tweet count", len(df))
+    return df['nouns'].astype(str).tolist()
+
 # turn models into dictionaries
 def get_words_from_topic(topic):
     # get words without probabilities
@@ -34,6 +47,7 @@ def get_words_from_model(model):
     for topic in topics_list:
         list_of_word_lists.append(get_words_from_topic(topic))
     return list_of_word_lists
+
 
 evaluation_df = make_csv()
 tweet_text = get_tweets()
