@@ -94,6 +94,9 @@ KLu_metric = KL_uniform()
 KLv_metric = KL_vacuous()
 KLb_metric = KL_background()
 
+print("word matrix", model_5["topic-word-matrix"])
+print("document matrix", model_5["topic-document-matrix"])
+
 KL_scores_5 = [KLu_metric.score(model_5_matrix), KLv_metric.score(model_5_matrix), KLb_metric.score(model_5_matrix)]
 print("KL metrics for 5 topics", KL_scores_5)
 KL_scores_10 = [KLu_metric.score(model_10_matrix),  KLv_metric.score(model_10_matrix), KLb_metric.score(model_10_matrix)]
