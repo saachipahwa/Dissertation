@@ -4,6 +4,7 @@ from bertopic import BERTopic
 from octis.evaluation_metrics.topic_significance_metrics import KL_uniform, KL_vacuous, KL_background
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 import pandas as pd
+from sentence_transformers import SentenceTransformer
 
 directories = ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 directory_index = 0
@@ -54,6 +55,12 @@ def get_words_from_model(model):
 evaluation_df = make_csv()
 tweet_text = get_tweets()
 
+def get_embeddings():
+    sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+    return sentence_model.encode(tweet_text, show_progress_bar=False)
+
+embeddings = get_embeddings()
+
 # load models
 model_5 = BERTopic.load("nursetweets_5_model")
 model_10 = BERTopic.load("nursetweets_10_model")
@@ -77,10 +84,10 @@ TD_score_20 = TD_metric.score(model_20_dict)
 print("model 20 score", TD_score_20)
 
 # turn models into matrices
-model_5_matrix = {"topic-word-matrix": model_5.c_tf_idf_.toarray(), 'topic-document-matrix': model_5.transform(tweet_text)}
-model_10_matrix = {"topic-word-matrix": model_10.c_tf_idf_.toarray(), 'topic-document-matrix': model_10.transform(tweet_text)}
-model_15_matrix = {"topic-word-matrix": model_15.c_tf_idf_.toarray(), 'topic-document-matrix': model_15.transform(tweet_text)}
-model_20_matrix = {"topic-word-matrix": model_20.c_tf_idf_.toarray(), 'topic-document-matrix': model_20.transform(tweet_text)}
+model_5_matrix = {"topic-word-matrix": model_5.c_tf_idf_.toarray(), 'topic-document-matrix': model_5.transform(tweet_text, embeddings)}
+model_10_matrix = {"topic-word-matrix": model_10.c_tf_idf_.toarray(), 'topic-document-matrix': model_10.transform(tweet_text, embeddings)}
+model_15_matrix = {"topic-word-matrix": model_15.c_tf_idf_.toarray(), 'topic-document-matrix': model_15.transform(tweet_text, embeddings)}
+model_20_matrix = {"topic-word-matrix": model_20.c_tf_idf_.toarray(), 'topic-document-matrix': model_20.transform(tweet_text, embeddings)}
 
 # KL significance evaluation
 KLu_metric = KL_uniform()
