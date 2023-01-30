@@ -192,15 +192,15 @@ def text_preprocessing(directory="nursetweets"):
 
 
             # lemmatizing
-            df['lemm_nouns'] = df['nouns'].apply(lambda x:lemmatizer(str(x)))
+            df['nouns'] = df['nouns'].apply(lambda x:lemmatizer(str(x)))
 
             # remove stopwords
-            df['lemm_nouns'] = df['lemm_nouns'].apply(lambda x:remove_stopwords(str(x)))
+            df['nouns'] = df['nouns'].apply(lambda x:remove_stopwords(str(x)))
 
             # #remove 2 char words
-            df['lemm_nouns'] = df['lemm_nouns'].apply(lambda x:remove_2char_words(str(x)))
+            df['nouns'] = df['nouns'].apply(lambda x:remove_2char_words(str(x)))
 
-            df.drop(['non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1, inplace=True,
+            df.drop(['lemm_nouns', 'non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1, inplace=True,
                     errors='ignore')
 
             df.to_csv(f, index=False)
