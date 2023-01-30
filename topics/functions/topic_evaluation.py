@@ -77,10 +77,10 @@ TD_score_20 = TD_metric.score(model_20_dict)
 print("model 20 score", TD_score_20)
 
 # turn models into matrices
-model_5_matrix = {"topic-word-matrix": model_5.c_tf_idf_.toarray(), 'topic-document-matrix': model_5.tranform(tweet_text)}
-model_10_matrix = {"topic-word-matrix": model_10.c_tf_idf_.toarray(), 'topic-document-matrix': model_10.tranform(tweet_text)}
-model_15_matrix = {"topic-word-matrix": model_15.c_tf_idf_.toarray(), 'topic-document-matrix': model_15.tranform(tweet_text)}
-model_20_matrix = {"topic-word-matrix": model_20.c_tf_idf_.toarray(), 'topic-document-matrix': model_20.tranform(tweet_text)}
+model_5_matrix = {"topic-word-matrix": model_5.c_tf_idf_.toarray(), 'topic-document-matrix': model_5.transform(tweet_text)}
+model_10_matrix = {"topic-word-matrix": model_10.c_tf_idf_.toarray(), 'topic-document-matrix': model_10.transform(tweet_text)}
+model_15_matrix = {"topic-word-matrix": model_15.c_tf_idf_.toarray(), 'topic-document-matrix': model_15.transform(tweet_text)}
+model_20_matrix = {"topic-word-matrix": model_20.c_tf_idf_.toarray(), 'topic-document-matrix': model_20.transform(tweet_text)}
 
 # KL significance evaluation
 KLu_metric = KL_uniform()
