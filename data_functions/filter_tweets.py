@@ -103,7 +103,7 @@ def get_nouns(text):
     text = text.split(" ")
     tags = nltk.pos_tag(text)
     new_text = ""
-    haha_lol_omg = re.compile(r"^(ha)+$|lol(ol)*|omg(omg)*")
+    haha_lol_omg = re.compile(r"^(ha)+$|lol(ol)*|omg(omg)*|wow(wow)*")
     contraction_regex = re.compile(r"^[A-Za-z]+['|’][A-Za-z]+$")
 
     for a, b in tags:
