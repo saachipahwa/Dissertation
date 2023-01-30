@@ -3,8 +3,12 @@ from bertopic import BERTopic
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from octis.evaluation_metrics.diversity_metrics import TopicDiversity
+import topic_evaluation
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
+directory_index = 0
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
@@ -51,29 +55,17 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
 
     return topic_model
 
-#get tweets
-directories =  ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
-df = get_all_tweets(directories[0])
-print("tweet count", len(df))
 
-#get tweet text
-tweet_text = df['nouns'].astype(str).tolist()
-print("got df")
+def get_tweets():
+    df = get_all_tweets(directories[directory_index])
+    print("tweet count", len(df))
+    return df['nouns'].astype(str).tolist()
 
-#pre-compute embeddings
-print("computing embeddings")
-sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
-embeddings = sentence_model.encode(tweet_text, show_progress_bar=False)
 
-#get topics
-print("getting topics ", "5")
-model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
-print("getting topics ", "10")
-model_10 = get_topics_from(directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
-print("getting topics ", "15")
-model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
-print("getting topics for", "20")
-model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
+def get_embeddings():
+    sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+    return sentence_model.encode(tweet_text, show_progress_bar=False)
+
 
 def pad_out_dict(dict):
     maxlength = 0
@@ -87,11 +79,32 @@ def pad_out_dict(dict):
 
     return dict
 
-model5docs = pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs())).sort_index(axis=1)
-model5docs.to_csv('Dissertation/topics/nursetweets_5_docs.csv')
-model10docs = pd.DataFrame.from_dict(pad_out_dict(model_10.get_representative_docs())).sort_index(axis=1)
-model10docs.to_csv('Dissertation/topics/nursetweets_10_docs.csv')
-model15docs = pd.DataFrame.from_dict(pad_out_dict(model_15.get_representative_docs())).sort_index(axis=1)
-model15docs.to_csv('Dissertation/topics/nursetweets_15_docs.csv')
-model20docs = pd.DataFrame.from_dict(pad_out_dict(model_20.get_representative_docs())).sort_index(axis=1)
-model20docs.to_csv('Dissertation/topics/nursetweets_20_docs.csv')
+def get_docs():
+    model5docs = pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs())).sort_index(axis=1)
+    model5docs.to_csv('Dissertation/topics/nursetweets_5_docs.csv')
+    model10docs = pd.DataFrame.from_dict(pad_out_dict(model_10.get_representative_docs())).sort_index(axis=1)
+    model10docs.to_csv('Dissertation/topics/nursetweets_10_docs.csv')
+    model15docs = pd.DataFrame.from_dict(pad_out_dict(model_15.get_representative_docs())).sort_index(axis=1)
+    model15docs.to_csv('Dissertation/topics/nursetweets_15_docs.csv')
+    model20docs = pd.DataFrame.from_dict(pad_out_dict(model_20.get_representative_docs())).sort_index(axis=1)
+    model20docs.to_csv('Dissertation/topics/nursetweets_20_docs.csv')
+
+#get tweet text
+tweet_text = get_tweets()
+print("got df")
+
+#pre-compute embeddings
+embeddings = get_embeddings()
+print("computing embeddings")
+
+#get topics
+print("getting topics ", "5")
+model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
+print("getting topics ", "10")
+model_10 = get_topics_from(directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
+print("getting topics ", "15")
+model_15 = get_topics_from(directory_name="nursetweets", nr_topics=15, embeddings=embeddings)
+print("getting topics for", "20")
+model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
+
+get_docs()
