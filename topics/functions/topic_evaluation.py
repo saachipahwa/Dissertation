@@ -51,6 +51,7 @@ def get_words_from_model(model):
         list_of_word_lists.append(get_words_from_topic(topic))
     return list_of_word_lists
 
+make_csv()
 
 evaluation_df = make_csv()
 tweet_text = get_tweets()
@@ -113,4 +114,3 @@ evaluation_df.loc[len(evaluation_df)] = [20, TD_score_20, KL_scores_20[0], KL_sc
 
 evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
 
-make_csv()
