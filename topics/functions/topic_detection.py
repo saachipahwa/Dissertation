@@ -30,7 +30,7 @@ def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=N
     print("set up topic model. about to fit model")
 
     #fit transform
-    topics, probabilities = topic_model.fit_transform(tweet_text, embeddings)
+    topic_model = BERTopic().fit(tweet_text, embeddings)
     print("model has been fit")
 
     open("{}_{}_model".format(directory_name, nr_topics), 'w+')
