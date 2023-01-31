@@ -21,7 +21,7 @@ def get_all_tweets(directory = None):
 def get_topics_from(directory_name = "nursetweets", nr_topics=None, embeddings=None):
     #set up model parameters
     topic_model = BERTopic(language="english",
-                           calculate_probabilities=False,
+                           calculate_probabilities=True,
                            verbose=True,
                            low_memory=True,
                            n_gram_range=(1, 1),

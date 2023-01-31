@@ -91,17 +91,6 @@ predictions10, model_10_doc_matrix = model_10.transform(tweet_text, embeddings)
 predictions15, model_15_doc_matrix = model_15.transform(tweet_text, embeddings)
 predictions20, model_20_doc_matrix = model_20.transform(tweet_text, embeddings)
 
-f=open("Dissertation/print.txt", "w+")
-topics= model_5._map_predictions(model_5.hdbscan_model.labels_)
-print("topics", topics)
-probs = hdbscan.all_points_membership_vectors(model_5.hdbscan_model)
-probs = model_5._map_probabilities(probs, original_topics=True)
-print("probs", probs)
-
-f.write("topics \n")
-f.write(topics)
-f.write("\n probs \n")
-f.write(probs)
 
 model_5_matrix = {"topic-word-matrix": model_5.c_tf_idf_.toarray(), 'topic-document-matrix': model_5_doc_matrix}
 model_10_matrix = {"topic-word-matrix": model_10.c_tf_idf_.toarray(), 'topic-document-matrix': model_10_doc_matrix}
@@ -117,6 +106,7 @@ print("word matrix", model_5_matrix["topic-word-matrix"])
 print("document matrix", model_5_matrix["topic-document-matrix"])
 print("predictions", predictions5)
 
+f = open("Dissertation/print.txt", "w+")
 f.write("topic word_matrix \n")
 f.write(model_5_matrix["topic-word-matrix"])
 f.write("topic document matrix \n")
