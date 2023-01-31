@@ -103,7 +103,7 @@ def get_nouns(text):
     text = text.split(" ")
     tags = nltk.pos_tag(text)
     new_text = ""
-    haha_lol_omg = re.compile(r"^(ha)+$|lol(ol)*|omg(omg)*|wow(wow)*")
+    haha_lol_omg = re.compile(r"^(ha)+$|^haha|lol(ol)*|omg(omg)*|wow(wow)*")
     contraction_regex = re.compile(r"^[A-Za-z]+['|’][A-Za-z]+$")
 
     for a, b in tags:
@@ -186,11 +186,6 @@ def text_preprocessing(directory="nursetweets"):
             # add column of only nouns
             df['nouns'] = df['clean_text'].apply(lambda x: get_nouns(str(x)))
 
-            #remove now empty tweets
-            df['nouns'].replace('', np.nan, inplace=True)
-            df.dropna(subset=['nouns'], inplace=True)
-
-
             # lemmatizing
             df['nouns'] = df['nouns'].apply(lambda x:lemmatizer(str(x)))
 
@@ -199,6 +194,10 @@ def text_preprocessing(directory="nursetweets"):
 
             # #remove 2 char words
             df['nouns'] = df['nouns'].apply(lambda x:remove_2char_words(str(x)))
+
+            #remove now empty tweets
+            df['nouns'].replace('', np.nan, inplace=True)
+            df.dropna(subset=['nouns'], inplace=True)
 
             df.drop(['lemm_nouns', 'non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1, inplace=True,
                     errors='ignore')
