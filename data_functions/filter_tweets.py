@@ -66,7 +66,7 @@ def remove_stopwords(text):
 
 def remove_2char_words(text):
     wordslist = text.split()
-    output = [i for i in wordslist if not len(i) < 3]
+    output = [i for i in wordslist if not len(i) < 4]
     return ' '.join(output)
 
 
