@@ -76,16 +76,11 @@ print("model score", TD_score_5)
 # turn models into matrices
 predictions5, model_doc_matrix = model.transform(tweet_text, embeddings)
 
-model_matrix = None
+KL_scores_5=None
 
 #transform method
 try:
     model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(), 'topic-document-matrix': model}
-except Exception as e:
-    print(e)
-
-if model_matrix:
-    # KL significance evaluation
     KLu_metric = KL_uniform()
     KLv_metric = KL_vacuous()
     KLb_metric = KL_background()
@@ -94,18 +89,12 @@ if model_matrix:
     print("document matrix", model_matrix["topic-document-matrix"])
     print("predictions", predictions5)
 
-    f = open("Dissertation/print.txt", "w+")
-    f.write("topic word_matrix \n")
-    f.write(model_matrix["topic-word-matrix"])
-    f.write("topic document matrix \n")
-    f.write(model_matrix["topic-document-matrix"])
-    f.write("predictions \n")
-    f.write(predictions5)
-
     KL_scores_5 = [KLu_metric.score(model_matrix), KLv_metric.score(model_matrix), KLb_metric.score(model_matrix)]
     print("KL metrics", KL_scores_5)
+except Exception as e:
+    print(e)
 
-else:
+if KL_scores_5==None:
     #extracting topics and probabilities
     topics= model._map_predictions(model.hdbscan_model.labels_)
 
