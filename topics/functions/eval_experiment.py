@@ -66,11 +66,11 @@ embeddings = get_embeddings()
 # load models
 model = BERTopic.load("nursetweets_test_model")
 
-model = {"topics": get_words_from_model(model)}
+model_dict = {"topics": get_words_from_model(model)}
 
 # topic diversity evaluation
 TD_metric = TopicDiversity(topk=10)
-TD_score_5 = TD_metric.score(model)
+TD_score_5 = TD_metric.score(model_dict)
 print("model score", TD_score_5)
 
 # turn models into matrices
