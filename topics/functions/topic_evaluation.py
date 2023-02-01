@@ -91,7 +91,6 @@ predictions10, model_10_doc_matrix = model_10.transform(tweet_text, embeddings)
 predictions15, model_15_doc_matrix = model_15.transform(tweet_text, embeddings)
 predictions20, model_20_doc_matrix = model_20.transform(tweet_text, embeddings)
 
-
 model_5_matrix = {"topic-word-matrix": model_5.c_tf_idf_.toarray(), 'topic-document-matrix': model_5_doc_matrix}
 model_10_matrix = {"topic-word-matrix": model_10.c_tf_idf_.toarray(), 'topic-document-matrix': model_10_doc_matrix}
 model_15_matrix = {"topic-word-matrix": model_15.c_tf_idf_.toarray(), 'topic-document-matrix': model_15_doc_matrix}
