@@ -31,7 +31,7 @@ def get_embeddings(tweet_text):
 def get_topics_from(directory_name = "nursetweets", embeddings=None, nr_topics=None, ngram_max=1):
     #set up model parameters
     topic_model = BERTopic(language="english",
-                           calculate_probabilities=True,
+                           calculate_probabilities=False,
                            verbose=True,
                            low_memory=True,
                            n_gram_range=(1, ngram_max),
@@ -64,7 +64,6 @@ def get_topics_from(directory_name = "nursetweets", embeddings=None, nr_topics=N
     print("info saved to csv")
 
     return topic_model
-
 
 def pad_out_dict(dict):
     maxlength = 0
