@@ -55,50 +55,58 @@ def get_words_from_model(model):
 # make_csv()
 # evaluation_df = make_csv()
 
-tweet_text = get_tweets()
-
-def get_embeddings():
-    sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
-    return sentence_model.encode(tweet_text, show_progress_bar=False)
-
-embeddings = get_embeddings()
-
-# load models
+# tweet_text = get_tweets()
+#
+# def get_embeddings():
+#     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+#     return sentence_model.encode(tweet_text, show_progress_bar=False)
+#
+# embeddings = get_embeddings()
+#
+# # load models
 model = BERTopic.load("nursetweets_test_model")
+#
+# model_dict = {"topics": get_words_from_model(model)}
+#
+# # topic diversity evaluation
+# TD_metric = TopicDiversity(topk=10)
+# TD_score_5 = TD_metric.score(model_dict)
+# print("model score", TD_score_5)
+#
+# #extracting topics and probabilities
+# topics= model._map_predictions(model.hdbscan_model.labels_)
 
-model_dict = {"topics": get_words_from_model(model)}
-
-# topic diversity evaluation
-TD_metric = TopicDiversity(topk=10)
-TD_score_5 = TD_metric.score(model_dict)
-print("model score", TD_score_5)
+probs = hdbscan.all_points_membership_vectors(model.hdbscan_model)
+probs = model._map_probabilities(probs, original_topics=True)
+print("topics", topics)
+print("probs", probs)
 
 # turn models into matrices
-predictions5, model_doc_matrix = model.transform(tweet_text, embeddings)
+# predictions5, model_doc_matrix = model.transform(tweet_text, embeddings)
 
-KL_scores_5=None
+# KL_scores_5=None
 
 #transform method
-try:
-    model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(), 'topic-document-matrix': model}
-    KLu_metric = KL_uniform()
-    KLv_metric = KL_vacuous()
-    KLb_metric = KL_background()
-
-    print("word matrix", model_matrix["topic-word-matrix"])
-    print("document matrix", model_matrix["topic-document-matrix"])
-    print("predictions", predictions5)
-
-    KL_scores_5 = [KLu_metric.score(model_matrix), KLv_metric.score(model_matrix), KLb_metric.score(model_matrix)]
-    print("KL metrics", KL_scores_5)
-except Exception as e:
-    print(e)
-
-if KL_scores_5==None:
-    #extracting topics and probabilities
-    topics= model._map_predictions(model.hdbscan_model.labels_)
-
-    probs = hdbscan.all_points_membership_vectors(model.hdbscan_model)
-    probs = model._map_probabilities(probs, original_topics=True)
-    print("topics", topics)
-    print("probs", probs)
+# try:
+#     model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(), 'topic-document-matrix': model}
+#     KLu_metric = KL_uniform()
+#     KLv_metric = KL_vacuous()
+#     KLb_metric = KL_background()
+#
+#     print("word matrix", model_matrix["topic-word-matrix"])
+#     print("document matrix", model_matrix["topic-document-matrix"])
+#     print("predictions", predictions5)
+#
+#     KL_scores_5 = [KLu_metric.score(model_matrix), KLv_metric.score(model_matrix), KLb_metric.score(model_matrix)]
+#     print("KL metrics", KL_scores_5)
+# except Exception as e:
+#     print(e)
+#
+# if KL_scores_5==None:
+#     #extracting topics and probabilities
+#     topics= model._map_predictions(model.hdbscan_model.labels_)
+#
+#     probs = hdbscan.all_points_membership_vectors(model.hdbscan_model)
+#     probs = model._map_probabilities(probs, original_topics=True)
+#     print("topics", topics)
+#     print("probs", probs)
