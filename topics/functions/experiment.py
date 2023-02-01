@@ -18,13 +18,14 @@ def get_all_tweets(directory = None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-def get_topics_from(directory_name = "nursetweets", embeddings=None):
+def get_topics_from(directory_name = "nursetweets", embeddings=None, nr_topics = None):
     #set up model parameters
     topic_model = BERTopic(language="english",
-                           calculate_probabilities=False,
+                           calculate_probabilities=True,
                            verbose=True,
-                           low_memory=True,
+                           low_memory=False,
                            n_gram_range=(1, 1),
+                           nr_topics = nr_topics
                            )
     print("set up topic model. about to fit model")
 
@@ -33,7 +34,7 @@ def get_topics_from(directory_name = "nursetweets", embeddings=None):
     print("model has been fit")
 
     open("{}_test_model".format(directory_name,), 'w+')
-    topic_model.save("{}_test_model".format(directory_name))
+    topic_model.save("{}_{}_model_".format(directory_name, nr_topics))
     print("model has been saved")
 
     freq = topic_model.get_topic_info()
@@ -95,7 +96,7 @@ print("computing embeddings")
 
 #get topics
 print("getting topics ", "5")
-model_5 = get_topics_from(directory_name="nursetweets", embeddings=embeddings)
+model_5 = get_topics_from(directory_name="nursetweets", embeddings=embeddings, nr_topics = 20)
 # print("getting topics ", "10")
 # model_10 = get_topics_from(directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
 # print("getting topics ", "15")
@@ -103,4 +104,4 @@ model_5 = get_topics_from(directory_name="nursetweets", embeddings=embeddings)
 # print("getting topics for", "20")
 # model_20 = get_topics_from(directory_name="nursetweets", nr_topics=20, embeddings=embeddings)
 
-get_docs()
+# get_docs()
