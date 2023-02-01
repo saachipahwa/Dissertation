@@ -95,7 +95,7 @@ print("computing embeddings")
 
 #get topics
 print("getting topics ", "5")
-model_5 = get_topics_from(directory_name="nursetweets", nr_topics=5, embeddings=embeddings)
+model_5 = get_topics_from(directory_name="nursetweets", embeddings=embeddings)
 # print("getting topics ", "10")
 # model_10 = get_topics_from(directory_name="nursetweets", nr_topics=10, embeddings=embeddings)
 # print("getting topics ", "15")
