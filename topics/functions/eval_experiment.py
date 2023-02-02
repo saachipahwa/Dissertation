@@ -76,12 +76,13 @@ print('loaded model')
 print("about to extract topics")
 topics= model._map_predictions(model.hdbscan_model.labels_)
 print("extracted topics")
+print("topics", topics)
+
 print("about to extract probs")
 probs = hdbscan.all_points_membership_vectors(model.hdbscan_model)
 print("extracted first part")
 probs = model._map_probabilities(probs, original_topics=True)
 print("extracted second part")
-print("topics", topics)
 print("probs", probs)
 
 # turn models into matrices
