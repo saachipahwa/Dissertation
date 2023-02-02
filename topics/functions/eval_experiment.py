@@ -19,14 +19,14 @@ def make_csv():
     # set up evaluation spreadsheet
     evaluation_df = pd.DataFrame(columns=['nr_topics', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
     evaluation_df.set_index('nr_topics')
-    evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
+    evaluation_df.to_csv("topics/topic_evaluation.csv")
     print("set up evaluation csv")
     return evaluation_df
 
 def get_all_tweets(directory = None):
     df = pd.DataFrame()
-    for filename in os.listdir("Dissertation/"+directory):
-        f = os.path.join("Dissertation/"+directory, filename)
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
         df = pd.concat([df, user_df], ignore_index=True)
@@ -64,7 +64,7 @@ def get_words_from_model(model):
 # embeddings = get_embeddings()
 #
 # # load models
-model = BERTopic.load("nursetweets_test_model")
+model = BERTopic.load("small_test_model")
 #
 # model_dict = {"topics": get_words_from_model(model)}
 #
@@ -74,7 +74,7 @@ model = BERTopic.load("nursetweets_test_model")
 # print("model score", TD_score_5)
 #
 # #extracting topics and probabilities
-# topics= model._map_predictions(model.hdbscan_model.labels_)
+topics= model._map_predictions(model.hdbscan_model.labels_)
 
 probs = hdbscan.all_points_membership_vectors(model.hdbscan_model)
 probs = model._map_probabilities(probs, original_topics=True)
