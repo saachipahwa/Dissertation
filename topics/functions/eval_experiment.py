@@ -64,7 +64,7 @@ def get_words_from_model(model):
 # embeddings = get_embeddings()
 #
 # # load models
-model = BERTopic.load("nursetweets_test_model")
+model = BERTopic.load("nursetweets_5_1_model")
 #
 # model_dict = {"topics": get_words_from_model(model)}
 #
