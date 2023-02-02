@@ -2,10 +2,10 @@ import os
 
 import hdbscan
 from bertopic import BERTopic
-from octis.evaluation_metrics.topic_significance_metrics import KL_uniform, KL_vacuous, KL_background
-from octis.evaluation_metrics.diversity_metrics import TopicDiversity
+# from octis.evaluation_metrics.topic_significance_metrics import KL_uniform, KL_vacuous, KL_background
+# from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 import pandas as pd
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
 
 directories = ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
 directory_index = 0
@@ -64,7 +64,7 @@ def get_words_from_model(model):
 # embeddings = get_embeddings()
 #
 # # load models
-model = BERTopic.load("small_test_model")
+model = BERTopic.load("nursetweets_test_model")
 #
 # model_dict = {"topics": get_words_from_model(model)}
 #
