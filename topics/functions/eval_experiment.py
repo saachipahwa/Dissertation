@@ -23,19 +23,17 @@ def make_csv():
     print("set up evaluation csv")
     return evaluation_df
 
-def get_all_tweets(directory = None):
+def get_all_tweets():
+    directory = directories[directory_index]
     df = pd.DataFrame()
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
         df = pd.concat([df, user_df], ignore_index=True)
-    return df
-
-def get_tweets():
-    df = get_all_tweets(directories[directory_index])
-    print("tweet count", len(df))
+        print("tweet count", len(df))
     return df['nouns'].astype(str).tolist()
+
 
 # turn models into dictionaries
 def get_words_from_topic(topic):
@@ -55,7 +53,7 @@ def get_words_from_model(model):
 # make_csv()
 # evaluation_df = make_csv()
 
-# tweet_text = get_tweets()
+# tweet_text = get_all_tweets()
 #
 # def get_embeddings():
 #     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -64,8 +62,9 @@ def get_words_from_model(model):
 # embeddings = get_embeddings()
 #
 # # load models
+print('about to load model')
 model = BERTopic.load("nursetweets_5_1_model")
-#
+print('loaded model')
 # model_dict = {"topics": get_words_from_model(model)}
 #
 # # topic diversity evaluation
@@ -74,10 +73,14 @@ model = BERTopic.load("nursetweets_5_1_model")
 # print("model score", TD_score_5)
 #
 # #extracting topics and probabilities
+print("about to extract topics")
 topics= model._map_predictions(model.hdbscan_model.labels_)
-
+print("extracted topics")
+print("about to extract probs")
 probs = hdbscan.all_points_membership_vectors(model.hdbscan_model)
+print("extracted first part")
 probs = model._map_probabilities(probs, original_topics=True)
+print("extracted second part")
 print("topics", topics)
 print("probs", probs)
 
