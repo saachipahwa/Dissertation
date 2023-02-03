@@ -55,10 +55,8 @@ def get_topics_from(directory_name = "nursetweets", embeddings=None, nr_topics=N
     #save details to csv
     details_list = []
     for i in freq['Topic']:
-        if i > -1:
-            details_list.append([x for x,y in topic_model.get_topic(i)])
-        else:
-            details_list.append([])
+        details_list.append([x for x,y in topic_model.get_topic(i)])
+
     freq['details'] = details_list
     freq.to_csv('Dissertation/topics/{}_topics_{}_{}.csv'.format(directory_name, nr_topics, ngram_max))
     print("info saved to csv")
