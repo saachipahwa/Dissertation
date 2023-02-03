@@ -15,8 +15,8 @@ def get_all_tweets(directory = None):
     return df
 
 
-print("all tweets", get_all_tweets("nursetweets")['nouns'])
+get_all_tweets("nursetweets")['nouns'].to_csv("Dissertation/topics/all_nurse_tweets.csv")
 
-print("docs", model.get_document_info(get_all_tweets("nursetweets")['nouns']))
+model.get_document_info(get_all_tweets("nursetweets")['nouns']).to_csv("Dissertation/topics/docs_topics.csv")
 
 
