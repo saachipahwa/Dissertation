@@ -1,12 +1,12 @@
-,Topic,Count,Name,details
-0,-1,128740,-1_nurse_care_time_health,"['nurse', 'care', 'time', 'health', 'people', 'year', 'nursing', 'today', 'patient', 'work']"
-1,0,3728,0_morning_thing_chris_thanks,"['morning', 'thing', 'chris', 'thanks', 'everyone', 'welcome', 'jenny', 'message', 'glove', 'brain']"
-2,1,3668,1_night_shift_holiday_bank,"['night', 'shift', 'holiday', 'bank', 'tonight', 'break', 'wait', 'match', 'show', 'lunch']"
-3,2,3547,2_food_school_life_meal,"['food', 'school', 'life', 'meal', 'child', 'caterer', 'nutrition', 'water', 'bottle', 'baby']"
-4,3,3121,3_thank_follow_thanks_sorry,"['thank', 'follow', 'thanks', 'sorry', 'question', 'reply', 'help', 'response', 'health', 'mention']"
-5,4,2865,4_home_house_space_beach,"['home', 'house', 'space', 'beach', 'trip', 'housing', 'shame', 'garden', 'care', 'hospice']"
-6,5,2793,5_team_weekend_point_bless,"['team', 'weekend', 'point', 'bless', 'evening', 'tomorrow', 'effort', 'thank', 'joke', 'dear']"
-7,6,2672,6_love_photo_peace_brilliant,"['love', 'photo', 'peace', 'brilliant', 'hour', 'mine', 'wedding', 'picture', 'honolulu', 'smile']"
-8,7,2557,7_congratulation_award_achievement_winner,"['congratulation', 'award', 'achievement', 'winner', 'fons', 'wish', 'medal', 'timeline', 'news', 'recognition']"
-9,8,2555,8_tweet_twitter_quiz_compassion,"['tweet', 'twitter', 'quiz', 'compassion', 'account', 'facebook', 'code', 'anniversary', 'tiktok', 'guess']"
-10,9,2334,9_mile_walk_energy_cost,"['mile', 'walk', 'energy', 'cost', 'moon', 'road', 'list', 'price', 'bill', 'inflation']"
+,Topic,Count,Name,details,Topic category,Topic name,Representative tweets
+0,-1,128740,-1_nurse_care_time_health,"['nurse', 'care', 'time', 'health', 'people', 'year', 'nursing', 'today', 'patient', 'work']",,,
+1,0,3728,0_morning_thing_chris_thanks,"['morning', 'thing', 'chris', 'thanks', 'everyone', 'welcome', 'jenny', 'message', 'glove', 'brain']",,,
+2,1,3668,1_night_shift_holiday_bank,"['night', 'shift', 'holiday', 'bank', 'tonight', 'break', 'wait', 'match', 'show', 'lunch']",,,
+3,2,3547,2_food_school_life_meal,"['food', 'school', 'life', 'meal', 'child', 'caterer', 'nutrition', 'water', 'bottle', 'baby']",,,
+4,3,3121,3_thank_follow_thanks_sorry,"['thank', 'follow', 'thanks', 'sorry', 'question', 'reply', 'help', 'response', 'health', 'mention']",,,
+5,4,2865,4_home_house_space_beach,"['home', 'house', 'space', 'beach', 'trip', 'housing', 'shame', 'garden', 'care', 'hospice']",,,
+6,5,2793,5_team_weekend_point_bless,"['team', 'weekend', 'point', 'bless', 'evening', 'tomorrow', 'effort', 'thank', 'joke', 'dear']",,,
+7,6,2672,6_love_photo_peace_brilliant,"['love', 'photo', 'peace', 'brilliant', 'hour', 'mine', 'wedding', 'picture', 'honolulu', 'smile']",,,
+8,7,2557,7_congratulation_award_achievement_winner,"['congratulation', 'award', 'achievement', 'winner', 'fons', 'wish', 'medal', 'timeline', 'news', 'recognition']",,,
+9,8,2555,8_tweet_twitter_quiz_compassion,"['tweet', 'twitter', 'quiz', 'compassion', 'account', 'facebook', 'code', 'anniversary', 'tiktok', 'guess']",,,
+10,9,2334,9_mile_walk_energy_cost,"['mile', 'walk', 'energy', 'cost', 'moon', 'road', 'list', 'price', 'bill', 'inflation']",,,
