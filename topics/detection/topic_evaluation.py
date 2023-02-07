@@ -7,23 +7,29 @@ from octis.evaluation_metrics.diversity_metrics import TopicDiversity
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 
-directories = ["nursetweets", "doctortweets", "teachertweets", "railtweets", "journalisttweets", "musiciantweets"]
+directories = ["nursetweets", "doctortweets", "teachertweets",
+               "railtweets", "journalisttweets", "musiciantweets"]
 directory_index = 0
 
 # print function
+
+
 def print_topic_words(model):
     for i in list(model.get_topics().values):
         print('topic {}:'.format(i), model.get_topic(i))
 
+
 def make_csv():
     # set up evaluation spreadsheet
-    evaluation_df = pd.DataFrame(columns=['nr_topics', 'ngram upper limit', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
+    evaluation_df = pd.DataFrame(columns=[
+                                 'nr_topics', 'ngram upper limit', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
     evaluation_df.set_index('nr_topics')
     evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
     print("set up evaluation csv")
     return evaluation_df
 
-def get_all_tweets(directory = None):
+
+def get_all_tweets(directory=None):
     df = pd.DataFrame()
     for filename in os.listdir("Dissertation/"+directory):
         f = os.path.join("Dissertation/"+directory, filename)
@@ -32,18 +38,22 @@ def get_all_tweets(directory = None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
+
 def get_tweets():
     df = get_all_tweets(directories[directory_index])
     print("tweet count", len(df))
     return df['nouns'].astype(str).tolist()
 
 # turn models into dictionaries
+
+
 def get_words_from_topic(topic):
     # get words without probabilities
     words = []
     for x, y in topic:
         words.append(x)
     return words
+
 
 def get_words_from_model(model):
     topics_list = model.get_topics().values()
@@ -52,37 +62,41 @@ def get_words_from_model(model):
         list_of_word_lists.append(get_words_from_topic(topic))
     return list_of_word_lists
 
+
 make_csv()
 
 evaluation_df = make_csv()
 tweet_text = get_tweets()
 
+
 def get_embeddings():
     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
     return sentence_model.encode(tweet_text, show_progress_bar=False)
 
+
 embeddings = get_embeddings()
 
-#initialise metrics
+# initialise metrics
 TD_metric = TopicDiversity(topk=10)
 KLu_metric = KL_uniform()
 KLv_metric = KL_vacuous()
 KLb_metric = KL_background()
 
-for nr_topics in [5,10,15,20]:
-    for ul_ngram in range(1,4): #upper limit of ngram range
-        #load model
-        model = BERTopic.load("nursetweets_{}_{}_model".format(nr_topics, ul_ngram))
-        model_dict = {"topics": get_words_from_model(model)}
 
-        TD_score = TD_metric.score(model_dict)
+nr_topics = 10
+ul_ngram = 1
+model = BERTopic.load("nursetweets_{}_{}_model".format(nr_topics, ul_ngram))
+model_dict = {"topics": get_words_from_model(model)}
+TD_score = TD_metric.score(model_dict)
 
-        predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
-        model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(), 'topic-document-matrix': model_doc_matrix}
-        KL_scores = [KLu_metric.score(model_matrix), 0, 0]
-        evaluation_df.loc[len(evaluation_df)] = [nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
+predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
+model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(),
+                'topic-document-matrix': model_doc_matrix}
+KL_scores = [KLu_metric.score(model_matrix), 0, 0]
+evaluation_df.loc[len(evaluation_df)] = [
+    nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
 
-evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
+evaluation_df.to_csv("Dissertation/topics/new_topic_evaluation.csv")
 
 
 # load models
