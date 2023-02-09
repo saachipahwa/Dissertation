@@ -1,7 +1,7 @@
 import pandas as pd
 from bertopic import BERTopic
-
-df = pd.DataFrame(columns = ['original_tweet', 'date', ''])
+import os
+df = pd.DataFrame(columns=['original_tweet', 'date', ''])
 
 
 def get_all_tweets(directory=None):
@@ -13,12 +13,14 @@ def get_all_tweets(directory=None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
+
 def get_topics_with_dates():
     model = BERTopic.load("nursetweets_10_1_model")
     df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
     df["original_text"] = get_all_tweets("nursetweets")['text']
     df["created_at"] = get_all_tweets("nursetweets")['created_at']
 
-    df.to_csv("Dissertation/topics/topics_with_dates.csv")
+    df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+
 
 get_topics_with_dates()
