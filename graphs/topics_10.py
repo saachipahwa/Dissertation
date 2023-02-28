@@ -46,15 +46,15 @@ def add_topic_label():
     df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
 
     conditions = [
-        (df['Topic'] == "-1"),
-        (df['Topic'] == "2"),
-        (df['Topic'] != "-1") & (df['Topic'] != "2")
+        (df['Topic'] != -1) & (df['Topic'] != 2),
+        (df['Topic'] == -1),
+        (df['Topic'] == 2)
     ]
 
-    values = ["None", "Work", "Life"]
-
-    df['tier'] = np.select(conditions, values)
+    values = ["Life", "None", "Work"]
+    df['label'] = np.select(conditions, values)
     df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    print(df.head())
 
 
 add_topic_label()
