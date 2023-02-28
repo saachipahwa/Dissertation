@@ -1,7 +1,6 @@
 import pandas as pd
 from bertopic import BERTopic
 import os
-df = pd.DataFrame(columns=['original_tweet', 'date', ''])
 
 
 def get_all_tweets(directory=None):
@@ -28,8 +27,27 @@ def get_topics_with_dates():
 def dynamic_topic_modelling():
     dates_df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
     model_copy = BERTopic.load("nursetweets_10_1_model_copy")
-    model_copy.merge_topics(get_all_tweets("nursetweets")['nouns'], [[-1,2], [0,1,3,4,5,6,7,8,9]])
-    topics_over_time = model_copy.topics_over_time(dates_df['nouns'], dates_df['created_at'], datetime_format="%Y-%m-%d %H:%M:%S+00:00", nr_bins=30)
-    model_copy.visualize_topics_over_time(topics_over_time)
+    model_copy.merge_topics(get_all_tweets("nursetweets")['nouns'],
+                            [[-1, 2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
+    model_copy.set_topic_labels({-1: "Work", 0: "Life"})
+    print(model_copy.get_topic_info())
+    topics_over_time = model_copy.topics_over_time(
+        dates_df['Document'], dates_df['created_at'], datetime_format="%Y-%m-%d %H:%M:%S+00:00", nr_bins=30)
+    fig = model_copy.visualize_topics_over_time(
+        topics_over_time, topics=[-1, 0], custom_labels=True)
+    fig.show()
 
-dynamic_topic_modelling()
+
+# dynamic_topic_modelling()
+
+def words_per_topic():
+    model_copy = BERTopic.load("nursetweets_10_1_model_copy")
+    model_copy.merge_topics(get_all_tweets("nursetweets")['nouns'],
+                            [[-1, 2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
+    model_copy.set_topic_labels({-1: "Work", 0: "Life"})
+
+    fig = model_copy.visualize_barchart(topics=[-1, 0], custom_labels=True)
+    fig.show()
+
+
+words_per_topic()
