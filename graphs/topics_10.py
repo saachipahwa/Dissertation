@@ -57,8 +57,18 @@ def add_topic_label():
     print(df.head())
 
 
-add_topic_label()
+# add_topic_label()
 
+def dynamic_box_plot():
+    df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
+    df.sort_values(by='created_at', inplace=True)
+    df.drop("Unnamed", "Unnamed: 0", "Unnamed: 0.1", "Unnamed: 0.2")
+    df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    # first_lockdown = df[109:287]
+    # first_lockdown.to_csv("Dissertation/graphs/first_lockdown.csv")
+
+
+dynamic_box_plot()
 
 # def words_per_topic():
 #     model_copy = BERTopic.load("nursetweets_10_1_model_copy")
