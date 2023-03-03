@@ -61,10 +61,11 @@ def add_topic_label():
 
 def dynamic_box_plot():
     df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
-    df.sort_values(by='created_at', inplace=True)
-    df.reset_index(drop=True, inplace=True)
-    df.to_csv("Dissertation/graphs/topics_with_dates.csv")
-
+    # df.sort_values(by='created_at', inplace=True)
+    # df.drop("Unnamed", "Unnamed: 0", "Unnamed: 0.1", "Unnamed: 0.2")
+    # df.reset_index(drop=True, inplace=True)
+    # df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    print(len(df))
     # first_lockdown.to_csv("Dissertation/graphs/first_lockdown.csv")
 
 
