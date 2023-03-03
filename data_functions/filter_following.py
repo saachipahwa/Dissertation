@@ -92,7 +92,7 @@ def second_filter(followers_df_name = "data/filteredNEUfollowers.csv", directory
 
 # second_filter()
 
-def third_filter(followers_df_name = "data/filteredNEUfollowers.csv", directory = "teachertweets"):
+def third_filter(followers_df_name = "data/filteredMUfollowers.csv", directory = "musiciantweets"):
     #after filtering tweets, ensure all followers have >1000 tweets
     # Use after filtering tweets
     # How many users can we analyse?
