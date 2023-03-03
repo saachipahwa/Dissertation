@@ -17,7 +17,6 @@ def get_all_tweets(directory=None):
 
 def get_docs_topics():
     model = BERTopic.load("nursetweets_10_1_model")
-    # get_all_tweets("nursetweets")['text'].to_csv("Dissertation/topics/all_nurse_tweets.csv")
     df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
     df["original_text"] = get_all_tweets("nursetweets")['text']
     df.to_csv("Dissertation/topics/docs_topics.csv")
