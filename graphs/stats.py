@@ -6,9 +6,11 @@ import pandas as pd
 # print(len(df))
 
 #get mean number of tweets
+from matplotlib import pyplot as plt
+
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 5
+directory_index = 0
 
 def get_mean(directory=directories[directory_index]):
     df = pd.DataFrame()
@@ -26,21 +28,26 @@ def get_mean(directory=directories[directory_index]):
     print("mean per day", mean/1308)
     return mean
 
-get_mean()
+# get_mean()
 
 def variance(data):
     # Number of observations
     n = len(data)
     # Mean of the data
     mean = sum(data) / n
+    print(mean)
     # Square deviations
     deviations = [(x - mean) ** 2 for x in data]
     # Variance
     variance = sum(deviations) / n
     return variance
 
+def freq_plot(data):
+    plt.hist(data, bins=50)
+    plt.gca().set(title='Frequency Histogram', ylabel='Frequency')
+    plt.show()
+
 def get_variance(directory=directories[directory_index]):
-    df = pd.DataFrame()
     user_count = 0
     lengths = []
     # total_squares = 0
@@ -49,10 +56,11 @@ def get_variance(directory=directories[directory_index]):
         f = os.path.join(directory, filename)
         user_df = pd.read_csv(f, index_col=0)
         lengths.append(len(user_df))
-        df = pd.concat([df, user_df], ignore_index=True)
+    print("lengths", lengths)
+    print("mean", sum(lengths)/user_count)
     var = variance(lengths)
     print("var", var)
     print("var per day", var/1308)
-
+    freq_plot(lengths)
 
 get_variance()
