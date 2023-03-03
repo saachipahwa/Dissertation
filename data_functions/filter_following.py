@@ -93,7 +93,7 @@ def second_filter(followers_df_name = "data/filteredNUJfollowers.csv", directory
 # second_filter()
 
 
-def third_filter(followers_df_name = "data/filteredMUfollowers.csv", directory = "teachertweets"):
+def third_filter(followers_df_name = "data/filteredRMTfollowers.csv", directory = "railtweets"):
     #after filtering tweets, ensure all followers have >1000 tweets
     followers_df = pd.read_csv(followers_df_name)
     for index, row in followers_df.iterrows():
