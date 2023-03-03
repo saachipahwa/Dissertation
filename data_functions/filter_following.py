@@ -61,9 +61,9 @@ def filter(df = None):
     print("length after filtering " + str(len(df)))
     return df
 
-followersdf = pd.read_csv(followers_file, index_col=0)
-followersdf = filter(df=followersdf)
-followersdf.to_csv(filtered_file)
+# followersdf = pd.read_csv(followers_file, index_col=0)
+# followersdf = filter(df=followersdf)
+# followersdf.to_csv(filtered_file)
 
 def second_filter(followers_df_name = "data/filteredNUJfollowers.csv", directory = "journalisttweets"):
     # Use after filtering tweets
@@ -91,3 +91,18 @@ def second_filter(followers_df_name = "data/filteredNUJfollowers.csv", directory
     print("number of users with >2000 tweets left", two_count)
 
 # second_filter()
+
+
+def third_filter(followers_df_name = "data/filteredMUfollowers.csv", directory = "teachertweets"):
+    #after filtering tweets, ensure all followers have >1000 tweets
+    followers_df = pd.read_csv(followers_df_name)
+    for index, row in followers_df.iterrows():
+        f = "{}/{}.csv".format(directory, str(int(row["id"])))
+        if os.path.isfile(f):
+            df = pd.read_csv(f)
+            if len(df)<1000:
+                os.remove(f)
+                followers_df.drop(index=[index], axis=0, inplace=True)
+    followers_df.to_csv(followers_df_name)
+
+third_filter()
