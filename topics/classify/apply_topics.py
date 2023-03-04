@@ -3,6 +3,8 @@ import os
 import pandas as pd
 from bertopic import BERTopic
 
+
+
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
     for filename in os.listdir("Dissertation/"+directory):
@@ -12,13 +14,16 @@ def get_all_tweets(directory=None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
+
 def get_docs_topics():
     model = BERTopic.load("nursetweets_10_1_model")
     df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
     df["original_text"] = get_all_tweets("nursetweets")['text']
     df.to_csv("Dissertation/topics/docs_topics.csv")
 
-# get_docs_topics()
+
+get_docs_topics()
+
 
 def get_sample_tweets():
     df = pd.read_csv("topics/docs_topics.csv")
