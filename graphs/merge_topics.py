@@ -14,12 +14,11 @@ def get_all_tweets(directory=None):
     return df
 
 
-model = BERTopic.load("nursetweets_10_1_model_copy")
+model = BERTopic.load("nursetweets_10_1_model_old_copy")
 docs = get_all_tweets("nursetweets")['nouns']
 
-
 model.merge_topics(get_all_tweets("nursetweets")['nouns'],
-                   [[-1, 2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
+                   [[-1], [2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
 
 topic_distr, topic_token_distr = model.approximate_distribution(
     docs, calculate_tokens=True)
