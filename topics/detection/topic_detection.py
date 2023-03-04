@@ -14,8 +14,8 @@ directory_name = "nursetweets"
 
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
-    for filename in os.listdir("Dissertation/"+directory):
-        f = os.path.join("Dissertation/"+directory, filename)
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
         df = pd.concat([df, user_df], ignore_index=True)
@@ -65,7 +65,7 @@ def get_topics_from(directory_name="nursetweets", embeddings=None, nr_topics=Non
 
     freq['details'] = details_list
     freq.to_csv(
-        'Dissertation/topics/{}_topics_{}_{}.csv'.format(directory_name, nr_topics, ngram_max))
+        'topics/{}_topics_{}_{}.csv'.format(directory_name, nr_topics, ngram_max))
     print("info saved to csv")
 
     return topic_model
@@ -82,7 +82,6 @@ def pad_out_dict(dict):
             dict[k] = dict[k] + list([0] * (maxlength - len(dict[k])))
 
     return dict
-
 
 # get tweet text
 tweet_text = get_tweets()
@@ -103,8 +102,8 @@ print("getting topics ", "5", "ngram", "3")
 model_5_3 = get_topics_from(
     directory_name=directory_name, nr_topics=5, embeddings=embeddings, ngram_max=3)
 
-# print("getting topics ", "10", "ngram", "1")
-# model_10_1 = get_topics_from(directory_name=directory_name,  embeddings=embeddings, nr_topics=10, ngram_max=1)
+print("getting topics ", "10", "ngram", "1")
+model_10_1 = get_topics_from(directory_name=directory_name,  embeddings=embeddings, nr_topics=10, ngram_max=1)
 print("getting topics ", "10", "ngram", "2")
 model_10_2 = get_topics_from(
     directory_name=directory_name, nr_topics=10, embeddings=embeddings, ngram_max=2)
