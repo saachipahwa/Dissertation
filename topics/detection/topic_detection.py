@@ -91,45 +91,45 @@ print("got df")
 embeddings = get_embeddings(tweet_text)
 print("computing embeddings")
 
-# get topics
-print("getting topics ", "5", "ngram", "1")
-model_5_1 = get_topics_from(
-    directory_name=directory_name, embeddings=embeddings, nr_topics=5, ngram_max=1)
-print("getting topics ", "5", "ngram", "2")
-model_5_2 = get_topics_from(
-    directory_name=directory_name, nr_topics=5, embeddings=embeddings, ngram_max=2)
-print("getting topics ", "5", "ngram", "3")
-model_5_3 = get_topics_from(
-    directory_name=directory_name, nr_topics=5, embeddings=embeddings, ngram_max=3)
+# # get topics
+# print("getting topics ", "5", "ngram", "1")
+# model_5_1 = get_topics_from(
+#     directory_name=directory_name, embeddings=embeddings, nr_topics=5, ngram_max=1)
+# print("getting topics ", "5", "ngram", "2")
+# model_5_2 = get_topics_from(
+#     directory_name=directory_name, nr_topics=5, embeddings=embeddings, ngram_max=2)
+# print("getting topics ", "5", "ngram", "3")
+# model_5_3 = get_topics_from(
+#     directory_name=directory_name, nr_topics=5, embeddings=embeddings, ngram_max=3)
 
 print("getting topics ", "10", "ngram", "1")
 model_10_1 = get_topics_from(directory_name=directory_name,  embeddings=embeddings, nr_topics=10, ngram_max=1)
-print("getting topics ", "10", "ngram", "2")
-model_10_2 = get_topics_from(
-    directory_name=directory_name, nr_topics=10, embeddings=embeddings, ngram_max=2)
-print("getting topics ", "10", "ngram", "3")
-model_10_3 = get_topics_from(
-    directory_name=directory_name, nr_topics=10, embeddings=embeddings, ngram_max=3)
+# print("getting topics ", "10", "ngram", "2")
+# model_10_2 = get_topics_from(
+#     directory_name=directory_name, nr_topics=10, embeddings=embeddings, ngram_max=2)
+# print("getting topics ", "10", "ngram", "3")
+# model_10_3 = get_topics_from(
+#     directory_name=directory_name, nr_topics=10, embeddings=embeddings, ngram_max=3)
 
-print("getting topics ", "15", "ngram", "1")
-model_15_1 = get_topics_from(
-    directory_name=directory_name, embeddings=embeddings, nr_topics=15, ngram_max=1)
-print("getting topics ", "15", "ngram", "2")
-model_15_2 = get_topics_from(
-    directory_name=directory_name, nr_topics=15, embeddings=embeddings, ngram_max=2)
-print("getting topics ", "15", "ngram", "3")
-model_15_3 = get_topics_from(
-    directory_name=directory_name, nr_topics=15, embeddings=embeddings, ngram_max=3)
+# print("getting topics ", "15", "ngram", "1")
+# model_15_1 = get_topics_from(
+#     directory_name=directory_name, embeddings=embeddings, nr_topics=15, ngram_max=1)
+# print("getting topics ", "15", "ngram", "2")
+# model_15_2 = get_topics_from(
+#     directory_name=directory_name, nr_topics=15, embeddings=embeddings, ngram_max=2)
+# print("getting topics ", "15", "ngram", "3")
+# model_15_3 = get_topics_from(
+#     directory_name=directory_name, nr_topics=15, embeddings=embeddings, ngram_max=3)
 
-print("getting topics ", "20", "ngram", "1")
-model_20_1 = get_topics_from(
-    directory_name="nursetweets",  embeddings=embeddings, nr_topics=20, ngram_max=1)
-print("getting topics ", "20", "ngram", "2")
-model_20_2 = get_topics_from(
-    directory_name="nursetweets", nr_topics=20, embeddings=embeddings, ngram_max=2)
-print("getting topics ", "20", "ngram", "3")
-model_20_3 = get_topics_from(
-    directory_name="nursetweets", nr_topics=20, embeddings=embeddings, ngram_max=3)
+# print("getting topics ", "20", "ngram", "1")
+# model_20_1 = get_topics_from(
+#     directory_name="nursetweets",  embeddings=embeddings, nr_topics=20, ngram_max=1)
+# print("getting topics ", "20", "ngram", "2")
+# model_20_2 = get_topics_from(
+#     directory_name="nursetweets", nr_topics=20, embeddings=embeddings, ngram_max=2)
+# print("getting topics ", "20", "ngram", "3")
+# model_20_3 = get_topics_from(
+#     directory_name="nursetweets", nr_topics=20, embeddings=embeddings, ngram_max=3)
 
 # model5_1_docs = pd.DataFrame.from_dict(pad_out_dict(model_5_1.get_representative_docs())).sort_index(axis=1)
 # model5_1_docs.to_csv('Dissertation/topics/nursetweets_5_1_docs.csv')

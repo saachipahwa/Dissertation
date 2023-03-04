@@ -18,7 +18,7 @@ def get_docs_topics():
     df["original_text"] = get_all_tweets("nursetweets")['text']
     df.to_csv("Dissertation/topics/docs_topics.csv")
 
-# get_docs_topics()
+get_docs_topics()
 
 def get_sample_tweets():
     df = pd.read_csv("topics/docs_topics.csv")
