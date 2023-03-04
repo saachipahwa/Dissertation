@@ -96,7 +96,7 @@ KL_scores = [KLu_metric.score(model_matrix), 0, 0]
 evaluation_df.loc[len(evaluation_df)] = [
     nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
 
-evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
+evaluation_df.to_csv("Dissertation/topics/new_topic_evaluation.csv")
 
 
 # load models
