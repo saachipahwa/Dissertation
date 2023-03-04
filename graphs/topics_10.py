@@ -67,8 +67,7 @@ def dynamic_box_plot():
 
     # first_lockdown.to_csv("Dissertation/graphs/first_lockdown.csv")
 
-
-dynamic_box_plot()
+# dynamic_box_plot()
 
 # def words_per_topic():
 #     model_copy = BERTopic.load("nursetweets_10_1_model_copy")
@@ -81,13 +80,11 @@ dynamic_box_plot()
 
 # words_per_topic()
 
-
 def term_frequency():
-    model = BERTopic.load("nursetweets_10_1_model_copy")
+    model = BERTopic.load("models-before-spamremove/nursetweets_10_1_model_copy")
     docs = get_all_tweets("nursetweets")['nouns']
     model.merge_topics(get_all_tweets("nursetweets")['nouns'],
                    [[-1], [2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
-    model.visualize_barchart(topics=[-1,0,1], n_words=15)
+    model.visualize_barchart(topics=[-1,0,1], n_words=15)    
 
-    
-    
+term_frequency()
