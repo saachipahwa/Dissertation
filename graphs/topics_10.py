@@ -80,3 +80,14 @@ dynamic_box_plot()
 #     fig.show()
 
 # words_per_topic()
+
+
+def term_frequency():
+    model = BERTopic.load("nursetweets_10_1_model_copy")
+    docs = get_all_tweets("nursetweets")['nouns']
+    model.merge_topics(get_all_tweets("nursetweets")['nouns'],
+                   [[-1], [2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
+    model.visualize_barchart(topics=[-1,0,1], n_words=15)
+
+    
+    

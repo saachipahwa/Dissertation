@@ -13,7 +13,6 @@ directory_index = 0
 
 # print function
 
-
 def print_topic_words(model):
     for i in list(model.get_topics().values):
         print('topic {}:'.format(i), model.get_topic(i))
@@ -22,7 +21,7 @@ def print_topic_words(model):
 def make_csv():
     # set up evaluation spreadsheet
     evaluation_df = pd.DataFrame(columns=[
-                                 'nr_topics', 'ngram upper limit', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
+                                 'nr_topics', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
     evaluation_df.set_index('nr_topics')
     evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
     print("set up evaluation csv")
@@ -82,22 +81,23 @@ KLu_metric = KL_uniform()
 KLv_metric = KL_vacuous()
 KLb_metric = KL_background()
 
+for nr_topics in [5,10,15,20]:
+    model = BERTopic.load("nursetweets_{}_1_model".format(nr_topics))
+    model_dict = {"topics": get_words_from_model(model)}
+    TD_score = TD_metric.score(model_dict)
 
-nr_topics = 10
-ul_ngram = 1
-model = BERTopic.load("nursetweets_{}_{}_model".format(nr_topics, ul_ngram))
-model_dict = {"topics": get_words_from_model(model)}
-TD_score = TD_metric.score(model_dict)
-
-predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
-model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(),
-                'topic-document-matrix': model_doc_matrix}
-KL_scores = [KLu_metric.score(model_matrix), 0, 0]
-evaluation_df.loc[len(evaluation_df)] = [
-    nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
+    predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
+    model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(),
+                    'topic-document-matrix': model_doc_matrix}
+    KL_scores = [KLu_metric.score(model_matrix), 0, 0]
+    evaluation_df.loc[len(evaluation_df)] = [
+        nr_topics, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
 
 evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
 
+
+# nr_topics = 10
+# ul_ngram = 1
 
 # load models
 # model_5_1 = BERTopic.load("nursetweets_5_1_model")
