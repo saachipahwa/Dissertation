@@ -83,6 +83,8 @@ def dynamic_box_plot():
 
 def term_frequency():
     model = BERTopic.load("nursetweets_10_1_model")
+    print(model.get_topic_info())
+
     docs = get_all_tweets("nursetweets")['nouns']
     # model.merge_topics(get_all_tweets("nursetweets")['nouns'],
     #                [[-1], [2], [0, 1, 3, 4, 5, 6, 7, 8, 9]])
@@ -90,3 +92,4 @@ def term_frequency():
     fig.show()
 
 term_frequency()
+
