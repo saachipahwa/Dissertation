@@ -68,7 +68,7 @@ def dynamic_box_plot():
     # first_lockdown.to_csv("Dissertation/graphs/first_lockdown.csv")
 
 
-dynamic_box_plot()
+# dynamic_box_plot()
 
 # def words_per_topic():
 #     model_copy = BERTopic.load("nursetweets_10_1_model_copy")
@@ -80,3 +80,27 @@ dynamic_box_plot()
 #     fig.show()
 
 # words_per_topic()
+
+def top_terms_normal():
+    model = BERTopic.load("old_nurse_model/nursetweets_10_1_model_old")
+    print(model.get_topic_info())
+    fig = model.visualize_barchart(topics=[0,1,2,3,4,5,6,7,8,9])    
+    fig.show()
+
+top_terms_normal()
+
+def top_terms_merged():
+    model = BERTopic.load("old_nurse_model/merged")
+    model.merge_topics(get_all_tweets("nursetweets")['nouns'],
+                   [[0, 1, 3, 4, 5, 6, 7, 8, 9]])
+    model.set_topic_labels({-1: "None", 0: "Life", 1: "Work"})
+
+    print(model.get_topic_info())
+
+    fig = model.visualize_barchart(topics=[-1,0,1],n_words=20, custom_labels=True)    
+    fig.show()
+
+
+def term_frequency():
+    life_top10 = []
+    topic1 = []
