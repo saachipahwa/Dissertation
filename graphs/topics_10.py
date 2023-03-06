@@ -205,42 +205,41 @@ def top_terms_merged():
     fig = model.visualize_barchart(topics=[-1,0,1],n_words=20, custom_labels=True)    
     fig.show()
 
-
-def work_term_frequency():
-    top10terms_work = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work']
+def life_term_frequency():
+    top10terms_work = ['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care']
     first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
     second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
     third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
     
     #ønly use work tweets
-    work_df_1 = first_lockdown_df[first_lockdown_df['label']=="Work"]
-    work_df_2 = second_lockdown_df[second_lockdown_df['label']=="Work"]
-    work_df_3 = third_lockdown_df[third_lockdown_df['label']=="Work"]
+    life_df_1 = first_lockdown_df[first_lockdown_df['label']=="Life"]
+    life_df_2 = second_lockdown_df[second_lockdown_df['label']=="Life"]
+    life_df_3 = third_lockdown_df[third_lockdown_df['label']=="Life"]
 
-    work_text_1 = ' '.join(work_df_1["Document"])
-    work_text_2 = ' '.join(work_df_2["Document"])
-    work_text_3 = ' '.join(work_df_3["Document"])
+    life_text_1 = ' '.join(life_df_1["Document"])
+    life_text_2 = ' '.join(life_df_2["Document"])
+    life_text_3 = ' '.join(life_df_3["Document"])
 
-    work_words_1 = work_text_1.split()
-    work_words_2 = work_text_2.split()
-    work_words_3 = work_text_3.split()
+    life_words_1 = life_text_1.split()
+    life_words_2 = life_text_2.split()
+    life_words_3 = life_text_3.split()
 
-    word_count_1 = pd.value_counts(np.array(work_words_1))
-    word_count_2 = pd.value_counts(np.array(work_words_2))
-    word_count_3 = pd.value_counts(np.array(work_words_3))
-    print(word_count_1)
+    life_count_1 = pd.value_counts(np.array(life_words_1))
+    life_count_2 = pd.value_counts(np.array(life_words_2))
+    life_count_3 = pd.value_counts(np.array(life_words_3))
 
     terms_count_1 = []
     terms_count_2 = []
     terms_count_3 = []
 
     for w in top10terms_work:
-        terms_count_1.append(word_count_1[w]/len(work_words_1))
-        terms_count_2.append(word_count_2[w]/len(work_words_2))
-        terms_count_3.append(word_count_3[w]/len(work_words_3))
+        terms_count_1.append(life_count_1[w]/len(life_words_1))
+        terms_count_2.append(life_count_2[w]/len(life_words_2))
+        terms_count_3.append(life_count_3[w]/len(life_words_3))
 
-    return terms_count_1, terms_count_2, terms_count_3
+    print(terms_count_1, "\n", terms_count_2, "\n", terms_count_3)
 
+# life_term_frequency()
 def plot_term_frequency(label = None,
                         terms = None,
                         lockdown1_counts=None, lockdown2_counts=None, lockdown3_counts=None):
@@ -274,4 +273,9 @@ plot_term_frequency(label="Work",
                     terms = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work'],
                     lockdown1_counts = [0.01664132454806555, 0.005575266092245312, 0.008109477952356817, 0.008025004223686433, 0.011572900827842542, 0.013515796587261361, 0.002196316945429971, 0.005575266092245312, 0.0033789491468153403, 0.007856056766345666],
                     lockdown2_counts= [0.014565596471432967, 0.009847163811672992, 0.012924402502820802, 0.008411119089137347, 0.010565186172940815, 0.00912914145040517, 0.0034875371833008512, 0.0124115293876295, 0.004205559544568673, 0.006359626628372141],
-                    lockdown3_counts= [0.012965186074429771, 0.009981135311267365, 0.010358429085920082, 0.008266163608300464, 0.011490310409878237, 0.008060367003944436, 0.00329274566969645, 0.007820270965529069, 0.005282112845138055, 0.008780655119190533])
+                    lockdown3_counts=[0.012965186074429771, 0.009981135311267365, 0.010358429085920082, 0.008266163608300464, 0.011490310409878237, 0.008060367003944436, 0.00329274566969645, 0.007820270965529069, 0.005282112845138055, 0.008780655119190533])
+plot_term_frequency(label="Life",
+                    terms=['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care'],
+                    lockdown1_counts = [0.023994811932555125, 0.05512321660181582, 0.00324254215304799, 0.009079118028534372, 0.007782101167315175, 0.005188067444876783, 0.013618677042801557, 0.007133592736705577, 0.019455252918287938, 0.005188067444876783] ,
+                    lockdown2_counts=  [0.0273224043715847, 0.040983606557377046, 0.00273224043715847, 0.01639344262295082, 0.007285974499089253, 0.007285974499089253, 0.007285974499089253, 0.01092896174863388, 0.017304189435336976, 0.00273224043715847] ,
+                    lockdown3_counts = [0.02161681966242227, 0.04471424341131182, 0.0038495706248149247, 0.018359490672194254, 0.0071068996150429374, 0.009179745336097127, 0.01599052413384661, 0.013029315960912053, 0.014213799230085875, 0.00414569144210838])
