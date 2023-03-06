@@ -208,18 +208,18 @@ def top_terms_merged():
 
 def work_term_frequency():
     top10terms_work = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work']
-    first_lockdown_df = pd.read_csv("Dissertation/graphs/first_lockdown.csv", error_bad_lines=False)
-    second_lockdown_df = pd.read_csv("Dissertation/graphs/second_lockdown.csv", error_bad_lines=False)
-    third_lockdown_df = pd.read_csv("Dissertation/graphs/third_lockdown.csv", error_bad_lines=False)
+    first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
+    second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
+    third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
     
     #ønly use work tweets
     work_df_1 = first_lockdown_df[first_lockdown_df['label']=="Work"]
     work_df_2 = second_lockdown_df[second_lockdown_df['label']=="Work"]
-    work_df_3 = [third_lockdown_df['label']=="Work"]
+    work_df_3 = third_lockdown_df[third_lockdown_df['label']=="Work"]
 
-    work_text_1 = ' '.join(work_df_1['Document'])
-    work_text_2 = ' '.join(work_df_2['Document'])
-    work_text_3 = ' '.join(work_df_3['Document'])
+    work_text_1 = ' '.join(work_df_1["Document"])
+    work_text_2 = ' '.join(work_df_2["Document"])
+    work_text_3 = ' '.join(work_df_3["Document"])
 
     work_words_1 = work_text_1.split()
     work_words_2 = work_text_2.split()
@@ -228,6 +228,7 @@ def work_term_frequency():
     word_count_1 = pd.value_counts(np.array(work_words_1))
     word_count_2 = pd.value_counts(np.array(work_words_2))
     word_count_3 = pd.value_counts(np.array(work_words_3))
+    print(word_count_1)
 
     terms_count_1 = []
     terms_count_2 = []
@@ -238,34 +239,39 @@ def work_term_frequency():
         terms_count_2.append(word_count_2[w]/len(work_words_2))
         terms_count_3.append(word_count_3[w]/len(work_words_3))
 
-    print(terms_count_1)
-    print(terms_count_2) 
-    print(terms_count_3)
+    return terms_count_1, terms_count_2, terms_count_3
 
+def plot_term_frequency(label = None,
+                        terms = None,
+                        lockdown1_counts=None, lockdown2_counts=None, lockdown3_counts=None):
     #set width of bar
     barWidth = 0.25
     fig = plt.subplots(figsize =(12, 8))
 
     # Set position of bar on X axis
-    br1 = np.arange(len(terms_count_1))
+    br1 = np.arange(len(lockdown1_counts))
     br2 = [x + barWidth for x in br1]
     br3 = [x + barWidth for x in br2]
 
     # Make the plot
-    plt.bar(br1, terms_count_1, color ='r', width = barWidth,
+    plt.bar(br1, lockdown1_counts, color ='r', width = barWidth,
             edgecolor ='grey', label = "First lockdown (26th March 2020 to 10th May 2020)")
-    plt.bar(br2, terms_count_2, color ='g', width = barWidth,
+    plt.bar(br2, lockdown2_counts, color ='g', width = barWidth,
             edgecolor ='grey', label = "Second lockdown (5th November to 2nd December 2020)")
-    plt.bar(br3, terms_count_3, color ='b', width = barWidth,
+    plt.bar(br3, lockdown3_counts, color ='b', width = barWidth,
             edgecolor ='grey', label = "Third lockdown (6th January to 8th March 2021)")
 
     # Adding Xticks
     plt.xlabel("Topic label", fontweight ='bold', fontsize = 15)
-    plt.ylabel("Percentage of tweets containing work terms", fontweight ='bold', fontsize = 15)
-    plt.xticks([r + barWidth for r in range(len(terms_count_1))],
-               top10terms_work)
+    plt.ylabel(f"Percentage of tweets containing {label} terms", fontweight ='bold', fontsize = 15)
+    plt.xticks([r + barWidth for r in range(len(lockdown1_counts))],
+               terms)
 
     plt.legend()
     plt.show()
 
-work_term_frequency()
+plot_term_frequency(label="Work",
+                    terms = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work'],
+                    lockdown1_counts = [0.01664132454806555, 0.005575266092245312, 0.008109477952356817, 0.008025004223686433, 0.011572900827842542, 0.013515796587261361, 0.002196316945429971, 0.005575266092245312, 0.0033789491468153403, 0.007856056766345666],
+                    lockdown2_counts= [0.014565596471432967, 0.009847163811672992, 0.012924402502820802, 0.008411119089137347, 0.010565186172940815, 0.00912914145040517, 0.0034875371833008512, 0.0124115293876295, 0.004205559544568673, 0.006359626628372141],
+                    lockdown3_counts= [0.012965186074429771, 0.009981135311267365, 0.010358429085920082, 0.008266163608300464, 0.011490310409878237, 0.008060367003944436, 0.00329274566969645, 0.007820270965529069, 0.005282112845138055, 0.008780655119190533])
