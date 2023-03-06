@@ -205,13 +205,49 @@ def top_terms_merged():
     fig = model.visualize_barchart(topics=[-1,0,1],n_words=20, custom_labels=True)    
     fig.show()
 
-def life_term_frequency():
-    top10terms_work = ['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care']
+
+def work_term_frequency():
+    top10terms_work = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work']
     first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
     second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
     third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
     
     #ønly use work tweets
+    work_df_1 = first_lockdown_df[first_lockdown_df['label']=="Work"]
+    work_df_2 = second_lockdown_df[second_lockdown_df['label']=="Work"]
+    work_df_3 = third_lockdown_df[third_lockdown_df['label']=="Work"]
+
+    work_text_1 = ' '.join(work_df_1["Document"])
+    work_text_2 = ' '.join(work_df_2["Document"])
+    work_text_3 = ' '.join(work_df_3["Document"])
+
+    work_words_1 = work_text_1.split()
+    work_words_2 = work_text_2.split()
+    work_words_3 = work_text_3.split()
+
+    word_count_1 = pd.value_counts(np.array(work_words_1))
+    word_count_2 = pd.value_counts(np.array(work_words_2))
+    word_count_3 = pd.value_counts(np.array(work_words_3))
+    print(word_count_1)
+
+    terms_count_1 = []
+    terms_count_2 = []
+    terms_count_3 = []
+
+    for w in top10terms_work:
+        terms_count_1.append(word_count_1[w]/len(work_words_1))
+        terms_count_2.append(word_count_2[w]/len(work_words_2))
+        terms_count_3.append(word_count_3[w]/len(work_words_3))
+
+    return terms_count_1, terms_count_2, terms_count_3
+
+def life_term_frequency():
+    top10terms_work = ['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care']
+    first_lockdown_df = pd.read_csv("Dissertation/graphs/first_lockdown.csv", error_bad_lines=False)
+    second_lockdown_df = pd.read_csv("Dissertation/graphs/second_lockdown.csv", error_bad_lines=False)
+    third_lockdown_df = pd.read_csv("Dissertation/graphs/third_lockdown.csv", error_bad_lines=False)
+    
+    #ønly use life tweets
     life_df_1 = first_lockdown_df[first_lockdown_df['label']=="Life"]
     life_df_2 = second_lockdown_df[second_lockdown_df['label']=="Life"]
     life_df_3 = third_lockdown_df[third_lockdown_df['label']=="Life"]
@@ -239,7 +275,7 @@ def life_term_frequency():
 
     print(terms_count_1, "\n", terms_count_2, "\n", terms_count_3)
 
-# life_term_frequency()
+life_term_frequency()
 def plot_term_frequency(label = None,
                         terms = None,
                         lockdown1_counts=None, lockdown2_counts=None, lockdown3_counts=None):
