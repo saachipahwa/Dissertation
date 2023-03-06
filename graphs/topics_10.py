@@ -241,48 +241,13 @@ def work_term_frequency():
 
     return terms_count_1, terms_count_2, terms_count_3
 
-def work_term_frequency():
-    top10terms_work = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work']
-    first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
-    second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
-    third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
-    
-    #ønly use work tweets
-    work_df_1 = first_lockdown_df[first_lockdown_df['label']=="Work"]
-    work_df_2 = second_lockdown_df[second_lockdown_df['label']=="Work"]
-    work_df_3 = third_lockdown_df[third_lockdown_df['label']=="Work"]
-
-    work_text_1 = ' '.join(work_df_1["Document"])
-    work_text_2 = ' '.join(work_df_2["Document"])
-    work_text_3 = ' '.join(work_df_3["Document"])
-
-    work_words_1 = work_text_1.split()
-    work_words_2 = work_text_2.split()
-    work_words_3 = work_text_3.split()
-
-    word_count_1 = pd.value_counts(np.array(work_words_1))
-    word_count_2 = pd.value_counts(np.array(work_words_2))
-    word_count_3 = pd.value_counts(np.array(work_words_3))
-    print(word_count_1)
-
-    terms_count_1 = []
-    terms_count_2 = []
-    terms_count_3 = []
-
-    for w in top10terms_work:
-        terms_count_1.append(word_count_1[w]/len(work_words_1))
-        terms_count_2.append(word_count_2[w]/len(work_words_2))
-        terms_count_3.append(word_count_3[w]/len(work_words_3))
-
-    return terms_count_1, terms_count_2, terms_count_3
-
 def life_term_frequency():
     top10terms_work = ['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care']
     first_lockdown_df = pd.read_csv("Dissertation/graphs/first_lockdown.csv", error_bad_lines=False)
     second_lockdown_df = pd.read_csv("Dissertation/graphs/second_lockdown.csv", error_bad_lines=False)
     third_lockdown_df = pd.read_csv("Dissertation/graphs/third_lockdown.csv", error_bad_lines=False)
     
-    #ønly use work tweets
+    #ønly use life tweets
     life_df_1 = first_lockdown_df[first_lockdown_df['label']=="Life"]
     life_df_2 = second_lockdown_df[second_lockdown_df['label']=="Life"]
     life_df_3 = third_lockdown_df[third_lockdown_df['label']=="Life"]
@@ -349,4 +314,4 @@ plot_term_frequency(label="Life",
                     terms=['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care'],
                     lockdown1_counts = [0.023994811932555125, 0.05512321660181582, 0.00324254215304799, 0.009079118028534372, 0.007782101167315175, 0.005188067444876783, 0.013618677042801557, 0.007133592736705577, 0.019455252918287938, 0.005188067444876783] ,
                     lockdown2_counts=  [0.0273224043715847, 0.040983606557377046, 0.00273224043715847, 0.01639344262295082, 0.007285974499089253, 0.007285974499089253, 0.007285974499089253, 0.01092896174863388, 0.017304189435336976, 0.00273224043715847] ,
-                    lockdown3_
+                    lockdown3_counts = [0.02161681966242227, 0.04471424341131182, 0.0038495706248149247, 0.018359490672194254, 0.0071068996150429374, 0.009179745336097127, 0.01599052413384661, 0.013029315960912053, 0.014213799230085875, 0.00414569144210838])
