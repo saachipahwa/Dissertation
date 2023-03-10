@@ -18,12 +18,15 @@ topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
 
 all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
 
-before1 = pd.read_csv("Dissertation/graphs/before_first_lockdown.csv")
-during1 = pd.read_csv("Dissertation/graphs/first_lockdown.csv")
-before2 = pd.read_csv("Dissertation/graphs/before_second_lockdown.csv")
-during2 = pd.read_csv("Dissertation/graphs/second_lockdown.csv")
-before3 = pd.read_csv("Dissertation/graphs/before_third_lockdown.csv")
-during3 = pd.read_csv("Dissertation/graphs/third_lockdown.csv")
+before1 = pd.read_csv("graphs/before_first_lockdown.csv")
+during1 = pd.read_csv("graphs/first_lockdown.csv")
+after1 = pd.read_csv("graphs/after_first_lockdown.csv")
+before2 = pd.read_csv("graphs/before_second_lockdown.csv")
+during2 = pd.read_csv("graphs/second_lockdown.csv")
+after2 = pd.read_csv("graphs/after_second_lockdown.csv")
+before3 = pd.read_csv("graphs/before_third_lockdown.csv")
+during3 = pd.read_csv("graphs/third_lockdown.csv")
+after3 = pd.read_csv("graphs/after_third_lockdown.csv")
 
 def get_all_terms():
     array = []
@@ -76,9 +79,24 @@ def frequency_change(df1, df2):
 
 # frequency_change()
 
-def freq_change_plot(df1, df2):
+def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     work_change, life_change = frequency_change(df1, df2)
-    plt.scatter(x = work_change, y = get_all_terms())
+    terms = get_all_terms()
+    workdict = {terms[i]: work_change[i] for i in range(len(terms))}
+    lifedict = {terms[i]: life_change[i] for i in range(len(terms))}
+    # workdict_sorted = dict(sorted(workdict.items(), key=lambda item: item[1]))
+    # life_dict_sorted = dict(sorted(lifedict.items(), key=lambda item: item[1]))
+
+    work = plt.scatter(y=list(workdict.keys()), x = list(workdict.values()), color = "blue")
+    life = plt.scatter(y=list(lifedict.keys()), x=list(lifedict.values()), color = "orange")
+    plt.legend((work, life),
+           ('Work', 'Life'),
+           loc='best',
+           fontsize=12)
+    plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown")
+    plt.xlabel("Frequency gain")
+    plt.ylabel("Term")
+    plt.grid()
     plt.show()
 
-freq_change_plot(before1, during1)
+freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")

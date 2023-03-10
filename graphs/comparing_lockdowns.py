@@ -16,7 +16,7 @@ def get_all_tweets(directory=None):
     return df
 
 def get_before_lockdown():
-    df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
+    df = pd.read_csv("graphs/topics_with_dates.csv")
 
     #get index range for 46 days before first lockdown 
     # df_startdate = df[df['created_at'].str.match("2020-02-09")] 
@@ -26,7 +26,7 @@ def get_before_lockdown():
 
     # make docs csv of first lockdown 8938 to 10838
     before_first_lockdown = df.iloc[8938:10839]
-    before_first_lockdown.to_csv("Dissertation/graphs/before_first_lockdown.csv")
+    before_first_lockdown.to_csv("graphs/before_first_lockdown.csv")
 
     #get index range for 27 days before second lockdown 
     # df_startdate = df[df['created_at'].str.match("2020-10-09")] 
@@ -36,7 +36,7 @@ def get_before_lockdown():
 
     # make docs csv of second lockdown 23578 to 25516
     before_second_lockdown = df.iloc[23578:25517]
-    before_second_lockdown.to_csv("Dissertation/graphs/before_second_lockdown.csv")
+    before_second_lockdown.to_csv("graphs/before_second_lockdown.csv")
 
     #get index range for 62 days before third lockdown
     # df_startdate = df[df['created_at'].str.match("2020-11-06")] 
@@ -46,12 +46,12 @@ def get_before_lockdown():
 
     # make docs csv of third lockdown 25613 to 30528
     before_third_lockdown = df.iloc[25613:30529]
-    before_third_lockdown.to_csv("Dissertation/graphs/before_third_lockdown.csv")
+    before_third_lockdown.to_csv("graphs/before_third_lockdown.csv")
 
 # get_before_lockdown()
 
 def get_lockdown_tweets():
-    df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
+    df = pd.read_csv("graphs/topics_with_dates.csv")
     #dropping columns
     # df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1'], axis=1, inplace=True,
     #         errors='ignore')
@@ -83,18 +83,52 @@ def get_lockdown_tweets():
 
     # first lockdown 10839 to 13703
     first_lockdown = df.iloc[10839:13704]
-    first_lockdown.to_csv("Dissertation/graphs/first_lockdown.csv")
+    first_lockdown.to_csv("graphs/first_lockdown.csv")
 
     #second lockdown 25517 to 27893
     second_lockdown = df.iloc[25517:27894]
-    second_lockdown.to_csv("Dissertation/graphs/second_lockdown.csv")
+    second_lockdown.to_csv("graphs/second_lockdown.csv")
 
     #third lockdown 30529 to 37921
     third_lockdown = df.iloc[30529:37922]
-    third_lockdown.to_csv("Dissertation/graphs/third_lockdown.csv")
+    third_lockdown.to_csv("graphs/third_lockdown.csv")
     # print(third_lockdown[third_lockdown['Topic']==2])
 
 # get_lockdown_tweets()
+def get_after_lockdown():
+    df = pd.read_csv("graphs/topics_with_dates.csv")
+
+    #get index range for 46 days after first lockdown
+    # df_startdate = df[df['created_at'].str.match("2020-05-11")]
+    # print(df_startdate)
+    # df_enddate = df[df['created_at'].str.match("2020-06-18")]
+    # print(df_enddate)
+
+    # make docs csv of first lockdown 13704 to 16139
+    # before_first_lockdown = df.iloc[13704:16140]
+    # before_first_lockdown.to_csv("graphs/after_first_lockdown.csv")
+
+    #get index range for 27 days after second lockdown
+    # df_startdate = df[df['created_at'].str.match("2020-12-03")]
+    # print(df_startdate)
+    # df_enddate = df[df['created_at'].str.match("2020-12-29")]
+    # print(df_enddate)
+
+    # make docs csv of second lockdown 27894 to 29883
+    # before_second_lockdown = df.iloc[27894:29884]
+    # before_second_lockdown.to_csv("graphs/after_second_lockdown.csv")
+
+    #get index range for 62 days after third lockdown
+    # df_startdate = df[df['created_at'].str.match("2021-03-09")]
+    # print(df_startdate)
+    # df_enddate = df[df['created_at'].str.match("2021-06-09")]
+    # print(df_enddate)
+    #
+    # make docs csv of third lockdown 37922 to 47140
+    before_third_lockdown = df.iloc[37922:47141]
+    before_third_lockdown.to_csv("graphs/after_third_lockdown.csv")
+
+get_after_lockdown()
 
 def lockdown_Life_Work():
     # first lockdown
