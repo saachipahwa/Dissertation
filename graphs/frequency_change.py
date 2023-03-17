@@ -4,7 +4,6 @@ import os
 import numpy as np
 from matplotlib import pyplot as plt
 
-
 top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
 topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
 topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
@@ -66,7 +65,6 @@ def get_freq_gain(df1, df2):
     print("freq change length", len(freq_change))
 
     return freq_change       
-    
 
 def frequency_change(df1, df2):
     df1_work = df1[df1['label']=="Work"]
@@ -78,14 +76,59 @@ def frequency_change(df1, df2):
     return work_gain, life_gain
 
 # frequency_change()
+#
+# def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
+#     initial_work_change, initial_life_change = frequency_change(df1, df2) #pre filtering using 0.005 threshold
+#     initial_terms = get_all_terms()
+#     print(initial_work_change)
+#     work_change = []
+#     life_change = []
+#     terms = []
+#     for i in range(0, len(terms)):
+#         if abs(initial_work_change[i])>0.005 or abs(initial_life_change[i])>0.005:
+#             work_change.append(work_change[i])
+#             life_change.append(life_change[i])
+#             terms.append(terms[i])
+#     print("work", work_change)
+#     print("terms", terms)
+#
+#     workdict = {terms[i]: work_change[i] for i in range(len(terms))}
+#     lifedict = {terms[i]: life_change[i] for i in range(len(terms))}
+#     workdict = dict(sorted(workdict.items(), key=lambda item: item[1]))
+#     # lifedict= dict(sorted(lifedict.items(), key=lambda item: item[1]))
+#
+#     work = plt.scatter(y=list(workdict.keys()), x = list(workdict.values()), color = "blue")
+#     life = plt.scatter(y=list(lifedict.keys()), x=list(lifedict.values()), color = "orange")
+#     plt.legend((work, life),
+#                ('Work', 'Life'),
+#                loc='best',
+#                fontsize=12)
+#     plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown")
+#     plt.xlabel("Frequency gain")
+#     plt.ylabel("Term")
+#     plt.grid()
+#     plt.show()
 
 def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
-    work_change, life_change = frequency_change(df1, df2)
-    terms = get_all_terms()
+    initial_work_change, initial_life_change = frequency_change(df1, df2) #pre filtering using 0.005 threshold
+    initial_terms = get_all_terms()
+    work_change = []
+    life_change = []
+    terms = []
+    for i in range(0, len(initial_terms)):
+        if abs(initial_work_change[i])>0.005 or abs(initial_life_change[i])>0.005:
+            # print(initial_terms[i], initial_work_change[i], initial_life_change[i])
+            work_change.append(initial_work_change[i])
+            life_change.append(initial_life_change[i])
+            terms.append(initial_terms[i])
+    # print('life', life_change)
+    # print("work", work_change)
+    # print("terms", terms)
+
     workdict = {terms[i]: work_change[i] for i in range(len(terms))}
     lifedict = {terms[i]: life_change[i] for i in range(len(terms))}
-    # workdict_sorted = dict(sorted(workdict.items(), key=lambda item: item[1]))
-    # life_dict_sorted = dict(sorted(lifedict.items(), key=lambda item: item[1]))
+    # workdict = dict(sorted(workdict.items(), key=lambda item: item[1]))
+    # lifedict= dict(sorted(lifedict.items(), key=lambda item: item[1]))
 
     work = plt.scatter(y=list(workdict.keys()), x = list(workdict.values()), color = "blue")
     life = plt.scatter(y=list(lifedict.keys()), x=list(lifedict.values()), color = "orange")
@@ -99,4 +142,86 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     plt.grid()
     plt.show()
 
-freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+
+def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
+    # first lockdown
+    df1_counts = df1['label'].value_counts()
+    df1_array = [df1_counts["Life"]/len(df1), df1_counts["Work"]/len(df1)]
+
+    df2_counts = df2['label'].value_counts()
+    df2_array = [df2_counts["Life"]/len(df1), df2_counts["Work"]/len(df1)]
+
+    categories = ["Life", "Work"]
+
+    # set width of bar
+    barWidth = 0.25
+    fig = plt.subplots(figsize =(12, 8))
+
+
+    # Set position of bar on X axis
+    br1 = np.arange(len(df1_array))
+    br2 = [x + barWidth for x in br1]
+
+    # Make the plot
+    plt.bar(br1, df1_array, color ='r', width = barWidth,
+            edgecolor ='grey', label = f"{df1_label} the {which_lockdown} lockdown")
+    plt.bar(br2, df2_array, color ='g', width = barWidth,
+            edgecolor ='grey', label = f"{df2_label} the {which_lockdown} lockdown")
+
+    # Adding Xticks
+    plt.xlabel("Topic label", fontweight ='bold', fontsize = 15)
+    plt.ylabel("Percentage of tweets", fontweight ='bold', fontsize = 15)
+    plt.xticks([r + barWidth for r in range(len(df1_array))],
+               categories)
+
+    plt.legend()
+    plt.show()
+
+# compare_life_work(during2, after2, "second", "During", "After")
+
+def compare_topics(df1, df2, which_lockdown, df1_label, df2_label):
+    df1_counts = df1['Topic'].value_counts()
+    df1_array=[]
+    for i in range(0,10):
+        df1_array.append(df1_counts[i]/len(df1))
+    print("df1", df1)
+
+    df2_counts = df2['Topic'].value_counts()
+    df2_array=[]
+    for i in range(0,10):
+        df2_array.append(df2_counts[i]/len(df2))
+    print("df2", df2)
+
+    categories = ["0: Good morning", "1: Thank you's", "2: WORK",
+                  "3: Congratulations",
+                  "4: Expressions",
+                  "5: Happy birthday",
+                  "6: Exercise",
+                  "7: Miscellaneous",
+                  "8: General life",
+                  "9: Friends & people"]
+
+    barWidth = 0.25
+    fig = plt.subplots(figsize =(12, 8))
+
+    br1 = np.arange(len(df1_array))
+    br2 = [x + barWidth for x in br1]
+
+    # Make the plot
+    plt.bar(br1, df1_array, color ='r', width = barWidth,
+            edgecolor ='grey', label = f"{df1_label} the {which_lockdown} lockdown")
+    plt.bar(br2, df2_array, color ='g', width = barWidth,
+            edgecolor ='grey', label = f"{df2_label} the {which_lockdown} lockdown")
+
+
+    # Adding Xticks
+    plt.xlabel("Topic number and name", fontweight ='bold', fontsize = 15)
+    plt.ylabel("Percentage of tweets", fontweight ='bold', fontsize = 15)
+    plt.xticks([r + barWidth for r in range(len(df1_array))],
+               categories)
+
+    plt.legend()
+    plt.show()
+
+# compare_topics(during3, after3, 'third', 'During', 'After')
