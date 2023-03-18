@@ -7,6 +7,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 def get_all_tweets(directory=None):
+    directory = "Dissertation/"+directory #remove when running locally
     df = pd.DataFrame()
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
@@ -21,6 +22,7 @@ def get_original_tweets():
     df["original_text"] = get_all_tweets("nursetweets")['text']
     df["clean_text"] = get_all_tweets("nursetweets")['clean_text']
     df["created_at"] = get_all_tweets("nursetweets")['created_at']
+    df.to_csv("Dissertation/sentiment/docs_clean_text.csv")
 
 get_original_tweets()
 
