@@ -8,12 +8,13 @@ from matplotlib import pyplot as plt
 
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
-    for filename in os.listdir("Dissertation/"+directory):
-        f = os.path.join("Dissertation/"+directory, filename)
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
         print(f)
         user_df = pd.read_csv(f, index_col=0)
         df = pd.concat([df, user_df], ignore_index=True)
     return df
+
 
 def get_before_lockdown():
     df = pd.read_csv("graphs/topics_with_dates.csv")
@@ -345,130 +346,3 @@ def lockdown_topics_bar():
     plt.show()
 
 # lockdown_topics_bar()
-
-
-# def work_term_frequency():
-#     original_top10terms_work = ['time', 'year', 'nurse', 'today', 'people', 'thank', 'nursing', 'care', 'morning', 'work']
-#     top10terms_work = ['time', 'nurse', 'morning', 'thank', 'today', 'year', 'people', 'week', 'work', 'care']
-#     first_lockdown_df = pd.read_csv("Dissertation/graphs/first_lockdown.csv", error_bad_lines=False)
-#     second_lockdown_df = pd.read_csv("Dissertation/graphs/second_lockdown.csv", error_bad_lines=False)
-#     third_lockdown_df = pd.read_csv("Dissertation/graphs/third_lockdown.csv", error_bad_lines=False)
-#
-#     #ønly use work tweets
-#     work_df_1 = first_lockdown_df[first_lockdown_df['label']=="Work"]
-#     work_df_2 = second_lockdown_df[second_lockdown_df['label']=="Work"]
-#     work_df_3 = third_lockdown_df[third_lockdown_df['label']=="Work"]
-#
-#     work_text_1 = ' '.join(work_df_1["Document"])
-#     work_text_2 = ' '.join(work_df_2["Document"])
-#     work_text_3 = ' '.join(work_df_3["Document"])
-#
-#     # work_df_2["Document"].to_csv("Dissertation/graphs/worktext2.csv")
-#
-#     work_words_1 = work_text_1.split()
-#     work_words_2 = work_text_2.split()
-#     work_words_3 = work_text_3.split()
-#
-#     word_count_1 = pd.value_counts(np.array(work_words_1))
-#     word_count_2 = pd.value_counts(np.array(work_words_2))
-#     word_count_3 = pd.value_counts(np.array(work_words_3))
-#
-#     terms_count_1 = []
-#     terms_count_2 = []
-#     terms_count_3 = []
-#
-#     for w in top10terms_work:
-#         terms_count_1.append(word_count_1[w]/len(work_words_1))
-#         terms_count_2.append(word_count_2[w]/len(work_words_2))
-#         terms_count_3.append(word_count_3[w]/len(work_words_3))
-#
-#     print("work\n", terms_count_1, terms_count_2, terms_count_3)
-#
-# # work_term_frequency()
-#
-# def life_term_frequency_lockdowns():
-#     original_top10terms_life = ['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care']
-#     top10terms_life = ['time', 'thank', 'today', 'morning', 'people', 'year', 'nurse', 'work', 'health', 'week']
-#     first_lockdown_df = pd.read_csv("Dissertation/graphs/first_lockdown.csv", error_bad_lines=False)
-#     second_lockdown_df = pd.read_csv("Dissertation/graphs/second_lockdown.csv", error_bad_lines=False)
-#     third_lockdown_df = pd.read_csv("Dissertation/graphs/third_lockdown.csv", error_bad_lines=False)
-#
-#     #ønly use life tweets
-#     life_df_1 = first_lockdown_df[first_lockdown_df['label']=="Life"]
-#     life_df_2 = second_lockdown_df[second_lockdown_df['label']=="Life"]
-#     life_df_3 = third_lockdown_df[third_lockdown_df['label']=="Life"]
-#
-#     life_text_1 = ' '.join(life_df_1["Document"])
-#     life_text_2 = ' '.join(life_df_2["Document"])
-#     life_text_3 = ' '.join(life_df_3["Document"])
-#
-#     life_words_1 = life_text_1.split()
-#     life_words_2 = life_text_2.split()
-#     life_words_3 = life_text_3.split()
-#
-#     life_count_1 = pd.value_counts(np.array(life_words_1))
-#     life_count_2 = pd.value_counts(np.array(life_words_2))
-#     life_count_3 = pd.value_counts(np.array(life_words_3))
-#
-#     terms_count_1 = []
-#     terms_count_2 = []
-#     terms_count_3 = []
-#
-#     for w in top10terms_life:
-#         try:
-#             terms_count_1.append(life_count_1[w]/len(life_words_1))
-#         except Exception as e:
-#             terms_count_1.append(0)
-#         try:
-#             terms_count_2.append(life_count_2[w]/len(life_words_2))
-#         except Exception as e:
-#             terms_count_2.append(0)
-#         try:
-#             terms_count_3.append(life_count_3[w]/len(life_words_3))
-#         except Exception as e:
-#             terms_count_3.append(0)
-#
-#     print("life\n", terms_count_1, "\n", terms_count_2, "\n", terms_count_3)
-#
-# # life_term_frequency_lockdowns()
-#
-# #Before running, this get terms and lockdown counts from functions above
-# def plot_term_frequency_lockdowns(label = None,
-#                         terms = None,
-#                         lockdown1_counts=None, lockdown2_counts=None, lockdown3_counts=None):
-#     #set width of bar
-#     barWidth = 0.25
-#     fig = plt.subplots(figsize =(12, 8))
-#
-#     # Set position of bar on X axis
-#     br1 = np.arange(len(lockdown1_counts))
-#     br2 = [x + barWidth for x in br1]
-#     br3 = [x + barWidth for x in br2]
-#
-#     # Make the plot
-#     plt.bar(br1, lockdown1_counts, color ='r', width = barWidth,
-#             edgecolor ='grey', label = "First lockdown (26th March 2020 to 10th May 2020)")
-#     plt.bar(br2, lockdown2_counts, color ='g', width = barWidth,
-#             edgecolor ='grey', label = "Second lockdown (5th November to 2nd December 2020)")
-#     plt.bar(br3, lockdown3_counts, color ='b', width = barWidth,
-#             edgecolor ='grey', label = "Third lockdown (6th January to 8th March 2021)")
-#
-#     # Adding Xticks
-#     plt.xlabel("Term", fontweight ='bold', fontsize = 15)
-#     plt.ylabel(f"Percentage of tweets containing {label} terms", fontweight ='bold', fontsize = 15)
-#     plt.xticks([r + barWidth for r in range(len(lockdown1_counts))],
-#                terms)
-#
-#     plt.legend()
-#     plt.show()
-
-# plot_term_frequency(label="Work",
-#                     terms = ['time', 'nurse', 'morning', 'thank', 'today', 'year', 'people', 'week', 'work', 'care'],
-#                     lockdown1_counts = [0.01664132454806555, 0.005575266092245312, 0.008109477952356817, 0.008025004223686433, 0.011572900827842542, 0.013515796587261361, 0.002196316945429971, 0.005575266092245312, 0.0033789491468153403, 0.007856056766345666],
-#                     lockdown2_counts= [0.014565596471432967, 0.009847163811672992, 0.012924402502820802, 0.008411119089137347, 0.010565186172940815, 0.00912914145040517, 0.0034875371833008512, 0.0124115293876295, 0.004205559544568673, 0.006359626628372141],
-#                     lockdown3_counts=[0.012965186074429771, 0.009981135311267365, 0.010358429085920082, 0.008266163608300464, 0.011490310409878237, 0.008060367003944436, 0.00329274566969645, 0.007820270965529069, 0.005282112845138055, 0.008780655119190533])
-# plot_term_frequency(label="Life",
-#                     terms=['time', 'thank', 'nurse', 'morning', 'today', 'year', 'people', 'work', 'week', 'care'],
-#                     lockdown1_counts = [0.023994811932555125, 0.05512321660181582, 0.00324254215304799, 0.009079118028534372, 0.007782101167315175, 0.005188067444876783, 0.013618677042801557, 0.007133592736705577, 0.019455252918287938, 0.005188067444876783] ,
-#                     lockdown2_counts=  [0.0273224043715847, 0.040983606557377046, 0.00273224043715847, 0.01639344262295082, 0.007285974499089253, 0.007285974499089253, 0.007285974499089253, 0.01092896174863388, 0.017304189435336976, 0.00273224043715847] ,
-#                     lockdown3_counts = [0.02161681966242227, 0.04471424341131182, 0.0038495706248149247, 0.018359490672194254, 0.0071068996150429374, 0.009179745336097127, 0.01599052413384661, 0.013029315960912053, 0.014213799230085875, 0.00414569144210838])

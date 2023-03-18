@@ -12,6 +12,8 @@ def get_topics_with_dates():
 
     df.to_csv("Dissertation/graphs/topics_with_dates.csv")
 
+
+
 # get_topics_with_dates()
 
 def add_topic_label():

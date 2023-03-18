@@ -137,7 +137,7 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
            loc='best',
            fontsize=12)
     plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown")
-    plt.xlabel("Frequency gain")
+    plt.xlabel("Frequency change")
     plt.ylabel("Term")
     plt.grid()
     plt.show()
@@ -180,20 +180,22 @@ def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
 
 # compare_life_work(during2, after2, "second", "During", "After")
 
-def compare_topics(df1, df2, which_lockdown, df1_label, df2_label):
+def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colour_label1, colour_label2):
     df1_counts = df1['Topic'].value_counts()
     df1_array=[]
-    for i in range(0,10):
+    for i in topics:
         df1_array.append(df1_counts[i]/len(df1))
     print("df1", df1)
 
     df2_counts = df2['Topic'].value_counts()
     df2_array=[]
-    for i in range(0,10):
-        df2_array.append(df2_counts[i]/len(df2))
+    for j in topics:
+        df2_array.append(df2_counts[j]/len(df2))
     print("df2", df2)
 
-    categories = ["0: Good morning", "1: Thank you's", "2: WORK",
+    all_categories = ["0: Good morning",
+                  "1: Thank you's",
+                  "2: WORK",
                   "3: Congratulations",
                   "4: Expressions",
                   "5: Happy birthday",
@@ -201,6 +203,9 @@ def compare_topics(df1, df2, which_lockdown, df1_label, df2_label):
                   "7: Miscellaneous",
                   "8: General life",
                   "9: Friends & people"]
+    categories=[]
+    for k in topics:
+        categories.append(all_categories[k])
 
     barWidth = 0.25
     fig = plt.subplots(figsize =(12, 8))
@@ -209,9 +214,9 @@ def compare_topics(df1, df2, which_lockdown, df1_label, df2_label):
     br2 = [x + barWidth for x in br1]
 
     # Make the plot
-    plt.bar(br1, df1_array, color ='r', width = barWidth,
+    plt.bar(br1, df1_array, color =colour_label1, width = barWidth,
             edgecolor ='grey', label = f"{df1_label} the {which_lockdown} lockdown")
-    plt.bar(br2, df2_array, color ='g', width = barWidth,
+    plt.bar(br2, df2_array, color =colour_label2, width = barWidth,
             edgecolor ='grey', label = f"{df2_label} the {which_lockdown} lockdown")
 
 
@@ -221,7 +226,11 @@ def compare_topics(df1, df2, which_lockdown, df1_label, df2_label):
     plt.xticks([r + barWidth for r in range(len(df1_array))],
                categories)
 
+    plt.title(f"Distribution of topics discussed {df1_label} compared to {df2_label} the {which_lockdown} lockdown")
     plt.legend()
     plt.show()
 
-# compare_topics(during3, after3, 'third', 'During', 'After')
+compare_topics(before3, during3, [0, 2, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
+#colour for before = red
+#colour for during = green
+#colour for after = blue
