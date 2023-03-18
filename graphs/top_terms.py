@@ -4,6 +4,16 @@ import os
 import numpy as np
 from matplotlib import pyplot as plt
 
+def get_all_tweets(directory=None):
+    directory = "Dissertation/"+directory #remove when running locally
+    df = pd.DataFrame()
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        print(f)
+        user_df = pd.read_csv(f, index_col=0)
+        df = pd.concat([df, user_df], ignore_index=True)
+    return df
+
 def get_topics_with_dates():
     model = BERTopic.load("nursetweets_10_1_model")
     df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
@@ -11,7 +21,6 @@ def get_topics_with_dates():
     df["created_at"] = get_all_tweets("nursetweets")['created_at']
 
     df.to_csv("Dissertation/graphs/topics_with_dates.csv")
-
 
 
 # get_topics_with_dates()
