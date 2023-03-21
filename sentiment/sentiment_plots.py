@@ -54,7 +54,7 @@ def make_plot():
     work1b, life1b = get_frequency_change(during1, after1)
     work2b, life2b = get_frequency_change(during2, after2)
     work3b, life3b = get_frequency_change(during3, after3)
-    x_names = ["Classes", "Before vs During LD1", "During vs After First LD", "Before vs During Second LD", "During vs After Second LD", "Before vs During Third LD", "During vs After Third LD"]
+    x_names = ["Classes", "Before vs During LD1", "During vs After LD1", "Before vs During LD2", "During vs After LD2", "Before vs During LD3", "During vs After LD4"]
 
     #WORK DF
     work_df = pd.DataFrame(columns=x_names)
