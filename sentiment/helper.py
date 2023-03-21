@@ -1,7 +1,18 @@
+import numpy as np
 from bertopic import BERTopic
 
 import os
 
+import pandas as pd
+import re
+from collections import Counter
+import liwc
+import numpy as np
+import pandas as pd
+import os
+import re
+from collections import Counter
+import liwc
 import pandas as pd
 
 def get_all_tweets(directory=None):
@@ -33,10 +44,60 @@ def reset_index(path = "sentiment/docs_clean_text.csv"):
 
 # reset_index()
 
+def add_topic_label():
+    df = pd.read_csv("sentiment/docs_clean_text.csv")
+    conditions = [
+        (df['Topic'] == 2),
+        (df['Topic'] == -1)
+    ]
+    values = ["Work", "None"]
+    df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
+            errors='ignore')
+    df['label'] = np.select(conditions, values, default="Life")
+    df.to_csv("sentiment/docs_clean_text.csv")
+    print(df.head())
+
+# add_topic_label()
+
+#Getting sentiment
+def tokenize(text):
+    for match in re.finditer(r'\w+', text, re.UNICODE):
+        yield match.group(0)
+
+parse, category_names = liwc.load_token_parser('sentiment/LIWC2007_English080730.dic')
+
+def get_emotion(string):
+    # tokenize string
+    tokens = tokenize(string)
+    # now flatmap over all the categories in all the tokens using a generator:
+    counts = Counter(category for token in tokens for category in parse(token))
+
+    if counts['posemo']>counts['negemo']:
+        return 1 #positive
+    elif counts['posemo']==counts['negemo']:
+        return 0 #neither
+    else:
+        return 2 #negative
+
+def add_sentiment():
+    docs = pd.read_csv("sentiment/docs_clean_text.csv")
+    docs['sentiment_index'] = docs['clean_text'].apply(lambda x: get_emotion(x))
+    conditions = [
+        (docs['sentiment_index'] == 0),
+        (docs['sentiment_index'] == 1),
+        (docs['sentiment_index'] == 2)
+    ]
+    values = ["None", "Positive", "Negative"]
+    docs.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
+              errors='ignore')
+    docs['sentiment'] = np.select(conditions, values)
+    docs.to_csv("sentiment/docs_sentiment.csv")
+
+add_sentiment()
 
 #Getting docs for different time periods
 def get_before_lockdown():
-    df = pd.read_csv("sentiment/docs_clean_text.csv")
+    df = pd.read_csv("sentiment/docs_sentiment.csv")
 
     #get index range for 46 days before first lockdown
     # df_startdate = df[df['created_at'].str.match("2020-02-09")]
@@ -71,7 +132,7 @@ def get_before_lockdown():
 get_before_lockdown()
 
 def get_lockdown_tweets():
-    df = pd.read_csv("sentiment/docs_clean_text.csv")
+    df = pd.read_csv("sentiment/docs_sentiment.csv")
 
     #sorting by date and adding new index
     # df.sort_values(by='created_at', inplace=True)
@@ -113,7 +174,7 @@ def get_lockdown_tweets():
 get_lockdown_tweets()
 
 def get_after_lockdown():
-    df = pd.read_csv("sentiment/docs_clean_text.csv")
+    df = pd.read_csv("sentiment/docs_sentiment.csv")
 
     #get index range for 46 days after first lockdown
     # df_startdate = df[df['created_at'].str.match("2020-05-11")]

@@ -26,7 +26,7 @@ def get_topics_with_dates():
 # get_topics_with_dates()
 
 def add_topic_label():
-    df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
+    df = pd.read_csv("graphs/topics_with_dates.csv")
     conditions = [
         (df['Topic'] == 2),
         (df['Topic'] == -1)
@@ -35,7 +35,7 @@ def add_topic_label():
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
-    df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    df.to_csv("graphs/topics_with_dates.csv")
     print(df.head())
 
 # add_topic_label()
