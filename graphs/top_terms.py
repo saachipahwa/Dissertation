@@ -4,6 +4,16 @@ import os
 import numpy as np
 from matplotlib import pyplot as plt
 
+def get_all_tweets(directory=None):
+    directory = "Dissertation/"+directory #remove when running locally
+    df = pd.DataFrame()
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        print(f)
+        user_df = pd.read_csv(f, index_col=0)
+        df = pd.concat([df, user_df], ignore_index=True)
+    return df
+
 def get_topics_with_dates():
     model = BERTopic.load("nursetweets_10_1_model")
     df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
@@ -13,11 +23,10 @@ def get_topics_with_dates():
     df.to_csv("Dissertation/graphs/topics_with_dates.csv")
 
 
-
 # get_topics_with_dates()
 
 def add_topic_label():
-    df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
+    df = pd.read_csv("graphs/topics_with_dates.csv")
     conditions = [
         (df['Topic'] == 2),
         (df['Topic'] == -1)
@@ -26,7 +35,7 @@ def add_topic_label():
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
-    df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    df.to_csv("graphs/topics_with_dates.csv")
     print(df.head())
 
 # add_topic_label()
