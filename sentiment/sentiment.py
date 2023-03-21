@@ -1,37 +1,40 @@
-import re
-from collections import Counter
-import liwc
+
 import numpy as np
-import pandas as pd
-import os
 import re
 from collections import Counter
 import liwc
 import pandas as pd
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
-#Getting sentiment
-def tokenize(text):
-    for match in re.finditer(r'\w+', text, re.UNICODE):
-        yield match.group(0)
+def sentiment_scores(sentence):
+    # Create a SentimentIntensityAnalyzer object.
+    sid_obj = SentimentIntensityAnalyzer()
 
-parse, category_names = liwc.load_token_parser('sentiment/LIWC2007_English080730.dic')
+    # polarity_scores method of SentimentIntensityAnalyzer
+    # object gives a sentiment dictionary.
+    # which contains pos, neg, neu, and compound scores.
+    sentiment_dict = sid_obj.polarity_scores(sentence)
+    # print("Overall sentiment dictionary is : ", sentiment_dict)
+    # print("sentence was rated as ", sentiment_dict['neg']*100, "% Negative")
+    # print("sentence was rated as ", sentiment_dict['neu']*100, "% Neutral")
+    # print("sentence was rated as ", sentiment_dict['pos']*100, "% Positive")
+    #
+    # print("Sentence Overall Rated As", end = " ")
 
-def get_emotion(string):
-    # tokenize string
-    tokens = tokenize(string)
-    # now flatmap over all the categories in all the tokens using a generator:
-    counts = Counter(category for token in tokens for category in parse(token))
-
-    if counts['posemo']>counts['negemo']:
-        return 1 #positive
-    elif counts['posemo']==counts['negemo']:
-        return 0 #neither
-    else:
-        return 2 #negative
+    # decide sentiment as positive, negative and neutral
+    if sentiment_dict['compound'] >= 0.05 :
+        # print("Positive")
+        return 1
+    elif sentiment_dict['compound'] <= - 0.05 :
+        # print("Negative")
+        return 2
+    else :
+        # print("Neutral")
+        return 0
 
 def add_sentiment():
     docs = pd.read_csv("sentiment/docs_clean_text.csv")
-    docs['sentiment_index'] = docs['clean_text'].apply(lambda x: get_emotion(x))
+    docs['sentiment_index'] = docs['clean_text'].apply(lambda x: sentiment_scores(x))
     conditions = [
         (docs['sentiment_index'] == 0),
         (docs['sentiment_index'] == 1),
@@ -44,3 +47,5 @@ def add_sentiment():
     docs.to_csv("sentiment/docs_sentiment.csv")
 
 add_sentiment()
+
+# sentiment_scores("I hope nobody dies")
