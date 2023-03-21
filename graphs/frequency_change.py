@@ -180,7 +180,12 @@ def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
 
 # compare_life_work(during2, after2, "second", "During", "After")
 
+#Function adds "topic 2: work" automatically
+#colour for before = red
+#colour for during = green
+#colour for after = blue
 def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colour_label1, colour_label2):
+    #Add percentage values to arrays
     df1_counts = df1['Topic'].value_counts()
     df1_array=[]
     for i in topics:
@@ -193,19 +198,25 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
         df2_array.append(df2_counts[j]/len(df2))
     print("df2", df2)
 
-    all_categories = ["0: Good morning",
-                  "1: Thank you's",
-                  "2: WORK",
-                  "3: Congratulations",
-                  "4: Expressions",
-                  "5: Happy birthday",
-                  "6: Exercise",
-                  "7: Miscellaneous",
-                  "8: General life",
-                  "9: Friends & people"]
+    #add work at end
+    df1_array.append(df1_counts[2]/len(df1))
+    df2_array.append(df2_counts[2]/len(df2))
+
+    all_categories = ["Good morning",
+                  "Thank you's",
+                      "WORK",
+                  "Congratulations",
+                  "Expressions",
+                  "Happy birthday",
+                  "Exercise",
+                  "Miscellaneous",
+                  "General life",
+                  "Friends & people",
+                    ]
     categories=[]
     for k in topics:
         categories.append(all_categories[k])
+    categories.append(all_categories[2]) # add work at end
 
     barWidth = 0.25
     fig = plt.subplots(figsize =(12, 8))
@@ -214,11 +225,11 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     br2 = [x + barWidth for x in br1]
 
     # Make the plot
+    print(df1_array)
     plt.bar(br1, df1_array, color =colour_label1, width = barWidth,
             edgecolor ='grey', label = f"{df1_label} the {which_lockdown} lockdown")
     plt.bar(br2, df2_array, color =colour_label2, width = barWidth,
             edgecolor ='grey', label = f"{df2_label} the {which_lockdown} lockdown")
-
 
     # Adding Xticks
     plt.xlabel("Topic number and name", fontweight ='bold', fontsize = 15)
@@ -230,7 +241,11 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-compare_topics(before3, during3, [0, 2, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
-#colour for before = red
-#colour for during = green
-#colour for after = blue
+compare_topics(before1, during1, [0, 4, 6, 8, 9], 'First', 'Before', 'During', 'r', 'g')
+compare_topics(before2, during2, [0, 4, 6, 8, 9], 'Second', 'Before', 'During', 'r', 'g')
+compare_topics(before3, during3, [0, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
+
+compare_topics(during1, after1, [0, 4, 6, 8, 9], 'First', 'During', 'After', 'g', 'b')
+compare_topics(during2, after2, [0, 4, 6, 8, 9], 'Second', 'During', 'After', 'g', 'b')
+compare_topics(during3, after3, [0, 4, 6, 8, 9], 'Third', 'During', 'After', 'g', 'b')
+

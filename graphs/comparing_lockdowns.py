@@ -131,6 +131,42 @@ def get_after_lockdown():
 
 # get_after_lockdown()
 
+def get_lockdown_control():
+    #find indexes for start and end dates of lockdown periods
+    #confirm first lockdown indexes
+    df = pd.read_csv("graphs/topics_with_dates.csv")
+
+    df_startdate = df[df['created_at'].str.match("2019-03-26")]
+    print(df_startdate)
+    df_enddate = df[df['created_at'].str.match("2019-05-10")] #46 days
+    print(df_enddate)
+
+    #confirm second lockdown indexes
+    df_startdate = df[df['created_at'].str.match("2019-11-05")]
+    print(df_startdate)
+    df_enddate = df[df['created_at'].str.match("2019-12-02")] #28 days
+    print(df_enddate)
+
+    #confirm third lockdown indexes
+    df_startdate = df[df['created_at'].str.match("2020-01-06")]
+    print(df_startdate)
+    df_enddate = df[df['created_at'].str.match("2020-03-08")] #62 days
+    print(df_enddate)
+
+    # make docs csv of first lockdown 1304 to 2359
+    control1 = df.iloc[1304:2360]
+    control1.to_csv("graphs/control1.csv")
+
+    # make docs csv of second lockdown 6395 to 7022
+    control2 = df.iloc[6395:7023]
+    control2.to_csv("graphs/control2.csv")
+
+    # make docs csv of first lockdown 7925 to 9995
+    control3 = df.iloc[7925:9996]
+    control3.to_csv("graphs/control3.csv")
+
+# get_lockdown_control()
+
 def lockdown_Life_Work():
     # first lockdown
     first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
@@ -151,24 +187,46 @@ def lockdown_Life_Work():
     third_lockdown = [tl_counts_df["Life"]/tl_total_life_work, tl_counts_df["Work"]/tl_total_life_work]
     print("third", third_lockdown)
 
-    lockdowns = ["First lockdown (26th March 2020 to 10th May 2020)",
-                  "Second lockdown (5th November to 2nd December 2020)",
-                  "Third lockdown (6th January to 8th March 2021)"]
-    values = {"Life": [first_lockdown[0], second_lockdown[0], third_lockdown[0]],
-              "Work": [first_lockdown[1], second_lockdown[1], third_lockdown[1]]}
+    control1_df = pd.read_csv("graphs/control1.csv", error_bad_lines=False)
+    c1_counts_df = control1_df['label'].value_counts()
+    c1_total_life_work = c1_counts_df["Life"]+c1_counts_df["Work"]
+    control1 = [c1_counts_df["Life"]/c1_total_life_work, c1_counts_df["Work"]/c1_total_life_work]
+    print("control1", control1)
+
+    control2_df = pd.read_csv("graphs/control2.csv", error_bad_lines=False)
+    c2_counts_df = control2_df['label'].value_counts()
+    c2_total_life_work = c2_counts_df["Life"]+c2_counts_df["Work"]
+    control2 = [c2_counts_df["Life"]/c2_total_life_work, c2_counts_df["Work"]/c2_total_life_work]
+    print("control2", control2)
+
+    control3_df = pd.read_csv("graphs/control3.csv", error_bad_lines=False)
+    c3_counts_df = control3_df['label'].value_counts()
+    c3_total_life_work = c3_counts_df["Life"]+c3_counts_df["Work"]
+    control3 = [c3_counts_df["Life"]/c3_total_life_work, c3_counts_df["Work"]/c3_total_life_work]
+    print("control3", control3)
+
+    lockdowns = ["Control for First Lockdown",
+                 "First Lockdown",
+                 "Control for Second Lockdown",
+                 "Second Lockdown",
+                 "Control for Third Lockdown",
+                 "Third Lockdown"]
+
+    values = {"Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
+              "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]]}
 
     # set width of bar
     barWidth = 0.25
 
 
     fig, ax = plt.subplots()
-    bottom = np.zeros(3)
+    bottom = np.zeros(6)
 
     for category, value in values.items():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
         bottom += value
 
-    ax.set_title("How much did nurses tweet about Life vs Work in each lockdown?")
+    ax.set_title("How much did nurses tweet about Life vs Work in each lockdown (compared to the year prior)")
     ax.legend(loc="upper right")
 
 
@@ -178,7 +236,7 @@ def lockdown_Life_Work():
 
     plt.show()
 
-# lockdown_Life_Work()
+lockdown_Life_Work()
 
 def lockdown_Life_Work_None():
     # first lockdown
@@ -197,26 +255,44 @@ def lockdown_Life_Work_None():
     third_lockdown = [tl_counts_df["Life"]/len(third_lockdown_df), tl_counts_df["Work"]/len(third_lockdown_df), tl_counts_df["None"]/len(third_lockdown_df)]
     print("third", third_lockdown)
 
-    lockdowns = ["First lockdown (26th March 2020 to 10th May 2020)",
-                 "Second lockdown (5th November to 2nd December 2020)",
-                 "Third lockdown (6th January to 8th March 2021)"]
+    control1_df = pd.read_csv("graphs/control1.csv", error_bad_lines=False)
+    c1_counts_df = control1_df['label'].value_counts()
+    control1 = [c1_counts_df["Life"]/len(control1_df), c1_counts_df["Work"]/len(control1_df), c1_counts_df["None"]/len(control1_df)]
+    print("control1", control1)
 
-    values = {"Life": [first_lockdown[0], second_lockdown[0], third_lockdown[0]],
-              "Work": [first_lockdown[1], second_lockdown[1], third_lockdown[1]],
-              "None": [first_lockdown[2], second_lockdown[2], third_lockdown[2]]}
+    control2_df = pd.read_csv("graphs/control2.csv", error_bad_lines=False)
+    c2_counts_df = control2_df['label'].value_counts()
+    control2 = [c2_counts_df["Life"]/len(control2_df), c2_counts_df["Work"]/len(control2_df), c2_counts_df["None"]/len(control2_df)]
+    print("control2", control2)
+
+    control3_df = pd.read_csv("graphs/control3.csv", error_bad_lines=False)
+    c3_counts_df = control3_df['label'].value_counts()
+    control3 = [c3_counts_df["Life"]/len(control3_df), c3_counts_df["Work"]/len(control3_df), c3_counts_df["None"]/len(control3_df)]
+    print("control3", control3)
+
+    lockdowns = ["Control for First Lockdown",
+                 "First Lockdown",
+                 "Control for Second Lockdown",
+                 "Second Lockdown",
+                 "Control for Third Lockdown",
+                 "Third Lockdown"]
+
+    values = {"Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
+              "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
+              "None": [control1[2], first_lockdown[2], control2[2], second_lockdown[2], control3[2], third_lockdown[2]]}
 
     # set width of bar
     barWidth = 0.25
 
-
     fig, ax = plt.subplots()
-    bottom = np.zeros(3)
-
+    bottom = np.zeros(6)
+    # print(lockdowns)
+    # print(values)
     for category, value in values.items():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
         bottom += value
 
-    ax.set_title("How much did nurses tweet about Life vs Work in each lockdown?")
+    ax.set_title("How much did nurses tweet about Life vs Work vs Neither in each lockdown?")
     ax.legend(loc="upper right")
 
 
@@ -226,8 +302,7 @@ def lockdown_Life_Work_None():
 
     plt.show()
 
-
-# lockdown_Life_Work_None()
+lockdown_Life_Work_None()
 
 def lockdown_topics_pie():
     categories = {0: "Good morning",
