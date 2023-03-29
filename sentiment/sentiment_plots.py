@@ -5,15 +5,15 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
-before1 = pd.read_csv("sentiment/csvs/before_first_lockdown.csv")
-during1 = pd.read_csv("sentiment/csvs/first_lockdown.csv")
-after1 = pd.read_csv("sentiment/csvs/after_first_lockdown.csv")
-before2 = pd.read_csv("sentiment/csvs/before_second_lockdown.csv")
-during2 = pd.read_csv("sentiment/csvs/second_lockdown.csv")
-after2 = pd.read_csv("sentiment/csvs/after_second_lockdown.csv")
-before3 = pd.read_csv("sentiment/csvs/before_third_lockdown.csv")
-during3 = pd.read_csv("sentiment/csvs/third_lockdown.csv")
-after3 = pd.read_csv("sentiment/csvs/after_third_lockdown.csv")
+before1 = pd.read_csv("sentiment/nurses_csvs/before_first_lockdown.csv")
+during1 = pd.read_csv("sentiment/nurses_csvs/first_lockdown.csv")
+after1 = pd.read_csv("sentiment/nurses_csvs/after_first_lockdown.csv")
+before2 = pd.read_csv("sentiment/nurses_csvs/before_second_lockdown.csv")
+during2 = pd.read_csv("sentiment/nurses_csvs/second_lockdown.csv")
+after2 = pd.read_csv("sentiment/nurses_csvs/after_second_lockdown.csv")
+before3 = pd.read_csv("sentiment/nurses_csvs/before_third_lockdown.csv")
+during3 = pd.read_csv("sentiment/nurses_csvs/third_lockdown.csv")
+after3 = pd.read_csv("sentiment/nurses_csvs/after_third_lockdown.csv")
 
 def get_freq_change(df1, df2):
     df1counts = df1['sentiment'].value_counts()

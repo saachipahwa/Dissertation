@@ -46,4 +46,4 @@ for i in freq['Topic']:
 freq['details'] = details_list
 print("6")
 
-freq.to_csv('test_topics.csv')
+freq.to_csv('nurse_test_topics.csv')
