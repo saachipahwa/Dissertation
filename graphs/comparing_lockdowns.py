@@ -211,8 +211,8 @@ def lockdown_Life_Work():
                  "Control for Third Lockdown",
                  "Third Lockdown"]
 
-    values = {"Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
-              "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]]}
+    values = { "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
+        "Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]]}
 
     # set width of bar
     barWidth = 0.25
@@ -225,7 +225,7 @@ def lockdown_Life_Work():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
         bottom += value
 
-    ax.set_title("How much did nurses tweet about Life vs Work in each lockdown (compared to the year prior)")
+    ax.set_title("How much did nurses tweet about Work vs Life in each lockdown (compared to the year prior)")
     ax.legend(loc="upper right")
 
 
@@ -276,9 +276,10 @@ def lockdown_Life_Work_None():
                  "Control for Third Lockdown",
                  "Third Lockdown"]
 
-    values = {"Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
+    values = {
               "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
-              "None": [control1[2], first_lockdown[2], control2[2], second_lockdown[2], control3[2], third_lockdown[2]]}
+                "Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
+              "Neither": [control1[2], first_lockdown[2], control2[2], second_lockdown[2], control3[2], third_lockdown[2]]}
 
     # set width of bar
     barWidth = 0.25
@@ -291,7 +292,7 @@ def lockdown_Life_Work_None():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
         bottom += value
 
-    ax.set_title("How much did nurses tweet about Life vs Work vs Neither in each lockdown?")
+    ax.set_title("How much did nurses tweet about Work vs Life vs Neither in each lockdown?")
     ax.legend(loc="upper right")
 
 

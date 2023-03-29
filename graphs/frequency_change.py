@@ -225,7 +225,8 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     br2 = [x + barWidth for x in br1]
 
     # Make the plot
-    print(df1_array)
+    print("df1 array", df1_array)
+    print("df2 array", df2_array)
     plt.bar(br1, df1_array, color =colour_label1, width = barWidth,
             edgecolor ='grey', label = f"{df1_label} the {which_lockdown} lockdown")
     plt.bar(br2, df2_array, color =colour_label2, width = barWidth,
@@ -242,10 +243,10 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.show()
 
 compare_topics(before1, during1, [0, 4, 6, 8, 9], 'First', 'Before', 'During', 'r', 'g')
-compare_topics(before2, during2, [0, 4, 6, 8, 9], 'Second', 'Before', 'During', 'r', 'g')
-compare_topics(before3, during3, [0, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
+# compare_topics(before2, during2, [0, 4, 6, 8, 9], 'Second', 'Before', 'During', 'r', 'g')
+# compare_topics(before3, during3, [0, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
 
 compare_topics(during1, after1, [0, 4, 6, 8, 9], 'First', 'During', 'After', 'g', 'b')
-compare_topics(during2, after2, [0, 4, 6, 8, 9], 'Second', 'During', 'After', 'g', 'b')
-compare_topics(during3, after3, [0, 4, 6, 8, 9], 'Third', 'During', 'After', 'g', 'b')
+# compare_topics(during2, after2, [0, 4, 6, 8, 9], 'Second', 'During', 'After', 'g', 'b')
+# compare_topics(during3, after3, [0, 4, 6, 8, 9], 'Third', 'During', 'After', 'g', 'b')
 
