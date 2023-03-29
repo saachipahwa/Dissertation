@@ -1,7 +1,5 @@
 import os
 import re
-import string
-
 import numpy as np
 import pandas as pd
 import nltk  # lib used for stop words
@@ -11,10 +9,6 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
-
-from langdetect import detect, detector_factory, detect_langs
-from nltk.probability import FreqDist
-from nltk.corpus import treebank
 
 
 # Text preprocessing
@@ -64,7 +58,7 @@ def remove_stopwords(text):
     return ' '.join(output)
 
 
-def remove_2char_words(text):
+def remove_3char_words(text):
     wordslist = text.split()
     output = [i for i in wordslist if not len(i) < 4]
     return ' '.join(output)
@@ -138,7 +132,7 @@ def check_repeated_tweets(df):
     boolean = df['id'].duplicated(keep='last') # True
     return df[~boolean]
 
-def text_preprocessing(directory="nursetweets"):
+def text_preprocessing(directory="teachertweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -193,7 +187,7 @@ def text_preprocessing(directory="nursetweets"):
             df['nouns'] = df['nouns'].apply(lambda x:remove_stopwords(str(x)))
 
             # #remove 2 char words
-            df['nouns'] = df['nouns'].apply(lambda x:remove_2char_words(str(x)))
+            df['nouns'] = df['nouns'].apply(lambda x:remove_3char_words(str(x)))
 
             #remove now empty tweets
             df['nouns'].replace('', np.nan, inplace=True)
