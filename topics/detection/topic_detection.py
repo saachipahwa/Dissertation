@@ -33,7 +33,7 @@ def get_embeddings(tweet_text):
     return sentence_model.encode(tweet_text, show_progress_bar=False)
 
 
-def get_topics_from(directory_name="doctortweets", embeddings=None, nr_topics=None, ngram_max=1):
+def get_topics_from(directory_name="teachertweets", embeddings=None, nr_topics=None, ngram_max=1):
     # set up model parameters
     topic_model = BERTopic(language="english",
                            calculate_probabilities=False,
