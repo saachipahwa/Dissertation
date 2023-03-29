@@ -59,25 +59,6 @@ def add_topic_label():
 
 # add_topic_label()
 
-#Getting sentiment
-def tokenize(text):
-    for match in re.finditer(r'\w+', text, re.UNICODE):
-        yield match.group(0)
-
-parse, category_names = liwc.load_token_parser('sentiment/LIWC2007_English080730.dic')
-
-def get_emotion(string):
-    # tokenize string
-    tokens = tokenize(string)
-    # now flatmap over all the categories in all the tokens using a generator:
-    counts = Counter(category for token in tokens for category in parse(token))
-
-    if counts['posemo']>counts['negemo']:
-        return 1 #positive
-    elif counts['posemo']==counts['negemo']:
-        return 0 #neither
-    else:
-        return 2 #negative
 
 def add_sentiment():
     docs = pd.read_csv("sentiment/docs_clean_text.csv")
