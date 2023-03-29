@@ -214,6 +214,11 @@ def lockdown_Life_Work():
     values = { "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
         "Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]]}
 
+    for i in range(0, len(values["Work"])):
+        values["Work"][i] = values["Work"][i] * 100
+    for j in range(0, len(values["Life"])):
+        values["Life"][j] = values["Life"][j] * 100
+
     # set width of bar
     barWidth = 0.25
 
@@ -235,7 +240,7 @@ def lockdown_Life_Work():
 
     plt.show()
 
-lockdown_Life_Work()
+# lockdown_Life_Work()
 
 def lockdown_Life_Work_None():
     # first lockdown
@@ -280,6 +285,12 @@ def lockdown_Life_Work_None():
               "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
                 "Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
               "Neither": [control1[2], first_lockdown[2], control2[2], second_lockdown[2], control3[2], third_lockdown[2]]}
+    for i in range(0, len(values["Work"])):
+        values["Work"][i] = values["Work"][i] * 100
+    for j in range(0, len(values["Life"])):
+        values["Life"][j] = values["Life"][j] * 100
+    for k in range(0, len(values["Neither"])):
+        values["Neither"][k] = values["Neither"][k] * 100
 
     # set width of bar
     barWidth = 0.25
@@ -302,7 +313,7 @@ def lockdown_Life_Work_None():
 
     plt.show()
 
-lockdown_Life_Work_None()
+# lockdown_Life_Work_None()
 
 def lockdown_topics_pie():
     categories = {0: "Good morning",
@@ -360,7 +371,7 @@ def lockdown_topics_bar():
     fl_counts_df = first_lockdown_df['Topic'].value_counts()
     first_lockdown=[]
     for i in [0,4,6,8,9]:
-        first_lockdown.append(fl_counts_df[i]/len(first_lockdown_df))
+        first_lockdown.append((fl_counts_df[i]/len(first_lockdown_df))*100)
     print("first", first_lockdown)
 
     #second lockdown
@@ -368,7 +379,7 @@ def lockdown_topics_bar():
     sl_counts_df = second_lockdown_df['Topic'].value_counts()
     second_lockdown=[]
     for i in [0,4,6,8,9]:
-        second_lockdown.append(sl_counts_df[i]/len(second_lockdown_df))
+        second_lockdown.append((sl_counts_df[i]/len(second_lockdown_df))*100)
     print("second", second_lockdown)
 
     #third lockdown
@@ -376,7 +387,7 @@ def lockdown_topics_bar():
     tl_counts_df = third_lockdown_df['Topic'].value_counts()
     third_lockdown=[]
     for i in [0,4,6,8,9]:
-        third_lockdown.append(tl_counts_df[i]/len(third_lockdown_df))
+        third_lockdown.append((tl_counts_df[i]/len(third_lockdown_df))*100)
     print("third", third_lockdown)
 
     # categories = ["0: Good morning",
@@ -413,11 +424,11 @@ def lockdown_topics_bar():
 
     # Adding Xticks
     plt.xlabel("Lockdown", fontweight ='bold', fontsize = 15)
-    plt.ylabel("Percentage of tweets on this topic", fontweight ='bold', fontsize = 15)
+    plt.ylabel("Percentage of tweets relating to this topic", fontweight ='bold', fontsize = 15)
     plt.xticks([r + barWidth for r in range(len(first_lockdown))],
                categories)
     plt.title("How much did nurses talk about each Home-life topic in each lockdown?")
     plt.legend()
     plt.show()
 
-# lockdown_topics_bar()
+lockdown_topics_bar()
