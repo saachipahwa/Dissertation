@@ -189,18 +189,18 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     df1_counts = df1['Topic'].value_counts()
     df1_array=[]
     for i in topics:
-        df1_array.append(df1_counts[i]/len(df1))
+        df1_array.append((df1_counts[i]/len(df1))*100)
     print("df1", df1)
 
     df2_counts = df2['Topic'].value_counts()
     df2_array=[]
     for j in topics:
-        df2_array.append(df2_counts[j]/len(df2))
+        df2_array.append((df2_counts[j]/len(df2))*100)
     print("df2", df2)
 
     #add work at end
-    df1_array.append(df1_counts[2]/len(df1))
-    df2_array.append(df2_counts[2]/len(df2))
+    df1_array.append((df1_counts[2]/len(df1))*100)
+    df2_array.append((df2_counts[2]/len(df2))*100)
 
     all_categories = ["Good morning",
                   "Thank you's",
@@ -243,10 +243,10 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.show()
 
 compare_topics(before1, during1, [0, 4, 6, 8, 9], 'First', 'Before', 'During', 'r', 'g')
-# compare_topics(before2, during2, [0, 4, 6, 8, 9], 'Second', 'Before', 'During', 'r', 'g')
-# compare_topics(before3, during3, [0, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
+compare_topics(before2, during2, [0, 4, 6, 8, 9], 'Second', 'Before', 'During', 'r', 'g')
+compare_topics(before3, during3, [0, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
 
 compare_topics(during1, after1, [0, 4, 6, 8, 9], 'First', 'During', 'After', 'g', 'b')
-# compare_topics(during2, after2, [0, 4, 6, 8, 9], 'Second', 'During', 'After', 'g', 'b')
-# compare_topics(during3, after3, [0, 4, 6, 8, 9], 'Third', 'During', 'After', 'g', 'b')
+compare_topics(during2, after2, [0, 4, 6, 8, 9], 'Second', 'During', 'After', 'g', 'b')
+compare_topics(during3, after3, [0, 4, 6, 8, 9], 'Third', 'During', 'After', 'g', 'b')
 

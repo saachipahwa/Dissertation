@@ -431,4 +431,4 @@ def lockdown_topics_bar():
     plt.legend()
     plt.show()
 
-lockdown_topics_bar()
+# lockdown_topics_bar()
