@@ -11,7 +11,7 @@ directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
 directory_index = 2
 directory = directories[directory_index]
-
+profession = "teacher"
 # print function
 
 
@@ -20,12 +20,12 @@ def print_topic_words(model):
         print('topic {}:'.format(i), model.get_topic(i))
 
 
-def make_csv():
+def make_csv(path):
     # set up evaluation spreadsheet
     evaluation_df = pd.DataFrame(columns=[
                                  'nr_topics', 'ngram upper limit', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
     evaluation_df.set_index('nr_topics')
-    evaluation_df.to_csv("Dissertation/topics/topic_evaluation.csv")
+    evaluation_df.to_csv(path)
     print("set up evaluation csv")
     return evaluation_df
 
@@ -64,9 +64,7 @@ def get_words_from_model(model):
     return list_of_word_lists
 
 
-make_csv()
-
-evaluation_df = make_csv()
+evaluation_df = make_csv(path="Dissertation/topics/{}_docs/topic_evaluation.csv".format(profession))
 tweet_text = get_tweets()
 
 
@@ -99,7 +97,7 @@ for nr_topics in [5,10,15,20]:
     evaluation_df.loc[len(evaluation_df)] = [
         nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
 
-evaluation_df.to_csv("Dissertation/topics/new_topic_evaluation.csv")
+evaluation_df.to_csv("Dissertation/topics/{}_docs/topic_evaluation.csv".format(profession))
 
 
 # load models
