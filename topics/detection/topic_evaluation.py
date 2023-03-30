@@ -23,7 +23,7 @@ def print_topic_words(model):
 def make_csv(path):
     # set up evaluation spreadsheet
     evaluation_df = pd.DataFrame(columns=[
-                                 'nr_topics', 'ngram upper limit', 'topic_diversity', 'KL_uniform', 'KL_vacuous', 'KL_background'])
+                                 'nr_topics',  'topic_diversity', 'KL_uniform'])
     evaluation_df.set_index('nr_topics')
     evaluation_df.to_csv(path)
     print("set up evaluation csv")
@@ -72,7 +72,6 @@ def get_embeddings():
     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
     return sentence_model.encode(tweet_text, show_progress_bar=False)
 
-
 embeddings = get_embeddings()
 
 # initialise metrics
@@ -80,7 +79,6 @@ TD_metric = TopicDiversity(topk=10)
 KLu_metric = KL_uniform()
 KLv_metric = KL_vacuous()
 KLb_metric = KL_background()
-
 
 nr_topics = 10
 ul_ngram = 1
@@ -93,9 +91,9 @@ for nr_topics in [5,10,15,20]:
     predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
     model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(),
                     'topic-document-matrix': model_doc_matrix}
-    KL_scores = [KLu_metric.score(model_matrix), 0, 0]
+    KL_score = KLu_metric.score(model_matrix)
     evaluation_df.loc[len(evaluation_df)] = [
-        nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
+        nr_topics , TD_score, KL_score]
 
 evaluation_df.to_csv("Dissertation/topics/{}_docs/topic_evaluation.csv".format(profession))
 
