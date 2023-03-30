@@ -1,8 +1,8 @@
 ,Topic,Count,Name,details,Topic name,Topic label,Representative tweets
 0,-1,103443,-1_school_time_year_people,"['school', 'time', 'year', 'people', 'child', 'teacher', 'today', 'thing', 'week', 'work']",,,
-1,0,2168,0_tory_johnson_election_party,"['tory', 'johnson', 'election', 'party', 'boris', 'vote', 'labour', 'starmer', 'pension', 'truss']",,,
-2,1,2102,1_tweet_twitter_account_people,"['tweet', 'twitter', 'account', 'people', 'reply', 'follower', 'response', 'hashtag', 'timeline', 'parody']",,,
-3,2,1667,2_birthday_hope_toilet_step,"['birthday', 'hope', 'toilet', 'step', 'festival', 'season', 'wish', 'madness', 'time', 'boat']",,,
+1,0,2168,0_tory_johnson_election_party,"['tory', 'johnson', 'election', 'party', 'boris', 'vote', 'labour', 'starmer', 'pension', 'truss']",British Politics,Life,"[""This doesn’t look good for Truss."", ""Facts: The Law is the Law. No one is above the law -except Boris Johnson."", ""With Hannibal Johnson safe in his job for now, the Tory party can carry on devouring itself""]"
+2,1,2102,1_tweet_twitter_account_people,"['tweet', 'twitter', 'account', 'people', 'reply', 'follower', 'response', 'hashtag', 'timeline', 'parody']",Twitter activity,Life,"[""I seem to have woken up to an influx of new followers so just wanted to say hiya!"", ""Thank you for your lovely comment too!"", ""I had to check. This isn’t the Parody account.""] "
+3,2,1667,2_birthday_hope_toilet_step,"['birthday', 'hope', 'toilet', 'step', 'festival', 'season', 'wish', 'madness', 'time', 'boat']","Happy birthday, ",,
 4,3,1453,3_thank_kind_thanks_look,"['thank', 'kind', 'thanks', 'look', 'time', 'goodness', 'people', 'others', 'credit', 'piece']",,,
 5,4,1325,4_academy_government_trust_solidarity,"['academy', 'government', 'trust', 'solidarity', 'school', 'community', 'privatisation', 'council', 'privatization', 'academisation']",,,
 6,5,1239,5_prince_duke_duchess_photograph,"['prince', 'duke', 'duchess', 'photograph', 'celebration', 'queen', 'princess', 'jeffrey', 'virginia', 'cornwall']",,,
