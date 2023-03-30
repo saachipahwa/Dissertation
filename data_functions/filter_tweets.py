@@ -129,7 +129,9 @@ def remove_empty_tweets(directory="nursetweets"):
 
 
 def remove_one_noun_tweets(df):
-    df['one_noun'] =  df['nouns'].apply(lambda x: str(True if len(x.split())==1 else False))
+    df['one_noun'] = df['nouns'].apply(lambda x: str(True if len(x.split())==1 else False))
+    df = df[df['one_noun'].str.contains('False') == True]
+    df = df.drop('one_noun', axis=1)
     return df
 
 def check_repeated_tweets(df):
@@ -193,6 +195,7 @@ def text_preprocessing(directory="teachertweets"):
             # #remove 2 char words
             df['nouns'] = df['nouns'].apply(lambda x:remove_3char_words(str(x)))
 
+            df = remove_one_noun_tweets(df)
             #remove now empty tweets
             df['nouns'].replace('', np.nan, inplace=True)
             df.dropna(subset=['nouns'], inplace=True)
