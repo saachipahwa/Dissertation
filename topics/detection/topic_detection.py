@@ -65,7 +65,7 @@ def get_topics_from(directory_name="teachertweets", embeddings=None, nr_topics=N
 
     freq['details'] = details_list
     freq.to_csv(
-        'Dissertation/topics/{}_topics_{}_{}.csv'.format(directory_name, nr_topics, ngram_max))
+        'Dissertation/topics/{}_docs/{}_topics_{}_{}.csv'.format(profession_name, directory_name, nr_topics, ngram_max))
     print("info saved to csv")
 
     return topic_model
@@ -98,7 +98,7 @@ model_5 = get_topics_from(
     directory_name=directory_name, embeddings=embeddings, nr_topics=5, ngram_max=1)
 
 print("getting topics ", "10")
-model_10= get_topics_from(directory_name=directory_name,  embeddings=embeddings, nr_topics=10, ngram_max=1)
+model_10 = get_topics_from(directory_name=directory_name,  embeddings=embeddings, nr_topics=10, ngram_max=1)
 
 print("getting topics ", "15")
 model_15 = get_topics_from(
