@@ -128,6 +128,10 @@ def remove_empty_tweets(directory="nursetweets"):
             df.to_csv(f, index=False)
 
 
+def remove_one_noun_tweets(df):
+    df['one_noun'] =  df['nouns'].apply(lambda x: str(True if len(x.split())==1 else False))
+    return df
+
 def check_repeated_tweets(df):
     boolean = df['id'].duplicated(keep='last') # True
     return df[~boolean]
