@@ -106,7 +106,7 @@ model_15 = get_topics_from(
 
 print("getting topics ", "20")
 model_20 = get_topics_from(
-    directory_name="directory_name",  embeddings=embeddings, nr_topics=20, ngram_max=1)
+    directory_name=directory_name,  embeddings=embeddings, nr_topics=20, ngram_max=1)
 
 model5_docs = pd.DataFrame.from_dict(pad_out_dict(model_5.get_representative_docs())).sort_index(axis=1)
 model5_docs.to_csv(f'Dissertation/topics/{profession_name}_docs/5.csv')
