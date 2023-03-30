@@ -4,7 +4,6 @@ import pandas as pd
 from bertopic import BERTopic
 
 
-
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
     for filename in os.listdir("Dissertation/"+directory):
@@ -15,22 +14,22 @@ def get_all_tweets(directory=None):
     return df
 
 
-def get_docs_topics():
-    model = BERTopic.load("nursetweets_10_1_model")
-    df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
-    df["original_text"] = get_all_tweets("nursetweets")['text']
-    df.to_csv("Dissertation/topics/docs_topics.csv")
+def get_docs_topics(modelname, directory, profession):
+    model = BERTopic.load(modelname)
+    df = model.get_document_info(get_all_tweets(directory)['nouns'])
+    df["original_text"] = get_all_tweets(directory)['text']
+    df.to_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
 
 
-# get_docs_topics()
+get_docs_topics(modelname="teachertweets_15_1_model", directory="teachertweets", profession="teacher")
 
 
-def get_sample_tweets():
-    df = pd.read_csv("topics/docs_topics.csv")
+def get_sample_tweets(profession):
+    df = pd.read_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
     for i in range(-1, 10):
         df_topic = df[df['Topic'] == i]
         df_topic = df_topic.sample(n=40, replace=False, random_state=1)
         df_topic.to_csv(
-            "topics/samples/topic_{}_sample.csv".format(i))
+            "Dissertation/topics/{}_docs/samples/topic_{}_sample.csv".format(profession, i))
 
-get_sample_tweets()
+get_sample_tweets(profession="teacher")
