@@ -9,7 +9,8 @@ from sentence_transformers import SentenceTransformer
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 0
+directory_index = 2
+directory = directories[directory_index]
 
 # print function
 
@@ -85,16 +86,18 @@ KLb_metric = KL_background()
 
 nr_topics = 10
 ul_ngram = 1
-model = BERTopic.load("nursetweets_{}_{}_model".format(nr_topics, ul_ngram))
-model_dict = {"topics": get_words_from_model(model)}
-TD_score = TD_metric.score(model_dict)
 
-predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
-model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(),
-                'topic-document-matrix': model_doc_matrix}
-KL_scores = [KLu_metric.score(model_matrix), 0, 0]
-evaluation_df.loc[len(evaluation_df)] = [
-    nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
+for nr_topics in [5,10,15,20]:
+    model = BERTopic.load("{}_{}_{}_model".format(directory, nr_topics, ul_ngram))
+    model_dict = {"topics": get_words_from_model(model)}
+    TD_score = TD_metric.score(model_dict)
+
+    predictions, model_doc_matrix = model.transform(tweet_text, embeddings)
+    model_matrix = {"topic-word-matrix": model.c_tf_idf_.toarray(),
+                    'topic-document-matrix': model_doc_matrix}
+    KL_scores = [KLu_metric.score(model_matrix), 0, 0]
+    evaluation_df.loc[len(evaluation_df)] = [
+        nr_topics, ul_ngram, TD_score, KL_scores[0], KL_scores[1], KL_scores[2]]
 
 evaluation_df.to_csv("Dissertation/topics/new_topic_evaluation.csv")
 
