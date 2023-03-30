@@ -1,12 +1,12 @@
-,Topic,Count,Name,details,Topic name,Topic label,Representative tweets
-0,-1,103443,-1_school_time_year_people,"['school', 'time', 'year', 'people', 'child', 'teacher', 'today', 'thing', 'week', 'work']",,,
-1,0,2168,0_tory_johnson_election_party,"['tory', 'johnson', 'election', 'party', 'boris', 'vote', 'labour', 'starmer', 'pension', 'truss']",British Politics,Life,"[""This doesn’t look good for Truss."", ""Facts: The Law is the Law. No one is above the law -except Boris Johnson."", ""With Hannibal Johnson safe in his job for now, the Tory party can carry on devouring itself""]"
-2,1,2102,1_tweet_twitter_account_people,"['tweet', 'twitter', 'account', 'people', 'reply', 'follower', 'response', 'hashtag', 'timeline', 'parody']",Twitter activity,Life,"[""I seem to have woken up to an influx of new followers so just wanted to say hiya!"", ""Thank you for your lovely comment too!"", ""I had to check. This isn’t the Parody account.""] "
-3,2,1667,2_birthday_hope_toilet_step,"['birthday', 'hope', 'toilet', 'step', 'festival', 'season', 'wish', 'madness', 'time', 'boat']","Happy birthday, ",,
-4,3,1453,3_thank_kind_thanks_look,"['thank', 'kind', 'thanks', 'look', 'time', 'goodness', 'people', 'others', 'credit', 'piece']",,,
-5,4,1325,4_academy_government_trust_solidarity,"['academy', 'government', 'trust', 'solidarity', 'school', 'community', 'privatisation', 'council', 'privatization', 'academisation']",,,
-6,5,1239,5_prince_duke_duchess_photograph,"['prince', 'duke', 'duchess', 'photograph', 'celebration', 'queen', 'princess', 'jeffrey', 'virginia', 'cornwall']",,,
-7,6,1201,6_mask_virus_face_pandemic,"['mask', 'virus', 'face', 'pandemic', 'school', 'flight', 'ventilation', 'detention', 'people', 'infection']",,,
-8,7,1120,7_money_funding_school_cost,"['money', 'funding', 'school', 'cost', 'budget', 'crisis', 'loan', 'debt', 'fund', 'pledge']",,,
-9,8,1115,8_photo_paper_picture_camera,"['photo', 'paper', 'picture', 'camera', 'image', 'bridge', 'slide', 'poster', 'strength', 'lego']",,,
-10,9,1075,9_congratulation_colleague_news_order,"['congratulation', 'colleague', 'news', 'order', 'privilege', 'mark', 'blue', 'star', 'congrats', 'quality']",,,
+,Topic,Count,Name,details
+0,-1,101914,-1_school_time_year_people,"['school', 'time', 'year', 'people', 'child', 'teacher', 'thing', 'week', 'today', 'work']"
+1,0,1879,0_tory_labour_party_pension,"['tory', 'labour', 'party', 'pension', 'vote', 'election', 'donation', 'people', 'socialism', 'chip']"
+2,1,1675,1_prince_birthday_duke_duchess,"['prince', 'birthday', 'duke', 'duchess', 'celebration', 'photograph', 'queen', 'princess', 'majesty', 'virginia']"
+3,2,1461,2_tweet_twitter_account_appointment,"['tweet', 'twitter', 'account', 'appointment', 'reply', 'follower', 'response', 'parody', 'timeline', 'people']"
+4,3,1385,3_congratulation_order_colleague_news,"['congratulation', 'order', 'colleague', 'news', 'privilege', 'mark', 'star', 'congrats', 'smile', 'metaphor']"
+5,4,1365,4_bird_enjoy_today_theme,"['bird', 'enjoy', 'today', 'theme', 'butterfly', 'shot', 'insect', 'flight', 'image', 'garden']"
+6,5,1302,5_book_daughter_author_girl,"['book', 'daughter', 'author', 'girl', 'illustrator', 'list', 'name', 'teeth', 'wood', 'dentist']"
+7,6,1301,6_money_funding_school_cost,"['money', 'funding', 'school', 'cost', 'budget', 'crisis', 'loan', 'debt', 'fund', 'pocket']"
+8,7,1228,7_thank_thanks_kind_goodness,"['thank', 'thanks', 'kind', 'goodness', 'time', 'touch', 'pleasure', 'team', 'credit', 'glad']"
+9,8,1063,8_news_family_thought_prayer,"['news', 'family', 'thought', 'prayer', 'bless', 'strength', 'thinking', 'cousin', 'recovery', 'cancer']"
+10,9,1059,9_holiday_bank_load_food,"['holiday', 'bank', 'load', 'food', 'recruitment', 'journalist', 'excuse', 'workload', 'amazon', 'people']"
