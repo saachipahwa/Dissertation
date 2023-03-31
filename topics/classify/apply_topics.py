@@ -21,7 +21,7 @@ def get_docs_topics(modelname, directory, profession):
     df.to_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
 
 
-get_docs_topics(modelname="teachertweets_10_1_model", directory="teachertweets", profession="teacher")
+get_docs_topics(modelname="journalisttweets_10_1_model", directory="journalisttweets", profession="teacher")
 
 
 def get_sample_tweets(profession):
@@ -32,4 +32,4 @@ def get_sample_tweets(profession):
         df_topic.to_csv(
             "Dissertation/topics/{}_docs/samples/topic_{}_sample.csv".format(profession, i))
 
-get_sample_tweets(profession="teacher")
+get_sample_tweets(profession="journalist")
