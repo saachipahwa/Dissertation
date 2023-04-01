@@ -138,7 +138,7 @@ def check_repeated_tweets(df):
     boolean = df['id'].duplicated(keep='last') # True
     return df[~boolean]
 
-def text_preprocessing(directory="musiciantweets"):
+def text_preprocessing(directory="railtweets"):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
