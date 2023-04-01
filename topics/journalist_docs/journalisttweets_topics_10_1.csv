@@ -1,12 +1,12 @@
-,Topic,Count,Name,details
-0,-1,106592,-1_people_time_year_thing,"['people', 'time', 'year', 'thing', 'today', 'news', 'week', 'thanks', 'game', 'work']"
-1,0,1913,0_thank_thanks_story_kind,"['thank', 'thanks', 'story', 'kind', 'time', 'support', 'chris', 'timeline', 'kindness', 'year']"
-2,1,1382,1_tweet_twitter_people_account,"['tweet', 'twitter', 'people', 'account', 'time', 'hashtag', 'reply', 'thing', 'year', 'gardai']"
-3,2,1332,2_food_lunch_restaurant_dinner,"['food', 'lunch', 'restaurant', 'dinner', 'meal', 'animal', 'order', 'chicken', 'delivery', 'supermarket']"
-4,3,1126,3_woman_trans_toilet_gender,"['woman', 'trans', 'toilet', 'gender', 'people', 'violence', 'culture', 'rape', 'queer', 'abuse']"
-5,4,1027,4_health_pain_doctor_patient,"['health', 'pain', 'doctor', 'patient', 'appointment', 'cancer', 'hospital', 'symptom', 'relief', 'nurse']"
-6,5,968,5_ireland_belfast_dublin_psni,"['ireland', 'belfast', 'dublin', 'psni', 'diversity', 'derry', 'match', 'fein', 'year', 'celebrity']"
-7,6,909,6_vaccine_virus_vaccination_covid,"['vaccine', 'virus', 'vaccination', 'covid', 'people', 'booster', 'pfizer', 'risk', 'week', 'tweeps']"
-8,7,900,7_tory_vote_seat_election,"['tory', 'vote', 'seat', 'election', 'cent', 'share', 'labour', 'council', 'party', 'byelection']"
-9,8,823,8_police_crime_murder_officer,"['police', 'crime', 'murder', 'officer', 'hate', 'speech', 'arrest', 'incident', 'death', 'investigation']"
-10,9,817,9_photo_photographer_photography_camera,"['photo', 'photographer', 'photography', 'camera', 'image', 'photograph', 'picture', 'photojournalist', 'photojournalism', 'gaze']"
+,Topic,Count,Name,details,Topic_name,Topic_label,Representative tweets
+0,-1,106592,-1_people_time_year_thing,"['people', 'time', 'year', 'thing', 'today', 'news', 'week', 'thanks', 'game', 'work']",,,
+1,0,1913,0_thank_thanks_story_kind,"['thank', 'thanks', 'story', 'kind', 'time', 'support', 'chris', 'timeline', 'kindness', 'year']",Thank you's,,"[""You are so kind, thank you!! X"", ""Thank you, that's very kind 😊"", ""Awww thank you""] "
+2,1,1382,1_tweet_twitter_people_account,"['tweet', 'twitter', 'people', 'account', 'time', 'hashtag', 'reply', 'thing', 'year', 'gardai']",Twitter activity,,"[""Why share that awful hashtag?"", ""Appreciate Twitter is the opposite of good forum for this but the growing disconnect between how ""debates"" are framed online and how people in the country are even thinking (let alone talking) about certain topics is simply bananas""]"
+3,2,1332,2_food_lunch_restaurant_dinner,"['food', 'lunch', 'restaurant', 'dinner', 'meal', 'animal', 'order', 'chicken', 'delivery', 'supermarket']",Meals and animals,,"[""Indian takeaways the place for curry 🥘"", ""lookin good!! Vegan POWER!"", ""Posting animal cruelty for likes. Classy.""] "
+4,3,1126,3_woman_trans_toilet_gender,"['woman', 'trans', 'toilet', 'gender', 'people', 'violence', 'culture', 'rape', 'queer', 'abuse']",Abuse against women and queer/trans people,,"[""It can also be a barrier for women fleeing domestic violence who need to find accomodation quickly."", ""That hateful transphobia was 'just resting in his account'. Good riddance."", ""She was called “attention seeking"" Serious failings' over handling of 12 year-old girl's rape case 'covered up' #EndViolenceAgainstWomen https://t.co/oSR8nwTVAy""] "
+5,4,1027,4_health_pain_doctor_patient,"['health', 'pain', 'doctor', 'patient', 'appointment', 'cancer', 'hospital', 'symptom', 'relief', 'nurse']",Illness and medicines,,"[""So great to see a dedicated research fund for vulval cancer"", ""Beta blockers and painkillers- snd fingers crossed it will improve in time- maybe when vaccinated? 🤷‍♀️""]"
+6,5,968,5_ireland_belfast_dublin_psni,"['ireland', 'belfast', 'dublin', 'psni', 'diversity', 'derry', 'match', 'fein', 'year', 'celebrity']",Ireland and football,,
+7,6,909,6_vaccine_virus_vaccination_covid,"['vaccine', 'virus', 'vaccination', 'covid', 'people', 'booster', 'pfizer', 'risk', 'week', 'tweeps']",,,
+8,7,900,7_tory_vote_seat_election,"['tory', 'vote', 'seat', 'election', 'cent', 'share', 'labour', 'council', 'party', 'byelection']",,,
+9,8,823,8_police_crime_murder_officer,"['police', 'crime', 'murder', 'officer', 'hate', 'speech', 'arrest', 'incident', 'death', 'investigation']",,,
+10,9,817,9_photo_photographer_photography_camera,"['photo', 'photographer', 'photography', 'camera', 'image', 'photograph', 'picture', 'photojournalist', 'photojournalism', 'gaze']",,,
