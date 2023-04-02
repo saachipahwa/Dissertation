@@ -1,7 +1,7 @@
 ,Topic,Count,Name,details
-0,-1,106101,-1_people_time_year_thing,"['people', 'time', 'year', 'thing', 'today', 'week', 'woman', 'game', 'thanks', 'home']"
-1,0,3559,0_news_journalist_journalism_story,"['news', 'journalist', 'journalism', 'story', 'newspaper', 'press', 'headline', 'medium', 'editor', 'reporter']"
-2,1,2148,1_thank_thanks_hope_kind,"['thank', 'thanks', 'hope', 'kind', 'smile', 'hello', 'love', 'comment', 'follower', 'story']"
-3,2,1720,2_food_lunch_restaurant_dinner,"['food', 'lunch', 'restaurant', 'dinner', 'meal', 'breakfast', 'chicken', 'pizza', 'cheese', 'cream']"
-4,3,1249,3_tweet_twitter_politician_account,"['tweet', 'twitter', 'politician', 'account', 'troll', 'people', 'chris', 'politics', 'medium', 'timeline']"
-5,4,1063,4_video_song_flower_dream,"['video', 'song', 'flower', 'dream', 'mother', 'bread', 'music', 'meat', 'stone', 'review']"
+0,-1,103058,-1_people_time_year_today,"['people', 'time', 'year', 'today', 'thing', 'week', 'news', 'woman', 'story', 'thanks']"
+1,0,2238,0_tweet_twitter_cheer_account,"['tweet', 'twitter', 'cheer', 'account', 'people', 'timeline', 'cream', 'psni', 'time', 'chris']"
+2,1,2059,1_congratulation_family_hope_thanks,"['congratulation', 'family', 'hope', 'thanks', 'congrats', 'thank', 'news', 'sorry', 'time', 'hello']"
+3,2,1202,2_thank_moment_thanks_kind,"['thank', 'moment', 'thanks', 'kind', 'animal', 'support', 'response', 'word', 'spirit', 'time']"
+4,3,978,3_food_lunch_dinner_restaurant,"['food', 'lunch', 'dinner', 'restaurant', 'golf', 'meal', 'inflation', 'price', 'chef', 'people']"
+5,4,973,4_book_writer_author_follower,"['book', 'writer', 'author', 'follower', 'reader', 'bookshop', 'sensitivity', 'disability', 'year', 'reading']"
