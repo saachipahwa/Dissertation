@@ -24,12 +24,12 @@ def get_docs_topics(modelname, directory, profession):
 get_docs_topics(modelname="journalisttweets_15_1_model", directory="journalisttweets", profession="journalist")
 
 
-def get_sample_tweets(profession):
+def get_sample_tweets(profession, nr_topics):
     df = pd.read_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
-    for i in range(-1, 10):
+    for i in range(-1, nr_topics):
         df_topic = df[df['Topic'] == i]
         df_topic = df_topic.sample(n=40, replace=False, random_state=1)
         df_topic.to_csv(
             "Dissertation/topics/{}_docs/samples/topic_{}_sample.csv".format(profession, i))
 
-get_sample_tweets(profession="journalist")
+get_sample_tweets(profession="journalist", nr_topics=15)
