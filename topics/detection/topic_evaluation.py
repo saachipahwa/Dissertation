@@ -35,7 +35,7 @@ def get_all_tweets(directory=None):
     for filename in os.listdir("Dissertation/"+directory):
         f = os.path.join("Dissertation/"+directory, filename)
         print(f)
-        user_df = pd.read_csv(f, index_col=0)
+        user_df = pd.read_csv(f, index_col=0, error_bad_lines=False)
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
