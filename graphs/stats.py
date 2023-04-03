@@ -8,7 +8,7 @@ import pandas as pd
 #get mean number of tweets
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 0
+directory_index = 2
 
 def get_mean(directory="Dissertation/"+directories[directory_index]):
     df = pd.DataFrame()
@@ -55,4 +55,4 @@ def get_variance(directory=directories[directory_index]):
     print("var per day", var/1308)
 
 
-# get_variance()
+get_variance()

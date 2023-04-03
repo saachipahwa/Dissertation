@@ -4,6 +4,13 @@ import os
 import numpy as np
 from matplotlib import pyplot as plt
 
+directories = ["nursetweets", "doctortweets", "teachertweets",
+               "railtweets", "journalisttweets", "musiciantweets"]
+directory_index = 2
+directory_name = directories[directory_index]
+profession_name = "teacher"
+nr_topics = 10
+
 def get_all_tweets(directory=None):
     directory = "Dissertation/"+directory #remove when running locally
     df = pd.DataFrame()
@@ -14,43 +21,42 @@ def get_all_tweets(directory=None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-def get_topics_with_dates():
-    model = BERTopic.load("nursetweets_10_1_model")
-    df = model.get_document_info(get_all_tweets("nursetweets")['nouns'])
-    df["original_text"] = get_all_tweets("nursetweets")['text']
-    df["created_at"] = get_all_tweets("nursetweets")['created_at']
+def get_topics_with_dates(path = f"Dissertation/graphs/{profession_name}s/topics_with_dates.csv"):
+    model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
+    df = model.get_document_info(get_all_tweets(directory_name)['nouns'])
+    df["original_text"] = get_all_tweets(directory_name)['text']
+    df["created_at"] = get_all_tweets(directory_name)['created_at']
+    df.to_csv(path)
 
-    df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+get_topics_with_dates()
 
-
-# get_topics_with_dates()
-
-def add_topic_label():
-    df = pd.read_csv("graphs/topics_with_dates.csv")
+def add_topic_label(path = f"Dissertation/graphs/{profession_name}s/topics_with_dates.csv"):
+    df = pd.read_csv(path)
     conditions = [
-        (df['Topic'] == 2),
+        (df['Topic'] == 1 | df['Topic'] == 7),
         (df['Topic'] == -1)
     ]
     values = ["Work", "None"]
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
-    df.to_csv("graphs/topics_with_dates.csv")
+    df.to_csv(path)
     print(df.head())
 
-# add_topic_label()
+add_topic_label()
 
-def reset_index(path = "Dissertation/graphs/topics_with_dates.csv"):
+def reset_index(path = f"Dissertation/graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
     df.sort_values(by='created_at', inplace=True)
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
 
+reset_index()
 
 def top_terms():
-    model = BERTopic.load("nursetweets_10_1_model_old")
+    model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
     print(model.get_topic_info())
-    fig = model.visualize_barchart(topics=[0,1,3,4,5,6,7,8,9], n_words = 5)    
+    fig = model.visualize_barchart(topics=[0,2,3,4,5,6,8,9], n_words = 5)
     fig.show()
 
 top_terms()
