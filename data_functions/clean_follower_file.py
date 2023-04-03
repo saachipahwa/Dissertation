@@ -1,9 +1,9 @@
 import os
 import pandas as pd
 
-directory = "journalisttweets"
-followers_df_name = "data/filteredNUJfollowers.csv"
-followers_df = pd.read_csv(followers_df_name)
+directory = "teachertweets"
+followers_df_name = "data/filteredNEUfollowers.csv"
+followers_df = pd.read_csv(followers_df_name, error_bad_lines=False)
 count_removed = 0
 
 for index, row in followers_df.iterrows():
