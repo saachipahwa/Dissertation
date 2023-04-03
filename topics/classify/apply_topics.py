@@ -19,7 +19,6 @@ def get_all_tweets(directory=None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-
 def get_docs_topics(modelname, directory, profession):
     model = BERTopic.load(modelname)
     df = model.get_document_info(get_all_tweets(directory)['nouns'])
@@ -27,8 +26,7 @@ def get_docs_topics(modelname, directory, profession):
     df.to_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
 
 
-get_docs_topics(modelname="{}_{}_1".format(directory, nr_topics), directory=directory, profession=profession)
-
+get_docs_topics(modelname="{}_{}_1_model".format(directory, nr_topics), directory=directory, profession=profession)
 
 def get_sample_tweets(profession, nr_topics):
     df = pd.read_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
