@@ -28,30 +28,31 @@ def get_topics_with_dates(path = f"Dissertation/graphs/{profession_name}s/topics
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(path)
 
-get_topics_with_dates()
+# get_topics_with_dates()
 
-def add_topic_label(path = f"Dissertation/graphs/{profession_name}s/topics_with_dates.csv"):
+def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
     conditions = [
-        (df['Topic'] == 1 | df['Topic'] == 7),
+        (df['Topic'] == 1),
+        (df['Topic'] == 7),
         (df['Topic'] == -1)
     ]
-    values = ["Work", "None"]
+    values = ["Work", "Work", "None"]
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
     df.to_csv(path)
     print(df.head())
 
-add_topic_label()
+# add_topic_label()
 
-def reset_index(path = f"Dissertation/graphs/{profession_name}s/topics_with_dates.csv"):
+def reset_index(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
     df.sort_values(by='created_at', inplace=True)
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
 
-reset_index()
+# reset_index()
 
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
@@ -59,7 +60,7 @@ def top_terms():
     fig = model.visualize_barchart(topics=[0,2,3,4,5,6,8,9], n_words = 5)
     fig.show()
 
-top_terms()
+# top_terms()
 
 
 
