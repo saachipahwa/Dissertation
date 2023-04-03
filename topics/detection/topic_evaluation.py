@@ -9,9 +9,9 @@ from sentence_transformers import SentenceTransformer
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 3
+directory_index = 2
 directory = directories[directory_index]
-profession = "railworker"
+profession = "teacher"
 # print function
 
 

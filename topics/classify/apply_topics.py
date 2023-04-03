@@ -3,9 +3,12 @@ import os
 import pandas as pd
 from bertopic import BERTopic
 
+directories = ["nursetweets", "doctortweets", "teachertweets",
+               "railtweets", "journalisttweets", "musiciantweets"]
+directory_index = 2
+directory = directories[directory_index]
+profession = "teacher"
 nr_topics = 10
-directory = "railtweets"
-profession = "railworker"
 
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
