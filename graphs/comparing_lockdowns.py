@@ -5,6 +5,13 @@ import numpy as np
 
 from matplotlib import pyplot as plt
 
+directories = ["nursetweets", "doctortweets", "teachertweets",
+               "railtweets", "journalisttweets", "musiciantweets"]
+directory_index = 2
+directory_name = directories[directory_index]
+profession_name = "teacher"
+nr_topics = 10
+
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
     for filename in os.listdir(directory):
@@ -14,191 +21,190 @@ def get_all_tweets(directory=None):
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
-
 def get_before_lockdown():
-    df = pd.read_csv("graphs/topics_with_dates.csv")
+    df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
 
-    #get index range for 46 days before first lockdown 
-    # df_startdate = df[df['created_at'].str.match("2020-02-09")] 
+    # #get index range for 46 days before first lockdown
+    # df_startdate = df[df['created_at'].str.match("2020-02-09")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2020-03-25")]
     # print(df_enddate)
-
-    # make docs csv of first lockdown 8938 to 10838
-    before_first_lockdown = df.iloc[8938:10839]
-    before_first_lockdown.to_csv("graphs/before_first_lockdown.csv")
-
-    #get index range for 27 days before second lockdown 
-    # df_startdate = df[df['created_at'].str.match("2020-10-09")] 
+    #
+    # #get index range for 27 days before second lockdown
+    # df_startdate = df[df['created_at'].str.match("2020-10-09")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2020-11-04")]
     # print(df_enddate)
-
-    # make docs csv of second lockdown 23578 to 25516
-    before_second_lockdown = df.iloc[23578:25517]
-    before_second_lockdown.to_csv("graphs/before_second_lockdown.csv")
-
-    #get index range for 62 days before third lockdown
-    # df_startdate = df[df['created_at'].str.match("2020-11-06")] 
+    #
+    # #get index range for 62 days before third lockdown
+    # df_startdate = df[df['created_at'].str.match("2020-11-06")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2021-01-05")]
     # print(df_enddate)
 
-    # make docs csv of third lockdown 25613 to 30528
-    before_third_lockdown = df.iloc[25613:30529]
-    before_third_lockdown.to_csv("graphs/before_third_lockdown.csv")
+    # make docs csv of first lockdown 8185 to 9735
+    before_first_lockdown = df.iloc[8185:9736]
+    before_first_lockdown.to_csv(f"graphs/{profession_name}s/before_first_lockdown.csv")
+
+    # make docs csv of second lockdown 19287 to 20466
+    before_second_lockdown = df.iloc[19287:20467]
+    before_second_lockdown.to_csv(f"graphs/{profession_name}s/before_second_lockdown.csv")
+
+    # make docs csv of third lockdown 20509 to 21480
+    before_third_lockdown = df.iloc[20510:21481]
+    before_third_lockdown.to_csv(f"graphs/{profession_name}s/before_third_lockdown.csv")
 
 # get_before_lockdown()
 
 def get_lockdown_tweets():
-    df = pd.read_csv("graphs/topics_with_dates.csv")
+    df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
     #dropping columns
     # df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1'], axis=1, inplace=True,
     #         errors='ignore')
-    # df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    # df.to_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
 
     #sorting by date and adding new index
     # df.sort_values(by='created_at', inplace=True)
     # df.reset_index(drop=True, inplace=True)
-    # df.to_csv("Dissertation/graphs/topics_with_dates.csv")
+    # df.to_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
 
     #find indexes for start and end dates of lockdown periods
     #confirm first lockdown indexes
-    # df_startdate = df[df['created_at'].str.match("2020-03-26")] 
-    # print(df_startdate)
-    # df_enddate = df[df['created_at'].str.match("2020-05-10")] #46 days
-    # print(df_enddate)
+    df_startdate = df[df['created_at'].str.match("2020-03-26")]
+    print(df_startdate)
+    df_enddate = df[df['created_at'].str.match("2020-05-10")] #46 days
+    print(df_enddate)
 
     #confirm second lockdown indexes
-    # df_startdate = df[df['created_at'].str.match("2020-11-05")] 
-    # print(df_startdate)
-    # df_enddate = df[df['created_at'].str.match("2020-12-02")] #28 days
-    # print(df_enddate)
+    df_startdate = df[df['created_at'].str.match("2020-11-05")]
+    print(df_startdate)
+    df_enddate = df[df['created_at'].str.match("2020-12-02")] #28 days
+    print(df_enddate)
 
     #confirm third lockdown indexes
-    # df_startdate = df[df['created_at'].str.match("2021-01-06")] 
-    # print(df_startdate)
-    # df_enddate = df[df['created_at'].str.match("2021-03-08")] #62 days
-    # print(df_enddate)
+    df_startdate = df[df['created_at'].str.match("2021-01-06")]
+    print(df_startdate)
+    df_enddate = df[df['created_at'].str.match("2021-03-08")] #62 days
+    print(df_enddate)
 
-    # first lockdown 10839 to 13703
-    first_lockdown = df.iloc[10839:13704]
-    first_lockdown.to_csv("graphs/first_lockdown.csv")
+    # # first lockdown 9736 to 11853
+    first_lockdown = df.iloc[9736:11854]
+    first_lockdown.to_csv(f"graphs/{profession_name}s/first_lockdown.csv")
 
-    #second lockdown 25517 to 27893
-    second_lockdown = df.iloc[25517:27894]
-    second_lockdown.to_csv("graphs/second_lockdown.csv")
+    # #second lockdown 20467 to 21793
+    second_lockdown = df.iloc[20467:21794]
+    second_lockdown.to_csv(f"graphs/{profession_name}s/second_lockdown.csv")
 
-    #third lockdown 30529 to 37921
-    third_lockdown = df.iloc[30529:37922]
-    third_lockdown.to_csv("graphs/third_lockdown.csv")
-    # print(third_lockdown[third_lockdown['Topic']==2])
+    # #third lockdown label 24181 to 29299
+    third_lockdown = df.iloc[24181:29300]
+    third_lockdown.to_csv(f"graphs/{profession_name}s/third_lockdown.csv")
 
 # get_lockdown_tweets()
-def get_after_lockdown():
-    df = pd.read_csv("graphs/topics_with_dates.csv")
 
-    #get index range for 46 days after first lockdown
+def get_after_lockdown():
+    df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
+
+    # #get index range for 46 days after first lockdown
     # df_startdate = df[df['created_at'].str.match("2020-05-11")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2020-06-18")]
     # print(df_enddate)
-
-    # make docs csv of first lockdown 13704 to 16139
-    # before_first_lockdown = df.iloc[13704:16140]
-    # before_first_lockdown.to_csv("graphs/after_first_lockdown.csv")
-
-    #get index range for 27 days after second lockdown
+    #
+    # #get index range for 27 days after second lockdown
     # df_startdate = df[df['created_at'].str.match("2020-12-03")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2020-12-29")]
     # print(df_enddate)
-
-    # make docs csv of second lockdown 27894 to 29883
-    # before_second_lockdown = df.iloc[27894:29884]
-    # before_second_lockdown.to_csv("graphs/after_second_lockdown.csv")
-
-    #get index range for 62 days after third lockdown
+    #
+    # #get index range for 62 days after third lockdown
     # df_startdate = df[df['created_at'].str.match("2021-03-09")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2021-06-09")]
     # print(df_enddate)
-    #
-    # make docs csv of third lockdown 37922 to 47140
-    before_third_lockdown = df.iloc[37922:47141]
-    before_third_lockdown.to_csv("graphs/after_third_lockdown.csv")
+
+    # make docs csv of first lockdown 11854 to 13688
+    before_first_lockdown = df.iloc[11854:13689]
+    before_first_lockdown.to_csv(f"graphs/{profession_name}s/after_first_lockdown.csv")
+
+    # make docs csv of second lockdown 21794 to 23257
+    before_second_lockdown = df.iloc[21794:23258]
+    before_second_lockdown.to_csv(f"graphs/{profession_name}s/after_second_lockdown.csv")
+
+    # make docs csv of third lockdown 29300 to 36061
+    before_third_lockdown = df.iloc[29300:36062]
+    before_third_lockdown.to_csv(f"graphs/{profession_name}s/after_third_lockdown.csv")
 
 # get_after_lockdown()
 
 def get_lockdown_control():
     #find indexes for start and end dates of lockdown periods
     #confirm first lockdown indexes
-    df = pd.read_csv("graphs/topics_with_dates.csv")
+    df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
+    #
+    # df_startdate = df[df['created_at'].str.match("2019-03-26")]
+    # print(df_startdate)
+    # df_enddate = df[df['created_at'].str.match("2019-05-10")] #46 days
+    # print(df_enddate)
+    #
+    # #confirm second lockdown indexes
+    # df_startdate = df[df['created_at'].str.match("2019-11-05")]
+    # print(df_startdate)
+    # df_enddate = df[df['created_at'].str.match("2019-12-02")] #28 days
+    # print(df_enddate)
+    #
+    # #confirm third lockdown indexes
+    # df_startdate = df[df['created_at'].str.match("2020-01-06")]
+    # print(df_startdate)
+    # df_enddate = df[df['created_at'].str.match("2020-03-08")] #62 days
+    # print(df_enddate)
 
-    df_startdate = df[df['created_at'].str.match("2019-03-26")]
-    print(df_startdate)
-    df_enddate = df[df['created_at'].str.match("2019-05-10")] #46 days
-    print(df_enddate)
-
-    #confirm second lockdown indexes
-    df_startdate = df[df['created_at'].str.match("2019-11-05")]
-    print(df_startdate)
-    df_enddate = df[df['created_at'].str.match("2019-12-02")] #28 days
-    print(df_enddate)
-
-    #confirm third lockdown indexes
-    df_startdate = df[df['created_at'].str.match("2020-01-06")]
-    print(df_startdate)
-    df_enddate = df[df['created_at'].str.match("2020-03-08")] #62 days
-    print(df_enddate)
-
-    # make docs csv of first lockdown 1304 to 2359
-    control1 = df.iloc[1304:2360]
-    control1.to_csv("graphs/control1.csv")
-
-    # make docs csv of second lockdown 6395 to 7022
-    control2 = df.iloc[6395:7023]
-    control2.to_csv("graphs/control2.csv")
-
-    # make docs csv of first lockdown 7925 to 9995
-    control3 = df.iloc[7925:9996]
-    control3.to_csv("graphs/control3.csv")
+    # make docs csv of first lockdown 430 to 1731
+    control1 = df.iloc[430:1732]
+    control1.to_csv(f"graphs/{profession_name}s/control1.csv")
+    #
+    # # make docs csv of second lockdown 5892 to 6516
+    control2 = df.iloc[5892:6517]
+    control2.to_csv(f"graphs/{profession_name}s/control2.csv")
+    #
+    # # make docs csv of first lockdown 7314 to 9044
+    control3 = df.iloc[7314:9045]
+    control3.to_csv(f"graphs/{profession_name}s/control3.csv")
 
 # get_lockdown_control()
 
 def lockdown_Life_Work():
     # first lockdown
-    first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
+    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts_df = first_lockdown_df['label'].value_counts()
     fl_total_life_work = fl_counts_df["Life"]+fl_counts_df["Work"]
     first_lockdown = [fl_counts_df["Life"]/fl_total_life_work, fl_counts_df["Work"]/fl_total_life_work]
     print("first", first_lockdown)
 
-    second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
+    second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_counts_df = second_lockdown_df['label'].value_counts()
     sl_total_life_work = sl_counts_df["Life"]+sl_counts_df["Work"]
     second_lockdown = [sl_counts_df["Life"]/sl_total_life_work, sl_counts_df["Work"]/sl_total_life_work]
     print("second", second_lockdown)
 
-    third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
+    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_counts_df = third_lockdown_df['label'].value_counts()
     tl_total_life_work = tl_counts_df["Life"]+tl_counts_df["Work"]
     third_lockdown = [tl_counts_df["Life"]/tl_total_life_work, tl_counts_df["Work"]/tl_total_life_work]
     print("third", third_lockdown)
 
-    control1_df = pd.read_csv("graphs/control1.csv", error_bad_lines=False)
+    control1_df = pd.read_csv(f"graphs/{profession_name}s/control1.csv", error_bad_lines=False)
     c1_counts_df = control1_df['label'].value_counts()
     c1_total_life_work = c1_counts_df["Life"]+c1_counts_df["Work"]
     control1 = [c1_counts_df["Life"]/c1_total_life_work, c1_counts_df["Work"]/c1_total_life_work]
     print("control1", control1)
 
-    control2_df = pd.read_csv("graphs/control2.csv", error_bad_lines=False)
+    control2_df = pd.read_csv(f"graphs/{profession_name}s/control2.csv", error_bad_lines=False)
     c2_counts_df = control2_df['label'].value_counts()
     c2_total_life_work = c2_counts_df["Life"]+c2_counts_df["Work"]
     control2 = [c2_counts_df["Life"]/c2_total_life_work, c2_counts_df["Work"]/c2_total_life_work]
     print("control2", control2)
 
-    control3_df = pd.read_csv("graphs/control3.csv", error_bad_lines=False)
+    control3_df = pd.read_csv(f"graphs/{profession_name}s/control3.csv", error_bad_lines=False)
     c3_counts_df = control3_df['label'].value_counts()
     c3_total_life_work = c3_counts_df["Life"]+c3_counts_df["Work"]
     control3 = [c3_counts_df["Life"]/c3_total_life_work, c3_counts_df["Work"]/c3_total_life_work]
@@ -244,32 +250,32 @@ def lockdown_Life_Work():
 
 def lockdown_Life_Work_None():
     # first lockdown
-    first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
+    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts_df = first_lockdown_df['label'].value_counts()
     first_lockdown = [fl_counts_df["Life"]/len(first_lockdown_df), fl_counts_df["Work"]/len(first_lockdown_df), fl_counts_df["None"]/len(first_lockdown_df)]
     print("first", first_lockdown)
 
-    second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
+    second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_counts_df = second_lockdown_df['label'].value_counts()
     second_lockdown = [sl_counts_df["Life"]/len(second_lockdown_df), sl_counts_df["Work"]/len(second_lockdown_df), sl_counts_df["None"]/len(second_lockdown_df)]
     print("second", second_lockdown)
 
-    third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
+    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_counts_df = third_lockdown_df['label'].value_counts()
     third_lockdown = [tl_counts_df["Life"]/len(third_lockdown_df), tl_counts_df["Work"]/len(third_lockdown_df), tl_counts_df["None"]/len(third_lockdown_df)]
     print("third", third_lockdown)
 
-    control1_df = pd.read_csv("graphs/control1.csv", error_bad_lines=False)
+    control1_df = pd.read_csv(f"graphs/{profession_name}s/control1.csv", error_bad_lines=False)
     c1_counts_df = control1_df['label'].value_counts()
     control1 = [c1_counts_df["Life"]/len(control1_df), c1_counts_df["Work"]/len(control1_df), c1_counts_df["None"]/len(control1_df)]
     print("control1", control1)
 
-    control2_df = pd.read_csv("graphs/control2.csv", error_bad_lines=False)
+    control2_df = pd.read_csv(f"graphs/{profession_name}s/control2.csv", error_bad_lines=False)
     c2_counts_df = control2_df['label'].value_counts()
     control2 = [c2_counts_df["Life"]/len(control2_df), c2_counts_df["Work"]/len(control2_df), c2_counts_df["None"]/len(control2_df)]
     print("control2", control2)
 
-    control3_df = pd.read_csv("graphs/control3.csv", error_bad_lines=False)
+    control3_df = pd.read_csv(f"graphs/{profession_name}s/control3.csv", error_bad_lines=False)
     c3_counts_df = control3_df['label'].value_counts()
     control3 = [c3_counts_df["Life"]/len(control3_df), c3_counts_df["Work"]/len(control3_df), c3_counts_df["None"]/len(control3_df)]
     print("control3", control3)
@@ -285,6 +291,7 @@ def lockdown_Life_Work_None():
               "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
                 "Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]],
               "Neither": [control1[2], first_lockdown[2], control2[2], second_lockdown[2], control3[2], third_lockdown[2]]}
+
     for i in range(0, len(values["Work"])):
         values["Work"][i] = values["Work"][i] * 100
     for j in range(0, len(values["Life"])):
@@ -326,7 +333,7 @@ def lockdown_topics_pie():
                   8: "General life",
                   9: "Friends & people"}
 
-    first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
+    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts = first_lockdown_df['Topic'].value_counts()
     fl_counts = fl_counts[1:11]
 
@@ -339,7 +346,7 @@ def lockdown_topics_pie():
     plt.title("Distribution of tweets about life topics for nurses during the first lockdown")
     plt.show()
 
-    second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
+    second_lockdown_df = pd.read_csv(f"graph/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_values = second_lockdown_df['Topic'].value_counts()
     sl_values = sl_values[1:11]
 
@@ -351,7 +358,7 @@ def lockdown_topics_pie():
     plt.title("Distribution of tweets about life topics for nurses during the second lockdown")
     plt.show()
 
-    third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
+    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_values = third_lockdown_df['Topic'].value_counts()
     tl_values = tl_values[1:11]
 
@@ -367,7 +374,7 @@ def lockdown_topics_pie():
 
 def lockdown_topics_bar():
     # first lockdown
-    first_lockdown_df = pd.read_csv("graphs/first_lockdown.csv", error_bad_lines=False)
+    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts_df = first_lockdown_df['Topic'].value_counts()
     first_lockdown=[]
     for i in [0,4,6,8,9]:
@@ -375,7 +382,7 @@ def lockdown_topics_bar():
     print("first", first_lockdown)
 
     #second lockdown
-    second_lockdown_df = pd.read_csv("graphs/second_lockdown.csv", error_bad_lines=False)
+    second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_counts_df = second_lockdown_df['Topic'].value_counts()
     second_lockdown=[]
     for i in [0,4,6,8,9]:
@@ -383,7 +390,7 @@ def lockdown_topics_bar():
     print("second", second_lockdown)
 
     #third lockdown
-    third_lockdown_df = pd.read_csv("graphs/third_lockdown.csv", error_bad_lines=False)
+    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_counts_df = third_lockdown_df['Topic'].value_counts()
     third_lockdown=[]
     for i in [0,4,6,8,9]:

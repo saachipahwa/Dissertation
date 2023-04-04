@@ -10,7 +10,7 @@ directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
 directory_index = 2
 
-def get_mean(directory="Dissertation/"+directories[directory_index]):
+def get_mean(directory=directories[directory_index]):
     df = pd.DataFrame()
     user_count=0
     for filename in os.listdir(directory):
