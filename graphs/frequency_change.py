@@ -23,7 +23,7 @@ topic_6 = ['energy', 'price', 'bill', 'cost', 'water']
 topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
 topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
 all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
-topic_names = ["Twitter activity", #for teachers
+topic_names = ["Twitter activity", #for teacherspy
                 "School and  holidays",
                 "Good mornings",
                 "Nature",
@@ -181,7 +181,12 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     plt.grid()
     plt.show()
 
-freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+# freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+# freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
+# freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
+# freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
+# freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
+# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -237,19 +242,19 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     print("df2", df2)
 
     #add work at end
-    # for i in work_topics:
-    #     df1_array.append((df1_counts[i]/len(df1))*100)
-    #     df2_array.append((df2_counts[i]/len(df2))*100)
+    for k in work_topics:
+        df1_array.append((df1_counts[k]/len(df1))*100)
+        df2_array.append((df2_counts[k]/len(df2))*100)
 
     categories=[]
-    for k in topics:
-        categories.append(topic_names[k])
+    for l in topics:
+        categories.append(topic_names[l])
     
-    # for j in work_topics:
-    #     categories.append(all_categories[j]) # add work at end
+    for m in work_topics:
+        categories.append(topic_names[m]) # add work at end
 
     barWidth = 0.25
-    fig = plt.subplots(figsize =(12, 8))
+    fig = plt.subplots(figsize =(15, 8))
 
     br1 = np.arange(len(df1_array))
     br2 = [x + barWidth for x in br1]
@@ -272,12 +277,13 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-zerototen = list(range(0,10))
-compare_topics(before1, during1, zerototen, 'First', 'Before', 'During', 'r', 'g')
-compare_topics(before2, during2, zerototen, 'Second', 'Before', 'During', 'r', 'g')
-compare_topics(before3, during3, zerototen, 'Third', 'Before', 'During', 'r', 'g')
+topics = [0,2,3,4,5,6,8]
+compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
+compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
+compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
 
-compare_topics(during1, after1,  zerototen, 'First', 'During', 'After', 'g', 'b')
-compare_topics(during2, after2,  zerototen, 'Second', 'During', 'After', 'g', 'b')
-compare_topics(during3, after3,  zerototen, 'Third', 'During', 'After', 'g', 'b')
+compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
+compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
+compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
+
 

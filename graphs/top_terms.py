@@ -62,9 +62,6 @@ def top_terms():
 
 top_terms()
 
-
-
-
 #unused functions
 # def dynamic_topic_modelling():
 #     dates_df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
