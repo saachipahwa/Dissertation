@@ -30,18 +30,19 @@ def get_original_tweets():
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
 
-get_original_tweets()
+# get_original_tweets()
 
-def reset_index(path = f"sentiment/{profession_name}s_csvs/docs_clean_text.csv"):
+def reset_index(path = f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv"):
     df = pd.read_csv(path)
     df.sort_values(by='created_at', inplace=True)
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
+    
 
-reset_index()
+# reset_index()
 
 def add_topic_label():
-    df = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_clean_text.csv")
+    df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     conditions = [
         (df['Topic'] == 1),
         (df['Topic'] == 7),
@@ -51,10 +52,10 @@ def add_topic_label():
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
-    df.to_csv(f"sentiment/{profession_name}s_csvs/docs_clean_text.csv")
+    df.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     print(df.head())
 
-add_topic_label()
+# add_topic_label()
 
 
 def sentiment_scores(sentence):
@@ -84,7 +85,7 @@ def sentiment_scores(sentence):
         return 0
 
 def add_sentiment():
-    docs = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_clean_text.csv")
+    docs = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     docs['sentiment_index'] = docs['clean_text'].apply(lambda x: sentiment_scores(x))
     conditions = [
         (docs['sentiment_index'] == 0),
@@ -95,7 +96,7 @@ def add_sentiment():
     docs.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
               errors='ignore')
     docs['sentiment'] = np.select(conditions, values)
-    docs.to_csv("sentiment/docs_sentiment.csv")
+    docs.to_csv("Dissertation/sentiment/docs_sentiment.csv")
 
 add_sentiment()
 
