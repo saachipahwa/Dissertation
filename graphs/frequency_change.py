@@ -277,7 +277,7 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-topics = [0,2,3,4,5,6,8]
+topics = [2,3,4,5,6,8]
 compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
 compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
 compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')

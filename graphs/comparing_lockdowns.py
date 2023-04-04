@@ -11,27 +11,25 @@ directory_index = 0
 directory_name = directories[directory_index]
 profession_name = "nurse"
 nr_topics = 10
-# topic_dict = { 0: "Twitter activity", #for teachers
-#                 1: "School and school holidays",
-#                 2: "Good mornings and people",
-#                 3: "Nature",
-#                 4: "Well wishes",
-#                 5: "Thank you's",
-#                 6: "Finances",
-#                 7: "School funding",
-#                 8: "Meals",
-#                 9: "Loving wishes"}
-#
-# topic_strings = {"0: Twitter activity", #for teachers
-#                    "1: School and  holidays",
-#                    "2: Good mornings",
-#                    "3: Nature",
-#                    "4: Well wishes",
-#                    "5: Thank you's",
-#                    "6: Finances",
-#                    "7: School funding",
-#                    "8: Meals",
-#                    "9: Loving wishes"}
+topic_dict = { 0: "Twitter activity", #for teachers
+                1: "School and school holidays",
+                2: "Good mornings and people",
+                3: "Nature",
+                4: "Well wishes",
+                5: "Thank you's",
+                6: "Finances",
+                7: "School funding",
+                8: "Meals",
+                9: "Loving wishes"}
+
+topic_strings = [ #for teachers
+                   "2: Good mornings",
+                   "3: Nature",
+                   "4: Well wishes",
+                   "5: Thank you's",
+                   "6: Finances",
+                   "8: Meals"
+                   ]
 
 # topic_dict = {0: "Good morning", #for nurses
 #               1: "Thank you's",
@@ -42,15 +40,15 @@ nr_topics = 10
 #               7: "Miscellaneous",
 #               8: "General life",
 #               9: "Friends & people"}
-
+#
 # topic_strings = ["0: Good morning",
 #               "4: Expressions",
 #               "6: Exercise",
 #               "8: General life",
 #               "9: Friends & people"]
 
-chosen_topics = [0,4,6,8,9]
-work_topics = [2]
+chosen_topics = [2,3,4,5,6,8]
+work_topics = [1,7]
 
 first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
 second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
@@ -446,4 +444,4 @@ def lockdown_topics_bar():
     plt.legend()
     plt.show()
 
-# lockdown_topics_bar()
+lockdown_topics_bar()
