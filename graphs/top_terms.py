@@ -57,7 +57,7 @@ def reset_index(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
     print(model.get_topic_info())
-    fig = model.visualize_barchart(topics=[0,2,3,4,5,6,8,9], n_words = 5)
+    fig = model.visualize_barchart(topics=[1,7], n_words = 10)
     fig.show()
 
 top_terms()

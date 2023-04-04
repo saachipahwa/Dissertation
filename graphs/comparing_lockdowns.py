@@ -33,21 +33,21 @@ nr_topics = 10
 #                    "8: Meals",
 #                    "9: Loving wishes"}
 
-topic_dict = {0: "Good morning", #for nurses
-              1: "Thank you's",
-              3: "Congratulations",
-              4: "Expressions",
-              5: "Happy birthday",
-              6: "Exercise",
-              7: "Miscellaneous",
-              8: "General life",
-              9: "Friends & people"}
+# topic_dict = {0: "Good morning", #for nurses
+#               1: "Thank you's",
+#               3: "Congratulations",
+#               4: "Expressions",
+#               5: "Happy birthday",
+#               6: "Exercise",
+#               7: "Miscellaneous",
+#               8: "General life",
+#               9: "Friends & people"}
 
-topic_strings = ["0: Good morning",
-              "4: Expressions",
-              "6: Exercise",
-              "8: General life",
-              "9: Friends & people"]
+# topic_strings = ["0: Good morning",
+#               "4: Expressions",
+#               "6: Exercise",
+#               "8: General life",
+#               "9: Friends & people"]
 
 chosen_topics = [0,4,6,8,9]
 work_topics = [2]

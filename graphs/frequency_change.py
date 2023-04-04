@@ -4,28 +4,67 @@ import os
 import numpy as np
 from matplotlib import pyplot as plt
 
-top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
-topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
-topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
-topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
-topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
-topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
-topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
-topic_7 = ['time', 'girl', 'something', 'article', 'kind']
-topic_8 = ['food', 'school', 'life', 'meal', 'child']
-topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
+directories = ["nursetweets", "doctortweets", "teachertweets",
+               "railtweets", "journalisttweets", "musiciantweets"]
+directory_index = 2
+directory_name = directories[directory_index]
+profession_name = "teacher"
+nr_topics = 10
+work_topics = [1,7]
 
-all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
+#TEACHER:
+top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
+topic_0 = ['tweet', 'twitter', 'account', 'people', 'reply']
+topic_2 = ['morning', 'james', 'claire', 'paul', 'nicola']
+topic_3 = ['enjoy', 'bird', 'today', 'theme', 'butterfly']
+topic_4 = ['thanks', 'hope', 'look', 'care', 'sorry']
+topic_5 = ['thank', 'kind', 'thanks', 'bridge', 'touch']
+topic_6 = ['energy', 'price', 'bill', 'cost', 'water']
+topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
+topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
+all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
+topic_names = ["Twitter activity", #for teachers
+                "School and  holidays",
+                "Good mornings",
+                "Nature",
+                "Well wishes",
+                "Thank you's",
+                "Finances",
+                "School funding",
+                "Meals",
+                "Loving wishes"]
+# top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
+# topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
+# topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
+# topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
+# topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
+# topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
+# topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
+# topic_7 = ['time', 'girl', 'something', 'article', 'kind']
+# topic_8 = ['food', 'school', 'life', 'meal', 'child']
+# topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
+# all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
+# topic_names = ["Good morning",
+#                   "Thank you's",
+#                       "WORK",
+#                   "Congratulations",
+#                   "Expressions",
+#                   "Happy birthday",
+#                   "Exercise",
+#                   "Miscellaneous",
+#                   "General life",
+#                   "Friends & people",
+#                     ]
 
-before1 = pd.read_csv("graphs/before_first_lockdown.csv")
-during1 = pd.read_csv("graphs/first_lockdown.csv")
-after1 = pd.read_csv("graphs/after_first_lockdown.csv")
-before2 = pd.read_csv("graphs/before_second_lockdown.csv")
-during2 = pd.read_csv("graphs/second_lockdown.csv")
-after2 = pd.read_csv("graphs/after_second_lockdown.csv")
-before3 = pd.read_csv("graphs/before_third_lockdown.csv")
-during3 = pd.read_csv("graphs/third_lockdown.csv")
-after3 = pd.read_csv("graphs/after_third_lockdown.csv")
+before1 = pd.read_csv(f"graphs/{profession_name}s/before_first_lockdown.csv")
+during1 = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv")
+after1 = pd.read_csv(f"graphs/{profession_name}s/after_first_lockdown.csv")
+before2 = pd.read_csv(f"graphs/{profession_name}s/before_second_lockdown.csv")
+during2 = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv")
+after2 = pd.read_csv(f"graphs/{profession_name}s/after_second_lockdown.csv")
+before3 = pd.read_csv(f"graphs/{profession_name}s/before_third_lockdown.csv")
+during3 = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv")
+after3 = pd.read_csv(f"graphs/{profession_name}s/after_third_lockdown.csv")
 
 def get_all_terms():
     array = []
@@ -142,7 +181,7 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     plt.grid()
     plt.show()
 
-# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -180,7 +219,6 @@ def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
 
 # compare_life_work(during2, after2, "second", "During", "After")
 
-#Function adds "topic 2: work" automatically
 #colour for before = red
 #colour for during = green
 #colour for after = blue
@@ -199,24 +237,16 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     print("df2", df2)
 
     #add work at end
-    df1_array.append((df1_counts[2]/len(df1))*100)
-    df2_array.append((df2_counts[2]/len(df2))*100)
+    # for i in work_topics:
+    #     df1_array.append((df1_counts[i]/len(df1))*100)
+    #     df2_array.append((df2_counts[i]/len(df2))*100)
 
-    all_categories = ["Good morning",
-                  "Thank you's",
-                      "WORK",
-                  "Congratulations",
-                  "Expressions",
-                  "Happy birthday",
-                  "Exercise",
-                  "Miscellaneous",
-                  "General life",
-                  "Friends & people",
-                    ]
     categories=[]
     for k in topics:
-        categories.append(all_categories[k])
-    categories.append(all_categories[2]) # add work at end
+        categories.append(topic_names[k])
+    
+    # for j in work_topics:
+    #     categories.append(all_categories[j]) # add work at end
 
     barWidth = 0.25
     fig = plt.subplots(figsize =(12, 8))
@@ -242,11 +272,12 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-compare_topics(before1, during1, [0, 4, 6, 8, 9], 'First', 'Before', 'During', 'r', 'g')
-compare_topics(before2, during2, [0, 4, 6, 8, 9], 'Second', 'Before', 'During', 'r', 'g')
-compare_topics(before3, during3, [0, 4, 6, 8, 9], 'Third', 'Before', 'During', 'r', 'g')
+zerototen = list(range(0,10))
+compare_topics(before1, during1, zerototen, 'First', 'Before', 'During', 'r', 'g')
+compare_topics(before2, during2, zerototen, 'Second', 'Before', 'During', 'r', 'g')
+compare_topics(before3, during3, zerototen, 'Third', 'Before', 'During', 'r', 'g')
 
-compare_topics(during1, after1, [0, 4, 6, 8, 9], 'First', 'During', 'After', 'g', 'b')
-compare_topics(during2, after2, [0, 4, 6, 8, 9], 'Second', 'During', 'After', 'g', 'b')
-compare_topics(during3, after3, [0, 4, 6, 8, 9], 'Third', 'During', 'After', 'g', 'b')
+compare_topics(during1, after1,  zerototen, 'First', 'During', 'After', 'g', 'b')
+compare_topics(during2, after2,  zerototen, 'Second', 'During', 'After', 'g', 'b')
+compare_topics(during3, after3,  zerototen, 'Third', 'During', 'After', 'g', 'b')
 
