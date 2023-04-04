@@ -7,10 +7,58 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 0
 directory_name = directories[directory_index]
-profession_name = "teacher"
+profession_name = "nurse"
 nr_topics = 10
+# topic_dict = { 0: "Twitter activity", #for teachers
+#                 1: "School and school holidays",
+#                 2: "Good mornings and people",
+#                 3: "Nature",
+#                 4: "Well wishes",
+#                 5: "Thank you's",
+#                 6: "Finances",
+#                 7: "School funding",
+#                 8: "Meals",
+#                 9: "Loving wishes"}
+#
+# topic_strings = {"0: Twitter activity", #for teachers
+#                    "1: School and  holidays",
+#                    "2: Good mornings",
+#                    "3: Nature",
+#                    "4: Well wishes",
+#                    "5: Thank you's",
+#                    "6: Finances",
+#                    "7: School funding",
+#                    "8: Meals",
+#                    "9: Loving wishes"}
+
+topic_dict = {0: "Good morning", #for nurses
+              1: "Thank you's",
+              3: "Congratulations",
+              4: "Expressions",
+              5: "Happy birthday",
+              6: "Exercise",
+              7: "Miscellaneous",
+              8: "General life",
+              9: "Friends & people"}
+
+topic_strings = ["0: Good morning",
+              "4: Expressions",
+              "6: Exercise",
+              "8: General life",
+              "9: Friends & people"]
+
+chosen_topics = [0,4,6,8,9]
+work_topics = [2]
+
+first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
+second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
+third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
+control1_df = pd.read_csv(f"graphs/{profession_name}s/control1.csv", error_bad_lines=False)
+control2_df = pd.read_csv(f"graphs/{profession_name}s/control2.csv", error_bad_lines=False)
+control3_df = pd.read_csv(f"graphs/{profession_name}s/control3.csv", error_bad_lines=False)
+
 
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
@@ -174,37 +222,31 @@ def get_lockdown_control():
 
 def lockdown_Life_Work():
     # first lockdown
-    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts_df = first_lockdown_df['label'].value_counts()
     fl_total_life_work = fl_counts_df["Life"]+fl_counts_df["Work"]
     first_lockdown = [fl_counts_df["Life"]/fl_total_life_work, fl_counts_df["Work"]/fl_total_life_work]
     print("first", first_lockdown)
 
-    second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_counts_df = second_lockdown_df['label'].value_counts()
     sl_total_life_work = sl_counts_df["Life"]+sl_counts_df["Work"]
     second_lockdown = [sl_counts_df["Life"]/sl_total_life_work, sl_counts_df["Work"]/sl_total_life_work]
     print("second", second_lockdown)
 
-    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_counts_df = third_lockdown_df['label'].value_counts()
     tl_total_life_work = tl_counts_df["Life"]+tl_counts_df["Work"]
     third_lockdown = [tl_counts_df["Life"]/tl_total_life_work, tl_counts_df["Work"]/tl_total_life_work]
     print("third", third_lockdown)
 
-    control1_df = pd.read_csv(f"graphs/{profession_name}s/control1.csv", error_bad_lines=False)
     c1_counts_df = control1_df['label'].value_counts()
     c1_total_life_work = c1_counts_df["Life"]+c1_counts_df["Work"]
     control1 = [c1_counts_df["Life"]/c1_total_life_work, c1_counts_df["Work"]/c1_total_life_work]
     print("control1", control1)
 
-    control2_df = pd.read_csv(f"graphs/{profession_name}s/control2.csv", error_bad_lines=False)
     c2_counts_df = control2_df['label'].value_counts()
     c2_total_life_work = c2_counts_df["Life"]+c2_counts_df["Work"]
     control2 = [c2_counts_df["Life"]/c2_total_life_work, c2_counts_df["Work"]/c2_total_life_work]
     print("control2", control2)
 
-    control3_df = pd.read_csv(f"graphs/{profession_name}s/control3.csv", error_bad_lines=False)
     c3_counts_df = control3_df['label'].value_counts()
     c3_total_life_work = c3_counts_df["Life"]+c3_counts_df["Work"]
     control3 = [c3_counts_df["Life"]/c3_total_life_work, c3_counts_df["Work"]/c3_total_life_work]
@@ -236,7 +278,7 @@ def lockdown_Life_Work():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
         bottom += value
 
-    ax.set_title("How much did nurses tweet about Work vs Life in each lockdown (compared to the year prior)")
+    ax.set_title(f"How much did {profession_name}s tweet about Work vs Life in each lockdown (compared to the year prior)")
     ax.legend(loc="upper right")
 
 
@@ -250,32 +292,26 @@ def lockdown_Life_Work():
 
 def lockdown_Life_Work_None():
     # first lockdown
-    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts_df = first_lockdown_df['label'].value_counts()
     first_lockdown = [fl_counts_df["Life"]/len(first_lockdown_df), fl_counts_df["Work"]/len(first_lockdown_df), fl_counts_df["None"]/len(first_lockdown_df)]
     print("first", first_lockdown)
 
-    second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_counts_df = second_lockdown_df['label'].value_counts()
     second_lockdown = [sl_counts_df["Life"]/len(second_lockdown_df), sl_counts_df["Work"]/len(second_lockdown_df), sl_counts_df["None"]/len(second_lockdown_df)]
     print("second", second_lockdown)
 
-    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_counts_df = third_lockdown_df['label'].value_counts()
     third_lockdown = [tl_counts_df["Life"]/len(third_lockdown_df), tl_counts_df["Work"]/len(third_lockdown_df), tl_counts_df["None"]/len(third_lockdown_df)]
     print("third", third_lockdown)
 
-    control1_df = pd.read_csv(f"graphs/{profession_name}s/control1.csv", error_bad_lines=False)
     c1_counts_df = control1_df['label'].value_counts()
     control1 = [c1_counts_df["Life"]/len(control1_df), c1_counts_df["Work"]/len(control1_df), c1_counts_df["None"]/len(control1_df)]
     print("control1", control1)
 
-    control2_df = pd.read_csv(f"graphs/{profession_name}s/control2.csv", error_bad_lines=False)
     c2_counts_df = control2_df['label'].value_counts()
     control2 = [c2_counts_df["Life"]/len(control2_df), c2_counts_df["Work"]/len(control2_df), c2_counts_df["None"]/len(control2_df)]
     print("control2", control2)
 
-    control3_df = pd.read_csv(f"graphs/{profession_name}s/control3.csv", error_bad_lines=False)
     c3_counts_df = control3_df['label'].value_counts()
     control3 = [c3_counts_df["Life"]/len(control3_df), c3_counts_df["Work"]/len(control3_df), c3_counts_df["None"]/len(control3_df)]
     print("control3", control3)
@@ -310,7 +346,7 @@ def lockdown_Life_Work_None():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
         bottom += value
 
-    ax.set_title("How much did nurses tweet about Work vs Life vs Neither in each lockdown?")
+    ax.set_title(f"How much did {profession_name}s tweet about Work vs Life vs Neither in each lockdown?")
     ax.legend(loc="upper right")
 
 
@@ -323,94 +359,66 @@ def lockdown_Life_Work_None():
 # lockdown_Life_Work_None()
 
 def lockdown_topics_pie():
-    categories = {0: "Good morning",
-                  1: "Thank you's",
-                  3: "Congratulations",
-                  4: "Expressions",
-                  5: "Happy birthday",
-                  6: "Exercise",
-                  7: "Miscellaneous",
-                  8: "General life",
-                  9: "Friends & people"}
-
-    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
+    categories = topic_dict.copy()
     fl_counts = first_lockdown_df['Topic'].value_counts()
     fl_counts = fl_counts[1:11]
-
-
     fl_values = list(dict(sorted(fl_counts.items())).values())
-    del fl_values[2]
+    for t in work_topics:
+        del fl_values[t]
+        del categories[t]
     list_categories = list(categories.values())
     fl_df = pd.DataFrame(data=fl_values, index=list_categories)
     plot = pd.DataFrame(fl_df).plot.pie(y=0, legend=False)
-    plt.title("Distribution of tweets about life topics for nurses during the first lockdown")
+    plt.title(f"Distribution of tweets about life topics for {profession_name}s during the first lockdown")
     plt.show()
 
-    second_lockdown_df = pd.read_csv(f"graph/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_values = second_lockdown_df['Topic'].value_counts()
     sl_values = sl_values[1:11]
-
     sl_values = list(dict(sorted(sl_values.items())).values())
-    del sl_values[2]
-    list_categories = list(categories.values())
-    fl_df = pd.DataFrame(data=sl_values, index=list_categories)
-    plot2 = pd.DataFrame(fl_df).plot.pie(y=0, legend=False)
-    plt.title("Distribution of tweets about life topics for nurses during the second lockdown")
+    for u in work_topics:
+        del sl_values[u]
+    sl_df = pd.DataFrame(data=sl_values, index=list_categories)
+    plot2 = pd.DataFrame(sl_df).plot.pie(y=0, legend=False)
+    plt.title(f"Distribution of tweets about life topics for {profession_name}s during the second lockdown")
     plt.show()
 
     third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_values = third_lockdown_df['Topic'].value_counts()
     tl_values = tl_values[1:11]
-
     tl_values = list(dict(sorted(tl_values.items())).values())
-    del tl_values[2]
-    list_categories = list(categories.values())
-    fl_df = pd.DataFrame(data=tl_values, index=list_categories)
-    plot3 = pd.DataFrame(fl_df).plot.pie(y=0, legend=False)
-    plt.title("Distribution of tweets about life topics for nurses during the third lockdown")
+    for v in work_topics:
+        del tl_values[v]
+    tl_df = pd.DataFrame(data=tl_values, index=list_categories)
+    plot3 = pd.DataFrame(tl_df).plot.pie(y=0, legend=False)
+    plt.title(f"Distribution of tweets about life topics for {profession_name}s during the third lockdown")
     plt.show()
 
 # lockdown_topics_pie()
 
 def lockdown_topics_bar():
     # first lockdown
-    first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
     fl_counts_df = first_lockdown_df['Topic'].value_counts()
     first_lockdown=[]
-    for i in [0,4,6,8,9]:
+    for i in chosen_topics:
         first_lockdown.append((fl_counts_df[i]/len(first_lockdown_df))*100)
     print("first", first_lockdown)
 
     #second lockdown
-    second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
     sl_counts_df = second_lockdown_df['Topic'].value_counts()
     second_lockdown=[]
-    for i in [0,4,6,8,9]:
+    for i in chosen_topics:
         second_lockdown.append((sl_counts_df[i]/len(second_lockdown_df))*100)
     print("second", second_lockdown)
 
     #third lockdown
-    third_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/third_lockdown.csv", error_bad_lines=False)
     tl_counts_df = third_lockdown_df['Topic'].value_counts()
     third_lockdown=[]
-    for i in [0,4,6,8,9]:
+    for i in chosen_topics:
         third_lockdown.append((tl_counts_df[i]/len(third_lockdown_df))*100)
     print("third", third_lockdown)
 
-    # categories = ["0: Good morning",
-    #               "1: Thank you's",
-    #               "3: Congratulations",
-    #               "4: Expressions",
-    #               "5: Happy birthday",
-    #               "6: Exercise",
-    #               "7: Miscellaneous",
-    #               "8: General life",
-    #               "9: Friends & people"]
-    categories = ["0: Good morning",
-                  "4: Expressions",
-                  "6: Exercise",
-                  "8: General life",
-                  "9: Friends & people"]
+    categories = topic_strings.copy()
+
     print("numbers", categories)
 
     # set width of bar
@@ -430,11 +438,11 @@ def lockdown_topics_bar():
             edgecolor ='grey', label = "Third lockdown (6th January to 8th March 2021)")
 
     # Adding Xticks
-    plt.xlabel("Lockdown", fontweight ='bold', fontsize = 15)
+    plt.xlabel("Topic", fontweight ='bold', fontsize = 15)
     plt.ylabel("Percentage of tweets relating to this topic", fontweight ='bold', fontsize = 15)
     plt.xticks([r + barWidth for r in range(len(first_lockdown))],
                categories)
-    plt.title("How much did nurses talk about each Home-life topic in each lockdown?")
+    plt.title(f"How much did {profession_name}s talk about each Home-life topic in each lockdown?")
     plt.legend()
     plt.show()
 

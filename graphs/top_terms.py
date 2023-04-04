@@ -60,7 +60,7 @@ def top_terms():
     fig = model.visualize_barchart(topics=[0,2,3,4,5,6,8,9], n_words = 5)
     fig.show()
 
-# top_terms()
+top_terms()
 
 
 
