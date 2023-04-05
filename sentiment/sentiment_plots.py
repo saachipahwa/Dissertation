@@ -7,9 +7,9 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 0
 directory_name = directories[directory_index]
-profession_name = "teacher"
+profession_name = "nurse"
 nr_topics = 10
 
 before1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
@@ -68,7 +68,7 @@ def make_plot():
     work2b, life2b = get_frequency_change(during2, after2)
     print("third lockdown duringafter")
     work3b, life3b = get_frequency_change(during3, after3)
-    x_names = ["Classes", "Before vs During LD1", "During vs After LD1", "Before vs During LD2", "During vs After LD2", "Before vs During LD3", "During vs After LD4"]
+    x_names = ["Classes", "Before vs During LD1", "During vs After LD1", "Before vs During LD2", "During vs After LD2", "Before vs During LD3", "During vs After LD3"]
 
     #WORK DF
     work_df = pd.DataFrame(columns=x_names)
