@@ -6,9 +6,9 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 1
 directory_name = directories[directory_index]
-profession_name = "teacher"
+profession_name = "doctor"
 nr_topics = 10
 
 def get_all_tweets(directory=None):
