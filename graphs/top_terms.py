@@ -28,16 +28,15 @@ def get_topics_with_dates(path = f"Dissertation/graphs/{profession_name}s/topics
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(path)
 
-get_topics_with_dates()
+# get_topics_with_dates()
 
 def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
     conditions = [
-        (df['Topic'] == 1),
-        (df['Topic'] == 7),
+        (df['Topic'] == 5),
         (df['Topic'] == -1)
     ]
-    values = ["Work", "Work", "None"]
+    values = ["Work", "None"]
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
@@ -46,7 +45,7 @@ def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
 
 add_topic_label()
 
-def reset_index(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
+def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name)):
     df = pd.read_csv(path)
     df.sort_values(by='created_at', inplace=True)
     df.reset_index(drop=True, inplace=True)
