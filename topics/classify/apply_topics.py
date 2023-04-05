@@ -5,9 +5,9 @@ from bertopic import BERTopic
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 3
 directory = directories[directory_index]
-profession = "doctor"
+profession = "rail"
 nr_topics = 10
 
 def get_all_tweets(directory=None):

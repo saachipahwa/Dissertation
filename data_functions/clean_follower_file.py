@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-directory = "doctortweets"
-followers_df_name = "data/filteredBMAfollowers.csv"
+directory = "railtweets"
+followers_df_name = "data/filteredRMTfollowers.csv"
 followers_df = pd.read_csv(followers_df_name, error_bad_lines=False)
 count_removed = 0
 
@@ -15,4 +15,5 @@ for index, row in followers_df.iterrows():
 
 followers_df.to_csv(followers_df_name)
 print(count_removed, "removed")
+
 
