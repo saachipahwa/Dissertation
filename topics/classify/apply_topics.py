@@ -28,7 +28,7 @@ def get_docs_topics(modelname, directory, profession):
 get_docs_topics(modelname="{}_{}_1_model".format(directory, nr_topics), directory=directory, profession=profession)
 
 def get_sample_tweets(profession, nr_topics):
-    df = pd.read_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
+    df = pd.read_csv("Dissertation/topics/{}_docs/docs_topics.csv".format(profession))
     for i in range(-1, nr_topics):
         df_topic = df[df['Topic'] == i]
         df_topic = df_topic.sample(n=40, replace=False, random_state=1)
