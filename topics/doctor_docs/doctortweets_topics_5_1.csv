@@ -1,7 +1,7 @@
 ,Topic,Count,Name,details
-0,-1,30851,-1_time_people_patient_year,"['time', 'people', 'patient', 'year', 'thing', 'doctor', 'work', 'health', 'today', 'care']"
-1,0,622,0_tweet_twitter_people_hashtag,"['tweet', 'twitter', 'people', 'hashtag', 'time', 'year', 'account', 'friend', 'reply', 'retweet']"
-2,1,545,1_thanks_time_thank_thankyou,"['thanks', 'time', 'thank', 'thankyou', 'life', 'leicester', 'something', 'moment', 'clip', 'hour']"
-3,2,487,2_money_cost_ticket_course,"['money', 'cost', 'ticket', 'course', 'card', 'bank', 'credit', 'energy', 'cash', 'scotland']"
-4,3,426,3_tory_party_vote_election,"['tory', 'party', 'vote', 'election', 'voter', 'labour', 'people', 'corbyn', 'ballot', 'voting']"
-5,4,421,4_year_paeds_rotation_sign,"['year', 'paeds', 'rotation', 'sign', 'consent', 'petition', 'form', 'signature', 'time', 'thanks']"
+0,-1,27974,-1_time_people_year_patient,"['time', 'people', 'year', 'patient', 'thing', 'work', 'today', 'doctor', 'thank', 'thanks']"
+1,0,461,0_tory_party_vote_election,"['tory', 'party', 'vote', 'election', 'voter', 'people', 'committee', 'ballot', 'candidate', 'idiot']"
+2,1,456,1_tweet_twitter_timeline_sepsis,"['tweet', 'twitter', 'timeline', 'sepsis', 'people', 'reply', 'time', 'someone', 'account', 'year']"
+3,2,434,2_thanks_thank_piece_thankyou,"['thanks', 'thank', 'piece', 'thankyou', 'work', 'life', 'moment', 'person', 'someone', 'people']"
+4,3,412,3_covid_daughter_child_filter,"['covid', 'daughter', 'child', 'filter', 'patient', 'virus', 'hospital', 'people', 'hepa', 'school']"
+5,4,340,4_week_paeds_follower_rotation,"['week', 'paeds', 'follower', 'rotation', 'rota', 'brexit', 'time', 'ireland', 'work', 'thank']"
