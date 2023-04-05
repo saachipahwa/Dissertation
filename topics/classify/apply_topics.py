@@ -23,8 +23,7 @@ def get_docs_topics(modelname, directory, profession):
     model = BERTopic.load(modelname)
     df = model.get_document_info(get_all_tweets(directory)['nouns'])
     df["original_text"] = get_all_tweets(directory)['text']
-    df.to_csv(f"Dissertation/topics/{profession}_docs/docs_topics.csv")
-
+    df.to_csv("Dissertation/topics/{}_docs/docs_topics.csv".format(profession))
 
 get_docs_topics(modelname="{}_{}_1_model".format(directory, nr_topics), directory=directory, profession=profession)
 
