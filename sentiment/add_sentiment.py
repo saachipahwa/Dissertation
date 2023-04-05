@@ -85,7 +85,7 @@ def sentiment_scores(sentence):
         return 0
 
 def add_sentiment():
-    docs = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
+    docs = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     docs['sentiment_index'] = docs['clean_text'].apply(lambda x: sentiment_scores(x))
     conditions = [
         (docs['sentiment_index'] == 0),
@@ -96,7 +96,7 @@ def add_sentiment():
     docs.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
               errors='ignore')
     docs['sentiment'] = np.select(conditions, values)
-    docs.to_csv("Dissertation/sentiment/docs_sentiment.csv")
+    docs.to_csv(f"sentiment/{profession_name}s_csvs/docs_sentiment.csv")
 
 add_sentiment()
 
