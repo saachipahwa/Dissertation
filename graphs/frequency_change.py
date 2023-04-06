@@ -6,33 +6,33 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 1
 directory_name = directories[directory_index]
-profession_name = "teacher"
+profession_name = "doctor"
 nr_topics = 10
-work_topics = [1,7]
+work_topics = [5]
 
 #TEACHER:
-top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
-topic_0 = ['tweet', 'twitter', 'account', 'people', 'reply']
-topic_2 = ['morning', 'james', 'claire', 'paul', 'nicola']
-topic_3 = ['enjoy', 'bird', 'today', 'theme', 'butterfly']
-topic_4 = ['thanks', 'hope', 'look', 'care', 'sorry']
-topic_5 = ['thank', 'kind', 'thanks', 'bridge', 'touch']
-topic_6 = ['energy', 'price', 'bill', 'cost', 'water']
-topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
-topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
-all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
-topic_names = ["Twitter activity", #for teacherspy
-                "School and  holidays",
-                "Good mornings",
-                "Nature",
-                "Well wishes",
-                "Thank you's",
-                "Finances",
-                "School funding",
-                "Meals",
-                "Loving wishes"]
+# top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
+# topic_0 = ['tweet', 'twitter', 'account', 'people', 'reply']
+# topic_2 = ['morning', 'james', 'claire', 'paul', 'nicola']
+# topic_3 = ['enjoy', 'bird', 'today', 'theme', 'butterfly']
+# topic_4 = ['thanks', 'hope', 'look', 'care', 'sorry']
+# topic_5 = ['thank', 'kind', 'thanks', 'bridge', 'touch']
+# topic_6 = ['energy', 'price', 'bill', 'cost', 'water']
+# topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
+# topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
+# all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
+# topic_names = ["Twitter activity", #for teacherspy
+#                 "School and  holidays",
+#                 "Good mornings",
+#                 "Nature",
+#                 "Well wishes",
+#                 "Thank you's",
+#                 "Finances",
+#                 "School funding",
+#                 "Meals",
+#                 "Loving wishes"]
 # top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
 # topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
 # topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
