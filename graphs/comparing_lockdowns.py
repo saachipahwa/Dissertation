@@ -12,16 +12,16 @@ directory_name = directories[directory_index]
 profession_name = "doctor"
 nr_topics = 10
 
-topic_dict =  { 0: "Twitter activity and commuting", #doctors
-                                 1: "Medical rotations and politics",
-                                 2: "Congraulations and well wishes",
-                                 3: "Thank you's",
-                                 4: "British politics",
-                                 5: "Surgery",
-                                 6: "COVID",
-                                 7: "Medical school and training",
-                                 8: "COVID safety in schools and university students",
-                                 9: "Family and children"}
+topic_dict =  {  0: "Twitter activity and commuting", #doctors
+                 1: "Medical rotations and politics",
+                 2: "Congraulations and well wishes",
+                 3: "Thank you's",
+                 4: "British politics",
+                 5: "Surgery",
+                 6: "COVID",
+                 7: "Medical school and training",
+                 8: "COVID safety in schools and university students",
+                 9: "Family and children"}
 
 topic_strings = ["0: Twitter/commuting", #doctors
                 "1: Rotations/politics",
@@ -70,7 +70,7 @@ topic_strings = ["0: Twitter/commuting", #doctors
 #               "8: General life",
 #               "9: Friends & people"]
 
-chosen_topics = [0,1,2,3,4,6,7,8,9]
+chosen_topics = [0,2,3,4,6,7,8,9]
 work_topics = [5]
 
 first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
@@ -122,7 +122,7 @@ def get_before_lockdown():
     before_third_lockdown = df.iloc[3534:5161]
     before_third_lockdown.to_csv(f"graphs/{profession_name}s/before_third_lockdown.csv")
 
-# get_before_lockdown()
+get_before_lockdown()
 
 def get_lockdown_tweets():
     df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
@@ -167,7 +167,7 @@ def get_lockdown_tweets():
     third_lockdown = df.iloc[5161:6713]
     third_lockdown.to_csv(f"graphs/{profession_name}s/third_lockdown.csv")
 
-# get_lockdown_tweets()
+get_lockdown_tweets()
 
 def get_after_lockdown():
     df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
@@ -202,7 +202,7 @@ def get_after_lockdown():
     before_third_lockdown = df.iloc[6713:8365]
     before_third_lockdown.to_csv(f"graphs/{profession_name}s/after_third_lockdown.csv")
 
-# get_after_lockdown()
+get_after_lockdown()
 
 def get_lockdown_control():
     #find indexes for start and end dates of lockdown periods
@@ -227,18 +227,18 @@ def get_lockdown_control():
     # print(df_enddate)
 
     # make docs csv of first lockdown 131 to 178
-    # control1 = df.iloc[131:178]
-    # control1.to_csv(f"graphs/{profession_name}s/control1.csv")
-    # #
-    # # # make docs csv of second lockdown 570 to 623
-    # control2 = df.iloc[570:624]
-    # control2.to_csv(f"graphs/{profession_name}s/control2.csv")
+    control1 = df.iloc[131:178]
+    control1.to_csv(f"graphs/{profession_name}s/control1.csv")
+    #
+    # # make docs csv of second lockdown 570 to 623
+    control2 = df.iloc[570:624]
+    control2.to_csv(f"graphs/{profession_name}s/control2.csv")
     
     # make docs csv of first lockdown 677 to 829
     control3 = df.iloc[677:830]
     control3.to_csv(f"graphs/{profession_name}s/control3.csv")
 
-# get_lockdown_control()
+get_lockdown_control()
 
 def lockdown_Life_Work():
     # first lockdown
@@ -467,4 +467,4 @@ def lockdown_topics_bar():
     plt.legend()
     plt.show()
 
-lockdown_topics_bar()
+# lockdown_topics_bar()
