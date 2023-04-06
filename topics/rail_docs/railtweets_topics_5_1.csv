@@ -1,7 +1,7 @@
 ,Topic,Count,Name,details
-0,-1,35417,-1_time_people_train_year,"['time', 'people', 'train', 'year', 'thing', 'line', 'service', 'work', 'station', 'today']"
-1,0,820,0_rail_railway_industry_network,"['rail', 'railway', 'industry', 'network', 'train', 'article', 'shapps', 'fare', 'passenger', 'government']"
-2,1,696,1_thanks_thank_john_please,"['thanks', 'thank', 'john', 'please', 'jackie', 'wait', 'glad', 'read', 'sorry', 'time']"
-3,2,498,2_manchester_doncaster_voyager_september,"['manchester', 'doncaster', 'voyager', 'september', 'chris', 'crewe', 'sheffield', 'birmingham', 'tank', 'stoke']"
-4,3,422,3_tory_party_labour_leader,"['tory', 'party', 'labour', 'leader', 'thatcher', 'pier', 'leadership', 'people', 'branch', 'plot']"
-5,4,419,4_season_hastings_football_game,"['season', 'hastings', 'football', 'game', 'league', 'goal', 'step', 'ball', 'relegation', 'play']"
+0,-1,32917,-1_time_people_train_year,"['time', 'people', 'train', 'year', 'thing', 'work', 'service', 'today', 'line', 'station']"
+1,0,1035,0_rail_railway_strike_union,"['rail', 'railway', 'strike', 'union', 'lynch', 'network', 'industry', 'mick', 'train', 'government']"
+2,1,680,1_thanks_thank_john_reply,"['thanks', 'thank', 'john', 'reply', 'jackie', 'wait', 'response', 'read', 'glad', 'time']"
+3,2,589,2_tory_party_labour_election,"['tory', 'party', 'labour', 'election', 'vote', 'leader', 'picket', 'voter', 'people', 'leadership']"
+4,3,587,3_season_hastings_football_league,"['season', 'hastings', 'football', 'league', 'game', 'bath', 'club', 'step', 'relegation', 'cray']"
+5,4,546,4_video_look_crossrail_line,"['video', 'look', 'crossrail', 'line', 'facebook', 'tube', 'youtube', 'crewe', 'birmingham', 'name']"
