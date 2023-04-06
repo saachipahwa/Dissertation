@@ -178,18 +178,18 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
            ('Work', 'Life'),
            loc='best',
            fontsize=12)
-    plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown")
+    plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown for {profession_name}s")
     plt.xlabel("Frequency change")
     plt.ylabel("Term")
     plt.grid()
     plt.show()
 
-freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
-freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
-freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
-freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
-freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
-freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+# freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+# freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
+# freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
+# freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
+# freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
+# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -276,17 +276,17 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.xticks([r + barWidth for r in range(len(df1_array))],
                categories)
 
-    plt.title(f"Distribution of topics discussed {df1_label} compared to {df2_label} the {which_lockdown} lockdown")
+    plt.title(f"Distribution of topics that {profession_name}s discussed {df1_label} compared to {df2_label} the {which_lockdown} lockdown")
     plt.legend()
     plt.show()
 
 topics = [2,3,4,5,6,8]
-# compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
-# compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
-# compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
+compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
+compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
+compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
 
-# compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
-# compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
-# compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
+compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
+compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
+compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
 
 
