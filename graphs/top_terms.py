@@ -10,6 +10,8 @@ directory_index = 1
 directory_name = directories[directory_index]
 profession_name = "doctor"
 nr_topics = 10
+work_topics = [5]
+other_topics = [0,1,2,3,4,6,7,8,9]
 
 def get_all_tweets(directory=None):
     directory = "Dissertation/"+directory #remove when running locally
@@ -56,7 +58,9 @@ def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
     print(model.get_topic_info())
-    fig = model.visualize_barchart(topics=[5], n_words = 10)
+    fig = model.visualize_barchart(topics=work_topics, n_words = 10)
+    fig.show()
+    fig = model.visualize_barchart(topics=other_topics, n_words = 5)
     fig.show()
 
 top_terms()

@@ -6,33 +6,36 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 2
 directory_name = directories[directory_index]
-profession_name = "doctor"
+profession_name = "teacher"
 nr_topics = 10
-work_topics = [5]
+work_topics = [1,7]
+
 
 #TEACHER:
-# top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
-# topic_0 = ['tweet', 'twitter', 'account', 'people', 'reply']
-# topic_2 = ['morning', 'james', 'claire', 'paul', 'nicola']
-# topic_3 = ['enjoy', 'bird', 'today', 'theme', 'butterfly']
-# topic_4 = ['thanks', 'hope', 'look', 'care', 'sorry']
-# topic_5 = ['thank', 'kind', 'thanks', 'bridge', 'touch']
-# topic_6 = ['energy', 'price', 'bill', 'cost', 'water']
-# topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
-# topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
-# all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
-# topic_names = ["Twitter activity", #for teacherspy
-#                 "School and  holidays",
-#                 "Good mornings",
-#                 "Nature",
-#                 "Well wishes",
-#                 "Thank you's",
-#                 "Finances",
-#                 "School funding",
-#                 "Meals",
-#                 "Loving wishes"]
+top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
+topic_0 = ['tweet', 'twitter', 'account', 'people', 'reply']
+topic_2 = ['morning']
+topic_3 = ['enjoy', 'bird', 'today', 'theme', 'butterfly']
+topic_4 = ['thanks', 'hope', 'look', 'care', 'sorry']
+topic_5 = ['thank', 'kind', 'thanks', 'bridge', 'touch']
+topic_6 = ['energy', 'price', 'bill', 'cost', 'water']
+topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
+topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
+all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
+topic_names = ["Twitter activity", #for teachers
+                "School and  holidays",
+                "Good mornings",
+                "Nature",
+                "Well wishes",
+                "Thank you's",
+                "Finances",
+                "School funding",
+                "Meals",
+                "Loving wishes"]
+
+#NURSES
 # top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
 # topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
 # topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
@@ -181,12 +184,12 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     plt.grid()
     plt.show()
 
-# freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
-# freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
-# freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
-# freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
-# freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
-# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
+freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
+freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
+freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
+freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -278,12 +281,12 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.show()
 
 topics = [2,3,4,5,6,8]
-compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
-compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
-compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
+# compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
+# compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
+# compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
 
-compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
-compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
-compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
+# compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
+# compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
+# compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
 
 
