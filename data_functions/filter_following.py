@@ -2,15 +2,15 @@ import os
 from datetime import datetime
 import pandas as pd
 
-followers_file = "data/NUJfollowers.csv"
-filtered_file = "data/filteredNUJfollowers2.csv"
+followers_file = "data/RMTfollowerspart2.csv"
+filtered_file = "data/filteredRMTfollowers2.csv"
 nurse_description_string = "nurse|nursing"
 teacher_description_string = "teacher"
 doctor_description_string = "doctor|surgeon|general practicioner"
 journalist_description_string = "journalist"
-railworker_description_string = "rail|train |maritime"
+railworker_description_string = "rail |train |railway|maritime"
 musician_description_string = "music|musician"
-description_string = journalist_description_string
+description_string = railworker_description_string
 today = datetime.today()
 current_year = today.year
 
@@ -52,7 +52,7 @@ def filter(df = None):
     # df = df.loc[~(df["friend_ratio"]>2)] #MU
     # df = df.loc[~(df["followers_count"]>50000)] #MU
 
-    # df = df.loc[~(df["followers_count"]>10000)] #for trains
+    df = df.loc[~(df["followers_count"]>10000)] #for trains
 
     #remove private accounts
     df['protected'] = df['protected'].astype(str)
@@ -64,6 +64,12 @@ def filter(df = None):
 followersdf = pd.read_csv(followers_file, index_col=0)
 followersdf = filter(df=followersdf)
 followersdf.to_csv(filtered_file)
+
+# df1 = pd.read_csv("data/filteredRMTfollowers1.csv", error_bad_lines=False)
+# df2 = pd.read_csv("data/filteredRMTfollowers2.csv", error_bad_lines=False)
+# df1 = df1.append(df2, ignore_index=True)
+# print(df1)
+# df1.to_csv("data/filteredRMTfollowers1.csv")
 
 def second_filter(followers_df_name = "data/filteredNUJfollowers.csv", directory = "journalisttweets"):
     # Use after filtering tweets
