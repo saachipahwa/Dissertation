@@ -33,7 +33,8 @@ topic_strings = ["0: Twitter/commuting", #doctors
                 "7: Medical training",
                 "8: COVID in schools",
                 "9: Family/children"]
-
+chosen_topics = [0,1,2,3,4,6,7,8,9]
+work_topics = [5]
 # topic_dict = { 0: "Twitter activity", #for teachers
 #                 1: "School and school holidays",
 #                 2: "Good mornings and people",
@@ -70,8 +71,7 @@ topic_strings = ["0: Twitter/commuting", #doctors
 #               "8: General life",
 #               "9: Friends & people"]
 
-chosen_topics = [0,2,3,4,6,7,8,9]
-work_topics = [5]
+
 
 first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
 second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
@@ -330,11 +330,11 @@ def lockdown_Life_Work_None():
     print("control1", control1)
 
     c2_counts_df = control2_df['label'].value_counts()
-    control2 = [c2_counts_df["Life"]/len(control2_df), c2_counts_df["Work"]/len(control2_df), c2_counts_df["None"]/len(control2_df)]
+    control2 = [c2_counts_df["Life"]/len(control2_df), 0, c2_counts_df["None"]/len(control2_df)]
     print("control2", control2)
 
     c3_counts_df = control3_df['label'].value_counts()
-    control3 = [c3_counts_df["Life"]/len(control3_df), c3_counts_df["Work"]/len(control3_df), c3_counts_df["None"]/len(control3_df)]
+    control3 = [c3_counts_df["Life"]/len(control3_df), 0, c3_counts_df["None"]/len(control3_df)]
     print("control3", control3)
 
     lockdowns = ["Control for First Lockdown",
@@ -377,7 +377,7 @@ def lockdown_Life_Work_None():
 
     plt.show()
 
-# lockdown_Life_Work_None()
+lockdown_Life_Work_None()
 
 def lockdown_topics_pie():
     categories = topic_dict.copy()
@@ -414,7 +414,7 @@ def lockdown_topics_pie():
     plt.title(f"Distribution of tweets about life topics for {profession_name}s during the third lockdown")
     plt.show()
 
-# lockdown_topics_pie()
+lockdown_topics_pie()
 
 def lockdown_topics_bar():
     # first lockdown
@@ -467,4 +467,4 @@ def lockdown_topics_bar():
     plt.legend()
     plt.show()
 
-# lockdown_topics_bar()
+lockdown_topics_bar()
