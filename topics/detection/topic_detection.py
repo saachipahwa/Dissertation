@@ -8,9 +8,9 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 5
+directory_index = 3
 directory_name = directories[directory_index]
-profession_name = "musician"
+profession_name = "rail"
 
 def get_all_tweets(directory=None):
     df = pd.DataFrame()
