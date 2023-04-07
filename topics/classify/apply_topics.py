@@ -8,7 +8,7 @@ directories = ["nursetweets", "doctortweets", "teachertweets",
 directory_index = 5
 directory = directories[directory_index]
 profession = "musician"
-nr_topics = 10
+nr_topics = 15
 
 def get_all_tweets(directory=None):
     df = pd.DataFrame()

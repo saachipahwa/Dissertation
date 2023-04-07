@@ -6,12 +6,12 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
-work_topics = [5]
-other_topics = [0,1,2,3,4,6,7,8,9]
+profession_name = "journalist"
+nr_topics = 15
+work_topics = [4]
+other_topics = [0,1,2,3,5,6,7,8,9]
 
 def get_all_tweets(directory=None):
     directory = "Dissertation/"+directory #remove when running locally
@@ -45,7 +45,7 @@ def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df.to_csv(path)
     print(df.head())
 
-add_topic_label()
+# add_topic_label()
 
 def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name)):
     df = pd.read_csv(path)
@@ -53,7 +53,7 @@ def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
 
-reset_index()
+# reset_index()
 
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
