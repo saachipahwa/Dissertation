@@ -13,27 +13,27 @@ nr_topics = 10
 work_topics = [1, 5]
 
 #DOCTORS
-top_work_terms = ['surgeon', 'surgery', 'anaesthetic', 'hand', 'catheter', 'anaesthetist', 'tube', 'knee', 'cardiologist', 'hashtag']
-topic_0 = ['twitter', 'tweet', 'bike', 'train', 'blog']
-topic_1 = ['year', 'paeds', 'rotation', 'rota', 'sorry']
-topic_2 = ['thanks', 'hope', 'thank', 'wish', 'thankyou']
-topic_4 = ['tory', 'party', 'vote', 'election', 'voter']
-topic_3 = ['time', 'hour', 'piece', 'thank', 'thanks']
-topic_6 = ['covid', 'recovery', 'rule', 'patient', 'hospital']
-topic_7 = ['trainee', 'consultant', 'training', 'course', 'trainer']
-topic_8 = ['school', 'child', 'student', 'teacher', 'year']
-topic_9 = ['child', 'parent', 'daughter', 'guess', 'fact']
-all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_4, topic_6, topic_7, topic_8, topic_9]
-topic_names = ["Twitter/commuting",  #doctors
-               "Rotations/politics",
-               "Well wishes",
-               "Thank you's",
-               "British politics",
-               "Surgery",
-               "COVID",
-               "Medical training",
-               "COVID in schools",
-               "Family/children"]
+# top_work_terms = ['surgeon', 'surgery', 'anaesthetic', 'hand', 'catheter', 'anaesthetist', 'tube', 'knee', 'cardiologist', 'hashtag']
+# topic_0 = ['twitter', 'tweet', 'bike', 'train', 'blog']
+# topic_1 = ['year', 'paeds', 'rotation', 'rota', 'sorry']
+# topic_2 = ['thanks', 'hope', 'thank', 'wish', 'thankyou']
+# topic_4 = ['tory', 'party', 'vote', 'election', 'voter']
+# topic_3 = ['time', 'hour', 'piece', 'thank', 'thanks']
+# topic_6 = ['covid', 'recovery', 'rule', 'patient', 'hospital']
+# topic_7 = ['trainee', 'consultant', 'training', 'course', 'trainer']
+# topic_8 = ['school', 'child', 'student', 'teacher', 'year']
+# topic_9 = ['child', 'parent', 'daughter', 'guess', 'fact']
+# all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_4, topic_6, topic_7, topic_8, topic_9]
+# topic_names = ["Twitter/commuting",  #doctors
+#                "Rotations/politics",
+#                "Well wishes",
+#                "Thank you's",
+#                "British politics",
+#                "Surgery",
+#                "COVID",
+#                "Medical training",
+#                "COVID in schools",
+#                "Family/children"]
 
 #TEACHER:
 # top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']

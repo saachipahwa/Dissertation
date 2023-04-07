@@ -6,12 +6,12 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 4
+directory_index = 3
 directory_name = directories[directory_index]
-profession_name = "journalist"
+profession_name = "rail"
 nr_topics = 15
-work_topics = [4]
-other_topics = [0,1,2,3,5,6,7,8,9]
+work_topics = [0]
+other_topics = [1,2,3,4,5,6,7,8,9]
 
 def get_all_tweets(directory=None):
     directory = "Dissertation/"+directory #remove when running locally
@@ -19,7 +19,7 @@ def get_all_tweets(directory=None):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         print(f)
-        user_df = pd.read_csv(f, index_col=0)
+        user_df = pd.read_csv(f, index_col=0, error_bad_lines=False)
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
@@ -30,7 +30,7 @@ def get_topics_with_dates(path = f"Dissertation/graphs/{profession_name}s/topics
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(path)
 
-# get_topics_with_dates()
+get_topics_with_dates()
 
 def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
