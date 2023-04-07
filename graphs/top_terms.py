@@ -11,7 +11,7 @@ directory_name = directories[directory_index]
 profession_name = "journalist"
 nr_topics = 15
 work_topics = [4] #change add_topic_label function too
-other_topics = [0,1,2,3,5,6,7,8,9]
+other_topics = [0,1,2,3,5,6,7,8,9,10,11,12,13,14]
 
 def get_all_tweets(directory=None):
     directory = "Dissertation/"+directory #remove when running locally
@@ -30,7 +30,7 @@ def get_topics_with_dates(path = f"Dissertation/graphs/{profession_name}s/topics
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(path)
 
-# get_topics_with_dates()
+get_topics_with_dates()
 
 def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
@@ -45,7 +45,7 @@ def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df.to_csv(path)
     print(df.head())
 
-add_topic_label()
+# add_topic_label()
 
 def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name)):
     df = pd.read_csv(path)
@@ -53,7 +53,7 @@ def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
 
-reset_index()
+# reset_index()
 
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
