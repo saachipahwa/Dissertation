@@ -30,13 +30,13 @@ def get_topics_with_dates(path = f"Dissertation/graphs/{profession_name}s/topics
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(path)
 
-get_topics_with_dates()
+# get_topics_with_dates()
 
 def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df = pd.read_csv(path)
     conditions = [
         #CHANGE FOR NEW WORKER GROUP
-        (df['Topic'] == 0),
+        (df['Topic'] == 2),
         (df['Topic'] == -1)
     ]
     values = ["Work", "None"]
@@ -46,7 +46,7 @@ def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df.to_csv(path)
     print(df.head())
 
-# add_topic_label()
+add_topic_label()
 
 def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name)):
     df = pd.read_csv(path)
@@ -54,7 +54,7 @@ def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
 
-# reset_index()
+reset_index()
 
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
@@ -65,7 +65,7 @@ def top_terms():
     fig.show()
 
 # top_terms()
-
+#
 #unused functions
 # def dynamic_topic_modelling():
 #     dates_df = pd.read_csv("Dissertation/graphs/topics_with_dates.csv")
