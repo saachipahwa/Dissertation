@@ -6,34 +6,94 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
-work_topics = [5]
+profession_name = "journalist"
+nr_topics = 15
+work_topics = [4]
+
+#JOURNALISTS
+top_work_terms = ['journalist', 'journalism', 'paper', 'boat', 'newspaper', 'career', 'news', 'pier', 'breath', 'reminder']
+topic_0 = ['thank', 'thanks', 'hope', 'moment', 'kind']
+topic_1 = ['food', 'lunch', 'breakfast', 'restaurant', 'meal']
+topic_2 = ['tweet', 'twitter', 'account', 'timeline', 'people']
+topic_3 = ['song', 'music', 'album', 'tune', 'version']
+topic_5 = ['book', 'writer', 'author', 'list', 'bookshop']
+topic_6 = ['photo', 'photographer', 'photography', 'camera', 'image']
+topic_7 = ['vaccine', 'virus', 'vaccination', 'booster', 'covid']
+topic_8 = ['covid', 'hospital', 'restriction', 'case', 'people']
+topic_9 = ['woman', 'violence', 'rape', 'gender', 'misogyny']
+topic_10 = ['ireland', 'duble', 'belfast', 'accent', 'derry']
+topic_11 = ['james', 'jones', 'injury', 'saunders', 'bond']
+topic_12 = ['episode', 'podcasts', 'series', 'podcasts', 'simpson']
+topic_13 = ['family', 'love', 'prayer', 'psni', 'thought']
+topic_14 = ['year', 'bloody', 'hell', 'culture', 'wifi']
+
+all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_5, topic_6, topic_7, topic_8, topic_9,
+             topic_10, topic_11, topic_12, topic_13, topic_14]
+
+topic_names = ["Thank you/\nwishes",
+                 "Food",
+                 "Twitter",
+                 "TV/music",
+                "Journalism and articles",
+                 "Books",
+                 "Photography"
+                 "Vaccines",
+                 "COVID \nRestrictions",
+                 "Gender \nviolence",
+                 "Ireland",
+                 "Football",
+                 "TV",
+                 "Prayers",
+                 "Bloody \nhell"]
+
+
+#RAIL WORKERS
+# top_work_terms = ['rail', 'railway', 'industry', 'network', 'article', 'company', 'train', 'tocs', 'government', 'people']
+# topic_1 = ['season', 'game', 'hastings', 'football', 'league']
+# topic_2 = ['thanks', 'john', 'congratulation', 'thank', 'reply']
+# topic_3 = ['tory', 'party', 'labour', 'election', 'vote']
+# topic_4 = ['treasury', 'minister', 'mayor', 'sunak', 'shapps']
+# topic_5 = ['tweet', 'twitter', 'people', 'someone', 'account']
+# topic_6 = ['video', 'crossrail', 'look', 'line', 'name']
+# topic_7 = ['phone', 'camera', 'battery', 'realme', 'honor']
+# topic_8 = ['photo', 'photographer', 'image', 'picture', 'thanks']
+# topic_9 = ['station', 'park', 'facebook', 'cream', 'island']
+# all_terms = [top_work_terms, topic_1, topic_2, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
+# topic_names = ["Railway industry",
+#                 "Football",
+#                 "Thank you's",
+#                 "Politics/Elections",
+#                 "Political protest",
+#                  "Twitter",
+#                  "Internet videos",
+#                  "Technology",
+#                  "Photography",
+#                  "Railways/Facebook"]
 
 #DOCTORS
-top_work_terms = ['surgeon', 'surgery', 'anaesthetic', 'hand', 'catheter', 'anaesthetist', 'tube', 'knee', 'cardiologist', 'hashtag']
-topic_0 = ['twitter', 'tweet', 'bike', 'train', 'blog']
-topic_1 = ['year', 'paeds', 'rotation', 'rota', 'sorry']
-topic_2 = ['thanks', 'hope', 'thank', 'wish', 'thankyou']
-topic_3 = ['time', 'hour', 'piece', 'thank', 'thanks']
-topic_4 = ['tory', 'party', 'vote', 'election', 'voter']
-topic_6 = ['covid', 'recovery', 'rule', 'patient', 'hospital']
-topic_7 = ['trainee', 'consultant', 'training', 'course', 'trainer']
-topic_8 = ['school', 'child', 'student', 'teacher', 'year']
-topic_9 = ['child', 'parent', 'daughter', 'guess', 'fact']
-all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_4, topic_6, topic_7, topic_8, topic_9]
-topic_names = ["Twitter/commuting",  #doctors
-               "Rotations/politics",
-               "Well wishes",
-               "Thank you's",
-               "British politics",
-               "Surgery",
-               "COVID",
-               "Medical training",
-               "COVID in schools",
-               "Family/children"]
+# top_work_terms = ['surgeon', 'surgery', 'anaesthetic', 'hand', 'catheter', 'anaesthetist', 'tube', 'knee', 'cardiologist', 'hashtag']
+# topic_0 = ['twitter', 'tweet', 'bike', 'train', 'blog']
+# topic_1 = ['year', 'paeds', 'rotation', 'rota', 'sorry']
+# topic_2 = ['thanks', 'hope', 'thank', 'wish', 'thankyou']
+# topic_3 = ['time', 'hour', 'piece', 'thank', 'thanks']
+# topic_4 = ['tory', 'party', 'vote', 'election', 'voter']
+# topic_6 = ['covid', 'recovery', 'rule', 'patient', 'hospital']
+# topic_7 = ['trainee', 'consultant', 'training', 'course', 'trainer']
+# topic_8 = ['school', 'child', 'student', 'teacher', 'year']
+# topic_9 = ['child', 'parent', 'daughter', 'guess', 'fact']
+# all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_4, topic_6, topic_7, topic_8, topic_9]
+# topic_names = ["Twitter/commuting",  #doctors
+#                "Rotations/politics",
+#                "Well wishes",
+#                "Thank you's",
+#                "British politics",
+#                "Surgery",
+#                "COVID",
+#                "Medical training",
+#                "COVID in schools",
+#                "Family/children"]
 
 #TEACHER:
 # top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
@@ -206,12 +266,12 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     plt.grid()
     plt.show()
 
-# freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
-# freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
-# freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
-# freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
-# freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
-# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
+freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
+freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
+freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
+freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -263,17 +323,27 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
 
     #add home life topics that were specified
     for i in topics:
-        if i in list(df1_counts.keys()) and i in list(df2_counts.keys()):
+        if i in list(df1_counts.keys()):
             df1_array.append((df1_counts[i]/len(df1))*100)
+        else:
+            df1_array.append(0)
+        if i in list(df2_counts.keys()):
             df2_array.append((df2_counts[i]/len(df2))*100)
-            categories.append(topic_names[i])
+        else:
+            df2_array.append(0)
+        categories.append(topic_names[i])
 
     #add work at end
     for k in work_topics:
-        if k in list(df2_counts.keys()) and k in list(df1_counts.keys()):
+        if k in list(df2_counts.keys()):
             df1_array.append((df1_counts[k]/len(df1))*100)
+        else:
+            df1_array.append(0)
+        if k in list(df1_counts.keys()):
             df2_array.append((df2_counts[k]/len(df2))*100)
-            categories.append(topic_names[k])
+        else:
+            df2_array.append(0)
+        categories.append(topic_names[k])
 
     print(categories)
 
@@ -301,13 +371,12 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-topics = [0,2,3,4,6,7,8,9]
-compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
-compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
-compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
-
-compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
-compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
-compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
-
-
+topics = [0,1,3,5,7,8,9]
+# compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
+# compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
+# compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
+# compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
+# compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
+# compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
+#
+#
