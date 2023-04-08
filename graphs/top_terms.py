@@ -64,7 +64,7 @@ def top_terms():
     fig = model.visualize_barchart(topics=other_topics, n_words = 5)
     fig.show()
 
-top_terms()
+# top_terms()
 
 #unused functions
 # def dynamic_topic_modelling():
