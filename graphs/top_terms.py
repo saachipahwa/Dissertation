@@ -46,7 +46,7 @@ def add_topic_label(path = f"graphs/{profession_name}s/topics_with_dates.csv"):
     df.to_csv(path)
     print(df.head())
 
-add_topic_label()
+# add_topic_label()
 
 def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name)):
     df = pd.read_csv(path)
@@ -54,7 +54,7 @@ def reset_index(path = "graphs/{}s/topics_with_dates.csv".format(profession_name
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
 
-reset_index()
+# reset_index()
 
 def top_terms():
     model = BERTopic.load(f"{directory_name}_{nr_topics}_1_model")
@@ -64,7 +64,7 @@ def top_terms():
     fig = model.visualize_barchart(topics=other_topics, n_words = 5)
     fig.show()
 
-# top_terms()
+top_terms()
 #
 #unused functions
 # def dynamic_topic_modelling():
