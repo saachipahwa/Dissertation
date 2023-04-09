@@ -10,15 +10,49 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 5
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
-work_topics = [5]
+profession_name = "musician"
+nr_topics = 15
+work_topics = [2]
+# chosen_topics = [0,1,3,5,7,8,9]
 #Use when plotting all topics in bar chart
-# chosen_topics = list(range(0, nr_topics))
-# for i in work_topics:
-#     del chosen_topics[i]
+chosen_topics = list(range(0, nr_topics))
+for i in work_topics:
+    del chosen_topics[i]
+
+topic_dict =  {  0: "Twitter activity", #musicians
+                 1: "British politics",
+                 2: "Music projects",
+                 3: "Sport & Lottery",
+                 4: "Photography",
+                 5: "Music",
+                 6: "Thank you's",
+                 7: "Music opinions",
+                 8: "Festivals",
+                 9: "Money",
+                 10: "Christmas",
+                 11: "Gender",
+                 12: "Scotland",
+                 13: "Internet videos",
+                 14: "Tickets"}
+
+topic_strings = [ #musicians
+    "0: Twitter \nactivity", #musicians
+    "1: British \npolitics",
+    "2: Music \nprojects",
+    "3: Sport \n& Lottery",
+    "4: Photography",
+    "5: Music",
+    "6: Thank you's",
+    "7: Music \nopinions",
+    "8: Festivals",
+    "9: Money",
+    "10: Christmas",
+    "11: Gender",
+    "12: Scotland",
+    "13: Internet \nvideos",
+    "14: Tickets"]
 
 # topic_dict =  {  0: "Railway industry", #rail workers
 #                  1: "Football",
@@ -42,39 +76,39 @@ work_topics = [5]
 #                  "8: Photography",
 #                  "9: Railways/Facebook"]
 
-topic_dict =  {  0: "Thank you and wishes", #journalist
-                 1: "Food: groceries and meals",
-                 2: "Twitter activity",
-                 3: "TV and music",
-                 4: "Journalism and articles",
-                 5: "Reading books",
-                 6: "Photography",
-                 7: "COVID-19 Vaccination",
-                 8: "Pandemic restrictions",
-                 9: "Gender violence",
-                 10: "Ireland and Accents",
-                 11: "Football, articles and movies",
-                 12: "TV and podcasts",
-                 13: "Prayers",
-                 14: "Bloody hell and Football"}
+# topic_dict =  {  0: "Thank you and wishes", #journalist
+#                  1: "Food: groceries and meals",
+#                  2: "Twitter activity",
+#                  3: "TV and music",
+#                  4: "Journalism and articles",
+#                  5: "Reading books",
+#                  6: "Photography",
+#                  7: "COVID-19 Vaccination",
+#                  8: "Pandemic restrictions",
+#                  9: "Gender violence",
+#                  10: "Ireland and Accents",
+#                  11: "Football, articles and movies",
+#                  12: "TV and podcasts",
+#                  13: "Prayers",
+#                  14: "Bloody hell and Football"}
+#
 
-chosen_topics = [0,1,3,5,7,8,9]
-
-topic_strings = ["0: Thank you/\nwishes", #journalist
-                 "1: Food",
-                 # "2: Twitter",
-                 "3: TV/music",
-                 "5: Books",
-                 # "6: Photography",
-                 "7: Vaccines",
-                 "8: COVID \nRestrictions",
-                 "9: Gender \nviolence",
-                 # "10: Ireland",
-                 # "11: Football",
-                 # "12: TV",
-                 # "13: Prayers",
-                 # "14: Bloody \nhell"
-                 ]
+#
+# topic_strings = ["0: Thank you/\nwishes", #journalist
+#                  "1: Food",
+#                  # "2: Twitter",
+#                  "3: TV/music",
+#                  "5: Books",
+#                  # "6: Photography",
+#                  "7: Vaccines",
+#                  "8: COVID \nRestrictions",
+#                  "9: Gender \nviolence",
+#                  # "10: Ireland",
+#                  # "11: Football",
+#                  # "12: TV",
+#                  # "13: Prayers",
+#                  # "14: Bloody \nhell"
+#                  ]
 #
 # topic_dict =  {  0: "Twitter activity and commuting", #doctors
 #                  1: "Medical rotations and politics",
@@ -172,16 +206,16 @@ def get_before_lockdown():
     # df_enddate = df[df['created_at'].str.match("2021-01-05")]
     # print(df_enddate)
 
-    # make docs csv of first lockdown 1428 to 1717
-    before_first_lockdown = df.iloc[1428:1718]
+    # make docs csv of first lockdown 4054 to 4847
+    before_first_lockdown = df.iloc[4054:4848]
     before_first_lockdown.to_csv(f"graphs/{profession_name}s/before_first_lockdown.csv")
 
-    # # make docs csv of second lockdown label 3123 to 3388
-    before_second_lockdown = df.iloc[3123:3389]
+    # # make docs csv of second lockdown 10352 to 11154
+    before_second_lockdown = df.iloc[10352:11155]
     before_second_lockdown.to_csv(f"graphs/{profession_name}s/before_second_lockdown.csv")
     #
-    # # make docs csv of third lockdown 3405 to 3978
-    before_third_lockdown = df.iloc[3405:3979]
+    # # make docs csv of third lockdown 11188 to 13427
+    before_third_lockdown = df.iloc[11188:13428]
     before_third_lockdown.to_csv(f"graphs/{profession_name}s/before_third_lockdown.csv")
 
 # get_before_lockdown()
@@ -208,16 +242,16 @@ def get_lockdown_tweets():
     # df_enddate = df[df['created_at'].str.match("2021-03-08")] #62 days
     # print(df_enddate)
 
-    # make docs csv of first lockdown 1718 to 1967
-    first_lockdown = df.iloc[1718:1968]
+    # make docs csv of first lockdown 4848 to 5994
+    first_lockdown = df.iloc[4848:5995]
     first_lockdown.to_csv(f"graphs/{profession_name}s/first_lockdown.csv")
 
-    # make docs csv of second lockdown 3389 to 3656
-    second_lockdown = df.iloc[3389:3657]
+    # make docs csv of second lockdown 11155 to 12122
+    second_lockdown = df.iloc[11155:12123]
     second_lockdown.to_csv(f"graphs/{profession_name}s/second_lockdown.csv")
 
-    # make docs csv of third lockdown 3979 to 4682
-    third_lockdown = df.iloc[3979:4683]
+    # make docs csv of third lockdown 13428 to 15883
+    third_lockdown = df.iloc[13428:15884]
     third_lockdown.to_csv(f"graphs/{profession_name}s/third_lockdown.csv")
 
 # get_lockdown_tweets()
@@ -225,7 +259,7 @@ def get_lockdown_tweets():
 def get_after_lockdown():
     df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
 
-    # #get index range for 46 days after first lockdown
+    # # get index range for 46 days after first lockdown
     # df_startdate = df[df['created_at'].str.match("2020-05-11")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2020-06-18")]
@@ -243,16 +277,16 @@ def get_after_lockdown():
     # df_enddate = df[df['created_at'].str.match("2021-06-09")]
     # print(df_enddate)
 
-    # make docs csv of first lockdown 1968 to 2241
-    before_first_lockdown = df.iloc[1968:2242]
+    # make docs csv of first lockdown 5995 to 7165
+    before_first_lockdown = df.iloc[5995:7166]
     before_first_lockdown.to_csv(f"graphs/{profession_name}s/after_first_lockdown.csv")
     #
-    # # make docs csv of second lockdown 3657 to 3893
-    before_second_lockdown = df.iloc[3657:3894]
+    # # make docs csv of second lockdown 12123 to 13150
+    before_second_lockdown = df.iloc[12123:13151]
     before_second_lockdown.to_csv(f"graphs/{profession_name}s/after_second_lockdown.csv")
     #
-    # # make docs csv of third lockdown 4683 to 5824
-    before_third_lockdown = df.iloc[4683:5825]
+    # # make docs csv of third lockdown 15884 to 20450
+    before_third_lockdown = df.iloc[15884:20451]
     before_third_lockdown.to_csv(f"graphs/{profession_name}s/after_third_lockdown.csv")
 
 # get_after_lockdown()
@@ -261,12 +295,12 @@ def get_lockdown_control():
     #find indexes for start and end dates of lockdown periods
     df = pd.read_csv(f"graphs/{profession_name}s/topics_with_dates.csv")
 
-    #confirm first lockdown indexes
+    # #confirm first lockdown indexes
     # df_startdate = df[df['created_at'].str.match("2019-03-28")]
     # print(df_startdate)
     # df_enddate = df[df['created_at'].str.match("2019-04-04")] #46 days
     # print(df_enddate)
-
+    #
     # # confirm second lockdown indexes
     # df_startdate = df[df['created_at'].str.match("2019-11-05")]
     # print(df_startdate)
@@ -279,16 +313,16 @@ def get_lockdown_control():
     # df_enddate = df[df['created_at'].str.match("2020-03-08")] #62 days would start at 06/01 but no tweets
     # print(df_enddate)
 
-    # make docs csv of first lockdown 40 to 44
-    control1 = df.iloc[40:45]
+    # make docs csv of first lockdown 582 to 681
+    control1 = df.iloc[582:681]
     control1.to_csv(f"graphs/{profession_name}s/control1.csv")
 
-    # make docs csv of second lockdown 747 to 963
-    control2 = df.iloc[747:964]
+    # make docs csv of second lockdown 3102 to 3351
+    control2 = df.iloc[3102:3351]
     control2.to_csv(f"graphs/{profession_name}s/control2.csv")
 
-    # make docs csv of first lockdown 1210 to 1611
-    control3 = df.iloc[1210:1612]
+    # make docs csv of first lockdown 3646 to 4462
+    control3 = df.iloc[3646:4462]
     control3.to_csv(f"graphs/{profession_name}s/control3.csv")
 
 # get_lockdown_control()
@@ -513,7 +547,7 @@ def lockdown_topics_pie():
     plt.title(f"Distribution of tweets about life topics for {profession_name}s during the third lockdown")
     plt.show()
 
-# lockdown_topics_pie()
+lockdown_topics_pie()
 
 def lockdown_topics_bar():
     # first lockdown
