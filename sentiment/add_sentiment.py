@@ -6,9 +6,9 @@ import pandas as pd
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 1
 directory_name = directories[directory_index]
-profession_name = "teacher"
+profession_name = "doctor"
 nr_topics = 10
 
 def get_all_tweets(directory=None):
@@ -30,32 +30,30 @@ def get_original_tweets():
     df["created_at"] = get_all_tweets(directory_name)['created_at']
     df.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
 
-# get_original_tweets()
+get_original_tweets()
 
 def reset_index(path = f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv"):
     df = pd.read_csv(path)
     df.sort_values(by='created_at', inplace=True)
     df.reset_index(drop=True, inplace=True)
     df.to_csv(path)
-    
 
-# reset_index()
+reset_index()
 
 def add_topic_label():
     df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     conditions = [
-        (df['Topic'] == 1),
-        (df['Topic'] == 7),
+        (df['Topic'] == 5),
         (df['Topic'] == -1)
     ]
-    values = ["Work", "Work", "None"]
+    values = ["Work", "None"]
     df.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
             errors='ignore')
     df['label'] = np.select(conditions, values, default="Life")
     df.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     print(df.head())
 
-# add_topic_label()
+add_topic_label()
 
 
 def sentiment_scores(sentence):
