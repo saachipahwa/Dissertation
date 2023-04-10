@@ -6,10 +6,10 @@ import pandas as pd
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 3
+directory_index = 5
 directory_name = directories[directory_index]
-profession_name = "rail"
-nr_topics = 10
+profession_name = "musician"
+nr_topics = 15
 #REMINDER TO SET WORK TOPICS in add_topic_label()
 
 def get_all_tweets(directory=None):
@@ -44,7 +44,7 @@ reset_index()
 def add_topic_label():
     df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     conditions = [
-        (df['Topic'] == 0),
+        (df['Topic'] == 2),
         (df['Topic'] == -1)
     ]
     values = ["Work", "None"]
