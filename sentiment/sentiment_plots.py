@@ -7,9 +7,9 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 0
+directory_index = 1
 directory_name = directories[directory_index]
-profession_name = "nurse"
+profession_name = "doctor"
 nr_topics = 10
 
 before1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
