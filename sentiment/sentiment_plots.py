@@ -7,10 +7,10 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
+profession_name = "journalist"
+nr_topics = 15
 
 before1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
 during1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/first_lockdown.csv")
@@ -25,19 +25,48 @@ after3 = pd.read_csv(f"sentiment/{profession_name}s_csvs/after_third_lockdown.cs
 def get_freq_change(df1, df2):
     df1counts = df1['sentiment'].value_counts()
     df2counts = df2['sentiment'].value_counts()
+    print("Df1counts", df1counts)
+    print("Df2counts", df2counts)
+    # print("positive 2", df2counts["Positive"])
+    # print("negative 2", df2counts["Negative"])
+    # print("none 2", df2counts["None"])
+    # print("length 2", len(df2), "\n")
+    # print("positive 1", df1counts["Positive"])
+    # print("negative 1", df1counts["Negative"])
+    # print("none 1", df1counts["None"])
+    # print("length 1", len(df1), "\n")
+    try:
+        df2pos = df2counts["Positive"]/len(df2)
+    except Exception as e:
+        df2pos = 0
 
-    print("positive 2", df2counts["Positive"])
-    print("negative 2", df2counts["Negative"])
-    print("none 2", df2counts["None"])
-    print("length 2", len(df2), "\n")
-    print("positive 1", df1counts["Positive"])
-    print("negative 1", df1counts["Negative"])
-    print("none 1", df1counts["None"])
-    print("length 1", len(df1), "\n")
+    try:
+        df1pos = df1counts['Positive']/len(df1)
+    except Exception as e:
+        df1pos = 0
+    try:
+        df2neg = df2counts["Negative"]/len(df2)
+    except Exception as e:
+        df2neg = 0
 
-    pos_change = ((df2counts["Positive"]/len(df2))-(df1counts['Positive']/len(df1)))*100
-    neg_change = ((df2counts["Negative"]/len(df2))-(df1counts['Negative']/len(df1)))*100
-    none_change = ((df2counts["None"]/len(df2))-(df1counts['None']/len(df1)))*100
+    try:
+        df1neg = df1counts['Negative']/len(df1)
+    except Exception as e:
+        df1neg = 0
+
+    try:
+        df2none = df2counts["None"]/len(df2)
+    except Exception as e:
+        df2none = 0
+
+    try:
+        df1none = df1counts["None"]/len(df1)
+    except Exception as e:
+        df1none = 0
+
+    pos_change = df2pos-df1pos
+    neg_change = df2neg-df2neg
+    none_change = df2none-df1none
     change_dict = {"positive":pos_change, "negative":neg_change, "none": none_change}
     print(change_dict)
     return change_dict
@@ -51,7 +80,6 @@ def get_frequency_change(df1, df2):
     workdict = get_freq_change(df1_work, df2_work)
     lifedict = get_freq_change(df1_life, df2_life)
     return workdict, lifedict
-
 
 def make_plot():
     labels = [["Before", "During", "first"], [ "Before", "During", "second"], ["Before", "During", "third"],
@@ -94,7 +122,7 @@ def make_plot():
     fig, ax = plt.subplots(figsize=(13,3))
     pd.plotting.parallel_coordinates(work_df, 'Classes', color=['green', 'red', 'blue'], ls='', marker='o')
     ax.legend(bbox_to_anchor=(1.01, 1.02), loc='upper left')
-    plt.title("Frequency change comparing periods before, during and after each lockdown: Work tweets")
+    plt.title(f"Frequency change comparing periods before, during and after each lockdown: Work tweets of {profession_name}s")
     plt.xlabel("Comparison")
     plt.ylabel("Percentage change")
     plt.tight_layout()
@@ -103,7 +131,7 @@ def make_plot():
     fig2, ax2 = plt.subplots(figsize=(13,3))
     pd.plotting.parallel_coordinates(life_df, 'Classes', color=['green', 'red', 'blue'], ls='', marker='o')
     ax2.legend(bbox_to_anchor=(1.01, 1.02), loc='upper left')
-    plt.title("Frequency change comparing periods before, during and after each lockdown: Life tweets")
+    plt.title(f"Frequency change comparing periods before, during and after each lockdown: Life tweets of {profession_name}s")
     plt.xlabel("Comparison")
     plt.ylabel("Percentage change")
     plt.tight_layout()
