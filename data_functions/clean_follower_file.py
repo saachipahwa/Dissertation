@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-directory = "musiciantweets"
-followers_df_name = "data/filteredMUfollowers.csv"
+directory = "teachertweets"
+followers_df_name = "data/filteredNEUfollowers.csv"
 followers_df = pd.read_csv(followers_df_name, error_bad_lines=False)
 count_removed = 0
 

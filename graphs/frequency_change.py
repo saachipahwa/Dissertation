@@ -6,47 +6,83 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 4
+directory_index = 0
 directory_name = directories[directory_index]
-profession_name = "journalist"
-nr_topics = 15
-work_topics = [4]
+profession_name = "nurse"
+nr_topics = 10
+work_topics = [2]
 
-#JOURNALISTS
-top_work_terms = ['journalist', 'journalism', 'paper', 'boat', 'newspaper', 'career', 'news', 'pier', 'breath', 'reminder']
-topic_0 = ['thank', 'thanks', 'hope', 'moment', 'kind']
-topic_1 = ['food', 'lunch', 'breakfast', 'restaurant', 'meal']
-topic_2 = ['tweet', 'twitter', 'account', 'timeline', 'people']
-topic_3 = ['song', 'music', 'album', 'tune', 'version']
-topic_5 = ['book', 'writer', 'author', 'list', 'bookshop']
-topic_6 = ['photo', 'photographer', 'photography', 'camera', 'image']
-topic_7 = ['vaccine', 'virus', 'vaccination', 'booster', 'covid']
-topic_8 = ['covid', 'hospital', 'restriction', 'case', 'people']
-topic_9 = ['woman', 'violence', 'rape', 'gender', 'misogyny']
-topic_10 = ['ireland', 'duble', 'belfast', 'accent', 'derry']
-topic_11 = ['james', 'jones', 'injury', 'saunders', 'bond']
-topic_12 = ['episode', 'podcasts', 'series', 'podcasts', 'simpson']
-topic_13 = ['family', 'love', 'prayer', 'psni', 'thought']
-topic_14 = ['year', 'bloody', 'hell', 'culture', 'wifi']
+# #MUSICIANS
+# top_work_terms = ['album', 'review', 'cover', 'jack', 'list', 'duet', 'year', 'poverty', 'song', 'release']
+# topic_0 = ['tweet', 'twitter', 'account', 'follower', 'timeline']
+# topic_1 = ['tory', 'corbyn', 'labour', 'party', 'union']
+# topic_3 = ['race', 'horse', 'winner', 'weight', 'chase']
+# topic_4 = ['photo', 'camera', 'photographer', 'shot', 'shape']
+# topic_5 = ['morning', 'listen', 'burg', 'ralph', 'breakfast']
+# topic_6 = ['thanks', 'thank', 'support', 'james', 'worry']
+# topic_7 = ['time', 'breath', 'breathe', 'people', 'thing']
+# topic_8 = ['festival', 'jazz', 'tree', 'glastonbury', 'plant']
+# topic_9 = ['drug', 'wage', 'talent', 'growth', 'worker']
+# topic_10 = ['christmas', 'soup', 'merry', 'xmas', 'biscuit']
+# topic_11 = ['woman', 'trans', 'argument', 'gender', 'people']
+# topic_12 = ['scotland', 'glasgow', 'kingdom', 'composer', 'independence']
+# topic_13 = ['video', 'youtube', 'channel', 'handmade', 'club']
+# topic_14 = ['ticket', 'wembley', 'stadium', 'price', 'booking']
+#
+# all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9,
+#              topic_10, topic_11, topic_12, topic_13, topic_14]
+#
+# topic_names = ["Twitter \nactivity",
+#                "British \npolitics",
+#                "Music \nprojects",
+#                "Sport \n& Lottery",
+#                "Photography",
+#                "Music",
+#                "Thank you's",
+#                "Music \nopinions",
+#                "Festivals",
+#                "Money",
+#                "Christmas",
+#                "Gender",
+#                "Scotland",
+#                "Internet \nvideos",
+#                "Tickets"]
 
-all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_5, topic_6, topic_7, topic_8, topic_9,
-             topic_10, topic_11, topic_12, topic_13, topic_14]
-
-topic_names = ["Thank you/\nwishes",
-                 "Food",
-                 "Twitter",
-                 "TV/music",
-                "Journalism and articles",
-                 "Books",
-                 "Photography"
-                 "Vaccines",
-                 "COVID \nRestrictions",
-                 "Gender \nviolence",
-                 "Ireland",
-                 "Football",
-                 "TV",
-                 "Prayers",
-                 "Bloody \nhell"]
+# #JOURNALISTS
+# top_work_terms = ['journalist', 'journalism', 'paper', 'boat', 'newspaper', 'career', 'news', 'pier', 'breath', 'reminder']
+# topic_0 = ['thank', 'thanks', 'hope', 'moment', 'kind']
+# topic_1 = ['food', 'lunch', 'breakfast', 'restaurant', 'meal']
+# topic_2 = ['tweet', 'twitter', 'account', 'timeline', 'people']
+# topic_3 = ['song', 'music', 'album', 'tune', 'version']
+# topic_5 = ['book', 'writer', 'author', 'list', 'bookshop']
+# topic_6 = ['photo', 'photographer', 'photography', 'camera', 'image']
+# topic_7 = ['vaccine', 'virus', 'vaccination', 'booster', 'covid']
+# topic_8 = ['covid', 'hospital', 'restriction', 'case', 'people']
+# topic_9 = ['woman', 'violence', 'rape', 'gender', 'misogyny']
+# topic_10 = ['ireland', 'duble', 'belfast', 'accent', 'derry']
+# topic_11 = ['james', 'jones', 'injury', 'saunders', 'bond']
+# topic_12 = ['episode', 'podcasts', 'series', 'podcasts', 'simpson']
+# topic_13 = ['family', 'love', 'prayer', 'psni', 'thought']
+# topic_14 = ['year', 'bloody', 'hell', 'culture', 'wifi']
+#
+# all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_5, topic_6, topic_7, topic_8, topic_9,
+#              topic_10, topic_11, topic_12, topic_13, topic_14]
+#
+# topic_names = ["Thank you/\nwishes",
+#                  "Food",
+#                  "Twitter",
+#                  "TV/music",
+#                 "Journalism and articles",
+#                  "Books",
+#                  "Photography"
+#                  "Vaccines",
+#                  "COVID \nRestrictions",
+#                  "Gender \nviolence",
+#                  "Ireland",
+#                  "Football",
+#                  "TV",
+#                  "Prayers",
+#                  "Bloody \nhell"]
 
 
 #RAIL WORKERS
@@ -117,29 +153,29 @@ topic_names = ["Thank you/\nwishes",
 #                 "Meals",
 #                 "Loving wishes"]
 
-#NURSES
-# top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
-# topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
-# topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
-# topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
-# topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
-# topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
-# topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
-# topic_7 = ['time', 'girl', 'something', 'article', 'kind']
-# topic_8 = ['food', 'school', 'life', 'meal', 'child']
-# topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
-# all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
-# topic_names = ["Good morning",
-#                   "Thank you's",
-#                       "WORK",
-#                   "Congratulations",
-#                   "Expressions",
-#                   "Happy birthday",
-#                   "Exercise",
-#                   "Miscellaneous",
-#                   "General life",
-#                   "Friends & people",
-#                     ]
+# NURSES
+top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
+topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
+topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
+topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
+topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
+topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
+topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
+topic_7 = ['time', 'girl', 'something', 'article', 'kind']
+topic_8 = ['food', 'school', 'life', 'meal', 'child']
+topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
+all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
+topic_names = ["Good morning",
+                "Thank you's",
+                "Shifts",
+                  "Congratulations",
+                  "Expressions",
+                  "Happy birthday",
+                  "Exercise",
+                  "Miscellaneous",
+                  "General life",
+                  "Friends & people",
+                    ]
 
 before1 = pd.read_csv(f"graphs/{profession_name}s/before_first_lockdown.csv")
 during1 = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv")
@@ -371,12 +407,10 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-topics = [0,1,3,5,7,8,9]
-# compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
-# compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
-# compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
-# compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
-# compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
-# compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
-#
-#
+topics = [0,4,6,8,9]
+compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
+compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
+compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
+compare_topics(during1, after1,  topics, 'First', 'During', 'After', 'g', 'b')
+compare_topics(during2, after2,  topics, 'Second', 'During', 'After', 'g', 'b')
+compare_topics(during3, after3,  topics, 'Third', 'During', 'After', 'g', 'b')
