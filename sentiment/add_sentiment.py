@@ -6,10 +6,11 @@ import pandas as pd
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
+profession_name = "journalist"
+nr_topics = 15
+#REMINDER TO SET WORK TOPICS in add_topic_label()
 
 def get_all_tweets(directory=None):
     directory = "Dissertation/"+directory #remove when running locally
@@ -17,7 +18,7 @@ def get_all_tweets(directory=None):
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         print(f)
-        user_df = pd.read_csv(f, index_col=0)
+        user_df = pd.read_csv(f, index_col=0, error_bad_lines = False)
         df = pd.concat([df, user_df], ignore_index=True)
     return df
 
@@ -43,7 +44,7 @@ reset_index()
 def add_topic_label():
     df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     conditions = [
-        (df['Topic'] == 5),
+        (df['Topic'] == 4),
         (df['Topic'] == -1)
     ]
     values = ["Work", "None"]
@@ -83,7 +84,7 @@ def sentiment_scores(sentence):
         return 0
 
 def add_sentiment():
-    docs = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_clean_text.csv")
+    docs = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_clean_text.csv")
     docs['sentiment_index'] = docs['clean_text'].apply(lambda x: sentiment_scores(x))
     conditions = [
         (docs['sentiment_index'] == 0),
@@ -94,7 +95,7 @@ def add_sentiment():
     docs.drop(['tier', 'Unnamed: 0', 'Unnamed: 0.1.1.1', 'Unnamed: 0.4', 'Unnamed: 0.3', 'Unnamed: 0.2', 'Unnamed: 0.1'], axis=1, inplace=True,
               errors='ignore')
     docs['sentiment'] = np.select(conditions, values)
-    docs.to_csv(f"sentiment/{profession_name}s_csvs/docs_sentiment.csv")
+    docs.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_sentiment.csv")
 
 add_sentiment()
 

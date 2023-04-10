@@ -1,18 +1,16 @@
-
 import pandas as pd
 
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "teacher"
-nr_topics = 10
-#REMINDER TO SET WORK TOPICS in add_topic_label()
+profession_name = "journalist"
+nr_topics = 15
 
 #Getting docs for different time periods
 def get_before_lockdown():
-    df = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_sentiment.csv")
+    df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_sentiment.csv")
 
     #get index range for 46 days before first lockdown
     # df_startdate = df[df['created_at'].str.match("2020-02-09")]
@@ -33,21 +31,21 @@ def get_before_lockdown():
     # print(df_enddate)
 
     # make docs csv of first lockdown 8938 to 10838
-    before_first_lockdown = df.iloc[8185:9736]
-    before_first_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
+    before_first_lockdown = df.iloc[1428:1718]
+    before_first_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
 
     # make docs csv of second lockdown 23578 to 25516
-    before_second_lockdown = df.iloc[19287:20467]
-    before_second_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/before_second_lockdown.csv")
+    before_second_lockdown = df.iloc[3123:3389]
+    before_second_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/before_second_lockdown.csv")
 
     # make docs csv of third lockdown 25613 to 30528
-    before_third_lockdown = df.iloc[20510:21481]
-    before_third_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/before_third_lockdown.csv")
+    before_third_lockdown = df.iloc[3405:3979]
+    before_third_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/before_third_lockdown.csv")
 
 get_before_lockdown()
 
 def get_lockdown_tweets():
-    df = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_sentiment.csv")
+    df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_sentiment.csv")
 
     #sorting by date and adding new index
     # df.sort_values(by='created_at', inplace=True)
@@ -74,22 +72,22 @@ def get_lockdown_tweets():
     # print(df_enddate)
 
     # first lockdown 10839 to 13703
-    first_lockdown = df.iloc[9736:11854]
-    first_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/first_lockdown.csv")
+    first_lockdown = df.iloc[1718:1968]
+    first_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/first_lockdown.csv")
     #
     # #second lockdown 25517 to 27893
-    second_lockdown = df.iloc[20467:21794]
-    second_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/second_lockdown.csv")
+    second_lockdown = df.iloc[3389:3657]
+    second_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/second_lockdown.csv")
     #
     # #third lockdown 30529 to 37921
-    third_lockdown = df.iloc[24181:29300]
-    third_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/third_lockdown.csv")
+    third_lockdown = df.iloc[3979:4683]
+    third_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/third_lockdown.csv")
     # print(third_lockdown[third_lockdown['Topic']==2])
 
 get_lockdown_tweets()
 
 def get_after_lockdown():
-    df = pd.read_csv(f"sentiment/{profession_name}s_csvs/docs_sentiment.csv")
+    df = pd.read_csv(f"Dissertation/sentiment/{profession_name}s_csvs/docs_sentiment.csv")
 
     #get index range for 46 days after first lockdown
     # df_startdate = df[df['created_at'].str.match("2020-05-11")]
@@ -112,16 +110,16 @@ def get_after_lockdown():
     # print(df_enddate)
 
     # make docs csv of first lockdown 13704 to 16139
-    before_first_lockdown = df.iloc[11854:13689]
-    before_first_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/after_first_lockdown.csv")
+    before_first_lockdown = df.iloc[1968:2242]
+    before_first_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/after_first_lockdown.csv")
 
     # make docs csv of second lockdown 27894 to 29883
-    before_second_lockdown = df.iloc[21794:23258]
-    before_second_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/after_second_lockdown.csv")
+    before_second_lockdown = df.iloc[3657:3894]
+    before_second_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/after_second_lockdown.csv")
 
     # make docs csv of third lockdown 37922 to 47140
-    before_third_lockdown = df.iloc[29300:36062]
-    before_third_lockdown.to_csv(f"sentiment/{profession_name}s_csvs/after_third_lockdown.csv")
+    before_third_lockdown = df.iloc[4683:5825]
+    before_third_lockdown.to_csv(f"Dissertation/sentiment/{profession_name}s_csvs/after_third_lockdown.csv")
 
 get_after_lockdown()
 
