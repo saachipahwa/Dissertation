@@ -7,10 +7,10 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 4
+directory_index = 1
 directory_name = directories[directory_index]
-profession_name = "journalist"
-nr_topics = 15
+profession_name = "doctor"
+nr_topics = 10
 
 before1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
 during1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/first_lockdown.csv")
@@ -27,14 +27,17 @@ def get_freq_change(df1, df2):
     df2counts = df2['sentiment'].value_counts()
     print("Df1counts", df1counts)
     print("Df2counts", df2counts)
-    # print("positive 2", df2counts["Positive"])
-    # print("negative 2", df2counts["Negative"])
-    # print("none 2", df2counts["None"])
-    # print("length 2", len(df2), "\n")
-    # print("positive 1", df1counts["Positive"])
-    # print("negative 1", df1counts["Negative"])
-    # print("none 1", df1counts["None"])
-    # print("length 1", len(df1), "\n")
+    # try:
+    #     print("positive 2", df2counts["Positive"])
+    #     print("negative 2", df2counts["Negative"])
+    #     print("none 2", df2counts["None"])
+    #     print("length 2", len(df2), "\n")
+    #     print("positive 1", df1counts["Positive"])
+    #     print("negative 1", df1counts["Negative"])
+    #     print("none 1", df1counts["None"])
+    #     print("length 1", len(df1), "\n")
+    # except Exception as e:
+    #     print("next one was 0 :(")
     try:
         df2pos = df2counts["Positive"]/len(df2)
     except Exception as e:
@@ -64,9 +67,9 @@ def get_freq_change(df1, df2):
     except Exception as e:
         df1none = 0
 
-    pos_change = df2pos-df1pos
-    neg_change = df2neg-df2neg
-    none_change = df2none-df1none
+    pos_change = (df2pos-df1pos) * 100
+    neg_change = (df2neg-df1neg) * 100
+    none_change = (df2none-df1none) * 100
     change_dict = {"positive":pos_change, "negative":neg_change, "none": none_change}
     print(change_dict)
     return change_dict

@@ -6,12 +6,12 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
-work_topics = [5]
-chosen_topics = [0,2,4,6,7,9]
+profession_name = "journalist"
+nr_topics = 15
+work_topics = [4]
+chosen_topics = [0,1,3,5,7,8,9]
 
 #Use when plotting all topics in bar chart
 # chosen_topics = list(range(0, nr_topics))
@@ -73,62 +73,60 @@ chosen_topics = [0,2,4,6,7,9]
 #                  "8: Photography",
 #                  "9: Railways/Facebook"]
 
-# topic_dict =  {  0: "Thank you and wishes", #journalist
-#                  1: "Food: groceries and meals",
-#                  2: "Twitter activity",
-#                  3: "TV and music",
-#                  4: "Journalism and articles",
-#                  5: "Reading books",
-#                  6: "Photography",
-#                  7: "COVID-19 Vaccination",
-#                  8: "Pandemic restrictions",
-#                  9: "Gender violence",
-#                  10: "Ireland and Accents",
-#                  11: "Football, articles and movies",
-#                  12: "TV and podcasts",
-#                  13: "Prayers",
-#                  14: "Bloody hell and Football"}
-#
+topic_dict =  {  0: "Thank you and wishes", #journalist
+                 1: "Food: groceries and meals",
+                 2: "Twitter activity",
+                 3: "TV and music",
+                 4: "Journalism and articles",
+                 5: "Reading books",
+                 6: "Photography",
+                 7: "COVID-19 Vaccination",
+                 8: "Pandemic restrictions",
+                 9: "Gender violence",
+                 10: "Ireland and Accents",
+                 11: "Football, articles and movies",
+                 12: "TV and podcasts",
+                 13: "Prayers",
+                 14: "Bloody hell and Football"}
 
-#
-# topic_strings = ["0: Thank you/\nwishes", #journalist
-#                  "1: Food",
-#                  "2: Twitter",
-#                  "3: TV/music",
-#                  "4: Journalism and articles"
-#                  "5: Books",
-#                  "6: Photography",
-#                  "7: Vaccines",
-#                  "8: COVID \nRestrictions",
-#                  "9: Gender \nviolence",
-#                  "10: Ireland",
-#                  "11: Football",
-#                  "12: TV",
-#                  "13: Prayers",
-#                  "14: Bloody \nhell"
-#                  ]
-#
-topic_dict =  {  0: "Twitter activity and commuting", #doctors
-                 1: "Medical rotations and politics",
-                 2: "Congraulations and well wishes",
-                 3: "Thank you's",
-                 4: "British politics",
-                 5: "Surgery",
-                 6: "COVID",
-                 7: "Medical school and training",
-                 8: "COVID safety in schools and university students",
-                 9: "Family and children"}
+topic_strings = ["0: Thank you/\nwishes", #journalist
+                 "1: Food",
+                 "2: Twitter",
+                 "3: TV/music",
+                 "4: Journalism and articles"
+                 "5: Books",
+                 "6: Photography",
+                 "7: Vaccines",
+                 "8: COVID \nRestrictions",
+                 "9: Gender \nviolence",
+                 "10: Ireland",
+                 "11: Football",
+                 "12: TV",
+                 "13: Prayers",
+                 "14: Bloody \nhell"
+                 ]
 
-topic_strings = ["0: Twitter/\ncommuting", #doctors
-                 "1: Rotations/\npolitics",
-                 "2: Well wishes",
-                 "3: Thank you's",
-                 "4: British \npolitics",
-                 "5: Surgery",
-                 "6: COVID",
-                 "7: Medical \ntraining",
-                 "8: COVID in \nschools",
-                 "9: Family/\nchildren"]
+# topic_dict =  {  0: "Twitter activity and commuting", #doctors
+#                  1: "Medical rotations and politics",
+#                  2: "Congraulations and well wishes",
+#                  3: "Thank you's",
+#                  4: "British politics",
+#                  5: "Surgery",
+#                  6: "COVID",
+#                  7: "Medical school and training",
+#                  8: "COVID safety in schools and university students",
+#                  9: "Family and children"}
+#
+# topic_strings = ["0: Twitter/\ncommuting", #doctors
+#                  "1: Rotations/\npolitics",
+#                  "2: Well wishes",
+#                  "3: Thank you's",
+#                  "4: British \npolitics",
+#                  "5: Surgery",
+#                  "6: COVID",
+#                  "7: Medical \ntraining",
+#                  "8: COVID in \nschools",
+#                  "9: Family/\nchildren"]
 
 # topic_dict = { 0: "Twitter activity", #for teachers
 #                 1: "School and school holidays",
