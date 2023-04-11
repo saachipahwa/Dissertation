@@ -6,11 +6,11 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 0
+directory_index = 4
 directory_name = directories[directory_index]
-profession_name = "nurse"
-nr_topics = 10
-work_topics = [2]
+profession_name = "journalist"
+nr_topics = 15
+work_topics = [4]
 
 # #MUSICIANS
 # top_work_terms = ['album', 'review', 'cover', 'jack', 'list', 'duet', 'year', 'poverty', 'song', 'release']
@@ -48,41 +48,41 @@ work_topics = [2]
 #                "Internet \nvideos",
 #                "Tickets"]
 
-# #JOURNALISTS
-# top_work_terms = ['journalist', 'journalism', 'paper', 'boat', 'newspaper', 'career', 'news', 'pier', 'breath', 'reminder']
-# topic_0 = ['thank', 'thanks', 'hope', 'moment', 'kind']
-# topic_1 = ['food', 'lunch', 'breakfast', 'restaurant', 'meal']
-# topic_2 = ['tweet', 'twitter', 'account', 'timeline', 'people']
-# topic_3 = ['song', 'music', 'album', 'tune', 'version']
-# topic_5 = ['book', 'writer', 'author', 'list', 'bookshop']
-# topic_6 = ['photo', 'photographer', 'photography', 'camera', 'image']
-# topic_7 = ['vaccine', 'virus', 'vaccination', 'booster', 'covid']
-# topic_8 = ['covid', 'hospital', 'restriction', 'case', 'people']
-# topic_9 = ['woman', 'violence', 'rape', 'gender', 'misogyny']
-# topic_10 = ['ireland', 'duble', 'belfast', 'accent', 'derry']
-# topic_11 = ['james', 'jones', 'injury', 'saunders', 'bond']
-# topic_12 = ['episode', 'podcasts', 'series', 'podcasts', 'simpson']
-# topic_13 = ['family', 'love', 'prayer', 'psni', 'thought']
-# topic_14 = ['year', 'bloody', 'hell', 'culture', 'wifi']
-#
-# all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_5, topic_6, topic_7, topic_8, topic_9,
-#              topic_10, topic_11, topic_12, topic_13, topic_14]
-#
-# topic_names = ["Thank you/\nwishes",
-#                  "Food",
-#                  "Twitter",
-#                  "TV/music",
-#                 "Journalism and articles",
-#                  "Books",
-#                  "Photography"
-#                  "Vaccines",
-#                  "COVID \nRestrictions",
-#                  "Gender \nviolence",
-#                  "Ireland",
-#                  "Football",
-#                  "TV",
-#                  "Prayers",
-#                  "Bloody \nhell"]
+#JOURNALISTS
+top_work_terms = ['journalist', 'journalism', 'paper', 'boat', 'newspaper', 'career', 'news', 'pier', 'breath', 'reminder']
+topic_0 = ['thank', 'thanks', 'hope', 'moment', 'kind']
+topic_1 = ['food', 'lunch', 'breakfast', 'restaurant', 'meal']
+topic_2 = ['tweet', 'twitter', 'account', 'timeline', 'people']
+topic_3 = ['song', 'music', 'album', 'tune', 'version']
+topic_5 = ['book', 'writer', 'author', 'list', 'bookshop']
+topic_6 = ['photo', 'photographer', 'photography', 'camera', 'image']
+topic_7 = ['vaccine', 'virus', 'vaccination', 'booster', 'covid']
+topic_8 = ['covid', 'hospital', 'restriction', 'case', 'people']
+topic_9 = ['woman', 'violence', 'rape', 'gender', 'misogyny']
+topic_10 = ['ireland', 'duble', 'belfast', 'accent', 'derry']
+topic_11 = ['james', 'jones', 'injury', 'saunders', 'bond']
+topic_12 = ['episode', 'podcasts', 'series', 'podcasts', 'simpson']
+topic_13 = ['family', 'love', 'prayer', 'psni', 'thought']
+topic_14 = ['year', 'bloody', 'hell', 'culture', 'wifi']
+
+all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_5, topic_6, topic_7, topic_8, topic_9,
+             topic_10, topic_11, topic_12, topic_13, topic_14]
+
+topic_names = ["Thank you/\nwishes",
+                 "Food",
+                 "Twitter",
+                 "TV/music",
+                "Journalism and articles",
+                 "Books",
+                 "Photography"
+                 "Vaccines",
+                 "COVID \nRestrictions",
+                 "Gender \nviolence",
+                 "Ireland",
+                 "Football",
+                 "TV",
+                 "Prayers",
+                 "Bloody \nhell"]
 
 
 #RAIL WORKERS
@@ -154,28 +154,28 @@ work_topics = [2]
 #                 "Loving wishes"]
 
 # NURSES
-top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
-topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
-topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
-topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
-topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
-topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
-topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
-topic_7 = ['time', 'girl', 'something', 'article', 'kind']
-topic_8 = ['food', 'school', 'life', 'meal', 'child']
-topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
-all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
-topic_names = ["Good morning",
-                "Thank you's",
-                "Shifts",
-                  "Congratulations",
-                  "Expressions",
-                  "Happy birthday",
-                  "Exercise",
-                  "Miscellaneous",
-                  "General life",
-                  "Friends & people",
-                    ]
+# top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
+# topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
+# topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
+# topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
+# topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
+# topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
+# topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
+# topic_7 = ['time', 'girl', 'something', 'article', 'kind']
+# topic_8 = ['food', 'school', 'life', 'meal', 'child']
+# topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
+# all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
+# topic_names = ["Good morning",
+#                 "Thank you's",
+#                 "Shifts",
+#                   "Congratulations",
+#                   "Expressions",
+#                   "Happy birthday",
+#                   "Exercise",
+#                   "Miscellaneous",
+#                   "General life",
+#                   "Friends & people",
+#                     ]
 
 before1 = pd.read_csv(f"graphs/{profession_name}s/before_first_lockdown.csv")
 during1 = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv")
@@ -234,40 +234,6 @@ def frequency_change(df1, df2):
     work_gain = get_freq_gain(df1_work, df2_work)
     life_gain = get_freq_gain(df1_life, df2_life)
     return work_gain, life_gain
-
-# frequency_change()
-#
-# def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
-#     initial_work_change, initial_life_change = frequency_change(df1, df2) #pre filtering using 0.005 threshold
-#     initial_terms = get_all_terms()
-#     print(initial_work_change)
-#     work_change = []
-#     life_change = []
-#     terms = []
-#     for i in range(0, len(terms)):
-#         if abs(initial_work_change[i])>0.005 or abs(initial_life_change[i])>0.005:
-#             work_change.append(work_change[i])
-#             life_change.append(life_change[i])
-#             terms.append(terms[i])
-#     print("work", work_change)
-#     print("terms", terms)
-#
-#     workdict = {terms[i]: work_change[i] for i in range(len(terms))}
-#     lifedict = {terms[i]: life_change[i] for i in range(len(terms))}
-#     workdict = dict(sorted(workdict.items(), key=lambda item: item[1]))
-#     # lifedict= dict(sorted(lifedict.items(), key=lambda item: item[1]))
-#
-#     work = plt.scatter(y=list(workdict.keys()), x = list(workdict.values()), color = "blue")
-#     life = plt.scatter(y=list(lifedict.keys()), x=list(lifedict.values()), color = "orange")
-#     plt.legend((work, life),
-#                ('Work', 'Life'),
-#                loc='best',
-#                fontsize=12)
-#     plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown")
-#     plt.xlabel("Frequency gain")
-#     plt.ylabel("Term")
-#     plt.grid()
-#     plt.show()
 
 def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     initial_work_change, initial_life_change = frequency_change(df1, df2) #pre filtering using 0.005 threshold
