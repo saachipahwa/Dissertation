@@ -74,7 +74,7 @@ topic_names = ["Thank you/\nwishes",
                  "TV/music",
                 "Journalism and articles",
                  "Books",
-                 "Photography"
+                 "Photography",
                  "Vaccines",
                  "COVID \nRestrictions",
                  "Gender \nviolence",
@@ -267,13 +267,13 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
     plt.ylabel("Term")
     plt.grid()
     plt.show()
-
-freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
-freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
-freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
-freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
-freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
-freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+#
+# freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+# freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
+# freq_change_plot(before2, during2, which_lockdown="third", df1_label = "before", df2_label = "during")
+# freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
+# freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
+# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -373,7 +373,7 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-topics = [0,4,6,8,9]
+topics =  [0,1,3,5,7,8,9]
 compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
 compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
 compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')
