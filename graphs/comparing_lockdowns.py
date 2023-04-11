@@ -93,7 +93,7 @@ topic_strings = ["0: Thank you/\nwishes", #journalist
                  "1: Food",
                  "2: Twitter",
                  "3: TV/music",
-                 "4: Journalism and articles"
+                 "4: Journalism and articles",
                  "5: Books",
                  "6: Photography",
                  "7: Vaccines",
