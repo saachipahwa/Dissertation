@@ -7,10 +7,10 @@ from matplotlib import pyplot as plt
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 1
+directory_index = 5
 directory_name = directories[directory_index]
-profession_name = "doctor"
-nr_topics = 10
+profession_name = "musician"
+nr_topics = 15
 
 before1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
 during1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/first_lockdown.csv")
@@ -103,7 +103,7 @@ def make_plot():
 
     #WORK DF
     work_df = pd.DataFrame(columns=x_names)
-    work_df["Classes"] = ["positive", "negative", "none"]
+    work_df["Classes"] = ["positive", "negative", "neutral"]
     work_df.set_index('Classes')
 
     # all_dicts = [work1a, life1a, work1b, life1b, work2a, life2a, work2b, life2b, work3a, life3a, work3b, life3b]
@@ -114,7 +114,7 @@ def make_plot():
 
     #LIFEDF
     life_df = pd.DataFrame(columns=x_names)
-    life_df["Classes"] = ["positive", "negative", "none"]
+    life_df["Classes"] = ["positive", "negative", "neutral"]
     life_df.set_index('Classes')
 
     # all_dicts = [work1a, life1a, work1b, life1b, work2a, life2a, work2b, life2b, work3a, life3a, work3b, life3b]
