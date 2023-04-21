@@ -8,15 +8,15 @@ import pandas as pd
 #get mean number of tweets
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 2
+directory_index = 5
 
 def get_mean(directory=directories[directory_index]):
     df = pd.DataFrame()
     user_count=0
     for filename in os.listdir(directory):
-        user_count+=1
         f = os.path.join(directory, filename)
-        user_df = pd.read_csv(f, index_col=0)
+        user_df = pd.read_csv(f, index_col=0, error_bad_lines=False)
+        user_count+=1
         df = pd.concat([df, user_df], ignore_index=True)
     total_count = len(df)
     print("total", total_count)
@@ -45,9 +45,9 @@ def get_variance(directory=directories[directory_index]):
     lengths = []
     # total_squares = 0
     for filename in os.listdir(directory):
-        user_count += 1
         f = os.path.join(directory, filename)
-        user_df = pd.read_csv(f, index_col=0)
+        user_df = pd.read_csv(f, index_col=0, error_bad_lines=False)
+        user_count += 1
         lengths.append(len(user_df))
         df = pd.concat([df, user_df], ignore_index=True)
     var = variance(lengths)
