@@ -1,25 +1,27 @@
-import json
-import os
 import pandas as pd
 import datetime as datetime
 import tweepy
 from pytz import utc
-from authpy import authpy
 
 journalist_directory = "journalisttweets"
 journalist_followers_file = "data/filteredNUJfollowers.csv"
+
 rail_directory = "railtweets"
 rail_followers_file = "data/filteredRMTfollowers.csv"
+
 musicians_directory = "musiciantweets"
 musicians_followers_file = "data/filteredMUfollowers.csv"
+
 musiciansfollowerdf = pd.read_csv(musicians_followers_file)
 journalistsfollowerdf = pd.read_csv(journalist_followers_file)
 railworkersfollowerdf = pd.read_csv(rail_followers_file)
+
 
 def store_log(message):
     print(message)
     with open("gettweetsstorelog.txt", "a+") as file:
         file.write(str(message) + "\n")
+
 
 client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%2B21x1LrlCLfEwkK1w%3DknqlAAkiTjZBMul2hnhbKEvEasHTPLXMiv4o9LiXgzdei1a1c0',
                        consumer_key='U2Qvj02fgz61HtzRJb92GRK6D',
@@ -30,6 +32,7 @@ client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAP46jQEAAAAAAFDtxA94KI%
 
 startDate = utc.localize(datetime.datetime(2019, 2, 1, 0, 0, 0))
 endDate = utc.localize(datetime.datetime(2022, 9, 1, 0, 0, 0))
+
 
 def get_tweets(id, directory = None, pagination=None):
     id_file = "{}/{}.csv".format(directory, id)
@@ -74,6 +77,5 @@ def call_get_tweets(followerdf = None, directory = None):
 
     store_log("Finished - I got all the tweets!!")
 
-# call_get_tweets(musiciansfollowerdf, musicians_directory)
-# call_get_tweets(railworkersfollowerdf, rail_directory)
+
 call_get_tweets(journalistsfollowerdf, journalist_directory)

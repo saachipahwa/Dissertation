@@ -1,17 +1,21 @@
-import json
-
 import pandas as pd
 from authpy import authpy
-import datetime
 
+#Gets followers from union twitter account
+
+
+#Files to store followers
 NUJ_followers_file = "data/NUJfollowers.csv"
 MU_followers_file =  "data/MUfollowers.csv"
 RMT_followers_file = "data/RMTfollowers.csv"
 f = open(NUJ_followers_file, "w+")
-f = open(MU_followers_file, "w+")
-f = open(RMT_followers_file, "w+")
 
+
+#Retrieves api keys
 api = authpy('credentials.json')
+
+
+#User ID's of union accounts
 RCON_ID = 54506896
 NEU_ID = 884369177368199168
 BMA_ID = 14243046
@@ -19,10 +23,12 @@ NUJ_ID = 335177549
 MU_ID = 116720443
 RMT_ID = 26020906
 
+
 def store_log(message):
     print(message)
     with open("store_log.txt", "a+") as file:
         file.write(message + "\n")
+
 
 try:
     api.verify_credentials()
@@ -30,6 +36,8 @@ try:
 except:
     store_log('Failed authentication')
 
+
+#Calls API once
 def get_union_followers(pagination = None, UNION_ID = None, followers_file = None):
     if pagination:
         twohundredfollowers, tokens = api.get_followers(user_id=UNION_ID, cursor=pagination, count=200, skip_status=True)
@@ -53,6 +61,7 @@ def get_union_followers(pagination = None, UNION_ID = None, followers_file = Non
     return next_token
 
 
+#Calls get_union_followers repeatedley. Handles pagination.
 def call_get_following(UNION_ID = None, followers_file = None):
     call_count = 0
 

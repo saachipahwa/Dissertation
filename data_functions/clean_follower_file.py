@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+# If user's file has been deleted, this file will delete corresponding row from follower csv
+
 directory = "teachertweets"
 followers_df_name = "data/filteredNEUfollowers.csv"
 followers_df = pd.read_csv(followers_df_name, error_bad_lines=False)

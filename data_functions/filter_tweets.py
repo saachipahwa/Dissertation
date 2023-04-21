@@ -2,7 +2,7 @@ import os
 import re
 import numpy as np
 import pandas as pd
-import nltk  # lib used for stop words
+import nltk  # library used for stop words
 from nltk.stem import WordNetLemmatizer
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -10,9 +10,7 @@ nltk.download('omw-1.4')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
-
-# Text preprocessing
-# REFERENCE: https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/
+# Filters user's tweets using the following functions
 
 # Removing URLs
 def remove_URL(text):
@@ -50,8 +48,6 @@ def remove_nonalphabet(text):
 
 # Removing Stop words
 stopwords = nltk.corpus.stopwords.words('english')
-
-
 def remove_stopwords(text):
     wordslist = text.split()
     output = [i for i in wordslist if i not in stopwords]
@@ -134,9 +130,11 @@ def remove_one_noun_tweets(df):
     df = df.drop('one_noun', axis=1)
     return df
 
+
 def check_repeated_tweets(df):
     boolean = df['id'].duplicated(keep='last') # True
     return df[~boolean]
+
 
 def text_preprocessing(directory="doctortweets"):
     for filename in os.listdir(directory):

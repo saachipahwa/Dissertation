@@ -1,11 +1,11 @@
-#Remove tweet files that contained only RT's
+#Remove user files that are empty
 
 import os
 import pandas as pd
 
-directory = "railtweets"
+directory = "nursetweets"
 
-followers_df_name = "data/filteredRMTfollowers.csv"
+followers_df_name = "data/filteredRCONfollowers.csv"
 
 followers_df = pd.read_csv(followers_df_name)
 count_removed = 0

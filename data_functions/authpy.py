@@ -17,6 +17,7 @@ def authpy(credentials='credentials.json'):
     api = tweepy.API(auth, wait_on_rate_limit=True)
     return api
 
+
 def read_creds(filename):
     '''
     Read JSON file to load credentials.
@@ -26,6 +27,7 @@ def read_creds(filename):
     with open(filename) as f:
         credentials = json.load(f)
     return credentials
+
 
 if __name__ == '__main__':
     credentials = 'credentials.json'
