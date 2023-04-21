@@ -1,22 +1,22 @@
-,Topic,Count,Name,details
-0,-1,113658,-1_nurse_care_health_people,"['nurse', 'care', 'health', 'people', 'time', 'nursing', 'today', 'patient', 'year', 'work']"
-1,0,4493,0_thank_thing_brilliant_thanks,"['thank', 'thing', 'brilliant', 'thanks', 'thankyou', 'thinking', 'yeah', 'mind', 'soul', 'haul']"
-2,1,3574,1_morning_weekend_everyone_breakfast,"['morning', 'weekend', 'everyone', 'breakfast', 'jenny', 'evening', 'kind', 'tear', 'glove', 'glad']"
-3,2,3053,2_food_school_life_meal,"['food', 'school', 'life', 'meal', 'child', 'caterer', 'lunch', 'beach', 'nutrition', 'claire']"
-4,3,2916,3_night_shift_hour_rest,"['night', 'shift', 'hour', 'rest', 'shame', 'show', 'language', 'bloody', 'simulation', 'pool']"
-5,4,2419,4_congratulation_fons_celebration_achievement,"['congratulation', 'fons', 'celebration', 'achievement', 'award', 'anniversary', 'winner', 'paul', 'module', 'team']"
-6,5,2340,5_covid_nigeria_infection_control,"['covid', 'nigeria', 'infection', 'control', 'case', 'state', 'schedule', 'bath', 'credit', 'health']"
-7,6,2227,6_photo_enjoy_springhill_hello,"['photo', 'enjoy', 'springhill', 'hello', 'picture', 'colour', 'afternoon', 'beautiful', 'mate', 'comment']"
-8,7,2156,7_time_stuff_something_issue,"['time', 'stuff', 'something', 'issue', 'folk', 'term', 'race', 'horse', 'alert', 'reporting']"
-9,8,2153,8_union_strike_solidarity_line,"['union', 'strike', 'solidarity', 'line', 'violence', 'picket', 'strength', 'congress', 'worker', 'striker']"
-10,9,2075,9_year_love_peace_button,"['year', 'love', 'peace', 'button', 'sound', 'reason', 'cute', 'tiktok', 'careplans', 'janesville']"
-11,10,2051,10_tweet_twitter_please_hashtag,"['tweet', 'twitter', 'please', 'hashtag', 'kindness', 'account', 'facebook', 'retweet', 'breath', 'nicki']"
-12,11,2000,11_mask_face_look_virus,"['mask', 'face', 'look', 'virus', 'shop', 'train', 'disney', 'theatre', 'smile', 'shelf']"
-13,12,1914,12_christmas_gift_charity_card,"['christmas', 'gift', 'charity', 'card', 'order', 'baby', 'hill', 'donation', 'merry', 'medal']"
-14,13,1806,13_today_word_tomorrow_wait,"['today', 'word', 'tomorrow', 'wait', 'yesterday', 'feeling', 'daphne', 'feel', 'mouth', 'attention']"
-15,14,1760,14_news_daily_story_ruth,"['news', 'daily', 'story', 'ruth', 'gemini', 'moon', 'timeline', 'shaun', 'position', 'record']"
-16,15,1641,15_week_idea_radio_start,"['week', 'idea', 'radio', 'start', 'birch', 'suggestion', 'jamie', 'play', 'knife', 'nurse']"
-17,16,1617,16_student_point_opportunity_nursing,"['student', 'point', 'opportunity', 'nursing', 'career', 'practice', 'code', 'adult', 'hotel', 'essential']"
-18,17,1600,17_follow_sorry_loss_thanks,"['follow', 'sorry', 'loss', 'thanks', 'question', 'jackie', 'condolence', 'reply', 'answer', 'john']"
-19,18,1570,18_business_data_fusion_finger,"['business', 'data', 'fusion', 'finger', 'track', 'software', 'occupancy', 'speak', 'income', 'demo']"
-20,19,1557,19_mile_energy_list_experience,"['mile', 'energy', 'list', 'experience', 'bill', 'rise', 'station', 'price', 'inflation', 'cost']"
+,Topic,Count,Name,details,Topic name,Topic label
+0,-1,113658,-1_nurse_care_health_people,"['nurse', 'care', 'health', 'people', 'time', 'nursing', 'today', 'patient', 'year', 'work']",Outliers,None
+1,0,4493,0_thank_thing_brilliant_thanks,"['thank', 'thing', 'brilliant', 'thanks', 'thankyou', 'thinking', 'yeah', 'mind', 'soul', 'haul']",Thank you's,Life
+2,1,3574,1_morning_weekend_everyone_breakfast,"['morning', 'weekend', 'everyone', 'breakfast', 'jenny', 'evening', 'kind', 'tear', 'glove', 'glad']",Good morning's,Life
+3,2,3053,2_food_school_life_meal,"['food', 'school', 'life', 'meal', 'child', 'caterer', 'lunch', 'beach', 'nutrition', 'claire']",Food and children,Life
+4,3,2916,3_night_shift_hour_rest,"['night', 'shift', 'hour', 'rest', 'shame', 'show', 'language', 'bloody', 'simulation', 'pool']",Hospital shifts,Work
+5,4,2419,4_congratulation_fons_celebration_achievement,"['congratulation', 'fons', 'celebration', 'achievement', 'award', 'anniversary', 'winner', 'paul', 'module', 'team']",Congraulation's,Life
+6,5,2340,5_covid_nigeria_infection_control,"['covid', 'nigeria', 'infection', 'control', 'case', 'state', 'schedule', 'bath', 'credit', 'health']",COVID,Life
+7,6,2227,6_photo_enjoy_springhill_hello,"['photo', 'enjoy', 'springhill', 'hello', 'picture', 'colour', 'afternoon', 'beautiful', 'mate', 'comment']",Photography,Life
+8,7,2156,7_time_stuff_something_issue,"['time', 'stuff', 'something', 'issue', 'folk', 'term', 'race', 'horse', 'alert', 'reporting']",Time,Life
+9,8,2153,8_union_strike_solidarity_line,"['union', 'strike', 'solidarity', 'line', 'violence', 'picket', 'strength', 'congress', 'worker', 'striker']",Strikes,Life
+10,9,2075,9_year_love_peace_button,"['year', 'love', 'peace', 'button', 'sound', 'reason', 'cute', 'tiktok', 'careplans', 'janesville']",Internet videos,Life
+11,10,2051,10_tweet_twitter_please_hashtag,"['tweet', 'twitter', 'please', 'hashtag', 'kindness', 'account', 'facebook', 'retweet', 'breath', 'nicki']",Twitter activity,Life
+12,11,2000,11_mask_face_look_virus,"['mask', 'face', 'look', 'virus', 'shop', 'train', 'disney', 'theatre', 'smile', 'shelf']",COVID,Life
+13,12,1914,12_christmas_gift_charity_card,"['christmas', 'gift', 'charity', 'card', 'order', 'baby', 'hill', 'donation', 'merry', 'medal']",Christmas and charity,Life
+14,13,1806,13_today_word_tomorrow_wait,"['today', 'word', 'tomorrow', 'wait', 'yesterday', 'feeling', 'daphne', 'feel', 'mouth', 'attention']",Miscellaneous,Life
+15,14,1760,14_news_daily_story_ruth,"['news', 'daily', 'story', 'ruth', 'gemini', 'moon', 'timeline', 'shaun', 'position', 'record']",Articles,Life
+16,15,1641,15_week_idea_radio_start,"['week', 'idea', 'radio', 'start', 'birch', 'suggestion', 'jamie', 'play', 'knife', 'nurse']",Miscellaneous 2,Life
+17,16,1617,16_student_point_opportunity_nursing,"['student', 'point', 'opportunity', 'nursing', 'career', 'practice', 'code', 'adult', 'hotel', 'essential']",School,Life
+18,17,1600,17_follow_sorry_loss_thanks,"['follow', 'sorry', 'loss', 'thanks', 'question', 'jackie', 'condolence', 'reply', 'answer', 'john']",Twitter activity and expressions,Life
+19,18,1570,18_business_data_fusion_finger,"['business', 'data', 'fusion', 'finger', 'track', 'software', 'occupancy', 'speak', 'income', 'demo']",Technology,Life
+20,19,1557,19_mile_energy_list_experience,"['mile', 'energy', 'list', 'experience', 'bill', 'rise', 'station', 'price', 'inflation', 'cost']",Exercise and money,Life

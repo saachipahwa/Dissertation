@@ -1,7 +1,7 @@
-,Topic,Count,Name,details
-0,-1,136864,-1_nurse_time_care_health,"['nurse', 'time', 'care', 'health', 'people', 'year', 'nursing', 'today', 'work', 'patient']"
-1,0,6866,0_thank_thanks_follow_photo,"['thank', 'thanks', 'follow', 'photo', 'brilliant', 'face', 'river', 'stuff', 'question', 'health']"
-2,1,5431,1_person_love_today_thing,"['person', 'love', 'today', 'thing', 'people', 'diabetes', 'peace', 'word', 'everyone', 'tomorrow']"
-3,2,3313,2_please_safety_care_infection,"['please', 'safety', 'care', 'infection', 'chat', 'plan', 'hour', 'record', 'nigeria', 'assessment']"
-4,3,3091,3_morning_friend_weekend_chris,"['morning', 'friend', 'weekend', 'chris', 'kenny', 'evening', 'jenny', 'glove', 'merv', 'apology']"
-5,4,3015,4_book_conference_place_ruth,"['book', 'conference', 'place', 'ruth', 'branch', 'stigma', 'inequality', 'nothing', 'security', 'speaker']"
+,Topic,Count,Name,details,Topic name,Topic label
+0,-1,136864,-1_nurse_time_care_health,"['nurse', 'time', 'care', 'health', 'people', 'year', 'nursing', 'today', 'work', 'patient']",Outliers,None
+1,0,6866,0_thank_thanks_follow_photo,"['thank', 'thanks', 'follow', 'photo', 'brilliant', 'face', 'river', 'stuff', 'question', 'health']","Thank you's, Twitter activity, Hospital",
+2,1,5431,1_person_love_today_thing,"['person', 'love', 'today', 'thing', 'people', 'diabetes', 'peace', 'word', 'everyone', 'tomorrow']",Medicine ,Work
+3,2,3313,2_please_safety_care_infection,"['please', 'safety', 'care', 'infection', 'chat', 'plan', 'hour', 'record', 'nigeria', 'assessment']",covid,Life
+4,3,3091,3_morning_friend_weekend_chris,"['morning', 'friend', 'weekend', 'chris', 'kenny', 'evening', 'jenny', 'glove', 'merv', 'apology']",Conversational language,Life
+5,4,3015,4_book_conference_place_ruth,"['book', 'conference', 'place', 'ruth', 'branch', 'stigma', 'inequality', 'nothing', 'security', 'speaker']",Books and conferences,Life
