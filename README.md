@@ -1,6 +1,6 @@
 # Repository for MEng dissertation project entitled "Computational linguistic approach to quantify the impact of COVID on the well-being of different worker categories"
 
-This repository contains Python files used in the computational method I developed that uses Twitter data to learn about wellbeing of a specific profession.
+This repository contains Python files used in the computational method I developed that uses Twitter data to learn about the wellbeing of specific professions at different points during the COVID-19 pandemic.
 
 The directories correspond to different steps within the method:
 1. Data collection and cleansing functions are in the "data_functions" directory
