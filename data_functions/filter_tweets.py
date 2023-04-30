@@ -138,7 +138,9 @@ def check_repeated_tweets(df):
     boolean = df['id'].duplicated(keep='last') # True
     return df[~boolean]
 
-def text_preprocessing(directory="doctortweets"):
+def text_preprocessing(directory="nursetweets_og"):
+    total_tweets_before = 0
+    total_tweets_after = 0
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
@@ -146,64 +148,70 @@ def text_preprocessing(directory="doctortweets"):
         if os.path.isfile(f):
             print(f)
             df = pd.read_csv(f)
-            df = check_repeated_tweets(df)
-            # remove tweets with 'wordle' in it
-            df = remove_wordle(df)
+            total_tweets_before+=len(df)
 
             # make RT's empty
             df['text'] = df['text'].loc[~df['text'].str.startswith('RT ', na=False)]  # remove RT's
 
-            # remove and bug where & turns into "&amp;"
-            df['text'] = df['text'].apply(lambda x: remove_and_bug(x))
+            total_tweets_after += len(df)
 
-            # remove empty tweets
-            df['text'].replace('', np.nan, inplace=True)
-            df.dropna(subset=['text'], inplace=True)
+    print("before",total_tweets_before)
+    print("after",total_tweets_after)
+    print("percentage change", (100*(total_tweets_before-total_tweets_after))/total_tweets_before)
+            # df = remove_wordle(df) # remove tweets with 'wordle' in it
+            # df = check_repeated_tweets(df)
 
-            df['clean_text'] = df['text']
-
-            # remove urls
-            df['clean_text'] = df['clean_text'].apply(lambda x: remove_URL(x))
-
-            # remove hashtage
-            df['clean_text'] = df['clean_text'].apply(lambda x: remove_hashtags_mentions(x))
-
-            # lower case
-            df['clean_text'] = df['clean_text'].apply(lambda x: x.lower())
-
-            # remove non alphabet chars
-            df['clean_text'] = df['clean_text'].apply(lambda x: remove_nonalphabet(x))
-
-            # remove now empty tweets
-            df['clean_text'].replace('', np.nan, inplace=True)
-            df.dropna(subset=['clean_text'], inplace=True)
-
-            try:
-                df = delete_whitespace_tweets(df)
-            except Exception as e:
-                print("couldn't delete whitespace tweets. error:", e)
-
-            # add column of only nouns
-            df['nouns'] = df['clean_text'].apply(lambda x: get_nouns(str(x)))
-
-            # lemmatizing
-            df['nouns'] = df['nouns'].apply(lambda x:lemmatizer(str(x)))
-
-            # remove stopwords
-            df['nouns'] = df['nouns'].apply(lambda x:remove_stopwords(str(x)))
-
-            # #remove 2 char words
-            df['nouns'] = df['nouns'].apply(lambda x:remove_3char_words(str(x)))
-
-            df = remove_one_noun_tweets(df)
-            #remove now empty tweets
-            df['nouns'].replace('', np.nan, inplace=True)
-            df.dropna(subset=['nouns'], inplace=True)
-
-            df.drop(['lemm_nouns', 'non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1, inplace=True,
-                    errors='ignore')
-
-            df.to_csv(f, index=False)
+            # # remove and bug where & turns into "&amp;"
+            # df['text'] = df['text'].apply(lambda x: remove_and_bug(x))
+            #
+            # # remove empty tweets
+            # df['text'].replace('', np.nan, inplace=True)
+            # df.dropna(subset=['text'], inplace=True)
+            #
+            # df['clean_text'] = df['text']
+            #
+            # # remove urls
+            # df['clean_text'] = df['clean_text'].apply(lambda x: remove_URL(x))
+            #
+            # # remove hashtage
+            # df['clean_text'] = df['clean_text'].apply(lambda x: remove_hashtags_mentions(x))
+            #
+            # # lower case
+            # df['clean_text'] = df['clean_text'].apply(lambda x: x.lower())
+            #
+            # # remove non alphabet chars
+            # df['clean_text'] = df['clean_text'].apply(lambda x: remove_nonalphabet(x))
+            #
+            # # remove now empty tweets
+            # df['clean_text'].replace('', np.nan, inplace=True)
+            # df.dropna(subset=['clean_text'], inplace=True)
+            #
+            # try:
+            #     df = delete_whitespace_tweets(df)
+            # except Exception as e:
+            #     print("couldn't delete whitespace tweets. error:", e)
+            #
+            # # add column of only nouns
+            # df['nouns'] = df['clean_text'].apply(lambda x: get_nouns(str(x)))
+            #
+            # # lemmatizing
+            # df['nouns'] = df['nouns'].apply(lambda x:lemmatizer(str(x)))
+            #
+            # # remove stopwords
+            # df['nouns'] = df['nouns'].apply(lambda x:remove_stopwords(str(x)))
+            #
+            # # #remove 2 char words
+            # df['nouns'] = df['nouns'].apply(lambda x:remove_3char_words(str(x)))
+            #
+            # df = remove_one_noun_tweets(df)
+            # #remove now empty tweets
+            # df['nouns'].replace('', np.nan, inplace=True)
+            # df.dropna(subset=['nouns'], inplace=True)
+            #
+            # df.drop(['lemm_nouns', 'non_english', 'Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'], axis=1, inplace=True,
+            #         errors='ignore')
+            #
+            # df.to_csv(f, index=False)
 
 # run remove_empty before this
 text_preprocessing()
