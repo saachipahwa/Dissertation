@@ -3,53 +3,53 @@ from bertopic import BERTopic
 import os
 import numpy as np
 from matplotlib import pyplot as plt
-
+plt.rcParams.update({'font.size': 13})
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 0
+directory_index = 5
 directory_name = directories[directory_index]
-profession_name = "nurse"
-nr_topics = 10
+profession_name = "musician"
+nr_topics = 20
 work_topics = [2]
-chosen_topics = [0,4,6,8,9]
+chosen_topics = [0,1,5,6,7,9,10,13]
 
 #Use when plotting all topics in bar chart
 # chosen_topics = list(range(0, nr_topics))
 # for i in work_topics:
 #     del chosen_topics[i]
 
-# topic_dict =  {  0: "Twitter activity", #musicians
-#                  1: "British politics",
-#                  2: "Music projects",
-#                  3: "Sport & Lottery",
-#                  4: "Photography",
-#                  5: "Music",
-#                  6: "Thank you's",
-#                  7: "Music opinions",
-#                  8: "Festivals",
-#                  9: "Money",
-#                  10: "Christmas",
-#                  11: "Gender",
-#                  12: "Scotland",
-#                  13: "Internet videos",
-#                  14: "Tickets"}
-#
-# topic_strings = [ #musicians
-#     "0: Twitter \nactivity",
-#     "1: British \npolitics",
-#     "2: Music \nprojects",
-#     "3: Sport \n& Lottery",
-#     "4: Photography",
-#     "5: Music",
-#     "6: Thank you's",
-#     "7: Music \nopinions",
-#     "8: Festivals",
-#     "9: Money",
-#     "10: Christmas",
-#     "11: Gender",
-#     "12: Scotland",
-#     "13: Internet \nvideos",
-#     "14: Tickets"]
+topic_dict =  {  0: "Twitter activity", #musicians
+                 1: "British politics",
+                 2: "Music projects",
+                 3: "Sport & Lottery",
+                 4: "Photography",
+                 5: "Music",
+                 6: "Thank you's",
+                 7: "Music opinions",
+                 8: "Festivals",
+                 9: "Money",
+                 10: "Christmas",
+                 11: "Gender",
+                 12: "Scotland",
+                 13: "Internet videos",
+                 14: "Tickets"}
+
+topic_strings = [ #musicians
+    "0: Twitter \nactivity",
+    "1: British \npolitics",
+    "2: Music \nprojects",
+    "3: Sport \n& Lottery",
+    "4: Photography",
+    "5: Music",
+    "6: Thank you's",
+    "7: Music \nopinions",
+    "8: Festivals",
+    "9: Money",
+    "10: Christmas",
+    "11: Gender",
+    "12: Scotland",
+    "13: Internet \nvideos",
+    "14: Tickets"]
 
 # topic_dict =  {  0: "Railway industry", #rail workers
 #                  1: "Football",
@@ -74,38 +74,38 @@ chosen_topics = [0,4,6,8,9]
 #                  "9: Railways/Facebook"
 #                 ]
 
-# topic_dict =  {  0: "Thank you and wishes", #journalist
-#                  1: "Food: groceries and meals",
-#                  2: "Twitter activity",
-#                  3: "TV and music",
-#                  4: "Journalism and articles",
-#                  5: "Reading books",
-#                  6: "Photography",
-#                  7: "COVID-19 Vaccination",
-#                  8: "Pandemic restrictions",
-#                  9: "Gender violence",
-#                  10: "Ireland and Accents",
-#                  11: "Football, articles and movies",
-#                  12: "TV and podcasts",
-#                  13: "Prayers",
-#                  14: "Bloody hell and Football"}
-#
-# topic_strings = ["0: Thank you/\nwishes", #journalist
-#                  "1: Food",
-#                  "2: Twitter",
-#                  "3: TV/music",
-#                  "4: Journalism and articles",
-#                  "5: Books",
-#                  "6: Photography",
-#                  "7: Vaccines",
-#                  "8: COVID \nRestrictions",
-#                  "9: Gender \nviolence",
-#                  "10: Ireland",
-#                  "11: Football",
-#                  "12: TV",
-#                  "13: Prayers",
-#                  "14: Bloody \nhell"
-#                  ]
+topic_dict =  {  0: "Thank you and wishes", #journalist
+                 1: "Food: groceries and meals",
+                 2: "Twitter activity",
+                 3: "TV and music",
+                 4: "Journalism and articles",
+                 5: "Reading books",
+                 6: "Photography",
+                 7: "COVID-19 Vaccination",
+                 8: "Pandemic restrictions",
+                 9: "Gender violence",
+                 10: "Ireland and Accents",
+                 11: "Football, articles and movies",
+                 12: "TV and podcasts",
+                 13: "Prayers",
+                 14: "Bloody hell and Football"}
+
+topic_strings = ["0: Thank you/\nwishes", #journalist
+                 "1: Food",
+                 "2: Twitter",
+                 "3: TV/music",
+                 "4: Journalism and articles",
+                 "5: Books",
+                 "6: Photography",
+                 "7: Vaccines",
+                 "8: COVID \nRestrictions",
+                 "9: Gender \nviolence",
+                 "10: Ireland",
+                 "11: Football",
+                 "12: TV",
+                 "13: Prayers",
+                 "14: Bloody \nhell"
+                 ]
 
 # topic_dict =  {  0: "Twitter activity and commuting", #doctors
 #                  1: "Medical rotations and politics",
@@ -128,7 +128,7 @@ chosen_topics = [0,4,6,8,9]
 #                  "7: Medical \ntraining",
 #                  "8: COVID in \nschools",
 #                  "9: Family/\nchildren"]
-
+#
 # topic_dict = { 0: "Twitter activity", #for teachers
 #                 1: "School and school holidays",
 #                 2: "Good mornings and people",
@@ -139,7 +139,7 @@ chosen_topics = [0,4,6,8,9]
 #                 7: "School funding",
 #                 8: "Meals",
 #                 9: "Loving wishes"}
-
+#
 # topic_strings = [ #for teachers
 #                      "0: Twitter activity",
 #                      "1: School and school holidays",
@@ -153,29 +153,27 @@ chosen_topics = [0,4,6,8,9]
 #                    "9: Loving wishes"
 #                    ]
 
-topic_dict = {0: "Good morning", #for nurses
-              1: "Thank you's",
-              2: "Shifts",
-              3: "Congratulations",
-              4: "Expressions",
-              5: "Happy birthday",
-              6: "Exercise",
-              7: "Miscellaneous",
-              8: "General life",
-              9: "Friends & people"}
-
-topic_strings = ["0: Good morning", #for nurses
-              "1: Thank you's",
-              "2: Shifts",
-              "3: Congratulations",
-              "4: Expressions",
-              "5: Happy birthday",
-              "6: Exercise",
-              "7: Miscellaneous",
-              "8: General life",
-              "9: Friends & people"]
-
-
+# topic_dict = {0: "Good morning", #for nurses
+#               1: "Thank you's",
+#               2: "Shifts",
+#               3: "Congratulations",
+#               4: "Expressions",
+#               5: "Happy birthday",
+#               6: "Exercise",
+#               7: "Miscellaneous",
+#               8: "General life",
+#               9: "Friends & people"}
+#
+# topic_strings = ["0: Good morning", #for nurses
+#               "1: Thank you's",
+#               "2: Shifts",
+#               "3: Congratulations",
+#               "4: Expressions",
+#               "5: Happy birthday",
+#               "6: Exercise",
+#               "7: Miscellaneous",
+#               "8: General life",
+#               "9: Friends & people"]
 
 first_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv", error_bad_lines=False)
 second_lockdown_df = pd.read_csv(f"graphs/{profession_name}s/second_lockdown.csv", error_bad_lines=False)
@@ -390,14 +388,15 @@ def lockdown_Life_Work():
         control3 = [0,0]
     print("control3", control3)
 
-    lockdowns = [
+    lockdowns = ["Control for First Lockdown",
+                 "First lockdown",
                  "Control for Second Lockdown",
                  "Second Lockdown",
                  "Control for Third Lockdown",
                  "Third Lockdown"]
 
-    values = { "Work": [control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
-        "Life": [control2[0], second_lockdown[0], control3[0], third_lockdown[0]]}
+    values = { "Work": [control1[1], first_lockdown[1], control2[1], second_lockdown[1], control3[1], third_lockdown[1]],
+        "Life": [control1[0], first_lockdown[0], control2[0], second_lockdown[0], control3[0], third_lockdown[0]]}
 
     for i in range(0, len(values["Work"])):
         values["Work"][i] = values["Work"][i] * 100
@@ -408,8 +407,10 @@ def lockdown_Life_Work():
     barWidth = 0.25
 
 
-    fig, ax = plt.subplots()
-    bottom = np.zeros(4)
+    fig, ax = plt.subplots(figsize=(15,8))
+    plt.subplots_adjust(left=0.08, right=0.98, top=0.95, bottom=0.1)
+
+    bottom = np.zeros(6)
 
     for category, value in values.items():
         p = ax.bar(lockdowns, value, barWidth, label=category, bottom=bottom)
@@ -425,7 +426,7 @@ def lockdown_Life_Work():
 
     plt.show()
 
-# lockdown_Life_Work()
+lockdown_Life_Work()
 
 def lockdown_Life_Work_None():
     # first lockdown
@@ -484,7 +485,10 @@ def lockdown_Life_Work_None():
     # set width of bar
     barWidth = 0.25
 
-    fig, ax = plt.subplots()
+
+    fig, ax = plt.subplots(figsize=(15,8))
+    plt.subplots_adjust(left=0.08, right=0.98, top=0.95, bottom=0.1)
+
     bottom = np.zeros(6)
     # print(lockdowns)
     # print(values)
@@ -494,7 +498,6 @@ def lockdown_Life_Work_None():
 
     ax.set_title(f"How much did {profession_name}s tweet about Work vs Life vs Neither in each lockdown?")
     ax.legend(loc="upper right")
-
 
     # Adding Xticks
     plt.xlabel("Lockdown", fontweight ='bold', fontsize = 15)
@@ -607,6 +610,9 @@ def lockdown_topics_bar():
     br2 = [x + barWidth for x in br1]
     br3 = [x + barWidth for x in br2]
 
+    fig, ax = plt.subplots(figsize=(15,8))
+    plt.subplots_adjust(left=0.08, right=0.98, top=0.95, bottom=0.1)
+
     # Make the plot
     plt.bar(br1, first_lockdown, color ='r', width = barWidth,
             edgecolor ='grey', label = "First lockdown (26th March 2020 to 10th May 2020)")
@@ -624,4 +630,4 @@ def lockdown_topics_bar():
     plt.legend()
     plt.show()
 
-# lockdown_topics_bar()
+lockdown_topics_bar()

@@ -3,52 +3,58 @@ from bertopic import BERTopic
 import os
 import numpy as np
 from matplotlib import pyplot as plt
+plt.rcParams.update({'font.size': 12})
 
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 0
+directory_index = 5
 directory_name = directories[directory_index]
-profession_name = "nurse"
-nr_topics = 10
-work_topics = [2]
 
 # #MUSICIANS
-# top_work_terms = ['album', 'review', 'cover', 'jack', 'list', 'duet', 'year', 'poverty', 'song', 'release']
-# topic_0 = ['tweet', 'twitter', 'account', 'follower', 'timeline']
-# topic_1 = ['tory', 'corbyn', 'labour', 'party', 'union']
-# topic_3 = ['race', 'horse', 'winner', 'weight', 'chase']
-# topic_4 = ['photo', 'camera', 'photographer', 'shot', 'shape']
-# topic_5 = ['morning', 'listen', 'burg', 'ralph', 'breakfast']
-# topic_6 = ['thanks', 'thank', 'support', 'james', 'worry']
-# topic_7 = ['time', 'breath', 'breathe', 'people', 'thing']
-# topic_8 = ['festival', 'jazz', 'tree', 'glastonbury', 'plant']
-# topic_9 = ['drug', 'wage', 'talent', 'growth', 'worker']
-# topic_10 = ['christmas', 'soup', 'merry', 'xmas', 'biscuit']
-# topic_11 = ['woman', 'trans', 'argument', 'gender', 'people']
-# topic_12 = ['scotland', 'glasgow', 'kingdom', 'composer', 'independence']
-# topic_13 = ['video', 'youtube', 'channel', 'handmade', 'club']
-# topic_14 = ['ticket', 'wembley', 'stadium', 'price', 'booking']
-#
-# all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9,
-#              topic_10, topic_11, topic_12, topic_13, topic_14]
-#
-# topic_names = ["Twitter \nactivity",
-#                "British \npolitics",
-#                "Music \nprojects",
-#                "Sport \n& Lottery",
-#                "Photography",
-#                "Music",
-#                "Thank you's",
-#                "Music \nopinions",
-#                "Festivals",
-#                "Money",
-#                "Christmas",
-#                "Gender",
-#                "Scotland",
-#                "Internet \nvideos",
-#                "Tickets"]
+profession_name = "musician"
+nr_topics = 20
+work_topics = [2]
+topics = [0,1,5,6,7,9,10,13]
+top_work_terms = ['album', 'review', 'cover', 'jack', 'list', 'duet', 'year', 'poverty', 'song', 'release']
+topic_0 = ['tweet', 'twitter', 'account', 'follower', 'timeline']
+topic_1 = ['tory', 'corbyn', 'labour', 'party', 'union']
+topic_3 = ['race', 'horse', 'winner', 'weight', 'chase']
+topic_4 = ['photo', 'camera', 'photographer', 'shot', 'shape']
+topic_5 = ['morning', 'listen', 'burg', 'ralph', 'breakfast']
+topic_6 = ['thanks', 'thank', 'support', 'james', 'worry']
+topic_7 = ['time', 'breath', 'breathe', 'people', 'thing']
+topic_8 = ['festival', 'jazz', 'tree', 'glastonbury', 'plant']
+topic_9 = ['drug', 'wage', 'talent', 'growth', 'worker']
+topic_10 = ['christmas', 'soup', 'merry', 'xmas', 'biscuit']
+topic_11 = ['woman', 'trans', 'argument', 'gender', 'people']
+topic_12 = ['scotland', 'glasgow', 'kingdom', 'composer', 'independence']
+topic_13 = ['video', 'youtube', 'channel', 'handmade', 'club']
+topic_14 = ['ticket', 'wembley', 'stadium', 'price', 'booking']
+
+all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9,
+             topic_10, topic_11, topic_12, topic_13, topic_14]
+topic_names = [
+    "0: Twitter \nactivity",
+    "1: British \npolitics",
+    "2: Music \nprojects",
+    "3: Sport \n& Lottery",
+    "4: Photography",
+    "5: Music",
+    "6: Thank you's",
+    "7: Music \nopinions",
+    "8: Festivals",
+    "9: Money",
+    "10: Christmas",
+    "11: Gender",
+    "12: Scotland",
+    "13: Internet \nvideos",
+    "14: Tickets"]
 
 #JOURNALISTS
+# profession_name = "journalist"
+# nr_topics = 20
+# work_topics = [4]
+# topics = [0,1,3,5,7,8,9]
 # top_work_terms = ['journalist', 'journalism', 'paper', 'boat', 'newspaper', 'career', 'news', 'pier', 'breath', 'reminder']
 # topic_0 = ['thank', 'thanks', 'hope', 'moment', 'kind']
 # topic_1 = ['food', 'lunch', 'breakfast', 'restaurant', 'meal']
@@ -64,7 +70,7 @@ work_topics = [2]
 # topic_12 = ['episode', 'podcasts', 'series', 'podcasts', 'simpson']
 # topic_13 = ['family', 'love', 'prayer', 'psni', 'thought']
 # topic_14 = ['year', 'bloody', 'hell', 'culture', 'wifi']
-#
+
 # all_terms = [top_work_terms, topic_0, topic_1, topic_2, topic_3, topic_5, topic_6, topic_7, topic_8, topic_9,
 #              topic_10, topic_11, topic_12, topic_13, topic_14]
 #
@@ -72,7 +78,7 @@ work_topics = [2]
 #                  "Food",
 #                  "Twitter",
 #                  "TV/music",
-#                 "Journalism and articles",
+#                 "Journalism\n and\n articles",
 #                  "Books",
 #                  "Photography",
 #                  "Vaccines",
@@ -131,6 +137,10 @@ work_topics = [2]
 #                "Family/children"]
 
 #TEACHER:
+# profession_name = "teacher"
+# nr_topics = 10
+# work_topics = [1,7]
+# topics =  [2,3,4,5,6,8]
 # top_work_terms = ['holiday', 'week', 'summer', 'easter', 'bank', 'term', 'food', 'solidarity', 'school', 'recovery', 'money', 'funding', 'school', 'charity', 'donation', 'budget', 'fund', 'penny', 'cell', 'pocket']
 # topic_0 = ['tweet', 'twitter', 'account', 'people', 'reply']
 # topic_2 = ['morning']
@@ -141,40 +151,44 @@ work_topics = [2]
 # topic_8 = ['coffee', 'cake', 'chocolate', 'biscuit', 'sleep']
 # topic_9 = ['family', 'love', 'compassion', 'chair', 'thought']
 # all_terms = [top_work_terms, topic_0, topic_2, topic_3, topic_4, topic_5, topic_6, topic_8, topic_9]
-# topic_names = ["Twitter activity", #for teachers
-#                 "School and  holidays",
-#                 "Good mornings",
-#                 "Nature",
-#                 "Well wishes",
-#                 "Thank you's",
-#                 "Finances",
-#                 "School funding",
-#                 "Meals",
-#                 "Loving wishes"]
+# topic_names = ["0: Twitter\n activity", #for teachers
+#                 "1: School\n and\n holidays",
+#                 "2: Good \n mornings",
+#                 "3: Nature",
+#                 "4: Well\n wishes",
+#                 "5: Thank\n you's",
+#                 "6: Finances",
+#                 "7: School\n funding",
+#                 "8: Meals",
+#                 "9: Loving\n wishes"]
 
 # NURSES
-top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
-topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
-topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
-topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
-topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
-topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
-topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
-topic_7 = ['time', 'girl', 'something', 'article', 'kind']
-topic_8 = ['food', 'school', 'life', 'meal', 'child']
-topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
-all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
-topic_names = ["0: Good morning",
-                "1: Thank you's",
-                "2: Shifts",
-                  "3: Congratulations",
-                  "4: Expressions",
-                  "5: Happy birthday",
-                  "6: Exercise",
-                  "7: Miscellaneous",
-                  "8: General life",
-                  "9: Friends & people",
-                    ]
+# profession_name = "nurse"
+# nr_topics = 10
+# work_topics = [2]
+# topics =   [0,4,6,8,9]
+# top_work_terms = ['shift', 'night', 'tonight', 'match', 'ward', 'sleep', 'game', 'bless', 'emotion', 'today']
+# topic_0 = ['morning', 'hope', 'coffee', 'thing', 'weekend']
+# topic_1 = ['thank', 'enjoy', 'brilliant', 'support', 'thankyou']
+# topic_3 = ['congratulation', 'luck', 'award', 'jenny', 'achievement']
+# topic_4 = ['thanks', 'follow', 'work', 'welcome', 'wait']
+# topic_5 = ['birthday', 'heart', 'dance', 'treat', 'miss']
+# topic_6 = ['week', 'mile', 'start', 'monday', 'hill']
+# topic_7 = ['time', 'girl', 'something', 'article', 'kind']
+# topic_8 = ['food', 'school', 'life', 'meal', 'child']
+# topic_9 = ['friend', 'kenny', 'home', 'point', 'morning']
+# all_terms = [top_work_terms, topic_0, topic_1, topic_3, topic_4, topic_5, topic_6, topic_7, topic_8, topic_9]
+# topic_names = ["0: Good morning",
+#                 "1: Thank you's",
+#                 "2: Shifts",
+#                   "3: Congratulations",
+#                   "4: Expressions",
+#                   "5: Happy birthday",
+#                   "6: Exercise",
+#                   "7: Miscellaneous",
+#                   "8: General life",
+#                   "9: Friends & people",
+#                     ]
 
 before1 = pd.read_csv(f"graphs/{profession_name}s/before_first_lockdown.csv")
 during1 = pd.read_csv(f"graphs/{profession_name}s/first_lockdown.csv")
@@ -257,22 +271,24 @@ def freq_change_plot(df1, df2, which_lockdown, df1_label, df2_label):
 
     work = plt.scatter(y=list(workdict.keys()), x = list(workdict.values()), color = "blue")
     life = plt.scatter(y=list(lifedict.keys()), x=list(lifedict.values()), color = "orange")
+
     plt.legend((work, life),
            ('Work', 'Life'),
            loc='best',
            fontsize=12)
+    plt.subplots_adjust(left=0.2, right=0.9, top=0.9, bottom=0.1)
     plt.title(f"Frequency change {df1_label} and {df2_label} the {which_lockdown} lockdown for {profession_name}s")
     plt.xlabel("Frequency change")
     plt.ylabel("Term")
     plt.grid()
     plt.show()
-#
-# freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
-# freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
+
+freq_change_plot(before1, during1, which_lockdown="first", df1_label = "before", df2_label = "during")
+freq_change_plot(before2, during2, which_lockdown="second", df1_label = "before", df2_label = "during")
 freq_change_plot(before3, during3, which_lockdown="third", df1_label = "before", df2_label = "during")
-# freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
-# freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
-# freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
+freq_change_plot(during1, after1, which_lockdown="first", df1_label = "during", df2_label = "after")
+freq_change_plot(during2, after2, which_lockdown="second", df1_label = "during", df2_label = "after")
+freq_change_plot(during3, after3, which_lockdown="third", df1_label = "during", df2_label = "after")
 
 def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
     # first lockdown
@@ -286,7 +302,7 @@ def compare_life_work(df1, df2, which_lockdown, df1_label, df2_label):
 
     # set width of bar
     barWidth = 0.25
-    fig = plt.subplots(figsize =(12, 8))
+    fig = plt.subplots(figsize =(11, 6))
 
 
     # Set position of bar on X axis
@@ -349,8 +365,8 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     print(categories)
 
     barWidth = 0.25
-    fig = plt.subplots(figsize =(15, 8))
-
+    fig = plt.subplots(figsize =(11, 6))
+    plt.subplots_adjust(left=0.08, right=0.95, top=0.9, bottom=0.18)
     br1 = np.arange(len(df1_array))
     br2 = [x + barWidth for x in br1]
 
@@ -372,7 +388,7 @@ def compare_topics(df1, df2, topics, which_lockdown, df1_label, df2_label, colou
     plt.legend()
     plt.show()
 
-topics =  [0,4,6,8,9]
+
 compare_topics(before1, during1, topics, 'First', 'Before', 'During', 'r', 'g')
 compare_topics(before2, during2, topics, 'Second', 'Before', 'During', 'r', 'g')
 compare_topics(before3, during3, topics, 'Third', 'Before', 'During', 'r', 'g')

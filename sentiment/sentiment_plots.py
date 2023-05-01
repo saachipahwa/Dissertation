@@ -4,12 +4,12 @@ from collections import Counter
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-
+plt.rcParams.update({'font.size': 13})
 directories = ["nursetweets", "doctortweets", "teachertweets",
                "railtweets", "journalisttweets", "musiciantweets"]
-directory_index = 3
+directory_index = 5
 directory_name = directories[directory_index]
-profession_name = "rail"
+profession_name = "musician"
 nr_topics = 10
 
 before1 = pd.read_csv(f"sentiment/{profession_name}s_csvs/before_first_lockdown.csv")
